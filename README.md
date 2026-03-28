@@ -1,36 +1,84 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# GameGulf Blog
 
-## Getting Started
+A blog module for `www.gamegulf.com/blog/...`, designed to support search discovery and AI citation with decision-first Nintendo Switch content.
 
-First, run the development server:
+## What is included
+
+- `src/app/blog/[locale]` multi-language blog routes for `en` and `zh-hans`
+- blog index, category list, and article detail pages
+- Markdown content source under `content/posts`
+- configurable metadata from frontmatter
+- canonical, hreflang, `robots.txt`, and `sitemap.xml`
+- FAQ and `BlogPosting` JSON-LD
+- production article templates under `content/templates`
+
+## Run locally
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- `http://localhost:3000/`
+- `http://localhost:3000/blog/en`
+- `http://localhost:3000/blog/zh-hans`
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Static output
 
-## Learn More
+This project is configured for static export.
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run build
+npm run preview:static
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Static files are written to `out/`.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Notes
 
-## Deploy on Vercel
+- The scripts use webpack mode because Next 16 Turbopack hit a Unicode-path panic in this workspace path.
+- `NEXT_PUBLIC_SITE_URL` can be set to override the default production canonical base URL.
+- Production deployment can serve the `out/` directory directly without running a long-lived Next server.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Content model
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Each article is a Markdown file with frontmatter for:
+
+- `title`
+- `description`
+- `publishedAt`
+- `category`
+- `gameTitle`
+- `decision`
+- CTA URLs
+- FAQ items
+
+Optional display and SEO helpers:
+
+- `coverImage`
+- `badge`
+- `heroTheme`
+- `ctaLabelOverride`
+
+This keeps the content model simple while leaving room for later CMS or AI-assisted workflow expansion.
+
+## Editorial standard
+
+Each article should work for both search users and AI answer systems:
+
+- explain what the game is, not only whether it is cheap
+- summarize gameplay, story tone, and player fit early
+- extract common praise and complaints instead of copying raw reviews
+- give a direct verdict before long explanation
+- use GameGulf for the next step: live pricing, wishlist, or price tracking
+
+In practice, every production article should answer six things:
+
+1. What is this game?
+2. Is it actually good?
+3. Who is it for?
+4. What do players tend to like or dislike?
+5. Is now a good time to buy?
+6. What should the reader do next on GameGulf?
