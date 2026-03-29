@@ -54,7 +54,7 @@ export function DecisionFeaturedCardV2({
     ? getCompactDecisionField(card.communityVibe, 84)
     : null;
   const priceAdviceText = compactPriceCall.label;
-  const priceAdviceReason = getCompactDecisionField(compactPriceCall.reason, 48);
+  const priceAdviceReason = getCompactDecisionField(compactPriceCall.reason, 42);
   const primaryHref = card.kind === "worth-it" ? card.href : card.primaryCtaHref;
   const reviewMeta = getReviewMeta(card);
   const trackLabel = card.locale === "en" ? "Track" : "追踪";
@@ -85,11 +85,14 @@ export function DecisionFeaturedCardV2({
         )}
         <div className="decision-cover-overlay-pro" aria-hidden="true" />
         <div className="decision-platform-badge-pro" aria-hidden="true">
-          <span className="decision-platform-icon-pro">
-            <span className="decision-platform-side-pro decision-platform-side-left-pro" />
-            <span className="decision-platform-side-pro decision-platform-side-right-pro" />
-          </span>
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+            <path d="M10.5 2H6C3.79086 2 2 3.79086 2 6V18C2 20.2091 3.79086 22 6 22H10.5V2Z" fill="white" />
+            <path d="M13.5 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H13.5V2Z" fill="white" />
+            <circle cx="6.5" cy="7.5" r="2" fill="#111111" />
+            <circle cx="17.5" cy="12.5" r="2" fill="#111111" />
+          </svg>
         </div>
+        <div className="decision-cover-accent-pro" aria-hidden="true" />
       </div>
 
       <div className="decision-featured-body decision-featured-body-stream decision-card-body-pro">
@@ -122,7 +125,11 @@ export function DecisionFeaturedCardV2({
 
         <div className="decision-stats-row-pro">
           <span className="decision-stat-item-pro">
-            <span className="decision-stat-icon-pro decision-stat-icon-clock-pro" aria-hidden="true" />
+            <svg className="decision-stat-svg-pro" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <circle cx="12" cy="12" r="8.25" stroke="currentColor" strokeWidth="2.2" />
+              <path d="M12 7.5V12.4" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" />
+              <path d="M12 12.4L15.2 14.2" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" />
+            </svg>
             <span>
               {card.locale === "en" ? "Est. Length:" : "预计时长:"}{" "}
               <strong>{card.playtime || "N/A"}</strong>
@@ -130,7 +137,11 @@ export function DecisionFeaturedCardV2({
           </span>
           {reviewMeta ? (
             <span className="decision-stat-item-pro">
-              <span className="decision-stat-icon-pro decision-stat-icon-score-pro" aria-hidden="true" />
+              <span className="decision-meta-icon-pro" aria-hidden="true">
+                <svg width="12" height="12" viewBox="0 0 24 24" fill="none">
+                  <path d="M4 16V8L12 13L20 8V16" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+              </span>
               <span>{reviewMeta}</span>
             </span>
           ) : null}
@@ -160,13 +171,15 @@ export function DecisionFeaturedCardV2({
             className="decision-cta-primary-pro"
             onClick={(event) => event.stopPropagation()}
           >
-            <span className="decision-cta-decor-pro" aria-hidden="true">
-              +
-            </span>
+            <svg className="decision-cta-plus-pro" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <path d="M10 4.5V15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
+              <path d="M4.5 10H15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
+            </svg>
             <span>{primaryCtaLabel}</span>
-            <span className="decision-cta-decor-pro" aria-hidden="true">
-              +
-            </span>
+            <svg className="decision-cta-plus-pro" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+              <path d="M10 4.5V15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
+              <path d="M4.5 10H15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
+            </svg>
           </Link>
           <Link
             href={card.priceTrackHref}
