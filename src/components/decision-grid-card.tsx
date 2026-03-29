@@ -93,6 +93,14 @@ export function DecisionGridCard({
       </div>
 
       <div className="decision-card-body decision-card-body-pro">
+        <div className="decision-card-title-block decision-card-title-block-pro">
+          <h3>
+            <Link href={card.href} onClick={(event) => event.stopPropagation()}>
+              {displayTitle}
+            </Link>
+          </h3>
+        </div>
+
         <div className="decision-tag-row decision-tag-row-pro">
           {card.tags.slice(0, 2).map((tag) => (
             <span key={tag} className="decision-tag decision-tag-pro">
@@ -101,14 +109,7 @@ export function DecisionGridCard({
           ))}
         </div>
 
-        <div className="decision-card-title-block decision-card-title-block-pro">
-          <h3>
-            <Link href={card.href} onClick={(event) => event.stopPropagation()}>
-              {displayTitle}
-            </Link>
-          </h3>
-          <p className="decision-summary-pro">{compactWhatItIs}</p>
-        </div>
+        <p className="decision-summary-pro decision-summary-block-pro">{compactWhatItIs}</p>
 
         {compactCommunityVibe ? (
           <div className="decision-vibe-pro">
