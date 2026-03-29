@@ -7,7 +7,7 @@ import {
   getDecisionDisplayTitle,
   getCompactDecisionField,
   getCompactPriceCall,
-  getWorthItVerdictBadge,
+  getDecisionScoreChip,
 } from "@/lib/decision-card-display";
 
 type DecisionFeaturedCardV2Props = {
@@ -15,29 +15,50 @@ type DecisionFeaturedCardV2Props = {
   layout?: "default" | "worth-it-panel";
 };
 
+function formatCardDate(date: string, locale: DecisionEntryCardModel["locale"]) {
+  return new Intl.DateTimeFormat(locale === "en" ? "en-US" : "zh-CN", {
+    year: "numeric",
+    month: "numeric",
+    day: "numeric",
+  }).format(new Date(date));
+}
+
+function getReadingMeta(readingTime: string, locale: DecisionEntryCardModel["locale"]) {
+  return locale === "en" ? readingTime : `${readingTime}阅读`;
+}
+
+function getReviewMeta(card: DecisionEntryCardModel) {
+  const scoreChip = getDecisionScoreChip(card);
+
+  if (!scoreChip) {
+    return null;
+  }
+
+  const normalizedScore = scoreChip.replace(/\s*MC$/u, "");
+
+  return card.locale === "en"
+    ? `Metacritic: ${normalizedScore}`
+    : `Metacritic 评价: ${normalizedScore}`;
+}
+
 export function DecisionFeaturedCardV2({
   card,
   layout = "default",
 }: DecisionFeaturedCardV2Props) {
   const router = useRouter();
   const compactPriceCall = getCompactPriceCall(card);
-  const verdictLabel =
-    card.kind === "worth-it" ? getWorthItVerdictBadge(card) : card.recommendationBadge;
   const displayTitle = getDecisionDisplayTitle(card);
-  const compactBestFor = getCompactDecisionField(card.bestFor, 52);
+  const compactBestFor = getCompactDecisionField(card.bestFor, 62);
   const compactWhatItIs = getCompactDecisionField(card.whatItIs, 92);
   const compactCommunityVibe = card.communityVibe
     ? getCompactDecisionField(card.communityVibe, 84)
     : null;
   const priceAdviceText = compactPriceCall.label;
+  const priceAdviceReason = getCompactDecisionField(compactPriceCall.reason, 48);
   const primaryHref = card.kind === "worth-it" ? card.href : card.primaryCtaHref;
-  const verdictBadgeLabel =
-    card.locale === "en" ? verdictLabel.toUpperCase() : verdictLabel;
-  const trackLabel = "TRACK";
-  const primaryCtaLabel =
-    card.locale === "en" ? card.primaryCtaLabel.toUpperCase() : card.primaryCtaLabel;
-  const editorialLabel =
-    card.locale === "en" ? "By GameGulf Editorial AI" : "GameGulf Editorial AI";
+  const reviewMeta = getReviewMeta(card);
+  const trackLabel = card.locale === "en" ? "Track" : "追踪";
+  const primaryCtaLabel = card.primaryCtaLabel;
 
   return (
     <article
@@ -63,8 +84,11 @@ export function DecisionFeaturedCardV2({
           <div className="decision-cover-fallback-pro" aria-hidden="true" />
         )}
         <div className="decision-cover-overlay-pro" aria-hidden="true" />
-        <div className="decision-cover-badge-wrap-pro">
-          <span className="decision-cover-verdict-pro">{verdictBadgeLabel}</span>
+        <div className="decision-platform-badge-pro" aria-hidden="true">
+          <span className="decision-platform-icon-pro">
+            <span className="decision-platform-side-pro decision-platform-side-left-pro" />
+            <span className="decision-platform-side-pro decision-platform-side-right-pro" />
+          </span>
         </div>
       </div>
 
@@ -95,6 +119,22 @@ export function DecisionFeaturedCardV2({
           </div>
         ) : null}
 
+        <div className="decision-stats-row-pro">
+          <span className="decision-stat-item-pro">
+            <span className="decision-stat-icon-pro decision-stat-icon-clock-pro" aria-hidden="true" />
+            <span>
+              {card.locale === "en" ? "Est. Length:" : "预计时长:"}{" "}
+              <strong>{card.playtime || "N/A"}</strong>
+            </span>
+          </span>
+          {reviewMeta ? (
+            <span className="decision-stat-item-pro">
+              <span className="decision-stat-icon-pro decision-stat-icon-score-pro" aria-hidden="true" />
+              <span>{reviewMeta}</span>
+            </span>
+          ) : null}
+        </div>
+
         <div className="decision-core-grid-pro">
           <div className="decision-core-item-pro">
             <span className="decision-core-label-pro">
@@ -109,18 +149,8 @@ export function DecisionFeaturedCardV2({
             <span className="decision-core-value-pro decision-core-value-signal-pro">
               {priceAdviceText}
             </span>
+            <span className="decision-core-support-pro">{priceAdviceReason}</span>
           </div>
-        </div>
-
-        <div className="decision-specs-footer-pro">
-          <span className="decision-specs-length-pro">
-            <span className="decision-specs-prefix-pro">Est. Length:</span>{" "}
-            <strong>{card.playtime || "N/A"}</strong>
-          </span>
-          <span className="decision-specs-divider-pro" aria-hidden="true">
-            •
-          </span>
-          <span>{editorialLabel}</span>
         </div>
 
         <div className="decision-cta-row decision-cta-row-pro">
@@ -129,7 +159,13 @@ export function DecisionFeaturedCardV2({
             className="decision-cta-primary-pro"
             onClick={(event) => event.stopPropagation()}
           >
-            {primaryCtaLabel}
+            <span className="decision-cta-decor-pro" aria-hidden="true">
+              +
+            </span>
+            <span>{primaryCtaLabel}</span>
+            <span className="decision-cta-decor-pro" aria-hidden="true">
+              +
+            </span>
           </Link>
           <Link
             href={card.priceTrackHref}
@@ -138,6 +174,11 @@ export function DecisionFeaturedCardV2({
           >
             {trackLabel}
           </Link>
+        </div>
+
+        <div className="decision-card-footer-meta decision-card-footer-meta-pro">
+          <span>{formatCardDate(card.publishedAt, card.locale)}</span>
+          <span>{getReadingMeta(card.readingTime, card.locale)}</span>
         </div>
       </div>
     </article>
