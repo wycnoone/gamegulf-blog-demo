@@ -182,11 +182,6 @@ img {
 }
 
 .blog-page {
-  background:
-    linear-gradient(to right, #e2e8f0 1px, transparent 1px),
-    linear-gradient(to bottom, #e2e8f0 1px, transparent 1px),
-    #f4f6f8;
-  background-size: 48px 48px;
   padding: 0 0 60px;
 }
 
