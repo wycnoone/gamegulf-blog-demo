@@ -71,19 +71,6 @@ export function getCompactDecisionField(text: string, maxLength = 54) {
   return shortenText(text, maxLength);
 }
 
-function getPriceRecommendationLabel(
-  recommendation: PriceRecommendation,
-  locale: BlogLocale,
-) {
-  const labels = {
-    buy: { en: "Buy now", "zh-hans": "现在买" },
-    wait: { en: "Wait", "zh-hans": "先等等" },
-    watch: { en: "Set alert", "zh-hans": "先设提醒" },
-  };
-
-  return labels[recommendation][locale];
-}
-
 function getWorthItTitlePhrase(
   verdict: WorthItCardModel["verdict"],
   locale: BlogLocale,
@@ -186,6 +173,19 @@ export function getWorthItVerdictBadge(card: WorthItCardModel) {
 }
 
 export function getCompactPriceCall(card: DecisionEntryCardModel): CompactPriceCall {
+  const adviceLabel =
+    card.locale === "en"
+      ? {
+          buy: "Historical low, buy now",
+          wait: "Wait now, next sale ahead",
+          watch: "Set alert, discount likely soon",
+        }
+      : {
+          buy: "历史低价，立即购买",
+          wait: "先观望，等待下次折扣",
+          watch: "先设提醒，折扣信号将至",
+        };
+
   const fallbackReason =
     card.locale === "en"
       ? {
@@ -205,10 +205,7 @@ export function getCompactPriceCall(card: DecisionEntryCardModel): CompactPriceC
       : card.currentDeal || card.salePattern || card.reviewSignal || "";
 
   return {
-    label:
-      card.kind === "worth-it"
-        ? card.priceCallLabel
-        : getPriceRecommendationLabel(card.priceCall, card.locale),
+    label: adviceLabel[card.priceCall],
     reason: getCompactDecisionField(reasonSource || fallbackReason[card.priceCall], 18),
   };
 }

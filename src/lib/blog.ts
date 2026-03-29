@@ -98,6 +98,8 @@ export type BlogPost = {
   playStyle?: string;
   timeCommitment?: string;
   playMode?: string;
+  communityVibe?: string;
+  playtime?: string;
   whyNow?: string;
   currentDeal?: string;
   nearHistoricalLow?: string;
@@ -117,6 +119,8 @@ export type DecisionSearchIndex = {
   tags: string[];
   quickFilters: string[];
   listingTakeaway: string;
+  communityVibe?: string;
+  playtime?: string;
 };
 
 type DecisionCardBase = {
@@ -136,6 +140,8 @@ type DecisionCardBase = {
   consensusPraise: string;
   mainFriction: string;
   timeFit: string;
+  communityVibe?: string;
+  playtime?: string;
   priceCall: PriceRecommendation;
   priceCallLabel: string;
   confidence: "high" | "medium" | "low";
@@ -297,7 +303,7 @@ function assertPriceRecommendation(value?: string): PriceRecommendation | undefi
 function parsePost(filePath: string, locale: BlogLocale): BlogPost {
   const source = fs.readFileSync(filePath, "utf8");
   const { data, content } = matter(source);
-  const frontmatter = data as RawFrontmatter;
+  const frontmatter = data as RawFrontmatter & { performance?: string };
   const slug = path.basename(filePath, ".md");
 
   return {
@@ -344,6 +350,8 @@ function parsePost(filePath: string, locale: BlogLocale): BlogPost {
     playStyle: frontmatter.playStyle,
     timeCommitment: frontmatter.timeCommitment,
     playMode: frontmatter.playMode,
+    communityVibe: frontmatter.communityVibe || frontmatter.performance,
+    playtime: frontmatter.playtime,
     whyNow: frontmatter.whyNow,
     currentDeal: frontmatter.currentDeal,
     nearHistoricalLow: frontmatter.nearHistoricalLow,
@@ -833,6 +841,19 @@ export function getCompactDecisionField(text: string, maxLength = 54) {
 }
 
 export function getCompactPriceCall(card: DecisionEntryCardModel): CompactPriceCall {
+  const adviceLabel =
+    card.locale === "en"
+      ? {
+          buy: "Historical low, buy now",
+          wait: "Wait now, next sale ahead",
+          watch: "Set alert, discount likely soon",
+        }
+      : {
+          buy: "历史低价，立即购买",
+          wait: "先观望，等待下次折扣",
+          watch: "先设提醒，折扣信号将至",
+        };
+
   const fallbackReason =
     card.locale === "en"
       ? {
@@ -852,7 +873,7 @@ export function getCompactPriceCall(card: DecisionEntryCardModel): CompactPriceC
       : card.currentDeal || card.salePattern || card.reviewSignal || "";
 
   return {
-    label: card.priceCallLabel,
+    label: adviceLabel[card.priceCall],
     reason: getCompactDecisionField(reasonSource || fallbackReason[card.priceCall], 32),
   };
 }
@@ -942,13 +963,23 @@ function getSearchIndex(post: BlogPost): DecisionSearchIndex {
     quickFilterLabelMap[filter][post.locale].toLowerCase(),
   );
 
-  return {
+  const searchIndex: DecisionSearchIndex = {
     gameTitle: post.gameTitle.toLowerCase(),
     title: post.title.toLowerCase(),
     tags: post.tags.map((tag) => tag.toLowerCase()),
     quickFilters,
     listingTakeaway: getDisplayListingTakeaway(post).toLowerCase(),
   };
+
+  if (post.communityVibe) {
+    searchIndex.communityVibe = post.communityVibe.toLowerCase();
+  }
+
+  if (post.playtime) {
+    searchIndex.playtime = post.playtime.toLowerCase();
+  }
+
+  return searchIndex;
 }
 
 export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel {
@@ -973,6 +1004,10 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
     consensusPraise: getDisplayConsensusPraise(post),
     mainFriction: getDisplayMainFriction(post),
     timeFit: getDisplayTimeFit(post),
+    communityVibe: post.communityVibe
+      ? shortenText(post.communityVibe, 64)
+      : undefined,
+    playtime: post.playtime ? shortenText(post.playtime, 32) : undefined,
     priceCall,
     priceCallLabel: getPriceRecommendationLabel(priceCall, post.locale),
     confidence,

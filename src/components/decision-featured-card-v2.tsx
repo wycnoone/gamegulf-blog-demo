@@ -5,10 +5,8 @@ import { useRouter } from "next/navigation";
 import type { DecisionEntryCardModel } from "@/lib/blog";
 import {
   getDecisionDisplayTitle,
-  getDecisionScoreChip,
   getCompactDecisionField,
   getCompactPriceCall,
-  getFeaturedSupportField,
   getWorthItVerdictBadge,
 } from "@/lib/decision-card-display";
 
@@ -31,19 +29,24 @@ export function DecisionFeaturedCardV2({
 }: DecisionFeaturedCardV2Props) {
   const router = useRouter();
   const compactPriceCall = getCompactPriceCall(card);
-  const supportField = getFeaturedSupportField(card);
   const verdictLabel =
     card.kind === "worth-it" ? getWorthItVerdictBadge(card) : card.recommendationBadge;
-  const scoreChip = getDecisionScoreChip(card);
   const displayTitle = getDecisionDisplayTitle(card);
-  const compactBestFor = getCompactDecisionField(card.bestFor, 40);
+  const compactBestFor = getCompactDecisionField(card.bestFor, 52);
   const compactWhatItIs = getCompactDecisionField(card.whatItIs, 92);
-  const compactTimeFit = getCompactDecisionField(card.timeFit, 38);
+  const compactCommunityVibe = card.communityVibe
+    ? getCompactDecisionField(card.communityVibe, 84)
+    : null;
   const primaryHref = card.kind === "worth-it" ? card.href : card.primaryCtaHref;
+  const verdictBadgeLabel =
+    card.locale === "en" ? verdictLabel.toUpperCase() : verdictLabel;
+  const trackLabel = card.locale === "en" ? "TRACK" : "追踪";
+  const primaryCtaLabel =
+    card.locale === "en" ? card.primaryCtaLabel.toUpperCase() : card.primaryCtaLabel;
 
   return (
     <article
-      className={`decision-featured-card-v2 decision-featured-card-stream ${layout === "worth-it-panel" ? "decision-featured-card-worth-it" : ""}`}
+      className={`decision-featured-card-v2 decision-featured-card-stream decision-featured-card-pro ${layout === "worth-it-panel" ? "decision-featured-card-worth-it" : ""}`}
       role="link"
       tabIndex={0}
       onClick={() => router.push(card.href)}
@@ -54,84 +57,96 @@ export function DecisionFeaturedCardV2({
         }
       }}
     >
-      <div
-        className="decision-featured-cover"
-        style={
-          card.coverImage
-            ? {
-                backgroundImage: `linear-gradient(180deg, rgba(12, 18, 36, 0.1), rgba(12, 18, 36, 0.66)), url(${card.coverImage})`,
-              }
-            : undefined
-        }
-      >
-        <div className="decision-card-cover-top">
-          <span className="verdict-badge">{verdictLabel}</span>
-          {scoreChip ? <span className="decision-score-chip">{scoreChip}</span> : null}
+      <div className="decision-cover-pro decision-cover-pro-featured">
+        {card.coverImage ? (
+          <img
+            src={card.coverImage}
+            alt={card.gameTitle}
+            className="decision-cover-image-pro"
+          />
+        ) : (
+          <div className="decision-cover-fallback-pro" aria-hidden="true" />
+        )}
+        <div className="decision-cover-overlay-pro" aria-hidden="true" />
+        <div className="decision-cover-badge-wrap-pro">
+          <span className="decision-cover-verdict-pro">{verdictBadgeLabel}</span>
         </div>
       </div>
 
-      <div className="decision-featured-body decision-featured-body-stream">
-        <div className="decision-card-title-block">
+      <div className="decision-featured-body decision-featured-body-stream decision-card-body-pro">
+        <div className="decision-tag-row decision-tag-row-pro">
+          {card.tags.slice(0, 3).map((tag) => (
+            <span key={tag} className="decision-tag decision-tag-pro">
+              {tag}
+            </span>
+          ))}
+        </div>
+
+        <div className="decision-card-title-block decision-card-title-block-pro">
           <h3>
             <Link href={card.href} onClick={(event) => event.stopPropagation()}>
               {displayTitle}
             </Link>
           </h3>
-          <p className="decision-takeaway decision-takeaway-featured">
+          <p className="decision-summary-pro">
             {compactWhatItIs}
           </p>
         </div>
 
-        <div className="decision-card-signal-grid decision-card-signal-grid-featured">
-          <div className="decision-signal-pill">
-            <span>{card.locale === "en" ? "Best for" : "适合谁"}</span>
-            <strong>{compactBestFor}</strong>
-          </div>
-          <div className="decision-signal-pill">
-            <span>{card.locale === "en" ? "Time fit" : "时间适配"}</span>
-            <strong>{compactTimeFit}</strong>
-          </div>
-          <div className="decision-signal-pill decision-signal-pill-emphasis">
-            <span>{card.locale === "en" ? "Price call" : "价格动作"}</span>
-            <strong>
-              {compactPriceCall.label}
-              <em>{compactPriceCall.reason}</em>
-            </strong>
-          </div>
-        </div>
-
-        {supportField ? (
-          <div className="decision-featured-support">
-            <span className="decision-card-cell-label">{supportField.label}</span>
-            <p>{supportField.value}</p>
+        {compactCommunityVibe ? (
+          <div className="decision-vibe-pro">
+            <span className="decision-vibe-label-pro">
+              {card.locale === "en" ? "Player Consensus" : "玩家热评"}
+            </span>
+            <p className="decision-vibe-text-pro">&ldquo;{compactCommunityVibe}&rdquo;</p>
           </div>
         ) : null}
 
-        <div className="decision-support-row">
-          <span className="decision-support-chip">
-            {card.locale === "en" ? "Main risk" : "最大风险"}:{" "}
-            {getCompactDecisionField(card.avoidIf, 48)}
-          </span>
+        {card.playtime ? (
+          <div className="decision-length-row-pro">
+            <span className="decision-length-label-pro">
+              {card.locale === "en" ? "Est. Length" : "预计时长"}
+            </span>
+            <span className="decision-length-value-pro">{card.playtime}</span>
+          </div>
+        ) : null}
+
+        <div className="decision-core-grid-pro">
+          <div className="decision-core-item-pro">
+            <span className="decision-core-label-pro">
+              {card.locale === "en" ? "Fit" : "核心受众"}
+            </span>
+            <span className="decision-core-value-pro">{compactBestFor}</span>
+          </div>
+          <div className="decision-core-item-pro">
+            <span className="decision-core-label-pro">
+              {card.locale === "en" ? "Advice" : "购买建议"}
+            </span>
+            <span className="decision-core-value-pro decision-core-value-signal-pro">
+              {compactPriceCall.label}
+            </span>
+            <span className="decision-core-note-pro">{compactPriceCall.reason}</span>
+          </div>
         </div>
 
-        <div className="decision-cta-row">
+        <div className="decision-cta-row decision-cta-row-pro">
           <Link
             href={primaryHref}
-            className="button-link"
+            className="decision-cta-primary-pro"
             onClick={(event) => event.stopPropagation()}
           >
-            {card.primaryCtaLabel}
+            {primaryCtaLabel}
           </Link>
           <Link
             href={card.priceTrackHref}
-            className="button-link accent"
+            className="decision-cta-track-pro"
             onClick={(event) => event.stopPropagation()}
           >
-            {card.secondaryCtaLabel}
+            {trackLabel}
           </Link>
         </div>
 
-        <div className="decision-card-footer-meta">
+        <div className="decision-card-footer-meta decision-card-footer-meta-pro">
           <span>{formatCardDate(card.publishedAt, card.locale)}</span>
           <span>{card.readingTime}</span>
         </div>

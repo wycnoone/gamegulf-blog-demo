@@ -16,6 +16,8 @@ gameHref: "https://www.gamegulf.com/detail/2GhXVp3lBzO"
 membershipHref: "https://www.gamegulf.com/pricing"
 heroStat: "91 Metacritic"
 heroNote: "Playdead 口碑极强的代表作，以极准的节奏、视觉叙事和近年最有记忆点的结尾之一著称。"
+communityVibe: "短而封神，很多玩家都拿它当氛围神作标杆"
+playtime: "3h 午后短片局"
 actionBucket: "buy_now"
 quickFilters:
   - "under_20"

@@ -16,6 +16,8 @@ gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"
 membershipHref: "https://www.gamegulf.com/pricing"
 heroStat: "94 Metacritic"
 heroNote: "One of the highest-rated JRPGs on Switch, with a definitive edition that includes over 40 previously released DLC items."
+communityVibe: "P5R is the GOAT for style-heavy JRPG fans"
+playtime: "100h+ long-haul run"
 actionBucket: "buy_now"
 quickFilters:
   - "long_rpg"

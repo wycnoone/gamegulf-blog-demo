@@ -16,6 +16,8 @@ gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"
 membershipHref: "https://www.gamegulf.com/pricing"
 heroStat: "94 Metacritic"
 heroNote: "这是 Switch 上评分最高的 JRPG 之一，也是包含 40 多个已发售 DLC 的完整版本。"
+communityVibe: "P5R 天下第一，长 JRPG 的风格天花板"
+playtime: "100h+ 长线大作"
 actionBucket: "buy_now"
 quickFilters:
   - "long_rpg"

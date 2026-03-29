@@ -37,13 +37,13 @@ export function BlogShell({ locale, children }: BlogShellProps) {
           </nav>
           <div className="header-actions">
             <span className="icon-badge" aria-hidden="true">
-              ⌕
+              S
             </span>
             <span className="icon-badge" aria-hidden="true">
-              ⊚
+              A
             </span>
             <span className="icon-badge" aria-hidden="true">
-              ☺
+              U
             </span>
           </div>
         </div>
@@ -87,10 +87,10 @@ export function BlogShell({ locale, children }: BlogShellProps) {
                   : "在入手前先比较价格、判断时机，再找到更适合自己的一款游戏。"}
               </p>
               <div className="footer-socials">
-                <span className="icon-badge">f</span>
-                <span className="icon-badge">in</span>
-                <span className="icon-badge">x</span>
-                <span className="icon-badge">▶</span>
+                <span className="icon-badge">FB</span>
+                <span className="icon-badge">IN</span>
+                <span className="icon-badge">X</span>
+                <span className="icon-badge">YT</span>
               </div>
             </div>
             <div>

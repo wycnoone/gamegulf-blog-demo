@@ -16,6 +16,8 @@ gameHref: "https://www.gamegulf.com/detail/2GhXVp3lBzO"
 membershipHref: "https://www.gamegulf.com/pricing"
 heroStat: "91 Metacritic"
 heroNote: "A critically acclaimed Playdead release known for exacting pacing, visual storytelling, and one of the strongest endings in modern indie games."
+communityVibe: "A short masterpiece players keep recommending for first-timers"
+playtime: "3h one-sitting thriller"
 actionBucket: "buy_now"
 quickFilters:
   - "under_20"
