@@ -15,14 +15,6 @@ type DecisionGridCardProps = {
   layout?: "default" | "worth-it-panel";
 };
 
-function formatCardDate(date: string, locale: DecisionEntryCardModel["locale"]) {
-  return new Intl.DateTimeFormat(locale === "en" ? "en-US" : "zh-CN", {
-    year: "numeric",
-    month: "short",
-    day: "numeric",
-  }).format(new Date(date));
-}
-
 export function DecisionGridCard({
   card,
   layout = "default",
@@ -38,11 +30,14 @@ export function DecisionGridCard({
   const compactCommunityVibe = card.communityVibe
     ? getCompactDecisionField(card.communityVibe, 76)
     : null;
+  const priceAdviceText = compactPriceCall.label;
   const verdictBadgeLabel =
     card.locale === "en" ? verdictLabel.toUpperCase() : verdictLabel;
-  const trackLabel = card.locale === "en" ? "TRACK" : "追踪";
+  const trackLabel = "TRACK";
   const primaryCtaLabel =
     card.locale === "en" ? card.primaryCtaLabel.toUpperCase() : card.primaryCtaLabel;
+  const editorialLabel =
+    card.locale === "en" ? "By GameGulf Editorial AI" : "GameGulf Editorial AI";
 
   return (
     <article
@@ -75,7 +70,7 @@ export function DecisionGridCard({
 
       <div className="decision-card-body decision-card-body-pro">
         <div className="decision-tag-row decision-tag-row-pro">
-          {card.tags.slice(0, 3).map((tag) => (
+          {card.tags.slice(0, 2).map((tag) => (
             <span key={tag} className="decision-tag decision-tag-pro">
               {tag}
             </span>
@@ -88,9 +83,7 @@ export function DecisionGridCard({
               {displayTitle}
             </Link>
           </h3>
-          <p className="decision-summary-pro">
-            {compactWhatItIs}
-          </p>
+          <p className="decision-summary-pro">{compactWhatItIs}</p>
         </div>
 
         {compactCommunityVibe ? (
@@ -102,19 +95,10 @@ export function DecisionGridCard({
           </div>
         ) : null}
 
-        {card.playtime ? (
-          <div className="decision-length-row-pro">
-            <span className="decision-length-label-pro">
-              {card.locale === "en" ? "Est. Length" : "预计时长"}
-            </span>
-            <span className="decision-length-value-pro">{card.playtime}</span>
-          </div>
-        ) : null}
-
         <div className="decision-core-grid-pro">
           <div className="decision-core-item-pro">
             <span className="decision-core-label-pro">
-              {card.locale === "en" ? "Fit" : "核心受众"}
+              {card.locale === "en" ? "Best For" : "核心受众"}
             </span>
             <span className="decision-core-value-pro">{compactBestFor}</span>
           </div>
@@ -123,10 +107,20 @@ export function DecisionGridCard({
               {card.locale === "en" ? "Advice" : "购买建议"}
             </span>
             <span className="decision-core-value-pro decision-core-value-signal-pro">
-              {compactPriceCall.label}
+              {priceAdviceText}
             </span>
-            <span className="decision-core-note-pro">{compactPriceCall.reason}</span>
           </div>
+        </div>
+
+        <div className="decision-specs-footer-pro">
+          <span className="decision-specs-length-pro">
+            <span className="decision-specs-prefix-pro">Est. Length:</span>{" "}
+            <strong>{card.playtime || "N/A"}</strong>
+          </span>
+          <span className="decision-specs-divider-pro" aria-hidden="true">
+            •
+          </span>
+          <span>{editorialLabel}</span>
         </div>
 
         <div className="decision-cta-row decision-cta-row-pro">
@@ -144,11 +138,6 @@ export function DecisionGridCard({
           >
             {trackLabel}
           </Link>
-        </div>
-
-        <div className="decision-card-footer-meta decision-card-footer-meta-pro">
-          <span>{formatCardDate(card.publishedAt, card.locale)}</span>
-          <span>{card.readingTime}</span>
         </div>
       </div>
     </article>
