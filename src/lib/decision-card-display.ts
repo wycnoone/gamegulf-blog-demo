@@ -9,6 +9,7 @@ import type { BlogLocale } from "@/lib/i18n";
 type CompactPriceCall = {
   label: string;
   reason: string;
+  detail: string;
 };
 
 type FeaturedSupportField = {
@@ -35,6 +36,67 @@ function normalizeForComparison(text: string) {
     .replace(/[^\p{L}\p{N}\s]/gu, " ")
     .replace(/\s+/g, " ")
     .trim();
+}
+
+function getCompactPlatformName(platform: string) {
+  if (/nintendo\s+switch/i.test(platform)) {
+    return "Switch";
+  }
+
+  if (/playstation\s*5|ps5/i.test(platform)) {
+    return "PS5";
+  }
+
+  if (/playstation\s*4|ps4/i.test(platform)) {
+    return "PS4";
+  }
+
+  if (/xbox\s+series/i.test(platform)) {
+    return "Xbox Series";
+  }
+
+  return platform.replace(/^Nintendo\s+/i, "").trim() || platform;
+}
+
+function getPriceRegion(text: string, locale: BlogLocale) {
+  const regionPatterns = [
+    { pattern: /阿根廷区|Argentina/iu, en: "Argentina", "zh-hans": "阿根廷区" },
+    { pattern: /香港区|Hong Kong/iu, en: "Hong Kong", "zh-hans": "香港区" },
+    { pattern: /日本区|Japan/iu, en: "Japan", "zh-hans": "日本区" },
+    { pattern: /美国区|United States|USA|\bUS\b/iu, en: "United States", "zh-hans": "美国区" },
+    { pattern: /欧洲区|European regions?|Europe/iu, en: "Europe", "zh-hans": "欧洲区" },
+    { pattern: /英国区|United Kingdom|UK/iu, en: "United Kingdom", "zh-hans": "英国区" },
+  ] as const;
+
+  const match = regionPatterns.find((entry) => entry.pattern.test(text));
+
+  if (match) {
+    return match[locale];
+  }
+
+  return locale === "en" ? "Global" : "全球区";
+}
+
+function getPriceAmount(text: string, locale: BlogLocale) {
+  const match = text.match(/(?:EUR|USD|GBP|JPY|HKD)\s?\d+(?:\.\d+)?|€\s?\d+(?:\.\d+)?|\$\s?\d+(?:\.\d+)?/iu);
+
+  if (match) {
+    return match[0].replace(/\s+/gu, " ").trim();
+  }
+
+  return locale === "en" ? "Live pricing" : "实时价格";
+}
+
+function getPriceDetail(card: DecisionEntryCardModel) {
+  const detailSource = card.kind === "worth-it"
+    ? card.priceSignalText || card.whyNow
+    : card.currentDeal || card.priceSignalText || card.salePattern;
+
+  const amount = getPriceAmount(detailSource, card.locale);
+  const platform = getCompactPlatformName(card.platform);
+  const region = getPriceRegion(detailSource, card.locale);
+
+  return `${amount} · ${platform} · ${region}`;
 }
 
 function getKeywordOverlapRatio(left: string, right: string) {
@@ -207,6 +269,7 @@ export function getCompactPriceCall(card: DecisionEntryCardModel): CompactPriceC
   return {
     label: adviceLabel[card.priceCall],
     reason: getCompactDecisionField(reasonSource || fallbackReason[card.priceCall], 18),
+    detail: getPriceDetail(card),
   };
 }
 

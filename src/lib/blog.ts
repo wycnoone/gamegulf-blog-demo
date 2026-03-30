@@ -131,9 +131,11 @@ type DecisionCardBase = {
   href: string;
   gameTitle: string;
   title: string;
+  platform: string;
   coverImage?: string;
   listingTakeaway: string;
   reviewSignal?: string;
+  priceSignalText: string;
   whatItIs: string;
   bestFor: string;
   avoidIf: string;
@@ -995,9 +997,11 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
     href: `/blog/${post.locale}/${post.category}/${post.slug}`,
     gameTitle: post.gameTitle,
     title: post.title,
+    platform: post.platform,
     coverImage: post.coverImage,
     listingTakeaway: getDisplayListingTakeaway(post),
     reviewSignal: getDisplayReviewSignal(post),
+    priceSignalText: getDisplayCurrentDeal(post),
     whatItIs: getDisplayWhatItIs(post),
     bestFor: getDisplayFitLabel(post),
     avoidIf: getDisplayAvoidIf(post),

@@ -15,16 +15,18 @@ type DecisionFeaturedCardV2Props = {
   layout?: "default" | "worth-it-panel";
 };
 
-function formatCardDate(date: string, locale: DecisionEntryCardModel["locale"]) {
-  return new Intl.DateTimeFormat(locale === "en" ? "en-US" : "zh-CN", {
+function formatCardDate(date: string) {
+  return new Intl.DateTimeFormat("en-US", {
     year: "numeric",
-    month: "numeric",
+    month: "short",
     day: "numeric",
   }).format(new Date(date));
 }
 
-function getReadingMeta(readingTime: string, locale: DecisionEntryCardModel["locale"]) {
-  return locale === "en" ? readingTime : `${readingTime}阅读`;
+function getReadingMeta(readingTime: string) {
+  const minutes = readingTime.match(/\d+/u)?.[0];
+
+  return minutes ? `${minutes} min read` : readingTime;
 }
 
 function getReviewMeta(card: DecisionEntryCardModel) {
@@ -54,7 +56,7 @@ export function DecisionFeaturedCardV2({
     ? getCompactDecisionField(card.communityVibe, 84)
     : null;
   const priceAdviceText = compactPriceCall.label;
-  const priceAdviceReason = getCompactDecisionField(compactPriceCall.reason, 42);
+  const priceAdviceDetail = compactPriceCall.detail;
   const primaryHref = card.kind === "worth-it" ? card.href : card.primaryCtaHref;
   const reviewMeta = getReviewMeta(card);
   const trackLabel = card.locale === "en" ? "Track" : "追踪";
@@ -83,15 +85,6 @@ export function DecisionFeaturedCardV2({
         ) : (
           <div className="decision-cover-fallback-pro" aria-hidden="true" />
         )}
-        <div className="decision-cover-overlay-pro" aria-hidden="true" />
-        <div className="decision-platform-badge-pro" aria-hidden="true">
-          <svg width="24" height="24" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
-            <path d="M10.5 2H6C3.79086 2 2 3.79086 2 6V18C2 20.2091 3.79086 22 6 22H10.5V2Z" fill="white" />
-            <path d="M13.5 2H18C20.2091 2 22 3.79086 22 6V18C22 20.2091 20.2091 22 18 22H13.5V2Z" fill="white" />
-            <circle cx="6.5" cy="7.5" r="2" fill="#111111" />
-            <circle cx="17.5" cy="12.5" r="2" fill="#111111" />
-          </svg>
-        </div>
         <div className="decision-cover-accent-pro" aria-hidden="true" />
       </div>
 
@@ -161,7 +154,7 @@ export function DecisionFeaturedCardV2({
             <span className="decision-core-value-pro decision-core-value-signal-pro">
               {priceAdviceText}
             </span>
-            <span className="decision-core-support-pro">{priceAdviceReason}</span>
+            <span className="decision-core-support-pro">{priceAdviceDetail}</span>
           </div>
         </div>
 
@@ -191,8 +184,8 @@ export function DecisionFeaturedCardV2({
         </div>
 
         <div className="decision-card-footer-meta decision-card-footer-meta-pro">
-          <span>{formatCardDate(card.publishedAt, card.locale)}</span>
-          <span>{getReadingMeta(card.readingTime, card.locale)}</span>
+          <span>{formatCardDate(card.publishedAt)}</span>
+          <span>{getReadingMeta(card.readingTime)}</span>
         </div>
       </div>
     </article>
