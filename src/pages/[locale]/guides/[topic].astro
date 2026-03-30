@@ -1,0 +1,123 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import BlogShell from '@/components/BlogShell.astro';
+import { TopicCardGrid } from '@/components/TopicCardGrid';
+import {
+  blogBasePath,
+  defaultOgImage,
+  getDecisionEntryCardsByTopic,
+  getLocaleAlternates,
+  siteUrl,
+} from '@/lib/blog';
+import { isLocale, locales, type BlogLocale } from '@/lib/i18n';
+import { topics, type TopicDefinition } from '@/lib/topics';
+
+export async function getStaticPaths() {
+  const paths: { params: { locale: string; topic: string }; props: { topic: TopicDefinition } }[] = [];
+
+  for (const locale of locales) {
+    for (const topic of topics) {
+      const cards = await getDecisionEntryCardsByTopic(locale, topic.filter);
+      if (cards.length > 0) {
+        paths.push({
+          params: { locale, topic: topic.slug },
+          props: { topic },
+        });
+      }
+    }
+  }
+
+  return paths;
+}
+
+const { locale, topic: topicSlug } = Astro.params;
+const { topic } = Astro.props;
+
+if (!isLocale(locale)) {
+  return Astro.redirect('/blog/404');
+}
+
+const typedLocale = locale as BlogLocale;
+const cards = await getDecisionEntryCardsByTopic(typedLocale, topic.filter);
+const path = `${blogBasePath}/${typedLocale}/guides/${topic.slug}`;
+
+const alternates = getLocaleAlternates(
+  Object.fromEntries(locales.map((l) => [l, `${blogBasePath}/${l}/guides/${topic.slug}`])),
+);
+
+const otherTopics = topics.filter((t) => t.slug !== topic.slug);
+
+const breadcrumbSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Blog', item: `${siteUrl}${blogBasePath}/${typedLocale}` },
+    { '@type': 'ListItem', position: 2, name: topic.title[typedLocale], item: `${siteUrl}${path}` },
+  ],
+};
+
+const collectionSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: topic.title[typedLocale],
+  description: topic.description[typedLocale],
+  url: `${siteUrl}${path}`,
+  mainEntity: {
+    '@type': 'ItemList',
+    numberOfItems: cards.length,
+    itemListElement: cards.map((card, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: card.title,
+      url: `${siteUrl}${card.href}`,
+    })),
+  },
+};
+---
+
+<BaseLayout
+  title={topic.title[typedLocale]}
+  description={topic.description[typedLocale]}
+  lang={typedLocale === 'zh-hans' ? 'zh-Hans' : 'en'}
+  canonical={path}
+  ogImage={defaultOgImage}
+  alternates={alternates}
+  jsonLd={[collectionSchema, breadcrumbSchema]}
+>
+  <BlogShell locale={typedLocale}>
+    <section class="topic-page section-block">
+      <header class="decision-category-hero section-block">
+        <p class="eyebrow">
+          {typedLocale === 'en' ? 'GameGulf Guide' : 'GameGulf 指南'}
+        </p>
+        <h1>{topic.title[typedLocale]}</h1>
+        <p class="worth-it-hero-copy">{topic.intro[typedLocale]}</p>
+      </header>
+
+      <TopicCardGrid cards={cards} locale={typedLocale} client:load />
+
+      {otherTopics.length > 0 && (
+        <section class="section-block topic-related-section">
+          <div class="section-head">
+            <div>
+              <h2>{typedLocale === 'en' ? 'Browse more guides' : '浏览更多指南'}</h2>
+              <p>
+                {typedLocale === 'en'
+                  ? 'Explore Switch buying guides by topic.'
+                  : '按话题浏览更多 Switch 购买指南。'}
+              </p>
+            </div>
+          </div>
+          <div class="topic-link-grid">
+            {otherTopics.map((t) => (
+              <a href={`${blogBasePath}/${typedLocale}/guides/${t.slug}`} class="topic-link-card">
+                <strong>{t.label[typedLocale]}</strong>
+                <span>{t.description[typedLocale].slice(0, 60)}…</span>
+              </a>
+            ))}
+          </div>
+        </section>
+      )}
+    </section>
+  </BlogShell>
+</BaseLayout>

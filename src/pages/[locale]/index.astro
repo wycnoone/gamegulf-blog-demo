@@ -1,0 +1,48 @@
+---
+import BaseLayout from '@/layouts/BaseLayout.astro';
+import BlogShell from '@/components/BlogShell.astro';
+import { DecisionHomeHub } from '@/components/DecisionHomeHub';
+import {
+  blogBasePath,
+  defaultOgImage,
+  getDecisionEntryCards,
+  getLocaleAlternates,
+  siteUrl,
+} from '@/lib/blog';
+import { isLocale, locales, type BlogLocale } from '@/lib/i18n';
+
+export function getStaticPaths() {
+  return locales.map((locale) => ({ params: { locale } }));
+}
+
+const { locale } = Astro.params;
+
+if (!isLocale(locale)) {
+  return Astro.redirect('/blog/404');
+}
+
+const typedLocale = locale as BlogLocale;
+const cards = await getDecisionEntryCards(typedLocale);
+
+const titleText = typedLocale === 'en' ? 'Switch Buying Guides' : 'Switch 购买指南';
+const descText = typedLocale === 'en'
+  ? 'Figure out what to buy, what to wait on, and what belongs on an alert list before you spend.'
+  : '帮助玩家判断买什么、什么时候买、什么值得等，再决定是继续读文章、看价格还是先开启提醒。';
+const path = `${blogBasePath}/${typedLocale}`;
+const alternates = getLocaleAlternates(
+  Object.fromEntries(locales.map((l) => [l, `${blogBasePath}/${l}`])),
+);
+---
+
+<BaseLayout
+  title={titleText}
+  description={descText}
+  lang={typedLocale === 'zh-hans' ? 'zh-Hans' : 'en'}
+  canonical={path}
+  ogImage={defaultOgImage}
+  alternates={alternates}
+>
+  <BlogShell locale={typedLocale}>
+    <DecisionHomeHub locale={typedLocale} cards={cards} client:load />
+  </BlogShell>
+</BaseLayout>
