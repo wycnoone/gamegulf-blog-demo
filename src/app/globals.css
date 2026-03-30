@@ -1081,13 +1081,13 @@ img {
 
 .decision-cover-pro {
   position: relative;
-  min-height: 224px;
+  height: 196px;
   overflow: hidden;
   background: linear-gradient(145deg, #111827 0%, #1f2937 100%);
 }
 
 .decision-cover-pro-featured {
-  min-height: 224px;
+  height: 196px;
 }
 
 .decision-cover-image-pro {
@@ -1140,14 +1140,14 @@ img {
 
 .decision-card-body-pro {
   gap: 0;
-  padding: 20px 20px 18px;
+  padding: 18px 18px 16px;
 }
 
 .decision-tag-row-pro {
   display: flex;
   flex-wrap: wrap;
-  gap: 8px;
-  margin-bottom: 14px;
+  gap: 7px;
+  margin-bottom: 12px;
 }
 
 .decision-tag-pro {
@@ -1171,7 +1171,7 @@ img {
   line-height: 1.2;
   font-weight: 900;
   letter-spacing: -0.02em;
-  margin: 0 0 14px;
+  margin: 0 0 10px;
   color: #111827;
 }
 
@@ -1192,14 +1192,14 @@ img {
 }
 
 .decision-summary-block-pro {
-  margin-bottom: 18px;
+  margin-bottom: 14px;
 }
 
 .decision-vibe-pro {
   display: grid;
   gap: 4px;
-  margin-bottom: 18px;
-  padding: 14px 16px;
+  margin-bottom: 14px;
+  padding: 12px 14px;
   border-radius: 16px;
   border: 1px solid #dce6fb;
   background: #f0f5ff;
@@ -1225,9 +1225,9 @@ img {
 .decision-stats-row-pro {
   display: flex;
   flex-wrap: wrap;
-  gap: 16px;
+  gap: 14px;
   align-items: center;
-  margin-bottom: 18px;
+  margin-bottom: 14px;
   color: #1f2937;
   font-size: 0.88rem;
   font-weight: 700;
@@ -1264,8 +1264,8 @@ img {
 .decision-core-grid-pro {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 18px 24px;
-  margin-bottom: 22px;
+  gap: 14px 20px;
+  margin-bottom: 18px;
 }
 
 .decision-core-item-pro {
@@ -1311,8 +1311,8 @@ img {
 
 .decision-cta-row-pro {
   margin-top: auto;
-  gap: 12px;
-  margin-bottom: 14px;
+  gap: 10px;
+  margin-bottom: 12px;
 }
 
 .decision-cta-primary-pro,
@@ -2253,11 +2253,11 @@ img {
   }
 
   .decision-cover-pro {
-    min-height: 156px;
+    height: 140px;
   }
 
   .decision-cover-pro-featured {
-    min-height: 168px;
+    height: 144px;
   }
 
   .decision-hardcore-layer {
@@ -2305,11 +2305,11 @@ img {
   .decision-card-title-block-pro h3 {
     font-size: 1.4rem;
     line-height: 1.22;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
   }
 
   .decision-summary-block-pro {
-    margin-bottom: 14px;
+    margin-bottom: 12px;
   }
 
   .decision-home-hero,
@@ -2393,7 +2393,7 @@ img {
 
   .decision-stats-row-pro {
     gap: 12px;
-    margin-bottom: 16px;
+    margin-bottom: 12px;
     font-size: 0.8rem;
   }
 
@@ -2408,7 +2408,7 @@ img {
   }
 
   .decision-cta-row-pro {
-    gap: 8px;
+    gap: 7px;
     flex-direction: column;
   }
 
