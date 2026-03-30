@@ -617,18 +617,6 @@ img {
   gap: 6px;
 }
 
-.decision-tag-meme {
-  min-height: 24px;
-  padding: 0 9px;
-  border-radius: 8px;
-  border-color: rgba(40, 87, 255, 0.2);
-  background: var(--brand-soft);
-  color: var(--brand);
-  font-size: 0.68rem;
-  font-weight: 700;
-  letter-spacing: 0.01em;
-}
-
 .decision-cta-row {
   display: flex;
   flex-wrap: wrap;
@@ -645,231 +633,6 @@ img {
   text-underline-offset: 0.18em;
 }
 
-.decision-card-head {
-  display: flex;
-  justify-content: space-between;
-  align-items: start;
-  gap: 12px;
-}
-
-.decision-grid-card-stream,
-.decision-featured-card-stream {
-  padding: 0;
-  overflow: hidden;
-}
-
-.decision-card-cover {
-  min-height: 164px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-  gap: 14px;
-  padding: 18px;
-  background:
-    radial-gradient(circle at top right, rgba(255, 255, 255, 0.22), transparent 28%),
-    linear-gradient(145deg, #8cc7ff 0%, #4a77ff 46%, #2a58ff 100%);
-  background-size: cover;
-  background-position: center;
-  color: #ffffff;
-}
-
-.decision-grid-card-meme {
-  position: relative;
-  transition: transform 180ms ease, box-shadow 180ms ease;
-}
-
-.decision-grid-card-meme:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--shadow-md);
-}
-
-.decision-card-cover-meme {
-  position: relative;
-  min-height: 188px;
-  transition: transform 320ms ease;
-}
-
-.decision-grid-card-meme:hover .decision-card-cover-meme {
-  transform: scale(1.03);
-}
-
-.decision-hardcore-layer {
-  position: absolute;
-  right: 12px;
-  bottom: 12px;
-  display: flex;
-  flex-direction: column;
-  align-items: flex-end;
-  gap: 6px;
-}
-
-.decision-hardcore-chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  min-height: 22px;
-  padding: 0 8px;
-  border-radius: 8px;
-  border: 1px solid rgba(255, 255, 255, 0.2);
-  background: rgba(8, 12, 22, 0.4);
-  color: rgba(255, 255, 255, 0.95);
-  backdrop-filter: blur(8px);
-  font-size: 0.68rem;
-  font-weight: 700;
-  letter-spacing: 0.01em;
-}
-
-.decision-card-cover-top {
-  display: flex;
-  justify-content: space-between;
-  align-items: flex-start;
-  gap: 10px;
-}
-
-.decision-confidence-chip-on-cover {
-  color: rgba(255, 255, 255, 0.86);
-}
-
-.decision-card-body,
-.decision-featured-body-stream {
-  display: grid;
-  gap: 12px;
-  padding: 18px;
-}
-
-.decision-card-body-meme {
-  gap: 14px;
-}
-
-.decision-takeaway-stream {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  overflow: hidden;
-  font-size: 1rem;
-  font-weight: 600;
-  line-height: 1.52;
-}
-
-.decision-takeaway-meme {
-  color: var(--muted-strong);
-  font-size: 0.9rem;
-  font-style: italic;
-  line-height: 1.55;
-}
-
-.decision-card-signal-grid {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 10px;
-}
-
-.decision-card-signal-grid-meme {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
-.decision-card-signal-grid-meme .decision-signal-pill {
-  min-height: 84px;
-  padding: 10px 12px;
-  border-radius: 14px;
-}
-
-.decision-card-signal-grid-meme .decision-signal-pill strong {
-  -webkit-line-clamp: 1;
-  line-clamp: 1;
-  font-size: 0.83rem;
-}
-
-.decision-card-signal-grid-meme .decision-signal-pill em {
-  margin-top: 3px;
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
-  line-clamp: 1;
-  overflow: hidden;
-  font-size: 0.72rem;
-  font-weight: 500;
-  opacity: 0.85;
-}
-
-.decision-signal-pill {
-  display: grid;
-  gap: 6px;
-  min-height: 92px;
-  padding: 12px 14px;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  background: linear-gradient(180deg, #ffffff 0%, #f8faff 100%);
-}
-
-.decision-signal-pill span {
-  color: var(--brand);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
-.decision-signal-pill strong {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  overflow: hidden;
-  color: var(--muted-strong);
-  font-size: 0.92rem;
-  line-height: 1.42;
-}
-
-.decision-signal-pill-emphasis {
-  border-color: rgba(40, 87, 255, 0.14);
-  background: linear-gradient(180deg, #f8faff 0%, #eff4ff 100%);
-}
-
-.decision-signal-pill-emphasis strong {
-  color: var(--text);
-}
-
-.decision-signal-pill em {
-  display: block;
-  margin-top: 4px;
-  color: var(--muted-strong);
-  font-size: 0.8rem;
-  font-style: normal;
-  font-weight: 600;
-  line-height: 1.35;
-}
-
-.decision-support-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  align-items: center;
-}
-
-.decision-support-chip {
-  display: inline-flex;
-  align-items: center;
-  min-height: 32px;
-  padding: 0 12px;
-  border-radius: 999px;
-  background: var(--surface-soft);
-  border: 1px solid var(--line);
-  color: var(--muted-strong);
-  font-size: 0.82rem;
-  font-weight: 600;
-}
-
-.decision-card-footer-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  color: #8f98ad;
-  font-size: 0.77rem;
-  line-height: 1.35;
-}
-
 .decision-grid-card-worth-it {
   gap: 12px;
   padding: 18px;
@@ -880,187 +643,6 @@ img {
   background:
     radial-gradient(circle at top right, rgba(40, 87, 255, 0.08), transparent 30%),
     #ffffff;
-}
-
-.decision-featured-body-worth-it {
-  gap: 16px;
-  padding: 22px;
-}
-
-.decision-card-verdict-bar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  gap: 10px;
-  padding-bottom: 10px;
-  border-bottom: 1px solid var(--line);
-}
-
-.decision-confidence-chip {
-  color: var(--muted);
-  font-size: 0.8rem;
-  font-weight: 600;
-}
-
-.decision-card-title-block {
-  display: grid;
-  gap: 10px;
-}
-
-.decision-card-title-block-meme h3 {
-  font-size: 1.12rem;
-  line-height: 1.24;
-}
-
-.decision-card-title-block-meme h3 a:hover {
-  color: var(--brand);
-}
-
-.decision-card-title-block h3 {
-  font-size: 1.42rem;
-  line-height: 1.12;
-  font-weight: 800;
-}
-
-.decision-takeaway-compact,
-.decision-takeaway-featured {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  overflow: hidden;
-  color: var(--text);
-}
-
-.decision-takeaway-compact {
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  font-size: 1.05rem;
-  font-weight: 700;
-  line-height: 1.42;
-}
-
-.decision-takeaway-featured {
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  font-size: 1.06rem;
-  font-weight: 600;
-  line-height: 1.55;
-}
-
-.decision-card-grid-2x2 {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 10px;
-}
-
-.decision-card-cell {
-  display: grid;
-  gap: 6px;
-  min-height: 108px;
-  padding: 12px 14px;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  background: var(--surface-soft);
-}
-
-.decision-card-grid-2x2-featured .decision-card-cell {
-  min-height: 118px;
-}
-
-.decision-card-cell-emphasis {
-  border-color: rgba(40, 87, 255, 0.14);
-  background: linear-gradient(180deg, #f8faff 0%, #eff4ff 100%);
-}
-
-.decision-card-cell-label {
-  color: var(--brand);
-  font-size: 0.72rem;
-  font-weight: 700;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
-
-.decision-card-cell p {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
-  overflow: hidden;
-  color: var(--muted-strong);
-  font-size: 0.93rem;
-  line-height: 1.5;
-}
-
-.decision-card-price-call {
-  display: grid;
-  gap: 4px;
-}
-
-.decision-card-price-call strong {
-  color: var(--text);
-  font-size: 0.96rem;
-  font-weight: 700;
-}
-
-.decision-card-price-call span {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  overflow: hidden;
-  color: var(--muted-strong);
-  font-size: 0.88rem;
-  line-height: 1.42;
-}
-
-.decision-featured-support {
-  display: grid;
-  gap: 8px;
-  padding: 12px 14px;
-  border: 1px solid var(--line);
-  border-radius: 18px;
-  background: linear-gradient(180deg, #ffffff 0%, #f8faff 100%);
-}
-
-.decision-featured-support p {
-  display: -webkit-box;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
-  overflow: hidden;
-  color: var(--muted-strong);
-  line-height: 1.48;
-}
-
-.decision-card-footer-meta {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px;
-  color: #9ca4b6;
-  font-size: 0.74rem;
-  line-height: 1.35;
-}
-
-.decision-cta-primary-meme {
-  background: #111827;
-  box-shadow: none;
-}
-
-.decision-cta-primary-meme:hover {
-  background: var(--brand);
-}
-
-.decision-cta-secondary-meme {
-  border-color: var(--line-strong);
-}
-
-.decision-cta-secondary-meme:hover {
-  border-color: var(--brand);
-  color: var(--brand);
-}
-
-.decision-card-footer-meta-meme {
-  padding-top: 10px;
-  border-top: 1px solid var(--line);
 }
 
 .decision-grid-card-pro,
@@ -2058,17 +1640,12 @@ img {
     font-size: clamp(2rem, 7vw, 3rem);
   }
 
-  .decision-card-head,
   .decision-cta-row {
     align-items: stretch;
     flex-direction: column;
   }
 
   .decision-detail-row {
-    grid-template-columns: 1fr;
-  }
-
-  .decision-card-signal-grid {
     grid-template-columns: 1fr;
   }
 
@@ -2215,41 +1792,13 @@ img {
     text-align: center;
   }
 
-  .decision-card-head {
-    gap: 8px;
-  }
-
   .decision-grid-card,
   .decision-featured-body {
     gap: 12px;
   }
 
-  .decision-card-body,
-  .decision-featured-body-stream {
-    gap: 12px;
-  }
-
   .decision-grid-card-worth-it {
     gap: 10px;
-  }
-
-  .decision-grid-card h3 {
-    font-size: 1.18rem;
-    line-height: 1.24;
-  }
-
-  .decision-featured-cover h3 {
-    font-size: 1.35rem;
-    line-height: 1.14;
-  }
-
-  .decision-card-cover {
-    min-height: 148px;
-    padding: 16px;
-  }
-
-  .decision-card-cover-meme {
-    min-height: 164px;
   }
 
   .decision-cover-pro {
@@ -2260,25 +1809,9 @@ img {
     height: 144px;
   }
 
-  .decision-hardcore-layer {
-    right: 10px;
-    bottom: 10px;
-  }
-
-  .decision-hardcore-chip {
-    min-height: 20px;
-    padding: 0 7px;
-    font-size: 0.64rem;
-  }
-
   .decision-takeaway {
     font-size: 0.98rem;
     line-height: 1.5;
-  }
-
-  .decision-takeaway-compact,
-  .decision-takeaway-featured {
-    font-size: 1rem;
   }
 
   .decision-tag-row {
@@ -2288,12 +1821,6 @@ img {
   .decision-tag {
     min-height: 28px;
     font-size: 0.76rem;
-  }
-
-  .decision-tag-meme {
-    min-height: 22px;
-    padding: 0 8px;
-    font-size: 0.64rem;
   }
 
   .decision-tag-pro {
@@ -2342,43 +1869,8 @@ img {
     padding: 0;
   }
 
-  .decision-grid-card-stream {
-    padding: 0;
-  }
-
   .decision-grid-card-worth-it {
     padding: 16px;
-  }
-
-  .decision-featured-body-worth-it {
-    padding: 18px;
-    gap: 14px;
-  }
-
-  .decision-card-grid-2x2 {
-    gap: 8px;
-  }
-
-  .decision-card-cell {
-    min-height: 96px;
-    padding: 10px 12px;
-  }
-
-  .decision-card-cell p {
-    font-size: 0.88rem;
-  }
-
-  .decision-signal-pill {
-    min-height: auto;
-    padding: 10px 12px;
-  }
-
-  .decision-signal-pill strong {
-    font-size: 0.88rem;
-  }
-
-  .decision-card-signal-grid-meme {
-    grid-template-columns: 1fr;
   }
 
   .decision-core-grid-pro {

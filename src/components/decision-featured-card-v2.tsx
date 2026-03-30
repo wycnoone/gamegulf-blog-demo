@@ -64,7 +64,7 @@ export function DecisionFeaturedCardV2({
 
   return (
     <article
-      className={`decision-featured-card-v2 decision-featured-card-stream decision-featured-card-pro ${layout === "worth-it-panel" ? "decision-featured-card-worth-it" : ""}`}
+      className={`decision-featured-card-v2 decision-featured-card-pro ${layout === "worth-it-panel" ? "decision-featured-card-worth-it" : ""}`}
       role="link"
       tabIndex={0}
       onClick={() => router.push(card.href)}
@@ -88,8 +88,8 @@ export function DecisionFeaturedCardV2({
         <div className="decision-cover-accent-pro" aria-hidden="true" />
       </div>
 
-      <div className="decision-featured-body decision-featured-body-stream decision-card-body-pro">
-        <div className="decision-card-title-block decision-card-title-block-pro">
+      <div className="decision-featured-body decision-card-body-pro">
+        <div className="decision-card-title-block-pro">
           <h3>
             <Link href={card.href} onClick={(event) => event.stopPropagation()}>
               {displayTitle}
@@ -183,7 +183,7 @@ export function DecisionFeaturedCardV2({
           </Link>
         </div>
 
-        <div className="decision-card-footer-meta decision-card-footer-meta-pro">
+        <div className="decision-card-footer-meta-pro">
           <span>{formatCardDate(card.publishedAt)}</span>
           <span>{getReadingMeta(card.readingTime)}</span>
         </div>

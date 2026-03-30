@@ -64,7 +64,7 @@ export function DecisionGridCard({
 
   return (
     <article
-      className={`decision-grid-card decision-grid-card-stream decision-grid-card-pro ${layout === "worth-it-panel" ? "decision-grid-card-worth-it" : ""}`}
+      className={`decision-grid-card decision-grid-card-pro ${layout === "worth-it-panel" ? "decision-grid-card-worth-it" : ""}`}
       role="link"
       tabIndex={0}
       onClick={() => router.push(card.href)}
@@ -88,8 +88,8 @@ export function DecisionGridCard({
         <div className="decision-cover-accent-pro" aria-hidden="true" />
       </div>
 
-      <div className="decision-card-body decision-card-body-pro">
-        <div className="decision-card-title-block decision-card-title-block-pro">
+      <div className="decision-card-body-pro">
+        <div className="decision-card-title-block-pro">
           <h3>
             <Link href={card.href} onClick={(event) => event.stopPropagation()}>
               {displayTitle}
@@ -183,7 +183,7 @@ export function DecisionGridCard({
           </Link>
         </div>
 
-        <div className="decision-card-footer-meta decision-card-footer-meta-pro">
+        <div className="decision-card-footer-meta-pro">
           <span>{formatCardDate(card.publishedAt)}</span>
           <span>{getReadingMeta(card.readingTime)}</span>
         </div>
