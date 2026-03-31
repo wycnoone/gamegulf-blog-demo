@@ -81,7 +81,6 @@ gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"
 membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/1740987626994180329071.jpeg"
 heroTheme: "brand"
-ctaLabelOverride: "Read decision guide"
 faq:
   - question: "Is Hades worth buying on Nintendo Switch in 2026?"
     answer: "Hades is absolutely worth buying on Switch — it runs at 60 fps, fits handheld play perfectly, and delivers a 93-Metacritic roguelike experience. As of March 2026, GameGulf shows the global low at €0.67, making it one of the strongest value buys on the platform."

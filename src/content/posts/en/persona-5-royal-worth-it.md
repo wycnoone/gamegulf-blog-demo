@@ -82,7 +82,6 @@ gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"
 membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/1740988102259130354820.jpeg"
 heroTheme: "brand"
-ctaLabelOverride: "Read decision guide"
 faq:
   - question: "Is Persona 5 Royal worth buying on Nintendo Switch in 2026?"
     answer: "Persona 5 Royal is worth buying on Switch if you enjoy turn-based JRPGs with social-sim elements and long-form storytelling. At sale prices tracked on GameGulf as of March 2026, the cost per hour of content drops below EUR 0.15 — one of the strongest value ratios on Switch."

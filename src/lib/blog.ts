@@ -487,6 +487,13 @@ function getSearchIndex(post: BlogPost): DecisionSearchIndex {
   };
 }
 
+/** Primary card CTA always opens the decision article; pricing is the secondary "Track" link. */
+function getPrimaryCtaLabel(post: BlogPost): string {
+  const o = post.ctaLabelOverride?.trim();
+  if (o) return o;
+  return post.locale === 'en' ? 'Read decision guide' : '查看判断';
+}
+
 export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel {
   const verdict = post.verdict || getFallbackVerdict(post);
   const actionBucket = inferActionBucket(post, verdict);
@@ -535,7 +542,7 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
       verdict,
       verdictBadge: getVerdictLabel(verdict, post.locale),
       whyNow: getDisplayWhyNow(post),
-      primaryCtaLabel: post.locale === 'en' ? 'Read decision' : '查看判断',
+      primaryCtaLabel: getPrimaryCtaLabel(post),
       secondaryCtaLabel: post.locale === 'en' ? 'Set alert' : '开启提醒',
     };
   }
@@ -547,8 +554,8 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
     currentDeal: getDisplayCurrentDeal(post),
     nearHistoricalLow: getDisplayNearHistoricalLow(post),
     salePattern: getDisplaySalePattern(post),
-    primaryCtaLabel: priceCall === 'buy' ? (post.locale === 'en' ? 'View pricing' : '查看价格') : (post.locale === 'en' ? 'See price signal' : '查看价格信号'),
-    primaryCtaHref: priceCall === 'buy' ? post.gameHref : post.priceTrackHref,
+    primaryCtaLabel: getPrimaryCtaLabel(post),
+    primaryCtaHref: base.href,
     secondaryCtaLabel: post.locale === 'en' ? 'Set alert' : '开启提醒',
   };
 }

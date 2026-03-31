@@ -78,7 +78,6 @@ gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"
 membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/17409875715241128812355.jpeg"
 heroTheme: "brand"
-ctaLabelOverride: "Read decision guide"
 faq:
   - question: "Is Figment worth buying on Nintendo Switch in 2026?"
     answer: "Figment is worth buying on Switch if you want a short, stylish puzzle-adventure built around music and art, and you accept lightweight combat. As of March 2026, GameGulf shows a global low around €0.55 on the Japan eShop, which makes it a very low-risk purchase."

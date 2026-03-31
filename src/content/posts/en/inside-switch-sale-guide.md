@@ -40,7 +40,6 @@ priceRecommendation: "buy"
 coverImage: "https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg"
 badge: "Buy / Wait"
 heroTheme: "dark"
-ctaLabelOverride: "Read price timing guide"
 playerVoices:
   - quote: "One of the few games where I sat motionless after the credits"
     sentiment: "positive"

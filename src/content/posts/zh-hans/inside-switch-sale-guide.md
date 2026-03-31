@@ -40,7 +40,6 @@ priceRecommendation: "buy"
 coverImage: "https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg"
 badge: "Buy / Wait"
 heroTheme: "dark"
-ctaLabelOverride: "查看价格判断"
 playerVoices:
   - quote: "通关后坐在那一动不动想了好久"
     sentiment: "positive"

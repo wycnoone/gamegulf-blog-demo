@@ -46,7 +46,7 @@ export function DecisionFeaturedCardV2({
     : null;
   const priceAdviceText = compactPriceCall.label;
   const priceAdviceDetail = compactPriceCall.detail;
-  const primaryHref = card.kind === 'worth-it' ? card.href : card.primaryCtaHref;
+  const primaryHref = card.href;
   const reviewMeta = getReviewMeta(card);
   const trackLabel = card.locale === 'en' ? 'Track' : '追踪';
   const primaryCtaLabel = card.primaryCtaLabel;

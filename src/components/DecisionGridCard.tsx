@@ -38,7 +38,7 @@ export function DecisionGridCard({
   layout = 'default',
 }: DecisionGridCardProps) {
   const compactPriceCall = getCompactPriceCall(card);
-  const primaryHref = card.kind === 'worth-it' ? card.href : card.primaryCtaHref;
+  const primaryHref = card.href;
   const displayTitle = getDecisionDisplayTitle(card);
   const compactWhatItIs = getCompactDecisionField(card.whatItIs, 92);
   const compactBestFor = getCompactDecisionField(card.bestFor, 62);
