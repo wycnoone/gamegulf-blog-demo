@@ -717,13 +717,13 @@ img {
 
 .decision-cover-pro {
   position: relative;
-  height: 196px;
+  height: 224px;
   overflow: hidden;
   background: linear-gradient(145deg, #111827 0%, #1f2937 100%);
 }
 
 .decision-cover-pro-featured {
-  height: 196px;
+  height: 224px;
 }
 
 .decision-cover-image-pro {
@@ -1085,7 +1085,7 @@ img {
 }
 
 .article-cover-strip {
-  min-height: 136px;
+  min-height: 168px;
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
@@ -2124,7 +2124,7 @@ img {
   }
 
   .article-cover-strip {
-    min-height: 104px;
+    min-height: 132px;
   }
 
   .button-link,
@@ -2154,11 +2154,11 @@ img {
   }
 
   .decision-cover-pro {
-    height: 140px;
+    height: 162px;
   }
 
   .decision-cover-pro-featured {
-    height: 144px;
+    height: 166px;
   }
 
   .decision-takeaway {
