@@ -129,6 +129,7 @@ type DecisionCardBase = {
   actionBucket: ActionBucket;
   featuredPriority: number;
   publishedAt: string;
+  updatedAt?: string;
   readingTime: string;
   priceTrackHref: string;
   gameHref: string;
@@ -529,6 +530,7 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
     actionBucket,
     featuredPriority: post.featuredPriority ?? 999,
     publishedAt: post.publishedAt,
+    updatedAt: post.updatedAt,
     readingTime: post.readingTime,
     priceTrackHref: post.priceTrackHref,
     gameHref: post.gameHref,
@@ -587,8 +589,8 @@ export async function getDecisionEntryCardsByTopic(locale: BlogLocale, filter: i
   return matching.map(prepareDecisionEntryCard).sort(sortByPriorityAndDate);
 }
 
-export function formatDate(date: string, locale: BlogLocale) {
-  return new Intl.DateTimeFormat(locale === 'en' ? 'en-US' : 'zh-CN', {
+export function formatDate(date: string, _locale?: BlogLocale) {
+  return new Intl.DateTimeFormat('en-US', {
     year: 'numeric', month: 'short', day: 'numeric',
   }).format(new Date(date));
 }

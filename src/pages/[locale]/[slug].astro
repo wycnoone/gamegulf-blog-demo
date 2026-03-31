@@ -150,7 +150,10 @@ const hasOverview = overviewWhatItIs || overviewPraise;
             </h1>
 
             <div class="meta-row">
-              <span>{formatDate(post.publishedAt, post.locale)}</span>
+              <span>{formatDate(post.updatedAt || post.publishedAt)}</span>
+              {post.updatedAt && post.updatedAt !== post.publishedAt && (
+                <span class="meta-updated">Updated {formatDate(post.updatedAt)}</span>
+              )}
               <span>{post.readingTime}</span>
             </div>
 

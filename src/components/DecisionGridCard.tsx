@@ -159,7 +159,7 @@ export function DecisionGridCard({
         </div>
 
         <div className="decision-card-footer-meta-pro">
-          <span>{formatCardDate(card.publishedAt)}</span>
+          <span>{formatCardDate(card.updatedAt || card.publishedAt)}</span>
           <span>{getReadingMeta(card.readingTime)}</span>
         </div>
       </div>
