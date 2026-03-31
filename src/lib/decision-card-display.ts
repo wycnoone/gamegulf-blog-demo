@@ -5,28 +5,13 @@ import type {
   WorthItCardModel,
 } from '@/lib/blog';
 import type { BlogLocale } from '@/lib/i18n';
+import { shortenText, normalizeForComparison } from '@/lib/text-utils';
 
 type CompactPriceCall = {
   label: string;
   reason: string;
   detail: string;
 };
-
-function shortenText(text: string, maxLength: number) {
-  const normalized = text.replace(/\s+/g, ' ').trim();
-  if (normalized.length <= maxLength) return normalized;
-  const truncated = normalized.slice(0, maxLength);
-  const lastSpace = truncated.lastIndexOf(' ');
-  return `${truncated.slice(0, lastSpace > 0 ? lastSpace : maxLength)}...`;
-}
-
-function normalizeForComparison(text: string) {
-  return text
-    .toLowerCase()
-    .replace(/[^\p{L}\p{N}\s]/gu, ' ')
-    .replace(/\s+/g, ' ')
-    .trim();
-}
 
 function getCompactPlatformName(platform: string) {
   if (/nintendo\s+switch/i.test(platform)) return 'Switch';
@@ -114,9 +99,10 @@ export function getDecisionDisplayTitle(card: DecisionEntryCardModel) {
     card.kind === 'worth-it'
       ? getWorthItTitlePhrase(card.verdict, card.locale)
       : getBuyTimingTitlePhrase(card.priceCall, card.locale);
+  const year = new Date().getFullYear();
   return card.locale === 'en'
-    ? `${card.gameTitle} in 2026: ${phrase}`
-    : `${card.gameTitle} 在 2026 年：${phrase}`;
+    ? `${card.gameTitle} in ${year}: ${phrase}`
+    : `${card.gameTitle} 在 ${year} 年：${phrase}`;
 }
 
 export function getDecisionScoreChip(card: DecisionEntryCardModel) {

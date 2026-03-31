@@ -1,5 +1,6 @@
 import { getCollection, render, type CollectionEntry } from 'astro:content';
 import { type BlogLocale, locales } from '@/lib/i18n';
+import { shortenText, normalizeForComparison } from '@/lib/text-utils';
 
 export const siteUrl = 'https://www.gamegulf.com';
 // Reads from astro.config.mjs `base` — works for both /blog (prod) and /gamegulf-blog-demo (dev preview)
@@ -329,17 +330,7 @@ export function getOgImage(post?: Pick<BlogPost, 'coverImage'>) {
   return post?.coverImage || defaultOgImage;
 }
 
-function shortenText(text: string, maxLength: number) {
-  const normalized = text.replace(/\s+/g, ' ').trim();
-  if (normalized.length <= maxLength) return normalized;
-  const truncated = normalized.slice(0, maxLength);
-  const lastSpace = truncated.lastIndexOf(' ');
-  return `${truncated.slice(0, lastSpace > 0 ? lastSpace : maxLength)}...`;
-}
-
-function normalizeForComparison(text: string) {
-  return text.toLowerCase().replace(/[^\p{L}\p{N}\s]/gu, ' ').replace(/\s+/g, ' ').trim();
-}
+export { shortenText, normalizeForComparison } from '@/lib/text-utils';
 
 function containsAny(text: string, keywords: string[]) {
   const n = text.toLowerCase();

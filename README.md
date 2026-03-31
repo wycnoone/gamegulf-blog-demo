@@ -165,6 +165,5 @@ GitHub Actions workflow at `.github/workflows/deploy.yml` handles build. Server 
 
 Reference templates for writing new articles are in `content/templates/`:
 
-- `worth-it-template.md` — structure for "Is X worth buying?" articles
-- `buy-now-or-wait-template.md` — structure for "Buy now or wait?" articles
-- `article-generation-prompt.md` — AI prompt for generating new articles
+- `game-guide-template.md` — unified frontmatter reference and article structure for all game guides (covers both "worth-it" and "buy-now-or-wait" categories)
+- `article-generation-prompt.md` — AI prompt for generating new articles from structured game data
