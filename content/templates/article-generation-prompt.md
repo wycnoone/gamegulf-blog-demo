@@ -70,37 +70,98 @@ Derive the slug:
 STEP 2 — RESEARCH INDEPENDENTLY
 ───────────────────────────────────────────────
 
-Search the web for the following. Use multiple sources
-(Reddit, game forums, review sites, HowLongToBeat,
-Digital Foundry, etc.) to build a grounded picture:
+Search the web to fill the data gaps left by STEP 1.
+Data is split into three priority tiers. Each tier
+defines what to find, how confident you need to be,
+and what to do when data is missing or weak.
 
-Must-find data:
-- How long to beat (main story, completionist)
-- Switch performance (FPS, resolution, load times,
-  handheld vs docked)
-- Player consensus: what do players consistently praise?
-- Player friction: what do players consistently complain about?
-- Community culture: inside jokes, memes, catchphrases
-  (check Reddit, Twitter, fan communities)
-- Sale pattern: how often does it go on sale? Is the
-  current price near the historical low?
-- Play mode: single-player, co-op, online multiplayer?
+P0 — HARD FACTS (block if missing)
+These must come from a verifiable source. If you cannot
+find them, flag the gap and do not fabricate.
 
-Nice-to-find data:
-- Comparison to similar games (helps with bestFor/avoidIf)
-- Content updates or DLC status
-- Known technical issues on Switch
-- Community size / activity level
+- Playtime: main story + completionist hours
+- Switch performance: target FPS, resolution (docked
+  and handheld)
+- Play mode: single-player / co-op / multiplayer
+- Content scope: what is included in the Switch version
+  (DLC, updates, content parity with other platforms)
 
-TRUTHFULNESS RULES:
+Confidence rule: cite a specific source (review site,
+wiki, HLTB, performance analysis). If the only source
+is old (>2 years) or a single unverified claim, note
+the uncertainty in the article.
+
+P1 — GROUNDED CONSENSUS (use hedging if thin)
+These should be cross-referenced across 2+ sources.
+If only one source, use hedging language.
+
+- Player praise: what do players consistently love?
+- Player friction: what drives players away?
+- Sale pattern: rough frequency, whether current price
+  is near the historical low
+- Switch-specific issues: load times, handheld experience,
+  known bugs
+- Community culture: memes, catchphrases, inside jokes
+
+Confidence rule: summarize only when you find the same
+sentiment repeated across multiple sources (reviews,
+Reddit threads, forums). A single outlier opinion is
+not consensus. For sale patterns, prefer price-tracking
+sites over anecdotal claims.
+
+P2 — BEST-EFFORT (mark as unverified if needed)
+These improve article quality but are not blockers.
+Use your knowledge when search results are thin, but
+mark anything unverified.
+
+- Comparison to similar games
+- DLC / post-launch content history
+- Community size and activity level
+- Specific award wins
+- Player quotes (see rules below)
+
+Confidence rule: if you cannot find a specific data
+point, you may use general knowledge but must avoid
+presenting it as researched fact. Never invent specific
+numbers, dates, or statistics.
+
+·····················································
+PLAYER QUOTES RULE
+·····················································
+
+The playerVoices field appears on the detail page as
+attributed quotes. Handle them honestly:
+
+- BEST: use real quotes from Steam reviews, Reddit
+  posts, or forum threads (paraphrase to shorten if
+  needed, but preserve the original sentiment)
+- ACCEPTABLE: write representative statements that
+  capture a documented consensus — but do NOT put
+  fabricated words in quotes as if a real person said
+  them. Use a natural summary tone.
+- NOT OK: invent specific, colorful quotes that sound
+  like real people but have no basis
+
+When you cannot find real quotes, write the playerVoices
+entries as consensus summaries rather than fake
+attributions.
+
+·····················································
+TRUTHFULNESS RULES
+·····················································
+
 - Only use data you actually found. Do not invent
   specific stats, review counts, or sale history.
 - If a data point is uncertain, phrase it carefully
-  ("reportedly", "approximately", "players generally say").
+  ("reportedly", "approximately", "players generally
+  say").
 - Summarize player consensus only when grounded in
   multiple sources.
 - For pricing, rely on the GameGulf page data — do not
   guess prices from other sources.
+- If a P0 fact is missing, add a comment at the top of
+  the generated file: <!-- DATA GAP: [description] -->
+  so the operator can fill it manually before publishing.
 
 ───────────────────────────────────────────────
 STEP 3 — GENERATE ARTICLE
