@@ -1,5 +1,6 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
+import { blogBasePath } from '@/lib/i18n';
 ---
 
 <BaseLayout title="GameGulf Blog" lang="en">
@@ -13,8 +14,8 @@ import BaseLayout from '@/layouts/BaseLayout.astro';
         is strong enough to act on.
       </p>
       <div class="hero-actions">
-        <a href={`${import.meta.env.BASE_URL}en`}>Explore English guides</a>
-        <a href={`${import.meta.env.BASE_URL}zh-hans`} class="secondary-link">查看简体中文指南</a>
+        <a href={`${blogBasePath}/en`}>Explore English guides</a>
+        <a href={`${blogBasePath}/zh-hans`} class="secondary-link">查看简体中文指南</a>
       </div>
     </section>
   </main>

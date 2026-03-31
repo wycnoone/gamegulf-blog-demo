@@ -1,4 +1,4 @@
-import type { BlogLocale } from '@/lib/i18n';
+import { blogBasePath, type BlogLocale } from '@/lib/i18n';
 
 type DecisionEmptyStateProps = {
   locale: BlogLocale;
@@ -19,10 +19,10 @@ export function DecisionEmptyState({ locale, onReset }: DecisionEmptyStateProps)
         <button type="button" className="button-link" onClick={onReset}>
           {isEnglish ? 'Reset filters' : '清空筛选'}
         </button>
-        <a href={`${import.meta.env.BASE_URL}${locale}/worth-it`} className="button-link secondary">
+        <a href={`${blogBasePath}/${locale}/worth-it`} className="button-link secondary">
           {isEnglish ? 'Open Worth It' : '查看值不值得买'}
         </a>
-        <a href={`${import.meta.env.BASE_URL}${locale}/buy-now-or-wait`} className="button-link secondary">
+        <a href={`${blogBasePath}/${locale}/buy-now-or-wait`} className="button-link secondary">
           {isEnglish ? 'Open Buy Now or Wait' : '查看现在买还是等打折'}
         </a>
       </div>

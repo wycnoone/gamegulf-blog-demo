@@ -11,6 +11,7 @@ import {
 } from '@/lib/blog';
 import { isLocale, locales, type BlogLocale } from '@/lib/i18n';
 
+
 export function getStaticPaths() {
   return locales.map((locale) => ({ params: { locale } }));
 }
@@ -18,7 +19,7 @@ export function getStaticPaths() {
 const { locale } = Astro.params;
 
 if (!isLocale(locale)) {
-  return Astro.redirect(`${import.meta.env.BASE_URL}404`);
+  return Astro.redirect(`${blogBasePath}/404`);
 }
 
 const typedLocale = locale as BlogLocale;
