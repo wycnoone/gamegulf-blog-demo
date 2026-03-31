@@ -141,6 +141,13 @@ coverImage: "https://cdn.gamegulf.com/upload/[IMAGE_ID].jpeg"
 heroTheme: "brand"  # brand | dark
 ctaLabelOverride: "Read decision guide"  # Localize
 
+# If the game has no GameGulf detail page yet: point gameHref and
+# priceTrackHref at https://www.gamegulf.com/games (or a search URL your
+# product provides). Use the real upload cover when a detail page exists;
+# otherwise a temporary card fallback is the site default
+# https://cdn.gamegulf.com/images/home/home-banner.png — replace as soon
+# as the detail page and og:image / upload URL are available.
+
 # ── FAQ (GEO — most important AI citation asset) ──
 faq:  # 3-6 items; each answer must be self-contained and include the game name
   - question: "Is [Game Title] worth buying on Switch?"
