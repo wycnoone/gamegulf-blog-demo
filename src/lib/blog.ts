@@ -2,7 +2,8 @@ import { getCollection, render, type CollectionEntry } from 'astro:content';
 import { type BlogLocale, locales } from '@/lib/i18n';
 
 export const siteUrl = 'https://www.gamegulf.com';
-export const blogBasePath = '/blog';
+// Reads from astro.config.mjs `base` — works for both /blog (prod) and /gamegulf-blog-demo (dev preview)
+export const blogBasePath = import.meta.env.BASE_URL.replace(/\/$/, '');
 
 export const categories = ['worth-it', 'buy-now-or-wait'] as const;
 export const defaultOgImage = 'https://cdn.gamegulf.com/images/home/home-banner.png';

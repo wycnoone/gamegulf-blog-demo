@@ -13,4 +13,5 @@ export const localeLabels: Record<BlogLocale, string> = {
   'zh-hans': '简体中文',
 };
 
-export const blogBasePath = '/blog';
+// Reads from astro.config.mjs `base` — works for both /blog (prod) and /gamegulf-blog-demo (dev preview)
+export const blogBasePath = import.meta.env.BASE_URL.replace(/\/$/, '');

@@ -27,14 +27,14 @@ export async function getStaticPaths() {
 const { locale, slug } = Astro.params;
 
 if (!isLocale(locale)) {
-  return Astro.redirect('/blog/404');
+  return Astro.redirect(`${import.meta.env.BASE_URL}404`);
 }
 
 const typedLocale = locale as BlogLocale;
 const post = await getPost(typedLocale, slug);
 
 if (!post) {
-  return Astro.redirect('/blog/404');
+  return Astro.redirect(`${import.meta.env.BASE_URL}404`);
 }
 
 const Content = await renderPost(post);
