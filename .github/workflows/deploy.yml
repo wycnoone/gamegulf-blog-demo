@@ -1,9 +1,20 @@
-name: Build and Deploy
+name: Build and Deploy to GitHub Pages
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
+
+# Required for GitHub Pages deployment
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment
+concurrency:
+  group: pages
+  cancel-in-progress: true
 
 jobs:
   build:
@@ -24,20 +35,21 @@ jobs:
       - name: Build Astro
         run: npm run build
 
-      - name: Upload build artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: gamegulf-blog
-          path: dist/
-          retention-days: 7
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
 
-      # Uncomment and configure when server details are confirmed:
-      # - name: Deploy to server
-      #   uses: easingthemes/ssh-deploy@v5
-      #   with:
-      #     SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-      #     REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
-      #     REMOTE_USER: ${{ secrets.REMOTE_USER }}
-      #     SOURCE: "dist/"
-      #     TARGET: "/var/www/gamegulf-blog/"
-      #     ARGS: "-rlgoDzvc --delete"
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist/
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
