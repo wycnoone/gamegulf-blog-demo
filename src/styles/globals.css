@@ -94,7 +94,6 @@ img {
 .landing-hero,
 .hero-panel,
 .list-shell,
-.article-shell,
 .category-shell {
   border: 1px solid var(--line);
   background: var(--surface);
@@ -437,7 +436,6 @@ img {
 
 .hero-panel,
 .list-shell,
-.article-shell,
 .category-shell {
   border-radius: var(--radius-xl);
 }
@@ -1042,12 +1040,21 @@ img {
 .article-shell {
   display: grid;
   grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
-  gap: 22px;
-  padding: 24px;
+  gap: 18px;
+}
+
+.article-shell > div {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.article-shell .section-block {
+  margin-top: 0;
 }
 
 .article-header {
-  padding-bottom: 16px;
+  padding-bottom: 0;
 }
 
 .article-summary-card,
@@ -2015,38 +2022,11 @@ img {
   }
 
   .article-shell {
-    padding: 0;
-    border: none;
-    background: none;
-    box-shadow: none;
-    border-radius: 0;
     gap: 16px;
   }
 
   .article-shell > div {
-    display: flex;
-    flex-direction: column;
     gap: 16px;
-  }
-
-  .article-shell .article-header {
-    padding-bottom: 0;
-  }
-
-  .article-shell .article-mobile-actions {
-    margin-top: 0;
-  }
-
-  .article-shell .game-overview {
-    margin: 0;
-  }
-
-  .article-shell .section-block {
-    margin-top: 0;
-  }
-
-  .article-shell .takeaway-callout {
-    margin: 0;
   }
 
   .site-footer {
@@ -2327,7 +2307,6 @@ img {
 
   .article-mobile-actions {
     display: block;
-    margin-top: 14px;
   }
 
   .article-mobile-actions .sidebar-card {
@@ -2576,7 +2555,6 @@ img {
   display: flex;
   flex-direction: column;
   gap: 0;
-  margin: 20px 0 24px;
   border: 1px solid var(--line);
   border-radius: 16px;
   overflow: hidden;
@@ -2606,7 +2584,6 @@ img {
 
 /* ── Takeaway callout ── */
 .takeaway-callout {
-  margin: 28px 0 24px;
   padding: 20px 24px;
   border-radius: 16px;
   background: color-mix(in srgb, var(--accent) 8%, transparent);
@@ -2736,14 +2713,12 @@ img {
   }
 
   .game-overview {
-    margin: 16px 0 20px;
     border-radius: 12px;
   }
   .overview-row {
     padding: 12px 16px;
   }
   .takeaway-callout {
-    margin: 20px 0 18px;
     padding: 16px 18px;
     border-radius: 12px;
   }
