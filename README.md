@@ -1,169 +1,108 @@
 # GameGulf Blog
 
-A static content site for `www.gamegulf.com/blog`, built with **Astro** and **React Islands**. Generates multilingual game buying guides from Markdown, optimized for search engines and AI citation.
+Static blog for **GameGulf** — decision-oriented game buying guides — served under `https://www.gamegulf.com/blog`. Built with **Astro 5** and **React** islands. Content is Markdown with Zod-validated frontmatter; output is static HTML with strong SEO (JSON-LD, hreflang, sitemap).
+
+For editorial and product rules (tone, card copy, CTAs), see [`AGENTS.md`](./AGENTS.md).
 
 ## Tech stack
 
-- **Astro 5** — static site generator with zero-JS-by-default output
-- **React** — interactive islands for search, filtering, and mode switching
-- **Content Collections** — Zod-validated Markdown with typed frontmatter
-- **@astrojs/sitemap** — automatic sitemap generation
+| Piece | Role |
+|--------|------|
+| **Astro 5** | Static site generation, content collections, layouts |
+| **React 19** | Islands: home hub, filters, topic grids |
+| **TypeScript** | Types across `lib/` and components |
+| **@astrojs/sitemap** | Sitemap from built routes |
+| **Shiki** | Code blocks in Markdown (`github-light`) |
 
-## Run locally
+## Requirements
+
+- **Node.js** 20+ (CI uses Node 24)
+
+## Local development
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open `http://localhost:4321/blog`
-
-## Build
+Open the URL Astro prints (default `http://localhost:4321`). With `base: '/blog'`, paths are under `/blog/` (e.g. `http://localhost:4321/blog/`).
 
 ```bash
-npm run build
+npm run build    # output: dist/
+npm run preview  # serve dist/ locally
 ```
-
-Static files are written to `dist/`. Deploy the contents of `dist/` to your server's `/blog/` path.
 
 ## Project structure
 
 ```
 src/
 ├── content/
-│   ├── config.ts              # Content Collections schema (Zod)
-│   └── posts/{locale}/*.md    # Markdown articles per language
-├── components/
-│   ├── BlogShell.astro        # Site shell (header, nav, footer)
-│   ├── DecisionHomeHub.tsx    # Blog home (React island)
-│   ├── DecisionCategoryHub.tsx # Category page (React island)
-│   ├── DecisionFeaturedCardV2.tsx
-│   ├── DecisionGridCard.tsx
-│   ├── DecisionFilterPanel.tsx
-│   ├── DecisionEmptyState.tsx
-│   ├── TrustModule.tsx
-│   └── FaqList.astro
-├── layouts/
-│   └── BaseLayout.astro       # Root HTML layout with SEO meta
+│   ├── config.ts                 # posts collection schema (Zod)
+│   └── posts/{locale}/*.md       # one file per locale per slug
+├── components/                   # Astro + React (.tsx islands)
+├── layouts/BaseLayout.astro      # HTML shell, meta, JSON-LD hooks
 ├── lib/
-│   ├── blog.ts                # Content API + card model logic
+│   ├── blog.ts                   # load posts, card models, formatDate, SEO helpers
 │   ├── decision-card-display.ts
-│   └── i18n.ts                # Locale registry and helpers
+│   ├── i18n.ts                   # locales, blogBasePath
+│   └── topics.ts                 # guide topic definitions
 ├── pages/
-│   ├── index.astro            # Language selector (/blog/)
+│   ├── index.astro               # /blog/ language picker
 │   ├── 404.astro
 │   ├── robots.txt.ts
 │   └── [locale]/
-│       ├── index.astro        # Blog home (/blog/en/)
-│       ├── [slug].astro       # Article detail page
-│       └── guides/
-│           └── [topic].astro  # Guide aggregation page
-└── styles/
-    └── globals.css            # All CSS (variables, components, responsive)
+│       ├── index.astro           # locale home (decision hub)
+│       ├── [slug].astro          # article
+│       └── guides/[topic].astro  # topic aggregation
+└── styles/globals.css
+content/templates/                # authoring templates (not bundled)
 ```
 
-## Multilingual strategy
+## Content & dates
 
-### URL structure — subdirectory per language
+- **`publishedAt`** (required, `YYYY-MM-DD`) — first publish.
+- **`updatedAt`** (optional) — last substantive edit. Listing cards and the article meta row show the **latest** of the two as the primary date (`en-US` short form, e.g. `Mar 31, 2026`). If `updatedAt` is set and differs from `publishedAt`, the article header also shows `Updated Mar 31, 2026`.
 
-Every language gets its own subdirectory under `/blog/`:
+Structured data uses `datePublished` / `dateModified` accordingly.
 
-```
-/blog/en/zelda-tears-of-the-kingdom
-/blog/zh-hans/zelda-tears-of-the-kingdom
-/blog/ja/zelda-tears-of-the-kingdom
-```
+## Internationalization
 
-This is the best approach for SEO and GEO (Generative Engine Optimization):
+**Enabled locales** (see `src/lib/i18n.ts`): `en`, `zh-hans`.
 
-- Each language version is independently indexable by search engines and AI crawlers
-- `hreflang` tags link translations together, with `x-default` pointing to the English version
-- All language versions share the domain authority of `gamegulf.com`
-- AI answer engines can cite the correct language URL directly
+URL pattern:
 
-### Content files — one Markdown file per language per article
-
-```
-src/content/posts/
-├── en/
-│   ├── zelda-tears-of-the-kingdom.md
-│   └── persona-5-royal-worth-it.md
-├── zh-hans/
-│   ├── zelda-tears-of-the-kingdom.md
-│   └── persona-5-royal-worth-it.md
-├── ja/   (future)
-├── ko/   (future)
-└── ...
+```text
+/blog/en/<slug>
+/blog/zh-hans/<slug>
 ```
 
-**Why one file per language instead of bundling all languages into one file:**
+Same **slug** across locales links translations (`hreflang` + alternates). Missing locale file = that language version is omitted from alternates.
 
-- Astro Content Collections treat one file as one entry — the framework works best this way
-- Each file stays small (6–10 KB), easy to edit and review
-- Git diffs are clean — changing Chinese content only touches `zh-hans/` files
-- Progressive translation is natural — a missing file simply means that language version doesn't exist yet
-- AI-assisted translation works well with small, focused files
-
-**Scaling projection:** 10 languages × 100 articles = 1,000 files. Astro handles this without issues (comparable to MDN, Docusaurus, and other large docs sites).
-
-### Adding a new language
-
-1. Add the locale code to `src/lib/i18n.ts` (`locales` array and `localeLabels` map)
-2. Create `src/content/posts/{new-locale}/` directory
-3. Add translated `.md` files using the same slug as the English version
-4. `hreflang` generation and sitemap inclusion happen automatically
-
-Use BCP 47 language codes: `en`, `zh-hans`, `zh-hant`, `ja`, `ko`, `es`, `pt-br`, `de`, `fr`, `ru`, etc.
-
-### Locale configuration
-
-All locale definitions live in `src/lib/i18n.ts`:
-
-- `locales` — list of enabled locale codes
-- `defaultLocale` — fallback locale (`en`)
-- `localeLabels` — display name for each locale
-- `isLocale()` — type guard for runtime validation
-
-### Cross-language linking
-
-- Same slug across languages = automatic alternate link (`getAlternatePostPath` in `blog.ts`)
-- If a translation doesn't exist, that language is excluded from `hreflang` tags
-- The language selector on `/blog/` links to each locale's homepage
+**Add a language:** extend `locales` and `localeLabels` in `i18n.ts`, add `src/content/posts/<locale>/`, mirror slugs from English.
 
 ## Content workflow
 
-1. Create or edit a `.md` file in `src/content/posts/{locale}/`
-2. Push to `main` branch
-3. GitHub Actions builds and deploys automatically
+1. Add or edit `src/content/posts/<locale>/<slug>.md` (match [`content/templates/game-guide-template.md`](./content/templates/game-guide-template.md)).
+2. Push to `main`.
 
-You can also edit Markdown directly on GitHub's web interface.
+Optional: edit Markdown on GitHub in the browser; CI builds on every push to `main`.
 
-### Translation workflow
+## SEO
 
-1. Copy the English `.md` file to the target locale directory
-2. Translate frontmatter fields: `title`, `description`, `decision`, `priceSignal`, `heroNote`, `listingTakeaway`, `whatItIs`, `avoidIf`, `consensusPraise`, `mainFriction`, `timeFit`, `fitLabel`, `playStyle`, `timeCommitment`, `playMode`, `whyNow`, `takeaway`, `bestFor`, `timingNote`, `communityVibe`, `playtime`, `faq`, `tags`
-3. Translate the article body
-4. Keep unchanged: `publishedAt`, `updatedAt`, `category`, `gameTitle`, `platform`, `author`, `wishlistHref`, `priceTrackHref`, `gameHref`, `membershipHref`, `coverImage`, `heroTheme`, `actionBucket`, `quickFilters`, `playerNeeds`, `verdict`, `priceCall`, `confidence`, `featuredPriority`, `badge`, `reviewSignal`
-
-## SEO / GEO
-
-Each article page outputs:
-- `BlogPosting` + `BreadcrumbList` + `FAQPage` JSON-LD
-- `hreflang` tags linking all available language versions
-- `x-default` hreflang pointing to the English version
-- Open Graph and Twitter Card meta
-- Canonical URLs per language
-- `robots.txt` allows major AI crawlers (GPTBot, PerplexityBot, ClaudeBot)
+Per article: `BlogPosting`, `BreadcrumbList`, and `FAQPage` JSON-LD; Open Graph / Twitter; canonical per locale. `robots.txt` is generated in `src/pages/robots.txt.ts`.
 
 ## Deployment
 
-Configured for `www.gamegulf.com/blog` via `base: '/blog'` in `astro.config.mjs`.
+- **Production site URL** is set in `astro.config.mjs` (`site: 'https://www.gamegulf.com'`, `base: '/blog'`).
+- **GitHub Actions** (`.github/workflows/deploy.yml`): on push to `main`, `npm ci` → `npm run build` → deploy **`dist/`** to **GitHub Pages** (`actions/deploy-pages`). Configure the repo’s Pages source to GitHub Actions if needed.
 
-GitHub Actions workflow at `.github/workflows/deploy.yml` handles build. Server deployment step is commented out — uncomment and configure with your server credentials.
+## Templates & prompts
 
-## Content templates
+| File | Purpose |
+|------|---------|
+| `content/templates/game-guide-template.md` | Frontmatter reference + article structure |
+| `content/templates/article-generation-prompt.md` | Prompt for generating guides from structured inputs |
 
-Reference templates for writing new articles are in `content/templates/`:
+## License / repo
 
-- `game-guide-template.md` — unified frontmatter reference and article structure for all game guides (covers both "worth-it" and "buy-now-or-wait" categories)
-- `article-generation-prompt.md` — AI prompt for generating new articles from structured game data
+See repository settings on GitHub for license if present.
