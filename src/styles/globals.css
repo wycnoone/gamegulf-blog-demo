@@ -2007,12 +2007,46 @@ img {
 
   .landing-hero,
   .list-shell,
-  .article-shell,
   .category-shell,
   .article-reading-card,
   .article-summary-card {
     padding: 20px;
     border-radius: 24px;
+  }
+
+  .article-shell {
+    padding: 0;
+    border: none;
+    background: none;
+    box-shadow: none;
+    border-radius: 0;
+    gap: 16px;
+  }
+
+  .article-shell > div {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .article-shell .article-header {
+    padding-bottom: 0;
+  }
+
+  .article-shell .article-mobile-actions {
+    margin-top: 0;
+  }
+
+  .article-shell .game-overview {
+    margin: 0;
+  }
+
+  .article-shell .section-block {
+    margin-top: 0;
+  }
+
+  .article-shell .takeaway-callout {
+    margin: 0;
   }
 
   .site-footer {
