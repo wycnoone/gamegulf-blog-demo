@@ -3,10 +3,8 @@ import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  // DEV: GitHub Pages preview URL
-  // PROD: change back to site: 'https://www.gamegulf.com', base: '/blog'
-  site: 'https://wycnoone.github.io',
-  base: '/gamegulf-blog-demo',
+  site: 'https://www.gamegulf.com',
+  base: '/blog',
   output: 'static',
   integrations: [
     react(),
