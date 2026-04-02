@@ -7,10 +7,9 @@ import {
   defaultOgImage,
   getDecisionEntryCards,
   getLocaleAlternates,
-  siteUrl,
 } from '@/lib/blog';
-import { isLocale, locales, type BlogLocale } from '@/lib/i18n';
-
+import { isLocale, locales, langTags, type BlogLocale } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 
 export function getStaticPaths() {
   return locales.map((locale) => ({ params: { locale } }));
@@ -25,25 +24,20 @@ if (!isLocale(locale)) {
 const typedLocale = locale as BlogLocale;
 const cards = await getDecisionEntryCards(typedLocale);
 
-const titleText = typedLocale === 'en' ? 'Switch Buying Guides' : 'Switch 购买指南';
-const descText = typedLocale === 'en'
-  ? 'Figure out what to buy, what to wait on, and what belongs on an alert list before you spend.'
-  : '帮助玩家判断买什么、什么时候买、什么值得等，再决定是继续读文章、看价格还是先开启提醒。';
 const path = `${blogBasePath}/${typedLocale}`;
-const alternates = getLocaleAlternates(
-  Object.fromEntries(locales.map((l) => [l, `${blogBasePath}/${l}`])),
-);
+const localePaths = Object.fromEntries(locales.map((l) => [l, `${blogBasePath}/${l}`])) as Record<BlogLocale, string>;
+const alternates = getLocaleAlternates(localePaths);
 ---
 
 <BaseLayout
-  title={titleText}
-  description={descText}
-  lang={typedLocale === 'zh-hans' ? 'zh-Hans' : 'en'}
+  title={t(typedLocale, 'listing.title')}
+  description={t(typedLocale, 'listing.description')}
+  lang={langTags[typedLocale]}
   canonical={path}
   ogImage={defaultOgImage}
   alternates={alternates}
 >
-  <BlogShell locale={typedLocale}>
+  <BlogShell locale={typedLocale} localePaths={localePaths}>
     <DecisionHomeHub locale={typedLocale} cards={cards} client:load />
   </BlogShell>
 </BaseLayout>

@@ -1,5 +1,6 @@
 import type { QuickFilterKey } from '@/lib/blog';
 import type { BlogLocale } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 
 type FilterGroup = {
   title: string;
@@ -33,7 +34,7 @@ export function DecisionFilterPanel({
       {hasSearch ? (
         <div className="decision-search-wrap">
           <label className="decision-search-label" htmlFor={`decision-search-${locale}`}>
-            {locale === 'en' ? 'Search by game or question' : '按游戏名或问题搜索'}
+            {t(locale, 'filter.searchLabel')}
           </label>
           <div className="decision-search-row">
             <input
@@ -42,15 +43,11 @@ export function DecisionFilterPanel({
               type="search"
               value={searchValue}
               onChange={(e) => onSearchChange(e.target.value)}
-              placeholder={
-                locale === 'en'
-                  ? 'Persona 5 Royal, co-op, under $20...'
-                  : '比如 Persona 5 Royal、合作、低于 $20...'
-              }
+              placeholder={t(locale, 'filter.searchPlaceholder')}
             />
             {onReset ? (
               <button type="button" className="button-link secondary" onClick={onReset}>
-                {locale === 'en' ? 'Reset' : '重置'}
+                {t(locale, 'filter.reset')}
               </button>
             ) : null}
           </div>

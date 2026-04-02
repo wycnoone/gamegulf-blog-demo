@@ -21,18 +21,27 @@ function getCompactPlatformName(platform: string) {
   return platform.replace(/^Nintendo\s+/i, '').trim() || platform;
 }
 
+const priceRegionLabels: Record<string, Record<BlogLocale, string>> = {
+  argentina: { en: 'Argentina', 'zh-hans': '阿根廷区', fr: 'Argentine', es: 'Argentina', de: 'Argentinien', ja: 'アルゼンチン' },
+  hongkong: { en: 'Hong Kong', 'zh-hans': '香港区', fr: 'Hong Kong', es: 'Hong Kong', de: 'Hongkong', ja: '香港' },
+  japan: { en: 'Japan', 'zh-hans': '日本区', fr: 'Japon', es: 'Japón', de: 'Japan', ja: '日本' },
+  us: { en: 'United States', 'zh-hans': '美国区', fr: 'États-Unis', es: 'Estados Unidos', de: 'USA', ja: 'アメリカ' },
+  europe: { en: 'Europe', 'zh-hans': '欧洲区', fr: 'Europe', es: 'Europa', de: 'Europa', ja: 'ヨーロッパ' },
+  uk: { en: 'United Kingdom', 'zh-hans': '英国区', fr: 'Royaume-Uni', es: 'Reino Unido', de: 'Vereinigtes Königreich', ja: 'イギリス' },
+  global: { en: 'Global', 'zh-hans': '全球区', fr: 'Monde', es: 'Global', de: 'Weltweit', ja: 'グローバル' },
+};
+
 function getPriceRegion(text: string, locale: BlogLocale) {
   const regionPatterns = [
-    { pattern: /阿根廷区|Argentina/iu, en: 'Argentina', 'zh-hans': '阿根廷区' },
-    { pattern: /香港区|Hong Kong/iu, en: 'Hong Kong', 'zh-hans': '香港区' },
-    { pattern: /日本区|Japan/iu, en: 'Japan', 'zh-hans': '日本区' },
-    { pattern: /美国区|United States|USA|\bUS\b/iu, en: 'United States', 'zh-hans': '美国区' },
-    { pattern: /欧洲区|European regions?|Europe/iu, en: 'Europe', 'zh-hans': '欧洲区' },
-    { pattern: /英国区|United Kingdom|UK/iu, en: 'United Kingdom', 'zh-hans': '英国区' },
+    { pattern: /阿根廷区|Argentina/iu, key: 'argentina' },
+    { pattern: /香港区|Hong Kong/iu, key: 'hongkong' },
+    { pattern: /日本区|Japan/iu, key: 'japan' },
+    { pattern: /美国区|United States|USA|\bUS\b/iu, key: 'us' },
+    { pattern: /欧洲区|European regions?|Europe/iu, key: 'europe' },
+    { pattern: /英国区|United Kingdom|UK/iu, key: 'uk' },
   ] as const;
   const match = regionPatterns.find((entry) => entry.pattern.test(text));
-  if (match) return match[locale];
-  return locale === 'en' ? 'Global' : '全球区';
+  return match ? priceRegionLabels[match.key][locale] : priceRegionLabels.global[locale];
 }
 
 function getPriceAmount(text: string, locale: BlogLocale) {
@@ -40,7 +49,10 @@ function getPriceAmount(text: string, locale: BlogLocale) {
     /(?:EUR|USD|GBP|JPY|HKD)\s?\d+(?:\.\d+)?|€\s?\d+(?:\.\d+)?|\$\s?\d+(?:\.\d+)?/iu,
   );
   if (match) return match[0].replace(/\s+/gu, ' ').trim();
-  return locale === 'en' ? 'Live pricing' : '实时价格';
+  const livePricing: Record<BlogLocale, string> = {
+    en: 'Live pricing', 'zh-hans': '实时价格', fr: 'Prix en direct', es: 'Precio en vivo', de: 'Live-Preis', ja: 'リアルタイム価格',
+  };
+  return livePricing[locale];
 }
 
 function getPriceDetail(card: DecisionEntryCardModel) {
@@ -75,34 +87,62 @@ export function getCompactDecisionField(text: string, maxLength = 54) {
   return shortenText(text, maxLength);
 }
 
-function getWorthItTitlePhrase(verdict: WorthItCardModel['verdict'], locale: BlogLocale) {
-  const labels = {
-    buy_now: { en: 'already at a smart buy price', 'zh-hans': '已经到了合适的优惠价格' },
-    wait_for_sale: { en: 'better after a deeper sale', 'zh-hans': '可以再等一等折扣价' },
-    right_player: { en: 'worth buying if the fit is right', 'zh-hans': '如果适合你就值得买' },
-    not_best_fit: { en: 'not the best fit right now', 'zh-hans': '现在不算最合适的选择' },
-  };
-  return labels[verdict][locale];
-}
+const worthItTitlePhrases: Record<BlogVerdict, Record<BlogLocale, string>> = {
+  buy_now: {
+    en: 'already at a smart buy price', 'zh-hans': '已经到了合适的优惠价格',
+    fr: 'déjà à un bon prix d\'achat', es: 'ya a un buen precio de compra',
+    de: 'bereits zu einem guten Kaufpreis', ja: 'お得な購入価格に到達',
+  },
+  wait_for_sale: {
+    en: 'better after a deeper sale', 'zh-hans': '可以再等一等折扣价',
+    fr: 'mieux après une meilleure promo', es: 'mejor tras una oferta más profunda',
+    de: 'besser nach einem tieferen Sale', ja: 'もっと安くなってからがベスト',
+  },
+  right_player: {
+    en: 'worth buying if the fit is right', 'zh-hans': '如果适合你就值得买',
+    fr: 'à acheter si le jeu vous correspond', es: 'vale la pena si es tu tipo de juego',
+    de: 'lohnenswert, wenn die Passung stimmt', ja: '自分に合えば買い',
+  },
+  not_best_fit: {
+    en: 'not the best fit right now', 'zh-hans': '现在不算最合适的选择',
+    fr: 'pas idéal pour le moment', es: 'no es la mejor opción ahora',
+    de: 'aktuell nicht die beste Wahl', ja: '今はベストではない',
+  },
+};
 
-function getBuyTimingTitlePhrase(recommendation: PriceRecommendation, locale: BlogLocale) {
-  const labels = {
-    buy: { en: 'already at a smart buy price', 'zh-hans': '已经到了合适的优惠价格' },
-    wait: { en: 'better after another sale', 'zh-hans': '可以再等一等折扣价' },
-    watch: { en: 'worth tracking before you buy', 'zh-hans': '更适合先观察再买' },
-  };
-  return labels[recommendation][locale];
-}
+const buyTimingTitlePhrases: Record<PriceRecommendation, Record<BlogLocale, string>> = {
+  buy: {
+    en: 'already at a smart buy price', 'zh-hans': '已经到了合适的优惠价格',
+    fr: 'déjà à un bon prix d\'achat', es: 'ya a un buen precio de compra',
+    de: 'bereits zu einem guten Kaufpreis', ja: 'お得な購入価格に到達',
+  },
+  wait: {
+    en: 'better after another sale', 'zh-hans': '可以再等一等折扣价',
+    fr: 'mieux après une prochaine promo', es: 'mejor tras otra oferta',
+    de: 'besser nach dem nächsten Sale', ja: '次のセールまで待つのがベスト',
+  },
+  watch: {
+    en: 'worth tracking before you buy', 'zh-hans': '更适合先观察再买',
+    fr: 'à suivre avant d\'acheter', es: 'vale la pena seguir antes de comprar',
+    de: 'vor dem Kauf beobachten', ja: '購入前に追跡する価値あり',
+  },
+};
 
 export function getDecisionDisplayTitle(card: DecisionEntryCardModel) {
   const phrase =
     card.kind === 'worth-it'
-      ? getWorthItTitlePhrase(card.verdict, card.locale)
-      : getBuyTimingTitlePhrase(card.priceCall, card.locale);
+      ? worthItTitlePhrases[card.verdict][card.locale]
+      : buyTimingTitlePhrases[card.priceCall][card.locale];
   const year = new Date().getFullYear();
-  return card.locale === 'en'
-    ? `${card.gameTitle} in ${year}: ${phrase}`
-    : `${card.gameTitle} 在 ${year} 年：${phrase}`;
+  const formatTitleByLocale: Record<BlogLocale, string> = {
+    en: `${card.gameTitle} in ${year}: ${phrase}`,
+    'zh-hans': `${card.gameTitle} 在 ${year} 年：${phrase}`,
+    fr: `${card.gameTitle} en ${year} : ${phrase}`,
+    es: `${card.gameTitle} en ${year}: ${phrase}`,
+    de: `${card.gameTitle} ${year}: ${phrase}`,
+    ja: `${card.gameTitle}（${year}年）：${phrase}`,
+  };
+  return formatTitleByLocale[card.locale];
 }
 
 export function getDecisionScoreChip(card: DecisionEntryCardModel) {
@@ -114,32 +154,54 @@ export function getDecisionScoreChip(card: DecisionEntryCardModel) {
   return shortenText(card.reviewSignal, 18);
 }
 
+const worthItVerdictBadges: Record<BlogVerdict, Record<BlogLocale, string>> = {
+  buy_now: { en: 'Strong fit', 'zh-hans': '适配度强', fr: 'Très adapté', es: 'Muy adecuado', de: 'Starke Passung', ja: '適合度：高' },
+  wait_for_sale: { en: 'Fit-sensitive', 'zh-hans': '适配度敏感', fr: 'Selon profil', es: 'Depende del perfil', de: 'Passungsabhängig', ja: '適合度：条件付き' },
+  right_player: { en: 'Worth it for the right player', 'zh-hans': '适合对的人就值得', fr: 'Recommandé au bon joueur', es: 'Vale para el jugador indicado', de: 'Für den richtigen Spieler', ja: '合う人には価値あり' },
+  not_best_fit: { en: 'Not the best fit', 'zh-hans': '不算最合适', fr: 'Pas idéal', es: 'No es ideal', de: 'Nicht die beste Wahl', ja: 'ベストではない' },
+};
+
 export function getWorthItVerdictBadge(card: WorthItCardModel) {
-  const labels: Record<BlogVerdict, Record<BlogLocale, string>> = {
-    buy_now: { en: 'Strong fit', 'zh-hans': '适配度强' },
-    wait_for_sale: { en: 'Fit-sensitive', 'zh-hans': '适配度敏感' },
-    right_player: { en: 'Worth it for the right player', 'zh-hans': '适合对的人就值得' },
-    not_best_fit: { en: 'Not the best fit', 'zh-hans': '不算最合适' },
-  };
-  return labels[card.verdict][card.locale];
+  return worthItVerdictBadges[card.verdict][card.locale];
 }
 
+const compactPriceCallLabels: Record<PriceRecommendation, Record<BlogLocale, string>> = {
+  buy: {
+    en: 'Historical low, buy now', 'zh-hans': '历史低价，立即购买',
+    fr: 'Plus bas historique, achetez', es: 'Mínimo histórico, comprar',
+    de: 'Historischer Tiefpreis, jetzt kaufen', ja: '過去最安値、今すぐ購入',
+  },
+  wait: {
+    en: 'Wait now, next sale ahead', 'zh-hans': '先观望，等待下次折扣',
+    fr: 'Attendez, prochaine promo bientôt', es: 'Espera, próxima oferta pronto',
+    de: 'Warten, nächster Sale kommt', ja: '今は待ち、次のセールに期待',
+  },
+  watch: {
+    en: 'Set alert, discount likely soon', 'zh-hans': '先设提醒，折扣信号将至',
+    fr: 'Créez une alerte, promo probable', es: 'Crea alerta, descuento probable',
+    de: 'Alarm setzen, Rabatt wahrscheinlich', ja: 'アラート設定、値下げの可能性あり',
+  },
+};
+
+const compactPriceCallReasons: Record<PriceRecommendation, Record<BlogLocale, string>> = {
+  buy: { en: 'Strong entry price', 'zh-hans': '当前入场点更强', fr: 'Bon prix d\'entrée', es: 'Buen precio de entrada', de: 'Starker Einstiegspreis', ja: '良い買い時' },
+  wait: { en: 'Better upside later', 'zh-hans': '继续等更划算', fr: 'Mieux d\'attendre', es: 'Mejor esperar', de: 'Später günstiger', ja: '待った方がお得' },
+  watch: { en: 'Fit matters more', 'zh-hans': '先看适配度', fr: 'L\'adéquation prime', es: 'El ajuste importa más', de: 'Passung zählt mehr', ja: '適合度が優先' },
+};
+
+const supportFieldLabels: Record<string, Record<BlogLocale, string>> = {
+  whatItIs: { en: 'What it is', 'zh-hans': '这是什么体验', fr: 'De quoi il s\'agit', es: 'Qué es', de: 'Worum es geht', ja: 'どんなゲーム？' },
+  whatHoldsBack: { en: 'What holds it back', 'zh-hans': '最容易后悔的点', fr: 'Ce qui freine', es: 'Lo que frena', de: 'Was bremst', ja: '弱点' },
+};
+
 export function getCompactPriceCall(card: DecisionEntryCardModel): CompactPriceCall {
-  const adviceLabel =
-    card.locale === 'en'
-      ? { buy: 'Historical low, buy now', wait: 'Wait now, next sale ahead', watch: 'Set alert, discount likely soon' }
-      : { buy: '历史低价，立即购买', wait: '先观望，等待下次折扣', watch: '先设提醒，折扣信号将至' };
-  const fallbackReason =
-    card.locale === 'en'
-      ? { buy: 'Strong entry price', wait: 'Better upside later', watch: 'Fit matters more' }
-      : { buy: '当前入场点更强', wait: '继续等更划算', watch: '先看适配度' };
   const reasonSource =
     card.kind === 'worth-it'
       ? card.whyNow
       : card.currentDeal || card.salePattern || card.reviewSignal || '';
   return {
-    label: adviceLabel[card.priceCall],
-    reason: getCompactDecisionField(reasonSource || fallbackReason[card.priceCall], 18),
+    label: compactPriceCallLabels[card.priceCall][card.locale],
+    reason: getCompactDecisionField(reasonSource || compactPriceCallReasons[card.priceCall][card.locale], 18),
     detail: getPriceDetail(card),
   };
 }
@@ -155,13 +217,13 @@ export function getFeaturedSupportField(card: DecisionEntryCardModel): { label: 
     normalizedTakeaway.includes(normalizedPrimary) ||
     getKeywordOverlapRatio(primary, card.listingTakeaway) >= 0.45;
   if (!hasStrongRepeat && primary) {
-    return { label: card.locale === 'en' ? 'What it is' : '这是什么体验', value: getCompactDecisionField(primary, 84) };
+    return { label: supportFieldLabels.whatItIs[card.locale], value: getCompactDecisionField(primary, 84) };
   }
   if (fallback) {
-    return { label: card.locale === 'en' ? 'What holds it back' : '最容易后悔的点', value: getCompactDecisionField(fallback, 84) };
+    return { label: supportFieldLabels.whatHoldsBack[card.locale], value: getCompactDecisionField(fallback, 84) };
   }
   if (primary) {
-    return { label: card.locale === 'en' ? 'What it is' : '这是什么体验', value: getCompactDecisionField(primary, 84) };
+    return { label: supportFieldLabels.whatItIs[card.locale], value: getCompactDecisionField(primary, 84) };
   }
   return null;
 }

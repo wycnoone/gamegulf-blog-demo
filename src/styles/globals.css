@@ -818,8 +818,8 @@ img {
 .decision-summary-pro {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
   overflow: hidden;
   color: #374151;
   font-size: 0.92rem;
@@ -850,6 +850,11 @@ img {
 }
 
 .decision-vibe-text-pro {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
+  overflow: hidden;
   margin: 0;
   color: #030712;
   font-size: 0.98rem;
@@ -921,8 +926,8 @@ img {
 .decision-core-value-pro {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
   overflow: hidden;
   color: #111827;
   font-size: 0.96rem;
@@ -937,8 +942,8 @@ img {
 .decision-core-support-pro {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 2;
-  line-clamp: 2;
+  -webkit-line-clamp: 3;
+  line-clamp: 3;
   overflow: hidden;
   color: #374151;
   font-size: 0.8rem;

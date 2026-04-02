@@ -1,4 +1,4 @@
-export const locales = ['en', 'zh-hans'] as const;
+export const locales = ['en', 'zh-hans', 'fr', 'es', 'de', 'ja'] as const;
 
 export type BlogLocale = (typeof locales)[number];
 
@@ -11,6 +11,28 @@ export function isLocale(value: string): value is BlogLocale {
 export const localeLabels: Record<BlogLocale, string> = {
   en: 'English',
   'zh-hans': '简体中文',
+  fr: 'Français',
+  es: 'Español',
+  de: 'Deutsch',
+  ja: '日本語',
+};
+
+export const langTags: Record<BlogLocale, string> = {
+  en: 'en',
+  'zh-hans': 'zh-Hans',
+  fr: 'fr',
+  es: 'es',
+  de: 'de',
+  ja: 'ja',
+};
+
+export const intlLocales: Record<BlogLocale, string> = {
+  en: 'en-US',
+  'zh-hans': 'zh-CN',
+  fr: 'fr-FR',
+  es: 'es-ES',
+  de: 'de-DE',
+  ja: 'ja-JP',
 };
 
 // Reads from astro.config.mjs `base` — works for both /blog (prod) and /gamegulf-blog-demo (dev preview)

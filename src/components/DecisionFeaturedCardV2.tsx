@@ -1,7 +1,8 @@
 import type { DecisionEntryCardModel } from '@/lib/blog';
+import { intlLocales } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 import {
   getDecisionDisplayTitle,
-  getCompactDecisionField,
   getCompactPriceCall,
   getDecisionScoreChip,
 } from '@/lib/decision-card-display';
@@ -11,26 +12,22 @@ type DecisionFeaturedCardV2Props = {
   layout?: 'default' | 'worth-it-panel';
 };
 
-function formatCardDate(date: string) {
-  return new Intl.DateTimeFormat('en-US', {
-    year: 'numeric',
-    month: 'short',
-    day: 'numeric',
-  }).format(new Date(date));
+function formatCardDate(card: DecisionEntryCardModel) {
+  return new Intl.DateTimeFormat(intlLocales[card.locale], {
+    year: 'numeric', month: 'short', day: 'numeric',
+  }).format(new Date(card.updatedAt || card.publishedAt));
 }
 
-function getReadingMeta(readingTime: string) {
-  const minutes = readingTime.match(/\d+/u)?.[0];
-  return minutes ? `${minutes} min read` : readingTime;
+function getReadingMeta(card: DecisionEntryCardModel) {
+  const minutes = card.readingTime.match(/\d+/u)?.[0];
+  return minutes ? t(card.locale, 'card.minRead', { n: minutes }) : card.readingTime;
 }
 
 function getReviewMeta(card: DecisionEntryCardModel) {
   const scoreChip = getDecisionScoreChip(card);
   if (!scoreChip) return null;
   const normalizedScore = scoreChip.replace(/\s*MC$/u, '');
-  return card.locale === 'en'
-    ? `Metacritic: ${normalizedScore}`
-    : `Metacritic 评价: ${normalizedScore}`;
+  return t(card.locale, 'card.metacritic', { score: normalizedScore });
 }
 
 export function DecisionFeaturedCardV2({
@@ -39,16 +36,14 @@ export function DecisionFeaturedCardV2({
 }: DecisionFeaturedCardV2Props) {
   const compactPriceCall = getCompactPriceCall(card);
   const displayTitle = getDecisionDisplayTitle(card);
-  const compactBestFor = getCompactDecisionField(card.bestFor, 62);
-  const compactWhatItIs = getCompactDecisionField(card.whatItIs, 92);
-  const compactCommunityVibe = card.communityVibe
-    ? getCompactDecisionField(card.communityVibe, 84)
-    : null;
+  const compactBestFor = card.bestFor;
+  const compactWhatItIs = card.whatItIs;
+  const compactCommunityVibe = card.communityVibe || null;
   const priceAdviceText = compactPriceCall.label;
   const priceAdviceDetail = compactPriceCall.detail;
   const primaryHref = card.href;
   const reviewMeta = getReviewMeta(card);
-  const trackLabel = card.locale === 'en' ? 'Track' : '追踪';
+  const trackLabel = t(card.locale, 'card.track');
   const primaryCtaLabel = card.primaryCtaLabel;
 
   return (
@@ -93,7 +88,7 @@ export function DecisionFeaturedCardV2({
         {compactCommunityVibe ? (
           <div className="decision-vibe-pro">
             <span className="decision-vibe-label-pro">
-              {card.locale === 'en' ? 'Player Consensus' : '玩家热评'}
+              {t(card.locale, 'card.playerConsensus')}
             </span>
             <p className="decision-vibe-text-pro">&ldquo;{compactCommunityVibe}&rdquo;</p>
           </div>
@@ -107,8 +102,8 @@ export function DecisionFeaturedCardV2({
               <path d="M12 12.4L15.2 14.2" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" />
             </svg>
             <span>
-              {card.locale === 'en' ? 'Est. Length:' : '预计时长:'}{' '}
-              <strong>{card.playtime || 'N/A'}</strong>
+              {t(card.locale, 'card.estLength')}{' '}
+              <strong>{card.playtime || t(card.locale, 'common.na')}</strong>
             </span>
           </span>
           {reviewMeta ? (
@@ -126,13 +121,13 @@ export function DecisionFeaturedCardV2({
         <div className="decision-core-grid-pro">
           <div className="decision-core-item-pro">
             <span className="decision-core-label-pro">
-              {card.locale === 'en' ? 'Best For' : '核心受众'}
+              {t(card.locale, 'card.bestFor')}
             </span>
             <span className="decision-core-value-pro">{compactBestFor}</span>
           </div>
           <div className="decision-core-item-pro">
             <span className="decision-core-label-pro">
-              {card.locale === 'en' ? 'Advice' : '购买建议'}
+              {t(card.locale, 'card.advice')}
             </span>
             <span className="decision-core-value-pro decision-core-value-signal-pro">
               {priceAdviceText}
@@ -159,8 +154,8 @@ export function DecisionFeaturedCardV2({
         </div>
 
         <div className="decision-card-footer-meta-pro">
-          <span>{formatCardDate(card.updatedAt || card.publishedAt)}</span>
-          <span>{getReadingMeta(card.readingTime)}</span>
+          <span>{formatCardDate(card)}</span>
+          <span>{getReadingMeta(card)}</span>
         </div>
       </div>
     </article>

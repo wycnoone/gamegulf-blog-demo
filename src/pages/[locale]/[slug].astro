@@ -6,7 +6,7 @@ import {
   blogBasePath,
   formatDate,
   getAllBlogPaths,
-  getAlternatePostPath,
+  getAlternatePostPaths,
   getLocaleAlternates,
   getOgImage,
   getPost,
@@ -15,7 +15,8 @@ import {
   renderPost,
   siteUrl,
 } from '@/lib/blog';
-import { isLocale, locales, type BlogLocale } from '@/lib/i18n';
+import { isLocale, locales, langTags, type BlogLocale } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 
 export async function getStaticPaths() {
   const paths = await getAllBlogPaths();
@@ -39,20 +40,16 @@ if (!post) {
 
 const Content = await renderPost(post);
 const relatedPosts = await getRelatedPosts(post);
-const alternatePostPath = await getAlternatePostPath(post);
+const alternatePostPaths = await getAlternatePostPaths(post);
 const path = `${blogBasePath}/${typedLocale}/${slug}`;
 const ogImage = getOgImage(post);
 
-const languages: Record<string, string> = { [typedLocale]: path };
-if (alternatePostPath) {
-  const otherLocale = locales.find((l) => l !== typedLocale);
-  if (otherLocale) languages[otherLocale] = alternatePostPath;
-}
-const alternates = getLocaleAlternates(languages);
+const localePaths: Partial<Record<BlogLocale, string>> = { [typedLocale]: path, ...alternatePostPaths };
+const alternates = getLocaleAlternates(localePaths);
 
 const verdictText = post.verdict
   ? getVerdictLabel(post.verdict, typedLocale)
-  : (typedLocale === 'en' ? 'See full analysis' : '查看完整分析');
+  : t(typedLocale, 'article.seeFullAnalysis');
 
 const shortTitle = `${post.gameTitle}: ${verdictText} | GameGulf`;
 
@@ -91,18 +88,13 @@ const articleSchema = {
     name: post.gameTitle,
     gamePlatform: post.platform,
   },
-  inLanguage: typedLocale,
+  inLanguage: langTags[typedLocale],
   mainEntityOfPage: `${siteUrl}${path}`,
 };
 
-const priceCallLabels: Record<string, Record<BlogLocale, string>> = {
-  buy: { en: 'Buy now', 'zh-hans': '现在买' },
-  wait: { en: 'Wait for sale', 'zh-hans': '等打折' },
-  watch: { en: 'Watch & track', 'zh-hans': '关注追踪' },
-};
 const priceCallText = post.priceCall
-  ? priceCallLabels[post.priceCall]?.[typedLocale] ?? post.priceCall
-  : (typedLocale === 'en' ? 'See analysis' : '查看分析');
+  ? { buy: t(typedLocale, 'article.priceCallBuy'), wait: t(typedLocale, 'article.priceCallWait'), watch: t(typedLocale, 'article.priceCallWatch') }[post.priceCall]
+  : t(typedLocale, 'article.seeAnalysis');
 
 const voices = post.playerVoices ?? [];
 const positiveVoices = voices.filter((v) => v.sentiment === 'positive');
@@ -116,14 +108,14 @@ const hasOverview = overviewWhatItIs || overviewPraise;
 <BaseLayout
   title={shortTitle}
   description={post.description}
-  lang={typedLocale === 'zh-hans' ? 'zh-Hans' : 'en'}
+  lang={langTags[typedLocale]}
   canonical={path}
   ogImage={ogImage}
   ogType="article"
   alternates={alternates}
   jsonLd={[articleSchema, breadcrumbSchema, faqSchema]}
 >
-  <BlogShell locale={typedLocale}>
+  <BlogShell locale={typedLocale} localePaths={localePaths}>
     <section class="article-shell section-block">
       <div>
         <header class="article-header">
@@ -143,43 +135,36 @@ const hasOverview = overviewWhatItIs || overviewPraise;
             <h1 class="article-title-split">
               <span class="article-title-game">{post.gameTitle}</span>
               <span class="article-title-question">
-                {typedLocale === 'en'
-                  ? post.title.replace(post.gameTitle, '').replace(/^[\s:—–-]+/, '')
-                  : post.title.replace(post.gameTitle, '').replace(/^[\s：:—–\-《》「」]+/, '')}
+                {typedLocale === 'zh-hans' || typedLocale === 'ja'
+                  ? post.title.replace(post.gameTitle, '').replace(/^[\s：:—–\-《》「」]+/, '')
+                  : post.title.replace(post.gameTitle, '').replace(/^[\s:—–-]+/, '')}
               </span>
             </h1>
 
             <div class="meta-row">
-              <span>{formatDate(post.updatedAt || post.publishedAt)}</span>
+              <span>{formatDate(post.updatedAt || post.publishedAt, typedLocale)}</span>
               {post.updatedAt && post.updatedAt !== post.publishedAt && (
-                <span class="meta-updated">Updated {formatDate(post.updatedAt)}</span>
+                <span class="meta-updated">{t(typedLocale, 'article.updated', { date: formatDate(post.updatedAt, typedLocale) })}</span>
               )}
               <span>{post.readingTime}</span>
             </div>
 
-            {/* ── Decision Snapshot ── */}
             <div class="decision-snapshot">
               <div class="decision-snapshot-row">
                 <div class="decision-snapshot-item">
-                  <span class="decision-snapshot-label">
-                    {typedLocale === 'en' ? 'GameGulf Verdict' : 'GameGulf 购买意见'}
-                  </span>
+                  <span class="decision-snapshot-label">{t(typedLocale, 'article.verdictLabel')}</span>
                   <strong class="decision-snapshot-value verdict-value">{verdictText}</strong>
                 </div>
                 {post.playtime && (
                   <div class="decision-snapshot-item">
-                    <span class="decision-snapshot-label">
-                      {typedLocale === 'en' ? 'Playtime' : '游玩时长'}
-                    </span>
+                    <span class="decision-snapshot-label">{t(typedLocale, 'article.playtime')}</span>
                     <span class="decision-snapshot-value">{post.playtime}</span>
                   </div>
                 )}
               </div>
               <div class="decision-snapshot-row">
                 <div class="decision-snapshot-item decision-snapshot-item-wide">
-                  <span class="decision-snapshot-label">
-                    {typedLocale === 'en' ? 'Best For' : '最适合'}
-                  </span>
+                  <span class="decision-snapshot-label">{t(typedLocale, 'article.bestFor')}</span>
                   <span class="decision-snapshot-value">{post.bestFor || post.fitLabel || post.decision}</span>
                 </div>
               </div>
@@ -189,22 +174,17 @@ const hasOverview = overviewWhatItIs || overviewPraise;
           </div>
         </header>
 
-        {/* ── Game Overview — 10-second scan layer ── */}
         {hasOverview && (
           <section class="game-overview">
             {overviewWhatItIs && (
               <div class="overview-row">
-                <strong class="overview-label">
-                  {typedLocale === 'en' ? 'What it is' : '这是什么游戏'}
-                </strong>
+                <strong class="overview-label">{t(typedLocale, 'article.whatItIs')}</strong>
                 <p>{overviewWhatItIs}</p>
               </div>
             )}
             {overviewPraise && (
               <div class="overview-row overview-positive">
-                <strong class="overview-label">
-                  {typedLocale === 'en' ? 'Why players love it' : '玩家最喜欢'}
-                </strong>
+                <strong class="overview-label">{t(typedLocale, 'article.whyPlayersLoveIt')}</strong>
                 <p>{overviewPraise}</p>
               </div>
             )}
@@ -213,36 +193,31 @@ const hasOverview = overviewWhatItIs || overviewPraise;
 
         <div class="article-mobile-actions">
           <section class="sidebar-card sidebar-card-cta">
-            <h3>{typedLocale === 'en' ? 'Next steps on GameGulf' : 'GameGulf 下一步'}</h3>
+            <h3>{t(typedLocale, 'article.nextSteps')}</h3>
             <div class="cta-row">
-              <a href={post.gameHref} class="button-link">{typedLocale === 'en' ? 'Compare pricing' : '比较价格'}</a>
-              <a href={post.priceTrackHref} class="button-link accent">{typedLocale === 'en' ? 'Set price alert' : '开启降价提醒'}</a>
-              <a href={post.wishlistHref} class="button-link secondary">{typedLocale === 'en' ? 'Save to wishlist' : '加入愿望单'}</a>
+              <a href={post.gameHref} class="button-link">{t(typedLocale, 'article.comparePricing')}</a>
+              <a href={post.priceTrackHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
+              <a href={post.wishlistHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
             </div>
           </section>
         </div>
 
-        {/* ── Full analysis ── */}
         <section class="article-reading-card">
           <article class="article-body">
             <Content />
           </article>
         </section>
 
-        {/* ── Takeaway callout ── */}
         {post.takeaway && (
           <div class="takeaway-callout">
-            <strong class="takeaway-label">
-              {typedLocale === 'en' ? 'Bottom line' : '一句话结论'}
-            </strong>
+            <strong class="takeaway-label">{t(typedLocale, 'article.bottomLine')}</strong>
             <p>{post.takeaway}</p>
           </div>
         )}
 
-        {/* ── Player voices (positive only) ── */}
         {positiveVoices.length > 0 && (
           <section class="player-voices section-block">
-            <h2>{typedLocale === 'en' ? 'What players are saying' : '玩家怎么说'}</h2>
+            <h2>{t(typedLocale, 'article.whatPlayersSaying')}</h2>
             <ul class="voices-list">
               {positiveVoices.map((v) => (
                 <li class="voice-item">
@@ -254,15 +229,10 @@ const hasOverview = overviewWhatItIs || overviewPraise;
           </section>
         )}
 
-        {/* ── Community memes ── */}
         {memes.length > 0 && (
           <section class="community-memes section-block">
-            <h2>{typedLocale === 'en' ? 'Community culture' : '社区梗 & 玩家文化'}</h2>
-            <p class="memes-intro">
-              {typedLocale === 'en'
-                ? `Inside jokes and references you will probably encounter once you start playing ${post.gameTitle}.`
-                : `玩了${post.gameTitle}之后你大概率会碰到的社区梗和玩家黑话。`}
-            </p>
+            <h2>{t(typedLocale, 'article.communityCulture')}</h2>
+            <p class="memes-intro">{t(typedLocale, 'article.memesIntro', { gameTitle: post.gameTitle })}</p>
             <ul class="memes-list">
               {memes.map((m) => (
                 <li class="meme-item">{m}</li>
@@ -271,27 +241,20 @@ const hasOverview = overviewWhatItIs || overviewPraise;
           </section>
         )}
 
-        {/* ── GameGulf Recommends ── */}
         <section class="gamegulf-recommends section-block">
-          <h2>{typedLocale === 'en' ? 'What to do next on GameGulf' : '在 GameGulf 上的下一步'}</h2>
+          <h2>{t(typedLocale, 'article.whatToDoNext')}</h2>
           <div class="recommends-grid">
             <a href={post.gameHref} class="recommends-card">
-              <strong>{typedLocale === 'en' ? 'Compare live pricing' : '比较实时价格'}</strong>
-              <span>{typedLocale === 'en'
-                ? `See current prices for ${post.gameTitle} across regions.`
-                : `查看${post.gameTitle}各区域的当前价格。`}</span>
+              <strong>{t(typedLocale, 'article.compareLivePricing')}</strong>
+              <span>{t(typedLocale, 'article.compareLivePricingDesc', { gameTitle: post.gameTitle })}</span>
             </a>
             <a href={post.priceTrackHref} class="recommends-card">
-              <strong>{typedLocale === 'en' ? 'Set a price alert' : '设置降价提醒'}</strong>
-              <span>{typedLocale === 'en'
-                ? 'Get notified when the price drops to your target.'
-                : '价格降到目标时自动通知你。'}</span>
+              <strong>{t(typedLocale, 'article.setAPriceAlert')}</strong>
+              <span>{t(typedLocale, 'article.setPriceAlertDesc')}</span>
             </a>
             <a href={post.wishlistHref} class="recommends-card">
-              <strong>{typedLocale === 'en' ? 'Add to wishlist' : '加入愿望单'}</strong>
-              <span>{typedLocale === 'en'
-                ? 'Save it and decide later with full price context.'
-                : '先收藏，之后结合价格走势再决定。'}</span>
+              <strong>{t(typedLocale, 'article.addToWishlist')}</strong>
+              <span>{t(typedLocale, 'article.addToWishlistDesc')}</span>
             </a>
           </div>
         </section>
@@ -300,11 +263,7 @@ const hasOverview = overviewWhatItIs || overviewPraise;
           <div class="section-head">
             <div>
               <h2>FAQ</h2>
-              <p>
-                {typedLocale === 'en'
-                  ? 'Quick answers to the questions players usually ask before buying.'
-                  : '购买前最常见的问题，方便你快速判断。'}
-              </p>
+              <p>{t(typedLocale, 'article.faqIntro')}</p>
             </div>
           </div>
           <FaqList items={post.faq} />
@@ -313,47 +272,47 @@ const hasOverview = overviewWhatItIs || overviewPraise;
 
       <aside class="sidebar-stack">
         <section class="sidebar-card sidebar-card-cta">
-          <h3>{typedLocale === 'en' ? 'Next steps on GameGulf' : 'GameGulf 下一步'}</h3>
+          <h3>{t(typedLocale, 'article.nextSteps')}</h3>
           <div class="cta-row">
-            <a href={post.gameHref} class="button-link">{typedLocale === 'en' ? 'Compare pricing' : '比较价格'}</a>
-            <a href={post.priceTrackHref} class="button-link accent">{typedLocale === 'en' ? 'Set price alert' : '开启降价提醒'}</a>
-            <a href={post.wishlistHref} class="button-link secondary">{typedLocale === 'en' ? 'Save to wishlist' : '加入愿望单'}</a>
-            <a href={post.membershipHref} class="button-link secondary">{typedLocale === 'en' ? 'See trial benefits' : '查看试玩权益'}</a>
+            <a href={post.gameHref} class="button-link">{t(typedLocale, 'article.comparePricing')}</a>
+            <a href={post.priceTrackHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
+            <a href={post.wishlistHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
+            <a href={post.membershipHref} class="button-link secondary">{t(typedLocale, 'article.seeTrialBenefits')}</a>
           </div>
         </section>
         <section class="sidebar-card sidebar-card-emphasis">
-          <h3>{typedLocale === 'en' ? 'Game at a Glance' : '游戏速览'}</h3>
+          <h3>{t(typedLocale, 'article.gameAtAGlance')}</h3>
           <dl class="glance-list">
             <div class="glance-row">
-              <dt>{typedLocale === 'en' ? 'Platform' : '平台'}</dt>
+              <dt>{t(typedLocale, 'article.platform')}</dt>
               <dd>{post.platform}</dd>
             </div>
             {post.playStyle && (
               <div class="glance-row">
-                <dt>{typedLocale === 'en' ? 'Play Style' : '玩法类型'}</dt>
+                <dt>{t(typedLocale, 'article.playStyle')}</dt>
                 <dd>{post.playStyle}</dd>
               </div>
             )}
             {post.playtime && (
               <div class="glance-row">
-                <dt>{typedLocale === 'en' ? 'Playtime' : '游玩时长'}</dt>
+                <dt>{t(typedLocale, 'article.playtime')}</dt>
                 <dd>{post.playtime}</dd>
               </div>
             )}
             {post.communityVibe && (
               <div class="glance-row">
-                <dt>{typedLocale === 'en' ? 'Player Consensus' : '玩家共识'}</dt>
+                <dt>{t(typedLocale, 'article.playerConsensus')}</dt>
                 <dd>{post.communityVibe}</dd>
               </div>
             )}
             <div class="glance-row">
-              <dt>{typedLocale === 'en' ? 'Price Call' : '价格建议'}</dt>
+              <dt>{t(typedLocale, 'article.priceCallLabel')}</dt>
               <dd><strong>{priceCallText}</strong></dd>
             </div>
           </dl>
         </section>
         <section class="sidebar-card">
-          <h3>{typedLocale === 'en' ? 'Related decisions' : '相关判断'}</h3>
+          <h3>{t(typedLocale, 'article.relatedDecisions')}</h3>
           <ul>
             {relatedPosts.map((item) => (
               <li class="related-item">

@@ -1,19 +1,24 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
-import { blogBasePath } from '@/lib/i18n';
+import { blogBasePath, locales, localeLabels } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 ---
 
-<BaseLayout title="Page Not Found" lang="en">
+<BaseLayout title={t('en', 'notFound.title')} lang="en">
   <main class="landing-shell">
     <section class="landing-hero" style="text-align: center;">
       <p class="eyebrow">404</p>
-      <h1>Page not found</h1>
-      <p class="hero-copy">
-        The page you're looking for doesn't exist or has been moved.
-      </p>
-      <div class="hero-actions" style="justify-content: center;">
-        <a href={`${blogBasePath}/en`}>Browse English guides</a>
-        <a href={`${blogBasePath}/zh-hans`} class="secondary-link">查看中文指南</a>
+      <h1>{t('en', 'notFound.title')}</h1>
+      <p class="hero-copy">{t('en', 'notFound.description')}</p>
+      <div class="hero-actions" style="justify-content: center; flex-wrap: wrap;">
+        {locales.map((l) => (
+          <a
+            href={`${blogBasePath}/${l}`}
+            class={l === 'en' ? '' : 'secondary-link'}
+          >
+            {t(l, 'landing.exploreGuides', { lang: localeLabels[l] })}
+          </a>
+        ))}
       </div>
     </section>
   </main>

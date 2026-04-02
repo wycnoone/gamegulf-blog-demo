@@ -1,18 +1,16 @@
 ---
-import { blogBasePath, type BlogLocale, localeLabels, locales } from '@/lib/i18n';
+import { blogBasePath, type BlogLocale, locales } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 import { topics } from '@/lib/topics';
+import LanguageSelector from './LanguageSelector.astro';
 
 interface Props {
   locale: BlogLocale;
+  localePaths?: Partial<Record<BlogLocale, string>>;
 }
 
-const { locale } = Astro.props;
+const { locale, localePaths } = Astro.props;
 const siteUrl = 'https://www.gamegulf.com';
-
-const localeDescriptions: Record<BlogLocale, string> = {
-  en: 'Switch buying guides, sale timing tips, and price-saving advice for players who want to buy smarter.',
-  'zh-hans': '帮助你判断值不值得买、什么时候入手更划算的 Switch 购买指南。',
-};
 ---
 
 <div class="blog-page">
@@ -27,16 +25,7 @@ const localeDescriptions: Record<BlogLocale, string> = {
           height="32"
         />
       </a>
-      <div class="header-locale-switcher">
-        {locales.map((entry) => (
-          <a
-            href={`${blogBasePath}/${entry}`}
-            class={`locale-pill ${entry === locale ? 'active' : ''}`}
-          >
-            {localeLabels[entry]}
-          </a>
-        ))}
-      </div>
+      <LanguageSelector locale={locale} localePaths={localePaths} />
     </div>
   </header>
 
@@ -45,17 +34,17 @@ const localeDescriptions: Record<BlogLocale, string> = {
       <div>
         <p class="eyebrow">GameGulf Blog</p>
         <div class="blog-intro-title">
-          {locale === 'en' ? 'Switch Buying Guides' : 'Switch 购买决策内容'}
+          {t(locale, 'shell.blogTitle')}
         </div>
-        <p>{localeDescriptions[locale]}</p>
+        <p>{t(locale, 'shell.description')}</p>
       </div>
     </section>
 
     <nav class="topic-nav section-block" aria-label="Guides">
       <div class="topic-nav-row">
-        {topics.map((t) => (
-          <a href={`${blogBasePath}/${locale}/guides/${t.slug}`} class="topic-nav-chip">
-            {t.label[locale]}
+        {topics.map((tp) => (
+          <a href={`${blogBasePath}/${locale}/guides/${tp.slug}`} class="topic-nav-chip">
+            {tp.label[locale]}
           </a>
         ))}
       </div>

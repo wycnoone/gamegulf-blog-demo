@@ -5,6 +5,7 @@ import { DecisionFilterPanel } from './DecisionFilterPanel';
 import { DecisionGridCard } from './DecisionGridCard';
 import type { DecisionEntryCardModel, QuickFilterKey } from '@/lib/blog';
 import type { BlogLocale } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 
 const GRID_PAGE_SIZE = 8;
 
@@ -17,68 +18,56 @@ type HomeMode = 'all' | 'recommended_now' | 'wait_for_sale' | 'set_alert';
 
 function getFilterGroups() { return []; }
 
-function getCopy(locale: BlogLocale) {
-  const zh = locale === 'zh-hans';
-  return {
-    heroTitle: zh ? '这游戏，买不买？' : 'Should you buy it?',
-    trendingLabel: zh ? '热门：' : 'Popular:',
-    showMore: zh ? '加载更多' : 'Show more',
-    guidesUnit: zh ? '篇' : '',
-  };
-}
-
 function getIntentOptions(locale: BlogLocale) {
-  const zh = locale === 'zh-hans';
   return [
     {
       key: 'recommended_now' as const,
-      label: zh ? '想现在买' : 'Ready to buy',
-      desc: zh ? '看看当前价格值不值得立刻入手。' : 'Is today\u2019s price good enough to commit?',
+      label: t(locale, 'home.intent.readyToBuy'),
+      desc: t(locale, 'home.intent.readyToBuyDesc'),
     },
     {
       key: 'wait_for_sale' as const,
-      label: zh ? '等好价' : 'Waiting for a deal',
-      desc: zh ? '哪些游戏值得等？折扣规律是什么？' : 'Which games are worth waiting on?',
+      label: t(locale, 'home.intent.waitingForDeal'),
+      desc: t(locale, 'home.intent.waitingForDealDesc'),
     },
     {
       key: 'set_alert' as const,
-      label: zh ? '还没想好' : 'Still deciding',
-      desc: zh ? '不确定就先关注，等价格和心态都到位再说。' : 'Not sure yet? Track the price and decide later.',
+      label: t(locale, 'home.intent.stillDeciding'),
+      desc: t(locale, 'home.intent.stillDecidingDesc'),
     },
     {
       key: 'all' as const,
-      label: zh ? '看全部' : 'Browse all',
-      desc: zh ? '所有指南，按最新排列。' : 'Every guide, newest first.',
+      label: t(locale, 'home.intent.browseAll'),
+      desc: t(locale, 'home.intent.browseAllDesc'),
     },
   ];
 }
 
 function getSectionCopy(locale: BlogLocale, mode: HomeMode) {
-  const zh = locale === 'zh-hans';
   switch (mode) {
     case 'recommended_now':
       return {
-        featured: zh ? '现在买最值的' : 'Best to buy now',
-        featuredDesc: zh ? '当前价格信号最强的几款。' : 'Strongest buy signals right now.',
-        latest: zh ? '更多适合现在入手的' : 'More games worth buying today',
+        featured: t(locale, 'home.section.buyNow.featured'),
+        featuredDesc: t(locale, 'home.section.buyNow.featuredDesc'),
+        latest: t(locale, 'home.section.buyNow.latest'),
       };
     case 'wait_for_sale':
       return {
-        featured: zh ? '最值得等的' : 'Worth waiting for',
-        featuredDesc: zh ? '折扣规律最清楚的几款。' : 'Clearest sale patterns and timing.',
-        latest: zh ? '更多值得等好价的' : 'More games to wait on',
+        featured: t(locale, 'home.section.wait.featured'),
+        featuredDesc: t(locale, 'home.section.wait.featuredDesc'),
+        latest: t(locale, 'home.section.wait.latest'),
       };
     case 'set_alert':
       return {
-        featured: zh ? '值得先关注的' : 'Worth tracking',
-        featuredDesc: zh ? '还不确定，但值得跟踪价格。' : 'Not ready to buy, but worth watching.',
-        latest: zh ? '更多可以先关注的' : 'More games to track',
+        featured: t(locale, 'home.section.alert.featured'),
+        featuredDesc: t(locale, 'home.section.alert.featuredDesc'),
+        latest: t(locale, 'home.section.alert.latest'),
       };
     default:
       return {
-        featured: zh ? '编辑精选' : 'Editor\u2019s picks',
-        featuredDesc: zh ? '最值得作为起点的几篇。' : 'The best places to start.',
-        latest: zh ? '全部指南' : 'All guides',
+        featured: t(locale, 'home.section.all.featured'),
+        featuredDesc: t(locale, 'home.section.all.featuredDesc'),
+        latest: t(locale, 'home.section.all.latest'),
       };
   }
 }
@@ -112,8 +101,13 @@ function matchesAllFilters(card: DecisionEntryCardModel, activeFilters: QuickFil
   return activeFilters.every((f) => card.quickFilters.includes(f));
 }
 
+function formatGuidesCount(locale: BlogLocale, count: number) {
+  return count === 1
+    ? t(locale, 'home.guideCount', { count: String(count) })
+    : t(locale, 'home.guidesCount', { count: String(count) });
+}
+
 export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
-  const copy = useMemo(() => getCopy(locale), [locale]);
   const intentOptions = useMemo(() => getIntentOptions(locale), [locale]);
   const filterGroups = useMemo(() => getFilterGroups(), []);
   const [query, setQuery] = useState('');
@@ -174,9 +168,8 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
 
   return (
     <div className="decision-home-hub">
-      {/* ── Hero: search-first ── */}
       <section className="decision-home-hero decision-home-hero-compact section-block">
-        <h1>{copy.heroTitle}</h1>
+        <h1>{t(locale, 'home.heroTitle')}</h1>
         <DecisionFilterPanel
           locale={locale}
           groups={filterGroups}
@@ -188,7 +181,7 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
         />
         {trending.length > 0 && (
           <div className="hero-trending">
-            <span className="hero-trending-label">{copy.trendingLabel}</span>
+            <span className="hero-trending-label">{t(locale, 'home.trending')}</span>
             {trending.map((g, i) => (
               <span key={g.href}>
                 {i > 0 && <span className="hero-trending-sep" aria-hidden="true">&middot;</span>}
@@ -199,7 +192,6 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
         )}
       </section>
 
-      {/* ── Intent selector (replaces Trust Module + Mode Filter) ── */}
       <section className="decision-intent-section section-block">
         <div className="decision-intent-grid">
           {intentOptions.map((option) => {
@@ -215,22 +207,17 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
               >
                 <strong className="decision-intent-label">{option.label}</strong>
                 <span className="decision-intent-desc">{option.desc}</span>
-                <span className="decision-intent-count">
-                  {count}{copy.guidesUnit}{' '}
-                  {locale === 'en' ? (count === 1 ? 'guide' : 'guides') : '篇指南'}
-                </span>
+                <span className="decision-intent-count">{formatGuidesCount(locale, count)}</span>
               </button>
             );
           })}
         </div>
       </section>
 
-      {/* ── Content ── */}
       {filteredCards.length === 0 ? (
         <DecisionEmptyState locale={locale} onReset={resetFilters} />
       ) : (
         <>
-          {/* Featured (only when enough cards for a meaningful split) */}
           {featuredCards.length > 0 && (
             <section className="decision-featured-section section-block">
               <div className="section-head">
@@ -247,7 +234,6 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
             </section>
           )}
 
-          {/* Grid */}
           {allLatestCards.length > 0 && (
             <section className="decision-latest-section section-block">
               {featuredCards.length > 0 && (
@@ -265,7 +251,7 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
               {hasMoreCards && (
                 <div className="decision-show-more">
                   <button type="button" className="decision-show-more-btn" onClick={showMore}>
-                    {copy.showMore}
+                    {t(locale, 'home.showMore')}
                   </button>
                 </div>
               )}

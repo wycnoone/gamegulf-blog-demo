@@ -9,7 +9,8 @@ import {
   getLocaleAlternates,
   siteUrl,
 } from '@/lib/blog';
-import { isLocale, locales, type BlogLocale } from '@/lib/i18n';
+import { isLocale, locales, langTags, type BlogLocale } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 import { topics, type TopicDefinition } from '@/lib/topics';
 
 export async function getStaticPaths() {
@@ -41,11 +42,12 @@ const typedLocale = locale as BlogLocale;
 const cards = await getDecisionEntryCardsByTopic(typedLocale, topic.filter);
 const path = `${blogBasePath}/${typedLocale}/guides/${topic.slug}`;
 
-const alternates = getLocaleAlternates(
-  Object.fromEntries(locales.map((l) => [l, `${blogBasePath}/${l}/guides/${topic.slug}`])),
-);
+const localePaths = Object.fromEntries(
+  locales.map((l) => [l, `${blogBasePath}/${l}/guides/${topic.slug}`]),
+) as Record<BlogLocale, string>;
+const alternates = getLocaleAlternates(localePaths);
 
-const otherTopics = topics.filter((t) => t.slug !== topic.slug);
+const otherTopics = topics.filter((tp) => tp.slug !== topic.slug);
 
 const breadcrumbSchema = {
   '@context': 'https://schema.org',
@@ -78,18 +80,16 @@ const collectionSchema = {
 <BaseLayout
   title={topic.title[typedLocale]}
   description={topic.description[typedLocale]}
-  lang={typedLocale === 'zh-hans' ? 'zh-Hans' : 'en'}
+  lang={langTags[typedLocale]}
   canonical={path}
   ogImage={defaultOgImage}
   alternates={alternates}
   jsonLd={[collectionSchema, breadcrumbSchema]}
 >
-  <BlogShell locale={typedLocale}>
+  <BlogShell locale={typedLocale} localePaths={localePaths}>
     <section class="topic-page section-block">
       <header class="decision-category-hero section-block">
-        <p class="eyebrow">
-          {typedLocale === 'en' ? 'GameGulf Guide' : 'GameGulf 指南'}
-        </p>
+        <p class="eyebrow">{t(typedLocale, 'guide.eyebrow')}</p>
         <h1>{topic.title[typedLocale]}</h1>
         <p class="worth-it-hero-copy">{topic.intro[typedLocale]}</p>
       </header>
@@ -100,19 +100,15 @@ const collectionSchema = {
         <section class="section-block topic-related-section">
           <div class="section-head">
             <div>
-              <h2>{typedLocale === 'en' ? 'Browse more guides' : '浏览更多指南'}</h2>
-              <p>
-                {typedLocale === 'en'
-                  ? 'Explore Switch buying guides by topic.'
-                  : '按话题浏览更多 Switch 购买指南。'}
-              </p>
+              <h2>{t(typedLocale, 'guide.browseMore')}</h2>
+              <p>{t(typedLocale, 'guide.browseMoreDesc')}</p>
             </div>
           </div>
           <div class="topic-link-grid">
-            {otherTopics.map((t) => (
-              <a href={`${blogBasePath}/${typedLocale}/guides/${t.slug}`} class="topic-link-card">
-                <strong>{t.label[typedLocale]}</strong>
-                <span>{t.description[typedLocale].slice(0, 60)}…</span>
+            {otherTopics.map((tp) => (
+              <a href={`${blogBasePath}/${typedLocale}/guides/${tp.slug}`} class="topic-link-card">
+                <strong>{tp.label[typedLocale]}</strong>
+                <span>{tp.description[typedLocale].slice(0, 60)}…</span>
               </a>
             ))}
           </div>
