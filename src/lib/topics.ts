@@ -16,7 +16,7 @@ export const topics: TopicDefinition[] = [
   {
     slug: 'best-co-op-switch-games',
     filter: 'co_op',
-    label: { en: 'Co-op', 'zh-hans': '合作游戏', fr: 'Coop', es: 'Cooperativo', de: 'Koop', ja: '協力プレイ' },
+    label: { en: 'Co-op', 'zh-hans': '合作游戏', fr: 'Coop', es: 'Cooperativo', de: 'Koop', ja: '協力プレイ', pt: 'Cooperativo' },
     title: {
       en: `Best Co-op & Multiplayer Switch Games (${year})`,
       'zh-hans': `最佳 Switch 合作/多人游戏推荐（${year}）`,
@@ -24,6 +24,7 @@ export const topics: TopicDefinition[] = [
       es: `Mejores juegos Switch cooperativos y multijugador (${year})`,
       de: `Beste Koop- & Mehrspieler-Switch-Spiele (${year})`,
       ja: `おすすめSwitch協力・マルチプレイゲーム（${year}）`,
+      pt: `Melhores jogos cooperativos e multiplayer para Switch (${year})`,
     },
     description: {
       en: 'Curated co-op and multiplayer Switch games with buying advice, player fit, and price timing from GameGulf.',
@@ -32,6 +33,7 @@ export const topics: TopicDefinition[] = [
       es: 'Selección de juegos Switch cooperativos con consejos de compra, ajuste de jugador y momento del precio.',
       de: 'Kuratierte Koop- und Mehrspieler-Switch-Spiele mit Kaufberatung, Spieler-Passung und Preis-Timing.',
       ja: '購入アドバイス・プレイヤー適合度・価格タイミング付きの厳選Switch協力・マルチゲーム。',
+      pt: 'Jogos cooperativos e multiplayer para Switch com dicas de compra, perfil de jogador e timing de preço.',
     },
     intro: {
       en: 'Looking for the best co-op and multiplayer games on Nintendo Switch? These guides help you judge which titles are worth buying for group play, local sessions, and party nights — and whether the current price is right.',
@@ -40,12 +42,13 @@ export const topics: TopicDefinition[] = [
       es: '¿Buscas los mejores juegos cooperativos en Nintendo Switch? Estas guías te ayudan a elegir los títulos para jugar en grupo y saber si el precio es adecuado.',
       de: 'Auf der Suche nach den besten Koop-Spielen für Nintendo Switch? Diese Ratgeber helfen Ihnen bei der Auswahl für Gruppenabende und bewerten den aktuellen Preis.',
       ja: 'Nintendo Switchのおすすめ協力・マルチプレイゲームをお探しですか？グループプレイやパーティーに最適なタイトルと、今の価格が適正かを判断できます。',
+      pt: 'Procurando os melhores jogos cooperativos e multiplayer para Nintendo Switch? Estes guias ajudam a decidir quais títulos valem a pena para jogar em grupo, sessões locais e noites de festa — e se o preço atual está bom.',
     },
   },
   {
     slug: 'best-switch-rpgs',
     filter: 'long_rpg',
-    label: { en: 'RPGs', 'zh-hans': 'RPG', fr: 'RPG', es: 'RPG', de: 'RPGs', ja: 'RPG' },
+    label: { en: 'RPGs', 'zh-hans': 'RPG', fr: 'RPG', es: 'RPG', de: 'RPGs', ja: 'RPG', pt: 'RPGs' },
     title: {
       en: `Best RPGs on Nintendo Switch (${year})`,
       'zh-hans': `最佳 Switch RPG 游戏推荐（${year}）`,
@@ -53,6 +56,7 @@ export const topics: TopicDefinition[] = [
       es: `Mejores RPG en Nintendo Switch (${year})`,
       de: `Beste RPGs auf Nintendo Switch (${year})`,
       ja: `おすすめNintendo Switch RPG（${year}）`,
+      pt: `Melhores RPGs para Nintendo Switch (${year})`,
     },
     description: {
       en: 'Long-form RPGs on Switch ranked by player fit, time commitment, and buying value. GameGulf decision guides.',
@@ -61,6 +65,7 @@ export const topics: TopicDefinition[] = [
       es: 'RPG largos en Switch clasificados por ajuste, tiempo de inversión y valor de compra.',
       de: 'Langzeit-RPGs auf Switch, sortiert nach Passung, Zeitaufwand und Kaufwert.',
       ja: 'プレイヤー適合度・時間投入・購入価値で評価したSwitch RPGガイド。',
+      pt: 'RPGs longos para Switch classificados por perfil de jogador, tempo de investimento e valor de compra. Guias GameGulf.',
     },
     intro: {
       en: 'These are the RPGs on Nintendo Switch that demand serious time but deliver strong long-term value. Each guide breaks down who the game is for, how much time it takes, and whether the price is right for you.',
@@ -69,12 +74,13 @@ export const topics: TopicDefinition[] = [
       es: 'Estos RPG en Switch requieren tiempo pero ofrecen gran valor. Cada guía analiza para quién es el juego y si el precio es justo.',
       de: 'Diese RPGs auf Switch brauchen Zeit, bieten aber starken Langzeitwert. Jeder Ratgeber analysiert, für wen das Spiel passt und ob der Preis stimmt.',
       ja: 'これらのSwitch RPGは時間がかかるが、長期的な価値は高い。各ガイドで誰向けか、プレイ時間、価格の妥当性を分析。',
+      pt: 'Estes são os RPGs para Nintendo Switch que exigem tempo sério, mas entregam grande valor a longo prazo. Cada guia analisa para quem o jogo é indicado, quanto tempo leva e se o preço vale a pena.',
     },
   },
   {
     slug: 'best-family-switch-games',
     filter: 'family_friendly',
-    label: { en: 'Family', 'zh-hans': '家庭游戏', fr: 'Famille', es: 'Familia', de: 'Familie', ja: 'ファミリー' },
+    label: { en: 'Family', 'zh-hans': '家庭游戏', fr: 'Famille', es: 'Familia', de: 'Familie', ja: 'ファミリー', pt: 'Família' },
     title: {
       en: `Best Family-Friendly Nintendo Switch Games (${year})`,
       'zh-hans': `最佳 Switch 家庭游戏推荐（${year}）`,
@@ -82,6 +88,7 @@ export const topics: TopicDefinition[] = [
       es: `Mejores juegos Switch para toda la familia (${year})`,
       de: `Beste familienfreundliche Nintendo-Switch-Spiele (${year})`,
       ja: `おすすめファミリー向けSwitch ゲーム（${year}）`,
+      pt: `Melhores jogos Nintendo Switch para toda a família (${year})`,
     },
     description: {
       en: 'Family-safe Switch games reviewed for player fit, age range, and value. GameGulf buying guides.',
@@ -90,6 +97,7 @@ export const topics: TopicDefinition[] = [
       es: 'Juegos Switch familiares evaluados por ajuste, rango de edad y valor.',
       de: 'Familienfreundliche Switch-Spiele bewertet nach Passung, Altersgruppe und Preis-Leistung.',
       ja: 'プレイヤー適合度・対象年齢・コスパで評価したファミリー向けSwitchゲーム。',
+      pt: 'Jogos Switch para toda a família avaliados por perfil de jogador, faixa etária e custo-benefício. Guias GameGulf.',
     },
     intro: {
       en: 'Finding games the whole family can enjoy on Nintendo Switch means balancing accessibility, fun for different ages, and price. These guides help you decide which family-friendly titles are worth the investment.',
@@ -98,12 +106,13 @@ export const topics: TopicDefinition[] = [
       es: 'Encontrar juegos para toda la familia en Switch significa equilibrar accesibilidad, diversión para todas las edades y precio.',
       de: 'Familienspiele auf Switch finden bedeutet, Zugänglichkeit, Spaß für alle Altersgruppen und Preis abzuwägen.',
       ja: 'Switch で家族全員が楽しめるゲームを見つけるには、手軽さ・年齢層・価格のバランスが大切。',
+      pt: 'Encontrar jogos que toda a família possa curtir no Nintendo Switch exige equilibrar acessibilidade, diversão para várias idades e preço. Estes guias ajudam a decidir quais títulos valem o investimento.',
     },
   },
   {
     slug: 'best-nintendo-first-party-games',
     filter: 'nintendo_first_party',
-    label: { en: 'First-Party', 'zh-hans': '第一方', fr: 'First-Party', es: 'First-Party', de: 'First-Party', ja: 'ファーストパーティ' },
+    label: { en: 'First-Party', 'zh-hans': '第一方', fr: 'First-Party', es: 'First-Party', de: 'First-Party', ja: 'ファーストパーティ', pt: 'First-Party' },
     title: {
       en: `Best Nintendo First-Party Switch Games (${year})`,
       'zh-hans': `最佳任天堂第一方 Switch 游戏推荐（${year}）`,
@@ -111,6 +120,7 @@ export const topics: TopicDefinition[] = [
       es: `Mejores juegos first-party de Nintendo Switch (${year})`,
       de: `Beste Nintendo-First-Party-Switch-Spiele (${year})`,
       ja: `おすすめ任天堂ファーストパーティSwitch ゲーム（${year}）`,
+      pt: `Melhores jogos first-party da Nintendo para Switch (${year})`,
     },
     description: {
       en: "Nintendo's own Switch games ranked by value, fit, and deal timing. Know when to buy and when to wait.",
@@ -119,6 +129,7 @@ export const topics: TopicDefinition[] = [
       es: 'Juegos de Nintendo clasificados por valor, ajuste y momento de compra.',
       de: 'Nintendos eigene Spiele, sortiert nach Wert, Passung und Deal-Timing.',
       ja: '任天堂自社タイトルを価値・適合度・セールタイミングで評価。',
+      pt: 'Jogos da própria Nintendo classificados por valor, perfil e timing de promoção. Saiba quando comprar e quando esperar.',
     },
     intro: {
       en: "Nintendo first-party titles tend to hold their price longer than most Switch games. These guides help you decide which ones are worth paying near full price for and which deserve a patient wait.",
@@ -127,12 +138,13 @@ export const topics: TopicDefinition[] = [
       es: 'Los juegos de Nintendo mantienen su precio más tiempo. Estas guías te ayudan a decidir cuáles valen el precio completo.',
       de: 'Nintendo-Spiele halten ihren Preis länger. Diese Ratgeber helfen Ihnen zu entscheiden, welche den vollen Preis wert sind.',
       ja: '任天堂タイトルは値下がりしにくい。定価で買う価値があるものと、待つべきものを見極めよう。',
+      pt: 'Jogos first-party da Nintendo tendem a manter o preço por mais tempo que a maioria dos títulos de Switch. Estes guias ajudam a decidir quais valem pagar perto do preço cheio e quais merecem uma espera paciente.',
     },
   },
   {
     slug: 'best-switch-games-short-sessions',
     filter: 'short_sessions',
-    label: { en: 'Short Sessions', 'zh-hans': '碎片时间', fr: 'Sessions courtes', es: 'Sesiones cortas', de: 'Kurze Sessions', ja: '短時間プレイ' },
+    label: { en: 'Short Sessions', 'zh-hans': '碎片时间', fr: 'Sessions courtes', es: 'Sesiones cortas', de: 'Kurze Sessions', ja: '短時間プレイ', pt: 'Sessões curtas' },
     title: {
       en: `Best Switch Games for Short Play Sessions (${year})`,
       'zh-hans': `最适合碎片时间的 Switch 游戏推荐（${year}）`,
@@ -140,6 +152,7 @@ export const topics: TopicDefinition[] = [
       es: `Mejores juegos Switch para sesiones cortas (${year})`,
       de: `Beste Switch-Spiele für kurze Spielsessions (${year})`,
       ja: `短時間プレイにおすすめのSwitch ゲーム（${year}）`,
+      pt: `Melhores jogos Switch para sessões curtas de jogo (${year})`,
     },
     description: {
       en: 'Switch games perfect for 15–30 minute sessions. Ideal for busy schedules and portable play.',
@@ -148,6 +161,7 @@ export const topics: TopicDefinition[] = [
       es: 'Juegos Switch perfectos para sesiones de 15 a 30 minutos. Ideal para horarios ocupados.',
       de: 'Switch-Spiele perfekt für 15–30-Minuten-Sessions. Ideal für unterwegs.',
       ja: '15〜30分のプレイに最適なSwitchゲーム。通勤・昼休み・就寝前に。',
+      pt: 'Jogos Switch perfeitos para sessões de 15 a 30 minutos. Ideais para rotinas corridas e jogo portátil.',
     },
     intro: {
       en: 'Not every game needs hours of uninterrupted time. These Switch titles work great in short bursts — perfect for commutes, lunch breaks, or winding down before bed.',
@@ -156,12 +170,13 @@ export const topics: TopicDefinition[] = [
       es: 'No todos los juegos necesitan horas seguidas. Estos títulos Switch funcionan genial en sesiones cortas.',
       de: 'Nicht jedes Spiel braucht Stunden. Diese Switch-Titel funktionieren super in kurzen Sessions.',
       ja: '何時間も連続プレイする必要はない。通勤や休憩時間にサクッと遊べるSwitchタイトル。',
+      pt: 'Nem todo jogo precisa de horas seguidas. Estes títulos de Switch funcionam muito bem em sessões curtas — perfeitos para o trajeto, intervalo do almoço ou antes de dormir.',
     },
   },
   {
     slug: 'best-switch-games-under-20',
     filter: 'under_20',
-    label: { en: 'Under $20', 'zh-hans': '低于$20', fr: 'Moins de 20 €', es: 'Menos de $20', de: 'Unter 20 €', ja: '2000円以下' },
+    label: { en: 'Under $20', 'zh-hans': '低于$20', fr: 'Moins de 20 €', es: 'Menos de $20', de: 'Unter 20 €', ja: '2000円以下', pt: 'Menos de $20' },
     title: {
       en: `Best Switch Games Under $20 (${year})`,
       'zh-hans': `低于 $20 的最佳 Switch 游戏推荐（${year}）`,
@@ -169,6 +184,7 @@ export const topics: TopicDefinition[] = [
       es: `Mejores juegos Switch por menos de $20 (${year})`,
       de: `Beste Switch-Spiele unter 20 € (${year})`,
       ja: `2000円以下のおすすめSwitchゲーム（${year}）`,
+      pt: `Melhores jogos Switch abaixo de $20 (${year})`,
     },
     description: {
       en: 'Quality Switch games under $20 that deliver real value. Sorted by deal quality and player fit.',
@@ -177,6 +193,7 @@ export const topics: TopicDefinition[] = [
       es: 'Juegos Switch de calidad por menos de $20, ordenados por valor y ajuste.',
       de: 'Qualitäts-Switch-Spiele unter 20 €, sortiert nach Deal-Qualität und Passung.',
       ja: '2000円以下でも質の高いSwitchゲーム。お得度とプレイヤー適合度で評価。',
+      pt: 'Jogos Switch de qualidade por menos de $20 com real custo-benefício. Ordenados por qualidade da oferta e perfil do jogador.',
     },
     intro: {
       en: 'Great games do not have to be expensive. These Switch titles are available under $20 and still deliver strong value for the price. Each guide covers player fit and whether the current deal is actually good.',
@@ -185,12 +202,13 @@ export const topics: TopicDefinition[] = [
       es: 'Los buenos juegos no tienen que ser caros. Estos títulos Switch cuestan menos de $20 y ofrecen gran valor.',
       de: 'Gute Spiele müssen nicht teuer sein. Diese Switch-Titel unter 20 € bieten starken Gegenwert.',
       ja: '良いゲームは高くなくてもいい。2000円以下でもコスパ抜群のSwitchタイトルを紹介。',
+      pt: 'Bons jogos não precisam ser caros. Estes títulos de Switch custam menos de $20 e ainda entregam ótimo custo-benefício. Cada guia avalia o perfil do jogador e se a oferta atual realmente vale a pena.',
     },
   },
   {
     slug: 'best-switch-deals',
     filter: 'great_on_sale',
-    label: { en: 'On Sale', 'zh-hans': '好价推荐', fr: 'En promo', es: 'En oferta', de: 'Im Angebot', ja: 'セール中' },
+    label: { en: 'On Sale', 'zh-hans': '好价推荐', fr: 'En promo', es: 'En oferta', de: 'Im Angebot', ja: 'セール中', pt: 'Em promoção' },
     title: {
       en: `Best Nintendo Switch Game Deals (${year})`,
       'zh-hans': `Switch 打折好价推荐（${year}）`,
@@ -198,6 +216,7 @@ export const topics: TopicDefinition[] = [
       es: `Mejores ofertas Switch (${year})`,
       de: `Beste Nintendo-Switch-Angebote (${year})`,
       ja: `お得なNintendo Switchセール情報（${year}）`,
+      pt: `Melhores ofertas de jogos Nintendo Switch (${year})`,
     },
     description: {
       en: 'Switch games with the strongest active deals. Buying advice on whether each sale is worth jumping on.',
@@ -206,6 +225,7 @@ export const topics: TopicDefinition[] = [
       es: 'Juegos Switch con las mejores ofertas activas. Consejos sobre cada oferta.',
       de: 'Switch-Spiele mit den besten aktuellen Deals. Kaufberatung für jedes Angebot.',
       ja: '今最もお得なSwitchゲームのセール情報。各セールが買い時かアドバイス付き。',
+      pt: 'Jogos Switch com as melhores promoções ativas. Dicas de compra sobre cada oferta.',
     },
     intro: {
       en: 'These Switch games are at strong discount levels right now. But a low price alone does not make a smart buy — these guides also check whether the game actually fits you before you spend.',
@@ -214,12 +234,13 @@ export const topics: TopicDefinition[] = [
       es: 'Estos juegos Switch tienen grandes descuentos ahora. Pero un precio bajo no es todo — estas guías también verifican si el juego es para ti.',
       de: 'Diese Switch-Spiele haben aktuell starke Rabatte. Aber ein niedriger Preis allein reicht nicht — diese Ratgeber prüfen auch die Passung.',
       ja: 'これらのSwitchゲームは現在大幅値引き中。ただし安いだけでは不十分——自分に合うかもチェック。',
+      pt: 'Estes jogos de Switch estão com ótimos descontos agora. Mas preço baixo sozinho não garante uma boa compra — estes guias também verificam se o jogo realmente combina com você.',
     },
   },
   {
     slug: 'switch-games-rarely-on-sale',
     filter: 'rarely_discounted',
-    label: { en: 'Rarely On Sale', 'zh-hans': '很少打折', fr: 'Rarement en promo', es: 'Raramente rebajado', de: 'Selten im Sale', ja: 'セール稀' },
+    label: { en: 'Rarely On Sale', 'zh-hans': '很少打折', fr: 'Rarement en promo', es: 'Raramente rebajado', de: 'Selten im Sale', ja: 'セール稀', pt: 'Raramente em promoção' },
     title: {
       en: 'Switch Games That Rarely Go on Sale',
       'zh-hans': '很少打折的 Switch 游戏',
@@ -227,6 +248,7 @@ export const topics: TopicDefinition[] = [
       es: 'Juegos Switch que raramente están en oferta',
       de: 'Switch-Spiele, die selten im Sale sind',
       ja: 'めったにセールしないSwitchゲーム',
+      pt: 'Jogos Switch que raramente entram em promoção',
     },
     description: {
       en: 'Nintendo Switch games that hold their price stubbornly. Know what to expect before waiting for a sale.',
@@ -235,6 +257,7 @@ export const topics: TopicDefinition[] = [
       es: 'Juegos Switch que mantienen su precio. Lo que debes saber antes de esperar una oferta.',
       de: 'Switch-Spiele, die ihren Preis hartnäckig halten. Was Sie wissen sollten, bevor Sie auf einen Sale warten.',
       ja: '頑固に値段が下がらないSwitchゲーム。セールを待つ前に知っておくべきこと。',
+      pt: 'Jogos Nintendo Switch que mantêm o preço teimosamente. Saiba o que esperar antes de aguardar uma promoção.',
     },
     intro: {
       en: 'Some Switch games almost never see meaningful discounts. If you are waiting for a deep sale on one of these, it helps to know the actual pricing history so you can set realistic expectations.',
@@ -243,6 +266,7 @@ export const topics: TopicDefinition[] = [
       es: 'Algunos juegos Switch casi nunca tienen descuentos significativos. Conocer su historial de precios ayuda a ajustar expectativas.',
       de: 'Manche Switch-Spiele werden fast nie rabattiert. Die Preishistorie zu kennen hilft, realistische Erwartungen zu setzen.',
       ja: '一部のSwitchゲームは大幅値引きがほぼない。価格履歴を知って、現実的な期待値を持とう。',
+      pt: 'Alguns jogos de Switch quase nunca têm descontos significativos. Se você está esperando uma grande promoção em algum destes, conhecer o histórico real de preços ajuda a ter expectativas realistas.',
     },
   },
 ];

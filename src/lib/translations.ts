@@ -11,6 +11,7 @@ export const ui = {
     es: 'Guías de compra Switch',
     de: 'Switch Kaufratgeber',
     ja: 'Switch 購入ガイド',
+    pt: 'Guias de Compra Switch',
   },
   'shell.description': {
     en: 'Switch buying guides, sale timing tips, and price-saving advice for players who want to buy smarter.',
@@ -19,6 +20,7 @@ export const ui = {
     es: 'Guías de compra Switch, consejos sobre ofertas y trucos para comprar al mejor precio.',
     de: 'Switch-Kaufratgeber, Sale-Tipps und Spartipps für clevere Spieler.',
     ja: 'Switch の購入ガイド、セール時期の見極め、賢く買うためのアドバイス。',
+    pt: 'Guias de compra Switch, dicas de promoções e conselhos para economizar para quem quer comprar melhor.',
   },
 
   // ── Home Hub ──
@@ -29,6 +31,7 @@ export const ui = {
     es: '¿Vale la pena comprarlo?',
     de: 'Lohnt sich der Kauf?',
     ja: 'このゲーム、買うべき？',
+    pt: 'Vale a pena comprar?',
   },
   'home.trending': {
     en: 'Popular:',
@@ -37,6 +40,7 @@ export const ui = {
     es: 'Populares:',
     de: 'Beliebt:',
     ja: '人気：',
+    pt: 'Em alta:',
   },
   'home.showMore': {
     en: 'Show more',
@@ -45,6 +49,7 @@ export const ui = {
     es: 'Ver más',
     de: 'Mehr anzeigen',
     ja: 'もっと見る',
+    pt: 'Ver mais',
   },
   'home.guidesCount': {
     en: '{count} guides',
@@ -53,6 +58,7 @@ export const ui = {
     es: '{count} guías',
     de: '{count} Ratgeber',
     ja: '{count} 件のガイド',
+    pt: '{count} guias',
   },
   'home.guideCount': {
     en: '{count} guide',
@@ -61,6 +67,7 @@ export const ui = {
     es: '{count} guía',
     de: '{count} Ratgeber',
     ja: '{count} 件のガイド',
+    pt: '{count} guia',
   },
 
   // Home Hub - Intent Options
@@ -71,6 +78,7 @@ export const ui = {
     es: 'Listo para comprar',
     de: 'Kaufbereit',
     ja: '今すぐ買いたい',
+    pt: 'Pronto pra comprar',
   },
   'home.intent.readyToBuyDesc': {
     en: 'Is today\u2019s price good enough to commit?',
@@ -79,6 +87,7 @@ export const ui = {
     es: '¿El precio actual vale la pena?',
     de: 'Ist der heutige Preis gut genug?',
     ja: '今の価格で買う価値はある？',
+    pt: 'O preço de hoje compensa?',
   },
   'home.intent.waitingForDeal': {
     en: 'Waiting for a deal',
@@ -87,6 +96,7 @@ export const ui = {
     es: 'Esperando oferta',
     de: 'Auf Angebot warten',
     ja: 'セール待ち',
+    pt: 'Esperando promoção',
   },
   'home.intent.waitingForDealDesc': {
     en: 'Which games are worth waiting on?',
@@ -95,6 +105,7 @@ export const ui = {
     es: '¿Qué juegos vale la pena esperar?',
     de: 'Bei welchen Spielen lohnt sich das Warten?',
     ja: 'どのゲームがセール待ちの価値あり？',
+    pt: 'Quais jogos valem a pena esperar?',
   },
   'home.intent.stillDeciding': {
     en: 'Still deciding',
@@ -103,6 +114,7 @@ export const ui = {
     es: 'Aún decidiendo',
     de: 'Noch unentschlossen',
     ja: 'まだ迷っている',
+    pt: 'Ainda decidindo',
   },
   'home.intent.stillDecidingDesc': {
     en: 'Not sure yet? Track the price and decide later.',
@@ -111,6 +123,7 @@ export const ui = {
     es: '¿No estás seguro? Sigue el precio y decide después.',
     de: 'Noch unsicher? Preis verfolgen und später entscheiden.',
     ja: 'まだ迷うなら価格を追跡して、後で決めよう。',
+    pt: 'Não tem certeza? Acompanhe o preço e decida depois.',
   },
   'home.intent.browseAll': {
     en: 'Browse all',
@@ -119,6 +132,7 @@ export const ui = {
     es: 'Ver todo',
     de: 'Alle durchsuchen',
     ja: 'すべて見る',
+    pt: 'Ver tudo',
   },
   'home.intent.browseAllDesc': {
     en: 'Every guide, newest first.',
@@ -127,6 +141,7 @@ export const ui = {
     es: 'Todas las guías, de la más reciente.',
     de: 'Alle Ratgeber, neueste zuerst.',
     ja: 'すべてのガイド、新しい順。',
+    pt: 'Todos os guias, mais recentes primeiro.',
   },
 
   // Home Hub - Section Copy (Buy Now mode)
@@ -137,6 +152,7 @@ export const ui = {
     es: 'Mejor comprar ahora',
     de: 'Jetzt am besten kaufen',
     ja: '今買うのがベスト',
+    pt: 'Melhor comprar agora',
   },
   'home.section.buyNow.featuredDesc': {
     en: 'Strongest buy signals right now.',
@@ -145,6 +161,7 @@ export const ui = {
     es: 'Las señales de compra más fuertes ahora.',
     de: 'Stärkste Kaufsignale im Moment.',
     ja: '現在の購入シグナルが最も強いタイトル。',
+    pt: 'Sinais de compra mais fortes no momento.',
   },
   'home.section.buyNow.latest': {
     en: 'More games worth buying today',
@@ -153,6 +170,7 @@ export const ui = {
     es: 'Más juegos que vale comprar hoy',
     de: 'Weitere Spiele, die sich jetzt lohnen',
     ja: '今買う価値のあるゲームをもっと見る',
+    pt: 'Mais jogos que valem comprar hoje',
   },
 
   // Home Hub - Section Copy (Wait mode)
@@ -163,6 +181,7 @@ export const ui = {
     es: 'Vale la pena esperar',
     de: 'Warten lohnt sich',
     ja: 'セール待ちの価値あり',
+    pt: 'Vale a pena esperar',
   },
   'home.section.wait.featuredDesc': {
     en: 'Clearest sale patterns and timing.',
@@ -171,6 +190,7 @@ export const ui = {
     es: 'Patrones de oferta más claros.',
     de: 'Klarste Sale-Muster und Timing.',
     ja: 'セールパターンが最も明確なタイトル。',
+    pt: 'Padrões de promoção e timing mais claros.',
   },
   'home.section.wait.latest': {
     en: 'More games to wait on',
@@ -179,6 +199,7 @@ export const ui = {
     es: 'Más juegos para esperar',
     de: 'Weitere Spiele zum Abwarten',
     ja: 'もっとセール待ちのゲームを見る',
+    pt: 'Mais jogos pra esperar',
   },
 
   // Home Hub - Section Copy (Set Alert mode)
@@ -189,6 +210,7 @@ export const ui = {
     es: 'Vale la pena seguir',
     de: 'Beobachtenswert',
     ja: '追跡する価値あり',
+    pt: 'Vale acompanhar',
   },
   'home.section.alert.featuredDesc': {
     en: 'Not ready to buy, but worth watching.',
@@ -197,6 +219,7 @@ export const ui = {
     es: 'Aún no para comprar, pero vale seguir.',
     de: 'Noch nicht kaufen, aber im Auge behalten.',
     ja: 'まだ買わないけど、追跡する価値はある。',
+    pt: 'Ainda não é hora de comprar, mas vale ficar de olho.',
   },
   'home.section.alert.latest': {
     en: 'More games to track',
@@ -205,6 +228,7 @@ export const ui = {
     es: 'Más juegos para seguir',
     de: 'Weitere Spiele zum Verfolgen',
     ja: '追跡するゲームをもっと見る',
+    pt: 'Mais jogos pra acompanhar',
   },
 
   // Home Hub - Section Copy (All mode)
@@ -215,6 +239,7 @@ export const ui = {
     es: 'Selección editorial',
     de: 'Redaktionsempfehlung',
     ja: '編集部のおすすめ',
+    pt: 'Escolhas da redação',
   },
   'home.section.all.featuredDesc': {
     en: 'The best places to start.',
@@ -223,6 +248,7 @@ export const ui = {
     es: 'Los mejores puntos de partida.',
     de: 'Die besten Startpunkte.',
     ja: '最初に読むべきガイド。',
+    pt: 'Os melhores pontos de partida.',
   },
   'home.section.all.latest': {
     en: 'All guides',
@@ -231,6 +257,7 @@ export const ui = {
     es: 'Todas las guías',
     de: 'Alle Ratgeber',
     ja: 'すべてのガイド',
+    pt: 'Todos os guias',
   },
 
   // ── Empty State ──
@@ -241,6 +268,7 @@ export const ui = {
     es: 'Aún no hay guías que coincidan',
     de: 'Noch keine passenden Ratgeber',
     ja: 'まだ該当するガイドがありません',
+    pt: 'Nenhum guia corresponde a esta busca ainda',
   },
   'empty.description': {
     en: 'Try clearing your search or filters, then jump back in with one of the strongest decision paths.',
@@ -249,6 +277,7 @@ export const ui = {
     es: 'Intenta limpiar tus filtros y vuelve a explorar las mejores rutas de decisión.',
     de: 'Versuchen Sie, Filter zurückzusetzen und erkunden Sie die stärksten Entscheidungswege.',
     ja: '検索やフィルターをクリアして、もう一度探してみてください。',
+    pt: 'Tente limpar seus filtros e volte a explorar pelos melhores caminhos de decisão.',
   },
   'empty.reset': {
     en: 'Reset filters',
@@ -257,6 +286,7 @@ export const ui = {
     es: 'Restablecer filtros',
     de: 'Filter zurücksetzen',
     ja: 'フィルターをリセット',
+    pt: 'Limpar filtros',
   },
   'empty.openWorthIt': {
     en: 'Open Worth It',
@@ -265,6 +295,7 @@ export const ui = {
     es: 'Ver si vale la pena',
     de: 'Lohnt es sich?',
     ja: '「買う価値あり」を見る',
+    pt: 'Ver se vale a pena',
   },
   'empty.openBuyOrWait': {
     en: 'Open Buy Now or Wait',
@@ -273,6 +304,7 @@ export const ui = {
     es: '¿Comprar o esperar?',
     de: 'Kaufen oder warten?',
     ja: '「今買うか待つか」を見る',
+    pt: 'Comprar agora ou esperar?',
   },
 
   // ── Filter Panel ──
@@ -283,6 +315,7 @@ export const ui = {
     es: 'Buscar por juego o pregunta',
     de: 'Nach Spiel oder Frage suchen',
     ja: 'ゲーム名や質問で検索',
+    pt: 'Buscar por jogo ou pergunta',
   },
   'filter.searchPlaceholder': {
     en: 'Persona 5 Royal, co-op, under $20...',
@@ -291,6 +324,7 @@ export const ui = {
     es: 'Persona 5 Royal, cooperativo, menos de $20...',
     de: 'Persona 5 Royal, Koop, unter 20 €...',
     ja: 'ペルソナ5、協力プレイ、2000円以下...',
+    pt: 'Persona 5 Royal, co-op, abaixo de R$100...',
   },
   'filter.reset': {
     en: 'Reset',
@@ -299,6 +333,7 @@ export const ui = {
     es: 'Restablecer',
     de: 'Zurücksetzen',
     ja: 'リセット',
+    pt: 'Redefinir',
   },
 
   // ── Card Components ──
@@ -309,6 +344,7 @@ export const ui = {
     es: 'Opinión de jugadores',
     de: 'Spielermeinung',
     ja: 'プレイヤーの評価',
+    pt: 'Opinião dos Jogadores',
   },
   'card.estLength': {
     en: 'Est. Length:',
@@ -317,6 +353,7 @@ export const ui = {
     es: 'Duración est.:',
     de: 'Geschätzte Dauer:',
     ja: 'プレイ時間:',
+    pt: 'Duração est.:',
   },
   'card.bestFor': {
     en: 'Best For',
@@ -325,6 +362,7 @@ export const ui = {
     es: 'Ideal para',
     de: 'Am besten für',
     ja: 'おすすめ対象',
+    pt: 'Ideal Para',
   },
   'card.advice': {
     en: 'Advice',
@@ -333,6 +371,7 @@ export const ui = {
     es: 'Consejo',
     de: 'Empfehlung',
     ja: 'アドバイス',
+    pt: 'Conselho',
   },
   'card.track': {
     en: 'Track',
@@ -341,6 +380,7 @@ export const ui = {
     es: 'Seguir',
     de: 'Verfolgen',
     ja: '追跡',
+    pt: 'Acompanhar',
   },
   'card.metacritic': {
     en: 'Metacritic: {score}',
@@ -349,6 +389,7 @@ export const ui = {
     es: 'Metacritic: {score}',
     de: 'Metacritic: {score}',
     ja: 'Metacritic: {score}',
+    pt: 'Metacritic: {score}',
   },
   'card.minRead': {
     en: '{n} min read',
@@ -357,6 +398,7 @@ export const ui = {
     es: '{n} min de lectura',
     de: '{n} Min. Lesezeit',
     ja: '{n}分で読める',
+    pt: '{n} min de leitura',
   },
 
   // ── Topic Card Grid ──
@@ -367,6 +409,7 @@ export const ui = {
     es: 'Aún no hay guías para este tema. Pronto habrá más.',
     de: 'Noch keine Ratgeber zu diesem Thema. Weitere folgen bald.',
     ja: 'このトピックに該当するガイドはまだありません。近日追加予定です。',
+    pt: 'Nenhum guia pra esse tema ainda. Mais estão a caminho.',
   },
   'topic.topPicks': {
     en: 'Top picks',
@@ -375,6 +418,7 @@ export const ui = {
     es: 'Mejores selecciones',
     de: 'Top-Auswahl',
     ja: '厳選おすすめ',
+    pt: 'Destaques',
   },
   'topic.topPicksDesc': {
     en: 'Start with the strongest fit and clearest buying signals.',
@@ -383,6 +427,7 @@ export const ui = {
     es: 'Empieza con los juegos más adecuados y señales de compra más claras.',
     de: 'Beginnen Sie mit der besten Passung und den klarsten Kaufsignalen.',
     ja: '適合度が高く、購入シグナルが最も明確なガイドから。',
+    pt: 'Comece pelos jogos mais indicados e com sinais de compra mais claros.',
   },
   'topic.moreGuides': {
     en: 'More guides',
@@ -391,6 +436,7 @@ export const ui = {
     es: 'Más guías',
     de: 'Weitere Ratgeber',
     ja: 'その他のガイド',
+    pt: 'Mais guias',
   },
   'topic.moreGuidesDesc': {
     en: 'Keep browsing by fit, value, and price timing.',
@@ -399,6 +445,7 @@ export const ui = {
     es: 'Sigue explorando por ajuste, valor y momento del precio.',
     de: 'Weiter nach Passung, Wert und Preis-Timing stöbern.',
     ja: '適合度・価値・価格タイミングで引き続き探す。',
+    pt: 'Continue explorando por afinidade, valor e timing de preço.',
   },
 
   // ── Trust Module ──
@@ -409,6 +456,7 @@ export const ui = {
     es: 'Cada guía responde estas 5 preguntas',
     de: 'Jeder Ratgeber beantwortet diese 5 Fragen',
     ja: 'すべてのガイドがこの5つの疑問に答えます',
+    pt: 'Todo guia responde estas 5 perguntas',
   },
   'trust.subtitle': {
     en: 'So you can decide faster, with less guesswork.',
@@ -417,6 +465,7 @@ export const ui = {
     es: 'Para que decidas más rápido, sin adivinar.',
     de: 'Damit Sie schneller und sicherer entscheiden.',
     ja: '迷わず、素早く判断できるように。',
+    pt: 'Pra você decidir mais rápido, sem ficar na dúvida.',
   },
   'trust.item1': {
     en: 'Is the current price fair?',
@@ -425,6 +474,7 @@ export const ui = {
     es: '¿El precio actual es justo?',
     de: 'Ist der aktuelle Preis fair?',
     ja: '今の価格は適正？',
+    pt: 'O preço atual é justo?',
   },
   'trust.item2': {
     en: 'How much cheaper could it get?',
@@ -433,6 +483,7 @@ export const ui = {
     es: '¿Cuánto más barato podría ser?',
     de: 'Wie viel günstiger könnte es werden?',
     ja: 'どれくらい安くなる可能性がある？',
+    pt: 'Quanto mais barato pode ficar?',
   },
   'trust.item3': {
     en: 'Is this game a fit for me?',
@@ -441,6 +492,7 @@ export const ui = {
     es: '¿Este juego es para mí?',
     de: 'Passt dieses Spiel zu mir?',
     ja: 'このゲームは自分に合う？',
+    pt: 'Esse jogo combina comigo?',
   },
   'trust.item4': {
     en: 'What do real players think?',
@@ -449,6 +501,7 @@ export const ui = {
     es: '¿Qué opinan los jugadores reales?',
     de: 'Was sagen echte Spieler?',
     ja: '実際のプレイヤーはどう思ってる？',
+    pt: 'O que os jogadores de verdade acham?',
   },
   'trust.item5': {
     en: 'Is it worth my time?',
@@ -457,6 +510,7 @@ export const ui = {
     es: '¿Vale la pena mi tiempo?',
     de: 'Ist es meine Zeit wert?',
     ja: '時間を費やす価値はある？',
+    pt: 'Vale o meu tempo?',
   },
 
   // ── Article Page ──
@@ -467,6 +521,7 @@ export const ui = {
     es: 'Ver análisis completo',
     de: 'Vollständige Analyse ansehen',
     ja: '詳細分析を見る',
+    pt: 'Ver análise completa',
   },
   'article.verdictLabel': {
     en: 'GameGulf Verdict',
@@ -475,6 +530,7 @@ export const ui = {
     es: 'Veredicto GameGulf',
     de: 'GameGulf-Urteil',
     ja: 'GameGulf の判定',
+    pt: 'Veredito GameGulf',
   },
   'article.playtime': {
     en: 'Playtime',
@@ -483,6 +539,7 @@ export const ui = {
     es: 'Tiempo de juego',
     de: 'Spielzeit',
     ja: 'プレイ時間',
+    pt: 'Tempo de jogo',
   },
   'article.bestFor': {
     en: 'Best For',
@@ -491,6 +548,7 @@ export const ui = {
     es: 'Ideal para',
     de: 'Am besten für',
     ja: 'おすすめ対象',
+    pt: 'Ideal Para',
   },
   'article.whatItIs': {
     en: 'What it is',
@@ -499,6 +557,7 @@ export const ui = {
     es: 'Qué es',
     de: 'Worum es geht',
     ja: 'どんなゲーム？',
+    pt: 'O que é',
   },
   'article.whyPlayersLoveIt': {
     en: 'Why players love it',
@@ -507,6 +566,7 @@ export const ui = {
     es: 'Por qué les encanta',
     de: 'Warum Spieler es lieben',
     ja: 'プレイヤーが好きな理由',
+    pt: 'Por que os jogadores adoram',
   },
   'article.nextSteps': {
     en: 'Next steps on GameGulf',
@@ -515,6 +575,7 @@ export const ui = {
     es: 'Próximos pasos en GameGulf',
     de: 'Nächste Schritte auf GameGulf',
     ja: 'GameGulf での次のステップ',
+    pt: 'Próximos passos no GameGulf',
   },
   'article.comparePricing': {
     en: 'Compare pricing',
@@ -523,6 +584,7 @@ export const ui = {
     es: 'Comparar precios',
     de: 'Preise vergleichen',
     ja: '価格を比較',
+    pt: 'Comparar preços',
   },
   'article.setPriceAlert': {
     en: 'Set price alert',
@@ -531,6 +593,7 @@ export const ui = {
     es: 'Crear alerta de precio',
     de: 'Preisalarm setzen',
     ja: '価格アラートを設定',
+    pt: 'Criar alerta de preço',
   },
   'article.saveToWishlist': {
     en: 'Save to wishlist',
@@ -539,6 +602,7 @@ export const ui = {
     es: 'Guardar en lista de deseos',
     de: 'Zur Wunschliste hinzufügen',
     ja: 'ウィッシュリストに追加',
+    pt: 'Salvar na lista de desejos',
   },
   'article.bottomLine': {
     en: 'Bottom line',
@@ -547,6 +611,7 @@ export const ui = {
     es: 'Conclusión',
     de: 'Fazit',
     ja: '結論',
+    pt: 'Resumo final',
   },
   'article.whatPlayersSaying': {
     en: 'What players are saying',
@@ -555,6 +620,7 @@ export const ui = {
     es: 'Lo que dicen los jugadores',
     de: 'Was Spieler sagen',
     ja: 'プレイヤーの声',
+    pt: 'O que os jogadores estão dizendo',
   },
   'article.communityCulture': {
     en: 'Community culture',
@@ -563,6 +629,7 @@ export const ui = {
     es: 'Cultura de la comunidad',
     de: 'Community-Kultur',
     ja: 'コミュニティの文化',
+    pt: 'Cultura da comunidade',
   },
   'article.memesIntro': {
     en: 'Inside jokes and references you will probably encounter once you start playing {gameTitle}.',
@@ -571,6 +638,7 @@ export const ui = {
     es: 'Bromas y referencias que encontrarás al jugar {gameTitle}.',
     de: 'Insider-Witze und Referenzen, die Ihnen bei {gameTitle} begegnen werden.',
     ja: '{gameTitle}をプレイすると出会うネタや定番のジョーク。',
+    pt: 'Piadas internas e referências que você provavelmente vai encontrar quando começar a jogar {gameTitle}.',
   },
   'article.whatToDoNext': {
     en: 'What to do next on GameGulf',
@@ -579,6 +647,7 @@ export const ui = {
     es: 'Qué hacer después en GameGulf',
     de: 'Nächste Schritte auf GameGulf',
     ja: 'GameGulf での次のアクション',
+    pt: 'O que fazer a seguir no GameGulf',
   },
   'article.compareLivePricing': {
     en: 'Compare live pricing',
@@ -587,6 +656,7 @@ export const ui = {
     es: 'Comparar precios en vivo',
     de: 'Live-Preise vergleichen',
     ja: 'リアルタイム価格を比較',
+    pt: 'Comparar preços ao vivo',
   },
   'article.compareLivePricingDesc': {
     en: 'See current prices for {gameTitle} across regions.',
@@ -595,6 +665,7 @@ export const ui = {
     es: 'Ver precios actuales de {gameTitle} en todas las regiones.',
     de: 'Aktuelle Preise für {gameTitle} in allen Regionen anzeigen.',
     ja: '{gameTitle}の各地域の現在価格を確認。',
+    pt: 'Veja os preços atuais de {gameTitle} em todas as regiões.',
   },
   'article.setAPriceAlert': {
     en: 'Set a price alert',
@@ -603,6 +674,7 @@ export const ui = {
     es: 'Crear alerta de precio',
     de: 'Preisalarm erstellen',
     ja: '価格アラートを設定',
+    pt: 'Criar alerta de preço',
   },
   'article.setPriceAlertDesc': {
     en: 'Get notified when the price drops to your target.',
@@ -611,6 +683,7 @@ export const ui = {
     es: 'Recibe notificación cuando el precio baje a tu objetivo.',
     de: 'Benachrichtigung erhalten, wenn der Preis Ihr Ziel erreicht.',
     ja: '目標価格に達したら通知を受け取れます。',
+    pt: 'Receba uma notificação quando o preço chegar no valor que você quer.',
   },
   'article.addToWishlist': {
     en: 'Add to wishlist',
@@ -619,6 +692,7 @@ export const ui = {
     es: 'Agregar a lista de deseos',
     de: 'Zur Wunschliste',
     ja: 'ウィッシュリストに追加',
+    pt: 'Adicionar à lista de desejos',
   },
   'article.addToWishlistDesc': {
     en: 'Save it and decide later with full price context.',
@@ -627,6 +701,7 @@ export const ui = {
     es: 'Guárdalo y decide después con contexto completo de precios.',
     de: 'Speichern und später mit vollständigem Preiskontext entscheiden.',
     ja: '保存して、価格の推移を見てから判断。',
+    pt: 'Salve e decida depois com o histórico completo de preços.',
   },
   'article.faqIntro': {
     en: 'Quick answers to the questions players usually ask before buying.',
@@ -635,6 +710,7 @@ export const ui = {
     es: 'Respuestas rápidas a las preguntas frecuentes antes de comprar.',
     de: 'Schnelle Antworten auf häufige Fragen vor dem Kauf.',
     ja: '購入前によくある質問への簡潔な回答。',
+    pt: 'Respostas rápidas pras perguntas que jogadores costumam fazer antes de comprar.',
   },
   'article.gameAtAGlance': {
     en: 'Game at a Glance',
@@ -643,6 +719,7 @@ export const ui = {
     es: 'Vistazo rápido',
     de: 'Auf einen Blick',
     ja: 'ゲーム概要',
+    pt: 'Visão Geral do Jogo',
   },
   'article.platform': {
     en: 'Platform',
@@ -651,6 +728,7 @@ export const ui = {
     es: 'Plataforma',
     de: 'Plattform',
     ja: 'プラットフォーム',
+    pt: 'Plataforma',
   },
   'article.playStyle': {
     en: 'Play Style',
@@ -659,6 +737,7 @@ export const ui = {
     es: 'Estilo de juego',
     de: 'Spielstil',
     ja: 'プレイスタイル',
+    pt: 'Estilo de Jogo',
   },
   'article.playerConsensus': {
     en: 'Player Consensus',
@@ -667,6 +746,7 @@ export const ui = {
     es: 'Consenso de jugadores',
     de: 'Spieler-Konsens',
     ja: 'プレイヤーの総評',
+    pt: 'Consenso dos Jogadores',
   },
   'article.priceCallLabel': {
     en: 'Price Call',
@@ -675,6 +755,7 @@ export const ui = {
     es: 'Consejo de precio',
     de: 'Preisempfehlung',
     ja: '価格判断',
+    pt: 'Recomendação de Preço',
   },
   'article.relatedDecisions': {
     en: 'Related decisions',
@@ -683,6 +764,7 @@ export const ui = {
     es: 'Decisiones relacionadas',
     de: 'Verwandte Ratgeber',
     ja: '関連ガイド',
+    pt: 'Decisões relacionadas',
   },
   'article.seeTrialBenefits': {
     en: 'See trial benefits',
@@ -691,6 +773,7 @@ export const ui = {
     es: 'Ver beneficios de prueba',
     de: 'Testvorteile ansehen',
     ja: 'お試し特典を見る',
+    pt: 'Ver benefícios de teste',
   },
   'article.updated': {
     en: 'Updated {date}',
@@ -699,6 +782,7 @@ export const ui = {
     es: 'Actualizado {date}',
     de: 'Aktualisiert {date}',
     ja: '{date} 更新',
+    pt: 'Atualizado em {date}',
   },
   'article.priceCallBuy': {
     en: 'Buy now',
@@ -707,6 +791,7 @@ export const ui = {
     es: 'Comprar ahora',
     de: 'Jetzt kaufen',
     ja: '今すぐ購入',
+    pt: 'Comprar agora',
   },
   'article.priceCallWait': {
     en: 'Wait for sale',
@@ -715,6 +800,7 @@ export const ui = {
     es: 'Esperar oferta',
     de: 'Auf Sale warten',
     ja: 'セールを待つ',
+    pt: 'Esperar promoção',
   },
   'article.priceCallWatch': {
     en: 'Watch & track',
@@ -723,6 +809,7 @@ export const ui = {
     es: 'Seguir y rastrear',
     de: 'Beobachten & verfolgen',
     ja: 'ウォッチ & 追跡',
+    pt: 'Acompanhar preço',
   },
   'article.seeAnalysis': {
     en: 'See analysis',
@@ -731,6 +818,7 @@ export const ui = {
     es: 'Ver análisis',
     de: 'Analyse ansehen',
     ja: '分析を見る',
+    pt: 'Ver análise',
   },
 
   // ── Guide / Topic Page ──
@@ -741,6 +829,7 @@ export const ui = {
     es: 'Guía GameGulf',
     de: 'GameGulf-Ratgeber',
     ja: 'GameGulf ガイド',
+    pt: 'Guia GameGulf',
   },
   'guide.browseMore': {
     en: 'Browse more guides',
@@ -749,6 +838,7 @@ export const ui = {
     es: 'Explorar más guías',
     de: 'Weitere Ratgeber durchsuchen',
     ja: 'もっとガイドを見る',
+    pt: 'Explorar mais guias',
   },
   'guide.browseMoreDesc': {
     en: 'Explore Switch buying guides by topic.',
@@ -757,6 +847,7 @@ export const ui = {
     es: 'Explora guías de compra Switch por tema.',
     de: 'Switch-Kaufratgeber nach Thema durchsuchen.',
     ja: 'トピック別にSwitch購入ガイドを探す。',
+    pt: 'Explore guias de compra Switch por tema.',
   },
 
   // ── Landing Page ──
@@ -767,6 +858,7 @@ export const ui = {
     es: 'Encuentra el juego correcto, el precio justo y el momento ideal para comprar.',
     de: 'Das richtige Spiel, der richtige Preis, der richtige Zeitpunkt.',
     ja: '最適なゲームを、最適な価格で、最適なタイミングで。',
+    pt: 'Encontre o jogo certo, o preço certo e a hora certa de comprar.',
   },
   'landing.description': {
     en: 'Explore buying guides built for players who want to know what is worth buying now, what should stay on the wishlist, and when a sale is strong enough to act on.',
@@ -775,6 +867,7 @@ export const ui = {
     es: 'Guías de compra para jugadores que quieren saber qué comprar ahora, qué esperar y cuándo actuar con las ofertas.',
     de: 'Kaufratgeber für Spieler, die wissen wollen, was sich jetzt lohnt, was auf die Wunschliste gehört und wann ein Sale gut genug ist.',
     ja: '今買うべきゲーム、ウィッシュリストに入れるべきゲーム、セールのタイミングを見極めたいプレイヤーのための購入ガイド。',
+    pt: 'Explore guias de compra feitos pra quem quer saber o que vale comprar agora, o que deve ficar na lista de desejos e quando uma promoção é boa o bastante pra aproveitar.',
   },
   'landing.exploreGuides': {
     en: 'Explore {lang} guides',
@@ -783,6 +876,7 @@ export const ui = {
     es: 'Explorar guías en {lang}',
     de: '{lang} Ratgeber entdecken',
     ja: '{lang}ガイドを見る',
+    pt: 'Explorar guias em {lang}',
   },
 
   // ── 404 Page ──
@@ -793,6 +887,7 @@ export const ui = {
     es: 'Página no encontrada',
     de: 'Seite nicht gefunden',
     ja: 'ページが見つかりません',
+    pt: 'Página não encontrada',
   },
   'notFound.description': {
     en: 'The page you\'re looking for doesn\'t exist or has been moved.',
@@ -801,6 +896,7 @@ export const ui = {
     es: 'La página que buscas no existe o fue movida.',
     de: 'Die gesuchte Seite existiert nicht oder wurde verschoben.',
     ja: 'お探しのページは存在しないか、移動された可能性があります。',
+    pt: 'A página que você procura não existe ou foi movida.',
   },
 
   // ── Listing Page ──
@@ -811,6 +907,7 @@ export const ui = {
     es: 'Guías de compra Switch',
     de: 'Switch Kaufratgeber',
     ja: 'Switch 購入ガイド',
+    pt: 'Guias de Compra Switch',
   },
   'listing.description': {
     en: 'Figure out what to buy, what to wait on, and what belongs on an alert list before you spend.',
@@ -819,6 +916,7 @@ export const ui = {
     es: 'Decide qué comprar, qué esperar y qué poner en alerta antes de gastar.',
     de: 'Entscheiden Sie, was Sie kaufen, worauf Sie warten und was auf die Beobachtungsliste gehört.',
     ja: '買うもの、待つもの、アラートに入れるものを、購入前に見極めよう。',
+    pt: 'Descubra o que comprar, o que esperar e o que colocar em alerta antes de gastar.',
   },
 
   // ── Common / Shared ──
@@ -829,6 +927,7 @@ export const ui = {
     es: 'N/D',
     de: 'k. A.',
     ja: 'N/A',
+    pt: 'N/D',
   },
 } satisfies Translations;
 

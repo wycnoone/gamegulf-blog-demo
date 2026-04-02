@@ -163,7 +163,7 @@ export type DecisionEntryCardModel = WorthItCardModel | BuyTimingCardModel;
 const categoryMeta: Record<BlogCategory, { title: Record<BlogLocale, string>; description: Record<BlogLocale, string> }> = {
   'worth-it': {
     title: {
-      en: 'Worth It', 'zh-hans': '值不值得买', fr: 'Ça vaut le coup ?', es: '¿Vale la pena?', de: 'Lohnt es sich?', ja: '買う価値あり？',
+      en: 'Worth It', 'zh-hans': '值不值得买', fr: 'Ça vaut le coup ?', es: '¿Vale la pena?', de: 'Lohnt es sich?', ja: '買う価値あり？', pt: 'Vale a pena?',
     },
     description: {
       en: 'Decision-focused guides for whether a Nintendo Switch game is worth buying right now.',
@@ -172,11 +172,12 @@ const categoryMeta: Record<BlogCategory, { title: Record<BlogLocale, string>; de
       es: 'Guías para decidir si un juego de Switch vale la pena ahora.',
       de: 'Entscheidungshilfen, ob ein Switch-Spiel den Kauf wert ist.',
       ja: 'Switchゲームが今買う価値があるかを判断するガイド。',
+      pt: 'Guias focados em decidir se vale a pena comprar um jogo de Switch agora.',
     },
   },
   'buy-now-or-wait': {
     title: {
-      en: 'Buy Now or Wait', 'zh-hans': '现在买还是等打折', fr: 'Acheter ou attendre ?', es: '¿Comprar o esperar?', de: 'Jetzt kaufen oder warten?', ja: '今買う？待つ？',
+      en: 'Buy Now or Wait', 'zh-hans': '现在买还是等打折', fr: 'Acheter ou attendre ?', es: '¿Comprar o esperar?', de: 'Jetzt kaufen oder warten?', ja: '今買う？待つ？', pt: 'Comprar agora ou esperar?',
     },
     description: {
       en: 'Price-timing content that helps players decide whether to buy now or set an alert.',
@@ -185,48 +186,49 @@ const categoryMeta: Record<BlogCategory, { title: Record<BlogLocale, string>; de
       es: 'Contenido sobre el momento del precio para comprar o esperar una oferta.',
       de: 'Preis-Timing-Inhalte, ob jetzt kaufen oder auf einen Sale warten.',
       ja: '今買うかアラートを設定するか判断するための価格タイミングガイド。',
+      pt: 'Conteúdo sobre timing de preço para decidir se compra agora ou cria um alerta.',
     },
   },
 };
 
 const quickFilterLabelMap: Record<QuickFilterKey, Record<BlogLocale, string>> = {
-  co_op: { en: 'Co-op', 'zh-hans': '合作/多人', fr: 'Coop', es: 'Cooperativo', de: 'Koop', ja: '協力プレイ' },
-  long_rpg: { en: 'Long RPG', 'zh-hans': '长流程 RPG', fr: 'RPG long', es: 'RPG largo', de: 'Langes RPG', ja: '長編RPG' },
-  family_friendly: { en: 'Family-friendly', 'zh-hans': '家庭友好', fr: 'Familial', es: 'Para toda la familia', de: 'Familienfreundlich', ja: 'ファミリー向け' },
-  nintendo_first_party: { en: 'Nintendo first-party', 'zh-hans': '任天堂第一方', fr: 'Nintendo first-party', es: 'Nintendo first-party', de: 'Nintendo First-Party', ja: '任天堂ファーストパーティ' },
-  short_sessions: { en: 'Best for short sessions', 'zh-hans': '适合碎片时间', fr: 'Sessions courtes', es: 'Sesiones cortas', de: 'Kurze Sessions', ja: '短時間プレイ向け' },
-  under_20: { en: 'Under $20', 'zh-hans': '低于 $20', fr: 'Moins de 20 €', es: 'Menos de $20', de: 'Unter 20 €', ja: '2000円以下' },
-  great_on_sale: { en: 'Great on sale', 'zh-hans': '打折时很值得', fr: 'Super en promo', es: 'Genial en oferta', de: 'Tolles Sale-Angebot', ja: 'セールがお得' },
-  rarely_discounted: { en: 'Rarely discounted', 'zh-hans': '很少深折', fr: 'Rarement en promo', es: 'Raramente rebajado', de: 'Selten reduziert', ja: 'めったにセールしない' },
+  co_op: { en: 'Co-op', 'zh-hans': '合作/多人', fr: 'Coop', es: 'Cooperativo', de: 'Koop', ja: '協力プレイ', pt: 'Cooperativo' },
+  long_rpg: { en: 'Long RPG', 'zh-hans': '长流程 RPG', fr: 'RPG long', es: 'RPG largo', de: 'Langes RPG', ja: '長編RPG', pt: 'RPG longo' },
+  family_friendly: { en: 'Family-friendly', 'zh-hans': '家庭友好', fr: 'Familial', es: 'Para toda la familia', de: 'Familienfreundlich', ja: 'ファミリー向け', pt: 'Para toda a família' },
+  nintendo_first_party: { en: 'Nintendo first-party', 'zh-hans': '任天堂第一方', fr: 'Nintendo first-party', es: 'Nintendo first-party', de: 'Nintendo First-Party', ja: '任天堂ファーストパーティ', pt: 'Nintendo first-party' },
+  short_sessions: { en: 'Best for short sessions', 'zh-hans': '适合碎片时间', fr: 'Sessions courtes', es: 'Sesiones cortas', de: 'Kurze Sessions', ja: '短時間プレイ向け', pt: 'Ideal pra sessões curtas' },
+  under_20: { en: 'Under $20', 'zh-hans': '低于 $20', fr: 'Moins de 20 €', es: 'Menos de $20', de: 'Unter 20 €', ja: '2000円以下', pt: 'Abaixo de R$100' },
+  great_on_sale: { en: 'Great on sale', 'zh-hans': '打折时很值得', fr: 'Super en promo', es: 'Genial en oferta', de: 'Tolles Sale-Angebot', ja: 'セールがお得', pt: 'Ótimo em promoção' },
+  rarely_discounted: { en: 'Rarely discounted', 'zh-hans': '很少深折', fr: 'Rarement en promo', es: 'Raramente rebajado', de: 'Selten reduziert', ja: 'めったにセールしない', pt: 'Raramente tem desconto' },
 };
 
 // ── Locale-aware label helpers ──
 
 const confidenceLabels: Record<'high' | 'medium' | 'low', Record<BlogLocale, string>> = {
-  high: { en: 'High', 'zh-hans': '高', fr: 'Élevée', es: 'Alta', de: 'Hoch', ja: '高' },
-  medium: { en: 'Medium', 'zh-hans': '中', fr: 'Moyenne', es: 'Media', de: 'Mittel', ja: '中' },
-  low: { en: 'Low', 'zh-hans': '低', fr: 'Faible', es: 'Baja', de: 'Niedrig', ja: '低' },
+  high: { en: 'High', 'zh-hans': '高', fr: 'Élevée', es: 'Alta', de: 'Hoch', ja: '高', pt: 'Alta' },
+  medium: { en: 'Medium', 'zh-hans': '中', fr: 'Moyenne', es: 'Media', de: 'Mittel', ja: '中', pt: 'Média' },
+  low: { en: 'Low', 'zh-hans': '低', fr: 'Faible', es: 'Baja', de: 'Niedrig', ja: '低', pt: 'Baixa' },
 };
 
 const priceRecommendationLabels: Record<PriceRecommendation, Record<BlogLocale, string>> = {
-  buy: { en: 'Buy now', 'zh-hans': '现在买', fr: 'Acheter', es: 'Comprar', de: 'Jetzt kaufen', ja: '今すぐ購入' },
-  wait: { en: 'Wait', 'zh-hans': '先等等', fr: 'Attendre', es: 'Esperar', de: 'Warten', ja: '待つ' },
-  watch: { en: 'Set alert', 'zh-hans': '先设提醒', fr: 'Créer alerte', es: 'Crear alerta', de: 'Alarm setzen', ja: 'アラート設定' },
+  buy: { en: 'Buy now', 'zh-hans': '现在买', fr: 'Acheter', es: 'Comprar', de: 'Jetzt kaufen', ja: '今すぐ購入', pt: 'Comprar agora' },
+  wait: { en: 'Wait', 'zh-hans': '先等等', fr: 'Attendre', es: 'Esperar', de: 'Warten', ja: '待つ', pt: 'Esperar' },
+  watch: { en: 'Set alert', 'zh-hans': '先设提醒', fr: 'Créer alerte', es: 'Crear alerta', de: 'Alarm setzen', ja: 'アラート設定', pt: 'Criar alerta' },
 };
 
 const verdictLabels: Record<BlogVerdict, Record<BlogLocale, string>> = {
-  buy_now: { en: 'Buy now', 'zh-hans': '现在买', fr: 'Acheter maintenant', es: 'Comprar ahora', de: 'Jetzt kaufen', ja: '今すぐ購入' },
-  wait_for_sale: { en: 'Wait for sale', 'zh-hans': '等打折', fr: 'Attendre les soldes', es: 'Esperar oferta', de: 'Auf Sale warten', ja: 'セールを待つ' },
-  right_player: { en: 'Worth it for the right player', 'zh-hans': '适合对的人就值得买', fr: 'À recommander au bon joueur', es: 'Vale para el jugador adecuado', de: 'Für den richtigen Spieler lohnenswert', ja: '合う人には買い' },
-  not_best_fit: { en: 'Not the best fit right now', 'zh-hans': '现在不一定最适合你', fr: 'Pas idéal pour le moment', es: 'No es la mejor opción ahora', de: 'Aktuell nicht die beste Wahl', ja: '今はベストではない' },
+  buy_now: { en: 'Buy now', 'zh-hans': '现在买', fr: 'Acheter maintenant', es: 'Comprar ahora', de: 'Jetzt kaufen', ja: '今すぐ購入', pt: 'Comprar agora' },
+  wait_for_sale: { en: 'Wait for sale', 'zh-hans': '等打折', fr: 'Attendre les soldes', es: 'Esperar oferta', de: 'Auf Sale warten', ja: 'セールを待つ', pt: 'Esperar promoção' },
+  right_player: { en: 'Worth it for the right player', 'zh-hans': '适合对的人就值得买', fr: 'À recommander au bon joueur', es: 'Vale para el jugador adecuado', de: 'Für den richtigen Spieler lohnenswert', ja: '合う人には買い', pt: 'Vale a pena pro jogador certo' },
+  not_best_fit: { en: 'Not the best fit right now', 'zh-hans': '现在不一定最适合你', fr: 'Pas idéal pour le moment', es: 'No es la mejor opción ahora', de: 'Aktuell nicht die beste Wahl', ja: '今はベストではない', pt: 'Não é a melhor escolha agora' },
 };
 
 const ctaReadGuide: Record<BlogLocale, string> = {
-  en: 'Read decision guide', 'zh-hans': '查看判断', fr: 'Lire le guide', es: 'Leer la guía', de: 'Ratgeber lesen', ja: 'ガイドを読む',
+  en: 'Read decision guide', 'zh-hans': '查看判断', fr: 'Lire le guide', es: 'Leer la guía', de: 'Ratgeber lesen', ja: 'ガイドを読む', pt: 'Ler guia de decisão',
 };
 
 const ctaSetAlert: Record<BlogLocale, string> = {
-  en: 'Set alert', 'zh-hans': '开启提醒', fr: 'Créer une alerte', es: 'Crear alerta', de: 'Alarm setzen', ja: 'アラートを設定',
+  en: 'Set alert', 'zh-hans': '开启提醒', fr: 'Créer une alerte', es: 'Crear alerta', de: 'Alarm setzen', ja: 'アラートを設定', pt: 'Criar alerta',
 };
 
 // ── Fallback strings (used when frontmatter data is missing) ──
@@ -238,6 +240,7 @@ const fallbackWhatItIs: Record<BlogLocale, string> = {
   es: 'Un juego de Switch que conviene evaluar por ajuste, rendimiento y precio.',
   de: 'Ein Switch-Spiel, das nach Passung, Ertrag und Preis-Timing beurteilt wird.',
   ja: '適合度・投資対効果・価格タイミングで判断すべきSwitchゲーム。',
+  pt: 'Um jogo de Switch que vale avaliar pelo perfil do jogador, retorno e timing de preço.',
 };
 
 const fallbackAvoidIf: Record<string, Record<BlogLocale, string>> = {
@@ -248,6 +251,7 @@ const fallbackAvoidIf: Record<string, Record<BlogLocale, string>> = {
     es: 'Evitar si buscas un juego corto y rápido.',
     de: 'Nicht geeignet, wenn Sie ein kurzes, schnelles Spiel suchen.',
     ja: '短時間でサクッと遊べるゲームを求めるなら不向き。',
+    pt: 'Evite se você quer um jogo curto e com retorno rápido.',
   },
   multiplayer: {
     en: 'Avoid if you mostly play solo and rarely host others.',
@@ -256,6 +260,7 @@ const fallbackAvoidIf: Record<string, Record<BlogLocale, string>> = {
     es: 'Evitar si juegas mayormente solo.',
     de: 'Nicht ideal, wenn Sie meist alleine spielen.',
     ja: 'ほぼソロプレイで人と遊ばないなら不向き。',
+    pt: 'Evite se você joga quase sempre sozinho.',
   },
   cozy: {
     en: 'Avoid if you want tension, challenge, or rapid progression.',
@@ -264,6 +269,7 @@ const fallbackAvoidIf: Record<string, Record<BlogLocale, string>> = {
     es: 'Evitar si buscas tensión, desafío o progresión rápida.',
     de: 'Nicht geeignet, wenn Sie Spannung und Herausforderung suchen.',
     ja: '緊張感やチャレンジを求めるなら不向き。',
+    pt: 'Evite se você quer tensão, desafio ou progressão rápida.',
   },
   default: {
     en: 'Avoid if the fit still feels unclear.',
@@ -272,6 +278,7 @@ const fallbackAvoidIf: Record<string, Record<BlogLocale, string>> = {
     es: 'Evitar si no tienes claro si el juego es para ti.',
     de: 'Nicht kaufen, wenn die Passung noch unklar ist.',
     ja: '自分に合うか不確かなら、まだ買わない方がいい。',
+    pt: 'Evite se ainda não tem certeza se o jogo combina com você.',
   },
 };
 
@@ -282,6 +289,7 @@ const fallbackConsensusPraise: Record<BlogLocale, string> = {
   es: 'Los jugadores suelen valorar bien cuando el género les gusta.',
   de: 'Spieler bewerten Qualität und Passung hoch, wenn das Genre bereits gefällt.',
   ja: 'ジャンルが合えば、適合度と品質の評価は高い傾向。',
+  pt: 'Jogadores geralmente avaliam bem quando o gênero já combina com eles.',
 };
 
 const fallbackMainFriction: Record<string, Record<BlogLocale, string>> = {
@@ -292,6 +300,7 @@ const fallbackMainFriction: Record<string, Record<BlogLocale, string>> = {
     es: 'Gran inversión de tiempo con un retorno lento puede causar arrepentimiento.',
     de: 'Hoher Zeitaufwand und langsamer Ertrag können für den falschen Spieler frustrierend sein.',
     ja: '時間の投入が大きく、合わないプレイヤーは後悔する可能性あり。',
+    pt: 'Investimento de tempo alto e retorno lento podem virar arrependimento pro jogador errado.',
   },
   multiplayer: {
     en: 'The value drops if you mostly play alone or rarely bring others in.',
@@ -300,6 +309,7 @@ const fallbackMainFriction: Record<string, Record<BlogLocale, string>> = {
     es: 'El valor baja si juegas mayormente solo.',
     de: 'Der Wert sinkt, wenn Sie meist alleine spielen.',
     ja: 'ほぼソロプレイだと、その価値は大きく下がる。',
+    pt: 'O valor cai bastante se você joga quase sempre sozinho.',
   },
   default: {
     en: 'Fit matters more than reputation here, so the main risk is buying into the wrong play pattern.',
@@ -308,6 +318,7 @@ const fallbackMainFriction: Record<string, Record<BlogLocale, string>> = {
     es: 'La adecuación importa más que la reputación, el riesgo es comprar algo que no encaja.',
     de: 'Passung zählt mehr als Ruf — das Risiko ist, das falsche Spielmuster zu kaufen.',
     ja: '評判より適合度が重要。合わないプレイスタイルを買うのが最大のリスク。',
+    pt: 'Aqui o perfil importa mais que a fama — o maior risco é comprar um jogo que não combina com seu estilo.',
   },
 };
 
@@ -319,6 +330,7 @@ const fallbackTimeFit: Record<string, Record<BlogLocale, string>> = {
     es: 'Compromiso largo, pero gran retorno si buscas un juego grande.',
     de: 'Langer Zeitaufwand, aber starker Ertrag, wenn Sie ein großes Spiel suchen.',
     ja: '長期的な投入が必要だが、大作を求めるならリターンは大きい。',
+    pt: 'Investimento longo, mas o retorno é forte se você quer um jogão.',
   },
   casual: {
     en: 'Works best in short repeat sessions rather than long marathons.',
@@ -327,6 +339,7 @@ const fallbackTimeFit: Record<string, Record<BlogLocale, string>> = {
     es: 'Mejor en sesiones cortas y repetidas que en maratones largos.',
     de: 'Am besten in kurzen, wiederholten Sessions statt langen Marathons.',
     ja: '長時間プレイよりも、短時間の繰り返しプレイに最適。',
+    pt: 'Funciona melhor em sessões curtas e repetidas do que em maratonas.',
   },
   default: {
     en: 'Moderate commitment with a fairly clear payoff curve.',
@@ -335,6 +348,7 @@ const fallbackTimeFit: Record<string, Record<BlogLocale, string>> = {
     es: 'Compromiso moderado con una curva de retorno bastante clara.',
     de: 'Moderater Aufwand mit einer recht klaren Ertragskurve.',
     ja: '適度な投入で、リターンの見通しも比較的はっきりしている。',
+    pt: 'Investimento moderado com uma curva de retorno bem clara.',
   },
 };
 
@@ -346,6 +360,7 @@ const fallbackNearHistoricalLow: Record<string, Record<BlogLocale, string>> = {
     es: 'El precio actual está cerca de una señal de precio bajo.',
     de: 'Der aktuelle Preis liegt nahe an einem starken Tiefpreis-Signal.',
     ja: '現在の価格は過去の安値シグナルに近い。',
+    pt: 'O preço atual está perto de um sinal forte de mínima histórica.',
   },
   default: {
     en: 'Not a proven low, so compare before buying.',
@@ -354,6 +369,7 @@ const fallbackNearHistoricalLow: Record<string, Record<BlogLocale, string>> = {
     es: 'No es un precio bajo comprobado, compara antes de comprar.',
     de: 'Kein bewiesener Tiefpreis — vor dem Kauf vergleichen.',
     ja: '確実な安値とは言えないため、購入前に比較を。',
+    pt: 'Não é uma mínima comprovada — compare antes de comprar.',
   },
 };
 
