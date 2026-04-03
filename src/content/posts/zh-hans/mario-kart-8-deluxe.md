@@ -47,10 +47,6 @@ playerNeeds:
   - "buy_now"
   - "party_games"
   - "local_multiplayer"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price"
-gameHref: "https://www.gamegulf.com/detail/hOtepbk2uh2"
-membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/17409877590601176613070.jpeg"
 heroTheme: "brand"
 playerVoices:
@@ -72,6 +68,11 @@ communityMemes:
   - "椰子商场怀旧局"
   - "最后一圈闪电暴击"
   - "香蕉皮背刺事件"
+tldr: "马里奥赛车8豪华版在 2026 年依然值得买——Switch 上最好的聚会游戏，92 分 Metacritic。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price"
+gameHref: "https://www.gamegulf.com/detail/hOtepbk2uh2"
+membershipHref: "https://www.gamegulf.com/pricing"
 tags:
   - "马力欧卡丁车8 豪华版"
   - "switch 多人游戏"

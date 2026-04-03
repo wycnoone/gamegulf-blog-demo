@@ -46,7 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
 gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -69,6 +68,8 @@ communityMemes:
   - "Rabia con los acertijos de Shinespark"
   - "Samus está de vuelta y está enojada"
   - "El Modo Novato existe — úsalo si necesitas respiro"
+tldr: "Metroid Dread es mejor esperar — un Metroidvania con 88 en Metacritic que rara vez baja de 36 € en Switch."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "metroid dread switch"
   - "metroid dread comprar o esperar"

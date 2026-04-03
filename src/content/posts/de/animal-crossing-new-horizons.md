@@ -47,7 +47,6 @@ playerNeeds:
   - "cozy"
   - "casual"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price"
 gameHref: "https://www.gamegulf.com/detail/dBQesuYO7Cn"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -72,6 +71,8 @@ communityMemes:
   - "Horror-Geschichten bei der Bewohnersuche"
   - "Insel-Touren zum Angeben"
   - "KK Slider Konzertabend-Vibes"
+tldr: "Animal Crossing: New Horizons lohnt sich für unter 5 €, wenn ruhige Insel-Routinen dein Ding sind."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "animal crossing new horizons switch"
   - "acnh lohnt es sich 2026"

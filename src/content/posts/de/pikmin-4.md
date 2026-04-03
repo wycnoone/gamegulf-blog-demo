@@ -46,7 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "casual"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
 gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -69,6 +68,8 @@ communityMemes:
   - "Dandori-Kampf-Panik"
   - "Leucht-Pikmin-Nachtschicht-Trauma"
   - "Demospeicher-Übernahme-Flex"
+tldr: "Pikmin 4 lohnt sich, den Preis zu beobachten — charmantes Strategiespiel mit 87 auf Metacritic, aber noch nicht günstig genug."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "pikmin 4 switch"
   - "pikmin 4 kaufen oder warten"

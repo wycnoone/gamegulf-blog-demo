@@ -75,6 +75,7 @@ communityMemes:
   - "Bênção da Atena? Pode mandar"
   - "A trilha sonora de Hades mora de graça na minha cabeça"
   - "Cérbero é o melhor garoto"
+tldr: "Hades é uma compra fácil no Switch por menos de 1 € — roguelike com 93 no Metacritic e performance perfeita no portátil."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"

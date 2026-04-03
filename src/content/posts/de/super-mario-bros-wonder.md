@@ -46,7 +46,6 @@ quickFilters:
 playerNeeds:
   - "buy_now"
   - "beginner_friendly"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
 gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -70,6 +69,8 @@ communityMemes:
   - "Die sprechenden Blumen hören nicht auf"
   - "Wonder-Flower-Chaos in jedem einzelnen Level"
   - "Abzeichen-Kombinationen, von denen Sie nicht wussten, dass es sie gibt"
+tldr: "Super Mario Bros. Wonder lohnt sich für 17 € auf Switch — ein 2D-Mario mit 92 auf Metacritic, ideal für Familien und Koop."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "super mario bros wonder switch"
   - "mario wonder kaufen oder warten"

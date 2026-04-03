@@ -72,6 +72,7 @@ communityMemes:
   - "Trumpet trees are not a phase"
   - "It is a headphone game first"
   - "Figment 1 before Figment 2 — the bundle rabbit hole"
+tldr: "Figment is a low-risk buy on Switch at under €1 — a 5-hour musical puzzler best for mood-first players, not combat fans."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"

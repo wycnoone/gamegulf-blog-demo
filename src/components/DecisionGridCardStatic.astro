@@ -1,0 +1,124 @@
+---
+import type { DecisionEntryCardModel } from '@/lib/blog';
+import { intlLocales } from '@/lib/i18n';
+import { t } from '@/lib/translations';
+import {
+  getDecisionDisplayTitle,
+  getCompactPriceCall,
+  getDecisionScoreChip,
+} from '@/lib/decision-card-display';
+
+interface Props {
+  card: DecisionEntryCardModel;
+}
+
+const { card } = Astro.props;
+
+const compactPriceCall = getCompactPriceCall(card);
+const primaryHref = card.href;
+const displayTitle = getDecisionDisplayTitle(card);
+const compactWhatItIs = card.whatItIs;
+const compactBestFor = card.bestFor;
+const compactCommunityVibe = card.communityVibe || null;
+const priceAdviceText = compactPriceCall.label;
+const priceAdviceDetail = compactPriceCall.detail;
+const trackLabel = t(card.locale, 'card.track');
+const primaryCtaLabel = card.primaryCtaLabel;
+
+const cardDate = new Intl.DateTimeFormat(intlLocales[card.locale], {
+  year: 'numeric', month: 'short', day: 'numeric',
+}).format(new Date(card.updatedAt || card.publishedAt));
+
+const minutes = card.readingTime.match(/\d+/u)?.[0];
+const readingMeta = minutes ? t(card.locale, 'card.minRead', { n: minutes }) : card.readingTime;
+
+const scoreChip = getDecisionScoreChip(card);
+const normalizedScore = scoreChip ? scoreChip.replace(/\s*MC$/u, '') : null;
+const reviewMeta = normalizedScore ? t(card.locale, 'card.metacritic', { score: normalizedScore }) : null;
+---
+
+<article class="decision-grid-card decision-grid-card-pro">
+  <a href={card.href} class="decision-card-link-overlay" aria-label={displayTitle}></a>
+  <div class="decision-cover-pro">
+    {card.coverImage ? (
+      <img src={card.coverImage} alt={card.gameTitle} class="decision-cover-image-pro" loading="lazy" />
+    ) : (
+      <div class="decision-cover-fallback-pro" aria-hidden="true"></div>
+    )}
+    <div class="decision-cover-accent-pro" aria-hidden="true"></div>
+  </div>
+
+  <div class="decision-card-body-pro">
+    <div class="decision-card-title-block-pro">
+      <h3><a href={card.href}>{displayTitle}</a></h3>
+    </div>
+
+    <div class="decision-tag-row decision-tag-row-pro">
+      {card.tags.slice(0, 2).map((tag) => (
+        <span class="decision-tag decision-tag-pro">{tag}</span>
+      ))}
+    </div>
+
+    <p class="decision-summary-pro decision-summary-block-pro">{compactWhatItIs}</p>
+
+    {compactCommunityVibe && (
+      <div class="decision-vibe-pro">
+        <span class="decision-vibe-label-pro">{t(card.locale, 'card.playerConsensus')}</span>
+        <p class="decision-vibe-text-pro">&ldquo;{compactCommunityVibe}&rdquo;</p>
+      </div>
+    )}
+
+    <div class="decision-stats-row-pro">
+      <span class="decision-stat-item-pro">
+        <svg class="decision-stat-svg-pro" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <circle cx="12" cy="12" r="8.25" stroke="currentColor" stroke-width="2.2" />
+          <path d="M12 7.5V12.4" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+          <path d="M12 12.4L15.2 14.2" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" />
+        </svg>
+        <span>{t(card.locale, 'card.estLength')}{' '}<strong>{card.playtime || 'N/A'}</strong></span>
+      </span>
+      {reviewMeta && (
+        <span class="decision-stat-item-pro">
+          <span class="decision-meta-icon-pro" aria-hidden="true">
+            <svg width="12" height="12" viewBox="0 0 24 24" fill="none">
+              <path d="M4 16V8L12 13L20 8V16" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+            </svg>
+          </span>
+          <span>{reviewMeta}</span>
+        </span>
+      )}
+    </div>
+
+    <div class="decision-core-grid-pro">
+      <div class="decision-core-item-pro">
+        <span class="decision-core-label-pro">{t(card.locale, 'card.bestFor')}</span>
+        <span class="decision-core-value-pro">{compactBestFor}</span>
+      </div>
+      <div class="decision-core-item-pro">
+        <span class="decision-core-label-pro">{t(card.locale, 'card.advice')}</span>
+        <span class="decision-core-value-pro decision-core-value-signal-pro">{priceAdviceText}</span>
+        <span class="decision-core-support-pro">{priceAdviceDetail}</span>
+      </div>
+    </div>
+
+    <div class="decision-cta-row decision-cta-row-pro">
+      <a href={primaryHref} class="decision-cta-primary-pro">
+        <svg class="decision-cta-plus-pro" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M10 4.5V15.5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" />
+          <path d="M4.5 10H15.5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" />
+        </svg>
+        <span>{primaryCtaLabel}</span>
+        <svg class="decision-cta-plus-pro" viewBox="0 0 20 20" fill="none" aria-hidden="true">
+          <path d="M10 4.5V15.5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" />
+          <path d="M4.5 10H15.5" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" />
+        </svg>
+      </a>
+      <a href={card.priceTrackHref} class="decision-cta-track-pro">{trackLabel}</a>
+    </div>
+
+    <div class="decision-card-footer-meta-pro">
+      <span>{cardDate}</span>
+      <span>{readingMeta}</span>
+    </div>
+  </div>
+</article>

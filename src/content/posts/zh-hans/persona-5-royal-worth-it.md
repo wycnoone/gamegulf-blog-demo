@@ -76,6 +76,7 @@ communityMemes:
   - "For real?!"
   - "真女神是真冬（不接受反驳）"
   - "摩尔加纳催你睡觉之争"
+tldr: "女神异闻录5皇家版不到 €11 就能入手，100+ 小时的顶级 JRPG，喜欢回合制的果断买。"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price"
 gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"

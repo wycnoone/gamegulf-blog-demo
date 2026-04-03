@@ -47,7 +47,6 @@ playerNeeds:
   - "buy_now"
   - "party_games"
   - "local_multiplayer"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hOtepbk2uh2"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -72,6 +71,8 @@ communityMemes:
   - "Nostalgia por Coconut Mall"
   - "Rabia del rayo en la última vuelta"
   - "La traición de la cáscara de plátano"
+tldr: "Mario Kart 8 Deluxe sigue valiendo la pena en 2026 para jugar en grupo — el juego de fiesta definitivo, 92 Metacritic."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "mario kart 8 deluxe switch"
   - "mario kart 8 vale la pena 2026"

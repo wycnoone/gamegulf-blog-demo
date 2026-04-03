@@ -72,6 +72,7 @@ communityMemes:
   - "Les arbres trompettes ne sont pas une phase"
   - "C'est un jeu au casque avant tout"
   - "Figment 1 avant Figment 2 — le piège du bundle"
+tldr: "Figment est un achat sans risque à moins de 1 € — un puzzle musical de 5 heures pour les amateurs d'ambiance."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"

@@ -1,0 +1,54 @@
+---
+import DecisionFeaturedCardStatic from './DecisionFeaturedCardStatic.astro';
+import DecisionGridCardStatic from './DecisionGridCardStatic.astro';
+import type { DecisionEntryCardModel } from '@/lib/blog';
+import type { BlogLocale } from '@/lib/i18n';
+import { t } from '@/lib/translations';
+
+interface Props {
+  cards: DecisionEntryCardModel[];
+  locale: BlogLocale;
+}
+
+const { cards, locale } = Astro.props;
+const featured = cards.slice(0, Math.min(2, cards.length));
+const grid = cards.slice(featured.length);
+---
+
+{cards.length === 0 ? (
+  <div class="decision-empty-state section-block">
+    <p>{t(locale, 'topic.noGuides')}</p>
+  </div>
+) : (
+  <>
+    <section class="decision-featured-section section-block">
+      <div class="section-head">
+        <div>
+          <h2>{t(locale, 'topic.topPicks')}</h2>
+          <p>{t(locale, 'topic.topPicksDesc')}</p>
+        </div>
+      </div>
+      <div class="decision-featured-grid-v2">
+        {featured.map((card) => (
+          <DecisionFeaturedCardStatic card={card} />
+        ))}
+      </div>
+    </section>
+
+    {grid.length > 0 && (
+      <section class="decision-grid-section section-block">
+        <div class="section-head">
+          <div>
+            <h2>{t(locale, 'topic.moreGuides')}</h2>
+            <p>{t(locale, 'topic.moreGuidesDesc')}</p>
+          </div>
+        </div>
+        <div class="decision-grid-v2">
+          {grid.map((card) => (
+            <DecisionGridCardStatic card={card} />
+          ))}
+        </div>
+      </section>
+    )}
+  </>
+)}

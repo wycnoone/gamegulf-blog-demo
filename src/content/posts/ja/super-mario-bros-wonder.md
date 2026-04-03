@@ -46,12 +46,6 @@ quickFilters:
 playerNeeds:
   - "buy_now"
   - "beginner_friendly"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
-gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg"
-heroTheme: "brand"
 playerVoices:
   - quote: "すべてのコースが新鮮なアイデアで溢れていて、飽きが来ない"
     sentiment: "positive"
@@ -70,6 +64,13 @@ communityMemes:
   - "おしゃべりフラワーが止まらない"
   - "毎コースのワンダーフラワーカオス"
   - "知らなかったバッジの組み合わせ"
+tldr: "スーパーマリオブラザーズ ワンダーは17€で購入可能——Metacritic 92点、家族やCo-opに最適な2Dマリオ。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
+gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
+membershipHref: "https://www.gamegulf.com/pricing"
+coverImage: "https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg"
+heroTheme: "brand"
 tags:
   - "スーパーマリオブラザーズ ワンダー スイッチ"
   - "マリオ ワンダー 買うべき"

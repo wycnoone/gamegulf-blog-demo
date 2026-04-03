@@ -72,6 +72,7 @@ communityMemes:
   - "Árvores-trompete não são uma fase"
   - "É um jogo de fone de ouvido primeiro"
   - "Figment 1 antes do Figment 2 — a toca do coelho dos bundles"
+tldr: "Figment é uma compra sem risco por menos de 1 € — um puzzle musical de 5 horas para quem curte atmosfera."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"

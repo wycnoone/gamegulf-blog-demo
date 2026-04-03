@@ -7,6 +7,7 @@ import {
   formatDate,
   getAllBlogPaths,
   getAlternatePostPaths,
+  getCategoryMeta,
   getLocaleAlternates,
   getOgImage,
   getPost,
@@ -57,8 +58,9 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Blog', item: `${siteUrl}${blogBasePath}/${typedLocale}` },
-    { '@type': 'ListItem', position: 2, name: post.gameTitle, item: `${siteUrl}${path}` },
+    { '@type': 'ListItem', position: 1, name: 'GameGulf', item: siteUrl },
+    { '@type': 'ListItem', position: 2, name: t(typedLocale, 'shell.blogTitle'), item: `${siteUrl}${blogBasePath}/${typedLocale}` },
+    { '@type': 'ListItem', position: 3, name: post.gameTitle, item: `${siteUrl}${path}` },
   ],
 };
 const faqSchema = {
@@ -87,9 +89,68 @@ const articleSchema = {
     '@type': 'VideoGame',
     name: post.gameTitle,
     gamePlatform: post.platform,
+    url: post.gameHref,
   },
   inLanguage: langTags[typedLocale],
   mainEntityOfPage: `${siteUrl}${path}`,
+};
+
+const verdictToRating: Record<string, number> = {
+  buy_now: 9,
+  right_player: 7,
+  wait_for_sale: 6,
+  not_best_fit: 4,
+};
+const reviewSchema = post.verdict ? {
+  '@context': 'https://schema.org',
+  '@type': 'Review',
+  itemReviewed: {
+    '@type': 'VideoGame',
+    name: post.gameTitle,
+    gamePlatform: post.platform,
+    url: post.gameHref,
+  },
+  reviewRating: {
+    '@type': 'Rating',
+    ratingValue: verdictToRating[post.verdict] ?? 7,
+    bestRating: 10,
+    worstRating: 1,
+  },
+  name: post.title,
+  reviewBody: post.takeaway || post.decision,
+  author: { '@type': 'Organization', name: 'GameGulf' },
+  publisher: { '@type': 'Organization', name: 'GameGulf', url: siteUrl },
+  datePublished: post.publishedAt,
+  dateModified: post.updatedAt || post.publishedAt,
+  inLanguage: langTags[typedLocale],
+  ...(post.bestFor ? {
+    positiveNotes: {
+      '@type': 'ItemList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: post.bestFor },
+        ...(post.consensusPraise ? [{ '@type': 'ListItem', position: 2, name: post.consensusPraise }] : []),
+      ],
+    },
+  } : {}),
+  ...(post.avoidIf ? {
+    negativeNotes: {
+      '@type': 'ItemList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: post.avoidIf },
+        ...(post.mainFriction ? [{ '@type': 'ListItem', position: 2, name: post.mainFriction }] : []),
+      ],
+    },
+  } : {}),
+} : null;
+
+const speakableSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'WebPage',
+  name: post.title,
+  speakable: {
+    '@type': 'SpeakableSpecification',
+    cssSelector: ['.tldr-answer', '.takeaway-callout'],
+  },
 };
 
 const priceCallText = post.priceCall
@@ -113,11 +174,22 @@ const hasOverview = overviewWhatItIs || overviewPraise;
   ogImage={ogImage}
   ogType="article"
   alternates={alternates}
-  jsonLd={[articleSchema, breadcrumbSchema, faqSchema]}
+  jsonLd={[articleSchema, breadcrumbSchema, faqSchema, ...(reviewSchema ? [reviewSchema] : []), speakableSchema]}
+  publishedTime={post.publishedAt}
+  modifiedTime={post.updatedAt || post.publishedAt}
+  articleSection={getCategoryMeta(typedLocale, post.category).title}
+  articleTags={post.tags.slice(0, 5)}
 >
   <BlogShell locale={typedLocale} localePaths={localePaths}>
     <section class="article-shell section-block">
       <div>
+        <nav class="article-breadcrumb" aria-label="Breadcrumb">
+          <a href={siteUrl}>GameGulf</a>
+          <span class="bc-sep">›</span>
+          <a href={`${blogBasePath}/${typedLocale}`}>{t(typedLocale, 'shell.blogTitle')}</a>
+          <span class="bc-sep">›</span>
+          <span class="bc-current">{post.gameTitle}</span>
+        </nav>
         <header class="article-header">
           <div class="article-summary-card article-summary-card-compact">
             <div
@@ -148,6 +220,13 @@ const hasOverview = overviewWhatItIs || overviewPraise;
               )}
               <span>{post.readingTime}</span>
             </div>
+
+            {post.tldr && (
+              <div class="tldr-answer" data-nosnippet="false">
+                <strong class="tldr-label">{t(typedLocale, 'article.tldr')}</strong>
+                <p>{post.tldr}</p>
+              </div>
+            )}
 
             <div class="decision-snapshot">
               <div class="decision-snapshot-row">

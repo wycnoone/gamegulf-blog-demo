@@ -701,11 +701,26 @@ img {
 
 .decision-grid-card-pro,
 .decision-featured-card-pro {
+  position: relative;
   border: 1px solid rgba(15, 23, 42, 0.08);
   border-radius: 28px;
   background: #ffffff;
   overflow: hidden;
   transition: border-color 180ms ease, box-shadow 180ms ease, transform 180ms ease;
+}
+
+.decision-card-link-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.decision-grid-card-pro a:not(.decision-card-link-overlay),
+.decision-featured-card-pro a:not(.decision-card-link-overlay),
+.decision-grid-card-pro button,
+.decision-featured-card-pro button {
+  position: relative;
+  z-index: 1;
 }
 
 .decision-grid-card-pro:hover,
@@ -1067,6 +1082,32 @@ img {
 
 .article-shell .section-block {
   margin-top: 0;
+}
+
+.article-breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 5px;
+  font-size: 0.8rem;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+.article-breadcrumb a {
+  color: var(--muted);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+.article-breadcrumb a:hover {
+  color: var(--brand);
+}
+.article-breadcrumb .bc-sep {
+  opacity: 0.4;
+  font-size: 0.7rem;
+}
+.article-breadcrumb .bc-current {
+  color: var(--muted-strong);
+  font-weight: 500;
 }
 
 .article-header {
@@ -2590,6 +2631,29 @@ img {
 .overview-negative .overview-label { color: var(--orange); }
 
 /* ── Takeaway callout ── */
+.tldr-answer {
+  padding: 8px 0 8px 16px;
+  border-left: 3px solid var(--brand);
+  background: transparent;
+  margin: 14px 0 0;
+}
+.tldr-label {
+  display: block;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--brand);
+  margin-bottom: 2px;
+  margin-bottom: 4px;
+}
+.tldr-answer p {
+  margin: 0;
+  font-size: 0.97rem;
+  line-height: 1.5;
+  color: var(--text);
+  font-weight: 500;
+}
+
 .takeaway-callout {
   padding: 20px 24px;
   border-radius: 16px;

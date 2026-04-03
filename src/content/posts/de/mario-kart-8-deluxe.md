@@ -47,7 +47,6 @@ playerNeeds:
   - "buy_now"
   - "party_games"
   - "local_multiplayer"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hOtepbk2uh2"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -72,6 +71,8 @@ communityMemes:
   - "Kokospalmen-Mall-Nostalgie"
   - "Blitz in der letzten Runde – pure Wut"
   - "Der Bananenschalen-Verrat"
+tldr: "Mario Kart 8 Deluxe lohnt sich 2026 immer noch für Mehrspieler — das ultimative Switch-Partyspiel mit 92 auf Metacritic."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "mario kart 8 deluxe switch"
   - "mario kart 8 lohnt es sich 2026"

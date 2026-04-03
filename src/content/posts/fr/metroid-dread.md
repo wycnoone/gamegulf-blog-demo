@@ -46,7 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
 gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -69,6 +68,8 @@ communityMemes:
   - "La rage des puzzles Éclat Véloce"
   - "Samus est de retour et elle est en colère"
   - "Le Mode Débutant existe — utilisez-le si vous avez besoin de souffler"
+tldr: "Metroid Dread gagne à attendre une promo — un Metroidvania noté 88 qui descend rarement sous 36 € sur Switch."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "metroid dread switch"
   - "metroid dread acheter ou attendre"

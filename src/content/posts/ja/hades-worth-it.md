@@ -75,6 +75,7 @@ communityMemes:
   - "アテナのブーン？もちろんいただきます"
   - "Hadesのサントラが脳内に住みついてる"
   - "ケルベロスは最高のいい子"
+tldr: "Hadesは1€以下でSwitch版が買える——Metacritic 93点のローグライク、携帯モードの動作も完璧。"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"

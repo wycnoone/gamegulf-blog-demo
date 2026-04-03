@@ -75,6 +75,7 @@ communityMemes:
   - "Faveur d'Athéna ? Je ne dis pas non"
   - "La bande-son de Hades vit dans ma tête sans payer de loyer"
   - "Cerbère est le meilleur garçon"
+tldr: "Hades est un achat évident sur Switch à moins de 1 € — roguelike noté 93 sur Metacritic avec une performance parfaite en portable."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"

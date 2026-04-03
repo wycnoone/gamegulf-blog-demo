@@ -46,10 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
-gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
-membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg"
 heroTheme: "dark"
 playerVoices:
@@ -69,6 +65,11 @@ communityMemes:
   - "闪光冲刺解谜暴怒"
   - "萨姆斯回来了，而且她很生气"
   - "新手模式该开就开，别硬扛"
+tldr: "密特罗德生存恐惧建议再等等——88 分 Metacritic 的银河恶魔城佳作，但 Switch 上很少降到 €36 以下。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
+gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
+membershipHref: "https://www.gamegulf.com/pricing"
 tags:
   - "密特罗德 生存恐惧 值得买吗"
   - "密特罗德 switch 价格"

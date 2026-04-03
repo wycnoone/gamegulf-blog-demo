@@ -604,6 +604,15 @@ export const ui = {
     ja: 'ウィッシュリストに追加',
     pt: 'Salvar na lista de desejos',
   },
+  'article.tldr': {
+    en: 'Quick answer',
+    'zh-hans': '快速回答',
+    fr: 'Réponse rapide',
+    es: 'Respuesta rápida',
+    de: 'Kurzantwort',
+    ja: 'クイック回答',
+    pt: 'Resposta rápida',
+  },
   'article.bottomLine': {
     en: 'Bottom line',
     'zh-hans': '一句话结论',

@@ -72,6 +72,7 @@ communityMemes:
   - "Los árboles trompeta no son una fase"
   - "Es un juego de audífonos ante todo"
   - "Figment 1 antes de Figment 2 — la madriguera de los bundles"
+tldr: "Figment es una compra sin riesgo por menos de 1 € — un puzzle musical de 5 horas para quienes buscan atmósfera."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"

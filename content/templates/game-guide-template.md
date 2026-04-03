@@ -41,14 +41,16 @@ These fields render on the **listing card** and must be optimized for:
 - The `tags` field feeds the **internal search index**, not the card tag badges
 - The **card tag badges** come from `quickFilters` labels (e.g. "Long RPG", "Under $20")
 
-### Article body + FAQ → GEO (AI citation and answer engines)
+### tldr + Article body + FAQ → GEO (AI citation and answer engines)
 
-The article body and FAQ render on the **detail page** and must be optimized for:
+The `tldr`, article body and FAQ render on the **detail page** and must be optimized for:
 - AI systems extracting quotable answers
 - FAQPage schema (directly output as JSON-LD)
+- Review schema with rating (auto-generated from verdict)
 - Answer engines (Perplexity, Google AI Overview, ChatGPT search)
 
 **The detail page also auto-renders these structured sections from frontmatter:**
+- **Quick Answer box** (tldr) — rendered above the article body, highest AI extraction priority
 - Decision Snapshot (verdict, playtime, bestFor, priceSignal)
 - Game Overview (whatItIs, consensusPraise)
 - Bottom Line callout (takeaway)
@@ -56,7 +58,7 @@ The article body and FAQ render on the **detail page** and must be optimized for
 - Community Culture (communityMemes)
 - GameGulf Recommends (action cards)
 - FAQ (faq)
-- JSON-LD: BlogPosting + FAQPage + BreadcrumbList
+- JSON-LD: BlogPosting + FAQPage + BreadcrumbList + Review (with rating)
 
 ---
 
@@ -86,6 +88,9 @@ priceCall: "buy"  # buy | wait | watch
 confidence: "high"  # high | medium | low
 actionBucket: "buy_now"  # buy_now | wait | set_alert
 featuredPriority: 1  # Lower = more prominent; 999 = default
+
+# ── GEO direct answer (renders as "Quick Answer" box above article) ──
+tldr: "Max 160 chars. One sentence directly answering the title question. Must start with game name, include verdict, and one concrete detail."
 
 # ── Card display fields (SEO — respect character limits) ──
 listingTakeaway: "Max 96 chars. A micro-decision that makes readers click through."
@@ -214,7 +219,7 @@ FAQ answers are output as FAQPage JSON-LD schema and are the #1 asset for AI cit
 
 ## Multilingual rules
 
-- Translate all text fields: `title`, `description`, `gameTitle`, `decision`, `priceSignal`, `heroNote`, `heroStat` (keep English if source is English-only), `badge`, `listingTakeaway`, `whatItIs`, `avoidIf`, `consensusPraise`, `mainFriction`, `timeFit`, `fitLabel`, `timingNote`, `communityVibe`, `playtime`, `playStyle`, `timeCommitment`, `playMode`, `whyNow`, `currentDeal`, `nearHistoricalLow`, `salePattern`, `takeaway`, `bestFor`, `readingTime`, `ctaLabelOverride`, `faq`, `tags`, `playerVoices`, `communityMemes`
+- Translate all text fields: `title`, `description`, `gameTitle`, `tldr`, `decision`, `priceSignal`, `heroNote`, `heroStat` (keep English if source is English-only), `badge`, `listingTakeaway`, `whatItIs`, `avoidIf`, `consensusPraise`, `mainFriction`, `timeFit`, `fitLabel`, `timingNote`, `communityVibe`, `playtime`, `playStyle`, `timeCommitment`, `playMode`, `whyNow`, `currentDeal`, `nearHistoricalLow`, `salePattern`, `takeaway`, `bestFor`, `readingTime`, `ctaLabelOverride`, `faq`, `tags`, `playerVoices`, `communityMemes`
 - Keep unchanged (do NOT translate): `publishedAt`, `updatedAt`, `category`, `platform`, `author`, `wishlistHref`, `priceTrackHref`, `gameHref`, `membershipHref`, `coverImage`, `heroTheme`, `actionBucket`, `quickFilters`, `playerNeeds`, `verdict`, `priceCall`, `confidence`, `featuredPriority`, `reviewSignal`, `priceRecommendation`
 - Use the same slug as the English version
 - Adapt titles and headings to how users in that language actually search

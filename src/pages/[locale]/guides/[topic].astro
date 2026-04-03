@@ -1,7 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import BlogShell from '@/components/BlogShell.astro';
-import { TopicCardGrid } from '@/components/TopicCardGrid';
+import TopicCardGridStatic from '@/components/TopicCardGridStatic.astro';
 import {
   blogBasePath,
   defaultOgImage,
@@ -53,8 +53,9 @@ const breadcrumbSchema = {
   '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
-    { '@type': 'ListItem', position: 1, name: 'Blog', item: `${siteUrl}${blogBasePath}/${typedLocale}` },
-    { '@type': 'ListItem', position: 2, name: topic.title[typedLocale], item: `${siteUrl}${path}` },
+    { '@type': 'ListItem', position: 1, name: 'GameGulf', item: siteUrl },
+    { '@type': 'ListItem', position: 2, name: t(typedLocale, 'shell.blogTitle'), item: `${siteUrl}${blogBasePath}/${typedLocale}` },
+    { '@type': 'ListItem', position: 3, name: topic.title[typedLocale], item: `${siteUrl}${path}` },
   ],
 };
 
@@ -88,13 +89,20 @@ const collectionSchema = {
 >
   <BlogShell locale={typedLocale} localePaths={localePaths}>
     <section class="topic-page section-block">
+      <nav class="article-breadcrumb" aria-label="Breadcrumb">
+        <a href={siteUrl}>GameGulf</a>
+        <span class="bc-sep">›</span>
+        <a href={`${blogBasePath}/${typedLocale}`}>{t(typedLocale, 'shell.blogTitle')}</a>
+        <span class="bc-sep">›</span>
+        <span class="bc-current">{topic.label[typedLocale]}</span>
+      </nav>
       <header class="decision-category-hero section-block">
         <p class="eyebrow">{t(typedLocale, 'guide.eyebrow')}</p>
         <h1>{topic.title[typedLocale]}</h1>
         <p class="worth-it-hero-copy">{topic.intro[typedLocale]}</p>
       </header>
 
-      <TopicCardGrid cards={cards} locale={typedLocale} client:load />
+      <TopicCardGridStatic cards={cards} locale={typedLocale} />
 
       {otherTopics.length > 0 && (
         <section class="section-block topic-related-section">

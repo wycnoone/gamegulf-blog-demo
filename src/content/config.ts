@@ -64,6 +64,7 @@ const posts = defineCollection({
       sentiment: z.enum(['positive', 'negative', 'mixed']),
     })).optional(),
     communityMemes: z.array(z.string()).optional(),
+    tldr: z.string().optional(),
     tags: z.array(z.string()),
     faq: z.array(z.object({
       question: z.string(),

@@ -47,10 +47,6 @@ playerNeeds:
   - "cozy"
   - "casual"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price"
-gameHref: "https://www.gamegulf.com/detail/dBQesuYO7Cn"
-membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/1740988116563166869886.jpeg"
 heroTheme: "brand"
 playerVoices:
@@ -72,6 +68,11 @@ communityMemes:
   - "刷岛找理想居民的血泪史"
   - "晒岛内卷现场"
   - "KK 演唱会之夜"
+tldr: "动物森友会不到 €5 就能入手，适合喜欢慢节奏日常经营的玩家，不适合追求快节奏刺激的人。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price"
+gameHref: "https://www.gamegulf.com/detail/dBQesuYO7Cn"
+membershipHref: "https://www.gamegulf.com/pricing"
 tags:
   - "动物森友会 值得买吗"
   - "动森 switch 价格"

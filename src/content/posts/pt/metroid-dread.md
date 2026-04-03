@@ -46,12 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
-gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg"
-heroTheme: "dark"
 playerVoices:
   - quote: "Controles mais precisos de qualquer Metroid 2D"
     sentiment: "positive"
@@ -69,6 +63,13 @@ communityMemes:
   - "Raiva dos puzzles de Shinespark"
   - "Samus está de volta e furiosa"
   - "Modo Novato existe — use se precisar respirar"
+tldr: "Metroid Dread é melhor esperar uma promoção — Metroidvania com 88 no Metacritic que raramente baixa de 36 € no Switch."
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
+gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
+membershipHref: "https://www.gamegulf.com/pricing"
+coverImage: "https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg"
+heroTheme: "dark"
 tags:
   - "metroid dread switch"
   - "metroid dread comprar ou esperar"

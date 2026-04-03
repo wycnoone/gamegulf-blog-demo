@@ -46,10 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "casual"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
-gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
-membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/1740987466963111773084.jpeg"
 heroTheme: "brand"
 playerVoices:
@@ -69,6 +65,11 @@ communityMemes:
   - "段取战焦虑症"
   - "发光皮克敏夜班"
   - "试玩存档继承炫耀"
+tldr: "皮克敏4目前建议先观望——87 分 Metacritic 的策略冒险佳作，但价格还没降到理想位置。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
+gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
+membershipHref: "https://www.gamegulf.com/pricing"
 tags:
   - "皮克敏4 现在买还是等等"
   - "皮克敏4 switch 价格"

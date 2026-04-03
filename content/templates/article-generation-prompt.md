@@ -189,7 +189,7 @@ Positioning:
 
 TWO AUDIENCES, ONE FILE:
 - Frontmatter fields → drive the LISTING CARD (SEO)
-- Article body + FAQ → drive the DETAIL PAGE (GEO)
+- Article body + FAQ + tldr → drive the DETAIL PAGE (GEO)
 
 ·····················································
 FRONTMATTER RULES
@@ -242,6 +242,20 @@ Product links (auto-derived — never translate):
 - gameHref, priceTrackHref, wishlistHref, membershipHref
 - coverImage: from the GameGulf page
 - heroTheme: "brand" (default) or "dark"
+
+GEO direct answer:
+- tldr: A single sentence that directly answers the title
+  question. This renders ABOVE the article body as a
+  highlighted "Quick answer" box. AI engines extract this
+  as a standalone answer.
+  RULES:
+  - Must start with the game name
+  - Must include the verdict (buy/wait/skip)
+  - Must include one concrete detail (price, score, or fit)
+  - Max 160 chars
+  - Example: "Hades is an easy buy on Switch at under €1 —
+    a 93-Metacritic roguelike with perfect handheld
+    performance and 20+ hours of content."
 
 FAQ — HIGHEST GEO PRIORITY:
 - 3 to 6 items
@@ -317,12 +331,42 @@ For both categories:
   GameGulf Recommends are auto-rendered from frontmatter)
 
 ·····················································
+INTERNAL LINKING RULES
+·····················································
+
+Each article should include 1-2 natural internal links to
+other GameGulf blog articles within the body text. These
+links help SEO (link equity) and GEO (contextual relevance).
+
+Rules:
+- Link to articles on related games (same genre, same
+  purchase dilemma, or natural comparison candidates)
+- The link text should read naturally in context, not feel
+  forced or promotional
+- Use relative paths: /blog/{locale}/{slug}
+- Only link to articles that exist in the same locale
+- Place links in sections where comparison is natural
+  (pricing section, buy/wait section, or thematic closing)
+- Do NOT create a standalone "related articles" section;
+  the page template handles that automatically
+
+Examples of natural placements:
+- "If you prefer shorter roguelike loops instead,
+  [our Hades guide](/blog/en/hades-worth-it) covers that."
+- "Zelda 粉丝也可以看看
+  [我们的王国之泪指南](/blog/zh-hans/zelda-tears-of-the-kingdom)。"
+
+If no related article exists yet for the target locale,
+skip the internal link rather than linking to a non-existent
+page.
+
+·····················································
 LANGUAGE RULES
 ·····················································
 
 - Write the article body entirely in the target language
 - Translate all text fields: title, description, gameTitle,
-  decision, priceSignal, heroNote, badge, listingTakeaway,
+  tldr, decision, priceSignal, heroNote, badge, listingTakeaway,
   whatItIs, avoidIf, consensusPraise, mainFriction, timeFit,
   fitLabel, timingNote, communityVibe, playtime, playStyle,
   timeCommitment, playMode, whyNow, currentDeal,
@@ -395,7 +439,9 @@ SEO (card fields):
 □ tags are real user search queries
 □ quickFilters accurately describe the game
 
-GEO (article body + FAQ):
+GEO (tldr + article body + FAQ):
+□ tldr is present, starts with game name, ≤160 chars
+□ tldr includes verdict and one concrete detail
 □ Every section opens with a quotable statement
 □ Key statements include the game name
 □ Section headings match real user questions

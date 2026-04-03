@@ -75,6 +75,7 @@ communityMemes:
   - "雅典娜的神恩？不嫌多"
   - "Hades 原声带住在脑子里不交房租"
   - "地狱三头犬是最好的狗子"
+tldr: "Hades 在 Switch 上不到 €1 就能入手，93 分 Metacritic 的 Roguelike，掌机体验完美，果断买。"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"

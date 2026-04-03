@@ -75,6 +75,7 @@ communityMemes:
   - "Boon of Athena? Don't mind if I do"
   - "The Hades soundtrack lives rent-free in my head"
   - "Cerberus is the goodest boy"
+tldr: "Hades is an easy buy on Switch at under €1 — a 93-Metacritic roguelike with perfect handheld performance and 20+ hours of content."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"

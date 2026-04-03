@@ -46,10 +46,6 @@ quickFilters:
 playerNeeds:
   - "buy_now"
   - "beginner_friendly"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
-gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
-membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg"
 heroTheme: "brand"
 playerVoices:
@@ -70,6 +66,11 @@ communityMemes:
   - "话唠花根本停不下来"
   - "每一关的惊奇花都是惊喜"
   - "隐藏徽章组合玩法"
+tldr: "超级马力欧惊奇约 €17 就能入手，92 分 Metacritic 的 2D 马力欧，特别适合家庭和双人合作。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
+gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
+membershipHref: "https://www.gamegulf.com/pricing"
 tags:
   - "超级马力欧兄弟 惊奇"
   - "马力欧惊奇 价格"

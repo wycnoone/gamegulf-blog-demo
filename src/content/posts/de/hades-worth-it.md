@@ -75,6 +75,7 @@ communityMemes:
   - "Segen der Athene? Immer her damit"
   - "Der Hades-Soundtrack lebt mietfrei in meinem Kopf"
   - "Zerberus ist der beste Junge"
+tldr: "Hades ist ein klarer Kauf auf Switch für unter 1 € — Roguelike mit 93 auf Metacritic und perfekter Handheld-Performance."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"

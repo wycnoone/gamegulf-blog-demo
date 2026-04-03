@@ -1,5 +1,5 @@
 import { getCollection, render, type CollectionEntry } from 'astro:content';
-import { type BlogLocale, locales, intlLocales } from '@/lib/i18n';
+import { type BlogLocale, locales, intlLocales, langTags } from '@/lib/i18n';
 import { shortenText, normalizeForComparison } from '@/lib/text-utils';
 
 export const siteUrl = 'https://www.gamegulf.com';
@@ -83,6 +83,7 @@ export type BlogPost = {
   priceRecommendation?: PriceRecommendation;
   playerVoices?: { quote: string; sentiment: 'positive' | 'negative' | 'mixed' }[];
   communityMemes?: string[];
+  tldr?: string;
   tags: string[];
   faq: FaqItem[];
   body: string;
@@ -434,6 +435,7 @@ function entryToPost(entry: CollectionEntry<'posts'>): BlogPost {
     priceRecommendation: d.priceRecommendation,
     playerVoices: d.playerVoices,
     communityMemes: d.communityMemes,
+    tldr: d.tldr,
     tags: d.tags,
     faq: d.faq,
     body: '',
@@ -511,7 +513,7 @@ export function getLocaleAlternates(pathnameByLocale: Partial<Record<BlogLocale,
   const alternates = Object.fromEntries(
     locales
       .filter((l) => pathnameByLocale[l])
-      .map((l) => [l, `${siteUrl}${pathnameByLocale[l]}`]),
+      .map((l) => [langTags[l], `${siteUrl}${pathnameByLocale[l]}`]),
   );
   const defaultPath = pathnameByLocale.en || Object.values(pathnameByLocale).find(Boolean);
   return { ...alternates, ...(defaultPath ? { 'x-default': `${siteUrl}${defaultPath}` } : {}) };

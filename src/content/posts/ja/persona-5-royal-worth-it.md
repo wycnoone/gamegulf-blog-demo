@@ -76,6 +76,7 @@ communityMemes:
   - "マジで!?"
   - "真こそ最高（異論は認めない）"
   - "モルガナの「もう寝ろ」論争"
+tldr: "ペルソナ5 ザ・ロイヤルは11€以下で購入可能——Metacritic 94点、100時間超の最高峰JRPG。"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price"
 gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"

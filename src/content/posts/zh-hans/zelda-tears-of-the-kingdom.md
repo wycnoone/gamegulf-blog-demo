@@ -47,10 +47,6 @@ playerNeeds:
   - "long_games"
   - "buy_now"
   - "value_for_money"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price"
-gameHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR"
-membershipHref: "https://www.gamegulf.com/pricing"
 coverImage: "https://cdn.gamegulf.com/upload/1740987463791129743524.jpeg"
 heroTheme: "brand"
 playerVoices:
@@ -72,6 +68,11 @@ communityMemes:
   - "呀哈哈背包工具人"
   - "天空岛神庙速通"
   - "地底不适合胆小的人"
+tldr: "塞尔达王国之泪是 Switch 上必买的开放世界冒险，96 分 Metacritic，50-150 小时内容量。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price"
+gameHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR"
+membershipHref: "https://www.gamegulf.com/pricing"
 tags:
   - "塞尔达 王国之泪 值得买吗"
   - "王国之泪 switch 价格"

@@ -46,12 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "casual"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
-gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740987466963111773084.jpeg"
-heroTheme: "brand"
 playerVoices:
   - quote: "ストラテジーゲームに興味がなかった人も魅了するほどの魅力がある"
     sentiment: "positive"
@@ -69,6 +63,13 @@ communityMemes:
   - "ダンドリバトルの焦り"
   - "ヒカリピクミン夜勤のトラウマ"
   - "体験版セーブデータ引き継ぎマウント"
+tldr: "ピクミン4は価格を追跡してから購入がおすすめ——Metacritic 87点の良作だが、まだ値下がりが足りない。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
+gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
+membershipHref: "https://www.gamegulf.com/pricing"
+coverImage: "https://cdn.gamegulf.com/upload/1740987466963111773084.jpeg"
+heroTheme: "brand"
 tags:
   - "ピクミン4 スイッチ"
   - "ピクミン4 買うべき 待つべき"

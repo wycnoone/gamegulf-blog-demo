@@ -46,12 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "casual"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
-gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740987466963111773084.jpeg"
-heroTheme: "brand"
 playerVoices:
   - quote: "Charmoso o suficiente para converter jogadores que nunca ligaram para jogos de estratégia"
     sentiment: "positive"
@@ -69,6 +63,13 @@ communityMemes:
   - "Ansiedade de batalha Dandori"
   - "Trauma do turno da noite dos Pikmin Brilhantes"
   - "Flex da transferência de save da demo"
+tldr: "Pikmin 4 vale a pena acompanhar o preço — jogo de estratégia encantador com 87 no Metacritic, mas ainda não baixou o suficiente."
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
+gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
+membershipHref: "https://www.gamegulf.com/pricing"
+coverImage: "https://cdn.gamegulf.com/upload/1740987466963111773084.jpeg"
+heroTheme: "brand"
 tags:
   - "pikmin 4 switch"
   - "pikmin 4 comprar ou esperar"

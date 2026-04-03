@@ -72,6 +72,7 @@ communityMemes:
   - "トランペットの木は一時的なものじゃない"
   - "まずヘッドホンゲームである"
   - "Figment 1をFigment 2の前に — バンドルの沼"
+tldr: "Figmentは1€以下で購入可能——雰囲気重視の5時間音楽パズル、リスクほぼゼロ。"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"

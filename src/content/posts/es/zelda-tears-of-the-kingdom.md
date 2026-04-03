@@ -47,7 +47,6 @@ playerNeeds:
   - "long_games"
   - "buy_now"
   - "value_for_money"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price"
 gameHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -72,6 +71,8 @@ communityMemes:
   - "Construcciones para cargar Koroks en la espalda"
   - "Speedruns de santuarios en islas celestiales"
   - "Las Profundidades no son para los débiles de corazón"
+tldr: "Zelda: Tears of the Kingdom es una compra segura en Switch — obra maestra con 96 en Metacritic y 50–150 horas de contenido."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "zelda tears of the kingdom switch"
   - "totk vale la pena 2026"

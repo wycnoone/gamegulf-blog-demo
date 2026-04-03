@@ -46,12 +46,6 @@ quickFilters:
 playerNeeds:
   - "buy_now"
   - "beginner_friendly"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
-gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg"
-heroTheme: "brand"
 playerVoices:
   - quote: "Every level feels like a fresh idea that never overstays its welcome"
     sentiment: "positive"
@@ -70,6 +64,13 @@ communityMemes:
   - "The talking flowers won't stop"
   - "Wonder Flower chaos every single level"
   - "Badge combos you didn't know existed"
+tldr: "Super Mario Bros. Wonder is a buy at €17 on Switch — a 92-Metacritic 2D Mario built for families and co-op play."
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
+gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
+membershipHref: "https://www.gamegulf.com/pricing"
+coverImage: "https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg"
+heroTheme: "brand"
 tags:
   - "super mario bros wonder switch"
   - "mario wonder buy or wait"

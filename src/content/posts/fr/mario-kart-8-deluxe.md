@@ -47,7 +47,6 @@ playerNeeds:
   - "buy_now"
   - "party_games"
   - "local_multiplayer"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hOtepbk2uh2"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -72,6 +71,8 @@ communityMemes:
   - "La nostalgie du Centre Coco"
   - "La rage de l'éclair au dernier tour"
   - "La trahison de la peau de banane"
+tldr: "Mario Kart 8 Deluxe reste incontournable en 2026 si vous jouez à plusieurs — le jeu de fête Switch par excellence, 92 Metacritic."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "mario kart 8 deluxe switch"
   - "mario kart 8 vaut le coup 2026"

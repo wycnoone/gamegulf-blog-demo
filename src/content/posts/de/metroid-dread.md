@@ -46,7 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
 gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -69,6 +68,8 @@ communityMemes:
   - "Shinespark-Rätsel-Frust"
   - "Samus ist zurück und sie ist wütend"
   - "Rookie-Modus existiert — nutzen Sie ihn, wenn Sie Luft brauchen"
+tldr: "Metroid Dread — besser auf einen Sale warten. Metroidvania mit 88 auf Metacritic, selten unter 36 € auf Switch."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "metroid dread switch"
   - "metroid dread kaufen oder warten"

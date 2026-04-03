@@ -46,12 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
-gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg"
-heroTheme: "dark"
 playerVoices:
   - quote: "2Dメトロイド史上最もタイトな操作性"
     sentiment: "positive"
@@ -69,6 +63,13 @@ communityMemes:
   - "シャインスパークパズルの怒り"
   - "サムスが帰ってきた、そしてキレている"
   - "ルーキーモードは存在する — 息抜きが必要なら使おう"
+tldr: "メトロイド ドレッドはセールを待つのが賢明——Metacritic 88点だが、Switchで36€以下になることは稀。"
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
+gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
+membershipHref: "https://www.gamegulf.com/pricing"
+coverImage: "https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg"
+heroTheme: "dark"
 tags:
   - "メトロイド ドレッド スイッチ"
   - "メトロイドドレッド 買うべき 待つべき"

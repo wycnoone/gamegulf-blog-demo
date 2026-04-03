@@ -46,7 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "casual"
-wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price"
 gameHref: "https://www.gamegulf.com/detail/c0V9fA7j5D0"
 membershipHref: "https://www.gamegulf.com/pricing"
@@ -69,6 +68,8 @@ communityMemes:
   - "L'angoisse des batailles Dandori"
   - "Le traumatisme du shift de nuit des Pikmin Luisants"
   - "Le flex du transfert de sauvegarde de la démo"
+tldr: "Pikmin 4 mérite d'être surveillé avant l'achat — un jeu de stratégie charmant noté 87 dont le prix n'a pas assez baissé."
+wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "pikmin 4 switch"
   - "pikmin 4 acheter ou attendre"

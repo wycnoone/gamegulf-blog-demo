@@ -76,6 +76,7 @@ communityMemes:
   - "For real?!"
   - "Makoto best girl (fight me)"
   - "The Morgana sleep debate"
+tldr: "Persona 5 Royal is worth buying on Switch if you want 100+ hours of stylish JRPG — and at under €11, the price is right."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price"
 gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"

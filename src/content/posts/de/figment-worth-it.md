@@ -72,6 +72,7 @@ communityMemes:
   - "Trompetenbäume sind keine Phase"
   - "Es ist zuerst ein Kopfhörer-Spiel"
   - "Figment 1 vor Figment 2 — der Bundle-Kaninchenbau"
+tldr: "Figment ist ein risikoloser Kauf unter 1 € — ein 5-Stunden-Musikpuzzle für Atmosphäre-Liebhaber."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"

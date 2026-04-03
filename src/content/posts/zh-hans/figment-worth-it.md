@@ -72,6 +72,7 @@ communityMemes:
   - "小号树一出现就知道是 Figment"
   - "先戴耳机再开游戏"
   - "Figment 1 和 2 容易一起进购物车"
+tldr: "Figment 不到 €1 就能买到，5 小时的音乐解谜游戏，适合重氛围的玩家，风险极低。"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
 gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"

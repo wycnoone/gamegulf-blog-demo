@@ -76,6 +76,7 @@ communityMemes:
   - "For real?!"
   - "Makoto beste Waifu (kämpft mich)"
   - "Die Morgana-Schlaf-Debatte"
+tldr: "Persona 5 Royal lohnt sich auf Switch für unter 11 € — über 100 Stunden JRPG mit 94 auf Metacritic."
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price"
 gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"

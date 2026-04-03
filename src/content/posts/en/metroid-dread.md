@@ -46,12 +46,6 @@ quickFilters:
 playerNeeds:
   - "wait_for_sale"
   - "buy_now"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
-gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg"
-heroTheme: "dark"
 playerVoices:
   - quote: "Tightest controls in any 2D Metroid game"
     sentiment: "positive"
@@ -69,6 +63,13 @@ communityMemes:
   - "Shinespark puzzle rage"
   - "Samus is back and she's angry"
   - "Rookie Mode exists — use it if you need breathing room"
+tldr: "Metroid Dread is better to wait on — an 88-Metacritic Metroidvania that rarely discounts below €36 on Switch."
+wishlistHref: "https://www.gamegulf.com/wishlist"
+priceTrackHref: "https://www.gamegulf.com/detail/1HNILYERbn5#currency-price"
+gameHref: "https://www.gamegulf.com/detail/1HNILYERbn5"
+membershipHref: "https://www.gamegulf.com/pricing"
+coverImage: "https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg"
+heroTheme: "dark"
 tags:
   - "metroid dread switch"
   - "metroid dread buy or wait"
