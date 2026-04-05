@@ -65,6 +65,8 @@ const posts = defineCollection({
     })).optional(),
     communityMemes: z.array(z.string()).optional(),
     tldr: z.string().optional(),
+    cardPrice: z.string().optional(),
+    cardPriceRegion: z.string().optional(),
     tags: z.array(z.string()),
     faq: z.array(z.object({
       question: z.string(),

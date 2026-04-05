@@ -56,12 +56,16 @@ function getPriceAmount(text: string, locale: BlogLocale) {
 }
 
 function getPriceDetail(card: DecisionEntryCardModel) {
+  const platform = getCompactPlatformName(card.platform);
+  if (card.cardPrice) {
+    const region = card.cardPriceRegion || platform;
+    return `${card.cardPrice} · ${platform} · ${region}`;
+  }
   const detailSource =
     card.kind === 'worth-it'
       ? card.priceSignalText || card.whyNow
       : card.currentDeal || card.priceSignalText || card.salePattern;
   const amount = getPriceAmount(detailSource, card.locale);
-  const platform = getCompactPlatformName(card.platform);
   const region = getPriceRegion(detailSource, card.locale);
   return `${amount} · ${platform} · ${region}`;
 }

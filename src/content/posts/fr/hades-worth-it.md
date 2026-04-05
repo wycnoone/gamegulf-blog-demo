@@ -9,7 +9,7 @@ platform: "Nintendo Switch"
 author: "GameGulf Editorial AI"
 readingTime: "7 min de lecture"
 decision: "Un achat facile pour quiconque aime l'action rapide et accepte de mourir pour progresser. À éviter uniquement si la répétition propre aux roguelikes vous frustre réellement."
-priceSignal: "Prix plancher mondial à 0,67 € en Argentine — absurdement bas pour un jeu noté 93. À ce tarif, Hades est pratiquement gratuit."
+priceSignal: "Prix plancher mondial à 15,22 € au Japon (¥2 800) — un excellent rapport qualité-prix pour un jeu noté 93."
 heroStat: "93 Metacritic"
 heroNote: "L'un des jeux indés les mieux notés de tous les temps — multi-GOTY signé Supergiant Games."
 badge: "Worth It"
@@ -18,7 +18,7 @@ priceCall: "buy"
 confidence: "high"
 actionBucket: "buy_now"
 featuredPriority: 2
-listingTakeaway: "Roguelike noté 93 à moins de 1 € — runs rapides, histoire profonde, quasi parfait sur Switch."
+listingTakeaway: "Roguelike noté 93 à 15,22 € — runs rapides, histoire profonde, quasi parfait sur Switch."
 whatItIs: "Action-RPG roguelike : combats mythologie grecque, profondeur narrative, rejouabilité infinie."
 bestFor: "Les fans d'action qui aiment les runs courtes avec une progression sur le long terme."
 avoidIf: "À éviter si la répétition roguelike ou l'absence de fin claire vous frustre."
@@ -26,16 +26,16 @@ consensusPraise: "Combat, histoire, direction artistique et musique fusionnent d
 mainFriction: "Les runs tardives semblent répétitives une fois les fils narratifs épuisés."
 timeFit: "Conçu pour des sessions de 30 minutes — un run tient dans une pause déjeuner ou un trajet."
 fitLabel: "Fans de roguelike et d'action qui apprécient la progression en sessions courtes."
-timingNote: "Au prix plancher mondial actuel, le risque financier est quasiment nul."
+timingNote: "Au prix plancher mondial actuel au Japon, c'est l'un des meilleurs tarifs pour un jeu noté 93."
 communityVibe: "Il n'y a pas d'échappatoire — et vous n'en voudrez pas."
 playtime: "20-25h story, 90h+ completionist"
 reviewSignal: "93 Metacritic"
-takeaway: "Hades à moins de 1 € est l'une des recommandations les plus évidentes sur Switch — rapide, profond et taillé pour le jeu portable."
+takeaway: "Hades à 15,22 € est l'une des recommandations les plus évidentes sur Switch — rapide, profond et taillé pour le jeu portable."
 playStyle: "Combat isométrique nerveux avec variété d'armes, faveurs divines et méta-progression permanente."
 timeCommitment: "20 à 25 heures pour atteindre la conclusion de l'histoire, 90 à 100 heures pour les complétionnistes. Chaque run dure 20 à 40 minutes."
 playMode: "Solo."
-whyNow: "Le prix plancher mondial de 0,67 € en fait un achat à risque quasi nul pour la première fois."
-currentDeal: "Prix plancher mondial à 0,67 € sur l'eShop argentin. Plusieurs autres régions sous les 5 €."
+whyNow: "Le prix plancher mondial de 15,22 € au Japon (¥2 800) en fait un excellent rapport qualité-prix pour un jeu noté 93."
+currentDeal: "Prix plancher mondial à 15,22 € sur l'eShop japonais (¥2 800). Plusieurs autres régions sous les 20 €."
 nearHistoricalLow: "Yes — this is at or near the all-time low across most regions."
 salePattern: "Hades goes on sale frequently, roughly every 1-2 months. Deep discounts appear during major Nintendo sale events."
 priceRecommendation: "buy"
@@ -75,7 +75,9 @@ communityMemes:
   - "Faveur d'Athéna ? Je ne dis pas non"
   - "La bande-son de Hades vit dans ma tête sans payer de loyer"
   - "Cerbère est le meilleur garçon"
-tldr: "Hades est un achat évident sur Switch à moins de 1 € — roguelike noté 93 sur Metacritic avec une performance parfaite en portable."
+tldr: "Hades est un achat évident sur Switch à 15,22 € — roguelike noté 93 sur Metacritic avec une performance parfaite en portable."
+cardPrice: "€15.22 (¥2,800)"
+cardPriceRegion: "Japon"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"
@@ -84,7 +86,7 @@ coverImage: "https://cdn.gamegulf.com/upload/1740987626994180329071.jpeg"
 heroTheme: "brand"
 faq:
   - question: "Hades vaut-il l'achat sur Nintendo Switch en 2026 ?"
-    answer: "Hades vaut absolument l'achat sur Switch — il tourne à 60 fps, s'adapte parfaitement au jeu portable et offre une expérience roguelike notée 93 sur Metacritic. En mars 2026, GameGulf affiche un prix plancher mondial à 0,67 €, ce qui en fait l'un des meilleurs rapports qualité-prix de la plateforme."
+    answer: "Hades vaut absolument l'achat sur Switch — il tourne à 60 fps, s'adapte parfaitement au jeu portable et offre une expérience roguelike notée 93 sur Metacritic. En mars 2026, GameGulf affiche un prix plancher mondial à 15,22 € au Japon (¥2 800), ce qui en fait l'un des meilleurs rapports qualité-prix de la plateforme."
   - question: "Combien de temps faut-il pour finir Hades ?"
     answer: "Hades demande environ 20 à 25 heures pour atteindre la conclusion principale, avec des runs individuelles de 20 à 40 minutes. Les complétionnistes visant tout le contenu narratif et toutes les relations devraient prévoir 90 à 100 heures."
   - question: "Comment tourne Hades sur Nintendo Switch ?"
@@ -96,19 +98,19 @@ faq:
 ---
 ## Verdict rapide
 
-**Hades est l'une des recommandations les plus évidentes sur Nintendo Switch en 2026.** Un roguelike noté 93 sur Metacritic avec des combats de référence, un récit véritablement captivant et un prix plancher mondial sous 1 € — il n'y a quasiment aucune raison d'hésiter, sauf si vous n'aimez fondamentalement pas la boucle roguelike de mourir et recommencer.
+**Hades est l'une des recommandations les plus évidentes sur Nintendo Switch en 2026.** Un roguelike noté 93 sur Metacritic avec des combats de référence, un récit véritablement captivant et un prix plancher mondial de 15,22 € au Japon — il n'y a quasiment aucune raison d'hésiter, sauf si vous n'aimez fondamentalement pas la boucle roguelike de mourir et recommencer.
 
 La vraie question n'est pas de savoir si Hades est bon. Il l'est. La question est : **pouvez-vous apprécier un jeu construit autour de l'échec répété comme mécanique centrale ?**
 
 ## Combien coûte Hades sur Switch en ce moment ?
 
-Le prix plancher mondial de Hades est d'environ 0,67 € sur l'eShop argentin en mars 2026.
+Le prix plancher mondial de Hades est d'environ 15,22 € sur l'eShop japonais (¥2 800) en mars 2026.
 
-- **eShop Argentine : ~0,67 €** — le prix plancher mondial actuel
+- **eShop Japon : ~15,22 € (¥2 800)** — le prix plancher mondial actuel
 - **eShop US : descend historiquement à ~$6.24** lors des grandes promotions
 - Le plein tarif est de $24.99, mais des réductions importantes apparaissent environ tous les 1 à 2 mois
 
-Pour un jeu de cette qualité et avec cette note, même $25 reste raisonnable. À moins de 1 €, le rapport qualité-prix est absurde. Le comparateur de prix régional de GameGulf vous indique quel eShop propose actuellement la meilleure offre pour votre compte.
+Pour un jeu de cette qualité et avec cette note, même $25 reste raisonnable. À 15,22 €, le rapport qualité-prix est excellent. Le comparateur de prix régional de GameGulf vous indique quel eShop propose actuellement la meilleure offre pour votre compte.
 
 ## Quel type de jeu est Hades, vraiment ?
 

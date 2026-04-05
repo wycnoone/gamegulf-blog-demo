@@ -6,7 +6,9 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "brief": "node scripts/extract-game-brief.mjs",
+    "brief:batch": "node scripts/batch-extract.mjs"
   },
   "dependencies": {
     "astro": "^5.7.10",

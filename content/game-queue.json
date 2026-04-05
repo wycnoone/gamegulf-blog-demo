@@ -1,0 +1,93 @@
+{
+  "_doc": "GameGulf article generation queue. OpenClaw reads this to discover pending games.",
+  "_fields": {
+    "url": "GameGulf detail page URL (required)",
+    "status": "pending | in_progress | done | skipped",
+    "priority": "high | normal | low (default: normal)",
+    "added": "ISO date when this entry was added",
+    "completed": "ISO date when article generation finished (null if pending)",
+    "notes": "Optional notes for the agent"
+  },
+  "games": [
+    {
+      "url": "https://www.gamegulf.com/detail/h14iXKeQ0PR",
+      "status": "done",
+      "priority": "high",
+      "added": "2026-04-01",
+      "completed": "2026-04-03",
+      "notes": "Zelda: Tears of the Kingdom — first game processed with new pipeline"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv",
+      "status": "done",
+      "priority": "high",
+      "added": "2026-04-01",
+      "completed": "2026-04-02",
+      "notes": "Hades"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/INlLdFP5Q9",
+      "status": "done",
+      "priority": "high",
+      "added": "2026-04-01",
+      "completed": "2026-04-02",
+      "notes": "Persona 5 Royal"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/byr07mi5hyW",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-01",
+      "completed": "2026-04-02",
+      "notes": "Super Mario Bros. Wonder"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/dBQesuYO7Cn",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-01",
+      "completed": "2026-04-02",
+      "notes": "Animal Crossing: New Horizons"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/1HNILYERbn5",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-01",
+      "completed": "2026-04-01",
+      "notes": "Metroid Dread"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/hOtepbk2uh2",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-01",
+      "completed": "2026-04-01",
+      "notes": "Mario Kart 8 Deluxe"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-01",
+      "completed": "2026-04-01",
+      "notes": "INSIDE"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/hZKMhNbPlWw",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-01",
+      "completed": "2026-04-01",
+      "notes": "Figment"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/c0V9fA7j5D0",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-01",
+      "completed": "2026-04-01",
+      "notes": "Pikmin 4"
+    }
+  ]
+}

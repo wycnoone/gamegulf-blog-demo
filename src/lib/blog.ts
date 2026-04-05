@@ -84,6 +84,8 @@ export type BlogPost = {
   playerVoices?: { quote: string; sentiment: 'positive' | 'negative' | 'mixed' }[];
   communityMemes?: string[];
   tldr?: string;
+  cardPrice?: string;
+  cardPriceRegion?: string;
   tags: string[];
   faq: FaqItem[];
   body: string;
@@ -135,6 +137,8 @@ type DecisionCardBase = {
   priceTrackHref: string;
   gameHref: string;
   wishlistHref: string;
+  cardPrice?: string;
+  cardPriceRegion?: string;
   searchIndex: DecisionSearchIndex;
 };
 
@@ -436,6 +440,8 @@ function entryToPost(entry: CollectionEntry<'posts'>): BlogPost {
     playerVoices: d.playerVoices,
     communityMemes: d.communityMemes,
     tldr: d.tldr,
+    cardPrice: d.cardPrice,
+    cardPriceRegion: d.cardPriceRegion,
     tags: d.tags,
     faq: d.faq,
     body: '',
@@ -718,6 +724,8 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
     priceTrackHref: post.priceTrackHref,
     gameHref: post.gameHref,
     wishlistHref: post.wishlistHref,
+    cardPrice: post.cardPrice,
+    cardPriceRegion: post.cardPriceRegion,
     searchIndex: getSearchIndex(post),
   };
   if (post.category === 'worth-it') {

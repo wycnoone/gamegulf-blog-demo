@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/3GVaaSqOXnv",
+    "game_id": "3GVaaSqOXnv",
+    "extracted_at": "2026-04-05",
+    "extractor_version": "1.0.0"
+  },
+  "game": {
+    "title": "Hades",
+    "description": "BATTLE OUT OF HELL\nAs the immortal Prince of the Underworld, you'll wield the powers and mythic weapons of Olympus to break free from the clutches of the god of the dead himself, while growing stronger and unraveling more of the story with each unique escape attempt.\n\nUNLEASH THE FURY OF OLYMPUS\nThe Olympians have your back! Meet Zeus, Athena, Poseidon, and many more, and choose from their dozens of powerful Boons that enhance your abilities. There are thousands of viable character builds to discover as you go.\n\nBEFRIEND GODS, GHOSTS, AND MONSTERS\nA fully-voiced cast of colorful, larger-than-life characters is waiting to meet you! Grow your relationships with them, and experience thousands of unique story events as you learn about what's really at stake for this big, dysfunctional family.\n\nBUILT FOR REPLAYABILITY\nNew surprises await each time you delve into the ever-shifting Underworld, whose guardian bosses will remember you. Use the powerful Mirror of Night to grow permanently stronger, and give yourself a leg up the next time you run away from home.\n\nNOTHING IS IMPOSSIBLE\nPermanent upgrades mean you don't have to be a god yourself to experience the exciting combat and gripping story. Though, if you happen to be one, crank up the challenge and get ready for some white-knuckle action that will put your well-practiced skills to the test.\n\nSIGNATURE SUPERGIANT STYLE\nThe rich, atmospheric presentation and unique melding of gameplay and narrative that's been core to Supergiant's games is here in full force: spectacular hand-painted environments and a blood-pumping original score bring the Underworld to life.",
+    "cover_image": "https://cdn.gamegulf.com/upload/1740987626994180329071.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/1740987626994180329071.jpeg",
+      "https://cdn.gamegulf.com/upload/1740987627461112419071.jpeg",
+      "https://cdn.gamegulf.com/upload/1740987627869127929071.jpeg",
+      "https://cdn.gamegulf.com/upload/1740987628294191449071.jpeg",
+      "https://cdn.gamegulf.com/upload/1740987628802105089071.jpeg",
+      "https://cdn.gamegulf.com/upload/1740987629270140799071.jpeg",
+      "https://cdn.gamegulf.com/upload/1740987629655111279071.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-playing"
+    ],
+    "release_date": "2020-09-17",
+    "developer": null,
+    "publisher": "Supergiant Games",
+    "metacritic": 93
+  },
+  "platforms": {
+    "switch": {
+      "name": "Nintendo Switch",
+      "enabled": true,
+      "languages": [
+        "Japanese",
+        "French",
+        "German",
+        "Italian",
+        "Spanish",
+        "Korean",
+        "Russian",
+        "Simplified Chinese",
+        "Portuguese",
+        "English"
+      ],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 15.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.22
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 15.55,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.55
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.69,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.69
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 25.77,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.77
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-19",
+              "country_code": "US",
+              "value": 21.69,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "BR",
+              "value": 4.66,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-26",
+              "country_code": "BR",
+              "value": 5.44,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-11-19",
+              "country_code": "US",
+              "value": 21.69,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "BR",
+              "value": 4.66,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    },
+    "xbox": {
+      "name": "Xbox",
+      "enabled": false,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": []
+    },
+    "psn": {
+      "name": "PlayStation Network",
+      "enabled": false,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": []
+    },
+    "steam": {
+      "name": "Steam",
+      "enabled": false,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": []
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch",
+          "country_code": "US",
+          "value": 21.69,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "dSYlwQit9hg",
+      "title": "Hades II – Nintendo Switch™ 2 Edition Upgrade Pack",
+      "image": "https://cdn.gamegulf.com/upload/test/2025/9/13/175776550060614032.jpeg",
+      "metacritic": null,
+      "price": 12.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-09-25",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/dSYlwQit9hg"
+    },
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/12/174174135919314992.jpeg",
+      "metacritic": 72,
+      "price": 17.35,
+      "discount_price": 2.6,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "9 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "kYo4NRMWRCG",
+      "title": "Ultra Pixel Survive",
+      "image": "https://cdn.gamegulf.com/upload/1740988163934183653735.jpeg",
+      "metacritic": null,
+      "price": 4.99,
+      "discount_price": 1.49,
+      "discount_rate": 70,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "3 days",
+      "release_date": "2023-04-14",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
+    },
+    {
+      "id": "aXRBXHN2tEI",
+      "title": "Seven Spirits",
+      "image": "https://cdn.gamegulf.com/upload/1740987590615177872240.jpeg",
+      "metacritic": null,
+      "price": 0.82,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-09",
+      "categories": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/aXRBXHN2tEI"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/1740987834120195997375.jpeg",
+      "metacritic": 82,
+      "price": 24.99,
+      "discount_price": 4.99,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "18 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Role-playing",
+        "Adventure",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
+      "id": "ab3x78yk63M",
+      "title": "Moonlighter",
+      "image": "https://cdn.gamegulf.com/upload/17409875718031772311910.jpeg",
+      "metacritic": 83,
+      "price": 11.09,
+      "discount_price": 1.66,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "2 days",
+      "release_date": "2019-03-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/ab3x78yk63M"
+    },
+    {
+      "id": "lqa9TJHCgVE",
+      "title": "Monster Hunter Rise",
+      "image": "https://cdn.gamegulf.com/upload/1740987890240144928059.jpeg",
+      "metacritic": 88,
+      "price": 7.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/lqa9TJHCgVE"
+    },
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/1740987590153105617961.jpeg",
+      "metacritic": 61,
+      "price": 17.15,
+      "discount_price": 4.29,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "14 hr",
+      "release_date": "2022-01-06",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Role-playing",
+        "Other",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    },
+    {
+      "id": "6WB2CrT4sBt",
+      "title": "Super Pixel Bundle",
+      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/10/174160860350813950.jpeg",
+      "metacritic": null,
+      "price": 39.99,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-12-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/6WB2CrT4sBt"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
+      "priceCurrency": "EUR",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
+      "priceCurrency": "GBP",
+      "price": "22.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2800.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
+      "priceCurrency": "BRL",
+      "price": "92.46",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
+      "priceCurrency": "ARS",
+      "price": "1107.56",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch": {
+      "current_cheapest": {
+        "price_eur": 15.22,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 4.66,
+        "region": "BR",
+        "date": "2025-12-18"
+      },
+      "local_low": {
+        "price_eur": 21.69,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.66,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2025-12-18"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 4.66,
+      "sale_periods": [
+        {
+          "start": "2025-06-26",
+          "end": "2025-06-26"
+        },
+        {
+          "start": "2025-12-18",
+          "end": "2025-12-18"
+        }
+      ],
+      "days_since_last_discount": 108,
+      "last_discount": {
+        "date": "2025-12-18",
+        "price_eur": 4.66,
+        "region": "Brazil",
+        "drop_pct": 79
+      },
+      "trend_entries_count": 3,
+      "price_verdict": "occasional_discounter"
+    },
+    "xbox": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    },
+    "psn": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    },
+    "steam": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/3GVaaSqOXnv",
+    "price_track": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  }
+}

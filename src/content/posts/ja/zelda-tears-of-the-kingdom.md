@@ -67,6 +67,8 @@ communityMemes:
   - "空島の祠スピードラン戦略"
   - "地底は心臓の弱い人には向かない"
 tldr: "ゼルダの伝説 ティアーズ オブ ザ キングダムは間違いなく買い——Metacritic 96点、50〜150時間の大作。"
+cardPrice: "¥7,900 (€42.96)"
+cardPriceRegion: "日本"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price"
 gameHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR"

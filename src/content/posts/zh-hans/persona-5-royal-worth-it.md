@@ -9,7 +9,7 @@ platform: "Nintendo Switch"
 author: "GameGulf Editorial AI"
 readingTime: "8 分钟阅读"
 decision: "如果你想找一款流程超长、风格鲜明的 JRPG 并且愿意投入 80–120 小时，P5R 值得买。反过来，如果你不喜欢回合制或慢热开局，它不适合你。"
-priceSignal: "阿根廷区全球低价约 EUR 10.94，日本区接近七折。这个折扣力度下，每小时体验成本已经很难被其他 Switch 游戏击败。"
+priceSignal: "日本区全球最低价 €41.75（¥7,678）。以这个价格入手一款 94 分、100 小时以上的 JRPG，每小时性价比依然很强。"
 heroStat: "94 Metacritic"
 heroNote: "Switch 上评分最高的 JRPG 之一——包含 40 多个 DLC 的完全版。"
 badge: "值得买"
@@ -35,7 +35,7 @@ playStyle: "回合制战斗、社交羁绊养成、角色成长并重。"
 timeCommitment: "主线 80–100 小时，全收集 110–130 小时。最好是近期只想专注打一款大作。"
 playMode: "单人、剧情驱动体验。"
 whyNow: "深折把一款原本门槛很高的长 RPG 拉到了随手可买的价位。"
-currentDeal: "阿根廷区全球低价约 EUR 10.94，日本区约七折，多个区域低于 EUR 15。"
+currentDeal: "日本区全球最低价 €41.75（¥7,678），多个区域价格在 €50 以上。"
 nearHistoricalLow: "是的——当前多个区域的价格已经处于或接近历史最低。"
 salePattern: "这种级别的深折大约每 2–3 个月出现一次，非大促期间很少降到这个水平。"
 priceRecommendation: "buy"
@@ -76,7 +76,9 @@ communityMemes:
   - "For real?!"
   - "真女神是真冬（不接受反驳）"
   - "摩尔加纳催你睡觉之争"
-tldr: "女神异闻录5皇家版不到 €11 就能入手，100+ 小时的顶级 JRPG，喜欢回合制的果断买。"
+tldr: "女神异闻录5皇家版日本区 €41.75 即可入手，100+ 小时的顶级 JRPG，喜欢回合制的值得考虑。"
+cardPrice: "¥7,678 (€41.75)"
+cardPriceRegion: "日本"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price"
 gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"
@@ -96,7 +98,7 @@ faq:
   - question: "Switch 版《女神异闻录 5 皇家版》和 PlayStation 版内容一样吗？"
     answer: "《女神异闻录 5 皇家版》Switch 版是完整 Royal 版——第三学期、新自信角色以及 40 多个 DLC 全部包含，和 PS/PC 版零差异。"
   - question: "什么时候买《女神异闻录 5 皇家版》最划算？"
-    answer: "《女神异闻录 5 皇家版》截至 2026 年 3 月的价格已接近历史最低，阿根廷区约 EUR 10.94、日本区接近七折。这种深折大约每 2–3 个月出现一次。"
+    answer: "《女神异闻录 5 皇家版》截至 2026 年 3 月的全球最低价为日本区 €41.75（¥7,678）。这种级别的折扣大约每 2–3 个月出现一次。"
 ---
 ## 快速结论
 
@@ -106,13 +108,12 @@ faq:
 
 ## 现在买《女神异闻录 5 皇家版》大概要多少钱？
 
-截至 2026 年 3 月，《女神异闻录 5 皇家版》的全球最低价约 EUR 10.94，出现在阿根廷 eShop。
+截至 2026 年 3 月，《女神异闻录 5 皇家版》的全球最低价为日本 eShop 的 €41.75（¥7,678）。
 
-- **阿根廷 eShop：约 EUR 10.94** —— 当前全球最低
-- **日本 eShop：约七折**，折合约 EUR 12.56
-- 不少区域仍接近原价，跨区比价在这款游戏上特别有意义
+- **日本 eShop：€41.75（¥7,678）** —— 当前全球最低
+- 多个区域价格仍在 €50 以上，跨区比价在这款游戏上特别有意义
 
-对于一款 94 分的超大体量 JRPG，EUR 15 以下都是极好的价值区间。GameGulf 的跨区价格追踪可以帮你一眼看到哪个区服目前最划算。
+对于一款 94 分的超大体量 JRPG，€42 以下的价格依然有不错的每小时性价比。GameGulf 的跨区价格追踪可以帮你一眼看到哪个区服目前最划算。
 
 ## 《女神异闻录 5 皇家版》到底是什么类型的游戏？
 

@@ -67,6 +67,8 @@ communityMemes:
   - "Strats de speedrun em santuários nas ilhas do céu"
   - "As Profundezas não são para os fracos de coração"
 tldr: "Zelda: Tears of the Kingdom é compra certa no Switch — obra-prima com 96 no Metacritic e 50–150 horas de conteúdo."
+cardPrice: "€42.96 (¥7,900)"
+cardPriceRegion: "Japão"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price"
 gameHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR"

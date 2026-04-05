@@ -1,0 +1,306 @@
+---
+name: generate-game-article
+description: >-
+  Generate GameGulf blog articles from a game URL. Runs a multi-phase pipeline:
+  dedup check → data extraction → AI synthesis → validation → build.
+  Use when asked to create, generate, or write a new game article,
+  buying guide, or blog post for GameGulf. Also supports batch/queue mode
+  for automated daily publishing via OpenClaw.
+---
+
+# Generate GameGulf Game Article
+
+End-to-end pipeline: GameGulf URL → structured brief → 7-language articles.
+
+## Overview
+
+```
+Phase 0 (script) ─→ Dedup check + queue management
+Phase 1 (script) ─→ JSON brief with price_analytics
+Phase 2 (you)    ─→ Markdown articles per locale
+Phase 3 (script) ─→ Validation (YAML + schema + limits)
+Phase 4 (build)  ─→ Build check
+```
+
+## Workflow Modes
+
+### Mode A: Manual Trigger (single URL)
+
+```
+input: GameGulf detail URL
+→ Phase 0 → Phase 1 → Phase 2 → Phase 3 → Phase 4
+```
+
+### Mode B: Automated Queue (daily batch)
+
+```
+1. node scripts/queue-next.mjs             # get next pending game
+2. if empty → stop, nothing to do
+3. node scripts/queue-next.mjs --mark-started <url>
+4. run Phase 0 → 1 → 2 → 3 → 4
+5. node scripts/queue-next.mjs --mark-done <url>
+6. git add + commit + push
+7. repeat from step 1
+```
+
+To add games to the queue:
+
+```bash
+node scripts/queue-next.mjs --add <url> [priority] [notes]
+# priority: high | normal | low
+```
+
+Queue status:
+
+```bash
+node scripts/queue-next.mjs --status
+```
+
+## Phase 0 — Dedup Check
+
+Before any work, check if articles already exist:
+
+```bash
+node scripts/check-existing.mjs <GAMEGULF_URL>
+```
+
+- Exit 0 + `"status": "NEW"` → proceed to Phase 1
+- Exit 1 + `"status": "EXISTS"` → articles exist, skip or confirm overwrite
+- Exit 2 → invalid input
+
+**IMPORTANT:** If the game already has articles in all 7 locales, do NOT
+regenerate unless explicitly asked. Skip it and move to the next game.
+
+## Phase 1 — Extract Game Brief
+
+Run the extraction script. This fetches the GameGulf page, parses pricing
+data, enriches from Steam/HLTB, and computes `price_analytics`.
+
+```bash
+node scripts/extract-game-brief.mjs <GAMEGULF_URL>
+```
+
+Output: `content/briefs/{slug}.json`
+
+If the game has a HowLongToBeat entry not yet mapped, add it to
+`content/hltb-mapping.json` first:
+
+```json
+{ "game-slug": 12345 }
+```
+
+Find the HLTB ID by searching https://howlongtobeat.com for the game title.
+
+**Verify the brief** before proceeding:
+
+```bash
+node -e "const b=require('./content/briefs/{slug}.json'); const s=b.price_analytics?.switch; console.log('Title:', b.game.title); console.log('Regions:', b.platforms.switch?.digital?.length); console.log('Trend entries:', s?.trend_entries_count); console.log('Verdict:', s?.price_verdict); console.log('Steam:', !!b.steam); console.log('HLTB:', !!b.hltb);"
+```
+
+Expect: title present, 5+ regions, steam/hltb data present.
+If Steam or HLTB is missing, the script may need `--no-enrich` and
+manual enrichment, or the game is not on those platforms.
+
+## Phase 2 — Synthesize Articles
+
+Read the full synthesis prompt and template:
+
+1. Read `content/templates/synthesis-prompt.md` — the complete prompt
+2. Read `content/templates/game-guide-template.md` — field reference
+
+Then for each target locale, generate one Markdown file following
+the synthesis prompt exactly.
+
+### Input assembly
+
+```
+Game brief: <content of content/briefs/{slug}.json>
+Languages: en, zh-hans, ja, fr, es, de, pt
+Category: worth-it (or buy-now-or-wait)
+Existing articles: <list current src/content/posts/{locale}/*.md slugs>
+```
+
+### Critical constraints (non-negotiable)
+
+**Pricing — ZERO tolerance for fabrication:**
+- ALL prices come from the brief JSON. Never invent prices.
+- Use `price_analytics.switch` for every price judgment.
+- `price_verdict` determines verdict/priceCall/confidence.
+- cardPrice uses the global low from `platforms.switch.digital[0]`.
+
+**Price verdict → article verdict mapping:**
+
+| price_verdict | → verdict | → priceCall | → confidence |
+|---|---|---|---|
+| at_historical_low | buy_now | buy | high |
+| near_historical_low | buy_now | buy | high |
+| sale_likely_soon | wait_for_sale | wait | medium |
+| regular_discounter | depends on current vs avg | buy or wait | medium |
+| occasional_discounter | right_player | watch | medium |
+| rarely_discounted | buy_now (if quality high) | buy | high |
+
+**Card price display rules (cardPrice field):**
+- Always the global lowest price (first entry in digital array)
+- Currency conversion by locale:
+  - en → USD primary: `"$79.99 (€42.96)"` or EUR if not US region
+  - zh-hans, ja → JPY primary: `"¥7,900 (€42.96)"`
+  - fr, es, de, pt → EUR primary: `"€42.96 (¥7,900)"`
+  - If locale currency = low region currency → native first
+  - For BRL → EUR only: `"€15.22"`
+- cardPriceRegion: localized region name (e.g. "Japan"→"日本"→"Japon")
+
+**Article body price section MUST include:**
+1. Regional price comparison table (5-8 regions, cheapest first)
+2. Discount history analysis paragraph using price_analytics:
+   - All-time low (price, region, date)
+   - Discount frequency (X times in past year)
+   - Average discount price
+   - Days since last discount
+   - Concrete buy/wait recommendation
+
+**Argentina (AR) is excluded** — do not reference it anywhere.
+
+**Character limits (truncation breaks cards):**
+
+| Field | Max |
+|---|---|
+| whatItIs | 90 |
+| bestFor | 60 |
+| communityVibe | 64 |
+| listingTakeaway | 96 |
+| avoidIf | 72 |
+| consensusPraise | 82 |
+| mainFriction | 84 |
+| timeFit | 82 |
+| fitLabel | 72 |
+| tldr | 160 |
+
+**Writing style guardrails:**
+- Sound like a sharp buying advisor, not a content marketer
+- No "This guide explains..." or "Everything you need to know..."
+- Prefer "Worth buying if..." / "Wait for a sale if..." / "Best for..."
+- GameGulf mentioned exactly 2 times total (1× FAQ, 1× body)
+- No mention of SEO, GEO, AI, templates, or prompts
+- Every section opens with a definitive quotable statement
+- Every FAQ answer starts with the game name
+
+**Multilingual:**
+- Same slug across all 7 locales
+- All text fields translated; URLs/dates/category unchanged
+- Titles match how users in that language actually search
+- Reads like native writing, not machine translation
+
+### Output files
+
+Write to: `src/content/posts/{locale}/{slug}.md`
+
+One file per locale. Each file = YAML frontmatter + Markdown body.
+
+## Phase 3 — Validate Articles
+
+Run the automated validator on all generated files:
+
+```bash
+node scripts/validate-article.mjs src/content/posts/en/{slug}.md src/content/posts/zh-hans/{slug}.md src/content/posts/ja/{slug}.md src/content/posts/fr/{slug}.md src/content/posts/es/{slug}.md src/content/posts/de/{slug}.md src/content/posts/pt/{slug}.md
+```
+
+- Exit 0 → all files PASS → proceed to Phase 4
+- Exit 1 → one or more FAIL → read errors, fix, re-validate
+
+The validator checks:
+- YAML syntax (js-yaml parse)
+- Duplicate keys
+- All required fields present
+- Enum values valid (verdict, priceCall, confidence, etc.)
+- Character limits for card fields
+- Structured arrays (faq, playerVoices, tags)
+- Argentina exclusion
+- Link format
+- Article body structure (headings, regional table)
+
+**If validation fails:** fix the specific errors reported, then re-run.
+Common fixes:
+- Unescaped colons → wrap in quotes
+- Duplicate keys → remove one
+- Character limit exceeded → shorten the field
+- Missing required field → add it
+
+## Phase 4 — Build Check
+
+```bash
+npm run build
+```
+
+Must exit 0. If it fails, read the error, fix the offending file, rebuild.
+
+### Post-build spot-check
+
+Verify for at least EN and one non-EN locale:
+- [ ] cardPrice shows specific price, not "Live pricing"
+- [ ] Price table has 5-8 rows, no Argentina
+- [ ] Discount history paragraph references real data
+- [ ] tldr starts with game name, ≤160 chars
+- [ ] FAQ answers start with game name
+- [ ] No fabricated prices or statistics
+
+## Quality reference
+
+For the complete quality checklist, see [quality-checklist.md](quality-checklist.md).
+
+## Quick reference — common commands
+
+```bash
+# --- Queue Management ---
+node scripts/queue-next.mjs                            # get next pending game
+node scripts/queue-next.mjs --add <url> [priority]     # add game to queue
+node scripts/queue-next.mjs --mark-started <url>       # mark in_progress
+node scripts/queue-next.mjs --mark-done <url>          # mark done
+node scripts/queue-next.mjs --status                   # queue summary
+
+# --- Dedup Check ---
+node scripts/check-existing.mjs <url>                  # check if articles exist
+
+# --- Data Extraction ---
+node scripts/extract-game-brief.mjs <url>              # extract single game
+node scripts/batch-extract.mjs <url1> <url2> ...       # extract batch
+
+# --- Validation ---
+node scripts/validate-article.mjs src/content/posts/en/{slug}.md   # validate one
+node scripts/validate-article.mjs src/content/posts/*/{slug}.md    # validate all locales
+
+# --- Build & Preview ---
+npm run build                                          # full build
+npx astro preview                                      # preview locally
+```
+
+## Full automated flow (copy-paste for OpenClaw)
+
+```bash
+# 1. Get next game from queue
+NEXT=$(node scripts/queue-next.mjs)
+URL=$(echo $NEXT | node -e "process.stdin.on('data',d=>{const j=JSON.parse(d);console.log(j.game?.url||'')})")
+[ -z "$URL" ] && echo "Queue empty" && exit 0
+
+# 2. Dedup check
+node scripts/check-existing.mjs "$URL" || { echo "Already exists"; exit 0; }
+
+# 3. Mark started
+node scripts/queue-next.mjs --mark-started "$URL"
+
+# 4. Extract brief
+node scripts/extract-game-brief.mjs "$URL"
+
+# 5. [AI STEP] Synthesize articles for 7 locales (follow Phase 2 instructions)
+
+# 6. Validate
+node scripts/validate-article.mjs src/content/posts/*/{slug}.md
+
+# 7. Build
+npm run build
+
+# 8. Mark done
+node scripts/queue-next.mjs --mark-done "$URL"
+
+# 9. Commit & push
+git add -A && git commit -m "feat(blog): add {game-title} articles" && git push
+```

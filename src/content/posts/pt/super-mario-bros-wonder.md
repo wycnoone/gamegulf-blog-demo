@@ -9,7 +9,7 @@ platform: "Nintendo Switch"
 author: "GameGulf Editorial AI"
 readingTime: "8 min de leitura"
 decision: "Compre Super Mario Bros. Wonder agora se você quer um 2D Mario polido em breve — especialmente com co-op local. Espere e rastreie se você está puramente otimizando gastos e sua região ainda está com preço alto."
-priceSignal: "Em março de 2026, índices frequentemente mostram mínima global perto de €17,2 na eShop da Argentina (digital), enquanto EUA e Japão costumam listar mais alto — os spreads de first-party são amplos, então checar regiões é mais confiável do que intuição."
+priceSignal: "Os preços regionais variam muito; consulte o GameGulf para a melhor oferta na sua região de eShop."
 heroStat: "92 Metacritic"
 heroNote: "Um Mario 2D moderno construído em torno de set-pieces das Wonder Flowers, badges e uma das melhores legibilidades de co-op local dos últimos anos."
 badge: "Buy / Wait"
@@ -18,7 +18,7 @@ priceCall: "buy"
 confidence: "high"
 actionBucket: "buy_now"
 featuredPriority: 4
-listingTakeaway: "Mario 2D preciso com enorme charme de co-op — mínimas digitais do lado AR podem ser muito fortes; compradores dos EUA/JP ainda devem comparar."
+listingTakeaway: "Mario 2D preciso com enorme charme de co-op — os preços variam significativamente por região de eShop, então compare antes de comprar."
 whatItIs: "Mario side-scrolling com efeitos Wonder, loadouts de badges, papéis assistentes de Yoshi/Nabbit e co-op local para até quatro jogadores."
 bestFor: "Famílias, duplas de co-op e jogadores que querem plataforma premium da Nintendo em sessões curtas."
 avoidIf: "Evite se você só compra RPGs de 80 horas ou se recusa a pagar fora de território de desconto profundo sem uma promoção forte."
@@ -35,8 +35,8 @@ playStyle: "Fluxo clássico de correr-e-pular com espetáculo das Wonder Flowers
 timeCommitment: "Uma campanha focada — não um épico de cem horas — com valor de replay em segredos, badges e experimentação co-op."
 playMode: "Co-op local com até quatro pessoas em um sistema; co-op online e dicas assíncronas via standees."
 whyNow: "Dados de março de 2026 ainda mostram spread dramático entre regiões baratas e regiões com preço cheio para esse lançamento."
-currentDeal: "Mínima global perto de €17,2 (eShop da Argentina, digital) em março de 2026 nos principais índices; linhas de EUA, UE e JP costumam ser mais altas."
-nearHistoricalLow: "A mínima convertida do lado da Argentina é incomumente agressiva para um Mario platformer carro-chefe — confirme que corresponde à sua rota de compra antes de tratá-la como seu preço."
+currentDeal: "Os preços variam por região de eShop. Consulte o GameGulf para o melhor preço atual na sua região."
+nearHistoricalLow: "Alguns preços regionais de eShop ficam bem abaixo dos níveis típicos de EUA/UE para um Mario platformer carro-chefe — confirme que o preço corresponde à sua rota de compra antes de tratá-lo como seu preço."
 salePattern: "Entra em promoções amplas da Nintendo; a profundidade depende do território, então limites de alerta ajudam contas dos EUA e JP."
 priceRecommendation: "buy"
 quickFilters:
@@ -78,7 +78,7 @@ tags:
   - "mario 2d switch"
 faq:
   - question: "Vale a pena comprar Super Mario Bros. Wonder no Nintendo Switch em 2026?"
-    answer: "Super Mario Bros. Wonder vale a pena comprar em 2026 se você quer um Mario 2D polido com co-op forte e fases inventivas. Em março de 2026, o GameGulf lista mínima global perto de €17,2 na eShop da Argentina (digital), então compare sua própria região antes de assumir qualquer número de manchete."
+    answer: "Super Mario Bros. Wonder vale a pena comprar em 2026 se você quer um Mario 2D polido com co-op forte e fases inventivas. Os preços variam significativamente por região de eShop — consulte o GameGulf para o preço atual na sua região antes de assumir qualquer número de manchete."
   - question: "Quanto tempo leva para zerar Super Mario Bros. Wonder?"
     answer: "Super Mario Bros. Wonder leva aproximadamente 10–15 horas para uma run do caminho principal e cerca de 20+ horas se você buscar Wonder Seeds, saídas secretas e experimentação com badges. Co-op pode estender o tempo de jogo através de exploração compartilhada."
   - question: "Como Super Mario Bros. Wonder roda no Nintendo Switch?"
@@ -92,14 +92,14 @@ faq:
 
 **Super Mario Bros. Wonder é um jogo de "compre quando você realmente quiser jogar"** — a qualidade não é o debate. O debate é se você está pagando o preço da **sua** região ou o screenshot viral de outra pessoa.
 
-Em março de 2026, **índices públicos citam mínima global em torno de €17,2 na eShop da Argentina (digital)**, enquanto listagens dos EUA e Japão costumam ficar muito mais altas nos mesmos dados. **Se você não consegue comprar por aquela região, trate esse número como contexto, não como sua fatura.**
+Em 2026, **os preços variam significativamente por região de eShop** — algumas regiões listam bem abaixo dos preços típicos dos EUA e Japão nos mesmos dados. **Consulte o GameGulf para o preço atual na sua região em vez de confiar em screenshots virais de regiões onde você não pode comprar.**
 
 ## O desconto atual é realmente bom?
 
 **Um preço digital convertido abaixo de €20 é excepcional para um Mario platformer carro-chefe** — quando corresponde à sua conta. **Um equivalente de €40–60 nos EUA é "first-party normal", não uma falha** — só significa que sua decisão é sobre urgência, não pânico.
 
-- **eShop da Argentina (digital):** frequentemente a linha convertida mais baixa quando os índices atualizam
-- **EUA / UE / JP:** podem precisar de promoções amplas da Nintendo para se aproximar dessas mínimas
+- **Regiões de eShop com preços mais baixos:** alguns territórios listam regularmente abaixo dos níveis de EUA/UE/JP
+- **EUA / UE / JP:** podem precisar de promoções amplas da Nintendo para alcançar os preços regionais mais baixos
 - **Físico:** fique de olho em bundles de feriado como concorrência
 
 A tabela ao vivo do GameGulf para esse SKU torna a diferença óbvia: ou você já está perto do piso para sua rota de compra, ou deveria configurar um alerta em vez de ficar atualizando a eShop manualmente.

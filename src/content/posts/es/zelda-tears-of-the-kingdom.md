@@ -72,6 +72,8 @@ communityMemes:
   - "Speedruns de santuarios en islas celestiales"
   - "Las Profundidades no son para los débiles de corazón"
 tldr: "Zelda: Tears of the Kingdom es una compra segura en Switch — obra maestra con 96 en Metacritic y 50–150 horas de contenido."
+cardPrice: "€42.96 (¥7,900)"
+cardPriceRegion: "Japón"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "zelda tears of the kingdom switch"

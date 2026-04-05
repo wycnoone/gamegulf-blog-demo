@@ -1,0 +1,239 @@
+#!/usr/bin/env node
+/**
+ * Validate generated Markdown articles against the content schema
+ * and quality checklist rules.
+ *
+ * Usage:
+ *   node scripts/validate-article.mjs <path-to-md-file>
+ *   node scripts/validate-article.mjs src/content/posts/en/hades-worth-it.md
+ *   node scripts/validate-article.mjs src/content/posts/en/*.md   (shell expansion)
+ *
+ * Output: JSON array of { file, status, errors[], warnings[] }
+ * Exit codes:
+ *   0 = all files valid
+ *   1 = one or more validation errors
+ *   2 = usage error
+ */
+
+import { readFileSync, existsSync } from 'node:fs';
+import yaml from 'js-yaml';
+
+const REQUIRED_FIELDS = [
+  'title', 'description', 'publishedAt', 'category', 'gameTitle', 'platform',
+  'author', 'readingTime', 'decision', 'priceSignal', 'wishlistHref',
+  'priceTrackHref', 'gameHref', 'membershipHref', 'heroStat', 'heroNote',
+  'tags', 'faq',
+];
+
+const RECOMMENDED_FIELDS = [
+  'verdict', 'takeaway', 'bestFor', 'timingNote', 'tldr', 'cardPrice',
+  'cardPriceRegion', 'whatItIs', 'avoidIf', 'consensusPraise',
+  'mainFriction', 'timeFit', 'fitLabel', 'priceCall', 'confidence',
+  'priceSignal', 'currentDeal', 'salePattern', 'playerVoices',
+];
+
+const CHAR_LIMITS = {
+  whatItIs: 90,
+  bestFor: 60,
+  communityVibe: 64,
+  listingTakeaway: 96,
+  avoidIf: 72,
+  consensusPraise: 82,
+  mainFriction: 84,
+  timeFit: 82,
+  fitLabel: 72,
+  tldr: 160,
+};
+
+const VALID_CATEGORIES = ['worth-it', 'buy-now-or-wait'];
+const VALID_VERDICTS = ['buy_now', 'wait_for_sale', 'right_player', 'not_best_fit'];
+const VALID_PRICE_CALLS = ['buy', 'wait', 'watch'];
+const VALID_CONFIDENCE = ['high', 'medium', 'low'];
+const VALID_QUICK_FILTERS = [
+  'co_op', 'long_rpg', 'family_friendly', 'nintendo_first_party',
+  'short_sessions', 'under_20', 'great_on_sale', 'rarely_discounted',
+];
+const VALID_PLAYER_NEEDS = [
+  'buy_now', 'wait_for_sale', 'long_games', 'party_games',
+  'cozy', 'beginner_friendly', 'casual', 'local_multiplayer', 'value_for_money',
+];
+const VALID_SENTIMENTS = ['positive', 'negative', 'mixed'];
+
+function parseFrontmatter(content) {
+  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
+  if (!match) return { fm: null, body: content, raw: '' };
+  return {
+    fm: yaml.load(match[1]),
+    body: content.slice(match[0].length),
+    raw: match[1],
+  };
+}
+
+function validate(filePath) {
+  const errors = [];
+  const warnings = [];
+
+  if (!existsSync(filePath)) {
+    return { file: filePath, status: 'ERROR', errors: ['File not found'], warnings: [] };
+  }
+
+  const content = readFileSync(filePath, 'utf8');
+
+  // 1. YAML parsing
+  let fm, body, raw;
+  try {
+    ({ fm, body, raw } = parseFrontmatter(content));
+  } catch (e) {
+    return { file: filePath, status: 'FAIL', errors: [`YAML parse error: ${e.message}`], warnings: [] };
+  }
+
+  if (!fm) {
+    return { file: filePath, status: 'FAIL', errors: ['No frontmatter found'], warnings: [] };
+  }
+
+  // 2. Duplicate key check (basic — scan raw for repeated top-level keys)
+  const keyLines = raw.split('\n').filter((l) => /^[a-zA-Z]/.test(l));
+  const keyCounts = {};
+  for (const line of keyLines) {
+    const k = line.split(':')[0].trim();
+    keyCounts[k] = (keyCounts[k] || 0) + 1;
+  }
+  for (const [k, c] of Object.entries(keyCounts)) {
+    if (c > 1) errors.push(`Duplicate YAML key: "${k}" appears ${c} times`);
+  }
+
+  // 3. Required fields
+  for (const f of REQUIRED_FIELDS) {
+    if (fm[f] === undefined || fm[f] === null || fm[f] === '') {
+      errors.push(`Missing required field: ${f}`);
+    }
+  }
+
+  // 4. Recommended fields
+  for (const f of RECOMMENDED_FIELDS) {
+    if (fm[f] === undefined) {
+      warnings.push(`Missing recommended field: ${f}`);
+    }
+  }
+
+  // 5. Enum validation
+  if (fm.category && !VALID_CATEGORIES.includes(fm.category)) {
+    errors.push(`Invalid category: "${fm.category}" (expected: ${VALID_CATEGORIES.join(', ')})`);
+  }
+  if (fm.verdict && !VALID_VERDICTS.includes(fm.verdict)) {
+    errors.push(`Invalid verdict: "${fm.verdict}"`);
+  }
+  if (fm.priceCall && !VALID_PRICE_CALLS.includes(fm.priceCall)) {
+    errors.push(`Invalid priceCall: "${fm.priceCall}"`);
+  }
+  if (fm.confidence && !VALID_CONFIDENCE.includes(fm.confidence)) {
+    errors.push(`Invalid confidence: "${fm.confidence}"`);
+  }
+  if (fm.quickFilters) {
+    for (const qf of fm.quickFilters) {
+      if (!VALID_QUICK_FILTERS.includes(qf)) {
+        errors.push(`Invalid quickFilter: "${qf}"`);
+      }
+    }
+  }
+  if (fm.playerNeeds) {
+    for (const pn of fm.playerNeeds) {
+      if (!VALID_PLAYER_NEEDS.includes(pn)) {
+        errors.push(`Invalid playerNeed: "${pn}"`);
+      }
+    }
+  }
+
+  // 6. Character limits
+  for (const [field, limit] of Object.entries(CHAR_LIMITS)) {
+    if (fm[field] && typeof fm[field] === 'string' && fm[field].length > limit) {
+      errors.push(`${field} exceeds ${limit} chars (actual: ${fm[field].length})`);
+    }
+  }
+
+  // 7. Structured array validation
+  if (fm.tags) {
+    if (!Array.isArray(fm.tags)) {
+      errors.push('tags must be an array');
+    } else if (fm.tags.length < 3 || fm.tags.length > 8) {
+      warnings.push(`tags count ${fm.tags.length} (recommended: 4-6)`);
+    }
+  }
+
+  if (fm.faq) {
+    if (!Array.isArray(fm.faq)) {
+      errors.push('faq must be an array');
+    } else {
+      for (let i = 0; i < fm.faq.length; i++) {
+        const item = fm.faq[i];
+        if (!item.question) errors.push(`faq[${i}] missing question`);
+        if (!item.answer) errors.push(`faq[${i}] missing answer`);
+      }
+    }
+  }
+
+  if (fm.playerVoices) {
+    if (!Array.isArray(fm.playerVoices)) {
+      errors.push('playerVoices must be an array');
+    } else {
+      for (let i = 0; i < fm.playerVoices.length; i++) {
+        const v = fm.playerVoices[i];
+        if (!v.quote) errors.push(`playerVoices[${i}] missing quote`);
+        if (v.sentiment && !VALID_SENTIMENTS.includes(v.sentiment)) {
+          errors.push(`playerVoices[${i}] invalid sentiment: "${v.sentiment}"`);
+        }
+      }
+    }
+  }
+
+  // 8. Argentina exclusion check
+  const fullText = content.toLowerCase();
+  if (fullText.includes('argentina') || /\bars\b/.test(fm.cardPriceRegion || '')) {
+    warnings.push('Possible Argentina reference found — verify exclusion');
+  }
+
+  // 9. Link validity (format check, not HTTP)
+  for (const linkField of ['gameHref', 'priceTrackHref', 'wishlistHref', 'membershipHref']) {
+    if (fm[linkField] && !fm[linkField].startsWith('https://')) {
+      errors.push(`${linkField} should be an HTTPS URL`);
+    }
+  }
+
+  // 10. Body quality checks
+  if (body) {
+    const bodyClean = body.trim();
+    if (bodyClean.length < 500) {
+      warnings.push(`Article body is very short (${bodyClean.length} chars)`);
+    }
+
+    const headings = bodyClean.match(/^##\s+.+/gm) || [];
+    if (headings.length < 3) {
+      warnings.push(`Only ${headings.length} H2 headings found (recommend ≥3)`);
+    }
+
+    if (fm.category === 'worth-it' || fm.category === 'buy-now-or-wait') {
+      if (!bodyClean.includes('|') || !bodyClean.includes('Region') && !bodyClean.includes('地区') && !bodyClean.includes('地域') && !bodyClean.includes('Región') && !bodyClean.includes('Région') && !bodyClean.includes('Região')) {
+        warnings.push('Regional price comparison table may be missing');
+      }
+    }
+  }
+
+  const status = errors.length > 0 ? 'FAIL' : 'PASS';
+  return { file: filePath, status, errors, warnings };
+}
+
+// --- main ---
+const files = process.argv.slice(2);
+if (files.length === 0) {
+  console.error(JSON.stringify({
+    status: 'ERROR',
+    message: 'Usage: node scripts/validate-article.mjs <file1.md> [file2.md ...]',
+  }));
+  process.exit(2);
+}
+
+const results = files.map(validate);
+const hasErrors = results.some((r) => r.status === 'FAIL');
+
+console.log(JSON.stringify(results, null, 2));
+process.exit(hasErrors ? 1 : 0);

@@ -1,6 +1,6 @@
 ---
 title: "《哈迪斯》2026 年还值得在 Switch 上买吗？"
-description: "一篇 Switch 购买指南——帮你判断 Hades 适不适合你、一局多长、性能如何、€0.67 到底值不值。"
+description: "一篇 Switch 购买指南——帮你判断 Hades 适不适合你、一局多长、性能如何、是否值得入手。"
 publishedAt: "2026-03-31"
 updatedAt: "2026-03-31"
 category: "worth-it"
@@ -9,7 +9,7 @@ platform: "Nintendo Switch"
 author: "GameGulf Editorial AI"
 readingTime: "7 分钟阅读"
 decision: "喜欢快节奏动作、不怕死了重来的玩家几乎无脑买。只有真正讨厌 Roguelike 循环的人才需要犹豫。"
-priceSignal: "阿根廷区全球低价约 €0.67——一款 93 分游戏卖到这个价，基本等于白送。"
+priceSignal: "日本区全球低价 €15.22（¥2,800）——93 分游戏能拿到这个价，非常划算。"
 heroStat: "93 Metacritic"
 heroNote: "有史以来评分最高的独立游戏之一——Supergiant Games 出品，多项年度大奖得主。"
 badge: "值得买"
@@ -18,7 +18,7 @@ priceCall: "buy"
 confidence: "high"
 actionBucket: "buy_now"
 featuredPriority: 2
-listingTakeaway: "93 分 Roguelike 低至 €0.67——快节奏、深剧情，Switch 上近乎完美。"
+listingTakeaway: "93 分 Roguelike 低至 €15.22——快节奏、深剧情，Switch 上近乎完美。"
 whatItIs: "Roguelike 动作 RPG：希腊神话战斗、叙事深度、无限可重玩性。"
 bestFor: "喜欢短局制、长期养成的动作游戏玩家。"
 avoidIf: "讨厌重复跑图或需要明确终点才能坚持的话，慎入。"
@@ -26,16 +26,16 @@ consensusPraise: "战斗、剧情、美术、音乐融合成 Switch 上最精致
 mainFriction: "后期跑图新鲜感下降，剧情线走完后动力会减弱。"
 timeFit: "一局 20-40 分钟，通勤或午休刚好打一把。"
 fitLabel: "喜欢短局制、重操作、重养成的动作游戏玩家。"
-timingNote: "全球低价期间，试错成本几乎为零。"
+timingNote: "当前日本区全球低价，93 分游戏性价比很高。"
 communityVibe: "There is no escape——而且你根本不想逃。"
 playtime: "20-25h 通关，90h+ 全收集"
 reviewSignal: "93 Metacritic"
-takeaway: "Hades 在 €0.67 的价位上是 Switch 最容易推荐的游戏之一——快、深、天生适合掌机。"
+takeaway: "Hades 在 €15.22 的价位上是 Switch 最容易推荐的游戏之一——快、深、天生适合掌机。"
 playStyle: "快节奏俯视角战斗，六种武器搭配神恩随机构建，加上永久性成长系统。"
 timeCommitment: "通关主线约 20-25 小时，全收集约 90-100 小时。每局 20-40 分钟。"
 playMode: "单人。"
-whyNow: "全球低价 €0.67，入手门槛降到了几乎不存在。"
-currentDeal: "阿根廷区全球低价约 €0.67，多个区域低于 €5。"
+whyNow: "日本区全球低价 €15.22（¥2,800），93 分游戏性价比极高。"
+currentDeal: "日本区全球低价 €15.22（¥2,800），多个区域低于 €20。"
 nearHistoricalLow: "是的——当前多个区域价格处于或接近历史最低。"
 salePattern: "Hades 打折频率高，大约每 1-2 个月一次。大促期间折扣力度最大。"
 priceRecommendation: "buy"
@@ -75,7 +75,9 @@ communityMemes:
   - "雅典娜的神恩？不嫌多"
   - "Hades 原声带住在脑子里不交房租"
   - "地狱三头犬是最好的狗子"
-tldr: "Hades 在 Switch 上不到 €1 就能入手，93 分 Metacritic 的 Roguelike，掌机体验完美，果断买。"
+tldr: "Hades 在 Switch 上 €15.22 就能入手，93 分 Metacritic 的 Roguelike，掌机体验完美，果断买。"
+cardPrice: "¥2,800 (€15.22)"
+cardPriceRegion: "日本"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"
@@ -85,7 +87,7 @@ heroTheme: "brand"
 ctaLabelOverride: "查看完整判断"
 faq:
   - question: "《哈迪斯》2026 年在 Switch 上还值得买吗？"
-    answer: "《哈迪斯》在 Switch 上完全值得买——60 帧运行、掌机体验极佳、93 分 Metacritic 品质保证。截至 2026 年 3 月，GameGulf 显示全球低价为 €0.67，是平台上性价比最高的购买之一。"
+    answer: "《哈迪斯》在 Switch 上完全值得买——60 帧运行、掌机体验极佳、93 分 Metacritic 品质保证。截至 2026 年 3 月，GameGulf 显示日本区全球低价为 €15.22（¥2,800），是平台上性价比最高的购买之一。"
   - question: "通关《哈迪斯》需要多长时间？"
     answer: "《哈迪斯》主线通关约 20-25 小时，每局时长 20-40 分钟。想看完所有剧情并满级全角色关系，预计需要 90-100 小时。"
   - question: "《哈迪斯》在 Switch 上运行表现怎么样？"
@@ -97,19 +99,19 @@ faq:
 ---
 ## 快速结论
 
-**《哈迪斯》是 2026 年 Switch 上最容易推荐的游戏之一。** 93 分 Metacritic、同类最佳的战斗手感、真正让人在意的叙事、加上全球低价不到 €1——除非你从骨子里排斥"死了重来"的循环，否则几乎没有理由犹豫。
+**《哈迪斯》是 2026 年 Switch 上最容易推荐的游戏之一。** 93 分 Metacritic、同类最佳的战斗手感、真正让人在意的叙事、加上日本区全球低价 €15.22——除非你从骨子里排斥"死了重来"的循环，否则几乎没有理由犹豫。
 
 真正的问题不是"它好不好"。它当然好。问题是：**你能不能接受一款以反复失败为核心机制的游戏？**
 
 ## 现在买《哈迪斯》大概要多少钱？
 
-截至 2026 年 3 月，《哈迪斯》的全球最低价约 €0.67，出现在阿根廷 eShop。
+截至 2026 年 3 月，《哈迪斯》的全球最低价约 €15.22，出现在日本 eShop（¥2,800）。
 
-- **阿根廷 eShop：约 €0.67** —— 当前全球最低
+- **日本 eShop：约 €15.22（¥2,800）** —— 当前全球最低
 - **美国 eShop：历史低价约 $6.24**，大促期间出现
 - 原价 $24.99，但深折大约每 1-2 个月出现一次
 
-对于一款 93 分的游戏，即使原价也完全合理。€0.67 的价位已经接近"白送"。GameGulf 的跨区价格追踪可以帮你一眼看到哪个区服目前最划算。
+对于一款 93 分的游戏，即使原价也完全合理。€15.22 的价位性价比极高。GameGulf 的跨区价格追踪可以帮你一眼看到哪个区服目前最划算。
 
 ## 《哈迪斯》到底是什么类型的游戏？
 

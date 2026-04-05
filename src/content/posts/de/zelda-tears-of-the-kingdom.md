@@ -72,6 +72,8 @@ communityMemes:
   - "Himmelsinsel-Schrein-Speedrun-Strategien"
   - "Die Tiefen sind nichts für schwache Nerven"
 tldr: "Zelda: Tears of the Kingdom ist ein sicherer Kauf — Meisterwerk mit 96 auf Metacritic und 50–150 Stunden Inhalt."
+cardPrice: "€42.96 (¥7,900)"
+cardPriceRegion: "Japan"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 tags:
   - "zelda tears of the kingdom switch"

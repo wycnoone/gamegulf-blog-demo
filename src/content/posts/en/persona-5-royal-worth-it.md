@@ -9,7 +9,7 @@ platform: "Nintendo Switch"
 author: "GameGulf Editorial AI"
 readingTime: "8 min read"
 decision: "Worth buying if you want a long, stylish JRPG and can commit 80–120 hours. Not the right pick if you bounce off turn-based combat or slow openings."
-priceSignal: "Global low around EUR 10.94 in Argentina, Japan eShop near 70% off. At this discount, the value-per-hour ratio is hard to beat on Switch."
+priceSignal: "Global low at €41.75 in Japan (¥7,678). At this price, a 94-rated JRPG with 100+ hours still delivers solid value per hour on Switch."
 heroStat: "94 Metacritic"
 heroNote: "One of the highest-rated JRPGs on Switch — the definitive edition with 40+ DLC items included."
 badge: "Worth It"
@@ -35,7 +35,7 @@ playStyle: "Turn-based combat, social link progression, and character-driven RPG
 timeCommitment: "80–100 hours for a focused run, 110–130 for completionists. Best when you want one game to anchor your schedule."
 playMode: "Single-player, story-first experience."
 whyNow: "Deep regional discounts bring a famously long game into impulse-buy territory for the first time."
-currentDeal: "Global low near EUR 10.94 (Argentina eShop), Japan at roughly 70% off, several other regions below EUR 15."
+currentDeal: "Global low at €41.75 in Japan (¥7,678), several other regions above €50."
 nearHistoricalLow: "Yes — current pricing is at or near the historical low across multiple regions."
 salePattern: "Deep discounts of this level appear roughly every 2–3 months. The game rarely drops this low outside major sale events."
 priceRecommendation: "buy"
@@ -76,7 +76,9 @@ communityMemes:
   - "For real?!"
   - "Makoto best girl (fight me)"
   - "The Morgana sleep debate"
-tldr: "Persona 5 Royal is worth buying on Switch if you want 100+ hours of stylish JRPG — and at under €11, the price is right."
+tldr: "Persona 5 Royal is worth buying on Switch if you want 100+ hours of stylish JRPG — and at €41.75 in Japan, the value per hour is strong."
+cardPrice: "€41.75 (¥7,678)"
+cardPriceRegion: "Japan"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price"
 gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"
@@ -95,7 +97,7 @@ faq:
   - question: "Is the Switch version of Persona 5 Royal the same as PlayStation?"
     answer: "Persona 5 Royal on Switch is the complete Royal edition — third semester, new Confidant, and all 40+ DLC items included. No content is missing compared to the PlayStation version."
   - question: "When is the best time to buy Persona 5 Royal on Switch?"
-    answer: "Persona 5 Royal is near its historical low as of March 2026, with deep discounts in Argentina (around EUR 10.94) and Japan (near 70% off). These discount levels appear roughly every 2–3 months during major sale events."
+    answer: "Persona 5 Royal's global low is €41.75 in Japan (¥7,678) as of March 2026. Regional discounts of this level appear roughly every 2–3 months during major sale events."
 ---
 ## Quick verdict
 
@@ -105,13 +107,12 @@ The real question is not whether P5R is good. It clearly is. The question is: **
 
 ## How much does Persona 5 Royal cost on Switch right now?
 
-Persona 5 Royal's global low sits at approximately EUR 10.94 on the Argentina eShop as of March 2026.
+Persona 5 Royal's global low sits at €41.75 on the Japan eShop (¥7,678) as of March 2026.
 
-- **Argentina eShop: ~EUR 10.94** — the current global low
-- **Japan eShop: ~70% off**, landing around EUR 12.56 equivalent
-- Multiple other regions still near full price, which is exactly why cross-region comparison matters
+- **Japan eShop: €41.75 (¥7,678)** — the current global low
+- Multiple other regions remain above €50, which is exactly why cross-region comparison matters
 
-For a 94-rated JRPG of this scale, anything under EUR 15 is exceptional value. GameGulf's regional price tracker makes it easy to spot which eShop currently has the best deal for your account.
+For a 94-rated JRPG of this scale, under €42 still delivers strong value per hour. GameGulf's regional price tracker makes it easy to spot which eShop currently has the best deal for your account.
 
 ## What kind of game is Persona 5 Royal, really?
 

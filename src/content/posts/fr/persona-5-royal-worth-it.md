@@ -9,7 +9,7 @@ platform: "Nintendo Switch"
 author: "GameGulf Editorial AI"
 readingTime: "8 min de lecture"
 decision: "Vaut l'achat si vous voulez un long JRPG stylé et pouvez y consacrer 80 à 120 heures. Pas le bon choix si vous décrochez face au combat au tour par tour ou aux débuts lents."
-priceSignal: "Prix plancher mondial autour de 10,94 EUR en Argentine, eShop japonais à environ 70 % de réduction. À ce niveau de remise, le ratio valeur/heure est difficile à battre sur Switch."
+priceSignal: "Prix plancher mondial à 41,75 € au Japon (¥7 678). À ce prix, un JRPG noté 94 avec 100+ heures offre un excellent ratio valeur/heure sur Switch."
 heroStat: "94 Metacritic"
 heroNote: "L'un des JRPG les mieux notés sur Switch — l'édition définitive avec plus de 40 DLC inclus."
 badge: "Worth It"
@@ -35,7 +35,7 @@ playStyle: "Combat au tour par tour, progression par liens sociaux et systèmes 
 timeCommitment: "80 à 100 heures pour une partie ciblée, 110 à 130 pour les complétionnistes. Idéal quand vous voulez un seul jeu pour ancrer votre planning."
 playMode: "Solo, axé sur l'histoire."
 whyNow: "Les remises régionales profondes font passer un jeu notoirement long en territoire d'achat impulsif pour la première fois."
-currentDeal: "Prix plancher mondial proche de 10,94 EUR (eShop argentin), Japon à environ 70 % de réduction, plusieurs autres régions sous les 15 EUR."
+currentDeal: "Prix plancher mondial à 41,75 € au Japon (¥7 678), plusieurs autres régions au-dessus de 50 €."
 nearHistoricalLow: "Yes — current pricing is at or near the historical low across multiple regions."
 salePattern: "Deep discounts of this level appear roughly every 2–3 months. The game rarely drops this low outside major sale events."
 priceRecommendation: "buy"
@@ -76,7 +76,9 @@ communityMemes:
   - "For real?!"
   - "Makoto best girl (battez-vous)"
   - "Le débat Morgana et le sommeil"
-tldr: "Persona 5 Royal vaut l'achat sur Switch à moins de 11 € — un JRPG de 100+ heures noté 94 sur Metacritic."
+tldr: "Persona 5 Royal vaut l'achat sur Switch à 41,75 € au Japon — un JRPG de 100+ heures noté 94 sur Metacritic."
+cardPrice: "€41.75 (¥7,678)"
+cardPriceRegion: "Japon"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price"
 gameHref: "https://www.gamegulf.com/detail/INlLdFP5Q9"
@@ -95,7 +97,7 @@ faq:
   - question: "La version Switch de Persona 5 Royal est-elle identique à celle de PlayStation ?"
     answer: "Persona 5 Royal sur Switch est l'édition Royal complète — troisième semestre, nouveau Confient et plus de 40 DLC inclus. Aucun contenu ne manque par rapport à la version PlayStation."
   - question: "Quel est le meilleur moment pour acheter Persona 5 Royal sur Switch ?"
-    answer: "Persona 5 Royal est proche de son plus bas historique en mars 2026, avec des remises profondes en Argentine (autour de 10,94 EUR) et au Japon (environ 70 % de réduction). Ces niveaux de remise apparaissent environ tous les 2 à 3 mois lors des grands événements promotionnels."
+    answer: "Le prix plancher mondial de Persona 5 Royal est de 41,75 € au Japon (¥7 678) en mars 2026. Ces niveaux de remise apparaissent environ tous les 2 à 3 mois lors des grands événements promotionnels."
 ---
 ## Verdict rapide
 
@@ -105,13 +107,12 @@ La vraie question n'est pas de savoir si P5R est bon. Il l'est clairement. La qu
 
 ## Combien coûte Persona 5 Royal sur Switch en ce moment ?
 
-Le prix plancher mondial de Persona 5 Royal est d'environ 10,94 EUR sur l'eShop argentin en mars 2026.
+Le prix plancher mondial de Persona 5 Royal est de 41,75 € sur l'eShop japonais (¥7 678) en mars 2026.
 
-- **eShop Argentine : ~10,94 EUR** — le prix plancher mondial actuel
-- **eShop Japon : ~70 % de réduction**, soit environ 12,56 EUR équivalent
-- Plusieurs autres régions restent proches du plein tarif, ce qui illustre précisément pourquoi la comparaison inter-régions est importante
+- **eShop Japon : 41,75 € (¥7 678)** — le prix plancher mondial actuel
+- Plusieurs autres régions restent au-dessus de 50 €, ce qui illustre précisément pourquoi la comparaison inter-régions est importante
 
-Pour un JRPG noté 94 de cette envergure, tout ce qui est sous 15 EUR représente une valeur exceptionnelle. Le comparateur de prix régional de GameGulf vous permet de repérer facilement quel eShop offre la meilleure affaire pour votre compte.
+Pour un JRPG noté 94 de cette envergure, sous les 42 € le ratio valeur/heure reste solide. Le comparateur de prix régional de GameGulf vous permet de repérer facilement quel eShop offre la meilleure affaire pour votre compte.
 
 ## Quel type de jeu est Persona 5 Royal, vraiment ?
 

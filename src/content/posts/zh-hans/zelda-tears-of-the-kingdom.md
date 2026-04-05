@@ -69,6 +69,8 @@ communityMemes:
   - "天空岛神庙速通"
   - "地底不适合胆小的人"
 tldr: "塞尔达王国之泪是 Switch 上必买的开放世界冒险，96 分 Metacritic，50-150 小时内容量。"
+cardPrice: "¥7,900 (€42.96)"
+cardPriceRegion: "日本"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price"
 gameHref: "https://www.gamegulf.com/detail/h14iXKeQ0PR"

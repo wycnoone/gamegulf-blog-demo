@@ -9,7 +9,7 @@ platform: "Nintendo Switch"
 author: "GameGulf Editorial AI"
 readingTime: "7 min read"
 decision: "An easy buy for anyone who enjoys fast action and doesn't mind dying to progress. Skip only if roguelike repetition genuinely frustrates you."
-priceSignal: "Global low at €0.67 in Argentina — absurdly cheap for a 93-rated game. At this price, Hades is practically free."
+priceSignal: "Global low at €15.22 in Japan (¥2,800) — a strong deal for a 93-rated game that rarely drops this low."
 heroStat: "93 Metacritic"
 heroNote: "One of the highest-rated indie games ever — multi-GOTY winner from Supergiant Games."
 badge: "Worth It"
@@ -18,7 +18,7 @@ priceCall: "buy"
 confidence: "high"
 actionBucket: "buy_now"
 featuredPriority: 2
-listingTakeaway: "93-rated roguelike at under €1 — fast runs, deep story, near-perfect on Switch."
+listingTakeaway: "93-rated roguelike at €15.22 — fast runs, deep story, near-perfect on Switch."
 whatItIs: "Roguelike action RPG: Greek myth combat, narrative depth, endless replayability."
 bestFor: "Action fans who love short runs with long-term progression."
 avoidIf: "Skip if roguelike repetition or no clear endpoint frustrates you."
@@ -26,16 +26,16 @@ consensusPraise: "Combat, story, art, and music fuse into the most polished rogu
 mainFriction: "Late-game runs feel samey once the story threads run dry."
 timeFit: "Built for 30-minute sessions — one run fits a lunch break or commute."
 fitLabel: "Roguelike and action fans who enjoy short-session progression."
-timingNote: "At the current global low, there's almost no financial risk in trying it."
+timingNote: "At the current global low in Japan, this is one of the best prices available for a 93-rated game."
 communityVibe: "There is no escape — and you won't want one."
 playtime: "20-25h story, 90h+ completionist"
 reviewSignal: "93 Metacritic"
-takeaway: "Hades at under €1 is one of the easiest recommendations on Switch — fast, deep, and built for handheld play."
+takeaway: "Hades at €15.22 is one of the easiest recommendations on Switch — fast, deep, and built for handheld play."
 playStyle: "Fast-paced isometric combat with weapon variety, god boons, and permanent meta-progression."
 timeCommitment: "20-25 hours to reach the story conclusion, 90-100 hours for completionists. Each run takes 20-40 minutes."
 playMode: "Single-player."
-whyNow: "The global low of €0.67 makes this a near-zero-risk purchase for the first time."
-currentDeal: "Global low at €0.67 on the Argentina eShop. Multiple other regions under €5."
+whyNow: "The global low of €15.22 in Japan (¥2,800) makes this an excellent value for a 93-rated game."
+currentDeal: "Global low at €15.22 on the Japan eShop (¥2,800). Multiple other regions under €20."
 nearHistoricalLow: "Yes — this is at or near the all-time low across most regions."
 salePattern: "Hades goes on sale frequently, roughly every 1-2 months. Deep discounts appear during major Nintendo sale events."
 priceRecommendation: "buy"
@@ -75,7 +75,9 @@ communityMemes:
   - "Boon of Athena? Don't mind if I do"
   - "The Hades soundtrack lives rent-free in my head"
   - "Cerberus is the goodest boy"
-tldr: "Hades is an easy buy on Switch at under €1 — a 93-Metacritic roguelike with perfect handheld performance and 20+ hours of content."
+tldr: "Hades is an easy buy on Switch at €15.22 — a 93-Metacritic roguelike with perfect handheld performance and 20+ hours of content."
+cardPrice: "€15.22 (¥2,800)"
+cardPriceRegion: "Japan"
 wishlistHref: "https://www.gamegulf.com/wishlist"
 priceTrackHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price"
 gameHref: "https://www.gamegulf.com/detail/3GVaaSqOXnv"
@@ -84,7 +86,7 @@ coverImage: "https://cdn.gamegulf.com/upload/1740987626994180329071.jpeg"
 heroTheme: "brand"
 faq:
   - question: "Is Hades worth buying on Nintendo Switch in 2026?"
-    answer: "Hades is absolutely worth buying on Switch — it runs at 60 fps, fits handheld play perfectly, and delivers a 93-Metacritic roguelike experience. As of March 2026, GameGulf shows the global low at €0.67, making it one of the strongest value buys on the platform."
+    answer: "Hades is absolutely worth buying on Switch — it runs at 60 fps, fits handheld play perfectly, and delivers a 93-Metacritic roguelike experience. As of March 2026, GameGulf shows the global low at €15.22 in Japan (¥2,800), making it one of the strongest value buys on the platform."
   - question: "How long does Hades take to beat?"
     answer: "Hades takes approximately 20-25 hours to reach the main story conclusion, with individual runs lasting 20-40 minutes. Completionists aiming to see all story content and max out relationships should expect 90-100 hours."
   - question: "How does Hades run on Nintendo Switch?"
@@ -96,19 +98,19 @@ faq:
 ---
 ## Quick verdict
 
-**Hades is one of the easiest recommendations on Nintendo Switch in 2026.** A 93-Metacritic roguelike with best-in-class combat, a genuinely compelling narrative, and a global low under €1 — there is almost no reason to hesitate unless you fundamentally dislike the roguelike loop of dying and restarting.
+**Hades is one of the easiest recommendations on Nintendo Switch in 2026.** A 93-Metacritic roguelike with best-in-class combat, a genuinely compelling narrative, and a global low of €15.22 in Japan — there is almost no reason to hesitate unless you fundamentally dislike the roguelike loop of dying and restarting.
 
 The real question is not whether Hades is good. It is. The question is: **can you enjoy a game built around repeated failure as a core mechanic?**
 
 ## How much does Hades cost on Switch right now?
 
-Hades' global low sits at approximately €0.67 on the Argentina eShop as of March 2026.
+Hades' global low sits at approximately €15.22 on the Japan eShop (¥2,800) as of March 2026.
 
-- **Argentina eShop: ~€0.67** — the current global low
+- **Japan eShop: ~€15.22 (¥2,800)** — the current global low
 - **US eShop: historically drops to ~$6.24** during major sales
 - Full price is $24.99, but deep discounts appear roughly every 1-2 months
 
-For a game of this quality and review score, even $25 is reasonable. At under €1, the value is absurd. GameGulf's regional price tracker shows which eShop currently has the best deal for your account.
+For a game of this quality and review score, even $25 is reasonable. At €15.22, the value is still excellent. GameGulf's regional price tracker shows which eShop currently has the best deal for your account.
 
 ## What kind of game is Hades, really?
 
