@@ -154,13 +154,24 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
   - `cardPriceRegionCode`
   - `cardPriceNative`
   - `cardPriceNativeCurrency`
+- Also include `priceRows` in frontmatter as the pricing source of
+  truth:
+  - 5-8 rows, cheapest first
+  - EXCLUDE Argentina (AR)
+  - Each row must include `regionCode`, `eurPrice`, `nativePrice`,
+    `nativeCurrency`
+  - The locale-adaptive markdown table will be generated from these
+    rows by `scripts/sync-article-pricing.mjs`
 
 **Detail-page pricing section MUST include:**
-1. A markdown table in the article body with 5-8 regions, cheapest first
+1. A pricing intro paragraph in the article body
+   - The actual markdown table is generated after synthesis from
+     `priceRows`
+   - It must end up with 5-8 regions, cheapest first
    - EXCLUDE Argentina (AR)
    - Keep original storefront price in the last column
    - Converted-price column should match the article locale
-   - Place it directly under the price section's opening paragraph
+   - It is inserted directly under the price section's opening paragraph
 2. Discount history analysis paragraph using price_analytics:
    - All-time low (price, region, date)
    - Discount frequency (X times in past year)
@@ -208,6 +219,13 @@ One file per locale. Each file = YAML frontmatter + Markdown body.
 
 ## Phase 3 — Validate Articles
 
+Before validation, sync the locale-adaptive pricing fields and markdown
+table from `priceRows`:
+
+```bash
+node scripts/sync-article-pricing.mjs src/content/posts/en/{slug}.md src/content/posts/zh-hans/{slug}.md src/content/posts/ja/{slug}.md src/content/posts/fr/{slug}.md src/content/posts/es/{slug}.md src/content/posts/de/{slug}.md src/content/posts/pt/{slug}.md
+```
+
 Run the automated validator on all generated files:
 
 ```bash
@@ -227,6 +245,8 @@ The validator checks:
 - Argentina exclusion
 - Link format
 - Article body structure (headings, regional table)
+- `priceRows` ↔ cardPrice ↔ markdown table consistency for files using
+  structured pricing
 
 **If validation fails:** fix the specific errors reported, then re-run.
 Common fixes:
@@ -248,6 +268,7 @@ Must exit 0. If it fails, read the error, fix the offending file, rebuild.
 Verify for at least EN and one non-EN locale:
 - [ ] cardPrice shows specific price, not "Live pricing"
 - [ ] Price table has 5-8 rows, no Argentina
+- [ ] Price table matches `priceRows` and locale currency
 - [ ] Discount history paragraph references real data
 - [ ] tldr starts with game name, ≤160 chars
 - [ ] FAQ answers start with game name
@@ -275,6 +296,7 @@ node scripts/extract-game-brief.mjs <url>              # extract single game
 node scripts/batch-extract.mjs <url1> <url2> ...       # extract batch
 
 # --- Validation ---
+node scripts/sync-article-pricing.mjs src/content/posts/*/{slug}.md   # sync pricing table/card fields
 node scripts/validate-article.mjs src/content/posts/en/{slug}.md   # validate one
 node scripts/validate-article.mjs src/content/posts/*/{slug}.md    # validate all locales
 

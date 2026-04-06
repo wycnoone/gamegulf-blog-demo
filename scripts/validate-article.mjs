@@ -17,6 +17,14 @@
 
 import { readFileSync, existsSync } from 'node:fs';
 import yaml from 'js-yaml';
+import {
+  buildCardPricePayload,
+  buildMarkdownPriceTable,
+  formatConvertedPriceFromEur,
+  getEurExchangeRates,
+  inferLocaleFromFilePath,
+  normalizePriceRows,
+} from './article-pricing-utils.mjs';
 
 const REQUIRED_FIELDS = [
   'title', 'description', 'publishedAt', 'category', 'gameTitle', 'platform',
@@ -138,7 +146,7 @@ function extractMarkdownTables(body) {
   return tables.map((tableLines) => {
     const headerCells = tableLines[0].split('|').map((c) => c.trim().toLowerCase()).filter(Boolean);
     const rows = tableLines.slice(2).filter((line) => line.split('|').some((c) => c.trim()));
-    return { headerCells, rows };
+    return { headerCells, rows, rawLines: tableLines };
   });
 }
 
@@ -157,6 +165,68 @@ function hasStructuredPriceRows(fm) {
   return Array.isArray(fm.priceRows) && fm.priceRows.length >= 5 && fm.priceRows.length <= 8;
 }
 
+function normalizeTableString(table) {
+  return table
+    .trim()
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .join('\n');
+}
+
+async function validateStructuredPricing(filePath, fm, body, errors, warnings, rates) {
+  if (!hasStructuredPriceRows(fm)) {
+    if (hasExpectedPriceTable(body)) {
+      warnings.push('priceRows missing; validator cannot numerically verify locale-adaptive pricing');
+    }
+    return;
+  }
+
+  const locale = inferLocaleFromFilePath(filePath);
+  if (!locale) {
+    errors.push('Could not infer locale from file path for pricing validation');
+    return;
+  }
+
+  const priceRows = normalizePriceRows(fm.priceRows);
+  if (priceRows.length < 5 || priceRows.length > 8) {
+    errors.push(`priceRows must contain 5-8 entries (actual: ${priceRows.length})`);
+    return;
+  }
+
+  const expectedTable = normalizeTableString(await buildMarkdownPriceTable(priceRows, locale, rates));
+  const actualTables = extractMarkdownTables(body).map(({ rawLines }) =>
+    normalizeTableString(rawLines.join('\n')));
+  if (!actualTables.includes(expectedTable)) {
+    errors.push('Regional price table does not match priceRows for this locale; run pricing sync');
+  }
+
+  const cardPayload = buildCardPricePayload(priceRows, locale);
+  if (!cardPayload) {
+    errors.push('priceRows could not produce card pricing metadata');
+    return;
+  }
+
+  const expectedCardPrice = await formatConvertedPriceFromEur(cardPayload.cardPriceEur, locale, rates);
+  if (fm.cardPrice !== expectedCardPrice) {
+    errors.push(`cardPrice mismatch: expected "${expectedCardPrice}"`);
+  }
+  if (fm.cardPriceEur !== cardPayload.cardPriceEur) {
+    errors.push(`cardPriceEur mismatch: expected ${cardPayload.cardPriceEur}`);
+  }
+  if (fm.cardPriceRegionCode !== cardPayload.cardPriceRegionCode) {
+    errors.push(`cardPriceRegionCode mismatch: expected "${cardPayload.cardPriceRegionCode}"`);
+  }
+  if (fm.cardPriceRegion !== cardPayload.cardPriceRegion) {
+    errors.push(`cardPriceRegion mismatch: expected "${cardPayload.cardPriceRegion}"`);
+  }
+  if (fm.cardPriceNative !== priceRows[0].nativePrice) {
+    errors.push(`cardPriceNative mismatch: expected "${priceRows[0].nativePrice}"`);
+  }
+  if (fm.cardPriceNativeCurrency !== priceRows[0].nativeCurrency) {
+    errors.push(`cardPriceNativeCurrency mismatch: expected "${priceRows[0].nativeCurrency}"`);
+  }
+}
+
 function hasDiscountHistoryAnalysis(body) {
   const normalizedBody = body.toLowerCase();
   const hasTerms = DISCOUNT_HISTORY_TERMS.filter((term) => normalizedBody.includes(term.toLowerCase())).length >= 2;
@@ -164,7 +234,7 @@ function hasDiscountHistoryAnalysis(body) {
   return hasTerms && hasConcreteData;
 }
 
-function validate(filePath) {
+async function validate(filePath, rates) {
   const errors = [];
   const warnings = [];
 
@@ -316,6 +386,7 @@ function validate(filePath) {
       if (!hasStructuredPriceRows(fm) && !hasExpectedPriceTable(bodyClean)) {
         errors.push('Regional price comparison table missing (priceRows or markdown table with 5-8 rows required)');
       }
+      await validateStructuredPricing(filePath, fm, bodyClean, errors, warnings, rates);
       if (!hasDiscountHistoryAnalysis(bodyClean)) {
         errors.push('Discount history analysis paragraph missing concrete historical data');
       }
@@ -336,7 +407,8 @@ if (files.length === 0) {
   process.exit(2);
 }
 
-const results = files.map(validate);
+const rates = await getEurExchangeRates();
+const results = await Promise.all(files.map((file) => validate(file, rates)));
 const hasErrors = results.some((r) => r.status === 'FAIL');
 
 console.log(JSON.stringify(results, null, 2));

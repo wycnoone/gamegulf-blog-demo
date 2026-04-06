@@ -256,13 +256,30 @@ CARD PRICE FIELDS (required for all articles):
     en → USD, zh-hans → CNY, ja → JPY,
     fr/es/de/pt → EUR
 - cardPriceRegion: localized name of the global low region
-  Examples: "Japan" (en), "日本" (zh-hans/ja), "Japon" (fr)
+  Use these exact mappings (matches Intl.DisplayNames API):
+  - Hong Kong → "Hong Kong" (en/zh-hans/ja), "Hongkong" (de), "Hong Kong" (fr/es/pt)
+  - Japan → "Japan" (en/de), "日本" (zh-hans/ja), "Japon" (fr/es/pt)
+  - Brazil → "Brazil" (en), "巴西" (zh-hans), "ブラジル" (ja), "Brasilien" (de), "Brésil" (fr), "Brasil" (es/pt)
+  - United States → "United States" (en), "美国" (zh-hans), "アメリカ合衆国" (ja), "Vereinigte Staaten" (de), "États-Unis" (fr), "Estados Unidos" (es/pt)
+  - United Kingdom → "United Kingdom" (en), "英国" (zh-hans/ja), "Vereinigtes Königreich" (de), "Royaume-Uni" (fr), "Reino Unido" (es/pt)
+  - Germany → "Germany" (en), "德国" (zh-hans), "ドイツ" (ja), "Deutschland" (de), "Allemagne" (fr/es/pt)
 - Also include these structured fields in frontmatter for runtime
   conversion:
   - cardPriceEur
   - cardPriceRegionCode
   - cardPriceNative
   - cardPriceNativeCurrency
+- MUST include `priceRows` in frontmatter as the source of truth for
+  pricing output:
+  - 5-8 rows, cheapest first
+  - EXCLUDE Argentina (AR)
+  - Each row must include:
+    - `regionCode`
+    - `eurPrice`
+    - `nativePrice`
+    - `nativeCurrency`
+  - These rows will be used by a post-processing script to inject the
+    locale-adaptive markdown table into the pricing section
 
 ARTICLE BODY (GEO-optimized):
 - Every section OPENS with a definitive quotable statement
@@ -273,13 +290,15 @@ ARTICLE BODY (GEO-optimized):
 For worth-it articles:
 1. Quick verdict (≤80 words)
 2. How much does [Game] cost on Switch right now?
-   MUST include a markdown price table directly in the article body:
+   MUST include an opening paragraph that introduces current pricing.
+   Do NOT hand-write the markdown price table in the body. The table
+   will be generated after synthesis from `priceRows` and inserted
+   immediately under the opening paragraph using these rules:
    - EXCLUDE Argentina (AR) — purchases are not available there
    - Show 5-8 regions sorted by price (cheapest first)
    - Keep the original storefront price in the last column
    - The converted-price column should match the article locale
      (e.g. zh-hans → CNY, en → USD, fr/de/es/pt → EUR, ja → JPY)
-   - Put the table immediately under the opening paragraph of this section
 
    AFTER the price intro, add a DISCOUNT HISTORY ANALYSIS paragraph
    using price_analytics.switch data:
@@ -289,6 +308,17 @@ For worth-it articles:
    - State average discount depth if available
    - State days since last discount
    - Give a concrete buy/wait recommendation based on price_verdict
+   
+   CRITICAL: Include at least 2 discount history keywords in your
+   target language (validator requires >= 2 matches):
+   - English: "all-time low", "historical low", "discount", "sale"
+   - 中文："历史低价", "历史最低", "折扣", "打折"
+   - 日语："最安値", "セール", "割引"
+   - 德语："historischer tiefstpreis", "rabatt", "sale"
+   - 西班牙语："mínimo histórico", "oferta", "descuento"
+   - 法语："plus bas historique", "promo", "remise"
+   - 葡萄牙语："menor preço histórico", "promoção", "desconto"
+   
    Example: "Persona 5 Royal has dropped to €12.52 (Japan, March
    2026) — its all-time low. With 9 discounts in the past year and
    an average sale price of €20, this game goes on sale roughly
@@ -304,8 +334,9 @@ For buy-now-or-wait articles:
 1. Quick verdict
 2. What kind of game is [Game]?
 3. Is the current discount actually good?
-   MUST include a markdown price table (same rules as worth-it
-   section 2 above).
+   MUST include an opening pricing paragraph. The markdown price table
+   will be generated from `priceRows` after synthesis (same rules as
+   worth-it section 2 above).
    MUST include a DISCOUNT HISTORY ANALYSIS paragraph (same rules
    as worth-it section 2 above).
 4. What players praise or complain about
@@ -375,6 +406,7 @@ Multilingual:
 
 Data accuracy:
 □ All prices match the game brief exactly
+□ `priceRows` present and complete (5-8 rows, no Argentina)
 □ Platform availability matches the brief
 □ No fabricated statistics or dates
 ```

@@ -833,13 +833,14 @@ img {
 .decision-summary-pro {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
   overflow: hidden;
   color: #374151;
   font-size: 0.92rem;
   line-height: 1.62;
   margin: 0;
+  /* Relaxed from 3 to 4 lines to accommodate longer translations */
 }
 
 .decision-summary-block-pro {
@@ -941,13 +942,22 @@ img {
 .decision-core-value-pro {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 3;
-  line-clamp: 3;
+  -webkit-line-clamp: 4;
+  line-clamp: 4;
   overflow: hidden;
   color: #111827;
   font-size: 0.96rem;
   font-weight: 800;
   line-height: 1.34;
+  /* Relaxed from 3 to 4 lines for longer translations */
+}
+
+/* For listingTakeaway and similar fields, allow auto-height */
+.decision-core-value-pro[data-field="listingTakeaway"],
+.decision-core-value-pro[data-field="communityVibe"] {
+  -webkit-line-clamp: unset;
+  line-clamp: unset;
+  overflow: visible;
 }
 
 .decision-core-value-signal-pro {

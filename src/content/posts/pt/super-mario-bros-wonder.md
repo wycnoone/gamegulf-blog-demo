@@ -1,93 +1,94 @@
 ---
-title: "Comprar Super Mario Bros. Wonder no Nintendo Switch agora ou esperar?"
-description: "Um guia de preço e compatibilidade para Super Mario Bros. Wonder — os ganchos das Wonder Flowers, co-op, mínimas regionais de março de 2026, performance no Switch e quando comprar versus rastrear."
+title: Comprar Super Mario Bros. Wonder no Nintendo Switch agora ou esperar?
+description: Um guia de preço e compatibilidade para Super Mario Bros. Wonder — os ganchos das Wonder Flowers, co-op, mínimas regionais de março de 2026, performance no Switch e quando comprar versus rastrear.
 publishedAt: "2026-03-21"
 updatedAt: "2026-03-31"
-category: "buy-now-or-wait"
-gameTitle: "Super Mario Bros. Wonder"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "8 min de leitura"
-decision: "Compre Super Mario Bros. Wonder agora se você quer um 2D Mario polido em breve — especialmente com co-op local. Espere e rastreie se você está puramente otimizando gastos e sua região ainda está com preço alto."
-priceSignal: "Os preços regionais variam muito; consulte o GameGulf para a melhor oferta na sua região de eShop."
-heroStat: "92 Metacritic"
-heroNote: "Um Mario 2D moderno construído em torno de set-pieces das Wonder Flowers, badges e uma das melhores legibilidades de co-op local dos últimos anos."
-badge: "Buy / Wait"
-verdict: "buy_now"
-priceCall: "buy"
-confidence: "high"
-actionBucket: "buy_now"
+category: buy-now-or-wait
+gameTitle: Super Mario Bros. Wonder
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 8 min de leitura
+decision: Compre Super Mario Bros. Wonder agora se você quer um 2D Mario polido em breve — especialmente com co-op local. Espere e rastreie se você está puramente otimizando gastos e sua região ainda está com preço alto.
+priceSignal: Os preços regionais variam muito; consulte o GameGulf para a melhor oferta na sua região de eShop.
+heroStat: 92 Metacritic
+heroNote: Um Mario 2D moderno construído em torno de set-pieces das Wonder Flowers, badges e uma das melhores legibilidades de co-op local dos últimos anos.
+badge: Buy / Wait
+verdict: buy_now
+priceCall: buy
+confidence: high
+actionBucket: buy_now
 featuredPriority: 4
-listingTakeaway: "Mario 2D preciso com enorme charme de co-op — os preços variam significativamente por região de eShop, então compare antes de comprar."
-whatItIs: "Mario side-scrolling com efeitos Wonder, loadouts de badges, papéis assistentes de Yoshi/Nabbit e co-op local para até quatro jogadores."
-bestFor: "Famílias, duplas de co-op e jogadores que querem plataforma premium da Nintendo em sessões curtas."
-avoidIf: "Evite se você só compra RPGs de 80 horas ou se recusa a pagar fora de território de desconto profundo sem uma promoção forte."
-consensusPraise: "Fases inventivas, animação expressiva e co-op acessível sem simplificar a movimentação."
-mainFriction: "Duração total é modesta se você corre solo — o valor está na qualidade artesanal, não no tamanho do mapa."
-timeFit: "Ideal para sessões de 20–40 minutos; fácil de retomar entre outros jogos."
-fitLabel: "Jogadores que querem plataforma polida e jogo compartilhado mais do que escala de mundo aberto."
-timingNote: "Quando sua linha na eShop já está perto da mínima global indexada, esperar oferece retornos decrescentes."
-communityVibe: "As flores falantes narram sua vida agora"
-playtime: "Roughly 10–15h main path; 20h+ with extras"
-reviewSignal: "92 Metacritic"
-takeaway: "Super Mario Bros. Wonder é uma compra fácil quando você quer Mario 2D moderno logo — verifique seu preço regional porque as mínimas variam enormemente entre eShops."
-playStyle: "Fluxo clássico de correr-e-pular com espetáculo das Wonder Flowers, Wonder Seeds colecionáveis, modificadores de badges e silhuetas online opcionais."
-timeCommitment: "Uma campanha focada — não um épico de cem horas — com valor de replay em segredos, badges e experimentação co-op."
-playMode: "Co-op local com até quatro pessoas em um sistema; co-op online e dicas assíncronas via standees."
-whyNow: "Dados de março de 2026 ainda mostram spread dramático entre regiões baratas e regiões com preço cheio para esse lançamento."
-currentDeal: "Os preços variam por região de eShop. Consulte o GameGulf para o melhor preço atual na sua região."
-nearHistoricalLow: "Alguns preços regionais de eShop ficam bem abaixo dos níveis típicos de EUA/UE para um Mario platformer carro-chefe — confirme que o preço corresponde à sua rota de compra antes de tratá-lo como seu preço."
-salePattern: "Entra em promoções amplas da Nintendo; a profundidade depende do território, então limites de alerta ajudam contas dos EUA e JP."
-priceRecommendation: "buy"
+listingTakeaway: Mario 2D preciso com enorme charme de co-op — os preços variam significativamente por região de eShop, então compare antes de comprar.
+whatItIs: Mario side-scrolling com efeitos Wonder, loadouts de badges, papéis assistentes de
+bestFor: Famílias, duplas de co-op e jogadores que querem plataforma
+avoidIf: Evite se você só compra RPGs de 80 horas ou se recusa a pagar fora de
+consensusPraise: Fases inventivas, animação expressiva e co-op acessível sem simplificar a
+mainFriction: Duração total é modesta se você corre solo — o valor está na qualidade artesanal
+timeFit: Ideal para sessões de 20–40 minutos; fácil de retomar entre outros jogos.
+fitLabel: Jogadores que querem plataforma polida e jogo compartilhado mais do que
+timingNote: Quando sua linha na eShop já está perto da mínima global indexada, esperar oferece retornos decrescentes.
+communityVibe: As flores falantes narram sua vida agora
+playtime: Roughly 10–15h main path; 20h+ with extras
+reviewSignal: 92 Metacritic
+takeaway: Super Mario Bros. Wonder é uma compra fácil quando você quer Mario 2D moderno logo — verifique seu preço regional porque as mínimas variam enormemente entre eShops.
+playStyle: Fluxo clássico de correr-e-pular com espetáculo das Wonder Flowers, Wonder Seeds colecionáveis, modificadores de badges e silhuetas online opcionais.
+timeCommitment: Uma campanha focada — não um épico de cem horas — com valor de replay em segredos, badges e experimentação co-op.
+playMode: Co-op local com até quatro pessoas em um sistema; co-op online e dicas assíncronas via standees.
+whyNow: Dados de março de 2026 ainda mostram spread dramático entre regiões baratas e regiões com preço cheio para esse lançamento.
+currentDeal: Os preços variam por região de eShop. Consulte o GameGulf para o melhor preço atual na sua região.
+nearHistoricalLow: Alguns preços regionais de eShop ficam bem abaixo dos níveis típicos de EUA/UE para um Mario platformer carro-chefe — confirme que o preço corresponde à sua rota de compra antes de tratá-lo como seu preço.
+salePattern: Entra em promoções amplas da Nintendo; a profundidade depende do território, então limites de alerta ajudam contas dos EUA e JP.
+priceRecommendation: buy
 quickFilters:
-  - "co_op"
-  - "family_friendly"
-  - "great_on_sale"
+  - co_op
+  - family_friendly
+  - great_on_sale
 playerNeeds:
-  - "buy_now"
-  - "beginner_friendly"
+  - buy_now
+  - beginner_friendly
 playerVoices:
-  - quote: "Cada fase parece uma ideia nova que nunca fica tempo demais"
-    sentiment: "positive"
-  - quote: "Melhor Mario co-op de sofá em anos"
-    sentiment: "positive"
-  - quote: "Os momentos de Wonder Flower são genuinamente surpreendentes"
-    sentiment: "positive"
-  - quote: "Combos de badges mudaram completamente como eu rejogo as fases"
-    sentiment: "positive"
-  - quote: "Um pouco curto se você passa correndo no modo solo"
-    sentiment: "negative"
-  - quote: "Não tem tanto desafio no endgame quanto alguns jogadores queriam"
-    sentiment: "negative"
+  - quote: Cada fase parece uma ideia nova que nunca fica tempo demais
+    sentiment: positive
+  - quote: Melhor Mario co-op de sofá em anos
+    sentiment: positive
+  - quote: Os momentos de Wonder Flower são genuinamente surpreendentes
+    sentiment: positive
+  - quote: Combos de badges mudaram completamente como eu rejogo as fases
+    sentiment: positive
+  - quote: Um pouco curto se você passa correndo no modo solo
+    sentiment: negative
+  - quote: Não tem tanto desafio no endgame quanto alguns jogadores queriam
+    sentiment: negative
 communityMemes:
-  - "Energia de Mario Elefante"
-  - "As flores falantes não param"
-  - "Caos de Wonder Flower em toda fase"
-  - "Combos de badges que você nem sabia que existiam"
-tldr: "Super Mario Bros. Wonder vale a pena a 17 € no Switch — um Mario 2D com 92 no Metacritic, ideal para famílias e coop."
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
-gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg"
-heroTheme: "brand"
+  - Energia de Mario Elefante
+  - As flores falantes não param
+  - Caos de Wonder Flower em toda fase
+  - Combos de badges que você nem sabia que existiam
+tldr: Super Mario Bros. Wonder vale a pena a 17 € no Switch — um Mario 2D com 92 no Metacritic, ideal para famílias e coop.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/byr07mi5hyW#currency-price
+gameHref: https://www.gamegulf.com/detail/byr07mi5hyW
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg
+heroTheme: brand
 tags:
-  - "super mario bros wonder switch"
-  - "mario wonder comprar ou esperar"
-  - "mario wonder preço"
-  - "mario 2d switch"
+  - super mario bros wonder switch
+  - mario wonder comprar ou esperar
+  - mario wonder preço
+  - mario 2d switch
 faq:
-  - question: "Vale a pena comprar Super Mario Bros. Wonder no Nintendo Switch em 2026?"
-    answer: "Super Mario Bros. Wonder vale a pena comprar em 2026 se você quer um Mario 2D polido com co-op forte e fases inventivas. Os preços variam significativamente por região de eShop — consulte o GameGulf para o preço atual na sua região antes de assumir qualquer número de manchete."
-  - question: "Quanto tempo leva para zerar Super Mario Bros. Wonder?"
-    answer: "Super Mario Bros. Wonder leva aproximadamente 10–15 horas para uma run do caminho principal e cerca de 20+ horas se você buscar Wonder Seeds, saídas secretas e experimentação com badges. Co-op pode estender o tempo de jogo através de exploração compartilhada."
-  - question: "Como Super Mario Bros. Wonder roda no Nintendo Switch?"
-    answer: "Super Mario Bros. Wonder mira 60 fps no Switch durante gameplay nos modos TV e portátil, com arte 2D nítida e efeitos legíveis mesmo quando transformações Wonder enchem a tela. Performance é um ponto forte, não uma preocupação, para esse lançamento."
-  - question: "Super Mario Bros. Wonder é bom para crianças ou co-op de habilidades mistas?"
-    answer: "Super Mario Bros. Wonder suporta papéis mais fáceis como Yoshi e Nabbit para jogadores que querem evitar dano, enquanto badges permitem ajustar assistências de pulo ou opções de segurança. Isso o torna uma das melhores escolhas da Nintendo para co-op com habilidades desiguais."
-  - question: "Devo esperar um desconto mais profundo em Super Mario Bros. Wonder?"
-    answer: "Super Mario Bros. Wonder recompensa esperar apenas se sua loja regional ainda está cara e você não está ansioso para jogar logo. Se sua linha já está perto da mínima global indexada, esperar por uma oferta dramaticamente melhor pode não valer a pena."
+  - question: Vale a pena comprar Super Mario Bros. Wonder no Nintendo Switch em 2026?
+    answer: Super Mario Bros. Wonder vale a pena comprar em 2026 se você quer um Mario 2D polido com co-op forte e fases inventivas. Os preços variam significativamente por região de eShop — consulte o GameGulf para o preço atual na sua região antes de assumir qualquer número de manchete.
+  - question: Quanto tempo leva para zerar Super Mario Bros. Wonder?
+    answer: Super Mario Bros. Wonder leva aproximadamente 10–15 horas para uma run do caminho principal e cerca de 20+ horas se você buscar Wonder Seeds, saídas secretas e experimentação com badges. Co-op pode estender o tempo de jogo através de exploração compartilhada.
+  - question: Como Super Mario Bros. Wonder roda no Nintendo Switch?
+    answer: Super Mario Bros. Wonder mira 60 fps no Switch durante gameplay nos modos TV e portátil, com arte 2D nítida e efeitos legíveis mesmo quando transformações Wonder enchem a tela. Performance é um ponto forte, não uma preocupação, para esse lançamento.
+  - question: Super Mario Bros. Wonder é bom para crianças ou co-op de habilidades mistas?
+    answer: Super Mario Bros. Wonder suporta papéis mais fáceis como Yoshi e Nabbit para jogadores que querem evitar dano, enquanto badges permitem ajustar assistências de pulo ou opções de segurança. Isso o torna uma das melhores escolhas da Nintendo para co-op com habilidades desiguais.
+  - question: Devo esperar um desconto mais profundo em Super Mario Bros. Wonder?
+    answer: Super Mario Bros. Wonder recompensa esperar apenas se sua loja regional ainda está cara e você não está ansioso para jogar logo. Se sua linha já está perto da mínima global indexada, esperar por uma oferta dramaticamente melhor pode não valer a pena.
 ---
+
 ## Veredito rápido
 
 **Super Mario Bros. Wonder é um jogo de "compre quando você realmente quiser jogar"** — a qualidade não é o debate. O debate é se você está pagando o preço da **sua** região ou o screenshot viral de outra pessoa.

@@ -92,13 +92,26 @@ featuredPriority: 1  # Lower = more prominent; 999 = default
 # ── GEO direct answer (renders as "Quick Answer" box above article) ──
 tldr: "Max 160 chars. One sentence directly answering the title question. Must start with game name, include verdict, and one concrete detail."
 
-# ── Pricing metadata (used by cards; article body should use markdown tables) ──
+# ── Pricing metadata (used by cards + locale-adaptive body pricing sync) ──
 cardPrice: "USD 21.31"  # converted display only for this locale's card
 cardPriceRegion: "Japan"  # localized region label
 cardPriceEur: 19.14
 cardPriceNative: "¥3,520"
 cardPriceNativeCurrency: "JPY"
 cardPriceRegionCode: "JP"
+priceRows:  # source of truth for the body pricing table; 5-8 rows, cheapest first, no Argentina
+  - regionCode: "JP"
+    eurPrice: 19.14
+    nativePrice: "¥3,520"
+    nativeCurrency: "JPY"
+  - regionCode: "HK"
+    eurPrice: 25.25
+    nativePrice: "HK$228"
+    nativeCurrency: "HKD"
+  - regionCode: "US"
+    eurPrice: 26.03
+    nativePrice: "$29.99"
+    nativeCurrency: "USD"
 
 # ── Card display fields (SEO — respect character limits) ──
 listingTakeaway: "Max 96 chars. A micro-decision that makes readers click through."
@@ -178,6 +191,11 @@ The article body is the primary GEO content. Every section must be written so AI
 1. Match the section to a user's question
 2. Extract the first 1-2 sentences as a standalone answer
 3. Cite the answer with attribution to the page
+
+Important pricing workflow:
+- The model MUST output `priceRows` in frontmatter.
+- The model should write the pricing paragraph and discount-history analysis, but NOT hand-calculate the markdown price table.
+- After synthesis, run `node scripts/sync-article-pricing.mjs <file...>` to inject the locale-adaptive markdown table under the pricing H2 from `priceRows`.
 
 ### GEO writing rules for article body
 

@@ -8,12 +8,17 @@
     "preview": "astro preview",
     "astro": "astro",
     "brief": "node scripts/extract-game-brief.mjs",
-    "brief:batch": "node scripts/batch-extract.mjs"
+    "brief:batch": "node scripts/batch-extract.mjs",
+    "pricing:sync": "node scripts/sync-price-tables.mjs",
+    "fix:limits": "node scripts/auto-fix-char-limits.mjs",
+    "validate:all": "node scripts/validate-article.mjs src/content/posts/*/*.md",
+    "prebuild": "npm run pricing:sync && npm run fix:limits"
   },
   "dependencies": {
-    "astro": "^5.7.10",
     "@astrojs/react": "^4.2.1",
     "@astrojs/sitemap": "^3.3.1",
+    "astro": "^5.7.10",
+    "js-yaml": "^4.1.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0"
   },

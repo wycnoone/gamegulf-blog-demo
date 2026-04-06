@@ -1,98 +1,99 @@
 ---
-title: "Lohnt sich Figment auf der Nintendo Switch im Jahr 2026?"
-description: "Switch-Kaufratgeber für Figment — Spielereignung, ~5 Stunden Spielzeit, Performance und ob der aktuelle Japan-geführte Tiefstpreis den Kauf rechtfertigt."
+title: Lohnt sich Figment auf der Nintendo Switch im Jahr 2026?
+description: Switch-Kaufratgeber für Figment — Spielereignung, ~5 Stunden Spielzeit, Performance und ob der aktuelle Japan-geführte Tiefstpreis den Kauf rechtfertigt.
 publishedAt: "2026-03-31"
 updatedAt: "2026-03-31"
-category: "worth-it"
-gameTitle: "Figment"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "7 Min. Lesezeit"
-decision: "Kaufen, wenn Sie ein kurzes, musikgetriebenes Puzzle-Abenteuer mit starker Grafik wollen. Passen, wenn Sie tiefgreifenden Kampf, sehr lange Kampagnen oder glasklar geführte Rätsel brauchen."
-priceSignal: "Globaler Tiefstpreis bei etwa €0,55 im japanischen eShop (digital). Dieser Titel hat oft große Preisunterschiede zwischen Regionen — vergleichen Sie vor dem Kauf."
-heroStat: "75 Metacritic"
-heroNote: "Bedtime Digitals handgemalter Action-Puzzler — Identität entsteht durch Musik und Bosse, nicht durch Kampftiefe."
-badge: "Worth It"
-verdict: "buy_now"
-priceCall: "buy"
-confidence: "high"
-actionBucket: "buy_now"
+category: worth-it
+gameTitle: Figment
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 7 Min. Lesezeit
+decision: Kaufen, wenn Sie ein kurzes, musikgetriebenes Puzzle-Abenteuer mit starker Grafik wollen. Passen, wenn Sie tiefgreifenden Kampf, sehr lange Kampagnen oder glasklar geführte Rätsel brauchen.
+priceSignal: Globaler Tiefstpreis bei etwa €0,55 im japanischen eShop (digital). Dieser Titel hat oft große Preisunterschiede zwischen Regionen — vergleichen Sie vor dem Kauf.
+heroStat: 75 Metacritic
+heroNote: Bedtime Digitals handgemalter Action-Puzzler — Identität entsteht durch Musik und Bosse, nicht durch Kampftiefe.
+badge: Worth It
+verdict: buy_now
+priceCall: buy
+confidence: high
+actionBucket: buy_now
 featuredPriority: 4
-listingTakeaway: "Musikalischer Puzzler mit 75er-Wertung zum Tiefstpreis — geringes Risiko, wenn stimmungsvolle Abenteuer zu Ihnen passen."
-whatItIs: "Surrealer Gedankenwelt-Puzzler: handgemalte Grafik, musikgetriebene Bosse, leichter Schwertkampf."
-bestFor: "Spieler, die ~5 Stunden stimmungsgeladene Rätsel wollen, nicht tiefgreifenden Kampf."
-avoidIf: "Passen, wenn Sie lange Kampagnen, harten Kampf oder ultraklare Hinweise brauchen."
-consensusPraise: "Grafik, dynamischer Score und singende Bosskämpfe bleiben als Erstes in Erinnerung."
-mainFriction: "Der Kampf bleibt simpel; manche Rätsel sind vage; die Switch kann zwischen Bereichen ruckeln."
-timeFit: "Ein Wochenende oder ein paar Kopfhörer-Handheld-Sessions — ungefähr fünf Stunden Kerninhalt."
-fitLabel: "Stimmungs-orientierte Puzzle-Fans, die Grafik und Soundtrack über Spielsysteme stellen."
-timingNote: "Wenn der globale Tiefstpreis so niedrig ist, ist Neugier billig zu stillen."
-communityVibe: "Singende Albträume, Trompetenbäume, pure Kopfhörer-Spiel-Energie."
-playtime: "~5h story, ~6.5h completionist"
-reviewSignal: "75 Metacritic"
-takeaway: "Figment ist ein kleines Spiel mit einer lauten Persönlichkeit — bei den aktuellen Tiefstpreisen sind seine Grenzen leicht zu verzeihen."
-playStyle: "Surreale Gedanken-Distrikte erkunden, Umgebungsrätsel lösen, leichter Nahkampf, musikalische Bosskämpfe."
-timeCommitment: "HowLongToBeat-ähnliche Daten setzen die Hauptstory bei etwa fünf Stunden an; Komplettisten-Durchläufe landen näher bei sechseinhalb Stunden."
-playMode: "Einzelspieler."
-whyNow: "Tiefe regionale Rabatte schaffen das klassische Probier-es-für-fast-nichts-Fenster."
-currentDeal: "Globaler Tiefstpreis bei etwa €0,55 im japanischen eShop (digital); andere Regionen variieren — live vergleichen vor dem Kauf."
-nearHistoricalLow: "Yes — €0.55-tier pricing matches the strongest discounts this title usually hits."
-salePattern: "Figment is discounted often; at aggressive lows, waiting rarely saves much versus the time cost."
-priceRecommendation: "buy"
+listingTakeaway: Musikalischer Puzzler mit 75er-Wertung zum Tiefstpreis — geringes Risiko, wenn stimmungsvolle Abenteuer zu Ihnen passen.
+whatItIs: "Surrealer Gedankenwelt-Puzzler: handgemalte Grafik, musikgetriebene Bosse, leichter"
+bestFor: Spieler, die ~5 Stunden stimmungsgeladene Rätsel wollen
+avoidIf: Passen, wenn Sie lange Kampagnen, harten Kampf oder ultraklare Hinweise
+consensusPraise: Grafik, dynamischer Score und singende Bosskämpfe bleiben als Erstes in
+mainFriction: Der Kampf bleibt simpel; manche Rätsel sind vage; die Switch kann zwischen
+timeFit: Ein Wochenende oder ein paar Kopfhörer-Handheld-Sessions — ungefähr fünf Stunden
+fitLabel: Stimmungs-orientierte Puzzle-Fans, die Grafik und Soundtrack über
+timingNote: Wenn der globale Tiefstpreis so niedrig ist, ist Neugier billig zu stillen.
+communityVibe: Singende Albträume, Trompetenbäume, pure Kopfhörer-Spiel-Energie.
+playtime: ~5h story, ~6.5h completionist
+reviewSignal: 75 Metacritic
+takeaway: Figment ist ein kleines Spiel mit einer lauten Persönlichkeit — bei den aktuellen Tiefstpreisen sind seine Grenzen leicht zu verzeihen.
+playStyle: Surreale Gedanken-Distrikte erkunden, Umgebungsrätsel lösen, leichter Nahkampf, musikalische Bosskämpfe.
+timeCommitment: HowLongToBeat-ähnliche Daten setzen die Hauptstory bei etwa fünf Stunden an; Komplettisten-Durchläufe landen näher bei sechseinhalb Stunden.
+playMode: Einzelspieler.
+whyNow: Tiefe regionale Rabatte schaffen das klassische Probier-es-für-fast-nichts-Fenster.
+currentDeal: Globaler Tiefstpreis bei etwa €0,55 im japanischen eShop (digital); andere Regionen variieren — live vergleichen vor dem Kauf.
+nearHistoricalLow: Yes — €0.55-tier pricing matches the strongest discounts this title usually hits.
+salePattern: Figment is discounted often; at aggressive lows, waiting rarely saves much versus the time cost.
+priceRecommendation: buy
 quickFilters:
-  - "great_on_sale"
-  - "under_20"
-  - "short_sessions"
+  - great_on_sale
+  - under_20
+  - short_sessions
 playerNeeds:
-  - "buy_now"
-  - "casual"
-  - "value_for_money"
+  - buy_now
+  - casual
+  - value_for_money
 tags:
-  - "figment switch kaufen"
-  - "figment lohnt sich 2026"
-  - "figment switch test"
-  - "kurze switch abenteuerspiele"
-  - "bedtime digital figment"
+  - figment switch kaufen
+  - figment lohnt sich 2026
+  - figment switch test
+  - kurze switch abenteuerspiele
+  - bedtime digital figment
 playerVoices:
   - quote: "Konsens: Der Soundtrack und die Boss-Songs sind der Hauptgrund zu spielen."
-    sentiment: "positive"
+    sentiment: positive
   - quote: "Konsens: Handgemalte Grafik und Weltdesign wirken hochwertiger als der Preis vermuten lässt."
-    sentiment: "positive"
+    sentiment: positive
   - quote: "Konsens: Die fünfstündige Spielzeit ist ein Feature für Spieler mit Backlog-Stress."
-    sentiment: "positive"
+    sentiment: positive
   - quote: "Häufige Kritik: Der Kampf wird nie zum Star des Erlebnisses."
-    sentiment: "negative"
+    sentiment: negative
   - quote: "Häufige Kritik: Einige Rätsel haben ohne Guide keine klare Richtung."
-    sentiment: "negative"
+    sentiment: negative
   - quote: "Gemischte Berichte: Gelegentliche Frame-Drops und Ladezeiten zwischen Bereichen auf der Switch, hauptsächlich im späteren Spielverlauf."
-    sentiment: "mixed"
+    sentiment: mixed
 communityMemes:
-  - "Die Albträume sollten musikalisch nicht so gut sein"
-  - "Dusty ist Mut im Streik, Piper trägt die Stimmung"
-  - "Trompetenbäume sind keine Phase"
-  - "Es ist zuerst ein Kopfhörer-Spiel"
-  - "Figment 1 vor Figment 2 — der Bundle-Kaninchenbau"
-tldr: "Figment ist ein risikoloser Kauf unter 1 € — ein 5-Stunden-Musikpuzzle für Atmosphäre-Liebhaber."
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
-gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/17409875715241128812355.jpeg"
-heroTheme: "brand"
+  - Die Albträume sollten musikalisch nicht so gut sein
+  - Dusty ist Mut im Streik, Piper trägt die Stimmung
+  - Trompetenbäume sind keine Phase
+  - Es ist zuerst ein Kopfhörer-Spiel
+  - Figment 1 vor Figment 2 — der Bundle-Kaninchenbau
+tldr: Figment ist ein risikoloser Kauf unter 1 € — ein 5-Stunden-Musikpuzzle für Atmosphäre-Liebhaber.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price
+gameHref: https://www.gamegulf.com/detail/hZKMhNbPlWw
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: https://cdn.gamegulf.com/upload/17409875715241128812355.jpeg
+heroTheme: brand
 faq:
-  - question: "Lohnt sich Figment auf der Nintendo Switch im Jahr 2026?"
-    answer: "Figment lohnt sich auf der Switch, wenn Sie ein kurzes, stilvolles Puzzle-Abenteuer wollen, das auf Musik und Grafik aufbaut, und Sie mit leichtgewichtigem Kampf einverstanden sind. Stand März 2026 zeigt GameGulf einen globalen Tiefstpreis von etwa €0,55 im japanischen eShop, was den Kauf zu einem sehr geringen Risiko macht."
-  - question: "Wie lange dauert es, Figment durchzuspielen?"
-    answer: "Figment dauert etwa fünf Stunden für einen fokussierten Hauptstory-Durchlauf. Komplettisten-ähnliche Durchläufe mit Extras landen oft näher bei sechseinhalb Stunden, je nach Rätsel-Tempo."
-  - question: "Wie läuft Figment auf der Nintendo Switch?"
-    answer: "Figment läuft auf der Switch gut genug für ein gemächliches Puzzle-Abenteuer — sowohl im Dock- als auch im Handheld-Modus kommt die Grafik-Richtung zur Geltung. Einige Spieler berichten von gelegentlichen Frame-Drops und spürbaren Ladezeiten zwischen Bereichen, besonders im späteren Spielverlauf."
-  - question: "Was für ein Spiel ist Figment?"
+  - question: Lohnt sich Figment auf der Nintendo Switch im Jahr 2026?
+    answer: Figment lohnt sich auf der Switch, wenn Sie ein kurzes, stilvolles Puzzle-Abenteuer wollen, das auf Musik und Grafik aufbaut, und Sie mit leichtgewichtigem Kampf einverstanden sind. Stand März 2026 zeigt GameGulf einen globalen Tiefstpreis von etwa €0,55 im japanischen eShop, was den Kauf zu einem sehr geringen Risiko macht.
+  - question: Wie lange dauert es, Figment durchzuspielen?
+    answer: Figment dauert etwa fünf Stunden für einen fokussierten Hauptstory-Durchlauf. Komplettisten-ähnliche Durchläufe mit Extras landen oft näher bei sechseinhalb Stunden, je nach Rätsel-Tempo.
+  - question: Wie läuft Figment auf der Nintendo Switch?
+    answer: Figment läuft auf der Switch gut genug für ein gemächliches Puzzle-Abenteuer — sowohl im Dock- als auch im Handheld-Modus kommt die Grafik-Richtung zur Geltung. Einige Spieler berichten von gelegentlichen Frame-Drops und spürbaren Ladezeiten zwischen Bereichen, besonders im späteren Spielverlauf.
+  - question: Was für ein Spiel ist Figment?
     answer: "Figment ist ein surreales Einzelspieler-Action-Abenteuer: Erkunden Sie gedankenthematische Distrikte, lösen Sie Umgebungsrätsel, bekämpfen Sie leichte Gegnerwellen und stellen Sie sich musikgetriebenen Bosskämpfen. Es ist eher eine stimmungsgeladene Puzzlereise als ein kampforientiertes Actionspiel."
-  - question: "Wer sollte Figment überspringen?"
-    answer: "Figment passt weniger gut zu Spielern, die lange Kampagnen, tiefe Kampfsysteme oder Rätsel wollen, die immer den nächsten Schritt klar aufzeigen. Der Reiz liegt in der Atmosphäre, der Musik und der kompakten Spielzeit."
-  - question: "Sollte man Figment vor Figment 2 spielen?"
-    answer: "Figment ist in sich abgeschlossen; Sie können mit Figment 2 beginnen, aber Figment zuerst zu spielen bewahrt den Story- und Weltkontext. Wenn Sie unsicher sind, vergleichen Sie die aktuellen regionalen Preise für beide Titel vor dem Kauf."
+  - question: Wer sollte Figment überspringen?
+    answer: Figment passt weniger gut zu Spielern, die lange Kampagnen, tiefe Kampfsysteme oder Rätsel wollen, die immer den nächsten Schritt klar aufzeigen. Der Reiz liegt in der Atmosphäre, der Musik und der kompakten Spielzeit.
+  - question: Sollte man Figment vor Figment 2 spielen?
+    answer: Figment ist in sich abgeschlossen; Sie können mit Figment 2 beginnen, aber Figment zuerst zu spielen bewahrt den Story- und Weltkontext. Wenn Sie unsicher sind, vergleichen Sie die aktuellen regionalen Preise für beide Titel vor dem Kauf.
 ---
+
 ## Schnelles Fazit
 
 **Figment lohnt sich auf der Nintendo Switch im Jahr 2026, wenn Sie ein kompaktes, kunstgetriebenes Abenteuer wollen, solange die globalen Preise so niedrig sind.** Es ist ein ~fünfstündiges Stimmungsstück, bei dem Musik und Boss-Inszenierung mehr zählen als Kampftiefe — leicht zu empfehlen, wenn der Preis im Impulskauf-Bereich liegt, schwerer zu rechtfertigen zum Vollpreis.

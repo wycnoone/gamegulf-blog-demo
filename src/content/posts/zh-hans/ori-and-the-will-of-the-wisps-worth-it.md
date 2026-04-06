@@ -1,125 +1,138 @@
 ---
-title: "《奥日与萤火意志》2026 年还值得在 Switch 上买吗？"
-description: "围绕《奥日与萤火意志》的 Switch 购买指南：区服价格、折扣节奏、12-18 小时时长、性能表现，以及该不该现在买。"
+title: 《奥日与萤火意志》2026 年还值得在 Switch 上买吗？
+description: 围绕《奥日与萤火意志》的 Switch 购买指南：区服价格、折扣节奏、12-18 小时时长、性能表现，以及该不该现在买。
 publishedAt: "2026-04-06"
 updatedAt: "2026-04-06"
-category: "worth-it"
-gameTitle: "奥日与萤火意志"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "7 分钟阅读"
-decision: "如果你想要的是手感极强、节奏流畅、情绪张力也在线的类银河恶魔城，《奥日与萤火意志》依然很值得买。更理性的做法通常是等等折扣，因为它在 Switch 上属于打折频率不低的那类游戏。"
-priceSignal: "截至 2026 年 4 月初，当前最便宜的区服是日服 €19.14（¥3,520），但历史低点曾到美服 €6.50。过去一年出现 5 次折扣，最近一次降价距今 27 天。"
-heroStat: "93 Metacritic"
-heroNote: "美术、音乐与动作手感都很强的一线动作平台游戏，也是 Switch 上口碑极稳的第三方移植之一。"
-badge: "值得买"
-verdict: "wait_for_sale"
-priceCall: "wait"
-confidence: "medium"
-actionBucket: "wait"
+category: worth-it
+gameTitle: 奥日与萤火意志
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 7 分钟阅读
+decision: >-
+  如果你想要的是手感极强、节奏流畅、情绪张力也在线的类银河恶魔城，《奥日与萤火意志》依然很值得买。更理性的做法通常是等等折扣，因为它在 Switch
+  上属于打折频率不低的那类游戏。
+priceSignal: >-
+  截至 2026 年 4 月初，当前最便宜的区服是日服 €19.14（¥3,520），但历史低点曾到美服 €6.50。过去一年出现 5
+  次折扣，最近一次降价距今 27 天。
+heroStat: 93 Metacritic
+heroNote: 美术、音乐与动作手感都很强的一线动作平台游戏，也是 Switch 上口碑极稳的第三方移植之一。
+badge: 值得买
+verdict: wait_for_sale
+priceCall: wait
+confidence: medium
+actionBucket: wait
 featuredPriority: 3
-listingTakeaway: "游戏本身很强，但折扣史太友好，更适合等下一波促销。"
-whatItIs: "类银河恶魔城动作平台游戏：高机动跑图、战斗成长、地图解锁。"
-bestFor: "喜欢高机动类银河恶魔城、想打 12-18 小时流程的玩家。"
-avoidIf: "不适合讨厌回溯、逃脱关卡，或不吃抒情奇幻氛围的玩家。"
-consensusPraise: "移动手感极强，画面华丽但不影响读图与操作。"
-mainFriction: "部分追逐段和难度尖峰，会劝退更想轻松推进的玩家。"
-timeFit: "很适合工作日晚间推进，20-40 分钟也能稳定拿到有效进度。"
-fitLabel: "想要精准平台跳跃、战斗成长和地图探索并重的玩家。"
-timingNote: "这是一款值得买的好游戏，但过去一年 5 次折扣说明等价位更划算。"
-communityVibe: "冲刺、钩锁、弹跳一串起来，整张地图 suddenly 就活了"
-playtime: "主线 12h，主线+支线 16h，完成向 18h"
-reviewSignal: "93 Metacritic"
-takeaway: "《奥日与萤火意志》是 Switch 上非常值得补的一线动作平台游戏，但从价格决策看，等折扣明显更聪明。"
-playStyle: "高速跑图、近远程战斗、能力成长、地图回溯与 Boss 战共同构成标准类银河恶魔城循环。"
-timeCommitment: "主线大约 12 小时，顺手做支线和探索通常会到 16 小时左右，接近全收集大约 18 小时。"
-playMode: "单人。"
-whyNow: "当前各区价格已经回到相对常规的位置，但它过去一年已经多次深折，所以现在不是最舒服的入手机会。"
-currentDeal: "当前最便宜的是日服 €19.14（¥3,520），其次是港服 €25.25，美服 €26.03。"
-nearHistoricalLow: "不是。当前最低价离近一年追踪到的美服 €6.50 历史低点还有明显差距。"
-salePattern: "《奥日与萤火意志》在 Switch 上属于规律性打折游戏：过去一年 5 次折扣，最近一次低点出现在 27 天前。"
-priceRecommendation: "wait"
+listingTakeaway: 游戏本身很强，但折扣史太友好，更适合等下一波促销。
+whatItIs: 类银河恶魔城动作平台游戏：高机动跑图、战斗成长、地图解锁。
+bestFor: 喜欢高机动类银河恶魔城、想打 12-18 小时流程的玩家。
+avoidIf: 不适合讨厌回溯、逃脱关卡，或不吃抒情奇幻氛围的玩家。
+consensusPraise: 移动手感极强，画面华丽但不影响读图与操作。
+mainFriction: 部分追逐段和难度尖峰，会劝退更想轻松推进的玩家。
+timeFit: 很适合工作日晚间推进，20-40 分钟也能稳定拿到有效进度。
+fitLabel: 想要精准平台跳跃、战斗成长和地图探索并重的玩家。
+timingNote: 这是一款值得买的好游戏，但过去一年 5 次折扣说明等价位更划算。
+communityVibe: 冲刺、钩锁、弹跳一串起来，整张地图 suddenly 就活了
+playtime: 主线 12h，主线+支线 16h，完成向 18h
+reviewSignal: 93 Metacritic
+takeaway: 《奥日与萤火意志》是 Switch 上非常值得补的一线动作平台游戏，但从价格决策看，等折扣明显更聪明。
+playStyle: 高速跑图、近远程战斗、能力成长、地图回溯与 Boss 战共同构成标准类银河恶魔城循环。
+timeCommitment: 主线大约 12 小时，顺手做支线和探索通常会到 16 小时左右，接近全收集大约 18 小时。
+playMode: 单人。
+whyNow: 当前各区价格已经回到相对常规的位置，但它过去一年已经多次深折，所以现在不是最舒服的入手机会。
+currentDeal: 当前最便宜的是日服 €19.14（¥3,520），其次是港服 €25.25，美服 €26.03。
+nearHistoricalLow: 不是。当前最低价离近一年追踪到的美服 €6.50 历史低点还有明显差距。
+salePattern: 《奥日与萤火意志》在 Switch 上属于规律性打折游戏：过去一年 5 次折扣，最近一次低点出现在 27 天前。
+priceRecommendation: wait
 quickFilters:
-  - "under_20"
-  - "great_on_sale"
-  - "short_sessions"
+  - under_20
+  - great_on_sale
+  - short_sessions
 playerNeeds:
-  - "wait_for_sale"
-  - "value_for_money"
+  - wait_for_sale
+  - value_for_money
 tags:
-  - "奥日与萤火意志 switch"
-  - "奥日与萤火意志 值得买吗"
-  - "ori switch 价格"
-  - "switch 类银河恶魔城 推荐"
-  - "奥日与萤火意志 通关时长"
+  - 奥日与萤火意志 switch
+  - 奥日与萤火意志 值得买吗
+  - ori switch 价格
+  - switch 类银河恶魔城 推荐
+  - 奥日与萤火意志 通关时长
 playerVoices:
-  - quote: "跑图手感顺得夸张，光是移动本身就很好玩"
-    sentiment: "positive"
-  - quote: "Boss 战和战斗系统比前作更完整，整体更像一部成熟续作"
-    sentiment: "positive"
-  - quote: "音乐和美术让普通探索段都很有记忆点"
-    sentiment: "positive"
-  - quote: "回溯本来就是玩法一部分，但不喜欢绕地图的人会烦"
-    sentiment: "negative"
-  - quote: "后段个别逃脱与操作要求，比画风给人的感觉更硬一点"
-    sentiment: "negative"
-  - quote: "情绪表达很足，但也有人会觉得它有点太满了"
-    sentiment: "mixed"
+  - quote: 跑图手感顺得夸张，光是移动本身就很好玩
+    sentiment: positive
+  - quote: Boss 战和战斗系统比前作更完整，整体更像一部成熟续作
+    sentiment: positive
+  - quote: 音乐和美术让普通探索段都很有记忆点
+    sentiment: positive
+  - quote: 回溯本来就是玩法一部分，但不喜欢绕地图的人会烦
+    sentiment: negative
+  - quote: 后段个别逃脱与操作要求，比画风给人的感觉更硬一点
+    sentiment: negative
+  - quote: 情绪表达很足，但也有人会觉得它有点太满了
+    sentiment: mixed
 communityMemes:
-  - "再拿一个移动能力就收手"
-  - "冲刺接弹跳接钩锁停不下来"
-  - "地图一开新路，脑子里的路线立刻重排"
-  - "美到想停下看，危险到不敢停"
-  - "Ori 逃脱段就是心率测试"
-tldr: "奥日与萤火意志在 Switch 上依然值得买，但它折扣频率高、历史低点低，等下一波促销通常更划算。"
-cardPrice: "CNY 152.15"
-cardPriceRegion: "日本"
+  - 再拿一个移动能力就收手
+  - 冲刺接弹跳接钩锁停不下来
+  - 地图一开新路，脑子里的路线立刻重排
+  - 美到想停下看，危险到不敢停
+  - Ori 逃脱段就是心率测试
+tldr: 奥日与萤火意志在 Switch 上依然值得买，但它折扣频率高、历史低点低，等下一波促销通常更划算。
+cardPrice: CNY 152.15
+cardPriceRegion: 日本
 cardPriceEur: 19.14
-cardPriceNative: "¥3,520"
-cardPriceNativeCurrency: "JPY"
-cardPriceRegionCode: "JP"
+cardPriceNative: ¥3,520
+cardPriceNativeCurrency: JPY
+cardPriceRegionCode: JP
 priceRows:
-  - regionCode: "JP"
+  - regionCode: JP
     eurPrice: 19.14
-    nativePrice: "¥3,520"
-    nativeCurrency: "JPY"
-  - regionCode: "HK"
+    nativePrice: ¥3,520
+    nativeCurrency: JPY
+  - regionCode: HK
     eurPrice: 25.25
-    nativePrice: "HK$228"
-    nativeCurrency: "HKD"
-  - regionCode: "US"
+    nativePrice: HK$228
+    nativeCurrency: HKD
+  - regionCode: US
     eurPrice: 26.03
-    nativePrice: "$29.99"
-    nativeCurrency: "USD"
-  - regionCode: "BR"
+    nativePrice: $29.99
+    nativeCurrency: USD
+  - regionCode: BR
     eurPrice: 28.26
-    nativePrice: "R$168"
-    nativeCurrency: "BRL"
-  - regionCode: "GB"
+    nativePrice: R$168
+    nativeCurrency: BRL
+  - regionCode: GB
     eurPrice: 28.64
-    nativePrice: "£24.99"
-    nativeCurrency: "GBP"
-  - regionCode: "DE"
+    nativePrice: £24.99
+    nativeCurrency: GBP
+  - regionCode: DE
     eurPrice: 29.99
-    nativePrice: "€29.99"
-    nativeCurrency: "EUR"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price"
-gameHref: "https://www.gamegulf.com/detail/9t3j1FNGEAF"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740987623931173309070.jpeg"
-heroTheme: "brand"
+    nativePrice: €29.99
+    nativeCurrency: EUR
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price
+gameHref: https://www.gamegulf.com/detail/9t3j1FNGEAF
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: https://cdn.gamegulf.com/upload/1740987623931173309070.jpeg
+heroTheme: brand
 faq:
-  - question: "《奥日与萤火意志》2026 年在 Switch 上还值得买吗？"
-    answer: "奥日与萤火意志在 2026 年依然值得在 Switch 上买，前提是你喜欢高机动跑图、地图探索与带一点情绪张力的动作平台体验。真正该犹豫的不是游戏质量，而是价格时机：它过去一年打折 5 次，所以多数玩家更适合等下一波促销。"
-  - question: "《奥日与萤火意志》通关要多久？"
-    answer: "奥日与萤火意志主线大约 12 小时，带上有意义的支线与探索通常会到 16 小时左右，接近完成向的流程大约 18 小时。"
-  - question: "《奥日与萤火意志》现在在 Switch 上多少钱？"
-    answer: "奥日与萤火意志在 2026 年 4 月初的最新追踪里，当前最低区服是日服，约 ¥3,520（€19.14）；港服约 €25.25，美服约 €26.03。因为它近一年历史低点曾到美服 €6.50，所以现在的价格并不算最佳入手位。"
-  - question: "《奥日与萤火意志》在 Switch 上运行表现怎么样？"
-    answer: "奥日与萤火意志在 Switch 上的移植口碑很好，整体以 60fps 体验为目标，并通过动态分辨率来优先保证操作流畅度。对一款强调冲刺、弹跳和连段移动的游戏来说，这一点非常关键。"
-  - question: "买《奥日与萤火意志》前要不要先看价格追踪？"
-    answer: "奥日与萤火意志很适合先看价格追踪，因为它是那种会规律性打折、而且低点和现价差距不小的游戏。你可以先去 GameGulf 看自己区服是否接近常见折扣位，再决定要不要现在下单。"
+  - question: 《奥日与萤火意志》2026 年在 Switch 上还值得买吗？
+    answer: >-
+      奥日与萤火意志在 2026 年依然值得在 Switch
+      上买，前提是你喜欢高机动跑图、地图探索与带一点情绪张力的动作平台体验。真正该犹豫的不是游戏质量，而是价格时机：它过去一年打折 5
+      次，所以多数玩家更适合等下一波促销。
+  - question: 《奥日与萤火意志》通关要多久？
+    answer: 奥日与萤火意志主线大约 12 小时，带上有意义的支线与探索通常会到 16 小时左右，接近完成向的流程大约 18 小时。
+  - question: 《奥日与萤火意志》现在在 Switch 上多少钱？
+    answer: >-
+      奥日与萤火意志在 2026 年 4 月初的最新追踪里，当前最低区服是日服，约 ¥3,520（€19.14）；港服约 €25.25，美服约
+      €26.03。因为它近一年历史低点曾到美服 €6.50，所以现在的价格并不算最佳入手位。
+  - question: 《奥日与萤火意志》在 Switch 上运行表现怎么样？
+    answer: >-
+      奥日与萤火意志在 Switch 上的移植口碑很好，整体以 60fps
+      体验为目标，并通过动态分辨率来优先保证操作流畅度。对一款强调冲刺、弹跳和连段移动的游戏来说，这一点非常关键。
+  - question: 买《奥日与萤火意志》前要不要先看价格追踪？
+    answer: >-
+      奥日与萤火意志很适合先看价格追踪，因为它是那种会规律性打折、而且低点和现价差距不小的游戏。你可以先去 GameGulf
+      看自己区服是否接近常见折扣位，再决定要不要现在下单。
 ---
 ## 快速结论
 

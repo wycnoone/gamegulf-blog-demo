@@ -1,72 +1,73 @@
 ---
-title: "Comprar INSIDE no Nintendo Switch agora ou esperar outra promoção?"
-description: "Um guia de preço de INSIDE para Switch, baseado no desconto profundo atual, comportamento de promoções e se essa obra-prima curta vale a pena comprar agora."
+title: Comprar INSIDE no Nintendo Switch agora ou esperar outra promoção?
+description: Um guia de preço de INSIDE para Switch, baseado no desconto profundo atual, comportamento de promoções e se essa obra-prima curta vale a pena comprar agora.
 publishedAt: "2026-03-23"
 updatedAt: "2026-03-23"
-category: "buy-now-or-wait"
-gameTitle: "INSIDE"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "7 min de leitura"
-decision: "Compre agora se você já sabe que quer um puzzle-platformer atmosférico curto e de alta qualidade. No nível de desconto profundo atual, esperar só se justifica se você não tem certeza de que o gênero combina com você ou se prefere jogos um pouco mais longos por real gasto."
-priceSignal: "INSIDE está com um desconto incomumente agressivo no Switch, com mínima global em torno de EUR 1,65 em Hong Kong e várias regiões europeias perto de EUR 2,29. Esse é o tipo de janela de preço que geralmente favorece comprar agora em vez de esperar."
-heroStat: "91 Metacritic"
-heroNote: "Um lançamento aclamado pela crítica da Playdead, conhecido pelo ritmo preciso, narrativa visual e um dos finais mais marcantes dos jogos indie modernos."
-communityVibe: "Uma obra-prima curta que os jogadores continuam recomendando para quem nunca jogou"
-playtime: "3h one-sitting thriller"
-actionBucket: "buy_now"
+category: buy-now-or-wait
+gameTitle: INSIDE
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 7 min de leitura
+decision: Compre agora se você já sabe que quer um puzzle-platformer atmosférico curto e de alta qualidade. No nível de desconto profundo atual, esperar só se justifica se você não tem certeza de que o gênero combina com você ou se prefere jogos um pouco mais longos por real gasto.
+priceSignal: INSIDE está com um desconto incomumente agressivo no Switch, com mínima global em torno de EUR 1,65 em Hong Kong e várias regiões europeias perto de EUR 2,29. Esse é o tipo de janela de preço que geralmente favorece comprar agora em vez de esperar.
+heroStat: 91 Metacritic
+heroNote: Um lançamento aclamado pela crítica da Playdead, conhecido pelo ritmo preciso, narrativa visual e um dos finais mais marcantes dos jogos indie modernos.
+communityVibe: Uma obra-prima curta que os jogadores continuam recomendando para quem nunca jogou
+playtime: 3h one-sitting thriller
+actionBucket: buy_now
 quickFilters:
-  - "under_20"
-  - "great_on_sale"
-  - "short_sessions"
-listingTakeaway: "Esse é o tipo de promoção profunda onde um jogo curto e aclamado se torna uma compra fácil se o gênero já combina com você."
-reviewSignal: "91 Metacritic"
-whatItIs: "Um destaque indie com nota 91 no Metacritic que usa narrativa visual, tensão e ritmo preciso para entregar uma das experiências de puzzle-platformer curtas mais marcantes do Switch."
-bestFor: "Jogadores que querem um puzzle atmosférico curto e valorizam mais a qualidade do que a duração."
-avoidIf: "Evite se você compra jogos principalmente pela duração longa, sistemas de progressão profundos ou ciclos de rejogabilidade."
-consensusPraise: "Elogiado pela atmosfera, coesão e um dos finais mais marcantes dos jogos indie modernos."
-mainFriction: "A duração curta é a principal hesitação se você julga valor principalmente por horas."
-timeFit: "Fácil de terminar em uma ou duas noites e ainda satisfatório em sessões mais curtas."
-priceCall: "buy"
-currentDeal: "Uma janela de promoção muito agressiva, com mínima global perto de EUR 1,65 e várias regiões perto de EUR 2,29."
-nearHistoricalLow: "Sim, já está no tipo de ponto baixo que muda a decisão de curiosidade para ação."
-salePattern: "A queda atual é muito mais convincente do que uma promoção simbólica, então esperar dificilmente vai economizar muito mais."
-confidence: "high"
-priceRecommendation: "buy"
-coverImage: "https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg"
-badge: "Buy / Wait"
-heroTheme: "dark"
+  - under_20
+  - great_on_sale
+  - short_sessions
+listingTakeaway: Esse é o tipo de promoção profunda onde um jogo curto e aclamado se torna uma compra fácil se o gênero já combina com você.
+reviewSignal: 91 Metacritic
+whatItIs: Um destaque indie com nota 91 no Metacritic que usa narrativa visual, tensão e ritmo
+bestFor: Jogadores que querem um puzzle atmosférico curto e
+avoidIf: Evite se você compra jogos principalmente pela duração longa, sistemas
+consensusPraise: Elogiado pela atmosfera, coesão e um dos finais mais marcantes dos jogos indie
+mainFriction: A duração curta é a principal hesitação se você julga valor principalmente por
+timeFit: Fácil de terminar em uma ou duas noites e ainda satisfatório em sessões mais
+priceCall: buy
+currentDeal: Uma janela de promoção muito agressiva, com mínima global perto de EUR 1,65 e várias regiões perto de EUR 2,29.
+nearHistoricalLow: Sim, já está no tipo de ponto baixo que muda a decisão de curiosidade para ação.
+salePattern: A queda atual é muito mais convincente do que uma promoção simbólica, então esperar dificilmente vai economizar muito mais.
+confidence: high
+priceRecommendation: buy
+coverImage: https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg
+badge: Buy / Wait
+heroTheme: dark
 playerVoices:
-  - quote: "Um dos poucos jogos onde eu fiquei imóvel depois dos créditos"
-    sentiment: "positive"
-  - quote: "Curto, mas cada segundo é projetado com precisão cirúrgica"
-    sentiment: "positive"
-  - quote: "O final ainda mora de graça na minha cabeça"
-    sentiment: "positive"
-  - quote: "Terminei de uma sentada e queria mais"
-    sentiment: "mixed"
-  - quote: "Difícil justificar no preço cheio se você mede valor só por horas"
-    sentiment: "negative"
+  - quote: Um dos poucos jogos onde eu fiquei imóvel depois dos créditos
+    sentiment: positive
+  - quote: Curto, mas cada segundo é projetado com precisão cirúrgica
+    sentiment: positive
+  - quote: O final ainda mora de graça na minha cabeça
+    sentiment: positive
+  - quote: Terminei de uma sentada e queria mais
+    sentiment: mixed
+  - quote: Difícil justificar no preço cheio se você mede valor só por horas
+    sentiment: negative
 communityMemes:
-  - "O final do blob explicado (ou não)"
-  - "Aquela sequência de perseguição debaixo d'água"
+  - O final do blob explicado (ou não)
+  - Aquela sequência de perseguição debaixo d'água
   - "Fãs da Playdead: LIMBO vs INSIDE debate eterno"
-  - "3 horas que batem mais forte que a maioria dos jogos de 60 horas"
-tldr: "INSIDE é compra fácil por menos de 2 € — puzzle atmosférico com 91 no Metacritic que dá para zerar numa noite."
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price"
-gameHref: "https://www.gamegulf.com/detail/2GhXVp3lBzO"
-membershipHref: "https://www.gamegulf.com/pricing"
+  - 3 horas que batem mais forte que a maioria dos jogos de 60 horas
+tldr: INSIDE é compra fácil por menos de 2 € — puzzle atmosférico com 91 no Metacritic que dá para zerar numa noite.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price
+gameHref: https://www.gamegulf.com/detail/2GhXVp3lBzO
+membershipHref: https://www.gamegulf.com/pricing
 tags:
-  - "inside switch promoção"
-  - "inside comprar agora ou esperar"
-  - "alerta de preço switch"
+  - inside switch promoção
+  - inside comprar agora ou esperar
+  - alerta de preço switch
 faq:
-  - question: "Vale a pena comprar INSIDE no Switch pelo preço atual?"
-    answer: "Sim, se você quer um platformer atmosférico curto mas excepcional. Com base nos dados de preços regionais do GameGulf, a faixa de desconto profundo atual significa que o risco é baixo e o nível de qualidade é alto."
-  - question: "Devo esperar INSIDE cair ainda mais?"
-    answer: "Só se você não tem certeza de que o gênero combina com você. O desconto atual já é forte o suficiente para que a maioria dos jogadores interessados não precise esperar por economias marginais extras."
+  - question: Vale a pena comprar INSIDE no Switch pelo preço atual?
+    answer: Sim, se você quer um platformer atmosférico curto mas excepcional. Com base nos dados de preços regionais do GameGulf, a faixa de desconto profundo atual significa que o risco é baixo e o nível de qualidade é alto.
+  - question: Devo esperar INSIDE cair ainda mais?
+    answer: Só se você não tem certeza de que o gênero combina com você. O desconto atual já é forte o suficiente para que a maioria dos jogadores interessados não precise esperar por economias marginais extras.
 ---
+
 ## Veredito rápido
 
 Se você estava curioso sobre **INSIDE**, esse é o tipo de janela de promoção que costuma transformar curiosidade em compra. No Nintendo Switch, o jogo está aparecendo atualmente em um **ponto de preço global muito baixo**, incluindo aproximadamente **EUR 1,65 em Hong Kong** e **EUR 2,29 em várias regiões europeias da eShop**. Para um jogo com **nota 91 no Metacritic** e um longo histórico de elogios da crítica, isso já está muito além do limite de "esperar por uma queda significativa".

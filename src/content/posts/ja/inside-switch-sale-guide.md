@@ -1,72 +1,73 @@
 ---
-title: "INSIDEをNintendo Switchで今買うべき？それとも次のセールを待つべき？"
-description: "INSIDEのSwitch価格ガイド — 現在の大幅割引、セール傾向、そしてこの短編傑作を今買うべきかどうかを解説します。"
+title: INSIDEをNintendo Switchで今買うべき？それとも次のセールを待つべき？
+description: INSIDEのSwitch価格ガイド — 現在の大幅割引、セール傾向、そしてこの短編傑作を今買うべきかどうかを解説します。
 publishedAt: "2026-03-23"
 updatedAt: "2026-03-23"
-category: "buy-now-or-wait"
-gameTitle: "INSIDE"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "7分で読める"
-decision: "短くてクオリティの高い雰囲気系パズルプラットフォーマーが欲しいとすでにわかっているなら、今が買い時です。現在の大幅割引レベルで待つ理由があるとすれば、ジャンルとの相性に自信がない場合か、1ドルあたりもう少し長いゲームを好む場合だけです。"
-priceSignal: "INSIDEは現在、Switchで異例の大幅割引が行われています。香港でグローバル最安値が約€1.65、ヨーロッパの複数地域で€2.29前後です。この価格帯は通常、待つより今買う方が有利です。"
-heroStat: "91 Metacritic"
-heroNote: "Playdeadの傑作 — 精密なペーシング、ビジュアルストーリーテリング、そして近年のインディーゲーム屈指のエンディングで知られる高評価作品。"
-communityVibe: "初見プレイヤーにおすすめし続けられる短編の傑作"
-playtime: "3h one-sitting thriller"
-actionBucket: "buy_now"
+category: buy-now-or-wait
+gameTitle: INSIDE
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 7分で読める
+decision: 短くてクオリティの高い雰囲気系パズルプラットフォーマーが欲しいとすでにわかっているなら、今が買い時です。現在の大幅割引レベルで待つ理由があるとすれば、ジャンルとの相性に自信がない場合か、1ドルあたりもう少し長いゲームを好む場合だけです。
+priceSignal: INSIDEは現在、Switchで異例の大幅割引が行われています。香港でグローバル最安値が約€1.65、ヨーロッパの複数地域で€2.29前後です。この価格帯は通常、待つより今買う方が有利です。
+heroStat: 91 Metacritic
+heroNote: Playdeadの傑作 — 精密なペーシング、ビジュアルストーリーテリング、そして近年のインディーゲーム屈指のエンディングで知られる高評価作品。
+communityVibe: 初見プレイヤーにおすすめし続けられる短編の傑作
+playtime: 3h one-sitting thriller
+actionBucket: buy_now
 quickFilters:
-  - "under_20"
-  - "great_on_sale"
-  - "short_sessions"
-listingTakeaway: "高評価の短編ゲームが大幅セール中 — ジャンルが合うなら迷わず買える価格です。"
-reviewSignal: "91 Metacritic"
-whatItIs: "Metacritic 91点のインディー名作。ビジュアルストーリーテリング、緊張感、そして精密なペーシングで、Switch上で最も完成度の高い短編パズルプラットフォーマー体験を届けます。"
-bestFor: "短い雰囲気系パズルゲームを求め、プレイ時間よりクラフトの質を重視する方に。"
-avoidIf: "長いプレイ時間、深い成長システム、繰り返しプレイのループを重視する方は見送りを。"
-consensusPraise: "雰囲気、完成度の高さ、そして近年のインディーゲーム屈指のエンディングが高評価の理由。"
-mainFriction: "プレイ時間の短さが、時間あたりの価値を重視する方にとっての主なためらいポイント。"
-timeFit: "1〜2晩で完走でき、短いセッションでも十分に楽しめます。"
-priceCall: "buy"
-currentDeal: "非常に強力なセール中。グローバル最安値が約€1.65、複数地域で€2.29前後です。"
-nearHistoricalLow: "はい — 「気になる」から「買い」に決断を変えるレベルの最安圏にすでに達しています。"
-salePattern: "現在の値下がりは軽い「お付き合いセール」ではなく、かなり説得力のある水準。待っても大幅にさらに安くなる可能性は低いです。"
-confidence: "high"
-priceRecommendation: "buy"
-coverImage: "https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg"
-badge: "Buy / Wait"
-heroTheme: "dark"
+  - under_20
+  - great_on_sale
+  - short_sessions
+listingTakeaway: 高評価の短編ゲームが大幅セール中 — ジャンルが合うなら迷わず買える価格です。
+reviewSignal: 91 Metacritic
+whatItIs: Metacritic 91点のインディー名作。ビジュアルストーリーテリング、緊張感、そして精密なペーシングで、Switch上で最も完成度の高い短編パズルプラットフォーマー体験を届け
+bestFor: 短い雰囲気系パズルゲームを求め、プレイ時間よりクラフトの質を重視する方に。
+avoidIf: 長いプレイ時間、深い成長システム、繰り返しプレイのループを重視する方は見送りを。
+consensusPraise: 雰囲気、完成度の高さ、そして近年のインディーゲーム屈指のエンディングが高評価の理由。
+mainFriction: プレイ時間の短さが、時間あたりの価値を重視する方にとっての主なためらいポイント。
+timeFit: 1〜2晩で完走でき、短いセッションでも十分に楽しめます。
+priceCall: buy
+currentDeal: 非常に強力なセール中。グローバル最安値が約€1.65、複数地域で€2.29前後です。
+nearHistoricalLow: はい — 「気になる」から「買い」に決断を変えるレベルの最安圏にすでに達しています。
+salePattern: 現在の値下がりは軽い「お付き合いセール」ではなく、かなり説得力のある水準。待っても大幅にさらに安くなる可能性は低いです。
+confidence: high
+priceRecommendation: buy
+coverImage: https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg
+badge: Buy / Wait
+heroTheme: dark
 playerVoices:
-  - quote: "エンドクレジットの後、しばらく動けなくなった数少ないゲームの一つ"
-    sentiment: "positive"
-  - quote: "短いけれど、すべての瞬間が外科的な精度でデザインされている"
-    sentiment: "positive"
-  - quote: "あのエンディングが今でも頭から離れない"
-    sentiment: "positive"
-  - quote: "一気にクリアしたけど、もっと遊びたかった"
-    sentiment: "mixed"
-  - quote: "時間あたりの価値だけで判断すると、定価では正当化しにくい"
-    sentiment: "negative"
+  - quote: エンドクレジットの後、しばらく動けなくなった数少ないゲームの一つ
+    sentiment: positive
+  - quote: 短いけれど、すべての瞬間が外科的な精度でデザインされている
+    sentiment: positive
+  - quote: あのエンディングが今でも頭から離れない
+    sentiment: positive
+  - quote: 一気にクリアしたけど、もっと遊びたかった
+    sentiment: mixed
+  - quote: 時間あたりの価値だけで判断すると、定価では正当化しにくい
+    sentiment: negative
 communityMemes:
-  - "ブロブエンディングの考察（結局わからない）"
-  - "あの水中チェイスシーン"
-  - "Playdeadファンの永遠の議論：LIMBO vs INSIDE"
-  - "60時間のゲームより響く3時間"
-tldr: "INSIDEは2€以下で買える——Metacritic 91点の雰囲気パズル、一晩でクリア可能。"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price"
-gameHref: "https://www.gamegulf.com/detail/2GhXVp3lBzO"
-membershipHref: "https://www.gamegulf.com/pricing"
+  - ブロブエンディングの考察（結局わからない）
+  - あの水中チェイスシーン
+  - Playdeadファンの永遠の議論：LIMBO vs INSIDE
+  - 60時間のゲームより響く3時間
+tldr: INSIDEは2€以下で買える——Metacritic 91点の雰囲気パズル、一晩でクリア可能。
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price
+gameHref: https://www.gamegulf.com/detail/2GhXVp3lBzO
+membershipHref: https://www.gamegulf.com/pricing
 tags:
-  - "inside switch セール"
-  - "inside 今買うべき"
-  - "switch 価格アラート"
+  - inside switch セール
+  - inside 今買うべき
+  - switch 価格アラート
 faq:
-  - question: "現在の価格でSwitch版INSIDEは買う価値がある？"
-    answer: "はい。短くても卓越した雰囲気系プラットフォーマーを求めるなら買いです。GameGulfの地域別価格データによると、現在の大幅割引帯はリスクが低く、クオリティは折り紙付きです。"
-  - question: "INSIDEがもっと安くなるのを待つべき？"
-    answer: "ジャンルとの相性に自信がない場合のみ待つ意味があります。現在の割引はすでに十分で、興味があるほとんどのプレイヤーはわずかな追加割引を待つべきではありません。"
+  - question: 現在の価格でSwitch版INSIDEは買う価値がある？
+    answer: はい。短くても卓越した雰囲気系プラットフォーマーを求めるなら買いです。GameGulfの地域別価格データによると、現在の大幅割引帯はリスクが低く、クオリティは折り紙付きです。
+  - question: INSIDEがもっと安くなるのを待つべき？
+    answer: ジャンルとの相性に自信がない場合のみ待つ意味があります。現在の割引はすでに十分で、興味があるほとんどのプレイヤーはわずかな追加割引を待つべきではありません。
 ---
+
 ## クイック結論
 
 **INSIDE**が気になっていたなら、今がまさに「気になる」を「買い」に変えるセール期間です。Nintendo Switchで**非常に低いグローバル価格**が出ており、香港で約**€1.65**、ヨーロッパの複数eShop地域で**€2.29**前後です。**Metacritic 91点**で長期にわたって高く評価されてきたゲームとしては、「もっと安くなるまで待つ」しきい値をすでに大きく超えています。

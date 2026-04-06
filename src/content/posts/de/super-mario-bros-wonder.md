@@ -1,93 +1,94 @@
 ---
-title: "Sollten Sie Super Mario Bros. Wonder auf der Nintendo Switch jetzt kaufen oder warten?"
-description: "Ein Preis- und Eignungsratgeber für Super Mario Bros. Wonder — Wonder-Flower-Momente, Koop, regionale Tiefstpreise im März 2026, Switch-Performance und wann kaufen statt beobachten."
+title: Sollten Sie Super Mario Bros. Wonder auf der Nintendo Switch jetzt kaufen oder warten?
+description: Ein Preis- und Eignungsratgeber für Super Mario Bros. Wonder — Wonder-Flower-Momente, Koop, regionale Tiefstpreise im März 2026, Switch-Performance und wann kaufen statt beobachten.
 publishedAt: "2026-03-21"
 updatedAt: "2026-03-31"
-category: "buy-now-or-wait"
-gameTitle: "Super Mario Bros. Wonder"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "8 Min. Lesezeit"
-decision: "Kaufen Sie Super Mario Bros. Wonder jetzt, wenn Sie bald ein poliertes 2D-Mario wollen — besonders mit lokalem Koop. Abwarten und beobachten, wenn Sie rein den Preis optimieren und Ihre Region noch teuer ist."
-priceSignal: "Regionale Preise variieren stark; prüfen Sie GameGulf für das beste Angebot in Ihrer eShop-Region."
-heroStat: "92 Metacritic"
-heroNote: "Ein modernes 2D-Mario, aufgebaut um Wonder-Flower-Set-Pieces, Abzeichen und einige der lesefreundlichsten Couch-Koop-Momente seit Jahren."
-badge: "Buy / Wait"
-verdict: "buy_now"
-priceCall: "buy"
-confidence: "high"
-actionBucket: "buy_now"
+category: buy-now-or-wait
+gameTitle: Super Mario Bros. Wonder
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 8 Min. Lesezeit
+decision: Kaufen Sie Super Mario Bros. Wonder jetzt, wenn Sie bald ein poliertes 2D-Mario wollen — besonders mit lokalem Koop. Abwarten und beobachten, wenn Sie rein den Preis optimieren und Ihre Region noch teuer ist.
+priceSignal: Regionale Preise variieren stark; prüfen Sie GameGulf für das beste Angebot in Ihrer eShop-Region.
+heroStat: 92 Metacritic
+heroNote: Ein modernes 2D-Mario, aufgebaut um Wonder-Flower-Set-Pieces, Abzeichen und einige der lesefreundlichsten Couch-Koop-Momente seit Jahren.
+badge: Buy / Wait
+verdict: buy_now
+priceCall: buy
+confidence: high
+actionBucket: buy_now
 featuredPriority: 4
-listingTakeaway: "Straffes 2D-Mario mit großem Koop-Charme — Preise variieren stark je nach eShop-Region, also vor dem Kauf vergleichen."
-whatItIs: "Side-Scrolling-Mario mit Wonder-Effekten, Abzeichen-Loadouts, Yoshi/Nabbit-Hilfsrollen und bis zu vier Spielern im lokalen Koop."
-bestFor: "Familien, Koop-Paare und Spieler, die erstklassiges Nintendo-Platforming in kurzen Sessions wollen."
-avoidIf: "Meiden, wenn Sie nur 80-Stunden-RPGs kaufen oder ohne starken Sale nicht außerhalb des Tiefstpreis-Bereichs zahlen."
-consensusPraise: "Einfallsreiche Level, ausdrucksstarke Animation und zugänglicher Koop ohne die Steuerung zu vereinfachen."
-mainFriction: "Die Gesamtspielzeit ist bescheiden, wenn Sie solo durchrasen — der Wert liegt in der Handwerkskunst, nicht in der Kartengröße."
-timeFit: "Ideal für 20–40-Minuten-Einheiten; leicht zwischen anderen Spielen wiederaufzunehmen."
-fitLabel: "Spieler, die poliertes Platforming und gemeinsames Spielen mehr wollen als Open-World-Ausmaße."
-timingNote: "Wenn Ihr eShop-Eintrag bereits nahe dem indizierten globalen Tiefstpreis liegt, bietet Warten abnehmende Rendite."
-communityVibe: "Sprechende Blumen kommentieren jetzt Ihr Leben"
-playtime: "Roughly 10–15h main path; 20h+ with extras"
-reviewSignal: "92 Metacritic"
-takeaway: "Super Mario Bros. Wonder ist ein einfacher Kauf, wenn Sie bald modernes 2D-Mario wollen — prüfen Sie Ihren regionalen Preis, denn die Tiefstpreise variieren massiv je nach eShop."
-playStyle: "Klassischer Lauf-und-Spring-Flow mit Wonder-Flower-Spektakel, sammelbaren Wonder Seeds, Abzeichen-Modifikatoren und optionalen Online-Silhouetten."
-timeCommitment: "Eine fokussierte Kampagne — kein Hundert-Stunden-Epos — mit Wiederspielwert durch Geheimnisse, Abzeichen und Koop-Experimente."
-playMode: "Lokaler Koop mit bis zu vier Spielern an einem System; Online-Koop und asynchrone Hinweise über Standees."
-whyNow: "Daten vom März 2026 zeigen weiterhin dramatische Spreizung zwischen günstigen Regionen und Vollpreis-Regionen für diesen Release."
-currentDeal: "Preise variieren je nach eShop-Region. Prüfen Sie GameGulf für den besten aktuellen Preis in Ihrer Region."
-nearHistoricalLow: "Einige regionale eShop-Preise liegen deutlich unter den üblichen US/EU-Niveaus für einen Mario-Flaggschiff-Platformer — bestätigen Sie, dass der Eintrag zu Ihrem Kaufweg passt, bevor Sie ihn als Ihren Preis behandeln."
-salePattern: "Joins Nintendo-wide promotions; depth depends on territory, so alert thresholds help US and JP accounts."
-priceRecommendation: "buy"
+listingTakeaway: Straffes 2D-Mario mit großem Koop-Charme — Preise variieren stark je nach eShop-Region, also vor dem Kauf vergleichen.
+whatItIs: Side-Scrolling-Mario mit Wonder-Effekten, Abzeichen-Loadouts, Yoshi/Nabbit-Hilfsrollen
+bestFor: Familien, Koop-Paare und Spieler, die erstklassiges
+avoidIf: Meiden, wenn Sie nur 80-Stunden-RPGs kaufen oder ohne starken Sale
+consensusPraise: Einfallsreiche Level, ausdrucksstarke Animation und zugänglicher Koop ohne die
+mainFriction: Die Gesamtspielzeit ist bescheiden, wenn Sie solo durchrasen — der Wert liegt in
+timeFit: Ideal für 20–40-Minuten-Einheiten; leicht zwischen anderen Spielen
+fitLabel: Spieler, die poliertes Platforming und gemeinsames Spielen mehr wollen
+timingNote: Wenn Ihr eShop-Eintrag bereits nahe dem indizierten globalen Tiefstpreis liegt, bietet Warten abnehmende Rendite.
+communityVibe: Sprechende Blumen kommentieren jetzt Ihr Leben
+playtime: Roughly 10–15h main path; 20h+ with extras
+reviewSignal: 92 Metacritic
+takeaway: Super Mario Bros. Wonder ist ein einfacher Kauf, wenn Sie bald modernes 2D-Mario wollen — prüfen Sie Ihren regionalen Preis, denn die Tiefstpreise variieren massiv je nach eShop.
+playStyle: Klassischer Lauf-und-Spring-Flow mit Wonder-Flower-Spektakel, sammelbaren Wonder Seeds, Abzeichen-Modifikatoren und optionalen Online-Silhouetten.
+timeCommitment: Eine fokussierte Kampagne — kein Hundert-Stunden-Epos — mit Wiederspielwert durch Geheimnisse, Abzeichen und Koop-Experimente.
+playMode: Lokaler Koop mit bis zu vier Spielern an einem System; Online-Koop und asynchrone Hinweise über Standees.
+whyNow: Daten vom März 2026 zeigen weiterhin dramatische Spreizung zwischen günstigen Regionen und Vollpreis-Regionen für diesen Release.
+currentDeal: Preise variieren je nach eShop-Region. Prüfen Sie GameGulf für den besten aktuellen Preis in Ihrer Region.
+nearHistoricalLow: Einige regionale eShop-Preise liegen deutlich unter den üblichen US/EU-Niveaus für einen Mario-Flaggschiff-Platformer — bestätigen Sie, dass der Eintrag zu Ihrem Kaufweg passt, bevor Sie ihn als Ihren Preis behandeln.
+salePattern: Joins Nintendo-wide promotions; depth depends on territory, so alert thresholds help US and JP accounts.
+priceRecommendation: buy
 quickFilters:
-  - "co_op"
-  - "family_friendly"
-  - "great_on_sale"
+  - co_op
+  - family_friendly
+  - great_on_sale
 playerNeeds:
-  - "buy_now"
-  - "beginner_friendly"
-priceTrackHref: "https://www.gamegulf.com/detail/byr07mi5hyW#currency-price"
-gameHref: "https://www.gamegulf.com/detail/byr07mi5hyW"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg"
-heroTheme: "brand"
+  - buy_now
+  - beginner_friendly
+priceTrackHref: https://www.gamegulf.com/detail/byr07mi5hyW#currency-price
+gameHref: https://www.gamegulf.com/detail/byr07mi5hyW
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg
+heroTheme: brand
 playerVoices:
-  - quote: "Jedes Level fühlt sich wie eine frische Idee an, die nie zu lange bleibt"
-    sentiment: "positive"
-  - quote: "Bestes Couch-Koop-Mario seit Jahren"
-    sentiment: "positive"
-  - quote: "Die Wonder-Flower-Momente sind wirklich überraschend"
-    sentiment: "positive"
-  - quote: "Abzeichen-Kombinationen haben komplett verändert, wie ich Kurse wiederhole"
-    sentiment: "positive"
-  - quote: "Etwas kurz, wenn man solo durchhetzt"
-    sentiment: "negative"
-  - quote: "Nicht so viel Endgame-Herausforderung wie manche Spieler sich gewünscht hätten"
-    sentiment: "negative"
+  - quote: Jedes Level fühlt sich wie eine frische Idee an, die nie zu lange bleibt
+    sentiment: positive
+  - quote: Bestes Couch-Koop-Mario seit Jahren
+    sentiment: positive
+  - quote: Die Wonder-Flower-Momente sind wirklich überraschend
+    sentiment: positive
+  - quote: Abzeichen-Kombinationen haben komplett verändert, wie ich Kurse wiederhole
+    sentiment: positive
+  - quote: Etwas kurz, wenn man solo durchhetzt
+    sentiment: negative
+  - quote: Nicht so viel Endgame-Herausforderung wie manche Spieler sich gewünscht hätten
+    sentiment: negative
 communityMemes:
-  - "Elefanten-Mario-Energie"
-  - "Die sprechenden Blumen hören nicht auf"
-  - "Wonder-Flower-Chaos in jedem einzelnen Level"
-  - "Abzeichen-Kombinationen, von denen Sie nicht wussten, dass es sie gibt"
-tldr: "Super Mario Bros. Wonder lohnt sich für 17 € auf Switch — ein 2D-Mario mit 92 auf Metacritic, ideal für Familien und Koop."
-wishlistHref: "https://www.gamegulf.com/wishlist"
+  - Elefanten-Mario-Energie
+  - Die sprechenden Blumen hören nicht auf
+  - Wonder-Flower-Chaos in jedem einzelnen Level
+  - Abzeichen-Kombinationen, von denen Sie nicht wussten, dass es sie gibt
+tldr: Super Mario Bros. Wonder lohnt sich für 17 € auf Switch — ein 2D-Mario mit 92 auf Metacritic, ideal für Familien und Koop.
+wishlistHref: https://www.gamegulf.com/wishlist
 tags:
-  - "super mario bros wonder switch"
-  - "mario wonder kaufen oder warten"
-  - "mario wonder preis"
-  - "2d mario switch"
+  - super mario bros wonder switch
+  - mario wonder kaufen oder warten
+  - mario wonder preis
+  - 2d mario switch
 faq:
-  - question: "Lohnt sich Super Mario Bros. Wonder auf der Nintendo Switch im Jahr 2026?"
-    answer: "Super Mario Bros. Wonder lohnt sich 2026, wenn Sie ein poliertes 2D-Mario mit starkem Koop und einfallsreichen Leveln wollen. Preise variieren stark je nach eShop-Region — prüfen Sie GameGulf für den aktuellen Preis in Ihrer Region, bevor Sie eine Schlagzeilen-Zahl als gegeben annehmen."
-  - question: "Wie lange dauert es, Super Mario Bros. Wonder durchzuspielen?"
-    answer: "Super Mario Bros. Wonder dauert ungefähr 10–15 Stunden für einen Hauptpfad-Durchlauf und etwa 20+ Stunden, wenn Sie Wonder Seeds, geheime Ausgänge und Abzeichen-Experimente jagen. Koop kann die Spielzeit durch gemeinsames Erkunden verlängern."
-  - question: "Wie läuft Super Mario Bros. Wonder auf der Nintendo Switch?"
-    answer: "Super Mario Bros. Wonder zielt auf 60 fps auf der Switch im Gameplay im Dock- und Handheld-Modus, mit knackiger 2D-Grafik und lesbaren Effekten selbst wenn Wonder-Transformationen den Bildschirm füllen. Performance ist eine Stärke, kein Problem bei diesem Release."
-  - question: "Ist Super Mario Bros. Wonder gut für Kinder oder Koop mit unterschiedlichem Können?"
-    answer: "Super Mario Bros. Wonder unterstützt einfachere Rollen wie Yoshi und Nabbit für Spieler, die Schaden vermeiden wollen, während Abzeichen Sprung-Hilfen oder Sicherheits-Optionen bieten. Das macht es zu einer der besseren Nintendo-Optionen für Koop mit ungleichem Können."
-  - question: "Sollte ich auf einen stärkeren Sale für Super Mario Bros. Wonder warten?"
-    answer: "Super Mario Bros. Wonder belohnt das Warten nur, wenn Ihre regionale Storefront noch teuer ist und Sie nicht ungeduldig sind. Wenn Ihr Eintrag bereits nahe dem indizierten globalen Tiefstpreis liegt, bringt das Warten auf ein dramatisch besseres Angebot möglicherweise wenig."
+  - question: Lohnt sich Super Mario Bros. Wonder auf der Nintendo Switch im Jahr 2026?
+    answer: Super Mario Bros. Wonder lohnt sich 2026, wenn Sie ein poliertes 2D-Mario mit starkem Koop und einfallsreichen Leveln wollen. Preise variieren stark je nach eShop-Region — prüfen Sie GameGulf für den aktuellen Preis in Ihrer Region, bevor Sie eine Schlagzeilen-Zahl als gegeben annehmen.
+  - question: Wie lange dauert es, Super Mario Bros. Wonder durchzuspielen?
+    answer: Super Mario Bros. Wonder dauert ungefähr 10–15 Stunden für einen Hauptpfad-Durchlauf und etwa 20+ Stunden, wenn Sie Wonder Seeds, geheime Ausgänge und Abzeichen-Experimente jagen. Koop kann die Spielzeit durch gemeinsames Erkunden verlängern.
+  - question: Wie läuft Super Mario Bros. Wonder auf der Nintendo Switch?
+    answer: Super Mario Bros. Wonder zielt auf 60 fps auf der Switch im Gameplay im Dock- und Handheld-Modus, mit knackiger 2D-Grafik und lesbaren Effekten selbst wenn Wonder-Transformationen den Bildschirm füllen. Performance ist eine Stärke, kein Problem bei diesem Release.
+  - question: Ist Super Mario Bros. Wonder gut für Kinder oder Koop mit unterschiedlichem Können?
+    answer: Super Mario Bros. Wonder unterstützt einfachere Rollen wie Yoshi und Nabbit für Spieler, die Schaden vermeiden wollen, während Abzeichen Sprung-Hilfen oder Sicherheits-Optionen bieten. Das macht es zu einer der besseren Nintendo-Optionen für Koop mit ungleichem Können.
+  - question: Sollte ich auf einen stärkeren Sale für Super Mario Bros. Wonder warten?
+    answer: Super Mario Bros. Wonder belohnt das Warten nur, wenn Ihre regionale Storefront noch teuer ist und Sie nicht ungeduldig sind. Wenn Ihr Eintrag bereits nahe dem indizierten globalen Tiefstpreis liegt, bringt das Warten auf ein dramatisch besseres Angebot möglicherweise wenig.
 ---
+
 ## Schnelles Fazit
 
 **Super Mario Bros. Wonder ist ein „Kaufen, wenn Sie tatsächlich spielen wollen"-Spiel** — die Qualität steht nicht zur Debatte. Die Debatte ist, ob Sie **Ihren** regionalen Preis zahlen oder den viralen Screenshot von jemand anderem.
