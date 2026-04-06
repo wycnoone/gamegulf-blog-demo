@@ -59,6 +59,37 @@ const VALID_PLAYER_NEEDS = [
 ];
 const VALID_SENTIMENTS = ['positive', 'negative', 'mixed'];
 
+const PRICE_TABLE_REGION_HEADERS = [
+  'region', 'country', 'eshop', 'store',
+  '地区', '区域', '区服', '国家',
+  'region', 'région', 'país', 'land', 'região', '地域',
+];
+
+const PRICE_TABLE_PRICE_HEADERS = [
+  'price', 'deal', 'current', 'discount',
+  '价格', '售价', '现价', '折扣',
+  'prix', 'precio', 'preis', 'preco', 'preço', '値段', '価格',
+];
+
+const DISCOUNT_HISTORY_TERMS = [
+  'all-time low', 'historical low', 'discount', 'sale',
+  '历史低价', '历史最低', '折扣', '打折',
+  '最安値', 'セール',
+  'plus bas historique', 'promo',
+  'mínimo histórico', 'oferta',
+  'historischer tiefstpreis', 'rabatt',
+  'menor preço histórico', 'promoção',
+];
+
+const ARGENTINA_PATTERNS = [
+  /argentina/iu,
+  /\bars\b/u,
+  /阿根廷/u,
+  /アルゼンチン/u,
+  /argentine/iu,
+  /argentinien/iu,
+];
+
 function parseFrontmatter(content) {
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) return { fm: null, body: content, raw: '' };
@@ -67,6 +98,70 @@ function parseFrontmatter(content) {
     body: content.slice(match[0].length),
     raw: match[1],
   };
+}
+
+function normalizeEntityName(value = '') {
+  return String(value)
+    .trim()
+    .toLowerCase()
+    .replace(/[™®©]/g, '')
+    .replace(/\s+/g, ' ');
+}
+
+function startsWithGameName(text, gameTitle) {
+  const normalizedText = normalizeEntityName(text);
+  const normalizedTitle = normalizeEntityName(gameTitle);
+  return normalizedText.startsWith(normalizedTitle);
+}
+
+function extractMarkdownTables(body) {
+  const lines = body.split(/\r?\n/);
+  const tables = [];
+
+  for (let i = 0; i < lines.length; i++) {
+    const header = lines[i];
+    const separator = lines[i + 1];
+    if (!header?.includes('|')) continue;
+    if (!separator || !/^[\s|:-]+$/.test(separator)) continue;
+
+    const tableLines = [header, separator];
+    let j = i + 2;
+    while (j < lines.length && lines[j].includes('|')) {
+      tableLines.push(lines[j]);
+      j += 1;
+    }
+
+    tables.push(tableLines);
+    i = j - 1;
+  }
+
+  return tables.map((tableLines) => {
+    const headerCells = tableLines[0].split('|').map((c) => c.trim().toLowerCase()).filter(Boolean);
+    const rows = tableLines.slice(2).filter((line) => line.split('|').some((c) => c.trim()));
+    return { headerCells, rows };
+  });
+}
+
+function hasExpectedPriceTable(body) {
+  const tables = extractMarkdownTables(body);
+  return tables.some(({ headerCells, rows }) => {
+    const hasRegionHeader = headerCells.some((cell) =>
+      PRICE_TABLE_REGION_HEADERS.some((term) => cell.includes(term)));
+    const hasPriceHeader = headerCells.some((cell) =>
+      PRICE_TABLE_PRICE_HEADERS.some((term) => cell.includes(term)));
+    return hasRegionHeader && hasPriceHeader && rows.length >= 5 && rows.length <= 8;
+  });
+}
+
+function hasStructuredPriceRows(fm) {
+  return Array.isArray(fm.priceRows) && fm.priceRows.length >= 5 && fm.priceRows.length <= 8;
+}
+
+function hasDiscountHistoryAnalysis(body) {
+  const normalizedBody = body.toLowerCase();
+  const hasTerms = DISCOUNT_HISTORY_TERMS.filter((term) => normalizedBody.includes(term.toLowerCase())).length >= 2;
+  const hasConcreteData = /\b20\d{2}\b/.test(body) && /(?:€|\$|¥|£)\s?\d/.test(body);
+  return hasTerms && hasConcreteData;
 }
 
 function validate(filePath) {
@@ -168,6 +263,9 @@ function validate(filePath) {
         const item = fm.faq[i];
         if (!item.question) errors.push(`faq[${i}] missing question`);
         if (!item.answer) errors.push(`faq[${i}] missing answer`);
+        if (item.answer && fm.gameTitle && !startsWithGameName(item.answer, fm.gameTitle)) {
+          errors.push(`faq[${i}] answer must start with gameTitle`);
+        }
       }
     }
   }
@@ -186,10 +284,13 @@ function validate(filePath) {
     }
   }
 
+  if (fm.tldr && fm.gameTitle && !startsWithGameName(fm.tldr, fm.gameTitle)) {
+    errors.push('tldr must start with gameTitle');
+  }
+
   // 8. Argentina exclusion check
-  const fullText = content.toLowerCase();
-  if (fullText.includes('argentina') || /\bars\b/.test(fm.cardPriceRegion || '')) {
-    warnings.push('Possible Argentina reference found — verify exclusion');
+  if (ARGENTINA_PATTERNS.some((pattern) => pattern.test(content))) {
+    errors.push('Argentina reference found — this pipeline excludes AR pricing');
   }
 
   // 9. Link validity (format check, not HTTP)
@@ -212,8 +313,11 @@ function validate(filePath) {
     }
 
     if (fm.category === 'worth-it' || fm.category === 'buy-now-or-wait') {
-      if (!bodyClean.includes('|') || !bodyClean.includes('Region') && !bodyClean.includes('地区') && !bodyClean.includes('地域') && !bodyClean.includes('Región') && !bodyClean.includes('Région') && !bodyClean.includes('Região')) {
-        warnings.push('Regional price comparison table may be missing');
+      if (!hasStructuredPriceRows(fm) && !hasExpectedPriceTable(bodyClean)) {
+        errors.push('Regional price comparison table missing (priceRows or markdown table with 5-8 rows required)');
+      }
+      if (!hasDiscountHistoryAnalysis(bodyClean)) {
+        errors.push('Discount history analysis paragraph missing concrete historical data');
       }
     }
   }

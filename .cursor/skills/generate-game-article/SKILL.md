@@ -94,12 +94,13 @@ Find the HLTB ID by searching https://howlongtobeat.com for the game title.
 **Verify the brief** before proceeding:
 
 ```bash
-node -e "const b=require('./content/briefs/{slug}.json'); const s=b.price_analytics?.switch; console.log('Title:', b.game.title); console.log('Regions:', b.platforms.switch?.digital?.length); console.log('Trend entries:', s?.trend_entries_count); console.log('Verdict:', s?.price_verdict); console.log('Steam:', !!b.steam); console.log('HLTB:', !!b.hltb);"
+node -e "const b=require('./content/briefs/{slug}.json'); const s=b.price_analytics?.switch; const steam=b.enrichment?.steam || b.steam; const hltb=b.enrichment?.hltb || b.hltb; console.log('Title:', b.game.title); console.log('Regions:', b.platforms.switch?.digital?.length); console.log('Trend entries:', s?.trend_entries_count); console.log('Verdict:', s?.price_verdict); console.log('Steam:', !!steam); console.log('HLTB:', !!hltb);"
 ```
 
-Expect: title present, 5+ regions, steam/hltb data present.
-If Steam or HLTB is missing, the script may need `--no-enrich` and
-manual enrichment, or the game is not on those platforms.
+Expect: title present, 5+ regions, Steam/HLTB data present when available.
+If the brief was generated without enrichment, re-run the extractor
+without `--no-enrich`. If Steam or HLTB is still missing, the game
+may genuinely lack that source and you should research the gap manually.
 
 ## Phase 2 — Synthesize Articles
 
@@ -142,15 +143,24 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 **Card price display rules (cardPrice field):**
 - Always the global lowest price (first entry in digital array)
 - Currency conversion by locale:
-  - en → USD primary: `"$79.99 (€42.96)"` or EUR if not US region
-  - zh-hans, ja → JPY primary: `"¥7,900 (€42.96)"`
-  - fr, es, de, pt → EUR primary: `"€42.96 (¥7,900)"`
-  - If locale currency = low region currency → native first
-  - For BRL → EUR only: `"€15.22"`
+  - en → USD: `"USD 21.31"`
+  - zh-hans → CNY: `"CNY 154.20"`
+  - ja → JPY: `"JPY 3520"`
+  - fr, es, de, pt → EUR: `"EUR 19.14"`
+- Keep cardPrice simple: converted display only. Do NOT append native price in parentheses.
 - cardPriceRegion: localized region name (e.g. "Japan"→"日本"→"Japon")
+- Also include structured fields for runtime conversion:
+  - `cardPriceEur`
+  - `cardPriceRegionCode`
+  - `cardPriceNative`
+  - `cardPriceNativeCurrency`
 
-**Article body price section MUST include:**
-1. Regional price comparison table (5-8 regions, cheapest first)
+**Detail-page pricing section MUST include:**
+1. A markdown table in the article body with 5-8 regions, cheapest first
+   - EXCLUDE Argentina (AR)
+   - Keep original storefront price in the last column
+   - Converted-price column should match the article locale
+   - Place it directly under the price section's opening paragraph
 2. Discount history analysis paragraph using price_analytics:
    - All-time low (price, region, date)
    - Discount frequency (X times in past year)

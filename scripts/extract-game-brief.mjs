@@ -348,15 +348,23 @@ function computePriceAnalytics(platforms, lows) {
       salePeriods.push({ start: saleStart, end: uniqueTrend[uniqueTrend.length - 1]?.date });
     }
 
+    const todayDate = new Date();
+    const oneYearAgo = new Date(todayDate);
+    oneYearAgo.setDate(oneYearAgo.getDate() - 365);
+
+    const priceDips1y = priceDips.filter((d) => {
+      const dipDate = new Date(d.date);
+      return !Number.isNaN(dipDate.getTime()) && dipDate >= oneYearAgo;
+    });
+
     const discountValues = priceDips.map((d) => d.price);
     const avgDiscount = discountValues.length > 0
       ? Math.round((discountValues.reduce((s, v) => s + v, 0) / discountValues.length) * 100) / 100
       : null;
 
-    const today = new Date().toISOString().split('T')[0];
     const lastDip = priceDips.length > 0 ? priceDips[priceDips.length - 1] : null;
     const daysSinceLastDip = lastDip
-      ? Math.floor((new Date(today) - new Date(lastDip.date)) / 86400000)
+      ? Math.floor((todayDate - new Date(lastDip.date)) / 86400000)
       : null;
 
     const atOrNearHistoricalLow = currentPrice != null && allTimeLowest != null
@@ -390,7 +398,7 @@ function computePriceAnalytics(platforms, lows) {
         date: allTimeLowest.date,
       } : null,
       at_or_near_historical_low: atOrNearHistoricalLow,
-      discount_events_1y: priceDips.length,
+      discount_events_1y: priceDips1y.length,
       avg_discount_price_eur: avgDiscount,
       sale_periods: salePeriods,
       days_since_last_discount: daysSinceLastDip,
@@ -401,7 +409,7 @@ function computePriceAnalytics(platforms, lows) {
         drop_pct: lastDip.drop_pct,
       } : null,
       trend_entries_count: uniqueTrend.length,
-      price_verdict: generatePriceVerdict(currentPrice, allTimeLowest, priceDips, daysSinceLastDip),
+      price_verdict: generatePriceVerdict(currentPrice, allTimeLowest, priceDips1y, daysSinceLastDip),
     };
   }
 

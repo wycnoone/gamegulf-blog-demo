@@ -246,15 +246,23 @@ CARD PRICE FIELDS (required for all articles):
   - Always based on the global lowest price from the brief
   - Region stays fixed (the region of the global low)
   - Currency display depends on the reader's locale:
-    - If the global low's native currency matches the reader's
-      primary currency → lead with native: "¥7,900 (€42.96)"
-    - Otherwise → lead with EUR: "€42.96 (¥7,900)"
-    - For minor currencies (BRL) → EUR only: "€15.22"
+    - en → `USD 21.31`
+    - zh-hans → `CNY 154.20`
+    - ja → `JPY 3520`
+    - fr/es/de/pt → `EUR 19.14`
+  - Keep cardPrice to the converted display only. Do NOT append native
+    price in parentheses.
   - Locale → primary currency mapping:
-    en → USD, zh-hans → JPY, ja → JPY,
+    en → USD, zh-hans → CNY, ja → JPY,
     fr/es/de/pt → EUR
 - cardPriceRegion: localized name of the global low region
   Examples: "Japan" (en), "日本" (zh-hans/ja), "Japon" (fr)
+- Also include these structured fields in frontmatter for runtime
+  conversion:
+  - cardPriceEur
+  - cardPriceRegionCode
+  - cardPriceNative
+  - cardPriceNativeCurrency
 
 ARTICLE BODY (GEO-optimized):
 - Every section OPENS with a definitive quotable statement
@@ -265,20 +273,15 @@ ARTICLE BODY (GEO-optimized):
 For worth-it articles:
 1. Quick verdict (≤80 words)
 2. How much does [Game] cost on Switch right now?
-   MUST include a REGIONAL PRICE COMPARISON TABLE:
-   | Region | Price (EUR) | Native price |
-   Build from platforms.switch.digital + schema_offers:
+   MUST include a markdown price table directly in the article body:
    - EXCLUDE Argentina (AR) — purchases are not available there
    - Show 5-8 regions sorted by price (cheapest first)
-   - EUR column = the brief's calculate_value
-   - Native price column = from schema_offers where available
-   - Mark active discounts with original → discounted
-   - End with a sentence linking to GameGulf price tracker
-   This table is a KEY DIFFERENTIATOR — it directly answers
-   "where is [Game] cheapest?" which is a high-value query
-   for both SEO and GEO.
+   - Keep the original storefront price in the last column
+   - The converted-price column should match the article locale
+     (e.g. zh-hans → CNY, en → USD, fr/de/es/pt → EUR, ja → JPY)
+   - Put the table immediately under the opening paragraph of this section
 
-   AFTER the table, add a DISCOUNT HISTORY ANALYSIS paragraph
+   AFTER the price intro, add a DISCOUNT HISTORY ANALYSIS paragraph
    using price_analytics.switch data:
    - State the all-time low (trend_from_lowest) with date + region
    - State discount frequency: "{discount_events_1y} discounts in
@@ -301,8 +304,8 @@ For buy-now-or-wait articles:
 1. Quick verdict
 2. What kind of game is [Game]?
 3. Is the current discount actually good?
-   MUST include a REGIONAL PRICE COMPARISON TABLE (same rules
-   as worth-it section 2 above).
+   MUST include a markdown price table (same rules as worth-it
+   section 2 above).
    MUST include a DISCOUNT HISTORY ANALYSIS paragraph (same rules
    as worth-it section 2 above).
 4. What players praise or complain about

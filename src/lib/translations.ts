@@ -568,6 +568,15 @@ export const ui = {
     ja: 'プレイヤーが好きな理由',
     pt: 'Por que os jogadores adoram',
   },
+  'article.priceComparisonTitle': {
+    en: 'Regional price comparison',
+    'zh-hans': '区服价格对比',
+    fr: 'Comparatif régional des prix',
+    es: 'Comparativa regional de precios',
+    de: 'Regionaler Preisvergleich',
+    ja: '地域別の価格比較',
+    pt: 'Comparativo regional de preços',
+  },
   'article.nextSteps': {
     en: 'Next steps on GameGulf',
     'zh-hans': 'GameGulf 下一步',

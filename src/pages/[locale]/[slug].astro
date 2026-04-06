@@ -164,6 +164,15 @@ const memes = post.communityMemes ?? [];
 const overviewWhatItIs = post.whatItIs;
 const overviewPraise = post.consensusPraise;
 const hasOverview = overviewWhatItIs || overviewPraise;
+
+const articleTitleQuestion = (() => {
+  if (typedLocale === 'zh-hans' || typedLocale === 'ja') {
+    return post.title.replace(post.gameTitle, '').replace(/^[\s：:—–\-《》「」]+/, '');
+  }
+
+  const withoutGame = post.title.replace(post.gameTitle, '').replace(/\s+/g, ' ').trim();
+  return withoutGame.replace(/^Is\s+/i, '').replace(/^[\s:—–-]+/, '');
+})();
 ---
 
 <BaseLayout
@@ -206,11 +215,7 @@ const hasOverview = overviewWhatItIs || overviewPraise;
 
             <h1 class="article-title-split">
               <span class="article-title-game">{post.gameTitle}</span>
-              <span class="article-title-question">
-                {typedLocale === 'zh-hans' || typedLocale === 'ja'
-                  ? post.title.replace(post.gameTitle, '').replace(/^[\s：:—–\-《》「」]+/, '')
-                  : post.title.replace(post.gameTitle, '').replace(/^[\s:—–-]+/, '')}
-              </span>
+              <span class="article-title-question">{articleTitleQuestion}</span>
             </h1>
 
             <div class="meta-row">

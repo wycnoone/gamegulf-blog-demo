@@ -92,6 +92,14 @@ featuredPriority: 1  # Lower = more prominent; 999 = default
 # ── GEO direct answer (renders as "Quick Answer" box above article) ──
 tldr: "Max 160 chars. One sentence directly answering the title question. Must start with game name, include verdict, and one concrete detail."
 
+# ── Pricing metadata (used by cards; article body should use markdown tables) ──
+cardPrice: "USD 21.31"  # converted display only for this locale's card
+cardPriceRegion: "Japan"  # localized region label
+cardPriceEur: 19.14
+cardPriceNative: "¥3,520"
+cardPriceNativeCurrency: "JPY"
+cardPriceRegionCode: "JP"
+
 # ── Card display fields (SEO — respect character limits) ──
 listingTakeaway: "Max 96 chars. A micro-decision that makes readers click through."
 whatItIs: "Max 90 chars. Genre + core loop + standout trait in one line."

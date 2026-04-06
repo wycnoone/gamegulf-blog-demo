@@ -56,6 +56,7 @@ function getPriceAmount(text: string, locale: BlogLocale) {
 }
 
 function getPriceDetail(card: DecisionEntryCardModel) {
+  if (card.priceDetailDisplay) return card.priceDetailDisplay;
   const platform = getCompactPlatformName(card.platform);
   if (card.cardPrice) {
     const region = card.cardPriceRegion || platform;

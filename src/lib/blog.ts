@@ -1,5 +1,6 @@
 import { getCollection, render, type CollectionEntry } from 'astro:content';
 import { type BlogLocale, locales, intlLocales, langTags } from '@/lib/i18n';
+import { formatAdaptivePriceSummary, type StructuredPriceRow } from '@/lib/pricing';
 import { shortenText, normalizeForComparison } from '@/lib/text-utils';
 
 export const siteUrl = 'https://www.gamegulf.com';
@@ -28,6 +29,11 @@ export type ActionBucket = (typeof actionBuckets)[number];
 export type PriceRecommendation = (typeof priceRecommendations)[number];
 
 export type FaqItem = { question: string; answer: string };
+
+export type CardPriceData = {
+  eurPrice: number;
+  regionCode: string;
+};
 
 export type BlogPost = {
   locale: BlogLocale;
@@ -86,6 +92,8 @@ export type BlogPost = {
   tldr?: string;
   cardPrice?: string;
   cardPriceRegion?: string;
+  cardPriceData?: CardPriceData;
+  priceRows?: StructuredPriceRow[];
   tags: string[];
   faq: FaqItem[];
   body: string;
@@ -139,6 +147,8 @@ type DecisionCardBase = {
   wishlistHref: string;
   cardPrice?: string;
   cardPriceRegion?: string;
+  cardPriceData?: CardPriceData;
+  priceDetailDisplay?: string;
   searchIndex: DecisionSearchIndex;
 };
 
@@ -380,6 +390,34 @@ const fallbackNearHistoricalLow: Record<string, Record<BlogLocale, string>> = {
 
 // ── Entry/post helpers ──
 
+const REGION_CODE_LOOKUP: Array<{ pattern: RegExp; regionCode: string }> = [
+  { pattern: /japan|日本/iu, regionCode: 'JP' },
+  { pattern: /hong\s*kong|香港/iu, regionCode: 'HK' },
+  { pattern: /united\s*states|usa|\bus\b|美国/iu, regionCode: 'US' },
+  { pattern: /brazil|brasil|巴西/iu, regionCode: 'BR' },
+  { pattern: /united\s*kingdom|\buk\b|英国/iu, regionCode: 'GB' },
+  { pattern: /germany|deutschland|德国/iu, regionCode: 'DE' },
+  { pattern: /france|法国/iu, regionCode: 'FR' },
+  { pattern: /spain|españa|西班牙/iu, regionCode: 'ES' },
+  { pattern: /europe|eu|欧洲/iu, regionCode: 'EU' },
+];
+
+function inferRegionCode(region = '') {
+  return REGION_CODE_LOOKUP.find((entry) => entry.pattern.test(region))?.regionCode;
+}
+
+function inferCardPriceDataFromLegacy(cardPrice?: string, cardPriceRegion?: string): CardPriceData | undefined {
+  if (!cardPrice || !cardPriceRegion) return undefined;
+  const eurMatch = cardPrice.match(/€\s?(\d+(?:\.\d+)?)/u);
+  const eurPrice = eurMatch ? Number.parseFloat(eurMatch[1]) : NaN;
+  const regionCode = inferRegionCode(cardPriceRegion);
+  if (!Number.isFinite(eurPrice) || !regionCode) return undefined;
+  return {
+    eurPrice,
+    regionCode,
+  };
+}
+
 function entryToPost(entry: CollectionEntry<'posts'>): BlogPost {
   const parts = entry.id.split('/');
   const locale = parts[0] as BlogLocale;
@@ -442,6 +480,14 @@ function entryToPost(entry: CollectionEntry<'posts'>): BlogPost {
     tldr: d.tldr,
     cardPrice: d.cardPrice,
     cardPriceRegion: d.cardPriceRegion,
+    cardPriceData: d.cardPriceEur !== undefined
+      && d.cardPriceRegionCode
+      ? {
+        eurPrice: d.cardPriceEur,
+        regionCode: d.cardPriceRegionCode,
+      }
+      : inferCardPriceDataFromLegacy(d.cardPrice, d.cardPriceRegion),
+    priceRows: d.priceRows,
     tags: d.tags,
     faq: d.faq,
     body: '',
@@ -684,11 +730,14 @@ function getPrimaryCtaLabel(post: BlogPost): string {
   return ctaReadGuide[post.locale];
 }
 
-export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel {
+export async function prepareDecisionEntryCard(post: BlogPost): Promise<DecisionEntryCardModel> {
   const verdict = post.verdict || getFallbackVerdict(post);
   const actionBucket = inferActionBucket(post, verdict);
   const priceCall = inferPriceCall(post, verdict);
   const confidence = getDisplayConfidence(post, verdict);
+  const priceDetailDisplay = post.cardPriceData
+    ? await formatAdaptivePriceSummary(post.cardPriceData, post.locale, post.platform)
+    : undefined;
   const base: DecisionCardBase = {
     id: `${post.locale}-${post.slug}`,
     locale: post.locale,
@@ -726,6 +775,8 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
     wishlistHref: post.wishlistHref,
     cardPrice: post.cardPrice,
     cardPriceRegion: post.cardPriceRegion,
+    cardPriceData: post.cardPriceData,
+    priceDetailDisplay,
     searchIndex: getSearchIndex(post),
   };
   if (post.category === 'worth-it') {
@@ -755,12 +806,12 @@ export function prepareDecisionEntryCard(post: BlogPost): DecisionEntryCardModel
 
 export async function getDecisionEntryCards(locale: BlogLocale) {
   const posts = await getAllPosts(locale);
-  return posts.map(prepareDecisionEntryCard).sort(sortByPriorityAndDate);
+  return (await Promise.all(posts.map(prepareDecisionEntryCard))).sort(sortByPriorityAndDate);
 }
 
 export async function getDecisionEntryCardsByCategory(locale: BlogLocale, category: BlogCategory) {
   const posts = await getPostsByCategory(locale, category);
-  return posts.map(prepareDecisionEntryCard).sort(sortByPriorityAndDate);
+  return (await Promise.all(posts.map(prepareDecisionEntryCard))).sort(sortByPriorityAndDate);
 }
 
 export async function getAllBlogPaths() {
@@ -777,7 +828,7 @@ export async function getAllBlogPaths() {
 export async function getDecisionEntryCardsByTopic(locale: BlogLocale, filter: import('./topics').TopicDefinition['filter']) {
   const posts = await getAllPosts(locale);
   const matching = posts.filter((p) => inferQuickFilters(p).includes(filter));
-  return matching.map(prepareDecisionEntryCard).sort(sortByPriorityAndDate);
+  return (await Promise.all(matching.map(prepareDecisionEntryCard))).sort(sortByPriorityAndDate);
 }
 
 export function formatDate(date: string, locale?: BlogLocale) {

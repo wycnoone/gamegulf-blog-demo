@@ -1,5 +1,12 @@
 import { defineCollection, z } from 'astro:content';
 
+const structuredPriceRow = z.object({
+  regionCode: z.string(),
+  eurPrice: z.number(),
+  nativePrice: z.string(),
+  nativeCurrency: z.string(),
+});
+
 const posts = defineCollection({
   type: 'content',
   schema: z.object({
@@ -67,6 +74,11 @@ const posts = defineCollection({
     tldr: z.string().optional(),
     cardPrice: z.string().optional(),
     cardPriceRegion: z.string().optional(),
+    cardPriceEur: z.number().optional(),
+    cardPriceNative: z.string().optional(),
+    cardPriceNativeCurrency: z.string().optional(),
+    cardPriceRegionCode: z.string().optional(),
+    priceRows: z.array(structuredPriceRow).optional(),
     tags: z.array(z.string()),
     faq: z.array(z.object({
       question: z.string(),
