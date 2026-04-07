@@ -187,6 +187,10 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 - Never put HLTB / HowLongToBeat user scores in `heroStat` or `reviewSignal` — keep HLTB in `playtime` and prose only.
 - Rare exception: the same non-score editorial allowlist as the validator (e.g. Animal Crossing’s `Long-tail cozy sim` / `长线治愈模拟`).
 
+**`playtime` (optional):**
+- Do **not** write “HLTB not mapped / pipeline” disclaimers — omit `playtime` or give useful numbers.
+- If the brief has no HLTB, you may take Main Story / Story + Sides / Everything-style bands from a public catalog (e.g. `https://www.ign.com/games/{slug}`) when present; output **hours only** — do not name the source in frontmatter or body.
+
 **Character limits (truncation breaks cards):**
 
 | Field | Max |
@@ -201,6 +205,11 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 | timeFit | 82 |
 | fitLabel | 72 |
 | tldr | 160 |
+
+**`communityVibe` vs `playerVoices` (do not mix):**
+- **`communityVibe`** → the one-line **list/decision card** quote under the label from `card.playerConsensus` (e.g. zh-hans 玩家热评). ≤64 chars.
+- **`playerVoices`** → **detail page** structured quotes only; **not** shown on that card line.
+- The validator warns if `playerVoices` is populated but `communityVibe` is empty (likely field confusion).
 
 **Writing style guardrails:**
 - Sound like a sharp buying advisor, not a content marketer
@@ -248,7 +257,8 @@ The validator checks:
 - Duplicate keys
 - All required fields present
 - Enum values valid (verdict, priceCall, confidence, etc.)
-- Character limits for card fields
+- Character limits for card fields (see `communityVibe` vs `playerVoices` above)
+- Warns when `playerVoices` is set but `communityVibe` is missing (list cards need `communityVibe`)
 - Structured arrays (faq, playerVoices, tags)
 - Argentina exclusion
 - Link format
@@ -262,6 +272,7 @@ Common fixes:
 - Duplicate keys → remove one
 - Character limit exceeded → shorten the field
 - Missing required field → add it
+- List card quote wrong / empty but `playerVoices` filled → set **`communityVibe`** for the card; do not rely on `playerVoices` for that UI
 
 ## Phase 4 — Build Check
 

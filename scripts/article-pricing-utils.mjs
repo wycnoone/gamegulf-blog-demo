@@ -221,12 +221,12 @@ const PRICE_TABLE_HEADERS = {
 
 const PRICE_HEADING_KEYWORDS = {
   en: ['how much', 'price', 'discount'],
-  'zh-hans': ['多少钱', '价格', '折扣'],
-  fr: ['combien', 'prix', 'promo'],
-  es: ['cuánto', 'precio', 'oferta'],
-  de: ['wie viel', 'preis', 'rabatt'],
-  ja: ['いくら', '価格', 'セール'],
-  pt: ['quanto custa', 'preço', 'promoção'],
+  'zh-hans': ['多少钱', '价格', '折扣', 'how much', 'price', 'discount'],
+  fr: ['combien', 'prix', 'promo', 'how much', 'price', 'discount'],
+  es: ['cuánto', 'precio', 'oferta', 'how much', 'price', 'discount'],
+  de: ['wie viel', 'preis', 'rabatt', 'how much', 'price', 'discount'],
+  ja: ['いくら', '価格', 'セール', 'how much', 'price', 'discount'],
+  pt: ['quanto custa', 'preço', 'promoção', 'how much', 'price', 'discount'],
 };
 
 let eurRatesPromise = null;

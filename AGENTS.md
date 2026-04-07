@@ -134,6 +134,10 @@ Use a normalized verdict system:
 - Do not repeat nearly identical sentence structures across cards
 - Metadata such as date and reading time must be visually secondary to verdict and takeaway
 
+### List card “player consensus” line (not the detail module)
+
+- The quoted line on **decision/list cards** under the label from **`card.playerConsensus`** (e.g. zh-hans **玩家热评**) comes from frontmatter **`communityVibe`** (≤64 chars). **`playerVoices`** is only for the **article detail** “player voices” block — it does **not** drive that card line. Do not edit one expecting the other to change.
+
 ---
 
 ## Information Architecture Rules
@@ -200,6 +204,8 @@ SEO should support usefulness, not replace it.
 ## Engineering Rules
 
 - Article **heroStat** (detail cover strip) and **reviewSignal** (list cards) are **Metacritic critic score** surfaces when a numeric score is shown — not HLTB, Steam user %, etc.; HLTB belongs in **playtime** and body. `scripts/validate-article.mjs` enforces this (with a small allowlist for non-score editorial labels such as Animal Crossing’s hero line).
+- **`playtime`** is optional. Do **not** fill it with “no HLTB mapping / pipeline” disclaimers — that reads like internal tooling, not a buying answer. If HowLongToBeat is not in the brief, either **omit** `playtime` or give **short time bands** you can verify from a public game catalog. **Do not** name or cite the data source in `playtime`, FAQ, or body copy — keep it to hours and plain wording.
+- **List/decision cards** show a quoted line under **`card.playerConsensus`** (UI label varies by locale; e.g. zh-hans **玩家热评**). That string is frontmatter **`communityVibe`** (≤64 chars, validated in `scripts/validate-article.mjs`). **`playerVoices`** is detail-page structured content only — it is not the source for that card line.
 - Reuse components whenever possible
 - Avoid monolithic page components
 - Prefer composable, reusable UI sections
@@ -257,6 +263,7 @@ Before finishing any blog-page redesign, confirm:
 9. UI patterns are reusable
 10. SEO-critical structure is preserved or intentionally documented if changed
 11. Worth-it / buy-timing **article bodies** read like **research memos** inside the standard H2s: concrete anchors (systems, performance, price triggers), not adjective-only marketing tone
+12. List-card **player consensus** copy is **`communityVibe`**, not **`playerVoices`** (run `node scripts/validate-article.mjs` — it warns if `playerVoices` is set but `communityVibe` is missing)
 
 ---
 

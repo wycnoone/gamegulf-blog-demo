@@ -221,6 +221,8 @@ Card display fields — HARD CHARACTER LIMITS:
 These are TRUNCATED by the UI — text beyond the limit
 gets cut off mid-word. Always write within the limit.
 
+**communityVibe (list card quote under Player Consensus / e.g. zh-hans 玩家热评) is NOT playerVoices** — `playerVoices` is detail-page quotes only; `validate-article.mjs` warns if `playerVoices` is set but `communityVibe` is empty.
+
 Decision layer:
 - verdict: buy_now | wait_for_sale | right_player | not_best_fit
 - priceCall: buy | wait | watch
@@ -403,6 +405,11 @@ LANGUAGE RULES
   meaning as list-card `reviewSignal` (e.g. "94 Metacritic", zh-hans:
   "Metacritic 约 94 分"). Do **not** put HLTB, Steam reviews, or other scores
   here; use `playtime` and body for HLTB.
+- `playtime`: optional. Never use “no HLTB / not mapped in pipeline” filler. If
+  HLTB is missing, omit the field **or** give short verifiable bands from a
+  public catalog (e.g. under `https://www.ign.com/games/` — Main Story / Story +
+  Sides / Everything-style lines). **Do not** name or cite the source in copy;
+  state hours only.
 - reviewSignal: must also name **Metacritic** when you include a numeric
   score (validator + UI assume this for the “Metacritic” chip).
 - Use the same slug across all languages

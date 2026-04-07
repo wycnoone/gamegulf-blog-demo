@@ -13,6 +13,10 @@
  *   0 = all files valid
  *   1 = one or more validation errors
  *   2 = usage error
+ *
+ * Field ↔ UI (do not confuse):
+ * - communityVibe → decision/list cards, label from translations `card.playerConsensus` (e.g. zh-hans 玩家热评). ≤64 chars.
+ * - playerVoices → article detail structured block only; not used for that card line.
  */
 
 import { readFileSync, existsSync } from 'node:fs';
@@ -41,6 +45,7 @@ const RECOMMENDED_FIELDS = [
   'priceSignal', 'currentDeal', 'salePattern', 'playerVoices',
 ];
 
+/** Limits for card/detail surfaces; communityVibe = list card Player Consensus (`card.playerConsensus`), not playerVoices. */
 const CHAR_LIMITS = {
   whatItIs: 90,
   bestFor: 60,
@@ -346,8 +351,22 @@ async function validate(filePath, rates) {
   // 6. Character limits
   for (const [field, limit] of Object.entries(CHAR_LIMITS)) {
     if (fm[field] && typeof fm[field] === 'string' && fm[field].length > limit) {
-      errors.push(`${field} exceeds ${limit} chars (actual: ${fm[field].length})`);
+      const hint =
+        field === 'communityVibe'
+          ? ' (list card Player Consensus / card.playerConsensus; not playerVoices)'
+          : '';
+      errors.push(`${field} exceeds ${limit} chars (actual: ${fm[field].length})${hint}`);
     }
+  }
+
+  if (
+    Array.isArray(fm.playerVoices) &&
+    fm.playerVoices.length > 0 &&
+    (!fm.communityVibe || String(fm.communityVibe).trim() === '')
+  ) {
+    warnings.push(
+      'playerVoices is set but communityVibe is empty: list/decision cards use communityVibe under the Player Consensus label (translations: card.playerConsensus); playerVoices does not appear on that card.',
+    );
   }
 
   // 7. Structured array validation
