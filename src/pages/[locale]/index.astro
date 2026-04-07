@@ -24,18 +24,67 @@ if (!isLocale(locale)) {
 const typedLocale = locale as BlogLocale;
 const cards = await getDecisionEntryCards(typedLocale);
 
+const siteUrl = 'https://www.gamegulf.com';
 const path = `${blogBasePath}/${typedLocale}`;
 const localePaths = Object.fromEntries(locales.map((l) => [l, `${blogBasePath}/${l}`])) as Record<BlogLocale, string>;
 const alternates = getLocaleAlternates(localePaths);
+
+const listingTitle = t(typedLocale, 'listing.title');
+const listingDescription = t(typedLocale, 'listing.description');
+
+const jsonLd: object[] = [
+  {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: listingTitle,
+    description: listingDescription,
+    url: `${siteUrl}${path}`,
+    inLanguage: langTags[typedLocale],
+    isPartOf: {
+      '@type': 'WebSite',
+      name: 'GameGulf',
+      url: siteUrl,
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      numberOfItems: cards.length,
+      itemListElement: cards.slice(0, 10).map((card, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        url: `${siteUrl}${card.href}`,
+        name: card.title,
+      })),
+    },
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'GameGulf',
+        item: siteUrl,
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: listingTitle,
+        item: `${siteUrl}${path}`,
+      },
+    ],
+  },
+];
 ---
 
 <BaseLayout
-  title={t(typedLocale, 'listing.title')}
-  description={t(typedLocale, 'listing.description')}
+  title={listingTitle}
+  description={listingDescription}
   lang={langTags[typedLocale]}
   canonical={path}
   ogImage={defaultOgImage}
   alternates={alternates}
+  jsonLd={jsonLd}
 >
   <BlogShell locale={typedLocale} localePaths={localePaths}>
     <DecisionHomeHub locale={typedLocale} cards={cards} client:load />

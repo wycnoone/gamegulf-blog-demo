@@ -1,6 +1,7 @@
 # AGENTS.md
 
 ## Product Context
+
 GameGulf is a decision-oriented game buying platform for players who want to compare prices, judge sale timing, and decide whether a game is worth buying.
 
 The blog is not a generic SEO content archive. It should function as a decision-support layer for the main product.
@@ -10,6 +11,7 @@ Every blog page should feel useful to human readers first, while still preservin
 ---
 
 ## Core Product Principles
+
 - Help users decide faster
 - Help users avoid bad purchases
 - Help users understand whether to buy now or wait
@@ -19,6 +21,7 @@ Every blog page should feel useful to human readers first, while still preservin
 ---
 
 ## UX Principles
+
 - Human usefulness comes before SEO presentation
 - Pages should be easy to scan in under 10 seconds
 - Surface decision value early
@@ -29,13 +32,16 @@ Every blog page should feel useful to human readers first, while still preservin
 ---
 
 ## Blog Page Goals
+
 Every blog category page should help users answer:
+
 1. Which article should I read first?
 2. Is this game right for me?
 3. Should I buy now or wait for a sale?
 4. What should I do next after reading?
 
 Every blog article page should help users answer:
+
 1. Is this game a good fit for me?
 2. Is the current price reasonable?
 3. Should I buy now, wait, or skip?
@@ -44,6 +50,7 @@ Every blog article page should help users answer:
 ---
 
 ## Content Style Rules
+
 - Write like a practical buying advisor, not a generic content marketer
 - Use concise, decision-first language
 - Emphasize player fit, timing, value, and tradeoffs
@@ -52,12 +59,14 @@ Every blog article page should help users answer:
 - Avoid empty SEO-style wording that does not help the user decide
 
 ### Avoid phrases like
+
 - “This guide explains...”
 - “In this article, we cover...”
 - “Focused on what the game offers...”
 - “Everything you need to know...”
 
 ### Prefer phrasing like
+
 - “Worth buying if you want...”
 - “Best for players who...”
 - “Wait for a sale if...”
@@ -65,6 +74,7 @@ Every blog article page should help users answer:
 - “Not the best fit if...”
 
 ### Detail page body — research-memo depth (same modules, richer copy)
+
 Keep the **fixed H2 section order** (quick verdict → price → what it is → performance → buy/wait → closing). Within each section, write like a **compact experience research memo**: findings first, then **checkable specifics** — not a trailer script or adjective stack.
 
 - **Quick verdict:** After the direct answer, include **at least one** concrete anchor from the brief or indexed data (e.g. price spread, Metacritic, HLTB band, first-party sale pattern, co-op format).
@@ -74,13 +84,16 @@ Keep the **fixed H2 section order** (quick verdict → price → what it is → 
 - **SEO / GEO:** Headings stay real user questions; pack **searchable nouns** (modes, platform, co-op) into the **first two sentences** under each heading so excerpts read like answers, not teasers.
 
 ### Localization (every target language)
+
 - **Idiom over literal translation:** do not mirror another locale clause-by-clause. Keep the same facts, verdicts, and price logic, but **re-express** them in **natural phrasing** that native readers expect (rhythm, collocations, section hooks).
 - Avoid translationese: calques, stacked abstract nouns, unexplained English jargon where a normal local term exists, and “report / index / narrative” register when everyday buying language works better.
 
 ---
 
 ## Decision-First Content Model
+
 When presenting games, prioritize these questions:
+
 1. Who is this for?
 2. Who should skip it?
 3. Is it worth the current price?
@@ -91,9 +104,11 @@ When presenting games, prioritize these questions:
 ---
 
 ## Blog Card Rules
+
 Blog list cards should be decision cards, not generic article summary cards.
 
 Each card should aim to include:
+
 - Title
 - Clear verdict badge
 - One-line takeaway
@@ -104,13 +119,16 @@ Each card should aim to include:
 - Clear CTA hierarchy
 
 ### Verdict System
+
 Use a normalized verdict system:
+
 - `buy_now` → **Buy now**
 - `wait_for_sale` → **Wait for sale**
 - `right_player` → **Worth it for the right player**
 - `not_best_fit` → **Not the best fit right now**
 
 ### Card Copy Rules
+
 - The first 1 to 2 lines must communicate decision value
 - Do not make cards read like article abstracts
 - Do not repeat nearly identical sentence structures across cards
@@ -119,7 +137,9 @@ Use a normalized verdict system:
 ---
 
 ## Information Architecture Rules
+
 For category/listing pages:
+
 - Add a clear hero that explains user outcome, not just category definition
 - Include quick filters near the top
 - Include a featured section before the standard grid
@@ -127,6 +147,7 @@ For category/listing pages:
 - Maintain strong visual hierarchy between featured and non-featured content
 
 Recommended sections for category pages:
+
 1. Hero
 2. Quick filters
 3. Featured decisions
@@ -137,9 +158,11 @@ Recommended sections for category pages:
 ---
 
 ## CTA Rules
+
 CTAs should reflect GameGulf’s product flow.
 
 Preferred hierarchy:
+
 1. Primary CTA: **Read guide**
 2. Secondary CTA: **Set alert**
 3. Tertiary CTA: **View pricing**
@@ -150,6 +173,7 @@ The user journey should feel like:
 ---
 
 ## SEO Rules
+
 - Preserve existing article URLs unless there is an intentional migration plan
 - Preserve internal linking wherever possible
 - Keep semantic heading structure strong
@@ -162,6 +186,7 @@ SEO should support usefulness, not replace it.
 ---
 
 ## Visual Design Rules
+
 - Clean, editorial, product-oriented
 - Strong scanability
 - Clear spacing and hierarchy
@@ -173,6 +198,7 @@ SEO should support usefulness, not replace it.
 ---
 
 ## Engineering Rules
+
 - Article **heroStat** (detail cover strip) and **reviewSignal** (list cards) are **Metacritic critic score** surfaces when a numeric score is shown — not HLTB, Steam user %, etc.; HLTB belongs in **playtime** and body. `scripts/validate-article.mjs` enforces this (with a small allowlist for non-score editorial labels such as Animal Crossing’s hero line).
 - Reuse components whenever possible
 - Avoid monolithic page components
@@ -186,7 +212,9 @@ SEO should support usefulness, not replace it.
 ---
 
 ## Component Expectations
+
 When redesigning a blog listing page, prefer reusable components such as:
+
 - Hero section
 - Filter chip bar
 - Featured decision cards
@@ -199,7 +227,9 @@ Do not hardcode everything into one page file if reusable components are more ap
 ---
 
 ## Implementation Workflow
+
 For medium or large changes:
+
 1. Diagnose the current page
 2. Propose information architecture
 3. Identify components to build or update
@@ -213,7 +243,9 @@ For non-trivial work, produce a plan before coding.
 ---
 
 ## Validation Checklist
+
 Before finishing any blog-page redesign, confirm:
+
 1. The page clearly communicates what user outcome it provides
 2. Quick filters are visible and useful
 3. Featured content exists where appropriate
@@ -229,7 +261,9 @@ Before finishing any blog-page redesign, confirm:
 ---
 
 ## Default Standard
+
 When choosing between:
+
 - SEO vs usability → choose usability without damaging SEO
 - more content vs clearer content → choose clearer content
 - clever wording vs direct decision help → choose direct decision help

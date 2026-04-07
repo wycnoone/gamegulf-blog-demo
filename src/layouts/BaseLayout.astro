@@ -16,6 +16,16 @@ interface Props {
   articleTags?: string[];
 }
 
+const ogLocaleMap: Record<string, string> = {
+  en: 'en_US',
+  'zh-Hans': 'zh_CN',
+  fr: 'fr_FR',
+  es: 'es_ES',
+  de: 'de_DE',
+  ja: 'ja_JP',
+  pt: 'pt_BR',
+};
+
 const {
   title,
   description = 'GameGulf buying guides for Nintendo Switch players comparing prices, sale timing, and whether a game is worth buying now.',
@@ -34,6 +44,7 @@ const {
 const siteUrl = 'https://www.gamegulf.com';
 const fullTitle = title.includes('GameGulf') ? title : `${title} | GameGulf Blog`;
 const canonicalUrl = canonical ? `${siteUrl}${canonical}` : undefined;
+const ogLocale = ogLocaleMap[lang] || 'en_US';
 ---
 
 <!doctype html>
@@ -54,6 +65,8 @@ const canonicalUrl = canonical ? `${siteUrl}${canonical}` : undefined;
     <meta property="og:image" content={ogImage} />
     <meta property="og:image:width" content="1200" />
     <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="GameGulf" />
+    <meta property="og:locale" content={ogLocale} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
