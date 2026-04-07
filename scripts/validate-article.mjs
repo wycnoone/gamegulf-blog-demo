@@ -24,6 +24,7 @@ import {
   getEurExchangeRates,
   inferLocaleFromFilePath,
   normalizePriceRows,
+  stripUtf8Bom,
 } from './article-pricing-utils.mjs';
 
 const REQUIRED_FIELDS = [
@@ -98,6 +99,37 @@ const ARGENTINA_PATTERNS = [
   /argentinien/iu,
 ];
 
+/** Cover strip + list cards must show Metacritic critic score, not HLTB. */
+const HERO_REVIEW_FORBIDDEN = [
+  /\bhltb\b/i,
+  /howlongtobeat/i,
+  /how\s*long\s*to\s*beat/i,
+];
+
+const HERO_REVIEW_NON_METACRITIC_ALLOWLIST = [
+  /^long-tail cozy sim$/iu,
+  /^长线治愈模拟$/,
+];
+
+function validateMetacriticHeroFields(fm, errors) {
+  for (const field of ['heroStat', 'reviewSignal']) {
+    const value = fm[field];
+    if (!value || typeof value !== 'string') continue;
+    const t = value.trim();
+    if (HERO_REVIEW_FORBIDDEN.some((re) => re.test(t))) {
+      errors.push(
+        `${field} must not reference HLTB/HowLongToBeat — use Metacritic critic score (or approved non-score label); HLTB belongs in playtime/body only`,
+      );
+      continue;
+    }
+    if (/\bmetacritic\b/i.test(t)) continue;
+    if (HERO_REVIEW_NON_METACRITIC_ALLOWLIST.some((re) => re.test(t))) continue;
+    errors.push(
+      `${field} must include "Metacritic" and a 2–3 digit critic score (cover + cards), or match allowlist: Long-tail cozy sim / 长线治愈模拟`,
+    );
+  }
+}
+
 function parseFrontmatter(content) {
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) return { fm: null, body: content, raw: '' };
@@ -157,12 +189,12 @@ function hasExpectedPriceTable(body) {
       PRICE_TABLE_REGION_HEADERS.some((term) => cell.includes(term)));
     const hasPriceHeader = headerCells.some((cell) =>
       PRICE_TABLE_PRICE_HEADERS.some((term) => cell.includes(term)));
-    return hasRegionHeader && hasPriceHeader && rows.length >= 5 && rows.length <= 8;
+    return hasRegionHeader && hasPriceHeader && rows.length >= 4 && rows.length <= 8;
   });
 }
 
 function hasStructuredPriceRows(fm) {
-  return Array.isArray(fm.priceRows) && fm.priceRows.length >= 5 && fm.priceRows.length <= 8;
+  return Array.isArray(fm.priceRows) && fm.priceRows.length >= 4 && fm.priceRows.length <= 8;
 }
 
 function normalizeTableString(table) {
@@ -188,8 +220,8 @@ async function validateStructuredPricing(filePath, fm, body, errors, warnings, r
   }
 
   const priceRows = normalizePriceRows(fm.priceRows);
-  if (priceRows.length < 5 || priceRows.length > 8) {
-    errors.push(`priceRows must contain 5-8 entries (actual: ${priceRows.length})`);
+  if (priceRows.length < 4 || priceRows.length > 8) {
+    errors.push(`priceRows must contain 4-8 entries (actual: ${priceRows.length})`);
     return;
   }
 
@@ -242,7 +274,7 @@ async function validate(filePath, rates) {
     return { file: filePath, status: 'ERROR', errors: ['File not found'], warnings: [] };
   }
 
-  const content = readFileSync(filePath, 'utf8');
+  const content = stripUtf8Bom(readFileSync(filePath, 'utf8'));
 
   // 1. YAML parsing
   let fm, body, raw;
@@ -273,6 +305,8 @@ async function validate(filePath, rates) {
       errors.push(`Missing required field: ${f}`);
     }
   }
+
+  validateMetacriticHeroFields(fm, errors);
 
   // 4. Recommended fields
   for (const f of RECOMMENDED_FIELDS) {
@@ -384,7 +418,7 @@ async function validate(filePath, rates) {
 
     if (fm.category === 'worth-it' || fm.category === 'buy-now-or-wait') {
       if (!hasStructuredPriceRows(fm) && !hasExpectedPriceTable(bodyClean)) {
-        errors.push('Regional price comparison table missing (priceRows or markdown table with 5-8 rows required)');
+        errors.push('Regional price comparison table missing (priceRows or markdown table with 4-8 rows required)');
       }
       await validateStructuredPricing(filePath, fm, bodyClean, errors, warnings, rates);
       if (!hasDiscountHistoryAnalysis(bodyClean)) {

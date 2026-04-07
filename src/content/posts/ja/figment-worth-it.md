@@ -1,150 +1,179 @@
 ---
-title: "2026年、Nintendo SwitchでFigmentは買う価値がある？"
-description: "FigmentのSwitch購入ガイド — プレイヤーとの相性、約5時間のプレイ時間、パフォーマンス、日本主導のグローバル最安値で買う価値があるかを解説します。"
-publishedAt: "2026-03-31"
-updatedAt: "2026-03-31"
-category: "worth-it"
-gameTitle: "Figment"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "7分で読める"
-decision: "音楽主導の短編パズルアドベンチャーで、アートが魅力的なゲームを求めるなら買いです。深い戦闘、長大なキャンペーン、わかりやすいパズルのヒントが必要なら見送りを。"
-priceSignal: "日本eShopでグローバル最安値が約€0.55（デジタル）。地域間の価格差が大きいタイトルなので、購入前に比較するのがおすすめです。"
-heroStat: "75 Metacritic"
-heroNote: "Bedtime Digitalの手描きアクションパズラー — 戦闘の深さではなく、音楽とボス演出がアイデンティティ。"
-badge: "Worth It"
-verdict: "buy_now"
-priceCall: "buy"
-confidence: "high"
-actionBucket: "buy_now"
-featuredPriority: 4
-listingTakeaway: "Metacritic 75点のミュージカルパズラーが大幅割引 — 雰囲気重視のアドベンチャーが好みならリスクは低い。"
-whatItIs: "シュールな精神世界のパズラー：手描きアート、音楽主導のボス戦、軽快な剣戦闘。"
-bestFor: "深い戦闘ではなく、約5時間の雰囲気重視パズルを楽しみたい方に。"
-avoidIf: "長大なキャンペーン、ハードな戦闘、わかりやすいヒントが必要な方は見送りを。"
-consensusPraise: "アート、ダイナミックなスコア、歌うボス戦がプレイヤーの記憶に最も残る要素。"
-mainFriction: "戦闘はシンプルなまま。一部パズルのヒントが曖昧。Switchではエリア間でカクつくことも。"
-timeFit: "週末1回か、ヘッドホンを付けた携帯モードでの数セッション — コアは約5時間。"
-fitLabel: "システムよりもアートとサウンドトラックを重視する、雰囲気派パズルファン向け。"
-timingNote: "グローバル最安値がここまで低いなら、好奇心を満たすコストも低い。"
-communityVibe: "歌うナイトメア、トランペットの木、ヘッドホンゲームの極み。"
-playtime: "~5h story, ~6.5h completionist"
-reviewSignal: "75 Metacritic"
-takeaway: "Figmentは個性が強い小さなゲーム — 現在の大幅割引なら、弱点も許せるレベルです。"
-playStyle: "シュールな精神世界を探索し、環境パズルを解き、軽い近接戦闘と音楽的なボスバトルに挑む。"
-timeCommitment: "メインストーリーは約5時間、コンプリート狙いだと約6.5時間ほどです。"
-playMode: "シングルプレイヤー。"
-whyNow: "地域別の大幅割引で、ほぼノーリスクで試せるチャンスです。"
-currentDeal: "日本eShopでグローバル最安値が約€0.55（デジタル）。他の地域は価格が異なるため、購入前にライブ比較をおすすめします。"
-nearHistoricalLow: "はい — €0.55クラスの価格は、このタイトルの通常の最安水準と同等です。"
-salePattern: "Figmentは頻繁にセールになります。ここまで安いと、待つことで節約できる金額より時間コストの方が大きくなります。"
-priceRecommendation: "buy"
+title: 2026年、Switch版Figmentは買う価値ある？
+description: 2026年4月ガイド。Metacritic約75の音楽脳内アドベンチャー、索引セールが史低圏、HLTB時間、 今買う人向け。
+publishedAt: "2026-04-07"
+updatedAt: "2026-04-07"
+category: worth-it
+gameTitle: Figment
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 約8分
+decision: 短く曲メインのアクションADVが欲しく、2026年4月索引が日本行を史低付近に置いているなら買い。
+priceSignal: 索引は日本が約€0.54相当の大セール、EU複数店は€19.99帯MSRP——差が巨大。
+heroStat: Metacritic クライティック約75
+heroNote: Bedtime Digitalの音楽旅。DustyとPiper、歌うボス、手描き奇想と軽戦闘。
+badge: 今買い
+verdict: buy_now
+priceCall: buy
+confidence: high
+actionBucket: buy_now
+featuredPriority: 2
+listingTakeaway: 奇想音楽ADV——2026年4月索引は先行地域で史低姿勢。
+whatItIs: 音楽アクションADV——軽い剣戦、謎、ボス曲、超現実マップ。
+bestFor: 短いインディーでサウンド主役が好きな人。
+avoidIf: ソウル級戦闘か40時間RPGが欲しい。
+consensusPraise: アート、音楽＝世界、ボスデュエットの魅力。
+mainFriction: 戦闘は簡単——上限は探索と謎。
+timeFit: HLTB 本編約5h・6h付加・7h完走。
+fitLabel: 遊べるコンセプトアルバム扱いの人。
+timingNote: 日本プロモ帯に入れるなら躊躇は好み次第——それでも最新行を確認。
+communityVibe: ボス耳残り、コージー悪夢、Piperポジ
+playtime: 5h · 6h+ · ~7h（HLTB）
+reviewSignal: Metacritic クライティック約75
+takeaway: Figmentは索引が史低に寄った時に衝動買いしやすい——日本アンカーが自分に効くかは要確認。
+playStyle: アイソメ軽戦闘、謎、ミュージカルセット、脳内世界の恐怖対峙。
+timeCommitment: HLTB 約5時間本編、6時間付加、7時間コンプ。
+playMode: シングル。
+whyNow: 価格が主役——品質は70台前半の魅力作、完璧神作ではない。
+currentDeal: 索引は日本~€0.54相当（¥2,200文脈）が先頭、米・BRセール、EU MSRP。
+nearHistoricalLow: はい——2026年4月索引は現在の日本主導プロモを史低姿勢と見做す。
+salePattern: 深いプロモは繰り返し——来たら掴み、MSRP回帰を避ける。
+priceRecommendation: buy
 quickFilters:
-  - "great_on_sale"
-  - "under_20"
-  - "short_sessions"
+  - short_sessions
+  - under_20
+  - great_on_sale
 playerNeeds:
-  - "buy_now"
-  - "casual"
-  - "value_for_money"
+  - buy_now
+  - value_for_money
 tags:
-  - "figment スイッチ"
-  - "figment 買うべき 2026"
-  - "figment switch レビュー"
-  - "switch 短編アドベンチャー おすすめ"
-  - "bedtime digital figment"
+  - figment switch
+  - figment 買い
+  - bedtime digital
+  - switch 音楽インディー
 playerVoices:
-  - quote: "評価の一致点：サウンドトラックとボスの歌がプレイする一番の理由。"
-    sentiment: "positive"
-  - quote: "評価の一致点：手描きのアートとワールドデザインが価格以上のクオリティ。"
-    sentiment: "positive"
-  - quote: "評価の一致点：5時間という短さが、バックログに追われるプレイヤーにはむしろ魅力。"
-    sentiment: "positive"
-  - quote: "よくある批判：戦闘が体験の主役にはならない。"
-    sentiment: "negative"
-  - quote: "よくある批判：ガイドなしでは解法がわかりにくいパズルがいくつかある。"
-    sentiment: "negative"
-  - quote: "賛否両論：Switch版では特に後半でフレームドロップやエリア間のロードが報告されている。"
-    sentiment: "mixed"
+  - quote: ボスがデュエット
+    sentiment: positive
+  - quote: PiperがDustyを中和
+    sentiment: positive
+  - quote: 戦闘より謎
+    sentiment: mixed
+  - quote: 週末で完結
+    sentiment: positive
+  - quote: ダジャレ苦手なら文案が刺さる
+    sentiment: negative
+  - quote: サントラ欲しい
+    sentiment: positive
 communityMemes:
-  - "ナイトメアたちの歌がこんなに良いのはずるい"
-  - "ダスティは休業中の勇気、パイパーが雰囲気を支えてる"
-  - "トランペットの木は一時的なものじゃない"
-  - "まずヘッドホンゲームである"
-  - "Figment 1をFigment 2の前に — バンドルの沼"
-tldr: "Figmentは1€以下で購入可能——雰囲気重視の5時間音楽パズル、リスクほぼゼロ。"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price"
-gameHref: "https://www.gamegulf.com/detail/hZKMhNbPlWw"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/17409875715241128812355.jpeg"
-heroTheme: "brand"
+  - Dusty老獪
+  - Piper応援
+tldr: Figment — Metacritic約75の音楽インディー；2026年4月索引は先行地域で史低圏——好みが合えば買い。
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price
+gameHref: https://www.gamegulf.com/detail/hZKMhNbPlWw
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: https://cdn.gamegulf.com/upload/17409875715241128812355.jpeg
+heroTheme: brand
 faq:
-  - question: "2026年、Nintendo SwitchでFigmentは買う価値がある？"
-    answer: "Figmentは音楽とアートを中心にした短くスタイリッシュなパズルアドベンチャーを求めていて、軽めの戦闘で問題なければ買う価値があります。2026年3月時点で、GameGulfのデータによると日本eShopのグローバル最安値は約€0.55。非常にリスクの低い買い物です。"
-  - question: "Figmentのクリアまでどのくらいかかる？"
-    answer: "Figmentはメインストーリーに集中して約5時間です。やり込みプレイだと6.5時間程度になることが多く、パズルの進み具合によって前後します。"
-  - question: "Nintendo SwitchでのFigmentの動作はどう？"
-    answer: "FigmentはゆっくりとしたパズルアドベンチャーとしてはSwitch上で十分に動作します。携帯モード・ドッキングモードともにアートの方向性がしっかり活きています。一部のプレイヤーからは、特にキャンペーン後半でフレームドロップやエリア間のロードが報告されています。"
-  - question: "Figmentはどんなゲーム？"
-    answer: "Figmentはシングルプレイヤーのシュールなアクションアドベンチャーです。精神をテーマにしたエリアを探索し、環境パズルを解き、軽い敵との戦闘をこなし、音楽主導のボス戦に挑みます。戦闘アクションというよりは、雰囲気主導のパズルジャーニーに近い作品です。"
-  - question: "Figmentを見送るべき人は？"
-    answer: "長大なキャンペーン、深い戦闘システム、常に次の一手がわかるパズルを求める方にはFigmentは合いません。このゲームの魅力は雰囲気、音楽、そしてコンパクトなプレイ時間にあります。"
-  - question: "Figment 2の前にFigmentをプレイすべき？"
-    answer: "Figmentは単体で完結しています。Figment 2から始めることもできますが、先にFigmentをプレイすればストーリーと世界観の文脈が保たれます。迷っている場合は、購入前に両タイトルの地域別価格をライブ比較してみてください。"
+  - question: 2026年Switch版Figmentは買う？
+    answer: Figmentは短く音楽中心の手描きADVが欲しく戦闘は軽めでいいなら買い。2026年4月も索引は 攻めプロモ——GameGulfで自地域を確認。
+  - question: Figmentの時間は？
+    answer: FigmentはHLTBで本編約5時間、付加約6時間、コンプ約7時間。
+  - question: 子供向き？
+    answer: Figmentは悪夢を比喩で描くがボスはやや不気味——幼児向けなら映像確認。
+  - question: Switch動作は？
+    answer: FigmentはSwitchで安定した軽量パフォーマンス、携帯でも読みやすい——たまのロードのみ。
+  - question: Figment 2を先に？
+    answer: Figmentは完結した音楽ADV——まず本篇の謎と曲を買い、続編は後で判断。
+priceRows:
+  - regionCode: JP
+    eurPrice: 0.54
+    nativePrice: ¥2,200
+    nativeCurrency: JPY
+  - regionCode: US
+    eurPrice: 1.73
+    nativePrice: $19.99
+    nativeCurrency: USD
+  - regionCode: BR
+    eurPrice: 2.02
+    nativePrice: R$99.99
+    nativeCurrency: BRL
+  - regionCode: HK
+    eurPrice: 16.5
+    nativePrice: HK$149
+    nativeCurrency: HKD
+  - regionCode: DE
+    eurPrice: 19.99
+    nativePrice: €19.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 19.99
+    nativePrice: €19.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 19.99
+    nativePrice: €19.99
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 19.99
+    nativePrice: €19.99
+    nativeCurrency: EUR
+cardPriceEur: 0.54
+cardPriceRegionCode: JP
+cardPriceRegion: 日本
+cardPrice: JPY 99
+cardPriceNative: ¥2,200
+cardPriceNativeCurrency: JPY
 ---
+
 ## クイック結論
 
-**Figmentは2026年のNintendo Switchで、グローバル価格がここまで安いなら買う価値があります。** 約5時間のムード重視の作品で、戦闘の深さよりも音楽とボスの演出が重要 — 衝動買い価格帯なら気軽におすすめできますが、定価だとやや推しにくいタイトルです。
+**FigmentはMetacritic約75の音楽脳内ADV**——**Dusty/Piper**、**歌うボス**、**手描きマップ**。**HLTB** **5/6/7h**。
 
-本当の問題は、Figmentに魅力があるかどうかではありません。あります。問題は、**何週間もハマるシステム重視のタイトルではなく、短いヘッドホンゲーム**を求めているかどうかです。
+2026年4月**価格**が強い：**日本~€0.54相当**、年**7回**割引接触、**平均セール~€0.77**——**史低寄り**。好みが合えば**買い**。[価格表](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)で確認。
 
-## 現在のSwitch版Figmentの価格は？
+## Switch版Figmentの価格はいくら？セール履歴つき
 
-2026年3月時点で、FigmentのグローバルデジタルeShop最安値はGameGulfのライブ地域データによると**日本eShopの約€0.55**です。
+**索引は日本~€0.54相当から。**
 
-- **日本**がこのタイトルのデジタル最安値をリードすることが多い
-- **他の地域**は別のセールスケジュールで動いている — ライブ比較表で自分のアカウント地域と照らし合わせるのが賢い動き
 
-定価だとキャンペーンが短いため躊躇しやすいFigmentですが、大幅割引帯ならその躊躇はほぼ消えます。地域横断トラッカーが役立つのはまさにこういうケース：ある地域が他より大幅に安くなった時に人が買うゲームです。
+| 地域 | 価格（円換算） | 現地価格 |
+| --- | ---: | ---: |
+| 日本 | JPY 99 | ¥2,200 |
+| アメリカ合衆国 | JPY 318 | $19.99 |
+| ブラジル | JPY 372 | R$99.99 |
+| 香港 | JPY 3035 | HK$149 |
+| ドイツ | JPY 3677 | €19.99 |
+| スペイン | JPY 3677 | €19.99 |
+| フランス | JPY 3677 | €19.99 |
+| イタリア | JPY 3677 | €19.99 |
 
-## Figmentは実際にどんなゲーム？
+**セール**と**最安値**の両方で見ると、追跡データの**平均セール価格は約€0.77**で、**2025年**から続く深いプロモ帯と整合します。直近の大きな動きは**2026年3月20日**の**日本**行で**約45%**の値下げとして記録されており、現在のプロモ帯は事実上**歴史的な安さ**に寄っています。**待ち**はMSRPに戻るリスクです。
 
-Figmentは人間の精神の中を舞台にしたシュールなアクションアドベンチャーで、不機嫌な「勇気」の化身ダスティとパイパーが、思考・恐怖・記憶で形作られた地区を進んでいきます。
+## どんなゲーム？
 
-1. **パズルアドベンチャーが本質** — 探索、環境ロジック、小さなインタラクティブ要素が、コンボ重視の戦闘よりも大きな役割を果たします。
-2. **音楽が構造の一部** — 敵やボスがリズムとパフォーマンスに連動しています。サウンドトラックは背景BGMではなく、記憶に残るコアな体験です。
-3. **明るさの中にある暗いテーマ** — カラフルなイラストと遊び心のあるオブジェクトの奥に、恐怖と回復のテーマがあります。
+音楽がギミックの**アイソメADV**——**Freedom Isles**等を探索、**悪夢**が曲攻撃。
 
-**週末サイズのアーティスティックな体験**を求めるなら、Figmentはぴったりです。**メカニクスの深さや30時間のキャンペーン**を求めるなら、物足りなく感じるでしょう。
+1. **ミュージカルボス**——音取りで覚える。
+2. **謎優先**——戦闘は添え物。
+3. **感情比喩**——不安と勇気を具象化。
 
-## Switchでの動作は？
+**INSIDE**/**LIMBO**より明るいが短尺は同じ。
 
-FigmentはゆっくりとしたパズルアドベンチャーとしてSwitch上で十分な動作をします — フレームグラフのベンチマーク目的で買うタイトルではなく、公開されているSwitch版レビューではアートの方向性を忠実に再現したポートと評価されています。
+## Switchでは？
 
-- **携帯モード＋ヘッドホン**がサウンドデザインのスイートスポット
-- **ドッキングモード**でも手描き風の背景はきれいに映る
-- **報告されている問題**は、エリア間のカクつきやロードで、主に後半のエリアで発生 — 気になるが、ゲーム進行を破壊するほどではない
+軽量安定、読みやすい。**60fps**求めるなら別作品。
 
-Figmentの売りは雰囲気です。Switch版はほとんどの購入者にとって**その雰囲気を十分に届けられる**品質です。
+## 買うなら
 
-## 今すぐ買うべき人
+音楽世界が欲しい、**行**がプロモ、週末尺、**75点期待**合致。
 
-- 長大なRPGではなく、**1回の座りか週末1回**で終わるゲームが欲しい
-- 戦闘の複雑さよりムードが勝つ**パズル主体のアドベンチャー**が好き
-- **音楽重視のインディー**や個性的なビジュアルのゲームがすでに好き
-- **大幅割引**で「試してみる」のが悩むより安い
-- アートとオーディオが良ければ**多少の荒さは許容**できる
+## 待つなら
 
-## 見送りまたはスキップすべき人
+深い戦闘必須、**€19.99**のみで他区がセール、ダジャレ嫌い、PC所持でSwitchは史低のみ。
 
-- **戦闘がゲームを起動する主な理由**であってほしい
-- 解法が**わかりにくい**パズルが嫌い
-- **プレイ時間とリプレイ性**がチケット代に見合う時だけ買う
-- 安いからクリックしただけ — **相性はどの価格でも大事**
+## まとめ
 
-## 割引が背中を押す時
+**Figment**は**索引**が**史低**に寄った時が勝ち筋。
 
-**Figmentのアイデンティティは明確です** — 描かれた精神世界、劇場的なナイトメア、ミュージカルのセットピースのようなボス戦。その明確さこそが、メカニクスの評価がまちまちでも記憶に残る理由です。
-
-**だからこそセールの深さが重要なのです。** Figmentは誰にとっても定価で即買いのタイトルである必要はありませんが、グローバル最安値なら賢い買い物になります。スクリーンショットやサントラの試聴ですでに惹かれているなら、地域の最安値で「はい」と言うのはお財布にも時間にもやさしい選択です。
+**GameGulfで一度見て**、行が合えば**プロモ**確保。

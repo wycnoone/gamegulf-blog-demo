@@ -14,80 +14,104 @@
       "status": "done",
       "priority": "high",
       "added": "2026-04-01",
-      "completed": "2026-04-03",
-      "notes": "Zelda: Tears of the Kingdom — first game processed with new pipeline"
+      "completed": "2026-04-07",
+      "notes": "Zelda: Tears of the Kingdom — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/3GVaaSqOXnv",
       "status": "done",
       "priority": "high",
       "added": "2026-04-01",
-      "completed": "2026-04-02",
-      "notes": "Hades"
+      "completed": "2026-04-07",
+      "notes": "Hades — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/INlLdFP5Q9",
       "status": "done",
       "priority": "high",
       "added": "2026-04-01",
-      "completed": "2026-04-02",
-      "notes": "Persona 5 Royal"
+      "completed": "2026-04-07",
+      "notes": "Persona 5 Royal — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/byr07mi5hyW",
       "status": "done",
       "priority": "normal",
       "added": "2026-04-01",
-      "completed": "2026-04-02",
-      "notes": "Super Mario Bros. Wonder"
+      "completed": "2026-04-07",
+      "notes": "Super Mario Bros. Wonder — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/dBQesuYO7Cn",
       "status": "done",
       "priority": "normal",
       "added": "2026-04-01",
-      "completed": "2026-04-02",
-      "notes": "Animal Crossing: New Horizons"
+      "completed": "2026-04-07",
+      "notes": "Animal Crossing: New Horizons — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/1HNILYERbn5",
       "status": "done",
       "priority": "normal",
       "added": "2026-04-01",
-      "completed": "2026-04-01",
-      "notes": "Metroid Dread"
+      "completed": "2026-04-07",
+      "notes": "Metroid Dread — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/hOtepbk2uh2",
       "status": "done",
       "priority": "normal",
       "added": "2026-04-01",
-      "completed": "2026-04-01",
-      "notes": "Mario Kart 8 Deluxe"
+      "completed": "2026-04-07",
+      "notes": "Mario Kart 8 Deluxe — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO",
       "status": "done",
       "priority": "normal",
       "added": "2026-04-01",
-      "completed": "2026-04-01",
-      "notes": "INSIDE"
+      "completed": "2026-04-07",
+      "notes": "INSIDE — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/hZKMhNbPlWw",
       "status": "done",
       "priority": "normal",
       "added": "2026-04-01",
-      "completed": "2026-04-01",
-      "notes": "Figment"
+      "completed": "2026-04-07",
+      "notes": "Figment — regenerated from fresh brief + 7-locale articles"
     },
     {
       "url": "https://www.gamegulf.com/detail/c0V9fA7j5D0",
       "status": "done",
       "priority": "normal",
       "added": "2026-04-01",
-      "completed": "2026-04-01",
-      "notes": "Pikmin 4"
+      "completed": "2026-04-07",
+      "notes": "Pikmin 4 — regenerated from fresh brief + 7-locale articles"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/6Rq3jqh8KUa",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-07",
+      "completed": "2026-04-07",
+      "notes": "Tetris Effect: Connected — regenerated from fresh brief + 7-locale articles"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/9t3j1FNGEAF",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-07",
+      "completed": "2026-04-07",
+      "notes": "Ori and the Will of the Wisps — regenerated from fresh brief + 7-locale articles"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/eLGzpo7MZsV",
+      "status": "done",
+      "priority": "normal",
+      "added": "2026-04-07",
+      "completed": "2026-04-07",
+      "notes": "13 Sentinels: Aegis Rim — regenerated from fresh brief + 7-locale articles"
     }
   ]
 }

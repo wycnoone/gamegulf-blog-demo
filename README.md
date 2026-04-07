@@ -4,17 +4,19 @@ Static blog for **GameGulf** — decision-oriented game buying guides — served
 
 Helps players decide: **buy now, wait for sale, or skip?**
 
-For editorial and product rules (tone, card copy, CTAs), see [`AGENTS.md`](./AGENTS.md).
+For editorial and product rules (tone, card copy, CTAs), see `[AGENTS.md](./AGENTS.md)`.
 
 ## Tech stack
 
-| Piece | Role |
-|--------|------|
-| **Astro 5** | Static site generation, content collections, layouts |
-| **React 19** | Islands: home hub, filters, topic grids |
-| **TypeScript** | Types across `lib/` and components |
-| **Node.js scripts** | Data extraction, validation, queue management |
-| **@astrojs/sitemap** | Sitemap from built routes |
+
+| Piece                | Role                                                 |
+| -------------------- | ---------------------------------------------------- |
+| **Astro 5**          | Static site generation, content collections, layouts |
+| **React 19**         | Islands: home hub, filters, topic grids              |
+| **TypeScript**       | Types across `lib/` and components                   |
+| **Node.js scripts**  | Data extraction, validation, queue management        |
+| **@astrojs/sitemap** | Sitemap from built routes                            |
+
 
 ## Requirements
 
@@ -39,8 +41,8 @@ npm run preview  # serve dist/ locally
 
 ```
 src/
+├── content.config.ts             # posts collection: glob loader + Zod schema
 ├── content/
-│   ├── config.ts                 # posts collection schema (Zod)
 │   └── posts/{locale}/*.md       # one file per locale per slug
 ├── components/                   # Astro + React (.tsx islands)
 ├── layouts/BaseLayout.astro      # HTML shell, meta, JSON-LD hooks
@@ -164,23 +166,27 @@ npm run preview                         # local preview server
 
 ## Scripts reference
 
-| Script | Purpose | Input | Output |
-|--------|---------|-------|--------|
-| `extract-game-brief.mjs` | Fetch game data from GameGulf, Steam, HLTB; compute price analytics | GameGulf URL | `content/briefs/{slug}.json` |
-| `batch-extract.mjs` | Run extraction for multiple URLs | Multiple URLs | Multiple briefs |
-| `check-existing.mjs` | Check if articles exist for a game | GameGulf URL | JSON: NEW or EXISTS |
-| `validate-article.mjs` | Validate Markdown articles against schema and quality rules | `.md` file paths | JSON: PASS/FAIL with errors |
-| `queue-next.mjs` | Manage the generation queue | Subcommands | JSON status/game info |
+
+| Script                   | Purpose                                                             | Input            | Output                       |
+| ------------------------ | ------------------------------------------------------------------- | ---------------- | ---------------------------- |
+| `extract-game-brief.mjs` | Fetch game data from GameGulf, Steam, HLTB; compute price analytics | GameGulf URL     | `content/briefs/{slug}.json` |
+| `batch-extract.mjs`      | Run extraction for multiple URLs                                    | Multiple URLs    | Multiple briefs              |
+| `check-existing.mjs`     | Check if articles exist for a game                                  | GameGulf URL     | JSON: NEW or EXISTS          |
+| `validate-article.mjs`   | Validate Markdown articles against schema and quality rules         | `.md` file paths | JSON: PASS/FAIL with errors  |
+| `queue-next.mjs`         | Manage the generation queue                                         | Subcommands      | JSON status/game info        |
+
 
 ## Data sources
 
 The extraction script pulls from three sources:
 
-| Source | Data collected | Method |
-|--------|---------------|--------|
-| **GameGulf** | Regional prices, price trends, discount history, game metadata | Nuxt 3 SSR payload parsing |
-| **Steam** | Reviews, tags, description, screenshots | Steam Store API |
-| **HowLongToBeat** | Main story / completionist playtime | HLTB page scraping |
+
+| Source            | Data collected                                                 | Method                     |
+| ----------------- | -------------------------------------------------------------- | -------------------------- |
+| **GameGulf**      | Regional prices, price trends, discount history, game metadata | Nuxt 3 SSR payload parsing |
+| **Steam**         | Reviews, tags, description, screenshots                        | Steam Store API            |
+| **HowLongToBeat** | Main story / completionist playtime                            | HLTB page scraping         |
+
 
 Price analytics are computed from trend data: all-time low, discount frequency, sale patterns, and a `price_verdict` that drives article recommendations.
 
@@ -194,25 +200,29 @@ URL pattern: `/blog/{locale}/{slug}`
 
 Same slug across locales links translations via `hreflang`. Card prices display the global lowest price converted to each locale's primary currency.
 
-| Locale | Primary currency | Card price example |
-|--------|-----------------|-------------------|
-| en | USD | `$79.99 (€42.96)` |
-| zh-hans, ja | JPY | `¥7,900 (€42.96)` |
-| fr, es, de, pt | EUR | `€42.96 (¥7,900)` |
+
+| Locale         | Primary currency | Card price example |
+| -------------- | ---------------- | ------------------ |
+| en             | USD              | `$79.99 (€42.96)`  |
+| zh-hans, ja    | JPY              | `¥7,900 (€42.96)`  |
+| fr, es, de, pt | EUR              | `€42.96 (¥7,900)`  |
+
 
 ## Content & dates
 
-- **`publishedAt`** (required, `YYYY-MM-DD`) — first publish.
-- **`updatedAt`** (optional) — last substantive edit.
+- `**publishedAt`** (required, `YYYY-MM-DD`) — first publish.
+- `**updatedAt**` (optional) — last substantive edit.
 
 Listing cards show the latest of the two. Structured data uses `datePublished` / `dateModified`.
 
 ## SEO & GEO strategy
 
-| Page type | Optimization target | Approach |
-|-----------|-------------------|----------|
-| Topic pages (`/guides/{topic}`) | Traditional SEO | Static Astro components, `CollectionPage` schema, internal linking |
-| Article pages (`/{slug}`) | GEO (AI search) | Rich structured data, `Speakable`, FAQ schema, decision-first content |
+
+| Page type                       | Optimization target | Approach                                                              |
+| ------------------------------- | ------------------- | --------------------------------------------------------------------- |
+| Topic pages (`/guides/{topic}`) | Traditional SEO     | Static Astro components, `CollectionPage` schema, internal linking    |
+| Article pages (`/{slug}`)       | GEO (AI search)     | Rich structured data, `Speakable`, FAQ schema, decision-first content |
+
 
 Per article: `BlogPosting`, `BreadcrumbList`, `FAQPage`, `VideoGame`, `Review` JSON-LD; Open Graph; canonical per locale; visible breadcrumbs.
 
@@ -220,8 +230,8 @@ Per article: `BlogPosting`, `BreadcrumbList`, `FAQPage`, `VideoGame`, `Review` J
 
 The `.cursor/skills/generate-game-article/` directory contains a complete skill definition for AI agents:
 
-- **`SKILL.md`** — step-by-step pipeline instructions with hard constraints
-- **`quality-checklist.md`** — comprehensive validation checklist
+- `**SKILL.md**` — step-by-step pipeline instructions with hard constraints
+- `**quality-checklist.md**` — comprehensive validation checklist
 
 This enables external AI agents (like OpenClaw) to generate articles autonomously while maintaining quality through strict rules on pricing accuracy, character limits, and writing style.
 

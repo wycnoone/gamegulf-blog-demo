@@ -5,6 +5,7 @@ import type {
   WorthItCardModel,
 } from '@/lib/blog';
 import type { BlogLocale } from '@/lib/i18n';
+import { t } from '@/lib/translations';
 import { shortenText, normalizeForComparison } from '@/lib/text-utils';
 
 type CompactPriceCall = {
@@ -158,13 +159,23 @@ export function getDecisionDisplayTitle(card: DecisionEntryCardModel) {
   return formatTitleByLocale[card.locale];
 }
 
-export function getDecisionScoreChip(card: DecisionEntryCardModel) {
-  if (!card.reviewSignal) return null;
-  const score = card.reviewSignal.match(/\b(\d{2,3})\b/)?.[1];
-  const normalized = normalizeForComparison(card.reviewSignal);
-  if (score && normalized.includes('metacritic')) return `${score} MC`;
-  if (score) return score;
-  return shortenText(card.reviewSignal, 18);
+/** True when reviewSignal names Metacritic (cover + cards must not label other sources as MC). */
+export function reviewSignalIsMetacritic(reviewSignal: string | undefined | null): boolean {
+  if (!reviewSignal || typeof reviewSignal !== 'string') return false;
+  return normalizeForComparison(reviewSignal).includes('metacritic');
+}
+
+/** Metacritic critic score digits for UI, or null if signal is not Metacritic or has no 2–3 digit score. */
+export function getMetacriticScoreFromReviewSignal(reviewSignal: string | undefined | null): string | null {
+  if (!reviewSignalIsMetacritic(reviewSignal)) return null;
+  return reviewSignal.match(/\b(\d{2,3})\b/)?.[1] ?? null;
+}
+
+/** Localized “Metacritic: {score}” for decision cards; null unless reviewSignal is a Metacritic line with a score. */
+export function getMetacriticStatForCard(card: DecisionEntryCardModel): string | null {
+  const score = getMetacriticScoreFromReviewSignal(card.reviewSignal);
+  if (!score) return null;
+  return t(card.locale, 'card.metacritic', { score });
 }
 
 const worthItVerdictBadges: Record<BlogVerdict, Record<BlogLocale, string>> = {

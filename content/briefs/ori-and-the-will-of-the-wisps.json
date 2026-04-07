@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/9t3j1FNGEAF",
     "game_id": "9t3j1FNGEAF",
-    "extracted_at": "2026-04-06",
+    "extracted_at": "2026-04-07",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -351,7 +351,7 @@
       "discount_price": 3.66,
       "discount_rate": 80,
       "discount_tag": "Normal",
-      "discount_end": "3 days",
+      "discount_end": "2 days",
       "release_date": "2017-03-29",
       "categories": [
         "Adventure",
@@ -447,7 +447,7 @@
       "discount_price": 1.04,
       "discount_rate": 65,
       "discount_tag": "Normal",
-      "discount_end": "6 days",
+      "discount_end": "5 days",
       "release_date": "2021-06-08",
       "categories": [
         "Arcade",
@@ -532,7 +532,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T16:28:42+00:00"
+      "priceValidUntil": "2026-05-07T04:32:27+00:00"
     },
     {
       "@type": "Offer",
@@ -545,7 +545,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T16:28:42+00:00"
+      "priceValidUntil": "2026-05-07T04:32:27+00:00"
     },
     {
       "@type": "Offer",
@@ -558,7 +558,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T16:28:42+00:00"
+      "priceValidUntil": "2026-05-07T04:32:27+00:00"
     },
     {
       "@type": "Offer",
@@ -571,7 +571,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T16:28:42+00:00"
+      "priceValidUntil": "2026-05-07T04:32:27+00:00"
     },
     {
       "@type": "Offer",
@@ -584,7 +584,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T16:28:42+00:00"
+      "priceValidUntil": "2026-05-07T04:32:27+00:00"
     },
     {
       "@type": "Offer",
@@ -597,7 +597,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T16:28:42+00:00"
+      "priceValidUntil": "2026-05-07T04:32:27+00:00"
     },
     {
       "@type": "Offer",
@@ -610,7 +610,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T16:28:42+00:00"
+      "priceValidUntil": "2026-05-07T04:32:27+00:00"
     }
   ],
   "price_analytics": {
@@ -653,7 +653,7 @@
           "end": "2026-03-09"
         }
       ],
-      "days_since_last_discount": 28,
+      "days_since_last_discount": 29,
       "last_discount": {
         "date": "2026-03-09",
         "price_eur": 6.5,
@@ -748,9 +748,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 138366,
-        "total_negative": 4958,
-        "total_reviews": 143324,
+        "total_positive": 138368,
+        "total_negative": 4957,
+        "total_reviews": 143325,
         "score_description": "Overwhelmingly Positive",
         "positive_percent": 97
       }

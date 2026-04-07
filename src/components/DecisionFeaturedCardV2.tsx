@@ -4,7 +4,7 @@ import { t } from '@/lib/translations';
 import {
   getDecisionDisplayTitle,
   getCompactPriceCall,
-  getDecisionScoreChip,
+  getMetacriticStatForCard,
 } from '@/lib/decision-card-display';
 
 type DecisionFeaturedCardV2Props = {
@@ -24,10 +24,7 @@ function getReadingMeta(card: DecisionEntryCardModel) {
 }
 
 function getReviewMeta(card: DecisionEntryCardModel) {
-  const scoreChip = getDecisionScoreChip(card);
-  if (!scoreChip) return null;
-  const normalizedScore = scoreChip.replace(/\s*MC$/u, '');
-  return t(card.locale, 'card.metacritic', { score: normalizedScore });
+  return getMetacriticStatForCard(card);
 }
 
 export function DecisionFeaturedCardV2({

@@ -1,83 +1,112 @@
 ---
 title: ¿Vale la pena comprar Hades en Nintendo Switch en 2026?
-description: Guía de compra de Hades para Switch — perfil de jugador, duración de partidas, rendimiento y si este roguelike merece un lugar en tu biblioteca.
-publishedAt: "2026-03-31"
-updatedAt: "2026-03-31"
+description: >-
+  Guía de compra: precios indexados en abril de 2026, brecha frente a un mínimo
+  histórico rastreado en Brasil a finales de 2025, tiempos HLTB, objetivo de 60
+  fps y cuándo comprar o activar alerta de precio.
+publishedAt: "2026-04-07"
+updatedAt: "2026-04-07"
 category: worth-it
 gameTitle: Hades
 platform: Nintendo Switch
 author: GameGulf Editorial AI
 readingTime: 7 min de lectura
-decision: Compra fácil para cualquiera que disfrute la acción rápida y no le moleste morir para progresar. Solo pásalo si la repetición de los roguelike te frustra de verdad.
-priceSignal: Mínimo global en €15.22 en Japón (¥2,800) — una gran oferta para un juego con 93 en Metacritic.
+decision: >-
+  Cómpralo si quieres un roguelite top y no te molesta morir para avanzar.
+  Espera con alerta si tu eShop va muy por encima del índice japonés o solo
+  persigues el suelo histórico rastreado.
+priceSignal: >-
+  El índice pone a Japón cerca de ~15,22 € equivalentes (¥2.800) al frente; el
+  histórico rastreado muestra un mínimo histórico cerca de 4,66 € en Brasil a
+  finales de 2025 — el precio actual es buen valor, no ese suelo.
 heroStat: 93 Metacritic
-heroNote: Uno de los indies mejor calificados de la historia — ganador de múltiples GOTY, por Supergiant Games.
-badge: Worth It
-verdict: buy_now
-priceCall: buy
-confidence: high
-actionBucket: buy_now
+heroNote: >-
+  Referencia de Supergiant: combate isométrico rápido, hub doblado al completo,
+  banda sonora que la comunidad sigue citando.
+badge: Para el jugador adecuado
+verdict: right_player
+priceCall: watch
+confidence: medium
+actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: Roguelike con 93 en Metacritic a €15.22 — partidas rápidas, historia profunda, casi perfecto en Switch.
-whatItIs: "RPG de acción roguelike: combate con mitología griega, profundidad narrativa"
-bestFor: Fans de la acción que disfrutan partidas cortas con
-avoidIf: Pásalo si la repetición de los roguelike o la falta de un final claro
-consensusPraise: Combate, historia, arte y música se fusionan en el roguelike más pulido de Switch.
-mainFriction: Las partidas de final de juego se sienten repetitivas cuando los hilos narrativos
-timeFit: Diseñado para sesiones de 30 minutos — una partida cabe en un almuerzo o un viaje
-fitLabel: Fans de roguelikes y acción que disfrutan la progresión en sesiones
-timingNote: Al mínimo global actual en Japón, es uno de los mejores precios disponibles para un juego con 93 en Metacritic.
-communityVibe: No hay escapatoria — y no vas a querer una.
-playtime: 20-25h story, 90h+ completionist
+listingTakeaway: >-
+  Roguelite 93 Metacritic — Japón lidera el índice; las ofertas profundas son
+  raras pero duras.
+whatItIs: >-
+  Roguelite ARPG: runs por el inframundo, historia en el hub, pulido y OST
+  Supergiant.
+bestFor: Sesiones cortas con arco narrativo largo.
+avoidIf: Evítalo si la repetición roguelite te agota o necesitas un rail lineal.
+consensusPraise: Manejo, guion, arte y música siguen en la élite indie de Switch.
+mainFriction: Tras el arco principal, salas y enemigos se sienten más repetidos.
+timeFit: HLTB ~23 h historia, ~49 h extras, ~95 h completista.
+fitLabel: Jugadores que ven el fracaso como combustible narrativo.
+timingNote: >-
+  Si solo importa el precio, compara tu fila eShop con Japón indexado y el ancla
+  brasileña de 2025.
+communityVibe: Meme de “no hay escape” + BSO en bucle mental
+playtime: 23 h historia · 49 h+ extras · ~95 h completista (HLTB)
 reviewSignal: 93 Metacritic
-takeaway: Hades a €15.22 es una de las recomendaciones más fáciles en Switch — rápido, profundo y hecho para jugar en portátil.
-playStyle: Combate isométrico frenético con variedad de armas, bendiciones divinas y metaprogresión permanente.
-timeCommitment: 20-25 horas para llegar al final de la historia, 90-100 horas para completistas. Cada partida dura entre 20 y 40 minutos.
+takeaway: >-
+  Hades sigue siendo compra fácil de recomendar — trata el precio de abril de
+  2026 como retail Japan-led, no como el mínimo histórico rastreado.
+playStyle: >-
+  Hack and slash isométrico, seis armas con aspectos, bendiciones olímpicas,
+  espejo nocturno de meta-progreso.
+timeCommitment: >-
+  Agregados HLTB: ~23 h ruta principal, ~49 h con extras, ~95 h completista;
+  cada intento suele durar 20-40 minutos.
 playMode: Un jugador.
-whyNow: El mínimo global de €15.22 en Japón (¥2,800) ofrece una excelente relación calidad-precio para un juego con 93 en Metacritic.
-currentDeal: Mínimo global en €15.22 en la eShop de Japón (¥2,800). Varias otras regiones por debajo de €20.
-nearHistoricalLow: Sí — está en o cerca del mínimo histórico en la mayoría de las regiones.
-salePattern: Hades entra en oferta con frecuencia, más o menos cada 1-2 meses. Los descuentos más agresivos aparecen en los grandes eventos de venta de Nintendo.
-priceRecommendation: buy
+whyNow: >-
+  La calidad está resuelta; falta ver si tu fila regional encaja con el ancla
+  japonesa.
+currentDeal: >-
+  Abril 2026: Japón lidera (~15,22 € equivalentes, ¥2.800); Brasil y EE. UU. van
+  más arriba en el mismo snapshot.
+nearHistoricalLow: >-
+  No — las tendencias rastreadas marcan ~4,66 € en Brasil el 18 de diciembre de
+  2025, por debajo del cuadro actual.
+salePattern: >-
+  Pocos eventos profundos en la ventana de un año; cuando llegan, la oferta
+  corta fuerte y luego vuelve el precio base.
+priceRecommendation: watch
 quickFilters:
-  - great_on_sale
-  - under_20
   - short_sessions
+  - under_20
+  - great_on_sale
 playerNeeds:
-  - buy_now
   - value_for_money
+  - wait_for_sale
 tags:
   - hades switch
   - hades vale la pena 2026
-  - mejor roguelike switch
+  - mejor roguelite switch
   - hades rendimiento switch
-  - supergiant games switch
+  - supergiant switch
 playerVoices:
-  - quote: El combate se siente increíble — cada arma tiene un flujo completamente diferente
+  - quote: Cada aspecto de arma cambia por completo el ritmo del combate
     sentiment: positive
-  - quote: Nunca me había importado la historia en un roguelike hasta que Hades me hizo cambiar de opinión
+  - quote: Primera vez que me importa la historia en un roguelite gracias al hub
     sentiment: positive
-  - quote: Juego perfecto para portátil — una partida antes de dormir se convirtió en mi ritual nocturno
+  - quote: Perfecto en portátil — una run antes de dormir se volvió ritual
     sentiment: positive
-  - quote: Las actuaciones de voz y la escritura de personajes avergüenzan a la mayoría de juegos AAA
+  - quote: El doblaje supera con creces el presupuesto indie típico
     sentiment: positive
-  - quote: Después de más de 50 partidas, la variedad de enemigos empieza a desgastarse
+  - quote: Tras muchas runs algunos biomas se sienten iguales
     sentiment: negative
-  - quote: Si no disfrutas morir y reiniciar, este género no es para ti
-    sentiment: negative
-  - quote: La historia es genial pero llegar al verdadero final requiere MUCHAS partidas exitosas
+  - quote: Si odias morir para avanzar, el género no se vuelve mágico aquí
     sentiment: negative
 communityMemes:
-  - No hay escapatoria
-  - Zagreus coquetea literalmente con todos
-  - "Caronte dice: hhhhhhnnnnnn"
-  - Teseo es insoportable y nos encanta odiarlo
-  - ¿Bendición de Atenea? Con mucho gusto
-  - El soundtrack de Hades vive gratis en mi cabeza
-  - Cerbero es el mejor chico
-tldr: Hades es una compra segura en Switch a €15.22 — roguelike con 93 en Metacritic y rendimiento perfecto en portátil.
-cardPrice: €15.22 (¥2,800)
-cardPriceRegion: Japón
+  - No hay escape
+  - Zagreo coquetea con todos
+  - Caronte y su hhhhhnnnnnn
+  - Teseo gimnasio insufrible
+  - Las bendiciones deciden tu personalidad
+  - Banda sonora gratis en la cabeza
+  - Cerbero buen chico
+tldr: >-
+  Hades — 93 Metacritic; abril 2026 Japón lidera el índice; ofertas profundas
+  raras — compra si encaja, alerta si persigues precio.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price
 gameHref: https://www.gamegulf.com/detail/3GVaaSqOXnv
@@ -86,72 +115,134 @@ coverImage: https://cdn.gamegulf.com/upload/1740987626994180329071.jpeg
 heroTheme: brand
 faq:
   - question: ¿Vale la pena comprar Hades en Nintendo Switch en 2026?
-    answer: Hades absolutamente vale la pena en Switch — corre a 60 fps, se adapta perfecto al modo portátil y ofrece una experiencia roguelike con 93 en Metacritic. A marzo de 2026, GameGulf muestra el mínimo global en €15.22 en Japón (¥2,800), convirtiéndolo en una de las mejores compras por valor en la plataforma.
-  - question: ¿Cuánto tiempo toma terminar Hades?
-    answer: Hades toma aproximadamente 20-25 horas para llegar a la conclusión principal de la historia, con partidas individuales de entre 20 y 40 minutos. Los completistas que quieran ver todo el contenido narrativo y maximizar relaciones deben esperar entre 90 y 100 horas.
-  - question: ¿Cómo corre Hades en Nintendo Switch?
-    answer: Hades corre a 60 fps en Switch tanto en modo dock (1080p) como portátil (720p), con caídas de frames poco frecuentes durante los encuentros más caóticos. El estilo artístico pintado a mano se adapta bien a la pantalla más pequeña.
-  - question: ¿Es Hades bueno para sesiones cortas de juego?
-    answer: Hades es ideal para sesiones cortas — cada intento de escape toma entre 20 y 40 minutos con puntos de parada naturales entre partidas. El juego se guarda automáticamente después de cada sala, perfecto para viajes o ventanas cortas de juego.
-  - question: ¿Quién no debería comprar Hades?
-    answer: Hades no es la mejor opción para jugadores que encuentran frustrante la repetición de los roguelike o que necesitan un punto final claro y definido. Aunque el juego tiene una conclusión narrativa, llegar a ella requiere docenas de partidas repetidas por entornos similares.
+    answer: >-
+      Hades sigue valiendo la pena en 2026 si quieres combate isométrico pulido,
+      narrativa doblada y runs cortas con progreso claro. En abril de 2026 la
+      cuadrícula indexada de GameGulf arranca cerca de ~15,22 € equivalentes en
+      la eShop japonesa (¥2.800) — revisa tu fila en la [tabla multiregión en
+      vivo](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) antes de
+      pagar.
+  - question: ¿Cuánto tarda Hades en completarse?
+    answer: >-
+      Hades ronda unas 23 h de historia principal, ~49 h con extras y ~95 h para
+      rutas completistas según agregados HLTB; cada intento suele durar entre 20
+      y 40 minutos.
+  - question: ¿Cómo rinde Hades en Switch?
+    answer: >-
+      Hades apunta a ~60 fps en modos TV y portátil en Switch, con arte dibujado
+      que se lee bien en pantalla pequeña — solo espera caídas puntuales en
+      combates caóticos, no tirones constantes.
+  - question: ¿Debo esperar a Hades II?
+    answer: >-
+      Hades II es una secuela aparte; el primer Hades es una aventura roguelite
+      completa hoy — cómpralo por lo que ofrece ya, no como mero aperitivo.
+  - question: ¿Quién debería esperar?
+    answer: >-
+      Hades conviene posponer si tu eShop sigue muy por encima de la fila
+      japonesa indexada o si solo persigues promos tipo Brasil finales de 2025 —
+      fija un precio objetivo en GameGulf y deja que la próxima oferta profunda
+      te alcance.
+priceRows:
+  - regionCode: JP
+    eurPrice: 15.22
+    nativePrice: ¥2,800
+    nativeCurrency: JPY
+  - regionCode: BR
+    eurPrice: 15.55
+    nativePrice: R$92.46
+    nativeCurrency: BRL
+  - regionCode: US
+    eurPrice: 21.69
+    nativePrice: $24.99
+    nativeCurrency: USD
+  - regionCode: DE
+    eurPrice: 24.99
+    nativePrice: €24.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 24.99
+    nativePrice: €24.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 24.99
+    nativePrice: €24.99
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 24.99
+    nativePrice: €24.99
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 24.99
+    nativePrice: €24.99
+    nativeCurrency: EUR
+cardPriceEur: 15.22
+cardPriceRegionCode: JP
+cardPriceRegion: Japón
+cardPrice: EUR 15.22
+cardPriceNative: ¥2,800
+cardPriceNativeCurrency: JPY
 ---
 
 ## Veredicto rápido
 
-**Hades es una de las recomendaciones más fáciles en Nintendo Switch en 2026.** Un roguelike con 93 en Metacritic, combate de primer nivel, una narrativa genuinamente atrapante y un mínimo global de €15.22 en Japón — casi no hay razón para dudar, a menos que de plano no te guste el loop roguelike de morir y reiniciar.
+**Hades sigue entre las recomendaciones indie más sólidas en Switch** — **93 Metacritic**, **combate claro**, **historia en el hub** y **banda sonora memorable**. Los agregados HLTB rondan **23 h / 49 h / 95 h** según tu obsesión por el contenido.
 
-La verdadera pregunta no es si Hades es bueno. Lo es. La pregunta es: **¿puedes disfrutar un juego construido alrededor del fracaso repetido como mecánica central?**
+En 2026 la fricción es **precio indexado frente a mínimo histórico**: el snapshot deja a **Japón cerca de ~15,22 € equivalentes (¥2.800)**, mientras el **histórico rastreado** conserva un **mínimo histórico** cerca de **~4,66 € en Brasil el 18 de diciembre de 2025** —unos **110 días** antes de abril— con **pocos eventos de oferta** contados en un año. Si te gusta el bucle, **compra cuando tu fila sea razonable**; si solo buscas el suelo, **usa alerta**.
 
-## ¿Cuánto cuesta Hades en Switch ahora mismo?
+## ¿Cuánto cuesta Hades en Switch ahora?
 
-El mínimo global de Hades se ubica en aproximadamente €15.22 en la eShop de Japón (¥2,800) a marzo de 2026.
+**Japón sigue liderando la tabla digital indexada cerca de ~15,22 € equivalentes (¥2.800); Brasil y EE. UU. quedan más arriba en el mismo snapshot.**
 
-- **eShop de Japón: ~€15.22 (¥2,800)** — el mínimo global actual
-- **eShop de EE.UU.: históricamente baja a ~$6.24** durante las grandes ofertas
-- El precio completo es $24.99, pero los descuentos fuertes aparecen más o menos cada 1-2 meses
 
-Para un juego de esta calidad y calificación, hasta $25 es razonable. A €15.22, la relación calidad-precio es excelente. El rastreador de precios regionales de GameGulf muestra qué eShop tiene actualmente la mejor oferta para tu cuenta.
+| Región | Precio (equivalente en EUR) | Precio nativo |
+| --- | ---: | ---: |
+| Japón | EUR 15.22 | ¥2,800 |
+| Brasil | EUR 15.55 | R$92.46 |
+| Estados Unidos | EUR 21.69 | $24.99 |
+| Alemania | EUR 24.99 | €24.99 |
+| España | EUR 24.99 | €24.99 |
+| Francia | EUR 24.99 | €24.99 |
+| Italia | EUR 24.99 | €24.99 |
+| Portugal | EUR 24.99 | €24.99 |
 
-## ¿Qué tipo de juego es Hades en realidad?
+La **oferta** importa más que la etiqueta: el **mínimo histórico** rastreado cae cerca de **~4,66 € en la eShop brasileña (18 de diciembre de 2025)**, con **promedios de descuento** también cerca de **4,66 €** en esa ventana — así que **el precio actual es un retail decente**, no ese **mínimo histórico**. Confirma **tu** fila en la [cuadrícula en vivo](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price).
 
-Hades es un RPG de acción roguelike de Supergiant Games donde juegas como Zagreus, hijo del dios de los muertos, luchando para escapar del Inframundo griego una partida a la vez.
+## ¿Qué tipo de juego es en la práctica?
 
-1. **Combate isométrico frenético** — Seis armas distintas, cada una con cuatro variantes, más bendiciones divinas aleatorias que transforman tu build en cada partida. El combate es preciso, responsivo y recompensa tanto la agresividad como el timing.
-2. **Historia a través de la repetición** — A diferencia de la mayoría de roguelikes, morir no es un reinicio. Cada partida fallida avanza las relaciones de los personajes, desbloquea nuevo diálogo e impulsa la narrativa general. La historia es el loop.
-3. **Progresión permanente** — El Espejo de la Noche y las renovaciones de la casa te permiten hacerte más fuerte entre partidas, así que incluso una mala partida da progreso tangible.
+**Roguelite narrativo donde morir empuja la trama** : salas infernales aleatorias, bendiciones olímpicas que rehacen tu build y regreso a un hub doblado donde las relaciones avanzan aunque la run falle.
 
-La genialidad de Hades es que las dos mitades — el desafío de combate y la historia — se alimentan mutuamente. Mueres, aprendes algo nuevo sobre los personajes, te haces más fuerte e intentas de nuevo. El ciclo nunca se siente como castigo.
+1. **Seis armas con aspectos** — el ritmo cambia más rápido que inflar números.
+2. **Builds de bendiciones** — dos runs seguidas casi nunca se sienten iguales.
+3. **Progreso persistente** — espejo nocturno, contratos, recuerdos: horas largas también fuera de las runs.
 
-## ¿Cómo corre en Switch?
+**Hades II** viene después; **el primero es un arco cerrado** que vale por sí mismo.
 
-Hades corre a 60 fps en Switch tanto en modo dock como portátil — un logro genuino para este hardware.
+## ¿Cómo rinde en Switch?
 
-- **Objetivo de 60 fps** con caídas poco frecuentes durante los encuentros más cargados de partículas
-- **1080p en dock / 720p en portátil** — el arte pintado a mano se traduce hermosamente en ambos modos
-- **Tiempos de carga** rápidos, típicamente 2-3 segundos entre áreas
-- **Modo portátil** es posiblemente la mejor forma de jugarlo — las partidas de 30 minutos encajan naturalmente en sesiones portátiles
-- **Sin contenido faltante** — la versión de Switch está completa, incluyendo todas las actualizaciones post-lanzamiento
+**Hades apunta a una sensación de ~60 fps**, clave para leer telegrafías de ataque.
 
-Hades fue diseñado pensando en Switch desde temprano en el desarrollo, y se nota. El rendimiento está entre los mejores de cualquier título indie en la plataforma.
+- **Portátil:** runs de 20–40 minutos naturales; UI legible.
+- **TV:** resalta el arte; el rendimiento es comparable salvo picos de caos.
+- **Paridad:** el contenido digital es el mismo — elige la tienda de **tu** cuenta.
 
-## Cómpralo ahora si
+Es **un port respetado**, no un apoyo lastimero.
 
-- Disfrutas la acción rápida basada en habilidad y no te molesta aprender a través del fracaso
-- Quieres un juego que recompense sesiones de 30 minutos sin requerir compromisos de una hora
-- Valoras una narrativa sólida y buena escritura de personajes junto al gameplay
-- Buscas un juego amigable para portátil que se juega perfecto en modo handheld
-- El precio actual hace que el riesgo financiero sea efectivamente cero
+## Compra ya si
 
-## Espera o pásalo si
+- Quieres **runs cortas** con **historia que avanza** entre intentos
+- **Tu fila eShop** está cerca del **ancla japonesa indexada**
+- Valoras **doblaje y música** al nivel del gameplay
+- La **repetición roguelite** te parece **combustible**, no castigo
+- Comparas con **otros action que sí terminas**, no con minis de diez horas
 
-- La repetición roguelike te frustra genuinamente — Hades la suaviza, pero el loop sigue siendo morir-reiniciar-repetir
-- Necesitas un punto final claro y lineal para sentirte motivado — la conclusión narrativa requiere muchas partidas exitosas
-- Ya jugaste Hades en PC u otra plataforma y consideras comprarlo de nuevo — vale la pena a precios de oferta por la portabilidad, pero no es esencial
-- Tu backlog está desbordado y sabes que un "roguelike rápido" va a absorber más de 50 horas antes de que te des cuenta
+## Espera si
 
-## El loop que te sigue jalando
+- **Tu tienda** sigue cara frente al **Japón indexado**
+- Odias **morir para progresar** y quieres **campaña lineal**
+- Ya tienes **Hades en otra plataforma** y solo quieres **precio histórico** en Switch
+- **El presupuesto del mes aprieta** — mejor **alerta** que impulso
+- Buscas sobre todo **mundo abierto enorme** — mira [nuestra guía de TOTK](/blog/es/the-legend-of-zelda-tears-of-the-kingdom-worth-it)
 
-**Hades logra algo que casi ningún otro roguelike ha conseguido: hacer que el fracaso se sienta como progreso.** Cada muerte te envía de vuelta a la Casa de Hades, donde nuevas conversaciones, nuevos momentos narrativos y nuevas mejoras te esperan. El mundo avanza sin importar si tienes éxito o no, y eso cambia fundamentalmente cómo se sienten las partidas repetidas.
+## Por qué el hype aguanta
 
-**Si ese loop te atrapa, Hades silenciosamente se convertirá en uno de tus juegos más jugados en Switch.** Al precio actual, el único costo real es el tiempo que voluntariamente le vas a dedicar — y según el consenso de la comunidad, la mayoría de los jugadores consideran ese tiempo extraordinariamente bien invertido.
+**Hades vende ganas de probar otra arma o build**, no solo una casilla de “terminado”. **Mira tu fila una vez**: si el número encaja, juega. Si no, **fija un precio** y deja que la próxima **oferta** profunda cierre el trato.

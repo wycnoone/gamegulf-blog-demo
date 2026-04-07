@@ -181,6 +181,12 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 
 **Argentina (AR) is excluded** — do not reference it anywhere.
 
+**Metacritic vs HLTB (`heroStat` + `reviewSignal`):**
+- Detail cover and decision cards treat these fields as **Metacritic** when a score is shown.
+- Use critic score + the word `Metacritic` (e.g. `92 Metacritic`, zh-hans: `Metacritic 约 92 分`).
+- Never put HLTB / HowLongToBeat user scores in `heroStat` or `reviewSignal` — keep HLTB in `playtime` and prose only.
+- Rare exception: the same non-score editorial allowlist as the validator (e.g. Animal Crossing’s `Long-tail cozy sim` / `长线治愈模拟`).
+
 **Character limits (truncation breaks cards):**
 
 | Field | Max |
@@ -200,6 +206,7 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 - Sound like a sharp buying advisor, not a content marketer
 - No "This guide explains..." or "Everything you need to know..."
 - Prefer "Worth buying if..." / "Wait for a sale if..." / "Best for..."
+- **Detail body = research memo inside fixed H2s:** substantive, inspection-like copy — named systems, performance facts, comparisons, purchase triggers. Quick verdict: **≥1** checkable fact from brief/analytics. Game + performance sections: **≥2** anchors each after the bold line. Buy/wait: situation+trigger; **≥50%** bullets with a concrete cue. No invented “we played 40 hours” unless true.
 - GameGulf mentioned exactly 2 times total (1× FAQ, 1× body)
 - No mention of SEO, GEO, AI, templates, or prompts
 - Every section opens with a definitive quotable statement
@@ -207,9 +214,10 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 
 **Multilingual:**
 - Same slug across all 7 locales
-- All text fields translated; URLs/dates/category unchanged
+- All text fields in the target language; URLs/dates/category unchanged
+- **Idiom over literal translation:** never line-by-line calque from English (or any other source locale). Convey the same decisions and data using **idiomatic** phrasing a native editor would use for that language.
 - Titles match how users in that language actually search
-- Reads like native writing, not machine translation
+- Card copy and body must read like **native editorial**, not machine translation or translationese
 
 ### Output files
 

@@ -1,4 +1,13 @@
-import { basename } from 'node:path';
+import { readdirSync } from 'node:fs';
+import { basename, dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+
+const __pricingUtilsDir = dirname(fileURLToPath(import.meta.url));
+
+/** Strip UTF-8 BOM so /^---/ frontmatter regexes match (Windows-saved UTF-8 files). */
+export function stripUtf8Bom(text) {
+  return typeof text === 'string' ? text.replace(/^\uFEFF/, '') : text;
+}
 
 export const DISPLAY_CURRENCY_BY_LOCALE = {
   en: 'USD',
@@ -223,7 +232,8 @@ const PRICE_HEADING_KEYWORDS = {
 let eurRatesPromise = null;
 
 export function inferLocaleFromFilePath(filePath) {
-  const match = filePath.match(/\/posts\/([^/]+)\//);
+  const normalized = String(filePath).replace(/\\/g, '/');
+  const match = normalized.match(/\/posts\/([^/]+)\//);
   return match?.[1] || null;
 }
 
@@ -402,4 +412,25 @@ export function buildPriceRowsFromBrief(brief, locale) {
   }
 
   return deduped.slice(0, 8);
+}
+
+/** Every `*.md` under `src/content/posts/{locale}/` (cross-platform). */
+export function listAllBlogPostMarkdownPaths() {
+  const root = join(__pricingUtilsDir, '..', 'src', 'content', 'posts');
+  const out = [];
+  for (const entry of readdirSync(root, { withFileTypes: true })) {
+    if (!entry.isDirectory()) continue;
+    const locDir = join(root, entry.name);
+    let names;
+    try {
+      names = readdirSync(locDir);
+    } catch {
+      continue;
+    }
+    for (const name of names) {
+      if (!name.endsWith('.md') || name.startsWith('.')) continue;
+      out.push(join(locDir, name));
+    }
+  }
+  return out.sort();
 }

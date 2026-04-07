@@ -2,10 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/eLGzpo7MZsV",
     "game_id": "eLGzpo7MZsV",
-    "extracted_at": "2026-04-06",
+    "extracted_at": "2026-04-07",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf"
+      "gamegulf",
+      "hltb"
     ]
   },
   "game": {
@@ -47,6 +48,30 @@
       ],
       "digital": [
         {
+          "country_code": "US",
+          "country": "United States",
+          "price": 52.07,
+          "discount_price": 13.01,
+          "discount_rate": 75,
+          "discount_end": "2026-04-13 06:59:59",
+          "discount_end_timestamp": 1776063599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.01
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 57.37,
+          "discount_price": 17.2,
+          "discount_rate": 70,
+          "discount_end": "2026-04-12 22:59:59",
+          "discount_end_timestamp": 1776034799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.2
+        },
+        {
           "country_code": "HK",
           "country": "Hong Kong SAR China",
           "price": 48.51,
@@ -81,30 +106,6 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 49.62
-        },
-        {
-          "country_code": "US",
-          "country": "United States",
-          "price": 52.07,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 52.07
-        },
-        {
-          "country_code": "GB",
-          "country": "United Kingdom",
-          "price": 57.29,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 57.29
         },
         {
           "country_code": "DE",
@@ -240,28 +241,28 @@
             {
               "date": "2025-06-04",
               "country_code": "GB",
-              "value": 57.29,
+              "value": 57.37,
               "currency": "EUR",
               "country": "United Kingdom"
             },
             {
               "date": "2025-06-05",
               "country_code": "GB",
-              "value": 14.31,
+              "value": 14.33,
               "currency": "EUR",
               "country": "United Kingdom"
             },
             {
               "date": "2025-07-20",
               "country_code": "GB",
-              "value": 57.29,
+              "value": 57.37,
               "currency": "EUR",
               "country": "United Kingdom"
             },
             {
               "date": "2025-07-21",
               "country_code": "GB",
-              "value": 14.31,
+              "value": 14.33,
               "currency": "EUR",
               "country": "United Kingdom"
             },
@@ -354,7 +355,7 @@
         {
           "platform": "Nintendo Switch",
           "country_code": "US",
-          "value": 52.07,
+          "value": 13.01,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -367,7 +368,7 @@
       "title": "ウィンドボーンコンクリートジャングル",
       "image": "https://cdn.gamegulf.com/upload/test/2025/3/31/174345150906117532.jpeg",
       "metacritic": null,
-      "price": 4.61,
+      "price": 4.6,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -386,11 +387,11 @@
       "title": "Reigns: Beyond",
       "image": "https://cdn.gamegulf.com/upload/1740988175971132541090.jpeg",
       "metacritic": null,
-      "price": 1.88,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
+      "price": 4.99,
+      "discount_price": 1.99,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "5 days",
       "release_date": "2024-04-17",
       "categories": [
         "Adventure",
@@ -405,7 +406,7 @@
       "title": "Alvastia Chronicles",
       "image": "https://cdn.gamegulf.com/upload/17409876465621771311494.jpeg",
       "metacritic": null,
-      "price": 7.18,
+      "price": 7.16,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -443,7 +444,7 @@
       "title": "Dance of Cards",
       "image": "https://cdn.gamegulf.com/upload/ns/2025/3/10/174160323377915886.jpeg",
       "metacritic": null,
-      "price": 2.82,
+      "price": 2.81,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -462,7 +463,7 @@
       "title": "Aery – A New Frontier",
       "image": "https://cdn.gamegulf.com/upload/1740987718929182595797.jpeg",
       "metacritic": null,
-      "price": 0.63,
+      "price": 0.62,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -481,11 +482,11 @@
       "title": "Dreamscaper",
       "image": "https://cdn.gamegulf.com/upload/1740987834120195997375.jpeg",
       "metacritic": 82,
-      "price": 24.99,
-      "discount_price": 4.99,
+      "price": 24.06,
+      "discount_price": 4.8,
       "discount_rate": 80,
       "discount_tag": "LowPrice",
-      "discount_end": "17 days",
+      "discount_end": "16 days",
       "release_date": "2021-08-05",
       "categories": [
         "Action",
@@ -500,11 +501,11 @@
       "title": "Moonlighter",
       "image": "https://cdn.gamegulf.com/upload/17409875718031772311910.jpeg",
       "metacritic": 83,
-      "price": 11.09,
+      "price": 11.07,
       "discount_price": 1.66,
       "discount_rate": 85,
       "discount_tag": "Normal",
-      "discount_end": "2 days",
+      "discount_end": "1 days",
       "release_date": "2019-03-28",
       "categories": [
         "Action",
@@ -545,7 +546,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T08:53:02+00:00"
+      "priceValidUntil": "2026-05-07T04:33:39+00:00"
     },
     {
       "@type": "Offer",
@@ -558,7 +559,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T08:53:02+00:00"
+      "priceValidUntil": "2026-05-07T04:33:39+00:00"
     },
     {
       "@type": "Offer",
@@ -571,7 +572,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T08:53:02+00:00"
+      "priceValidUntil": "2026-05-07T04:33:39+00:00"
     },
     {
       "@type": "Offer",
@@ -584,7 +585,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T08:53:02+00:00"
+      "priceValidUntil": "2026-05-07T04:33:39+00:00"
     },
     {
       "@type": "Offer",
@@ -597,7 +598,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T08:53:02+00:00"
+      "priceValidUntil": "2026-05-07T04:33:39+00:00"
     },
     {
       "@type": "Offer",
@@ -610,7 +611,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T08:53:02+00:00"
+      "priceValidUntil": "2026-05-07T04:33:39+00:00"
     },
     {
       "@type": "Offer",
@@ -623,46 +624,37 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T08:53:02+00:00"
+      "priceValidUntil": "2026-05-07T04:33:39+00:00"
     }
   ],
   "price_analytics": {
     "switch": {
       "current_cheapest": {
-        "price_eur": 19.38,
-        "region": "Hong Kong SAR China",
-        "country_code": "HK"
+        "price_eur": 13.01,
+        "region": "United States",
+        "country_code": "US"
       },
       "global_low": {
-        "price_eur": 14.31,
+        "price_eur": 14.33,
         "region": "GB",
         "date": "2025-06-05"
       },
       "local_low": {
-        "price_eur": 52.07,
+        "price_eur": 13.01,
         "region": "US",
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 14.31,
+        "price_eur": 14.33,
         "region": "GB",
         "country": "United Kingdom",
         "date": "2025-06-05"
       },
-      "at_or_near_historical_low": false,
+      "at_or_near_historical_low": true,
       "discount_events_1y": 7,
-      "avg_discount_price_eur": 21.34,
-      "sale_periods": [
-        {
-          "start": "2025-06-05",
-          "end": "2025-06-05"
-        },
-        {
-          "start": "2025-07-21",
-          "end": "2025-07-21"
-        }
-      ],
-      "days_since_last_discount": 62,
+      "avg_discount_price_eur": 21.35,
+      "sale_periods": [],
+      "days_since_last_discount": 63,
       "last_discount": {
         "date": "2026-02-03",
         "price_eur": 19.38,
@@ -670,7 +662,7 @@
         "drop_pct": 60
       },
       "trend_entries_count": 14,
-      "price_verdict": "sale_likely_soon"
+      "price_verdict": "at_historical_low"
     },
     "xbox": {
       "current_cheapest": null,
@@ -723,6 +715,15 @@
   },
   "enrichment": {
     "steam": null,
-    "hltb": null
+    "hltb": {
+      "hltb_id": 30314,
+      "name": "13 Sentinels: Aegis Rim",
+      "main_story_hours": 31,
+      "main_extra_hours": 36,
+      "completionist_hours": 38,
+      "all_styles_hours": 36,
+      "review_score": 88,
+      "total_submissions": 1448
+    }
   }
 }

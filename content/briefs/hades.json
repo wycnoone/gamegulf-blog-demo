@@ -2,8 +2,12 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/3GVaaSqOXnv",
     "game_id": "3GVaaSqOXnv",
-    "extracted_at": "2026-04-05",
-    "extractor_version": "1.0.0"
+    "extracted_at": "2026-04-07",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "hltb"
+    ]
   },
   "game": {
     "title": "Hades",
@@ -144,21 +148,29 @@
         {
           "country_code": "GB",
           "country": "United Kingdom",
-          "price": 25.77,
+          "price": 25.81,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 25.77
+          "calculate_value": 25.81
         }
       ],
       "physical": [],
       "trend": [
         {
           "period": "30 D",
-          "entries": []
+          "entries": [
+            {
+              "date": "2026-03-15",
+              "country_code": "JP",
+              "value": 15.22,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
         },
         {
           "period": "180 D",
@@ -176,6 +188,13 @@
               "value": 4.66,
               "currency": "EUR",
               "country": "Brazil"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "JP",
+              "value": 15.22,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         },
@@ -202,6 +221,13 @@
               "value": 4.66,
               "currency": "EUR",
               "country": "Brazil"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "JP",
+              "value": 15.22,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         }
@@ -256,7 +282,7 @@
       "title": "Hades II – Nintendo Switch™ 2 Edition Upgrade Pack",
       "image": "https://cdn.gamegulf.com/upload/test/2025/9/13/175776550060614032.jpeg",
       "metacritic": null,
-      "price": 12.36,
+      "price": 12.34,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -274,11 +300,11 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/ns/2025/3/12/174174135919314992.jpeg",
       "metacritic": 72,
-      "price": 17.35,
-      "discount_price": 2.6,
+      "price": 17.32,
+      "discount_price": 2.59,
       "discount_rate": 85,
       "discount_tag": "Normal",
-      "discount_end": "9 days",
+      "discount_end": "8 days",
       "release_date": "2020-07-24",
       "categories": [
         "Action",
@@ -298,7 +324,7 @@
       "discount_price": 1.49,
       "discount_rate": 70,
       "discount_tag": "NewLowPrice",
-      "discount_end": "3 days",
+      "discount_end": "1 days",
       "release_date": "2023-04-14",
       "categories": [
         "Action",
@@ -312,7 +338,7 @@
       "title": "Seven Spirits",
       "image": "https://cdn.gamegulf.com/upload/1740987590615177872240.jpeg",
       "metacritic": null,
-      "price": 0.82,
+      "price": 0.81,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -331,11 +357,11 @@
       "title": "Dreamscaper",
       "image": "https://cdn.gamegulf.com/upload/1740987834120195997375.jpeg",
       "metacritic": 82,
-      "price": 24.99,
-      "discount_price": 4.99,
+      "price": 24.06,
+      "discount_price": 4.8,
       "discount_rate": 80,
       "discount_tag": "LowPrice",
-      "discount_end": "18 days",
+      "discount_end": "16 days",
       "release_date": "2021-08-05",
       "categories": [
         "Action",
@@ -350,11 +376,11 @@
       "title": "Moonlighter",
       "image": "https://cdn.gamegulf.com/upload/17409875718031772311910.jpeg",
       "metacritic": 83,
-      "price": 11.09,
+      "price": 11.07,
       "discount_price": 1.66,
       "discount_rate": 85,
       "discount_tag": "Normal",
-      "discount_end": "2 days",
+      "discount_end": "1 days",
       "release_date": "2019-03-28",
       "categories": [
         "Action",
@@ -369,7 +395,7 @@
       "title": "Monster Hunter Rise",
       "image": "https://cdn.gamegulf.com/upload/1740987890240144928059.jpeg",
       "metacritic": 88,
-      "price": 7.37,
+      "price": 7.35,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -387,11 +413,11 @@
       "title": "Deiland: Pocket Planet Edition",
       "image": "https://cdn.gamegulf.com/upload/1740987590153105617961.jpeg",
       "metacritic": 61,
-      "price": 17.15,
-      "discount_price": 4.29,
-      "discount_rate": 75,
-      "discount_tag": "LowPrice",
-      "discount_end": "14 hr",
+      "price": 1.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
       "release_date": "2022-01-06",
       "categories": [
         "Adventure",
@@ -435,7 +461,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+      "priceValidUntil": "2026-05-07T00:37:22+00:00"
     },
     {
       "@type": "Offer",
@@ -448,7 +474,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+      "priceValidUntil": "2026-05-07T00:37:22+00:00"
     },
     {
       "@type": "Offer",
@@ -461,7 +487,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+      "priceValidUntil": "2026-05-07T00:37:22+00:00"
     },
     {
       "@type": "Offer",
@@ -474,7 +500,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+      "priceValidUntil": "2026-05-07T00:37:22+00:00"
     },
     {
       "@type": "Offer",
@@ -487,7 +513,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+      "priceValidUntil": "2026-05-07T00:37:22+00:00"
     },
     {
       "@type": "Offer",
@@ -500,7 +526,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-05T16:38:26+00:00"
+      "priceValidUntil": "2026-05-07T00:37:22+00:00"
     }
   ],
   "price_analytics": {
@@ -539,14 +565,14 @@
           "end": "2025-12-18"
         }
       ],
-      "days_since_last_discount": 108,
+      "days_since_last_discount": 110,
       "last_discount": {
         "date": "2025-12-18",
         "price_eur": 4.66,
         "region": "Brazil",
         "drop_pct": 79
       },
-      "trend_entries_count": 3,
+      "trend_entries_count": 4,
       "price_verdict": "occasional_discounter"
     },
     "xbox": {
@@ -597,5 +623,18 @@
     "price_track": "https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price",
     "wishlist": "https://www.gamegulf.com/wishlist",
     "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": null,
+    "hltb": {
+      "hltb_id": 62941,
+      "name": "Hades",
+      "main_story_hours": 23,
+      "main_extra_hours": 49,
+      "completionist_hours": 95,
+      "all_styles_hours": 44,
+      "review_score": 88,
+      "total_submissions": 6221
+    }
   }
 }

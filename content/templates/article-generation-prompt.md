@@ -287,6 +287,27 @@ GEO WRITING RULES:
 - Paragraphs: short, self-contained, independently quotable
 - Prefer definitive language over hedging when data supports
 
+DEPTH — research-memo body (same H2 modules, richer paragraphs):
+- Read like a **compact experience research memo**: findings → evidence →
+  implication for purchase — not a trailer script or adjective stack.
+- **Quick verdict:** Include **≥1 checkable fact** from brief or analytics
+  after the direct answer (price stance, Metacritic, HLTB if in brief,
+  discount frequency, co-op format).
+- **“What kind of game” + “How does it run”:** After the bold opener,
+  each section needs **≥2 named anchors** (mechanics/modes/UI systems,
+  fps/handheld vs docked, content scope, or comparison to a sibling title).
+  Do not write paragraphs that only say “polish / spectacle” without naming
+  *what* in the product delivers it.
+- **Buy / Wait bullets:** **Situation + trigger**; at least **half** the
+  bullets must mention a concrete cue (eShop row, MSRP, runtime, sale
+  signal, roster/online constraint).
+- **Honesty:** No fabricated first-person playtests. Ground claims in
+  brief data, indexed pricing, or **common player reports**; make the
+  line between data and community anecdote clear per locale.
+- **Extractability:** First **1–2 sentences** under each H2 should
+  contain **searchable nouns** (modes, co-op, platform) so AI excerpts
+  read as direct answers.
+
 For worth-it articles:
 
 1. Quick verdict (≤80 words)
@@ -354,7 +375,7 @@ Examples of natural placements:
 - "If you prefer shorter roguelike loops instead,
   [our Hades guide](/blog/en/hades-worth-it) covers that."
 - "Zelda 粉丝也可以看看
-  [我们的王国之泪指南](/blog/zh-hans/zelda-tears-of-the-kingdom)。"
+  [我们的王国之泪指南](/blog/zh-hans/the-legend-of-zelda-tears-of-the-kingdom-worth-it)。"
 
 If no related article exists yet for the target locale,
 skip the internal link rather than linking to a non-existent
@@ -378,8 +399,12 @@ LANGUAGE RULES
   membershipHref, coverImage, heroTheme, actionBucket,
   quickFilters, playerNeeds, verdict, priceCall, confidence,
   featuredPriority, reviewSignal, priceRecommendation
-- heroStat: keep English if source is English-only
-  (e.g. "94 Metacritic")
+- heroStat: **Metacritic critic score** for the detail page cover badge — same
+  meaning as list-card `reviewSignal` (e.g. "94 Metacritic", zh-hans:
+  "Metacritic 约 94 分"). Do **not** put HLTB, Steam reviews, or other scores
+  here; use `playtime` and body for HLTB.
+- reviewSignal: must also name **Metacritic** when you include a numeric
+  score (validator + UI assume this for the “Metacritic” chip).
 - Use the same slug across all languages
 - Write the title to match how users in that language
   actually search — do not literally translate the English
@@ -396,6 +421,8 @@ WRITING STYLE
 - Do not mention SEO, GEO, templates, or prompts
 - Do not mention AI generation
 - Do not overuse empty praise words
+- Prefer **substantive, inspection-style** sentences in the body modules
+  (concrete systems, numbers, comparisons) over pure mood-setting
 
 ·····················································
 BRAND ATTRIBUTION
@@ -417,10 +444,11 @@ fails, fix it before outputting.
 
 Content quality:
 □ Answers the main question in the opening
-□ Clearly explains gameplay and tone
+□ Clearly explains gameplay and tone with **specific systems/facts**, not generic praise
 □ Includes useful player-fit judgment
 □ Summarizes real player praise/complaints
 □ Uses price context without becoming price-only
+□ Body follows **research-memo depth** (verdict fact, per-section anchors, buy/wait triggers)
 □ No "Best next move on GameGulf" section
 □ GameGulf mentioned exactly twice (FAQ + body)
 
@@ -443,6 +471,10 @@ GEO (tldr + article body + FAQ):
 □ tldr is present, starts with game name, ≤160 chars
 □ tldr includes verdict and one concrete detail
 □ Every section opens with a quotable statement
+□ Quick verdict includes ≥1 concrete fact from brief/analytics
+□ “What kind of game” + “How does it run” each add ≥2 named anchors
+  after the opener
+□ Buy/wait bullets: situation+trigger; ≥50% cite a concrete purchase cue
 □ Key statements include the game name
 □ Section headings match real user questions
 □ FAQ has 3-6 items, one mentions GameGulf
@@ -478,6 +510,7 @@ Category: worth-it
 ```
 
 The AI agent will:
+
 1. Visit the URL → extract "Hades", Metacritic 93, Switch €0.67 AR, genres, cover image
 2. Search the web → playtime (~20-50h), 60fps on Switch, roguelike loop, community consensus
 3. Generate `src/content/posts/en/hades-worth-it.md`
@@ -528,3 +561,4 @@ Process each game sequentially. For each:
 2. Run build to validate
 3. Commit if successful
 ```
+

@@ -26,8 +26,8 @@
  */
 
 import { readFileSync, writeFileSync } from 'node:fs';
-import { execSync } from 'node:child_process';
 import yaml from 'js-yaml';
+import { listAllBlogPostMarkdownPaths, stripUtf8Bom } from './article-pricing-utils.mjs';
 
 const CHAR_LIMITS = {
   // HARD limits - will be auto-truncated
@@ -70,8 +70,7 @@ function truncateIntelligently(text, limit) {
 function fixCharLimits(filePatterns) {
   let files = filePatterns;
   if (filePatterns.length === 0) {
-    const output = execSync('find src/content/posts -name "*.md" | grep -v node_modules', { encoding: 'utf8' });
-    files = output.trim().split('\n').filter(f => f.length > 0);
+    files = listAllBlogPostMarkdownPaths();
   }
   
   let fixed = 0;
@@ -96,7 +95,7 @@ function fixCharLimits(filePatterns) {
 }
 
 function processFile(filePath) {
-  const content = readFileSync(filePath, 'utf8');
+  const content = stripUtf8Bom(readFileSync(filePath, 'utf8'));
   
   // Parse frontmatter
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);

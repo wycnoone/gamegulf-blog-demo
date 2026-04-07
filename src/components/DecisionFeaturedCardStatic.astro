@@ -5,7 +5,7 @@ import { t } from '@/lib/translations';
 import {
   getDecisionDisplayTitle,
   getCompactPriceCall,
-  getDecisionScoreChip,
+  getMetacriticStatForCard,
 } from '@/lib/decision-card-display';
 
 interface Props {
@@ -32,9 +32,7 @@ const cardDate = new Intl.DateTimeFormat(intlLocales[card.locale], {
 const minutes = card.readingTime.match(/\d+/u)?.[0];
 const readingMeta = minutes ? t(card.locale, 'card.minRead', { n: minutes }) : card.readingTime;
 
-const scoreChip = getDecisionScoreChip(card);
-const normalizedScore = scoreChip ? scoreChip.replace(/\s*MC$/u, '') : null;
-const reviewMeta = normalizedScore ? t(card.locale, 'card.metacritic', { score: normalizedScore }) : null;
+const reviewMeta = getMetacriticStatForCard(card);
 ---
 
 <article class="decision-featured-card-v2 decision-featured-card-pro">

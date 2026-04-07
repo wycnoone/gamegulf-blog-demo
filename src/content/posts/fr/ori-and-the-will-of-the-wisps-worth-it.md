@@ -1,44 +1,73 @@
 ---
-title: "Ori and the Will of the Wisps vaut-il l'achat sur Nintendo Switch en 2026 ?"
-description: "Guide d'achat Switch pour Ori and the Will of the Wisps — prix régionaux, timing des soldes, 12-18 heures de jeu, performances, et qui devrait acheter ou attendre."
-publishedAt: "2026-04-06"
-updatedAt: "2026-04-06"
+title: Ori and the Will of the Wisps sur Switch en 2026 — ça vaut le coup ?
+description: >-
+  Guide d’achat Switch — grilles eShop avril 2026, historique de promos vs
+  ancrage Japon, durées HLTB, combat-mouvement, achat immédiat ou attente de
+  soldes.
+publishedAt: "2026-04-07"
+updatedAt: "2026-04-07"
 category: worth-it
-gameTitle: "Ori and the Will of the Wisps"
-platform: "Nintendo Switch"
-author: "GameGulf Editorial AI"
-readingTime: "7 min"
-decision: "Ori and the Will of the Wisps est une recommandation facile si vous voulez un Metroidvania poli avec excellent mouvement et combats de boss. Pour la plupart des joueurs, attendre la prochaine vente est plus intelligent car ce jeu se solde souvent."
-priceSignal: "Le dernier aperçu Switch suivi en avril 2026 montre le Japon le moins cher à 19,14 €, mais le plus bas historique est de 6,50 € sur l'eShop US. Il y a eu 5 événements de réduction l'an dernier, dernière baisse il y a 27 jours."
-heroStat: "93 Metacritic"
-heroNote: "Jeu d'action-plateforme magnifiquement animé avec mouvement d'élite, croissance de combat rapide et l'une des meilleures présentations audiovisuelles du genre."
-badge: "Recommandé"
-verdict: "wait_for_sale"
-priceCall: "wait"
-confidence: "medium"
-actionBucket: "wait"
+gameTitle: Ori and the Will of the Wisps
+platform: Nintendo Switch
+author: GameGulf Editorial AI
+readingTime: 7 min de lecture
+decision: >-
+  Achetez si vous voulez un Metroidvania 93 Metacritic avec déplacements elites
+  et boss marquants. Attendez si vous ne validez que les planchers US près de
+  6,50 € — bien sous le listage d’avril 2026.
+priceSignal: >-
+  L’index avril 2026 démarre vers 19,14 € équivalent au Japon (¥3 520) avec des
+  prints US près de 6,50 € dans l’historique, cinq vagues promo sur l’année et
+  une moyenne promo vers 11,66 €.
+heroStat: 93 sur Metacritic
+heroNote: >-
+  Suite Moon Studios : enchaînements bash/planée/fouille, shards d’esprit,
+  biomes peints, défis Spirit Trials et classements.
+badge: Attendre les soldes
+verdict: wait_for_sale
+priceCall: wait
+confidence: medium
+actionBucket: set_alert
 featuredPriority: 3
-listingTakeaway: "Superbe Metroidvania en solde souvent. Excellent jeu, pas d'achat urgent au prix actuel."
-whatItIs: "Metroidvania avec mouvement fluide, combats et émotion"
-bestFor: "Fans de Metroidvania rapides et sessions courtes"
-avoidIf: "Si vous détestez le retour en arrière et les poursuites"
-consensusPraise: "Mouvement incroyablement fluide, monde gorgeous et clair"
-mainFriction: "Pics de difficulté et poursuites punissent les joueurs cherchant un flux doux"
-timeFit: "Sessions en semaine : 20-40 minutes donnent un vrai progrès"
-fitLabel: "Joueurs voulant plateforme de précision, combat et exploration"
-timingNote: "Achat de qualité, mais cinq réductions l'an dernier font d'attendre le choix pratique"
-communityVibe: "Dash, grappin, enchaîner, la carte prend vie"
-playtime: "12h principal, 16h principal+extra, 18h complétionniste"
-reviewSignal: "93 Metacritic"
-takeaway: "Ori and the Will of the Wisps est l'un des meilleurs jeux d'action-plateforme sur Switch, mais l'historique de prix fait d'attendre les soldes la décision plus intelligente."
-playStyle: "Traversal rapide, combat mêlée et à distance, améliorations de capacités, déblocage de carte, et combats de boss dans une structure Metroidvania"
-timeCommitment: "La plupart des joueurs terminent l'histoire principale en environ 12 heures, avec du contenu secondaire poussant vers 16 et les runs quasi-complets autour de 18"
-playMode: "Solo"
-whyNow: "Le jeu est actuellement de retour près des prix standards dans la plupart des régions, même s'il a déjà montré des réductions profondes répétées l'an dernier"
-currentDeal: "Le Japon est actuellement l'eShop suivi le moins cher à 19,14 € (¥3 520), avec Hong Kong à 25,25 € et les États-Unis à 26,03 €"
-nearHistoricalLow: "Non. Le plus bas historique suivi est de 6,50 € sur l'eShop US, donc le prix le moins cher d'aujourd'hui est bien au-dessus du meilleur point d'entrée récent"
-salePattern: "Ori and the Will of the Wisps est un réducteur régulier sur Switch : 5 événements de réduction l'an dernier, avec la dernière baisse il y a 27 jours"
-priceRecommendation: "wait"
+listingTakeaway: >-
+  Metroidvania 93 Metacritic — le Japon mène l’index ; les US ont vu ~6,50 € en
+  2025–26.
+whatItIs: "Metroidvania : shards, esprits, gros boss, carte ouverte par capacités."
+bestFor: Fans de mouvement vif, boss durs et ambiance Ori fantasy.
+avoidIf: Passez si poursuites, backtracking ou ton sentimental vous épuisent.
+consensusPraise: Lisibilité des déplacements et direction artistique toujours haut de gamme.
+mainFriction: Les checks de fin de jeu piquent plus que l’entrée doucette.
+timeFit: HLTB ~12 h histoire, ~16 h extras, ~18 h complétion.
+fitLabel: Plateforme précise avec enjeux de combat, pas balade contemplative.
+timingNote: >-
+  La qualité est acquise — reste à savoir si vous payez le list ou attendez un
+  prochain print US comme en mars 2026.
+communityVibe: Dash-bash-fouille rend toute la carte jouable en un éclair.
+playtime: ~12 h · ~16 h+ · ~18 h (HLTB)
+reviewSignal: 93 sur Metacritic
+takeaway: >-
+  Ori and the Will of the Wisps reste un sommet Switch, mais le list avril 2026
+  dépasse largement la moyenne promo indexée — attendez sauf urgence de jeu.
+playStyle: >-
+  Mêlée et esprit à distance, loadouts de shards, carte qui s’ouvre aux
+  capacités, séquences de fuite, boss qui testent la maîtrise.
+timeCommitment: >-
+  HLTB indique ~12 h fil rouge, ~16 h avec extras, ~18 h complétion selon shards
+  et trials.
+playMode: Solo.
+whyNow: >-
+  Le « pourquoi maintenant » est personnel — les données prix favorisent souvent
+  les acheteurs patients face au list avril 2026.
+currentDeal: >-
+  Le Japon mène le numérique indexé vers 19,14 € équivalent (¥3 520), Hong Kong
+  et les États-Unis au-dessus sur le même cliché.
+nearHistoricalLow: >-
+  Non — l’historique garde un print américain près de 6,50 € le 22 décembre 2025
+  puis encore vers le 9 mars 2026, ce n’est pas le plancher actuel.
+salePattern: >-
+  Cinq événements promo dans la fenêtre indexée, prix moyen en promo ~11,66 €,
+  dernière baisse seulement 29 jours avant cette capture.
+priceRecommendation: wait
 quickFilters:
   - under_20
   - great_on_sale
@@ -47,142 +76,172 @@ playerNeeds:
   - wait_for_sale
   - value_for_money
 tags:
-  - "ori and the will of the wisps switch"
-  - "ori will of the wisps vaut-il l'achat 2026"
-  - "ori switch prix"
-  - "meilleur metroidvania switch"
-  - "ori will of the wisps temps pour finir"
+  - ori will of the wisps switch fr
+  - ori will of the wisps avis 2026
+  - ori switch prix
+  - meilleur metroidvania switch
+  - ori durée jeu
 playerVoices:
-  - quote: "Le traversal est si fluide que juste se déplacer sur la carte semble gratifiant"
-    sentiment: "positive"
-  - quote: "Les boss frappent plus fort que le premier Ori et rendent la suite plus complète"
-    sentiment: "positive"
-  - quote: "La bande-son et la direction artistique rendent même l'exploration routinière mémorable"
-    sentiment: "positive"
-  - quote: "Le retour en arrière fait partie de l'appel, mais peut frustrer les joueurs voulant une ligne droite"
-    sentiment: "negative"
-  - quote: "Quelques sections de fin de jeu demandent une exécution plus serrée que le look doux du jeu ne suggère"
-    sentiment: "negative"
-  - quote: "Le storytelling émotionnel fonctionne pour beaucoup de joueurs, mais certains le trouveront un peu lourd"
-    sentiment: "mixed"
+  - quote: Chaque upgrade recompose les vieilles salles
+    sentiment: positive
+  - quote: Les boss frappent fort mais restent justes une fois le rythme acquis
+    sentiment: positive
+  - quote: L’art et la musique portent l’émotion sans cinématiques lourdes
+    sentiment: positive
+  - quote: Le farming de collectibles fatigue si vous êtes pressé
+    sentiment: negative
+  - quote: Certaines poursuivantes stressent plus que l’intro ne le laisse croire
+    sentiment: negative
+  - quote: Les shards sont fun mais tentent l’optimisation infinie
+    sentiment: mixed
 communityMemes:
-  - "Encore une amélioration de mouvement"
-  - "Dash dans bash dans grappin pour toujours"
-  - "La carte s'ouvre et votre route change instantanément"
-  - "Assez beau pour s'arrêter et regarder, assez dangereux pour ne pas le faire"
-  - "Chaque séquence d'évasion Ori devient un test de rythme cardiaque"
-tldr: "Ori and the Will of the Wisps vaut l'achat sur Switch, mais ses réductions fréquentes font d'attendre la prochaine vente le choix intelligent."
-cardPrice: "EUR 19.14"
-cardPriceRegion: "Japon"
-cardPriceEur: 19.14
-cardPriceNative: "¥3 520"
-cardPriceNativeCurrency: "JPY"
-cardPriceRegionCode: "JP"
+  - Encore un shard
+  - Chaînes de bash à travers le biome
+  - Carte ouverte, itinéraire réécrit
+  - Stress positif des Spirit Trials
+  - Beau comme une pause, dur comme un boss
+tldr: >-
+  Ori and the Will of the Wisps — 93 Metacritic ; le Japon mène en avril 2026
+  mais des bas US ~6,50 € rendent l’attente plus sage que le list.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price
+gameHref: https://www.gamegulf.com/detail/9t3j1FNGEAF
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: https://cdn.gamegulf.com/upload/1740987623931173309070.jpeg
+heroTheme: brand
+faq:
+  - question: Ori and the Will of the Wisps sur Switch en 2026 — ça vaut le coup ?
+    answer: >-
+      Ori and the Will of the Wisps vaut encore le coup en 2026 si vous voulez
+      un Metroidvania précis avec combat, déplacements et craft audiovisuel
+      solides. En avril 2026, la grille GameGulf démarre vers 19,14 € équivalent
+      sur l’eShop japonais — comparez la ligne de votre compte avant d’assimiler
+      cet ancrage.
+  - question: Combien de temps pour finir Ori and the Will of the Wisps ?
+    answer: >-
+      Ori and the Will of the Wisps prend environ 12 h en fil principal, 16 h
+      avec gros extras et près de 18 h en complétion selon HLTB — les upgrades
+      reconfigurent les trajets, donc les sessions courtes restent productives.
+  - question: Comment tourne Ori and the Will of the Wisps sur Switch ?
+    answer: >-
+      Ori and the Will of the Wisps vise une lecture d’action fluide sur Switch
+      avec des couches peintes lisibles en portable — les retours joueurs
+      évoquent surtout des baisses ponctuelles dans les scènes chargées, pas un
+      saccadé permanent.
+  - question: Faut-il jouer à Blind Forest avant ?
+    answer: >-
+      Ori and the Will of the Wisps se comprend seul, mais Blind Forest enrichit
+      les clins d’œil — achetez la suite pour le toolkit de déplacement et les
+      boss, pas parce que le premier opus est un pré-requis dur.
+  - question: Qui devrait attendre Ori and the Will of the Wisps ?
+    answer: >-
+      Ori and the Will of the Wisps mérite plutôt l’attente si votre boutique
+      reste en list standard alors que l’historique montre des prints US répétés
+      près de 6,50 € — fixez un prix cible sur GameGulf et laissez la prochaine
+      grosse promo trancher.
 priceRows:
   - regionCode: JP
     eurPrice: 19.14
-    nativePrice: "¥3 520"
-    nativeCurrency: "JPY"
+    nativePrice: ¥3,520
+    nativeCurrency: JPY
   - regionCode: HK
     eurPrice: 25.25
-    nativePrice: "HK$228"
-    nativeCurrency: "HKD"
+    nativePrice: HK$228
+    nativeCurrency: HKD
   - regionCode: US
     eurPrice: 26.03
-    nativePrice: "$29.99"
-    nativeCurrency: "USD"
+    nativePrice: $29.99
+    nativeCurrency: USD
   - regionCode: BR
     eurPrice: 28.26
-    nativePrice: "R$168"
-    nativeCurrency: "BRL"
+    nativePrice: R$168
+    nativeCurrency: BRL
   - regionCode: GB
-    eurPrice: 28.64
-    nativePrice: "£24.99"
-    nativeCurrency: "GBP"
+    eurPrice: 28.68
+    nativePrice: £24.99
+    nativeCurrency: GBP
   - regionCode: DE
     eurPrice: 29.99
-    nativePrice: "€29.99"
-    nativeCurrency: "EUR"
-wishlistHref: "https://www.gamegulf.com/wishlist"
-priceTrackHref: "https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price"
-gameHref: "https://www.gamegulf.com/detail/9t3j1FNGEAF"
-membershipHref: "https://www.gamegulf.com/pricing"
-coverImage: "https://cdn.gamegulf.com/upload/1740987623931173309070.jpeg"
-heroTheme: "brand"
-faq:
-  - question: "Ori and the Will of the Wisps vaut-il l'achat sur Nintendo Switch en 2026 ?"
-    answer: "Ori and the Will of the Wisps vaut l'achat sur Switch en 2026 si vous aimez le mouvement précis, l'exploration basée sur une carte et les jeux d'action-plateforme émotionnels. La vraie question est le timing : le jeu a été réduit cinq fois l'an dernier, donc attendre la prochaine vente est généralement le meilleur mouvement pour la valeur."
-  - question: "Combien de temps faut-il pour finir Ori and the Will of the Wisps ?"
-    answer: "Ori and the Will of the Wisps prend environ 12 heures pour l'histoire principale, environ 16 heures avec du contenu secondaire significatif, et environ 18 heures pour les runs quasi-complétionnistes selon les données HowLongToBeat."
-  - question: "Combien coûte Ori and the Will of the Wisps sur Switch actuellement ?"
-    answer: "Ori and the Will of the Wisps est actuellement le moins cher sur l'eShop Japon à environ 19,14 € (¥3 520) dans le dernier aperçu de début avril 2026. Le plus bas historique est beaucoup plus bas à 6,50 € sur l'eShop US, c'est pourquoi la recommandation axée sur la valeur penche vers attendre."
-  - question: "Comment Ori and the Will of the Wisps fonctionne-t-il sur Nintendo Switch ?"
-    answer: "Ori and the Will of the Wisps fonctionne de manière impressionnante sur Nintendo Switch, visant généralement 60 fps avec une mise à l'échelle de résolution dynamique et une forte qualité d'image pour le matériel. Il est largement considéré comme l'un des ports tiers les plus techniquement impressionnants du système."
-  - question: "Devrais-je utiliser un tracker de prix avant d'acheter Ori and the Will of the Wisps ?"
-    answer: "Ori and the Will of the Wisps est un bon candidat pour le suivi des prix car son historique de vente est régulier et l'écart entre le prix actuel et le plus bas historique récent est important. Vérifier GameGulf avant d'acheter vous aide à voir si votre région est près d'une fenêtre de vente normale ou toujours trop haute."
+    nativePrice: €29.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 29.99
+    nativePrice: €29.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 29.99
+    nativePrice: €29.99
+    nativeCurrency: EUR
+cardPriceEur: 19.14
+cardPriceRegionCode: JP
+cardPriceRegion: Japon
+cardPrice: EUR 19.14
+cardPriceNative: ¥3,520
+cardPriceNativeCurrency: JPY
 ---
 
 ## Verdict rapide
 
-**Ori and the Will of the Wisps vaut absolument le coup d'être joué sur Nintendo Switch, mais il est généralement préférable d'acheter en solde qu'au prix actuel.** La qualité du jeu ne fait aucun doute : 93 Metacritic, un mouvement exceptionnel, un temps de jeu de 12-18 heures qui ne traîne jamais, et une présentation qui se distingue encore des années plus tard.
+**Ori and the Will of the Wisps reste une reco qualité facile — avril 2026, c’est surtout le prix.** Metroidvania **93 Metacritic** où bash, fouille et planée transforment la carte en boîte à outils, **shards** en mini loadouts, **boss** en examens de mouvement. **HLTB** vers **12 h / 16 h / 18 h** selon shards et trials.
 
-La vraie décision est le timing. **Ce jeu se solde si souvent que payer le prix actuel n'a de sens que si vous voulez commencer maintenant.**
+Côté index : **le Japon mène toujours (~19,14 € équivalent, ¥3 520)**. L’**historique** montre un **print américain près de 6,50 € le 22 décembre 2025** comme **plus bas historique** utile dans ce flux, **cinq** événements **promo** sur l’année, **prix moyen en promo ~11,66 €**, dernière baisse **29 jours** avant ce cliché (**9 mars 2026**, encore ~**6,50 €** aux États-Unis, **~75 %** de décote contextuelle). Sans urgence de jeu, **attendre bat le list** pour la plupart des paniers.
 
-## Combien coûte Ori and the Will of the Wisps sur Switch actuellement ?
+## Quel est le prix d’Ori and the Will of the Wisps sur Switch ?
 
-**Ori and the Will of the Wisps est actuellement le moins cher sur l'eShop Japonais à 19,14 €, mais le plus bas historique est encore plus bas.** Voici d'abord la répartition des prix par région :
+**Le Japon reste en tête du numérique indexé (~19,14 € équivalent, ¥3 520), Hong Kong et les États-Unis au-dessus sur la même capture.**
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
 | --- | ---: | ---: |
-| Japon | EUR 19.14 | ¥3 520 |
+| Japon | EUR 19.14 | ¥3,520 |
 | Hong Kong | EUR 25.25 | HK$228 |
 | États-Unis | EUR 26.03 | $29.99 |
 | Brésil | EUR 28.26 | R$168 |
-| Royaume-Uni | EUR 28.64 | £24.99 |
+| Royaume-Uni | EUR 28.68 | £24.99 |
 | Allemagne | EUR 29.99 | €29.99 |
+| Espagne | EUR 29.99 | €29.99 |
+| France | EUR 29.99 | €29.99 |
 
-**Analyse de l'historique des remises et soldes :** Ori and the Will of the Wisps a connu **5 soldes** au cours de la dernière année, avec un prix de réduction moyen d'environ 11-12 €. La dernière remise remonte à 27 jours. Le **plus bas historique** est de **6,50 €** (eShop US, 22 décembre 2025). Les **remises** et **promotions** se produisent environ tous les 2-3 mois, généralement avec 50-75% de réduction. Le prix actuel de 19,14 € est environ 3 fois supérieur au plus bas historique — une bonne offre si vous voulez jouer maintenant, mais attendre pourrait vous faire économiser 10-15 €.
+La **promo** passée pèse plus que l’ordre du jour : le **plus bas historique** tracé ici reste **~6,50 € le 22 décembre 2025** sur l’eShop américain, avec **prix moyen en promo ~11,66 €** quand les **soldes** tombent — profil **« gros discounter régulier »** sur Switch. Vérifiez votre ligne sur la [grille multi-régions](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price).
 
-**Conclusion :** C'est un achat de qualité, mais attendre pourrait vous faire économiser considérablement.
+## Quel genre de jeu ?
 
-## Quel genre de jeu est Ori and the Will of the Wisps, vraiment ?
+**Metroidvania à momentum où exploration et combat partagent la même syntaxe.** ADN **Blind Forest**, biomes plus larges, **shards** qui trade-off, **Spirit Trials** pour le speedrun classement.
 
-**Ori and the Will of the Wisps est un Metroidvania axé sur le mouvement qui mélange une plateforme élégante avec plus de combat et de structure de boss que le premier jeu.** Ce n'est pas juste "un joli Ori de plus" — c'est une suite plus large et plus confiante.
+1. **Shards** — petits loadouts à swapper quand un boss ou un gate exige une autre réponse.
+2. **Boss** — grandes arènes qui réutilisent les mêmes outils qu’au exploring, donc courbe continue.
+3. **Carte** — nouvelles capacités qui reforment les zones ; adoré si vous aimez relire le terrain, pénible si vous haïssez le backtracking.
 
-1. **Le traversal est la fonctionnalité principale.** Dash, grappin, bash, creuser, et les améliorations de mouvement enchaînées rendent le jeu incroyablement fluide entre vos mains une fois que la boîte à outils s'ouvre.
-2. **Le combat compte plus cette fois.** Les armes spirituelles et les éclats donnent aux combats plus de texture, ce qui aide la suite à se sentir moins passive que Ori and the Blind Forest.
-3. **La campagne reste serrée.** HowLongToBeat situe le jeu autour de 12 heures pour le chemin principal et 16-18 heures pour les runs plus complètes, ce qui est assez long pour se sentir substantiel sans devenir gonflé.
+Si vous voulez une balade lente, ce n’est pas ce Ori.
 
-Si vous aimez Hollow Knight, Metroid Dread, ou le côté plus pointu des jeux d'action-plateforme, Ori est un ajustement facile. Si vous voulez zéro retour en arrière et une plateforme peu stressante, il se sentira plus exigeant que son style artistique ne le suggère.
+## Comment ça tourne sur Switch ?
 
-## Comment Ori and the Will of the Wisps fonctionne-t-il sur Switch ?
+**Lisibilité action d’abord, couches peintes qui tiennent en portable.** Pas un port PC qui mendie le DLSS — attentes Switch réalistes.
 
-**Ori and the Will of the Wisps est largement considéré comme l'un des ports Switch les plus impressionnants, avec une cible de 60 fps et une forte qualité d'image globale pour le matériel.** La version sur Nintendo Switch prend en charge le jeu TV, sur table et à main, et la sensation de mouvement survit extrêmement bien au port.
+- **Portable :** sessions courtes, couleurs qui séparent encore les dangers sur petit écran.
+- **Dock :** backgrounds plus grands ; chutes ponctuelles dans les scènes chargées selon retours joueurs.
+- **Contenu :** même campagne quel que soit le store — choisissez le compte où vous payez vraiment.
 
-Voici le résumé pratique pour les joueurs Switch :
+Les accrocs sont situationnels, pas une baseline cassée.
 
-- **Fréquence d'images :** vise généralement 60 fps, ce qui est crucial pour un jeu basé sur le timing de dash et le mouvement enchaîné
-- **Qualité d'image :** la mise à l'échelle de résolution dynamique garde la présentation assez nette sans sacrifier la réactivité
-- **Expérience à main :** particulièrement forte car le jeu fonctionne bien dans des sessions plus courtes et reste magnifique sur le petit écran
-- **Parité de contenu :** c'est le jeu solo complet, pas une version réduite
+## Achetez maintenant si
 
-## Acheter maintenant si
+- Vous **lancez le jeu dans les jours** qui viennent et détestez traîner des wishlists
+- Votre **ligne** est déjà proche du **panier promo moyen ~11,66 €** vérifiable sur votre compte
+- Vous priorisez le **combat-mouvement 93 Metacritic** plutôt que chaque euro
+- Vous voulez **Spirit Trials** sans racheter ailleurs
+- **Relire la carte avec de nouveaux pouvoirs** vous semble fun, corvée sinon
 
-- Vous savez déjà que vous voulez un Metroidvania poli et ne voulez pas attendre un autre cycle de vente
-- Vous valorisez la sensation de mouvement et la qualité audiovisuelle plus que d'obtenir le meilleur prix absolu
-- Vous voulez un jeu solo concentré qui peut être fini en une semaine ou deux au lieu d'un engagement de 60 heures
-- Vous préférez les jeux d'action-plateforme avec des combats de boss et une croissance de capacités, pas une pure exploration errante
+## Attendez si
 
-## Attendre ou éviter si
+- Votre **list** domine encore les **prints US ~6,50 €** de **décembre 2025** et **mars 2026** dans ce flux
+- Vous supportez mal les **poursuites** et voulez un rythme plus doux
+- Vous l’avez **ailleurs** et ne voulez un second achat qu’à **prix historique**
+- **Plusieurs full-price** ce mois-ci — laissez la prochaine **promo** décider
+- La **fantaisie émotive** vous agace même quand les mécaniques sont elites
 
-- Vous êtes sensible au prix, car l'historique de réduction récent dit qu'une bien meilleure offre est probable
-- Vous n'aimez pas le retour en arrière ou le reroutage de carte après avoir débloqué de nouvelles compétences de traversal
-- Vous voulez un jeu de plateforme très détendu plutôt que des séquences de poursuite et des contrôles d'exécution plus pointus
-- Vous avez été rebuté par le ton émotionnel du premier Ori et ne voulez pas plus de ce style
+## La suite mérite toujours le saut depuis Blind Forest
 
-## La vraie décision n'est pas la qualité — c'est la patience
+**Moins réinventer Ori que donner plus de vocabulaire aux mains** — chaque shard et phase de boss vous force à remixer ce que vous saviez déjà.
 
-**Ori and the Will of the Wisps est le genre de jeu que vous ne regretterez probablement pas d'y jouer, mais vous pourriez regretter de payer le prix actuel quand l'historique des ventes est aussi généreux.** Cinq réductions en un an est un signal fort, pas une possibilité vague.
-
-**Si vous voulez la meilleure décision, pas juste la plus rapide, attendez la prochaine baisse.** Si vous voulez l'un des jeux d'action-plateforme à la meilleure sensation sur Switch ce soir, le jeu mérite toujours l'achat sur la qualité seule.
+**Regardez votre ligne une fois.** Pas patient ? Achetez et jouez ce soir. Patient ? **Fixez un palier** et laissez le prochain **print promo** convaincre — l’**historique** dit que ça reviendra.

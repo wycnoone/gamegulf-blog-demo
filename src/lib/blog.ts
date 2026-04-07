@@ -418,6 +418,44 @@ function inferCardPriceDataFromLegacy(cardPrice?: string, cardPriceRegion?: stri
   };
 }
 
+/**
+ * Remainder of article H1 after removing the game name (second line in split title layout).
+ * Handles 《》/『』 wrapping, optional ™/® vs plain title, and accidental outer "…" from bad YAML.
+ */
+export function getArticleTitleQuestion(locale: BlogLocale, title: string, gameTitle: string): string {
+  let t = title.trim();
+  while (t.length >= 2 && t.startsWith('"') && t.endsWith('"')) {
+    t = t.slice(1, -1).trim();
+  }
+  const gt = gameTitle.trim();
+
+  if (locale === 'zh-hans' || locale === 'ja') {
+    let q = t;
+    q = q.replace(`《${gt}》`, '');
+    q = q.replace(`『${gt}』`, '');
+    q = q.replace(`「${gt}」`, '');
+    q = q.replace(gt, '');
+    return q.replace(/^[\s：:—–\-《》「」『』]+/u, '').trim();
+  }
+
+  let q = t.replace(/\s+/g, ' ').trim();
+  const variants = [gt];
+  if (gt.includes('\u2122')) variants.push(gt.replace(/\u2122/g, '').replace(/\s+/g, ' ').trim());
+  if (gt.includes('\u00ae')) variants.push(gt.replace(/\u00ae/g, '').replace(/\s+/g, ' ').trim());
+  variants.sort((a, b) => b.length - a.length);
+  let replaced = false;
+  for (const v of variants) {
+    if (v && q.includes(v)) {
+      q = q.replace(v, '');
+      replaced = true;
+      break;
+    }
+  }
+  if (!replaced) q = q.replace(gt, '');
+  q = q.replace(/\s+/g, ' ').trim();
+  return q.replace(/^Is\s+/i, '').replace(/^[\s:—–-]+/, '');
+}
+
 function entryToPost(entry: CollectionEntry<'posts'>): BlogPost {
   const parts = entry.id.split('/');
   const locale = parts[0] as BlogLocale;

@@ -15,10 +15,12 @@ import {
   getPriceSectionHeadingPattern,
   inferLocaleFromFilePath,
   normalizePriceRows,
+  stripUtf8Bom,
 } from './article-pricing-utils.mjs';
 
 function splitFrontmatter(content) {
-  const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
+  const text = stripUtf8Bom(content);
+  const match = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n?/);
   if (!match) {
     throw new Error('No frontmatter found');
   }
@@ -26,7 +28,7 @@ function splitFrontmatter(content) {
   return {
     rawFrontmatter: match[1],
     frontmatter: yaml.load(match[1]) || {},
-    body: content.slice(match[0].length),
+    body: text.slice(match[0].length),
   };
 }
 
@@ -109,14 +111,21 @@ function injectTableIntoPriceSection(body, locale, markdownTable) {
 }
 
 function loadBrief(filePath, slug) {
-  const briefPath = join(resolve(dirname(filePath), '..', '..', '..', 'content', 'briefs'), `${slug}.json`);
-  if (!existsSync(briefPath)) return null;
-
-  try {
-    return JSON.parse(readFileSync(briefPath, 'utf8'));
-  } catch {
-    return null;
+  const briefDir = join(resolve(dirname(filePath), '..', '..', '..', '..', 'content', 'briefs'));
+  const stripped = slug
+    .replace(/-worth-it$/, '')
+    .replace(/-buy-now-or-wait$/, '');
+  const candidates = [...new Set([slug, stripped])];
+  for (const base of candidates) {
+    const briefPath = join(briefDir, `${base}.json`);
+    if (!existsSync(briefPath)) continue;
+    try {
+      return JSON.parse(readFileSync(briefPath, 'utf8'));
+    } catch {
+      return null;
+    }
   }
+  return null;
 }
 
 async function syncFile(filePath, rates) {
@@ -136,8 +145,8 @@ async function syncFile(filePath, rates) {
     priceRows = normalizePriceRows(buildPriceRowsFromBrief(brief, locale));
   }
 
-  if (priceRows.length < 5 || priceRows.length > 8) {
-    throw new Error(`priceRows missing or invalid for ${filePath}; expected 5-8 rows, got ${priceRows.length}`);
+  if (priceRows.length < 4 || priceRows.length > 8) {
+    throw new Error(`priceRows missing or invalid for ${filePath}; expected 4-8 rows, got ${priceRows.length}`);
   }
 
   frontmatter.priceRows = priceRows;

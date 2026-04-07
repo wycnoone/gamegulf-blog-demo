@@ -1,4 +1,6 @@
-import { defineCollection, z } from 'astro:content';
+import { defineCollection } from 'astro:content';
+import { glob } from 'astro/loaders';
+import { z } from 'astro/zod';
 
 const structuredPriceRow = z.object({
   regionCode: z.string(),
@@ -8,7 +10,7 @@ const structuredPriceRow = z.object({
 });
 
 const posts = defineCollection({
-  type: 'content',
+  loader: glob({ base: './src/content/posts', pattern: '**/*.md' }),
   schema: z.object({
     title: z.string(),
     description: z.string(),

@@ -14,21 +14,21 @@
  */
 
 import { readFileSync, writeFileSync } from 'node:fs';
-import { execSync } from 'node:child_process';
 import yaml from 'js-yaml';
 import {
   buildMarkdownPriceTable,
   getEurExchangeRates,
+  getPriceSectionHeadingPattern,
   inferLocaleFromFilePath,
+  listAllBlogPostMarkdownPaths,
   normalizePriceRows,
+  stripUtf8Bom,
 } from './article-pricing-utils.mjs';
 
 async function syncPriceTables(filePatterns) {
   let files = filePatterns;
   if (filePatterns.length === 0) {
-    // Use shell glob expansion
-    const output = execSync('find src/content/posts -name "*-worth-it.md" -o -name "*.md" | grep -v node_modules', { encoding: 'utf8' });
-    files = output.trim().split('\n').filter(f => f.length > 0);
+    files = listAllBlogPostMarkdownPaths();
   }
   
   const rates = await getEurExchangeRates();
@@ -38,7 +38,7 @@ async function syncPriceTables(filePatterns) {
   for (const file of files) {
     try {
       const result = await processFile(file, rates);
-      if (result) {
+      if (result === true) {
         updated++;
         console.log(`✓ ${file}`);
       }
@@ -52,7 +52,7 @@ async function syncPriceTables(filePatterns) {
 }
 
 async function processFile(filePath, rates) {
-  const content = readFileSync(filePath, 'utf8');
+  const content = stripUtf8Bom(readFileSync(filePath, 'utf8'));
   
   // Parse frontmatter
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
@@ -67,25 +67,31 @@ async function processFile(filePath, rates) {
   if (!locale) {
     throw new Error('Could not infer locale');
   }
-  
+
   // Generate expected table
   const expectedTable = await buildMarkdownPriceTable(
-    normalizePriceRows(fm.priceRows), 
-    locale, 
-    rates
+    normalizePriceRows(fm.priceRows),
+    locale,
+    rates,
   );
-  
-  // Find price section in body
+
+  // Find price section (same keyword rules as sync-article-pricing / validate-article)
   const body = content.slice(match[0].length);
-  const priceSectionPattern = getPriceSectionPattern(locale);
-  const priceSectionMatch = body.match(priceSectionPattern);
-  
-  if (!priceSectionMatch) {
-    throw new Error('Could not find price section');
+  const headingRe = getPriceSectionHeadingPattern(locale);
+  const sep = body.includes('\r\n') ? '\r\n' : '\n';
+  const rawLines = body.split(/\r?\n/);
+  let sectionStart = -1;
+  let acc = 0;
+  for (const line of rawLines) {
+    if (headingRe.test(line.trim())) {
+      sectionStart = acc + line.length + sep.length;
+      break;
+    }
+    acc += line.length + sep.length;
   }
-  
-  // Find existing table after price section heading
-  const sectionStart = priceSectionMatch.index + priceSectionMatch[0].length;
+  if (sectionStart < 0) {
+    return null;
+  }
   
   // Find ALL tables in the price section (could be multiple from previous runs)
   const priceSectionEnd = body.slice(sectionStart).search(/\n## /);
@@ -149,20 +155,6 @@ async function processFile(filePath, rates) {
   writeFileSync(filePath, newFullContent, 'utf8');
   
   return true;
-}
-
-function getPriceSectionPattern(locale) {
-  const patterns = {
-    en: /## How [Mm]uch [Dd]oes .+ [Cc]ost on Switch right now\?/iu,
-    'zh-hans': /## .+Switch 版现在多少钱？/u,
-    ja: /## .+は現在 Switch でいくら？/u,
-    fr: /## Combien coûte .+ sur Switch actuellement \?/u,
-    es: /## ¿Cuánto cuesta .+ en Switch actualmente\?/u,
-    de: /## Wie viel kostet .+ aktuell auf Switch\?/u,
-    pt: /## Quanto custa .+ no Switch atualmente\?/u,
-  };
-  
-  return patterns[locale] || patterns.en;
 }
 
 // CLI

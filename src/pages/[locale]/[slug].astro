@@ -13,6 +13,7 @@ import {
   getPost,
   getRelatedPosts,
   getVerdictLabel,
+  getArticleTitleQuestion,
   renderPost,
   siteUrl,
 } from '@/lib/blog';
@@ -165,14 +166,7 @@ const overviewWhatItIs = post.whatItIs;
 const overviewPraise = post.consensusPraise;
 const hasOverview = overviewWhatItIs || overviewPraise;
 
-const articleTitleQuestion = (() => {
-  if (typedLocale === 'zh-hans' || typedLocale === 'ja') {
-    return post.title.replace(post.gameTitle, '').replace(/^[\s：:—–\-《》「」]+/, '');
-  }
-
-  const withoutGame = post.title.replace(post.gameTitle, '').replace(/\s+/g, ' ').trim();
-  return withoutGame.replace(/^Is\s+/i, '').replace(/^[\s:—–-]+/, '');
-})();
+const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, post.gameTitle);
 ---
 
 <BaseLayout

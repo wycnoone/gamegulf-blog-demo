@@ -287,6 +287,14 @@ ARTICLE BODY (GEO-optimized):
 - Section headings match real user questions
 - Short, independently quotable paragraphs
 
+DEPTH — “research memo” tone (same section modules, no new H2s):
+- Overall read: **compact hands-on research memo** — structured findings, evidence, tradeoffs; not marketing fluff or a listicle of empty praise.
+- **Quick verdict (≤80 words):** After the direct buy/wait answer, add **≥1 checkable fact** from the brief or analytics (e.g. price spread, Metacritic, HLTB band from enrichment, discount count, co-op format).
+- **“What kind of game” + “How does it run”:** After the bold opener, each section needs **≥2 specific anchors**: named mechanics/modes/systems, performance target (fps/res/handheld vs docked), scope signals from the brief, or a **comparison** to another Mario/genre title. Ban paragraphs that only stack adjectives (“polish”, “spectacle”) without naming *what* in the game does the work.
+- **Buy now / Wait bullets:** Prefer **situation + trigger**; **≥50%** of bullets must cite a concrete cue (regional price row, MSRP, runtime, sale pattern keyword, roster/online constraint).
+- **Attribution:** Do not claim a private studio playthrough you did not perform. Use brief data, indexed pricing, or **common player/community reports** where appropriate; keep data vs. anecdote clear in the target language.
+- **Extractability (GEO):** In the first **1–2 sentences** after each H2, include **searchable nouns** players actually query (game name + mode/co-op/platform terms) so the block works as a standalone answer.
+
 For worth-it articles:
 1. Quick verdict (≤80 words)
 2. How much does [Game] cost on Switch right now?
@@ -362,12 +370,14 @@ LANGUAGE RULES:
 - Same slug across all languages
 - Write titles matching how users in that language search
 - Localize readingTime ("8 min read" / "8 分钟阅读")
+- **Idiom over literal translation:** do not mirror another locale sentence-for-sentence. Preserve facts, verdicts, and pricing logic; **re-express** headings, card fields, and body copy in **natural, idiomatic** phrasing for the target language (no calques, no translationese).
 
 WRITING STYLE:
 - Sound like a smart editor helping a player decide
 - Do not mention SEO, GEO, templates, or prompts
 - Do not mention AI generation
 - No empty praise words
+- Body copy should feel **substantive and inspection-like** within the fixed sections above — prioritize observable game facts and purchase triggers over tone-only description
 
 ───────────────────────────────────────────────
 STEP 4 — SELF-REVIEW
@@ -377,10 +387,11 @@ Before finalizing, verify EVERY item:
 
 Content quality:
 □ Opens with a direct answer to the main question
-□ Gameplay and tone clearly explained
+□ Gameplay and tone clearly explained with **named anchors**, not adjective-only blurbs
 □ Player-fit judgment included
 □ Real player praise/complaints summarized
 □ Price context without being price-only
+□ Body matches **research-memo depth** rules (quick-verdict fact, anchors in game+perf sections, concrete buy/wait cues)
 □ No "Best next move on GameGulf" section
 □ GameGulf mentioned exactly twice
 
@@ -394,6 +405,9 @@ GEO (tldr + body + FAQ):
 □ tldr present, starts with game name, ≤160 chars
 □ Every section opens with a quotable statement
 □ Key statements include the game name
+□ Body: quick verdict includes ≥1 concrete fact from brief/analytics
+□ Body: “what kind of game” + “how it runs” each include ≥2 named anchors after the opener
+□ Body: buy/wait bullets are situation+trigger; ≥50% cite a concrete purchase cue
 □ FAQ 3-6 items, one mentions GameGulf
 □ Every FAQ answer starts with game name
 □ Temporal claims date-anchored
@@ -403,10 +417,11 @@ Multilingual:
 □ All text fields in target language
 □ Non-translatable fields unchanged
 □ Reads like native writing
+□ Idiomatic phrasing — not literal translation from another locale
 
 Data accuracy:
 □ All prices match the game brief exactly
-□ `priceRows` present and complete (5-8 rows, no Argentina)
+□ `priceRows` present and complete (4-8 rows, no Argentina)
 □ Platform availability matches the brief
 □ No fabricated statistics or dates
 ```
@@ -415,10 +430,12 @@ Data accuracy:
 
 ## Token comparison
 
-| Approach | Input tokens | Notes |
-|---|---|---|
-| Full prompt (browse + research + write) | ~25-30k | AI browses page, extracts raw HTML |
-| Synthesis prompt (brief + research + write) | ~3-5k | Brief is ~1-2k, research is targeted |
+
+| Approach                                    | Input tokens | Notes                                |
+| ------------------------------------------- | ------------ | ------------------------------------ |
+| Full prompt (browse + research + write)     | ~25-30k      | AI browses page, extracts raw HTML   |
+| Synthesis prompt (brief + research + write) | ~3-5k        | Brief is ~1-2k, research is targeted |
+
 
 Savings: **~80% fewer input tokens** per article.
 
@@ -433,9 +450,9 @@ Game brief: {content of content/briefs/hades.json}
 Languages: en, zh-hans
 Category: worth-it
 Existing articles for internal linking:
-  en/zelda-tears-of-the-kingdom-worth-it
+  en/the-legend-of-zelda-tears-of-the-kingdom-worth-it
   en/persona-5-royal-worth-it
-  zh-hans/zelda-tears-of-the-kingdom-worth-it
+  zh-hans/the-legend-of-zelda-tears-of-the-kingdom-worth-it
 ```
 
 ### Batch (run sequentially)
@@ -451,3 +468,4 @@ node scripts/extract-game-brief.mjs \
 # 4. Run: npm run build (validates schema)
 # 5. If build passes: git add → commit
 ```
+

@@ -64,6 +64,19 @@ Every blog article page should help users answer:
 - “Easy to recommend at this price...”
 - “Not the best fit if...”
 
+### Detail page body — research-memo depth (same modules, richer copy)
+Keep the **fixed H2 section order** (quick verdict → price → what it is → performance → buy/wait → closing). Within each section, write like a **compact experience research memo**: findings first, then **checkable specifics** — not a trailer script or adjective stack.
+
+- **Quick verdict:** After the direct answer, include **at least one** concrete anchor from the brief or indexed data (e.g. price spread, Metacritic, HLTB band, first-party sale pattern, co-op format).
+- **“What kind of game” + “How it runs”:** After the bold opener, include **at least two named anchors** per section (systems, modes, UI hooks, fps/resolution claims, content shape, or a **comparison** to a sibling title). Do not chain sentences that only say “polish / spectacle / tight” without naming *what* creates that.
+- **Buy / Wait bullets:** Prefer **situation + trigger** (who + under what condition). At least **half** the bullets should reference a concrete cue (your eShop row, MSRP, co-op roster, runtime, sale-history signal from the brief).
+- **Honesty:** Do not invent private playtests (“we put in 40 hours”). Attribute limits clearly: brief, indexed pricing, or **common player reports** — wording may vary by locale but the line between data and anecdote must stay clear.
+- **SEO / GEO:** Headings stay real user questions; pack **searchable nouns** (modes, platform, co-op) into the **first two sentences** under each heading so excerpts read like answers, not teasers.
+
+### Localization (every target language)
+- **Idiom over literal translation:** do not mirror another locale clause-by-clause. Keep the same facts, verdicts, and price logic, but **re-express** them in **natural phrasing** that native readers expect (rhythm, collocations, section hooks).
+- Avoid translationese: calques, stacked abstract nouns, unexplained English jargon where a normal local term exists, and “report / index / narrative” register when everyday buying language works better.
+
 ---
 
 ## Decision-First Content Model
@@ -160,6 +173,7 @@ SEO should support usefulness, not replace it.
 ---
 
 ## Engineering Rules
+- Article **heroStat** (detail cover strip) and **reviewSignal** (list cards) are **Metacritic critic score** surfaces when a numeric score is shown — not HLTB, Steam user %, etc.; HLTB belongs in **playtime** and body. `scripts/validate-article.mjs` enforces this (with a small allowlist for non-score editorial labels such as Animal Crossing’s hero line).
 - Reuse components whenever possible
 - Avoid monolithic page components
 - Prefer composable, reusable UI sections
@@ -210,6 +224,7 @@ Before finishing any blog-page redesign, confirm:
 8. Article, alert, and pricing links still work
 9. UI patterns are reusable
 10. SEO-critical structure is preserved or intentionally documented if changed
+11. Worth-it / buy-timing **article bodies** read like **research memos** inside the standard H2s: concrete anchors (systems, performance, price triggers), not adjective-only marketing tone
 
 ---
 
