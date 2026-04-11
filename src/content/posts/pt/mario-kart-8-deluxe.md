@@ -175,6 +175,8 @@ cardPriceNativeCurrency: JPY
 
 Em abril **2026** o índice digital abre em **~€35,76 equivalente (Japão)** com **Hong Kong** logo acima, depois **EUA / Reino Unido / Brasil** e **€59,99** nas lojas euro — o feed mostra **zero promoções** claras no ano: fale de **desconto** com cuidado e compare **regiões** antes de sonhar com **menor preço histórico** mágico.
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa Mario Kart 8 Deluxe na Switch?
 
 **O Japão ainda lidera ~€35,76 equivalente; Hong Kong e os EUA sobem no mesmo instantâneo abril 2026.**

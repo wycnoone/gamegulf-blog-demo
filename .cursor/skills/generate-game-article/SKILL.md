@@ -10,14 +10,14 @@ description: >-
 
 # Generate GameGulf Game Article
 
-End-to-end pipeline: GameGulf URL → structured brief → 7-language articles.
+End-to-end pipeline: GameGulf URL → structured brief → EN master draft → 6 localized rewrites.
 
 ## Overview
 
 ```
 Phase 0 (script) ─→ Dedup check + queue management
 Phase 1 (script) ─→ JSON brief with price_analytics
-Phase 2 (you)    ─→ Markdown articles per locale
+Phase 2 (you)    ─→ EN master article + idiomatic localized rewrites
 Phase 3 (script) ─→ Validation (YAML + schema + limits)
 Phase 4 (build)  ─→ Build check
 ```
@@ -102,24 +102,40 @@ If the brief was generated without enrichment, re-run the extractor
 without `--no-enrich`. If Steam or HLTB is still missing, the game
 may genuinely lack that source and you should research the gap manually.
 
-## Phase 2 — Synthesize Articles
+## Phase 2 — Synthesize Articles (EN master first)
 
 Read the full synthesis prompt and template:
 
 1. Read `content/templates/synthesis-prompt.md` — the complete prompt
 2. Read `content/templates/game-guide-template.md` — field reference
 
-Then for each target locale, generate one Markdown file following
-the synthesis prompt exactly.
+Then generate one **English master draft first**, and only then
+rewrite it into each target locale with idiomatic local phrasing
+(not literal translation).
 
 ### Input assembly
 
 ```
 Game brief: <content of content/briefs/{slug}.json>
-Languages: en, zh-hans, ja, fr, es, de, pt
+Master language: en
+Target locales: zh-hans, ja, fr, es, de, pt
 Category: worth-it (or buy-now-or-wait)
 Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 ```
+
+### Phase 2 execution order (required)
+
+1. **Write EN master draft**
+   - Path: `src/content/posts/en/{slug}.md`
+   - This is the canonical source for structure and decision logic.
+2. **Rewrite into each locale**
+   - Paths: `src/content/posts/{locale}/{slug}.md`
+   - Preserve facts and decisions from EN master + brief.
+   - Re-express copy in idiomatic local editorial voice.
+   - Never do line-by-line literal translation.
+3. **Cross-locale consistency check**
+   - Same slug, same verdict intent, same pricing facts.
+   - Locale-specific wording is allowed; factual drift is not.
 
 ### Critical constraints (non-negotiable)
 
@@ -216,15 +232,16 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 - No "This guide explains..." or "Everything you need to know..."
 - Prefer "Worth buying if..." / "Wait for a sale if..." / "Best for..."
 - **Detail body = research memo inside fixed H2s:** substantive, inspection-like copy — named systems, performance facts, comparisons, purchase triggers. Quick verdict: **≥1** checkable fact from brief/analytics. Game + performance sections: **≥2** anchors each after the bold line. Buy/wait: situation+trigger; **≥50%** bullets with a concrete cue. No invented “we played 40 hours” unless true.
-- GameGulf mentioned exactly 2 times total (1× FAQ, 1× body)
+- Article **markdown body** (below frontmatter): **≥3** `gamegulf` substrings (case-insensitive) — **GameGulf** wording and/or `gamegulf.com` links; `validate-article.mjs` enforces this
 - No mention of SEO, GEO, AI, templates, or prompts
 - Every section opens with a definitive quotable statement
 - Every FAQ answer starts with the game name
 
-**Multilingual:**
+**Multilingual (EN-master workflow):**
 - Same slug across all 7 locales
 - All text fields in the target language; URLs/dates/category unchanged
-- **Idiom over literal translation:** never line-by-line calque from English (or any other source locale). Convey the same decisions and data using **idiomatic** phrasing a native editor would use for that language.
+- EN is the source draft for downstream localization.
+- **Idiom over literal translation:** never line-by-line calque from EN. Convey the same decisions and data using **idiomatic** phrasing a native editor would use for that language.
 - Titles match how users in that language actually search
 - Card copy and body must read like **native editorial**, not machine translation or translationese
 
@@ -341,7 +358,7 @@ node scripts/queue-next.mjs --mark-started "$URL"
 # 4. Extract brief
 node scripts/extract-game-brief.mjs "$URL"
 
-# 5. [AI STEP] Synthesize articles for 7 locales (follow Phase 2 instructions)
+# 5. [AI STEP] Write EN master, then localize to 6 locales (follow Phase 2 instructions)
 
 # 6. Validate
 node scripts/validate-article.mjs src/content/posts/*/{slug}.md

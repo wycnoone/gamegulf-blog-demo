@@ -172,6 +172,8 @@ cardPriceNativeCurrency: JPY
 
 April 2026 pricing is **first-party math**: indexed data still puts **Japan near €35.34 equivalent (¥6,500)** first, **United States around $59.99**, while **tracked discount history** on this feed shows **zero** separate **sale** captures in the past year — the **global low** in the index **matches current list** on the Japan row. If you want **Wonder effects and couch play**, **list is a rational buy**; if you only purchase at **historic discount** extremes, prepare to **wait without a signal**.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Super Mario Bros. Wonder cost on Switch right now?
 
 **Japan still leads the indexed digital stack near €35.34 equivalent (¥6,500), with Hong Kong, the United States, and Brazil stepping higher in the same April 2026 snapshot.**
@@ -179,10 +181,10 @@ April 2026 pricing is **first-party math**: indexed data still puts **Japan near
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 40.73 | ¥6,500 |
-| Hong Kong | USD 42.00 | HK$329 |
-| United States | USD 60.01 | $59.99 |
-| Brazil | USD 67.65 | R$349 |
+| Japan | USD 41.39 | ¥6,500 |
+| Hong Kong | USD 42.67 | HK$329 |
+| United States | USD 60.98 | $59.99 |
+| Brazil | USD 68.74 | R$349 |
 
 Because **discount** prints are **absent** in the trailing-year feed, the practical read is simple: **2026** list bands (**€35.34-class Japan**, **$59.99 US**) behave like the **floor** until Nintendo runs a broad **promo**. That pattern matches **rare first-party cuts** on flagship Mario SKUs — not a judgment on quality, just **sale** frequency. **GameGulf** tracks those rows in the [live multi-region grid](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price); confirm **your** storefront before you buy.
 

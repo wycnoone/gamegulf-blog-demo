@@ -152,6 +152,8 @@ cardPriceNativeCurrency: BRL
 
 Abril 2026: **Brasil ~12,28 €** no índice; historial **Japão ~1,25 € 17 abr 2025**, **sete** descontos, **média ~3,77 €**. Sem pressa, **espera**. [Grelha ao vivo](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa INSIDE — preço e promoção agora
 
 **Índice abril 2026 abre Brasil ~12,28 € eq.**

@@ -174,6 +174,8 @@ cardPriceNativeCurrency: EUR
 
 Em **abril de 2026** o índice coloca **Alemanha, Espanha, França e Itália** perto de **€20,99** numa **promoção** forte. O histórico mostra **menor preço histórico** em **€20,99 (França, 18 de dezembro de 2025)** com **onze descontos** no ano e **preço médio em promoção ~€29,64**. Abra o [rastreamento multi-região da GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) para confirmar **a sua** linha.
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa Unicorn Overlord no Switch?
 
 **O índice de abril de 2026 abre com linhas EU em torno de €20,99 e sobe para Hong Kong, Japão, Brasil e Estados Unidos.**

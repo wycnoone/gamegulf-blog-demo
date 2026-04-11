@@ -166,6 +166,8 @@ cardPriceNativeCurrency: JPY
 
 Abril 2026 é preço: **índice Japão ~41,75 € (¥7.678)**, **histórico** com **JP ~12,52 € em 10/03/2026**, **nove promoções**/ano e **média ~20,01 €**. Só **menor preço histórico**? **Alerta**. Já a jogar? **Compra** quando a linha fizer sentido.
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa Persona 5 Royal no Switch agora?
 
 **Japão lidera o digital (~41,75 €, ¥7.678), depois Hong Kong, Brasil, EUA antes do bloco ~59,99 € na Europa.**

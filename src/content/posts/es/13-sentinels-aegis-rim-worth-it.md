@@ -137,6 +137,8 @@ cardPriceNativeCurrency: USD
 
 El **historial de ofertas** muestra **mínimo histórico** referencial ~**14,33 €** (**GB**, **5 de junio de 2025**), **promedio** en ventanas **promo** ~**21,35 €** en el año seguido, y **siete** ciclos con **descuento** claro; el último movimiento fuerte fue **hace 63 días** (**Hong Kong**, **3 de febrero de 2026**, **~60 %**). [Tabla](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## Cuánto cuesta — precio y oferta
 
 

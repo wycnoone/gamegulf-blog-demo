@@ -159,6 +159,8 @@ cardPriceNativeCurrency: JPY
 
 Avril 2026 : **Japon ~0,54 €** en tête, **sept** promos suivies, **moyenne promo ~0,77 €** — posture **proche plancher**. Si le ton passe, **achète**. [Grille live](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
 
+**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+
 ## Combien coûte Figment — prix et promos
 
 **L’index ouvre toujours par le Japon ~0,54 € eq.**

@@ -193,6 +193,8 @@ cardPriceNativeCurrency: JPY
 
 En 2026 le débat est **prix indexé vs plus bas historique** : le cliché place encore le **Japon vers ~15,22 € équivalent (¥2 800)**, tandis que l’historique traqué garde un **plus bas historique** vers **~4,66 € au Brésil le 18 décembre 2025** — soit ~**110 jours** avant avril — avec **peu d’événements promo** comptés sur un an. Si la boucle vous plaît, **achetez quand votre ligne est saine** ; si vous chassez le plancher, **activez une alerte**.
 
+**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+
 ## Combien coûte Hades sur Switch en ce moment ?
 
 **Le Japon mène toujours le tableau digital indexé vers ~15,22 € équivalent (¥2 800), le Brésil et les États-Unis étant plus hauts sur le même instantané.**

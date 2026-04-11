@@ -141,6 +141,8 @@ cardPriceNativeCurrency: JPY
 
 Abril 2026: **Japão ~0,54 €**, **sete** descontos, **média ~0,77 €**. [Grelha](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa Figment — preço e promoção
 
 **Histórico**: **mínimo** alinha com promo atual; **média ~0,77 €**; último grande há **18 dias** (**Japão**, **20 mar 2026**, **~45%**).

@@ -142,6 +142,8 @@ cardPriceNativeCurrency: USD
 
 Avril 2026 : **US ~13,01 €** sous référence **~14,33 € (GB, 5 juin 2025)**. **Plus bas historique** et **promo** : **sept** fenêtres suivies, **moyenne promo ~21,35 €**, dernier signal notable **il y a 63 jours** (**Hong Kong**, **3 février 2026**, **~60 %**). [Grille](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 
+**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+
 ## Combien coûte — prix et promos
 
 

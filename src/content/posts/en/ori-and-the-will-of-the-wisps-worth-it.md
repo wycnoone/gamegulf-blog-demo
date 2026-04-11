@@ -196,6 +196,8 @@ cardPriceNativeCurrency: JPY
 
 Indexed math is blunt: **Japan still leads the April 2026 table near €19.14 equivalent (¥3,520)**, while **tracked discount history** shows a **United States floor near €6.50 on 22 December 2025** and **five discount-tagged events** in the past year with **average discount-level prints around €11.66**. The **last recorded drop** was **29 days** before this snapshot (**9 March 2026**, again near **€6.50** in the United States, about **75%** off the higher list context in that feed). If you love the fantasy, **buy when your patience runs out**; if you only care about **value**, **default to alerts**.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Ori and the Will of the Wisps cost on Switch right now?
 
 **Japan still tops the indexed digital stack near €19.14 equivalent (¥3,520), with the United States and Hong Kong stepping up from there in the same April 2026 snapshot.**
@@ -203,14 +205,14 @@ Indexed math is blunt: **Japan still leads the April 2026 table near €19.14 eq
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 22.06 | ¥3,520 |
-| Hong Kong | USD 29.10 | HK$228 |
-| United States | USD 30.00 | $29.99 |
-| Brazil | USD 32.57 | R$168 |
-| United Kingdom | USD 33.05 | £24.99 |
-| Germany | USD 34.56 | €29.99 |
-| Spain | USD 34.56 | €29.99 |
-| France | USD 34.56 | €29.99 |
+| Japan | USD 22.41 | ¥3,520 |
+| Hong Kong | USD 29.57 | HK$228 |
+| United States | USD 30.48 | $29.99 |
+| Brazil | USD 33.10 | R$168 |
+| United Kingdom | USD 33.59 | £24.99 |
+| Germany | USD 35.12 | €29.99 |
+| Spain | USD 35.12 | €29.99 |
+| France | USD 35.12 | €29.99 |
 
 Tracked **sale** history is sharper than list rank alone: the **deepest global point in this feed** remains that **€6.50 United States low on 22 December 2025**, while **recurring discount prints average near €11.66** across the indexed year — that is why the pipeline tags this as a **regular discounter**, not a “never goes on sale” catalog title. Use the [live multi-region grid](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price) to confirm **your** account before checkout.
 

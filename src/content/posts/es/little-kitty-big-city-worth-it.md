@@ -158,6 +158,8 @@ cardPriceNativeCurrency: EUR
 
 En precio, **no está en el mínimo histórico**: el índice muestra **~14,99 € en España** y el **mínimo trazado ~11,35 € (Japón, 18/08/2025)**. Compra por encaje; espera si solo te mueve el suelo.
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## ¿Cuánto cuesta ahora en Switch?
 
 **El índice arranca cerca de ~14,99 € en España y sube en otras regiones en este snapshot.**

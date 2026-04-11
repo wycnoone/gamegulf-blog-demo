@@ -153,6 +153,8 @@ cardPriceNativeCurrency: JPY
 
 April 2026: **Japan ~0,54 €**, **sieben** Rabattfenster, **Sale-Schnitt ~0,77 €** — **nahe historischem Tief**. [Live-Tabelle](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
 
+**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+
 ## Wie viel kostet Figment auf der Switch — Preis und Rabatt
 
 **Rabatt-Historie**: tiefstes Band = aktuelle Promo, **Durchschnitt ~0,77 €**, letzter großer Move **vor 18 Tagen** (**Japan**, **20. März 2026**, **~45 %**). **Warten** riskiert **MSRP**.

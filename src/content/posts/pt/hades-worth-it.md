@@ -186,6 +186,8 @@ cardPriceNativeCurrency: JPY
 
 Em 2026 o atrito é **preço indexado vs. mínimo histórico**: o snapshot deixa o **Japão perto de ~15,22 € equivalentes (¥2.800)**, enquanto o **histórico rastreado** guarda **mínimo histórico** perto de **~4,66 € no Brasil em 18 de dezembro de 2025** — cerca de **110 dias** antes de abril — com **poucos eventos de promoção** contados em um ano. Se você curte o loop, **compre quando a sua linha fizer sentido**; se só quer o piso, **use alerta**.
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa Hades no Switch agora?
 
 **O Japão ainda lidera a tabela digital indexada perto de ~15,22 € equivalentes (¥2.800); Brasil e EUA ficam acima no mesmo snapshot.**

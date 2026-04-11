@@ -165,6 +165,8 @@ cardPriceNativeCurrency: JPY
 
 La compra es **matemática regional**: índice **Japón ~€42,95 (¥7.900)**, **EE. UU. ~€60,75 ($79,99)**, **cero ofertas** el último año. Confirma **tu** fila eShop en un tracker vivo, no una captura ajena.
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## ¿Cuánto cuesta Tears of the Kingdom en Switch ahora?
 
 **Japón lidera la tabla digital rastreada ~€42,95 equivalente; EE. UU. cerca del MSRP $79,99 — mismo juego, ticket distinto.**

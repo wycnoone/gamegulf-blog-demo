@@ -163,6 +163,8 @@ cardPriceNativeCurrency: JPY
 
 **Japón ~41,75 € (¥7.678)** ; **nueve ofertas** / año ; **media ~20,01 €** ; **10 marzo 2026** **~12,52 €** en Japón (**mínimo histórico**). **Oferta** y **descuento** marcan el hueco frente al list.
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## ¿Cuánto cuesta Persona 5 Royal en Switch actualmente?
 
 **Japón lidera el índice.**

@@ -190,6 +190,8 @@ cardPriceNativeCurrency: JPY
 
 The 2026 question is less about quality and more about **indexed math**: today’s feed still puts **Japan near €15.22 equivalent (¥2,800)** at the top of the table, while **tracked history** shows a **much lower Brazil point around €4.66 on 18 December 2025** — roughly **110 days** before April 2026 — with **only one clear discount event** captured in the past year. If you love the loop, **buy when your regional row looks sane**; if you only care about **historic lows**, **default to alerts**.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Hades cost on Switch right now?
 
 **Japan still leads the indexed digital stack near €15.22 equivalent (¥2,800), with Brazil and the United States stepping up from there in the same April 2026 snapshot.**
@@ -197,14 +199,14 @@ The 2026 question is less about quality and more about **indexed math**: today�
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 17.54 | ¥2,800 |
-| Brazil | USD 17.92 | R$92.46 |
-| United States | USD 25.00 | $24.99 |
-| Germany | USD 28.80 | €24.99 |
-| Spain | USD 28.80 | €24.99 |
-| France | USD 28.80 | €24.99 |
-| Italy | USD 28.80 | €24.99 |
-| Portugal | USD 28.80 | €24.99 |
+| Japan | USD 17.82 | ¥2,800 |
+| Brazil | USD 18.21 | R$92.46 |
+| United States | USD 25.40 | $24.99 |
+| Germany | USD 29.27 | €24.99 |
+| Spain | USD 29.27 | €24.99 |
+| France | USD 29.27 | €24.99 |
+| Italy | USD 29.27 | €24.99 |
+| Portugal | USD 29.27 | €24.99 |
 
 Tracked sale history tells a sharper story than list price alone: the **deepest recorded point** in this feed sits near **€4.66 on the Brazil eShop (18 December 2025)**, while **average discount-level prints** in the same window hug that **€4.66** anchor. That means **today’s Japan-led pricing is fair for a masterpiece**, but **not** the same beast as those **rare, aggressive lows**. Use the [live multi-region grid](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) to confirm **your** account’s row before you checkout.
 

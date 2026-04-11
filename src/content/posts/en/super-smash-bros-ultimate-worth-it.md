@@ -171,6 +171,8 @@ cardPriceNativeCurrency: HKD
 
 Price analytics currently classify it as **at historical low** in this tracker, with the cheapest indexed row around **€36.44 (Hong Kong)** and no recurring discount cadence in the last year.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much is the Switch price right now?
 
 **Current indexed pricing starts around €36.44 and climbs toward standard first-party tiers in other regions.**
@@ -178,14 +180,14 @@ Price analytics currently classify it as **at historical low** in this tracker, 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 42.00 | HK$329 |
-| Japan | USD 49.63 | ¥7,920 |
-| United States | USD 60.01 | $59.99 |
-| Brazil | USD 63.95 | R$439.90 |
-| United Kingdom | USD 79.34 | £59.99 |
-| Germany | USD 80.66 | €69.99 |
-| Spain | USD 80.66 | €69.99 |
-| France | USD 80.66 | €69.99 |
+| Hong Kong | USD 42.67 | HK$329 |
+| Japan | USD 50.43 | ¥7,920 |
+| United States | USD 60.98 | $59.99 |
+| Brazil | USD 64.98 | R$439.90 |
+| United Kingdom | USD 80.62 | £59.99 |
+| Germany | USD 81.97 | €69.99 |
+| Spain | USD 81.97 | €69.99 |
+| France | USD 81.97 | €69.99 |
 
 Discount history context is straightforward: this dataset marks the current low as the historical low and reports zero discount events over the past year. For a Nintendo evergreen, this supports a practical buy-now call if the game fits your play habits.
 

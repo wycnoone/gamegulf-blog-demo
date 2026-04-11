@@ -160,6 +160,8 @@ cardPriceNativeCurrency: HKD
 
 Em preço, o tracker coloca a situação **perto do mínimo histórico**: melhor linha indexada ~**36,44 € (Hong Kong)** e **sem** padrão claro de promoções profundas recorrentes.
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa Super Smash Bros. Ultimate no Switch?
 
 **O índice começa ~36,44 € e sobe muito conforme a região neste snapshot.**

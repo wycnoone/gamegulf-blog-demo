@@ -176,6 +176,8 @@ cardPriceNativeCurrency: EUR
 
 Con **nueve descuentos** en el año y **cuatro días** desde la última bajada, si solo quieres el **suelo absoluto**, persigues un **outlier** — revisa el [seguimiento multi-región de GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) para **tu** cuenta.
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## ¿Cuánto cuesta What Remains of Edith Finch en Switch?
 
 **El índice abre con España ~€4,99 y sube hacia Brasil, Japón y EE. UU. antes de los MSRP europeos.**

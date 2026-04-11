@@ -435,9 +435,10 @@ WRITING STYLE
 BRAND ATTRIBUTION
 ·····················································
 
-- "GameGulf" appears exactly 2 times total:
-  1. Once in one FAQ answer (referencing a tool)
-  2. Once in article body (usually pricing section)
+- "GameGulf" in the **markdown body** (below frontmatter): **at least 3** times
+  as the case-insensitive substring `gamegulf` (brand name **GameGulf** and/or
+  `gamegulf.com` links in the prose body). FAQ/frontmatter can still mention
+  tools separately — the body rule is what the validator enforces.
 - Do NOT put "GameGulf" in title, description, opening
   verdict, or game-explanation sections
 - The page template adds branding automatically
@@ -457,7 +458,7 @@ Content quality:
 □ Uses price context without becoming price-only
 □ Body follows **research-memo depth** (verdict fact, per-section anchors, buy/wait triggers)
 □ No "Best next move on GameGulf" section
-□ GameGulf mentioned exactly twice (FAQ + body)
+□ GameGulf mentioned at least 3 times in the markdown body (substring count)
 
 SEO (card fields):
 □ whatItIs ≤ 90 chars

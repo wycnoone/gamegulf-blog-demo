@@ -193,6 +193,8 @@ cardPriceNativeCurrency: JPY
 
 April **2026** pricing adds a rare nudge: indexed digital still opens near **€35.76 equivalent (Japan)**, and this feed flags **at-or-near historical low** versus recent tracked points — including a **March 2026** **Japan** print at the same **€35.76** anchor — while **discount** **sale** captures in the past year remain **sparse**, so the “wait for half off” fantasy is weaker than usual.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Animal Crossing: New Horizons cost on Switch right now?
 
 **Japan still leads the indexed digital stack near €35.76 equivalent, with Hong Kong and the United States stepping higher in the same April 2026 snapshot.**
@@ -200,14 +202,14 @@ April **2026** pricing adds a rare nudge: indexed digital still opens near **€
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.21 | ¥6,578 |
-| Hong Kong | USD 42.00 | HK$354 |
-| United States | USD 60.01 | $64.99 |
-| United Kingdom | USD 66.12 | £49.99 |
-| Brazil | USD 67.65 | R$359.9 |
-| Germany | USD 69.14 | €59.99 |
-| Spain | USD 69.14 | €59.99 |
-| France | USD 69.14 | €59.99 |
+| Japan | USD 41.88 | ¥6,578 |
+| Hong Kong | USD 42.67 | HK$354 |
+| United States | USD 60.98 | $64.99 |
+| United Kingdom | USD 67.19 | £49.99 |
+| Brazil | USD 68.74 | R$359.9 |
+| Germany | USD 70.25 | €59.99 |
+| Spain | USD 70.25 | €59.99 |
+| France | USD 70.25 | €59.99 |
 
 Treat the **historical low** signal as a **regional** fact: if **your** storefront mirrors **Japan**, you are buying into the same cluster the tracker saw on **8 March 2026**. GameGulf lines up with that ladder — verify on the [live multi-region grid](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price) before checkout.
 

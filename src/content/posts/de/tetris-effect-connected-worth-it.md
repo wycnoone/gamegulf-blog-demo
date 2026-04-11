@@ -176,6 +176,8 @@ cardPriceNativeCurrency: HKD
 
 Zahlen: **Hongkong führt (~19,49 € äquivalent, 176 HK$)**; die **Historie** zeigt **~9,75 € in Hongkong am 9. Juni 2025**, **drei** klare **Rabatt**-Phasen im indexierten Jahr, **durchschnittlicher Sale-Preis ~16,58 €**, letzter starker Eintrag **17. Dezember 2025** wieder nahe **~9,75 €** (**~51 %** Rabatt-Kontext), **111 Tage** vor diesem Snapshot. Wenn du das Setting liebst, **kauf im Sale**; wenn nur **Historientief** zählt, **Alarm**.
 
+**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+
 ## Wie viel kostet Tetris® Effect: Connected aktuell auf der Switch?
 
 **Hongkong bleibt vorn im digitalen Index (~19,49 € äquivalent, 176 HK$), mehrere EU-Zeilen zeigen 19,99 € im gleichen April-2026-Schnappschuss.**

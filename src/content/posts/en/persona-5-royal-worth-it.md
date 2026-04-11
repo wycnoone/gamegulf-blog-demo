@@ -182,6 +182,8 @@ cardPriceNativeCurrency: JPY
 
 April 2026 is a **pricing** question: indexed rows still put **Japan near €41.75 equivalent (¥7,678)** at the top, while **tracked history** logged a **Japan point around €12.52 on 10 March 2026** and **nine discount windows** in the past year with an **~€20.01 average** sale print — if you only buy at **historical lows**, default to **alerts**; if you are mid-run and refuse to pause, **buy when your row feels sane**.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Persona 5 Royal cost on Switch right now?
 
 **Japan still leads the April 2026 indexed digital stack near €41.75 equivalent (¥7,678), with Hong Kong, Brazil, and the United States stepping higher before the €59.99 EU-style MSRP band.**
@@ -189,14 +191,14 @@ April 2026 is a **pricing** question: indexed rows still put **Japan near €41.
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 48.12 | ¥7,678 |
-| Hong Kong | USD 55.91 | HK$438 |
-| Brazil | USD 57.19 | R$295 |
-| United States | USD 60.01 | $59.99 |
-| Germany | USD 69.14 | €59.99 |
-| Spain | USD 69.14 | €59.99 |
-| France | USD 69.14 | €59.99 |
-| Italy | USD 69.14 | €59.99 |
+| Japan | USD 48.89 | ¥7,678 |
+| Hong Kong | USD 56.81 | HK$438 |
+| Brazil | USD 58.11 | R$295 |
+| United States | USD 60.98 | $59.99 |
+| Germany | USD 70.25 | €59.99 |
+| Spain | USD 70.25 | €59.99 |
+| France | USD 70.25 | €59.99 |
+| Italy | USD 70.25 | €59.99 |
 
 Tracked data is louder than sticker price: the **deepest captured point** sits near **€12.52 on the Japan eShop on 10 March 2026**, while **France printed €17.99 on 1 January 2026** — both read as real **sale** moments next to **€59.99** list elsewhere. With **nine discount** events in the rolling year and **~€20.01** average discount-level pricing, treat today as **between sales**, not the floor. On GameGulf, open the [live price grid](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) for **your** account region before checkout.
 

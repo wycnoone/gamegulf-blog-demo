@@ -174,6 +174,8 @@ cardPriceNativeCurrency: HKD
 
 Im **April 2026** startet der Digital-Index bei **~36,44 € äquivalent Hongkong (329 HK$)**, **Japan ~41,32 € (7.600 ¥)**, dann **USA / UK / Brasilien** und mehrere **59,99 €**-Etagen — der Feed zeigt **fast keine Rabatt-Events** im Jahr: denke **Listenpreis**, nicht Dauer-**Sale**.
 
+**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+
 ## Wie viel kostet Metroid Dread auf der Switch gerade?
 
 **Hongkong führt weiter ~36,44 € äquivalent (329 HK$), Japan und USA liegen im selben April-2026-Snapshot höher.**

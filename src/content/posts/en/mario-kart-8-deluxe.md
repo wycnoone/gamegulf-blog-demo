@@ -187,6 +187,8 @@ cardPriceNativeCurrency: JPY
 
 April **2026** pricing is classic Nintendo evergreen: indexed digital still opens near **€35.76 equivalent (Japan)** with **Hong Kong** stepping slightly higher, then **US / UK / Brazil** tiers climbing toward **€59.99**-class euro storefronts — **discount** events in this feed show **zero** captures in the past year, so treat **sale** hunting as optional, not mandatory.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Mario Kart 8 Deluxe cost on Switch right now?
 
 **Japan still leads the indexed digital stack near €35.76 equivalent, with Hong Kong and the United States stepping higher in the same April 2026 snapshot.**
@@ -194,14 +196,14 @@ April **2026** pricing is classic Nintendo evergreen: indexed digital still open
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.21 | ¥6,578 |
-| Hong Kong | USD 42.00 | HK$329 |
-| United States | USD 60.01 | $59.99 |
-| Brazil | USD 63.95 | R$329.9 |
-| United Kingdom | USD 66.12 | £49.99 |
-| Germany | USD 69.14 | €59.99 |
-| Spain | USD 69.14 | €59.99 |
-| France | USD 69.14 | €59.99 |
+| Japan | USD 41.88 | ¥6,578 |
+| Hong Kong | USD 42.67 | HK$329 |
+| United States | USD 60.98 | $59.99 |
+| Brazil | USD 64.98 | R$329.9 |
+| United Kingdom | USD 67.19 | £49.99 |
+| Germany | USD 70.25 | €59.99 |
+| Spain | USD 70.25 | €59.99 |
+| France | USD 70.25 | €59.99 |
 
 Because **Mario Kart 8 Deluxe** rarely prints deep **discount** history here, the buying question is **regional fairness**, not fantasy coupon math. GameGulf mirrors the same ladder — use the [live multi-region grid](https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price) to confirm the row your Nintendo account actually pays.
 

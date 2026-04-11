@@ -177,6 +177,8 @@ cardPriceNativeCurrency: JPY
 
 Im April **2026** startet der Index bei **~€35,76 Äquivalent (Japan)** mit einem Stempel **8. März 2026** am **gleichen Anker** — nah an einem **historischen Tief** jüngerer Daten statt zufälliger **Rabatt**. Tiefe **Sales** bleiben in der Fenster selten.
 
+**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+
 ## Wie viel kostet Animal Crossing: New Horizons auf der Switch jetzt?
 
 **Japan führt mit ~€35,76 ; Hongkong und USA liegen im selben April-2026-Snapshot höher.**

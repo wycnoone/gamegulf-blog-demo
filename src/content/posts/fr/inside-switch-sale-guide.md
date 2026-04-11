@@ -172,6 +172,8 @@ cardPriceNativeCurrency: BRL
 
 Tension avril 2026 : **Brésil ~12,28 € équivalent** en tête, mais l’historique montre un **plancher Japon ~1,25 € le 17 avril 2025**, **sept** promos sur l’année, **moyenne promo ~3,77 €**. Sans urgence, **attends** la prochaine **remise**. Vérifie la [grille live](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
 
+**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+
 ## Combien coûte INSIDE sur Switch — prix et promos
 
 **L’index avril 2026 ouvre avec le Brésil ~12,28 € équivalent (R$72,99).**

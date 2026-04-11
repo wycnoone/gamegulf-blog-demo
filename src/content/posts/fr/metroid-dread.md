@@ -1,7 +1,7 @@
 ---
 title: Metroid Dread sur Switch en vaut-il encore la peine en 2026 ?
 description: >-
-  Guide d’achat Switch — grilles eShop indexées en avril 2026, cadence de promos
+  Guide d'achat Switch — grilles eShop indexées en avril 2026, cadence de promos
   Nintendo, durées HLTB, tension EMMI et combat au parry, achat immédiat ou
   alerte prix.
 publishedAt: "2026-04-07"
@@ -16,8 +16,8 @@ decision: >-
   boss exigeants. Surveillez les prix si votre compte reste loin des lignes Hong
   Kong / Japon indexées.
 priceSignal: >-
-  En avril 2026, l’index démarre vers ~36,44 € équivalent Hong Kong (329 HK$),
-  puis Japon ~41,32 € (7 600 ¥), puis US/UK/BR avant des étages ~59,99 € —
+  En avril 2026, l'index démarre vers ~36,44 EUR équivalent Hong Kong (329 HK$),
+  puis Japon ~41,32 EUR (7 600 ¥), puis US/UK/BR avant des étages ~59,99 EUR —
   profil first-party peu remisé.
 heroStat: 88 Metacritic
 heroNote: >-
@@ -30,13 +30,13 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  Metroid 2D ~88 Metacritic — HK mène l’index ; promos profondes rares dans le
+  Metroid 2D ~88 Metacritic — HK mène l'index ; promos profondes rares dans le
   flux.
 whatItIs: "Action 2D : carte ZDR, gating, EMMI, parades, boss et modes de difficulté."
 bestFor: Profils action qui assument tension EMMI et boss techniques.
 avoidIf: Évitez si chasses EMMI et wipes boss vous épuisent.
 consensusPraise: Maniabilité, lisibilité anim et menace EMMI restent un repère Switch.
-mainFriction: Pics de difficulté et EMMI fatiguent les profils “aventure cool”.
+mainFriction: Pics de difficulté et EMMI fatiguent les profils "aventure cool".
 timeFit: HLTB ~9h main, ~12h extras, ~14h complétion (moyennes communauté).
 fitLabel: Joueurs qui aiment maîtriser un rythme, pas le farming chill.
 timingNote: Comparez votre ligne eShop aux ancres HK/JP avant de valider le plein tarif.
@@ -54,13 +54,13 @@ timeCommitment: >-
   — courtes sessions, courbe raide.
 playMode: Solo.
 whyNow: >-
-  En 2026, c’est surtout un arbitrage de boutique, pas une chasse au coupon
+  En 2026, c'est surtout un arbitrage de boutique, pas une chasse au coupon
   hebdo.
 currentDeal: >-
-  Le numérique indexé ouvre sur Hong Kong ~36,44 € équivalent (329 HK$), puis
-  Japon, US/UK/BR, puis plusieurs fronts ~59,99 € (instantané avril 2026).
+  Le numérique indexé ouvre sur Hong Kong ~36,44 EUR équivalent (329 HK$), puis
+  Japon, US/UK/BR, puis plusieurs fronts ~59,99 EUR (instantané avril 2026).
 nearHistoricalLow: >-
-  Flux sans promos nettes sur l’année — traitez le prix comme du catalogue, pas
+  Flux sans promos nettes sur l'année — traitez le prix comme du catalogue, pas
   une promo flash.
 salePattern: >-
   Les soldes Nintendo rabotent peu les first-party — patience = petits gains,
@@ -88,7 +88,7 @@ playerVoices:
     sentiment: positive
   - quote: Courbe de boss plus longue que prévu en portable
     sentiment: negative
-  - quote: Mode Rookie m’a laissé finir sans vider le stress
+  - quote: Mode Rookie m'a laissé finir sans vider le stress
     sentiment: positive
   - quote: Plus court que mes habitudes open-world
     sentiment: negative
@@ -112,8 +112,8 @@ faq:
     answer: >-
       Metroid Dread vaut encore le coup en 2026 si vous voulez un Metroid 2D
       exigeant avec zones EMMI et boss soignés. En avril 2026, la grille
-      GameGulf démarre vers ~36,44 € équivalent sur l’eShop Hong Kong (329 HK$)
-      — vérifiez la ligne liée à votre compte Nintendo avant d’acheter.
+      GameGulf démarre vers ~36,44 EUR équivalent sur l'eShop Hong Kong (329 HK$)
+      — vérifiez la ligne liée à votre compte Nintendo avant d'acheter.
   - question: Combien de temps pour finir Metroid Dread ?
     answer: >-
       Metroid Dread dure environ 9 h pour le fil principal, ~12 h avec extras et
@@ -126,7 +126,7 @@ faq:
       permanent.
   - question: Metroid Dread est-il trop dur pour un débutant ?
     answer: >-
-      Metroid Dread demande plus d’apprentissage que beaucoup de jeux Nintendo à
+      Metroid Dread demande plus d'apprentissage que beaucoup de jeux Nintendo à
       cause des EMMI et des boss ; le mode Rookie aide, mais il faut toujours
       apprendre les animations.
   - question: Qui devrait attendre Metroid Dread ?
@@ -181,6 +181,8 @@ cardPriceNativeCurrency: HKD
 **Metroid Dread reste l’un des “Samus est de retour” les plus convaincants sur Switch** — **88 Metacritic**, **carte ZDR à abilities**, **EMMI** et **combat au parry**. **HLTB** tourne autour de **9h / 12h / 14h**.
 
 En **avril 2026**, l’index numérique démarre vers **~36,44 € équivalent Hong Kong (329 HK$)**, puis **Japon ~41,32 € (7 600 ¥)**, puis **US / UK / Brésil**, et plusieurs **59,99 €** — le flux ne montre **quasi aucune promo** sur l’année : pensez **prix catalogue**, pas **soldes** permanents.
+
+**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
 
 ## Combien coûte Metroid Dread sur Switch en ce moment ?
 

@@ -120,6 +120,8 @@ cardPriceNativeCurrency: JPY
 
 **Super Mario Bros. Wonder** — **92 Metacritic**, **HLTB ~10h / 14h / 20h**. **Japón ~35,34 € (¥6.500)**, **EE. UU. ~59,99 $** ; **cero** **ofertas** / año — **descuentos** raros.
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## ¿Cuánto cuesta Super Mario Bros. Wonder en Switch actualmente?
 
 **Japón lidera.**

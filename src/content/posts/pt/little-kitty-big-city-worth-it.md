@@ -155,6 +155,8 @@ cardPriceNativeCurrency: EUR
 
 Em preço, **não** está no mínimo histórico: o índice mostra **~14,99 € na Espanha** e o **mínimo rastreado ~11,35 € (Japão, 18/08/2025)**. Compra por encaixe; espera se a regra for “só piso”.
 
+**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+
 ## Quanto custa Little Kitty, Big City no Switch?
 
 **O índice começa perto de ~14,99 € na Espanha e sobe noutras regiões neste snapshot.**

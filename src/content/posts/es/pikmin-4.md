@@ -122,6 +122,8 @@ cardPriceNativeCurrency: JPY
 
 En abril de 2026 la pregunta es **precio, no calidad**: el índice sigue con **Japón ~35,34 € equivalentes (¥6,500)**; el historial muestra un **mínimo japonés ~28,27 € el 25 de diciembre de 2025**, **dos** toques de descuento en el año y **promedio en época de ofertas ~35,89 €**. Si te encaja el tono, **compra cuando tu fila regional sea razonable**; si solo persigues **mínimos históricos**, **alerta de precio**.
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## ¿Cuánto cuesta Pikmin 4 en Switch? Precio y descuentos
 
 **El snapshot digital indexado de abril de 2026 sigue con Japón ~35,34 € equivalentes (¥6,500) arriba.**

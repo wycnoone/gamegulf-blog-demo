@@ -182,6 +182,8 @@ cardPriceNativeCurrency: HKD
 
 Côté chiffres : **Hong Kong mène toujours (~19,49 € équivalent, 176 HK$)** ; l’**historique** note **~9,75 € à Hong Kong le 9 juin 2025**, **trois** épisodes de **promo** sur l’année suivie, **prix moyen en promo ~16,58 €**, dernière trace forte **17 décembre 2025** encore vers **~9,75 €** (**~51 %** de décote narrative), soit **111 jours** avant ce cliché. Si le concept vous chauffe, **achetez déjà en promo** ; si vous ne visez que le **plancher**, **alertes**.
 
+**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+
 ## Quel est le prix de Tetris® Effect: Connected sur Switch ?
 
 **Hong Kong reste en tête du numérique indexé (~19,49 € équivalent, 176 HK$) avec plusieurs lignes européennes à 19,99 € sur le même instantané.**

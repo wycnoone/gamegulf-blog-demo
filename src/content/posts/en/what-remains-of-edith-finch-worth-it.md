@@ -198,6 +198,8 @@ cardPriceNativeCurrency: EUR
 
 The honest math: **tracked history** still shows a **deeper €2.86 point (Brazil, 14 April 2025)** — roughly **€2.13** under today’s **Spain** row — so you are buying a **strong sale**, not the **historic floor**. With **nine discounts** logged in the past year and the **last drop** only **four days** before this snapshot, waiting for “maybe cheaper” is usually about chasing **Brazil-style outliers**, not guaranteed repeats.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does What Remains of Edith Finch cost on Switch right now?
 
 **Indexed April 2026 begins with Spain near €4.99 during a deep promo, then Brazil and Japan, before the United States and full-price Euro bands step up.**
@@ -205,14 +207,14 @@ The honest math: **tracked history** still shows a **deeper €2.86 point (Brazi
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Spain | USD 5.75 | €4.99 |
-| Brazil | USD 13.38 | R$69.00 |
-| Japan | USD 13.78 | ¥2,200 |
-| United States | USD 20.00 | $19.99 |
-| Germany | USD 23.04 | €19.99 |
-| France | USD 23.04 | €19.99 |
-| Italy | USD 23.04 | €19.99 |
-| United Kingdom | USD 23.80 | £17.99 |
+| Spain | USD 5.84 | €4.99 |
+| Brazil | USD 13.60 | R$69.00 |
+| Japan | USD 14.01 | ¥2,200 |
+| United States | USD 20.32 | $19.99 |
+| Germany | USD 23.41 | €19.99 |
+| France | USD 23.41 | €19.99 |
+| Italy | USD 23.41 | €19.99 |
+| United Kingdom | USD 24.18 | £17.99 |
 
 Pull the **discount** story into focus: the feed’s **all-time low** reference sits near **€2.86 (Brazil, April 2025)**, while **today’s €4.99 Spain tier** still beats the **average discount** level in the same tracker window — that is the definition of a **good sale**, not a panic buy. If you are price-sensitive, open the [GameGulf live multi-region price track](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) and compare **your** account’s row before you assume the **Spain** anchor applies.
 

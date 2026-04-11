@@ -195,6 +195,8 @@ cardPriceNativeCurrency: EUR
 
 April **pricing** backs a confident buy for sale regions: **indexed EU storefronts show €20.99** during a **65% promo**, while **tracked history** references the **same €20.99 all-time low** (**France**, **18 December 2025**) with **eleven discount events** in the past year and **average sale-era prints near €29.64**. The **last tracked drop** hit **6 days** before this April snapshot — if your account sees the **EU band**, treat it as a **historical low**, not a “wait forever” setup.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Unicorn Overlord cost on Switch right now?
 
 **Indexed April 2026 opens with Germany-, Spain-, France-, and Italy-tier eShop rows near €20.99 during the same promo window, then Hong Kong, Japan, Brazil, and United States tiers step up in the same feed.**
@@ -202,14 +204,14 @@ April **pricing** backs a confident buy for sale regions: **indexed EU storefron
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Germany | USD 24.19 | €20.99 |
-| Spain | USD 24.19 | €20.99 |
-| France | USD 24.19 | €20.99 |
-| Italy | USD 24.19 | €20.99 |
-| Hong Kong | USD 28.59 | HK$224 |
-| Japan | USD 55.01 | ¥8,778 |
-| Brazil | USD 58.13 | R$299.90 |
-| United States | USD 60.01 | $59.99 |
+| Germany | USD 24.58 | €20.99 |
+| Spain | USD 24.58 | €20.99 |
+| France | USD 24.58 | €20.99 |
+| Italy | USD 24.58 | €20.99 |
+| Hong Kong | USD 29.05 | HK$224 |
+| Japan | USD 55.90 | ¥8,778 |
+| Brazil | USD 59.07 | R$299.90 |
+| United States | USD 60.98 | $59.99 |
 
 Tracked history adds the missing context: the feed’s **all-time low** sits at **€20.99** (**France**, **December 2025**) — effectively the **historical low** band you are seeing in **sale**-eligible EU regions today. With **eleven discounts** logged in the past year, **average sale prices near €29.64**, and **only six days** since the **last discount** move, this is a **buy-now** window for tactics fans — just open the [GameGulf live multi-region price track](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) to confirm **your** storefront, because **Japan** and **United States** rows can still track **far above** the **EU sale** anchor.
 

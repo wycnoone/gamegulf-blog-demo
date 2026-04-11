@@ -186,6 +186,8 @@ cardPriceNativeCurrency: JPY
 
 Côté index : **le Japon mène toujours (~19,14 € équivalent, ¥3 520)**. L’**historique** montre un **print américain près de 6,50 € le 22 décembre 2025** comme **plus bas historique** utile dans ce flux, **cinq** événements **promo** sur l’année, **prix moyen en promo ~11,66 €**, dernière baisse **29 jours** avant ce cliché (**9 mars 2026**, encore ~**6,50 €** aux États-Unis, **~75 %** de décote contextuelle). Sans urgence de jeu, **attendre bat le list** pour la plupart des paniers.
 
+**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+
 ## Quel est le prix d’Ori and the Will of the Wisps sur Switch ?
 
 **Le Japon reste en tête du numérique indexé (~19,14 € équivalent, ¥3 520), Hong Kong et les États-Unis au-dessus sur la même capture.**

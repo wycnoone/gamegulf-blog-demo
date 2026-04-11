@@ -5,8 +5,8 @@
  *
  * Usage:
  *   node scripts/validate-article.mjs <path-to-md-file>
+ *   node scripts/validate-article.mjs --all
  *   node scripts/validate-article.mjs src/content/posts/en/hades-worth-it.md
- *   node scripts/validate-article.mjs src/content/posts/en/*.md   (shell expansion)
  *
  * Output: JSON array of { file, status, errors[], warnings[] }
  * Exit codes:
@@ -19,8 +19,26 @@
  * - playerVoices → article detail structured block only; not used for that card line.
  */
 
-import { readFileSync, existsSync } from 'node:fs';
+import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
+import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
+
+const __dirname = dirname(fileURLToPath(import.meta.url));
+
+function collectAllPostMdFiles() {
+  const root = join(__dirname, '../src/content/posts');
+  const out = [];
+  if (!existsSync(root)) return out;
+  for (const loc of readdirSync(root)) {
+    const locDir = join(root, loc);
+    if (!statSync(locDir).isDirectory()) continue;
+    for (const name of readdirSync(locDir)) {
+      if (name.endsWith('.md')) out.push(join(locDir, name));
+    }
+  }
+  return out;
+}
 import {
   buildCardPricePayload,
   buildMarkdownPriceTable,
@@ -271,6 +289,13 @@ function hasDiscountHistoryAnalysis(body) {
   return hasTerms && hasConcreteData;
 }
 
+/** Detail page body (markdown after frontmatter): brand + gamegulf.com links count together. */
+function countGameGulfInBody(body) {
+  if (!body || typeof body !== 'string') return 0;
+  const matches = body.match(/gamegulf/gi);
+  return matches ? matches.length : 0;
+}
+
 async function validate(filePath, rates) {
   const errors = [];
   const warnings = [];
@@ -444,6 +469,13 @@ async function validate(filePath, rates) {
         errors.push('Discount history analysis paragraph missing concrete historical data');
       }
     }
+
+    const gg = countGameGulfInBody(bodyClean);
+    if (gg < 3) {
+      errors.push(
+        `Article body must mention GameGulf at least 3 times (case-insensitive "gamegulf" count in markdown body: ${gg}; run node scripts/inject-gamegulf-body-paragraph.mjs on this file if appropriate)`,
+      );
+    }
   }
 
   const status = errors.length > 0 ? 'FAIL' : 'PASS';
@@ -451,11 +483,14 @@ async function validate(filePath, rates) {
 }
 
 // --- main ---
-const files = process.argv.slice(2);
+let files = process.argv.slice(2);
+if (files.length === 1 && files[0] === '--all') {
+  files = collectAllPostMdFiles();
+}
 if (files.length === 0) {
   console.error(JSON.stringify({
     status: 'ERROR',
-    message: 'Usage: node scripts/validate-article.mjs <file1.md> [file2.md ...]',
+    message: 'Usage: node scripts/validate-article.mjs <file1.md> [file2.md ...] | --all',
   }));
   process.exit(2);
 }

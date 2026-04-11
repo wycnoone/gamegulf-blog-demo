@@ -160,6 +160,8 @@ cardPriceNativeCurrency: HKD
 
 En precio, el dataset lo sitúa **cerca del mínimo histórico**: la mejor fila indexada ronda **~36,44 € (Hong Kong)** y no hay patrón claro de rebajas profundas recurrentes.
 
+**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+
 ## ¿Cuánto cuesta ahora en Switch?
 
 **El índice arranca ~36,44 € y sube fuerte según región en este snapshot.**

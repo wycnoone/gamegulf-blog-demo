@@ -138,6 +138,8 @@ cardPriceNativeCurrency: USD
 
 **Rabatt**- und **historischer Tiefstpreis**-Kontext: Referenz **~14,33 €** (**GB**, **5. Juni 2025**), **durchschnittliche Sale-Drucke ~21,35 €** im verfolgten Jahr, **sieben** markante **Rabatt**-Fenster; letzter starker Move **vor 63 Tagen** (**Hongkong**, **3. Februar 2026**, **~60 %**). [Live-Tabelle](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 
+**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+
 ## Wie viel kostet 13 Sentinels auf der Switch — Preis und Rabatt
 
 

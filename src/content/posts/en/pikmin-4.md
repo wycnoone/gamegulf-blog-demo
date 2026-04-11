@@ -172,6 +172,8 @@ cardPriceNativeCurrency: JPY
 
 The April 2026 buying question is **price math, not quality**: indexed rows still put **Japan near €35.34 equivalent (¥6,500)**, while tracked history shows a **deeper Japan dip near €28.27 on 25 December 2025** with **two discount-touch events** in the past year and an **average discount-era print near €35.89**. If you love the vibe, **buy when your regional row looks sane**; if you only chase **historic lows**, **default to price alerts** on the live tracker.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Pikmin 4 cost on Switch right now?
 
 **Indexed April 2026 digital rows still stack with Japan near €35.34 equivalent (¥6,500) at the top of our table snapshot.**
@@ -179,10 +181,10 @@ The April 2026 buying question is **price math, not quality**: indexed rows stil
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 40.73 | ¥6,500 |
-| Hong Kong | USD 42.00 | HK$329 |
-| United States | USD 60.01 | $59.99 |
-| Brazil | USD 67.65 | R$349 |
+| Japan | USD 41.39 | ¥6,500 |
+| Hong Kong | USD 42.67 | HK$329 |
+| United States | USD 60.98 | $59.99 |
+| Brazil | USD 68.74 | R$349 |
 
 Tracked **sale** history tells a sharper story than list **price** alone: the feed still remembers a **Japan discount**-era point near **€28.27 on 25 December 2025**, while **average discount-level prints** in the same window hug about **€35.89**. That means **today’s Japan-led pricing is fair Nintendo retail**, not a permanent **fire sale**. Cross-check the [live multi-region grid](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) before you assume any number matches **your** account.
 

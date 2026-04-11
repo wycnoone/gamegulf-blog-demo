@@ -189,6 +189,8 @@ cardPriceNativeCurrency: HKD
 
 April **2026** math is blunt: indexed digital still opens near **€36.44 equivalent (Hong Kong)** before stepping through **Japan (~€41.32, ¥7,600)** and higher **US / UK / Brazil** tiers, with several **€59.99**-class euro storefronts in the same snapshot — a **rarely discounted** Nintendo cadence, not a rotating bargain bin.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does Metroid Dread cost on Switch right now?
 
 **Hong Kong still leads the indexed digital stack near €36.44 equivalent, with Japan and the United States stepping higher in the same April 2026 snapshot.**
@@ -196,14 +198,14 @@ April **2026** math is blunt: indexed digital still opens near **€36.44 equiva
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 42.00 | HK$329 |
-| Japan | USD 47.62 | ¥7,600 |
-| United States | USD 60.01 | $59.99 |
-| United Kingdom | USD 66.12 | £49.99 |
-| Brazil | USD 67.65 | R$349 |
-| Germany | USD 69.14 | €59.99 |
-| Spain | USD 69.14 | €59.99 |
-| France | USD 69.14 | €59.99 |
+| Hong Kong | USD 42.67 | HK$329 |
+| Japan | USD 48.39 | ¥7,600 |
+| United States | USD 60.98 | $59.99 |
+| United Kingdom | USD 67.19 | £49.99 |
+| Brazil | USD 68.74 | R$349 |
+| Germany | USD 70.25 | €59.99 |
+| Spain | USD 70.25 | €59.99 |
+| France | USD 70.25 | €59.99 |
 
 Tracked **discount** history in this feed shows **zero** captured **sale** events in the past year and **no** reliable average **discount** price — that means you should price-shop **regions**, not fantasize about a weekly mega-drop. GameGulf aggregates mirror the same spread, so cross-check the [live multi-region grid](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) before you assume your account sees the Hong Kong row.
 

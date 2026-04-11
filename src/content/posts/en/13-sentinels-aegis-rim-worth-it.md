@@ -182,6 +182,8 @@ cardPriceNativeCurrency: USD
 
 April 2026 **pricing** is the green light for promo regions: **United States indexed near €13.01 equivalent** sits **below** the feed’s reference **global low (~€14.33, GB, 5 June 2025)** while **average sale-era prints hover near €21.35** across **seven discount events** in the past year. If you are genre-aligned, **buy** — but **peek the live grid** because **€59.99 MSRP** rows still exist for **Germany, Spain, France** in the same snapshot.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much does 13 Sentinels: Aegis Rim cost on Switch right now?
 
 **Indexed April 2026 opens with United States near €13.01 equivalent before United Kingdom and Hong Kong sale rows, then Japan and Brazil MSRP-style tiers, followed by full €59.99 Eurozone pricing.**
@@ -189,14 +191,14 @@ April 2026 **pricing** is the green light for promo regions: **United States ind
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| United States | USD 14.99 | $59.99 |
-| United Kingdom | USD 19.82 | £49.99 |
-| Hong Kong | USD 22.34 | HK$438 |
-| Japan | USD 48.12 | ¥7,678 |
-| Brazil | USD 57.19 | R$295 |
-| Germany | USD 69.14 | €59.99 |
-| Spain | USD 69.14 | €59.99 |
-| France | USD 69.14 | €59.99 |
+| United States | USD 15.24 | $59.99 |
+| United Kingdom | USD 20.14 | £49.99 |
+| Hong Kong | USD 22.70 | HK$438 |
+| Japan | USD 48.89 | ¥7,678 |
+| Brazil | USD 58.11 | R$295 |
+| Germany | USD 70.25 | €59.99 |
+| Spain | USD 70.25 | €59.99 |
+| France | USD 70.25 | €59.99 |
 
 The **discount** narrative matters: the last tracked move was **63 days** ago (**Hong Kong SAR China**, **3 February 2026**, **~60% drop**), while **historical low** references still anchor around **€14.33** (**GB**, **5 June 2025**). **Sale** frequency is healthy — **seven** meaningful **discount** windows in the past year — so **waiting** from a **€59.99** row can work, but **promo** shoppers should move before timers expire. Verify **your** account on the [live multi-region grid](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 

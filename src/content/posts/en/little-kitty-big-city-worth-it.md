@@ -169,6 +169,8 @@ cardPriceNativeCurrency: EUR
 
 From a pricing perspective, it is not at historical low. Indexed rows currently show **Spain around €14.99**, while tracked history records a deeper **historical low around €11.35 (Japan, 2025-08-18)**. Buy if the fit is strong; wait if your rule is historical-low-only.
 
+**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+
 ## How much is the Switch price right now?
 
 **Current indexed pricing starts near €14.99 in Spain and rises across other regions in this snapshot.**
@@ -176,14 +178,14 @@ From a pricing perspective, it is not at historical low. Indexed rows currently 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Spain | USD 17.28 | €14.99 |
-| Brazil | USD 17.92 | R$92.45 |
-| Japan | USD 21.81 | ¥3,480 |
-| Hong Kong | USD 22.98 | HK$180 |
-| United States | USD 25.00 | $24.99 |
-| Germany | USD 28.80 | €24.99 |
-| France | USD 28.80 | €24.99 |
-| Italy | USD 28.80 | €24.99 |
+| Spain | USD 17.55 | €14.99 |
+| Brazil | USD 18.21 | R$92.45 |
+| Japan | USD 22.16 | ¥3,480 |
+| Hong Kong | USD 23.35 | HK$180 |
+| United States | USD 25.40 | $24.99 |
+| Germany | USD 29.27 | €24.99 |
+| France | USD 29.27 | €24.99 |
+| Italy | USD 29.27 | €24.99 |
 
 The tracked discount history shows two discount events in one year, average discount-level pricing near €17.75, and a historical low at €11.35. That pattern supports a practical decision: fair to buy now for fit, reasonable to wait for deal-first buyers.
 

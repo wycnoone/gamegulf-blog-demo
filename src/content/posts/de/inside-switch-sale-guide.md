@@ -159,6 +159,8 @@ cardPriceNativeCurrency: BRL
 
 April-2026-Spannung: **Brasilien ~12,28 € äquivalent** führt, doch die Historie zeigt **Japan-Tief ~1,25 € am 17. April 2025**, **sieben** Rabatt-Ereignisse, **Sale-Schnitt ~3,77 €**. Ohne Not **warten**. [Live-Tabelle](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) prüfen.
 
+**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+
 ## Wie viel kostet INSIDE auf der Switch — Preis und Rabatt jetzt
 
 **Der Index April 2026 startet mit Brasilien ~12,28 € äquivalent (R$72,99).**
