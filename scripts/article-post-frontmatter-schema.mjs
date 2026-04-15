@@ -1,0 +1,104 @@
+/**
+ * Post frontmatter schema for Node tooling (pricing sync, etc.).
+ * Keep field shapes and enums in sync with `src/content.config.ts`.
+ */
+import { z } from 'astro/zod';
+
+const structuredPriceRow = z.object({
+  regionCode: z.string(),
+  eurPrice: z.number(),
+  nativePrice: z.string(),
+  nativeCurrency: z.string(),
+});
+
+/** Same contract as Astro `posts` collection schema (strict validation before YAML dump). */
+export const postsFrontmatterSchema = z.object({
+  title: z.string(),
+  description: z.string(),
+  publishedAt: z.string(),
+  updatedAt: z.string().optional(),
+  category: z.enum(['worth-it', 'buy-now-or-wait']),
+  gameTitle: z.string(),
+  platform: z.string(),
+  author: z.string(),
+  readingTime: z.string(),
+  decision: z.string(),
+  priceSignal: z.string(),
+  wishlistHref: z.string(),
+  priceTrackHref: z.string(),
+  gameHref: z.string(),
+  membershipHref: z.string(),
+  heroStat: z.string(),
+  heroNote: z.string(),
+  coverImage: z.string().optional(),
+  badge: z.string().optional(),
+  heroTheme: z.string().optional(),
+  ctaLabelOverride: z.string().optional(),
+  verdict: z.enum(['buy_now', 'wait_for_sale', 'right_player', 'not_best_fit']).optional(),
+  takeaway: z.string().optional(),
+  bestFor: z.string().optional(),
+  timingNote: z.string().optional(),
+  playerNeeds: z.array(z.enum([
+    'buy_now', 'wait_for_sale', 'long_games', 'party_games',
+    'cozy', 'beginner_friendly', 'casual', 'local_multiplayer', 'value_for_money',
+  ])).optional(),
+  featuredPriority: z.number().optional(),
+  actionBucket: z.enum(['buy_now', 'wait', 'set_alert']).optional(),
+  quickFilters: z.array(z.enum([
+    'co_op', 'long_rpg', 'family_friendly', 'nintendo_first_party',
+    'short_sessions', 'under_20', 'great_on_sale', 'rarely_discounted',
+  ])).optional(),
+  listingTakeaway: z.string().optional(),
+  reviewSignal: z.string().optional(),
+  whatItIs: z.string().optional(),
+  avoidIf: z.string().optional(),
+  consensusPraise: z.string().optional(),
+  mainFriction: z.string().optional(),
+  timeFit: z.string().optional(),
+  priceCall: z.enum(['buy', 'wait', 'watch']).optional(),
+  fitLabel: z.string().optional(),
+  playStyle: z.string().optional(),
+  timeCommitment: z.string().optional(),
+  playMode: z.string().optional(),
+  communityVibe: z.string().optional(),
+  performance: z.string().optional(),
+  playtime: z.string().optional(),
+  whyNow: z.string().optional(),
+  currentDeal: z.string().optional(),
+  nearHistoricalLow: z.string().optional(),
+  salePattern: z.string().optional(),
+  confidence: z.enum(['high', 'medium', 'low']).optional(),
+  priceRecommendation: z.enum(['buy', 'wait', 'watch']).optional(),
+  playerVoices: z.array(z.object({
+    quote: z.string(),
+    sentiment: z.enum(['positive', 'negative', 'mixed']),
+  })).optional(),
+  communityMemes: z.array(z.string()).optional(),
+  tldr: z.string().optional(),
+  cardPrice: z.string().optional(),
+  cardPriceRegion: z.string().optional(),
+  cardPriceEur: z.number().optional(),
+  cardPriceNative: z.string().optional(),
+  cardPriceNativeCurrency: z.string().optional(),
+  cardPriceRegionCode: z.string().optional(),
+  priceRows: z.array(structuredPriceRow).optional(),
+  tags: z.array(z.string()),
+  faq: z.array(z.object({
+    question: z.string(),
+    answer: z.string(),
+  })),
+});
+
+/**
+ * @param {string} filePath
+ * @param {unknown} frontmatter
+ */
+export function formatFrontmatterSchemaErrors(filePath, frontmatter) {
+  const result = postsFrontmatterSchema.safeParse(frontmatter);
+  if (result.success) return null;
+  const lines = result.error.errors.map((e) => {
+    const path = e.path.length ? e.path.join('.') : '(root)';
+    return `  - ${path}: ${e.message}`;
+  });
+  return `Frontmatter failed schema check for ${filePath} (fix YAML before sync; refusing to write):\n${lines.join('\n')}`;
+}

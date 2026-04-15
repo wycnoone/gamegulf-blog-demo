@@ -185,7 +185,6 @@ Sur le timing prix, c'est encore plus clair: la ligne actuelle touche le **plus 
 
 **Monster Hunter Rise descend actuellement a 4.33 EUR au Japon.**
 
-
 | Région | Prix (équivalent EUR) | Prix natif |
 | --- | ---: | ---: |
 | Japon | EUR 4.33 | ¥3,990 |

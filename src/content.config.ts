@@ -2,6 +2,8 @@ import { defineCollection } from 'astro:content';
 import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
+// Field shapes/enums are mirrored in `scripts/article-post-frontmatter-schema.mjs` for pricing sync write guards.
+
 const structuredPriceRow = z.object({
   regionCode: z.string(),
   eurPrice: z.number(),

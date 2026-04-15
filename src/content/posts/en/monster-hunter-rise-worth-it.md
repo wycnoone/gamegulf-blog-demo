@@ -189,7 +189,6 @@ Monster Hunter Rise is not just "good for the price"; it is still one of the mor
 
 **Monster Hunter Rise currently bottoms out at €4.33 in Japan, and that price equals its historical low in tracked data.**
 
-
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Japan | USD 5.07 | ¥3,990 |

@@ -179,7 +179,7 @@ priceRows:
 cardPriceEur: 15.22
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 17.54
+cardPrice: USD 17.82
 cardPriceNative: ¥2,800
 cardPriceNativeCurrency: JPY
 ---
@@ -195,7 +195,6 @@ The 2026 question is less about quality and more about **indexed math**: today�
 ## How much does Hades cost on Switch right now?
 
 **Japan still leads the indexed digital stack near €15.22 equivalent (¥2,800), with Brazil and the United States stepping up from there in the same April 2026 snapshot.**
-
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |

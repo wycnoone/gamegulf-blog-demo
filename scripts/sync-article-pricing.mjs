@@ -9,7 +9,6 @@ import {
   buildPriceRowsFromBrief,
   extractSlugFromFilePath,
   formatConvertedPriceFromEur,
-  getDisplayCurrency,
   getEurExchangeRates,
   getLocalizedRegionLabel,
   getPriceSectionHeadingPattern,
@@ -17,6 +16,7 @@ import {
   normalizePriceRows,
   stripUtf8Bom,
 } from './article-pricing-utils.mjs';
+import { formatFrontmatterSchemaErrors } from './article-post-frontmatter-schema.mjs';
 
 function splitFrontmatter(content) {
   const text = stripUtf8Bom(content);
@@ -122,7 +122,8 @@ function loadBrief(filePath, slug) {
     try {
       return JSON.parse(readFileSync(briefPath, 'utf8'));
     } catch {
-      return null;
+      // Corrupt brief for this candidate: try the next slug variant instead of aborting the whole lookup.
+      continue;
     }
   }
   return null;
@@ -137,6 +138,12 @@ async function syncFile(filePath, rates) {
 
   const content = readFileSync(absolutePath, 'utf8');
   const { frontmatter, body } = splitFrontmatter(content);
+
+  const preSyncSchemaError = formatFrontmatterSchemaErrors(absolutePath, frontmatter);
+  if (preSyncSchemaError) {
+    throw new Error(`${preSyncSchemaError}\n(Refusing to run pricing sync on invalid frontmatter.)`);
+  }
+
   const slug = extractSlugFromFilePath(absolutePath);
   const brief = loadBrief(absolutePath, slug);
 
@@ -152,17 +159,26 @@ async function syncFile(filePath, rates) {
   frontmatter.priceRows = priceRows;
 
   const cardPayload = buildCardPricePayload(priceRows, locale);
-  if (cardPayload) {
-    frontmatter.cardPriceEur = cardPayload.cardPriceEur;
-    frontmatter.cardPriceRegionCode = cardPayload.cardPriceRegionCode;
-    frontmatter.cardPriceRegion = cardPayload.cardPriceRegion;
-    frontmatter.cardPrice = await formatConvertedPriceFromEur(cardPayload.cardPriceEur, locale, rates);
-    frontmatter.cardPriceNative = priceRows[0].nativePrice;
-    frontmatter.cardPriceNativeCurrency = priceRows[0].nativeCurrency;
+  if (!cardPayload) {
+    throw new Error(
+      `Could not derive card price from priceRows for ${filePath} (check cheapest row has numeric eurPrice and regionCode).`,
+    );
   }
+  frontmatter.cardPriceEur = cardPayload.cardPriceEur;
+  frontmatter.cardPriceRegionCode = cardPayload.cardPriceRegionCode;
+  frontmatter.cardPriceRegion = cardPayload.cardPriceRegion;
+  frontmatter.cardPrice = await formatConvertedPriceFromEur(cardPayload.cardPriceEur, locale, rates);
+  frontmatter.cardPriceNative = priceRows[0].nativePrice;
+  frontmatter.cardPriceNativeCurrency = priceRows[0].nativeCurrency;
 
   const markdownTable = await buildMarkdownPriceTable(priceRows, locale, rates);
   const nextBody = injectTableIntoPriceSection(body, locale, markdownTable);
+
+  const postSyncSchemaError = formatFrontmatterSchemaErrors(absolutePath, frontmatter);
+  if (postSyncSchemaError) {
+    throw new Error(postSyncSchemaError);
+  }
+
   const nextContent = `---\n${stringifyFrontmatter(frontmatter)}\n---\n${nextBody}`;
   writeFileSync(absolutePath, nextContent, 'utf8');
 
