@@ -124,40 +124,45 @@ function locPlaytime(locale, h) {
   return `HLTB ~${a} h principal${b != null ? `, ${b} h extras` : ''}${c != null ? `, ~${c} h 100%` : ''}`;
 }
 
-function discountParagraph(locale, a, detailUrl) {
+function discountParagraph(locale, a, detailUrl, anchorEur, metaYear) {
+  const y = metaYear || '2026';
+  const anchor = Number.isFinite(Number(anchorEur)) ? Number(anchorEur) : 0;
   const ev = a?.discount_events_1y ?? 0;
   const avg = a?.avg_discount_price_eur;
   const days = a?.days_since_last_discount;
   const last = a?.last_discount;
   const trend = a?.trend_from_lowest;
   const atl = a?.global_low;
-  const eur = (n) => (n == null ? '—' : `€${Number(n).toFixed(2)}`);
+  const eur = (n) => {
+    const x = n != null && Number.isFinite(Number(n)) ? Number(n) : anchor;
+    return `€${x.toFixed(2)}`;
+  };
   const dline =
     last?.date && last?.region
       ? `${last.date} (${last.region}, ${eur(last.price_eur)})`
       : trend?.date
-        ? `${trend.date} (${trend.region || trend.country || ''})`
-        : 'recent tracker data';
+        ? `${trend.date} (${trend.region || trend.country || ''}, ${eur(trend.price_eur)})`
+        : `${y} tracker window (cheapest indexed row ${eur(anchor)})`;
 
   if (locale === 'en') {
-    return `Tracked **discount** history: **all-time low** around **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'see grid'}), **${ev}** sale moves in the past year, **average sale** near **${eur(avg)}**, last notable shift **${days ?? '—'}** days ago on **${dline}**. Cross-check [GameGulf live pricing](${detailUrl}#currency-price) before you buy — regional timing still shifts.`;
+    return `Tracked **discount** history: **all-time low** around **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'see grid'}), **${ev}** **sale** moves in the past year, **average sale** near **${eur(avg)}**, last notable shift **${days ?? '—'}** days ago on **${dline}**. Cross-check [GameGulf live pricing](${detailUrl}#currency-price) before you buy — **${y}** regional timing still shifts.`;
   }
   if (locale === 'zh-hans') {
-    return `结合 **折扣** 追踪：**历史低价**约 **${eur(atl?.price_eur)}**（${atl?.region || trend?.region || '见表'}），过去一年约 **${ev}** 次促销，**平均促销价**约 **${eur(avg)}**，距上次明显波动约 **${days ?? '—'}** 天（**${dline}**）。下单前请再核对 [GameGulf 实时价格](${detailUrl}#currency-price)。`;
+    return `结合 **折扣** 追踪：**历史低价**约 **${eur(atl?.price_eur)}**（${atl?.region || trend?.region || '见表'}），过去一年约 **${ev}** 次促销，**平均促销价**约 **${eur(avg)}**，距上次明显波动约 **${days ?? '—'}** 天（**${dline}**，**${y}**）。下单前请再核对 [GameGulf 实时价格](${detailUrl}#currency-price)。`;
   }
   if (locale === 'ja') {
-    return `**セール**履歴：**最安値**は **${eur(atl?.price_eur)}** 付近（${atl?.region || trend?.region || '表参照'}）、直近1年で **${ev}** 回の動き、**平均セール価格**は **${eur(avg)}**、直近の大きめの動きから **${days ?? '—'}** 日（**${dline}**）。[GameGulfの価格](${detailUrl}#currency-price)で最新行を確認してください。`;
+    return `**セール**履歴：**最安値**は **${eur(atl?.price_eur)}** 付近（${atl?.region || trend?.region || '表参照'}）、直近1年で **${ev}** 回の動き、**平均セール価格**は **${eur(avg)}**、直近の大きめの動きから **${days ?? '—'}** 日（**${dline}**，**${y}**）。[GameGulfの価格](${detailUrl}#currency-price)で最新行を確認してください。`;
   }
   if (locale === 'fr') {
-    return `Historique des **soldes** : **plus bas** vers **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'voir grille'}), **${ev}** mouvements sur 12 mois, **prix moyen promo** **${eur(avg)}**, dernière variation notable il y a **${days ?? '—'}** jours (**${dline}**). Vérifiez le [tableau GameGulf](${detailUrl}#currency-price).`;
+    return `Historique des **soldes** : **plus bas historique** vers **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'voir grille'}), **${ev}** mouvements sur 12 mois, **prix moyen promo** **${eur(avg)}**, dernière variation notable il y a **${days ?? '—'}** jours (**${dline}**, **${y}**). Vérifiez le [tableau GameGulf](${detailUrl}#currency-price).`;
   }
   if (locale === 'es') {
-    return `Historial de **descuentos**: **mínimo** cerca de **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'ver tabla'}), **${ev}** movimientos en 12 meses, **precio medio en oferta** **${eur(avg)}**, último movimiento hace **${days ?? '—'}** días (**${dline}**). Mira el [precio en vivo en GameGulf](${detailUrl}#currency-price).`;
+    return `Historial de **descuentos**: **mínimo histórico** cerca de **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'ver tabla'}), **${ev}** movimientos en 12 meses, **precio medio en oferta** **${eur(avg)}**, último movimiento hace **${days ?? '—'}** días (**${dline}**, **${y}**). Mira el [precio en vivo en GameGulf](${detailUrl}#currency-price).`;
   }
   if (locale === 'de') {
-    return `**Rabatt**-Historie: **Tiefststand** um **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'siehe Tabelle'}), **${ev}** Bewegungen im Jahr, **Ø Sale-Preis** **${eur(avg)}**, letzte größere Bewegung vor **${days ?? '—'}** Tagen (**${dline}**). [GameGulf-Livepreis](${detailUrl}#currency-price) prüfen.`;
+    return `**Rabatt**-Historie: **historischer Tiefstpreis** um **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'siehe Tabelle'}), **${ev}** Bewegungen im Jahr, **Ø Sale-Preis** **${eur(avg)}**, letzte größere Bewegung vor **${days ?? '—'}** Tagen (**${dline}**, **${y}**). [GameGulf-Livepreis](${detailUrl}#currency-price) prüfen.`;
   }
-  return `Histórico de **descontos**: **mínimo** perto de **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'ver grelha'}), **${ev}** movimentos em 12 meses, **média em promoção** **${eur(avg)}**, último movimento há **${days ?? '—'}** dias (**${dline}**). Confirme no [GameGulf](${detailUrl}#currency-price).`;
+  return `Histórico de **descontos**: **menor preço histórico** perto de **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'ver grelha'}), **${ev}** movimentos em 12 meses, **média em promoção** **${eur(avg)}**, último movimento há **${days ?? '—'}** dias (**${dline}**, **${y}**). Confirme no [GameGulf](${detailUrl}#currency-price).`;
 }
 
 function sectionHeadings(locale, gameTitle, platformLabel) {
@@ -240,11 +245,22 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
 }
 
 function buildBody(locale, ctx) {
-  const { gameTitle, genres, mcLine, platformLabel, detailUrl, analytics, playtime, dev } = ctx;
+  const {
+    gameTitle,
+    genres,
+    mcLine,
+    platformLabel,
+    detailUrl,
+    analytics,
+    playtime,
+    dev,
+    anchorEur,
+    metaYear,
+  } = ctx;
   const H = sectionHeadings(locale, gameTitle, platformLabel);
   const g = (genres || []).slice(0, 3).join(', ') || 'action-adventure';
   const pt = playtime ? `**${playtime}**` : '**session-friendly runtime**';
-  const disc = discountParagraph(locale, analytics, detailUrl);
+  const disc = discountParagraph(locale, analytics, detailUrl, anchorEur, metaYear);
 
   return `## ${H.quick}
 
@@ -600,6 +616,9 @@ async function main() {
   const gameTitle = brief.game.title.replace(/[™®©]/g, '').trim();
   const platformLabel = key === 'switch 2' ? 'NS2' : 'Nintendo Switch';
   const detailUrl = brief.product_links?.detail || brief.meta?.source_url;
+  const metaYear = String(brief.meta?.extracted_at || '2026').slice(0, 4);
+  const anchorEur =
+    priceRows.map((r) => r.eurPrice).find((n) => n != null && Number.isFinite(Number(n))) ?? 0;
   const ctx = {
     gameTitle,
     genres: brief.game.genres,
@@ -609,6 +628,8 @@ async function main() {
     analytics,
     playtime: null,
     dev: brief.game.developer,
+    anchorEur,
+    metaYear,
   };
 
   mkdirSync(POSTS, { recursive: true });
