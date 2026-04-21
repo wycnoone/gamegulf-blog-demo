@@ -2614,6 +2614,67 @@ img {
   line-height: 1.6;
 }
 
+.platform-escape-note {
+  margin: 12px 2px 0;
+  color: var(--muted-strong);
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.platform-versions-note {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 16px;
+  padding: 18px 20px;
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  background: linear-gradient(180deg, #ffffff 0%, #f8faff 100%);
+}
+
+.platform-versions-note-content {
+  display: grid;
+  gap: 6px;
+}
+
+.platform-versions-note-line {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px 10px;
+  min-width: 0;
+}
+
+.platform-versions-note-title {
+  color: var(--muted-strong);
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.5;
+}
+
+.platform-versions-chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.platform-versions-chip {
+  display: inline-flex;
+  align-items: center;
+  min-height: 28px;
+  padding: 0 11px;
+  border-radius: 999px;
+  border: 1px solid #d7def5;
+  background: #eef3ff;
+  color: var(--brand);
+  font-size: 0.82rem;
+  font-weight: 600;
+}
+
+.platform-versions-note-action {
+  white-space: nowrap;
+}
+
 /* ── Game Overview — 10-second scan layer ── */
 .game-overview {
   display: flex;
@@ -2808,6 +2869,11 @@ img {
   .takeaway-callout {
     padding: 16px 18px;
     border-radius: 12px;
+  }
+
+  .platform-versions-note {
+    grid-template-columns: 1fr;
+    align-items: stretch;
   }
 }
 

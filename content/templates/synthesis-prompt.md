@@ -54,11 +54,38 @@ STEP 1 — MAP THE BRIEF TO ARTICLE FIELDS
 
 From the JSON brief, directly extract:
 
+Primary platform selection rule:
+- Build candidate platforms from brief.platforms where:
+  - platform.enabled !== false
+  - digital exists and has at least 1 row
+  - matching price_analytics entry exists
+- Rank candidates by `price_verdict` in this exact order:
+  1. at_historical_low
+  2. near_historical_low
+  3. sale_likely_soon
+  4. regular_discounter
+  5. occasional_discounter
+  6. rarely_discounted
+- Tie-break in this exact order:
+  1. richer regional coverage (`digital.length`)
+  2. richer price history (`trend_entries_count`)
+  3. brief/platform order
+- selectedPlatformKey = chosen brief key
+- selectedPlatform = platforms[selectedPlatformKey]
+- selectedAnalytics = price_analytics[selectedPlatformKey]
+- primaryPlatformKey = normalized selectedPlatformKey:
+  lowercase + replace spaces with hyphens
+- primaryPlatformLabel normalization:
+  - if selectedPlatformKey == "switch 1", use "Nintendo Switch"
+  - if selectedPlatformKey == "switch 2", use "NS2"
+  - otherwise use selectedPlatform.name localized for the target language
+- hasOtherPlatforms = true if more than one candidate platform exists
+
 Identity fields:
 - gameTitle = game.title (strip ™/® for natural text)
 - coverImage = game.cover_image
 - genres = game.genres
-- platform = "Nintendo Switch" if platforms.switch.enabled
+- platform = "Nintendo Switch" if selectedPlatform.enabled
 - publisher = game.publisher
 - metacritic = game.metacritic
 - release_date = game.release_date
@@ -69,14 +96,14 @@ Product links:
 - wishlistHref = product_links.wishlist
 - membershipHref = product_links.membership
 
-Pricing summary (compose from platforms.switch.digital):
+Pricing summary (compose from selectedPlatform.digital):
 - Global low = first entry (sorted by calculate_value)
 - Sample 3-5 regions for article price comparison
 - Note any active discounts (discount_rate > 0)
 - Use lows[].type "Global Low" and "Local Low" entries
 - Native currency prices from schema_offers[]
 
-Price analytics (from price_analytics.switch — USE THIS for all
+Price analytics (from selectedAnalytics — USE THIS for all
 price action judgments):
 - current_cheapest: today's cheapest region + price
 - global_low: all-time historical low (price, region, date)
@@ -229,7 +256,11 @@ FRONTMATTER:
 - tldr: starts with game name, includes verdict, ≤160 chars
 - FAQ: 3-6 items, every answer starts with game name,
   self-contained, includes concrete data, one mentions GameGulf
-- verdict/priceCall/confidence: derive from price_analytics.switch:
+- primaryPlatformKey: include in frontmatter (normalized selected platform key)
+- primaryPlatformLabel: include in frontmatter (localized platform label)
+- hasOtherPlatforms: include in frontmatter when the brief exposes more than
+  one viable candidate platform
+- verdict/priceCall/confidence: derive from selectedAnalytics:
     Use price_verdict + discount_events_1y + at_or_near_historical_low
     to set these fields. Do NOT guess — the analytics are computed
     from real historical data.
@@ -239,6 +270,17 @@ FRONTMATTER:
 - currentDeal: state current cheapest price + whether it's near ATL
 - nearHistoricalLow: use at_or_near_historical_low boolean
 - salePattern: describe sale_periods frequency and depth from data
+- BODY FOCUS RULE:
+  - Write the article around the selected primary platform only.
+  - Do NOT explain every tracked platform inside the article.
+  - If other platforms exist, mention them only briefly as:
+    "check GameGulf for other platform rows" or equivalent.
+  - Never expose internal terms to readers:
+    `row`, `platform row`, `primary platform`, `selected platform`,
+    `at_historical_low`, `price_verdict`, or similar.
+  - Translate analytics into reader language:
+    "back at the tracked low", "close to the cheapest range GameGulf has seen",
+    "if NS2 pricing matters more, check the detail page".
 
 CARD PRICE FIELDS (required for all articles):
 - cardPrice: the GLOBAL LOW price for listing-page cards
@@ -309,7 +351,7 @@ For worth-it articles:
      (e.g. zh-hans → CNY, en → USD, fr/de/es/pt → EUR, ja → JPY)
 
    AFTER the price intro, add a DISCOUNT HISTORY ANALYSIS paragraph
-   using price_analytics.switch data:
+   using selectedAnalytics data:
    - State the all-time low (trend_from_lowest) with date + region
    - State discount frequency: "{discount_events_1y} discounts in
      the past year" or "no discounts in the tracked period"
@@ -468,4 +510,3 @@ node scripts/extract-game-brief.mjs \
 # 4. Run: npm run build (validates schema)
 # 5. If build passes: git add → commit
 ```
-

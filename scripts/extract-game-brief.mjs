@@ -430,6 +430,67 @@ function generatePriceVerdict(currentPrice, allTimeLow, dips, daysSinceLast) {
 
 // ─── Data Structuring ────────────────────────────────────────────
 
+function firstNonEmptyString(...values) {
+  return values.find((value) => typeof value === 'string' && value.trim()) || '';
+}
+
+function getPlatformDescriptor(platformEntry) {
+  const rawPlatform = platformEntry?.platform;
+  const legacyInfo = rawPlatform && typeof rawPlatform === 'object' && !Array.isArray(rawPlatform)
+    ? rawPlatform
+    : {};
+  const platformMeta = platformEntry?.platformMeta && typeof platformEntry.platformMeta === 'object'
+    ? platformEntry.platformMeta
+    : {};
+
+  const keySource = firstNonEmptyString(
+    platformMeta.title,
+    legacyInfo.title,
+    typeof rawPlatform === 'string' ? rawPlatform : '',
+    platformMeta.value,
+    legacyInfo.value,
+  );
+  const key = keySource.trim().toLowerCase();
+  const name = firstNonEmptyString(
+    platformMeta.value,
+    legacyInfo.value,
+    typeof rawPlatform === 'string' ? rawPlatform : '',
+    platformMeta.title,
+    legacyInfo.title,
+  );
+  const enabled = (platformMeta.enabled ?? legacyInfo.enabled) !== false;
+
+  return { key, name: name || keySource, enabled };
+}
+
+function parseLowEntry(entry) {
+  const rawValue = entry?.value;
+  const valueObj = rawValue && typeof rawValue === 'object' && !Array.isArray(rawValue)
+    ? rawValue
+    : {};
+  const value = valueObj.value ?? (typeof rawValue === 'number' ? rawValue : null);
+  if (!Number.isFinite(value)) return null;
+
+  return {
+    platform: entry?.platform || '',
+    country_code: valueObj.country_code || entry?.country_code || '',
+    value,
+    currency: valueObj.currency || entry?.currency || 'EUR',
+    price_type: valueObj.type || entry?.type || '',
+  };
+}
+
+function filterSchemaOffers(offers) {
+  if (!Array.isArray(offers)) return [];
+
+  return offers.filter((offer) => (
+    offer &&
+    !Array.isArray(offer) &&
+    typeof offer === 'object' &&
+    firstNonEmptyString(offer['@type'], offer.url)
+  ));
+}
+
 function buildBrief(nuxt, ogTags, url) {
   const gameId = url.match(/\/detail\/([^/?#]+)/)?.[1] || 'unknown';
 
@@ -459,13 +520,13 @@ function buildBrief(nuxt, ogTags, url) {
   const platformsOut = {};
 
   for (const p of platformsArr) {
-    const info = p.platform || {};
-    const pKey = (info.title || '').toLowerCase();
+    const descriptor = getPlatformDescriptor(p);
+    const pKey = descriptor.key;
     if (!pKey) continue;
 
     const entry = {
-      name: info.value || info.title || pKey,
-      enabled: info.enabled !== false,
+      name: descriptor.name || pKey,
+      enabled: descriptor.enabled,
       languages: Array.isArray(p.languages) ? p.languages : [],
       digital: [],
       physical: Array.isArray(p.physical) ? p.physical : [],
@@ -521,17 +582,12 @@ function buildBrief(nuxt, ogTags, url) {
     return {
       type: l.type || '',
       entries: entries
+        .map(parseLowEntry)
         .filter((e) => {
-          const cc = e.country_code || e.value?.country_code || '';
+          if (!e) return false;
+          const cc = e.country_code || '';
           return !EXCLUDED_REGIONS.has(cc);
-        })
-        .map((e) => ({
-          platform: e.platform || '',
-          country_code: e.value?.country_code || e.country_code || '',
-          value: e.value?.value ?? e.value ?? null,
-          currency: e.value?.currency || e.currency || 'EUR',
-          price_type: e.value?.type || e.type || '',
-        })),
+        }),
     };
   });
 
@@ -555,6 +611,7 @@ function buildBrief(nuxt, ogTags, url) {
 
   // ── Schema.org from page (enrichment) ──
   const schema = d.schema_script || {};
+  const schemaOffers = filterSchemaOffers(schema.offers);
 
   // ── Price Analytics (computed from trend + lows + digital) ──
   const priceAnalytics = computePriceAnalytics(platformsOut, lows);
@@ -580,7 +637,7 @@ function buildBrief(nuxt, ogTags, url) {
     platforms: platformsOut,
     lows,
     similar_games: similarGames,
-    schema_offers: schema.offers || [],
+    schema_offers: schemaOffers,
     price_analytics: priceAnalytics,
     product_links: {
       detail: url,

@@ -368,8 +368,33 @@ export function getPriceSectionHeadingPattern(locale) {
   return new RegExp(`^##\\s+.*(?:${keywords.join('|')}).*$`, 'iu');
 }
 
+export function getPreferredSwitchPlatformKey(brief) {
+  const platforms = brief?.platforms;
+  if (!platforms || typeof platforms !== 'object') return null;
+
+  const preferredKeys = ['switch 1', 'switch', 'switch 2'];
+  for (const key of preferredKeys) {
+    const platform = platforms[key];
+    if (platform?.enabled !== false && Array.isArray(platform?.digital) && platform.digital.length > 0) {
+      return key;
+    }
+  }
+
+  return Object.entries(platforms).find(([key, platform]) => (
+    key.startsWith('switch') &&
+    platform?.enabled !== false &&
+    Array.isArray(platform?.digital) &&
+    platform.digital.length > 0
+  ))?.[0] || null;
+}
+
+export function getPreferredSwitchPlatform(brief) {
+  const key = getPreferredSwitchPlatformKey(brief);
+  return key ? brief.platforms[key] : null;
+}
+
 export function buildPriceRowsFromBrief(brief, locale) {
-  const digital = brief?.platforms?.switch?.digital;
+  const digital = getPreferredSwitchPlatform(brief)?.digital;
   const offers = Array.isArray(brief?.schema_offers) ? brief.schema_offers : [];
   if (!Array.isArray(digital)) return [];
 

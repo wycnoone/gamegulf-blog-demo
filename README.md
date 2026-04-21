@@ -1,245 +1,290 @@
 # GameGulf Blog
 
-Static blog for **GameGulf** — decision-oriented game buying guides — served under `https://www.gamegulf.com/blog`. Built with **Astro 5** and **React** islands.
+GameGulf Blog 是挂在 `https://www.gamegulf.com/blog` 下的静态博客，用来做**决策型购买指南**，不是内容农场。
 
-Helps players decide: **buy now, wait for sale, or skip?**
+核心目标只有一个：帮助玩家更快判断
 
-For editorial and product rules (tone, card copy, CTAs), see `[AGENTS.md](./AGENTS.md)`.
+- 现在买不买
+- 要不要等打折
+- 这游戏适不适合自己
+- 看完之后下一步该去哪里
 
-## Tech stack
+详细的产品、文案、UX 规则见 [AGENTS.md](./AGENTS.md)。
 
+## 技术栈
 
-| Piece                | Role                                                 |
-| -------------------- | ---------------------------------------------------- |
-| **Astro 5**          | Static site generation, content collections, layouts |
-| **React 19**         | Islands: home hub, filters, topic grids              |
-| **TypeScript**       | Types across `lib/` and components                   |
-| **Node.js scripts**  | Data extraction, validation, queue management        |
-| **@astrojs/sitemap** | Sitemap from built routes                            |
+| 组件 | 作用 |
+| --- | --- |
+| Astro 5 | 静态站点生成、路由、内容集合 |
+| React 19 | 少量可复用 TSX 组件 |
+| TypeScript | 类型与内容模型 |
+| Node.js 脚本 | 提取数据、校验文章、同步价格表 |
+| @astrojs/sitemap | 生成 sitemap |
 
+## 环境要求
 
-## Requirements
+- Node.js 20+
+- `js-yaml` 已作为运行时依赖使用
 
-- **Node.js** 20+ (CI uses Node 24)
-- **js-yaml** (runtime dependency for YAML validation)
-
-## Local development
+## 本地开发
 
 ```bash
 npm install
 npm run dev
 ```
 
-Open the URL Astro prints (default `http://localhost:4321`). With `base: '/blog'`, paths are under `/blog/`.
+默认地址一般是：
+
+```text
+http://localhost:4321/blog
+```
+
+常用命令：
 
 ```bash
-npm run build    # output: dist/
-npm run preview  # serve dist/ locally
+npm run build
+npm run preview
 ```
 
-## Project structure
+## 项目结构
 
-```
+```text
 src/
-├── content.config.ts             # posts collection: glob loader + Zod schema
+├── content.config.ts             # posts collection schema
 ├── content/
-│   └── posts/{locale}/*.md       # one file per locale per slug
-├── components/                   # Astro + React (.tsx islands)
-├── layouts/BaseLayout.astro      # HTML shell, meta, JSON-LD hooks
+│   └── posts/{locale}/*.md       # 各语言文章
+├── components/                   # Astro / TSX 组件
+├── layouts/BaseLayout.astro      # 页面壳、SEO、JSON-LD
 ├── lib/
-│   ├── blog.ts                   # load posts, card models, SEO helpers
-│   ├── decision-card-display.ts  # card pricing logic
-│   ├── i18n.ts                   # locales, blogBasePath
-│   └── topics.ts                 # guide topic definitions
+│   ├── blog.ts                   # 内容读取、卡片模型、SEO 辅助
+│   ├── decision-card-display.ts  # 列表卡片展示逻辑
+│   ├── i18n.ts                   # 语言与路径
+│   └── topics.ts                 # Guide 主题配置
 ├── pages/
-│   ├── index.astro               # /blog/ language picker
+│   ├── index.astro               # /blog 语言入口
 │   ├── 404.astro
 │   ├── robots.txt.ts
 │   └── [locale]/
-│       ├── index.astro           # locale home (decision hub)
-│       ├── [slug].astro          # article detail (GEO-optimized)
-│       └── guides/[topic].astro  # topic aggregation (SEO-optimized)
+│       ├── index.astro           # 语言首页（服务端渲染的决策列表）
+│       ├── [slug].astro          # 文章详情页
+│       └── guides/[topic].astro  # 主题聚合页
 └── styles/globals.css
 
-scripts/                          # automation pipeline
-├── extract-game-brief.mjs        # Phase 1: data extraction
-├── batch-extract.mjs             # batch extraction wrapper
-├── check-existing.mjs            # dedup check before generation
-├── validate-article.mjs          # article quality validation
-└── queue-next.mjs                # generation queue management
+scripts/
+├── extract-game-brief.mjs        # 从 GameGulf / Steam / HLTB 提取 brief
+├── batch-extract.mjs             # 批量提取
+├── check-existing.mjs            # 查重
+├── validate-article.mjs          # 校验文章
+├── sync-article-pricing.mjs      # 同步价格表、cardPrice 等
+└── queue-next.mjs                # 队列管理
 
 content/
-├── briefs/*.json                 # extracted game data (script output)
-├── game-queue.json               # generation queue for automation
-├── hltb-mapping.json             # GameGulf slug → HLTB ID mapping
+├── briefs/*.json                 # 提取结果
+├── game-queue.json               # 待处理队列
+├── hltb-mapping.json             # 游戏 -> HLTB 映射
 └── templates/
-    ├── synthesis-prompt.md        # AI article synthesis prompt
-    ├── game-guide-template.md     # frontmatter field reference
-    └── article-generation-prompt.md
+    ├── synthesis-prompt.md
+    ├── article-generation-prompt.md
+    └── game-guide-template.md
 ```
 
-## Article generation pipeline
+## 当前内容模型
 
-Two-phase architecture: **scripts collect data, AI writes articles**.
+当前文章模型是 **主平台优先**：
 
-```
+- 每篇文章只围绕**一个主平台**给购买结论
+- 正文不做平台矩阵，不展开所有平台并列比较
+- 如果还有其他版本，详情页会给一个轻量提示，用户回 **GameGulf 主站详情页** 看实时价格
+
+相关文章 frontmatter 已支持这些可选字段：
+
+- `primaryPlatformKey`
+- `primaryPlatformLabel`
+- `hasOtherPlatforms`
+- `otherPlatformLabels`
+
+这些字段是**向后兼容**的；旧文章没有也能正常渲染。
+
+## 首页与详情页规则
+
+### 语言首页
+
+`/blog/{locale}` 现在是**服务端静态渲染**：
+
+- 不依赖客户端 hydration 才能看到文章列表
+- 首页的 featured + latest 卡片会直接输出到 HTML
+- 这样即使前端脚本异常，列表页也仍然可用
+
+### 文章详情页
+
+文章页的结构是：
+
+- 主平台 verdict
+- 快速回答 / quick answer
+- 游戏概览
+- 正文
+- FAQ
+
+如果存在其他版本：
+
+- 页面显示一个轻量提示块
+- 提示块只负责把用户带回 GameGulf 主站详情页
+- 不在博客正文里把其他平台展开成第二套 verdict
+
+## 文章生成流程
+
+整个流程分两段：**脚本收集数据，AI 写文章**
+
+```text
 GameGulf URL
     │
     ▼
-┌─────────────────────────────┐
-│  Phase 0: Dedup Check       │  node scripts/check-existing.mjs <url>
-│  Is this game already done? │  Exit 0 = new, Exit 1 = exists
-└─────────────┬───────────────┘
-              │ NEW
-              ▼
-┌─────────────────────────────┐
-│  Phase 1: Data Extraction   │  node scripts/extract-game-brief.mjs <url>
-│  GameGulf prices + trends   │  → content/briefs/{slug}.json
-│  Steam reviews + tags       │
-│  HLTB playtime stats        │
-│  Price analytics computed   │
-└─────────────┬───────────────┘
-              │
-              ▼
-┌─────────────────────────────┐
-│  Phase 2: AI Synthesis      │  Read brief + synthesis-prompt.md
-│  Generate 7-language .md    │  → src/content/posts/{locale}/{slug}.md
-│  articles from structured   │
-│  data (no price fabrication)│
-└─────────────┬───────────────┘
-              │
-              ▼
-┌─────────────────────────────┐
-│  Phase 3: Validation        │  node scripts/validate-article.mjs <files>
-│  YAML, schema, char limits  │  Exit 0 = pass, Exit 1 = fail
-└─────────────┬───────────────┘
-              │ PASS
-              ▼
-┌─────────────────────────────┐
-│  Phase 4: Build & Deploy    │  npm run build
-│  Astro SSG → dist/          │  git push → GitHub Actions → Pages
-└─────────────────────────────┘
+Phase 0  查重
+    node scripts/check-existing.mjs <url>
+
+Phase 1  提取 brief
+    node scripts/extract-game-brief.mjs <url>
+    -> content/briefs/{slug}.json
+
+Phase 2  AI 写稿
+    使用 brief + prompts
+    -> src/content/posts/{locale}/{slug}.md
+
+Phase 3  校验
+    node scripts/validate-article.mjs <files>
+
+Phase 4  构建
+    npm run build
 ```
 
-### Quick start: generate a new game article
+### 快速开始
 
 ```bash
-# 1. Check if it already exists
+# 1. 查是否已存在
 node scripts/check-existing.mjs https://www.gamegulf.com/detail/<gameId>
 
-# 2. Extract game data
+# 2. 提取 brief
 node scripts/extract-game-brief.mjs https://www.gamegulf.com/detail/<gameId>
 
-# 3. [AI] Generate articles using content/briefs/{slug}.json + synthesis prompt
+# 3. 用 prompts + brief 生成文章
 
-# 4. Validate
+# 4. 校验
 node scripts/validate-article.mjs src/content/posts/en/{slug}.md
 
-# 5. Build
+# 5. 构建
 npm run build
 ```
 
-### Queue-based automation (for OpenClaw / CI)
+### npm 快捷命令
 
 ```bash
-# Add games to the queue
-node scripts/queue-next.mjs --add <url> [high|normal|low] [notes]
-
-# Process queue loop
-node scripts/queue-next.mjs              # get next pending game
-node scripts/queue-next.mjs --mark-started <url>
-# ... run pipeline phases 0-4 ...
-node scripts/queue-next.mjs --mark-done <url>
-
-# Check queue status
-node scripts/queue-next.mjs --status
+npm run brief -- <url>
+npm run brief:batch -- <url1> <url2>
+npm run build
+npm run preview
 ```
 
-### npm script shortcuts
+## 数据来源
+
+| 来源 | 数据 | 方式 |
+| --- | --- | --- |
+| GameGulf | 区服价格、趋势、折扣历史、游戏元数据 | Nuxt payload 解析 |
+| Steam | 评论、标签、开发商、简介 | Steam Store API |
+| HLTB | 主线 / 扩展 / 完成时长 | 页面抓取 |
+
+说明：
+
+- 价格分析由脚本从趋势数据计算得出
+- `AR`（阿根廷）价格默认排除，不参与文章价格输出
+- 提取脚本已兼容多平台 detail 页面
+
+## 多平台策略
+
+对多平台 detail 页，当前流程是：
+
+1. 提取所有可用平台数据
+2. 生成时只选一个**主平台**
+3. 文章正文只围绕这个主平台写
+4. 如果还有其他版本：
+   - 在详情页给轻量提示
+   - 引导去 GameGulf 主站详情页比较
+
+这套策略主要服务 SEO / GEO：
+
+- 一篇文章只回答一个清晰问题
+- 避免平台差异把正文写散
+- 其他版本信息不丢，但不抢主结论
+
+## 国际化
+
+当前支持 7 个语言：
+
+- `en`
+- `zh-hans`
+- `ja`
+- `fr`
+- `es`
+- `de`
+- `pt`
+
+URL 结构：
+
+```text
+/blog/{locale}/{slug}
+```
+
+同一篇文章在不同语言下共用 slug，用 `hreflang` 互链。
+
+## SEO / GEO
+
+| 页面类型 | 目标 | 做法 |
+| --- | --- | --- |
+| 语言首页 `/blog/{locale}` | 浏览入口 + crawlable hub | 服务端渲染 featured / latest 卡片 |
+| Guide 聚合页 `/guides/{topic}` | 传统 SEO | 静态聚合、内部链接、CollectionPage |
+| 文章页 `/{slug}` | GEO / AI 搜索 | FAQ、Review、Speakable、决策型正文 |
+
+每篇文章当前会输出：
+
+- `BlogPosting`
+- `BreadcrumbList`
+- `FAQPage`
+- `VideoGame`
+- `Review`
+
+同时带：
+
+- canonical
+- Open Graph
+- Twitter Card
+- locale alternates
+
+## AI 相关文件
+
+`content/templates/` 里有两套主要 prompt：
+
+- `synthesis-prompt.md`
+- `article-generation-prompt.md`
+
+目前 prompt 已经约束：
+
+- 主平台选择
+- 其他版本回主站
+- 不把内部分析术语直接泄露到成品正文
+
+## 部署
+
+- 站点地址：`https://www.gamegulf.com/blog`
+- `base`：`/blog`
+- GitHub Actions：
+  - `npm ci`
+  - `npm run build`
+  - 部署 `dist/`
+
+## 备注
+
+如果看到本地构建对 `.astro` 内容缓存有异常，先清缓存再构建：
 
 ```bash
-npm run brief -- <url>                  # extract single game
-npm run brief:batch -- <url1> <url2>    # extract multiple games
-npm run build                           # Astro build
-npm run preview                         # local preview server
+rm -rf .astro
+npx astro build
 ```
-
-## Scripts reference
-
-
-| Script                   | Purpose                                                             | Input            | Output                       |
-| ------------------------ | ------------------------------------------------------------------- | ---------------- | ---------------------------- |
-| `extract-game-brief.mjs` | Fetch game data from GameGulf, Steam, HLTB; compute price analytics | GameGulf URL     | `content/briefs/{slug}.json` |
-| `batch-extract.mjs`      | Run extraction for multiple URLs                                    | Multiple URLs    | Multiple briefs              |
-| `check-existing.mjs`     | Check if articles exist for a game                                  | GameGulf URL     | JSON: NEW or EXISTS          |
-| `validate-article.mjs`   | Validate Markdown articles against schema and quality rules         | `.md` file paths | JSON: PASS/FAIL with errors  |
-| `queue-next.mjs`         | Manage the generation queue                                         | Subcommands      | JSON status/game info        |
-
-
-## Data sources
-
-The extraction script pulls from three sources:
-
-
-| Source            | Data collected                                                 | Method                     |
-| ----------------- | -------------------------------------------------------------- | -------------------------- |
-| **GameGulf**      | Regional prices, price trends, discount history, game metadata | Nuxt 3 SSR payload parsing |
-| **Steam**         | Reviews, tags, description, screenshots                        | Steam Store API            |
-| **HowLongToBeat** | Main story / completionist playtime                            | HLTB page scraping         |
-
-
-Price analytics are computed from trend data: all-time low, discount frequency, sale patterns, and a `price_verdict` that drives article recommendations.
-
-**Argentina (AR) is excluded** from all price data — purchases are not available there.
-
-## Internationalization
-
-**7 locales**: `en`, `zh-hans`, `ja`, `fr`, `es`, `de`, `pt`
-
-URL pattern: `/blog/{locale}/{slug}`
-
-Same slug across locales links translations via `hreflang`. Card prices display the global lowest price converted to each locale's primary currency.
-
-
-| Locale         | Primary currency | Card price example |
-| -------------- | ---------------- | ------------------ |
-| en             | USD              | `$79.99 (€42.96)`  |
-| zh-hans, ja    | JPY              | `¥7,900 (€42.96)`  |
-| fr, es, de, pt | EUR              | `€42.96 (¥7,900)`  |
-
-
-## Content & dates
-
-- `**publishedAt`** (required, `YYYY-MM-DD`) — first publish.
-- `**updatedAt**` (optional) — last substantive edit.
-
-Listing cards show the latest of the two. Structured data uses `datePublished` / `dateModified`.
-
-## SEO & GEO strategy
-
-
-| Page type                       | Optimization target | Approach                                                              |
-| ------------------------------- | ------------------- | --------------------------------------------------------------------- |
-| Topic pages (`/guides/{topic}`) | Traditional SEO     | Static Astro components, `CollectionPage` schema, internal linking    |
-| Article pages (`/{slug}`)       | GEO (AI search)     | Rich structured data, `Speakable`, FAQ schema, decision-first content |
-
-
-Per article: `BlogPosting`, `BreadcrumbList`, `FAQPage`, `VideoGame`, `Review` JSON-LD; Open Graph; canonical per locale; visible breadcrumbs.
-
-## AI Skill (for OpenClaw)
-
-The `.cursor/skills/generate-game-article/` directory contains a complete skill definition for AI agents:
-
-- `**SKILL.md**` — step-by-step pipeline instructions with hard constraints
-- `**quality-checklist.md**` — comprehensive validation checklist
-
-This enables external AI agents (like OpenClaw) to generate articles autonomously while maintaining quality through strict rules on pricing accuracy, character limits, and writing style.
-
-## Deployment
-
-- **Site URL**: `https://www.gamegulf.com` with `base: '/blog'`
-- **GitHub Actions** (`.github/workflows/deploy.yml`): push to `main` → `npm ci` → `npm run build` → deploy `dist/` to GitHub Pages
-
-## License
-
-See repository settings on GitHub.

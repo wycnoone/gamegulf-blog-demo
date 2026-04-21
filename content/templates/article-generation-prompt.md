@@ -52,6 +52,18 @@ From the page content:
 - Current pricing: global low, regional prices
 - Cover image URL (from og:image meta tag or page images)
 
+Primary platform rule:
+- Choose exactly one primary platform for the article.
+- Prefer the platform with the clearest buy/wait signal.
+- Tie-break by richer regional coverage, then richer price history, then
+  platform order on the page.
+- Platform label normalization:
+  - `switch 1` -> `Nintendo Switch`
+  - `switch 2` -> `NS2`
+- Keep the article focused on that one primary platform.
+- If other platforms exist, mention them only briefly and direct the user
+  back to the GameGulf detail page to compare them there.
+
 Derive product links from the URL:
 - gameHref = the input URL as-is
 - priceTrackHref = {gameHref}#currency-price
@@ -228,6 +240,11 @@ Decision layer:
 - priceCall: buy | wait | watch
 - confidence: high | medium | low
 - badge: "Worth It" or "Buy / Wait" (localize)
+- `platform` stays broad (e.g. "Nintendo Switch")
+- Add optional fields when relevant:
+  - `primaryPlatformKey`
+  - `primaryPlatformLabel`
+  - `hasOtherPlatforms`
 
 Filtering:
 - quickFilters (1-3): these become CARD TAG BADGES
@@ -278,6 +295,18 @@ The article body is the primary GEO content. Write so
 AI systems can match sections to user questions, extract
 the first 1-2 sentences as standalone answers, and cite
 with attribution.
+
+Primary-platform focus rule:
+- Keep the body centered on the chosen primary platform.
+- Do NOT turn the article into a platform matrix.
+- If other platform rows exist, use one short line such as:
+  "Check GameGulf for other platform prices."
+- Never expose internal processing terms to readers:
+  `row`, `platform row`, `primary platform`, `selected platform`,
+  `at_historical_low`, `price_verdict`.
+- Always translate data logic into shopping language:
+  "back at the tracked low", "in the cheapest range GameGulf has tracked",
+  "if you care more about NS2 pricing, check the detail page".
 
 GEO WRITING RULES:
 - Every section OPENS with a definitive, quotable statement
@@ -569,4 +598,3 @@ Process each game sequentially. For each:
 2. Run build to validate
 3. Commit if successful
 ```
-

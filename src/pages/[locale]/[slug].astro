@@ -48,6 +48,18 @@ const ogImage = getOgImage(post);
 
 const localePaths: Partial<Record<BlogLocale, string>> = { [typedLocale]: path, ...alternatePostPaths };
 const alternates = getLocaleAlternates(localePaths);
+const displayPlatformLabel = post.primaryPlatformLabel || post.platform;
+const otherPlatformLabels = post.otherPlatformLabels || [];
+const showOtherVersionsBlock = post.hasOtherPlatforms && otherPlatformLabels.length > 0;
+const comparePricingLabel = post.hasOtherPlatforms
+  ? t(typedLocale, 'article.viewAllPlatformPricing')
+  : t(typedLocale, 'article.comparePricing');
+const comparePricingCardTitle = post.hasOtherPlatforms
+  ? t(typedLocale, 'article.viewAllPlatformPricing')
+  : t(typedLocale, 'article.compareLivePricing');
+const comparePricingCardDesc = post.hasOtherPlatforms
+  ? t(typedLocale, 'article.viewAllPlatformPricingDesc', { gameTitle: post.gameTitle })
+  : t(typedLocale, 'article.compareLivePricingDesc', { gameTitle: post.gameTitle });
 
 const verdictText = post.verdict
   ? getVerdictLabel(post.verdict, typedLocale)
@@ -89,7 +101,7 @@ const articleSchema = {
   about: {
     '@type': 'VideoGame',
     name: post.gameTitle,
-    gamePlatform: post.platform,
+    gamePlatform: displayPlatformLabel,
     url: post.gameHref,
   },
   inLanguage: langTags[typedLocale],
@@ -108,7 +120,7 @@ const reviewSchema = post.verdict ? {
   itemReviewed: {
     '@type': 'VideoGame',
     name: post.gameTitle,
-    gamePlatform: post.platform,
+    gamePlatform: displayPlatformLabel,
     url: post.gameHref,
   },
   reviewRating: {
@@ -233,6 +245,10 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
                   <span class="decision-snapshot-label">{t(typedLocale, 'article.verdictLabel')}</span>
                   <strong class="decision-snapshot-value verdict-value">{verdictText}</strong>
                 </div>
+                <div class="decision-snapshot-item">
+                  <span class="decision-snapshot-label">{t(typedLocale, 'article.primaryPlatform')}</span>
+                  <span class="decision-snapshot-value">{displayPlatformLabel}</span>
+                </div>
                 {post.playtime && (
                   <div class="decision-snapshot-item">
                     <span class="decision-snapshot-label">{t(typedLocale, 'article.playtime')}</span>
@@ -269,11 +285,27 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
           </section>
         )}
 
+        {showOtherVersionsBlock && (
+          <section class="platform-versions-note section-block">
+            <div class="platform-versions-note-content">
+              <div class="platform-versions-note-line">
+                <strong class="platform-versions-note-title">{t(typedLocale, 'article.otherVersionsInlineLink')}</strong>
+                <div class="platform-versions-chip-row">
+                  {otherPlatformLabels.map((label) => (
+                    <span class="platform-versions-chip">{label}</span>
+                  ))}
+                </div>
+              </div>
+            </div>
+            <a href={post.gameHref} class="button-link secondary platform-versions-note-action">{comparePricingLabel}</a>
+          </section>
+        )}
+
         <div class="article-mobile-actions">
           <section class="sidebar-card sidebar-card-cta">
             <h3>{t(typedLocale, 'article.nextSteps')}</h3>
             <div class="cta-row">
-              <a href={post.gameHref} class="button-link">{t(typedLocale, 'article.comparePricing')}</a>
+              <a href={post.gameHref} class="button-link">{comparePricingLabel}</a>
               <a href={post.priceTrackHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
               <a href={post.wishlistHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
             </div>
@@ -323,8 +355,8 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
           <h2>{t(typedLocale, 'article.whatToDoNext')}</h2>
           <div class="recommends-grid">
             <a href={post.gameHref} class="recommends-card">
-              <strong>{t(typedLocale, 'article.compareLivePricing')}</strong>
-              <span>{t(typedLocale, 'article.compareLivePricingDesc', { gameTitle: post.gameTitle })}</span>
+              <strong>{comparePricingCardTitle}</strong>
+              <span>{comparePricingCardDesc}</span>
             </a>
             <a href={post.priceTrackHref} class="recommends-card">
               <strong>{t(typedLocale, 'article.setAPriceAlert')}</strong>
@@ -352,7 +384,7 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
         <section class="sidebar-card sidebar-card-cta">
           <h3>{t(typedLocale, 'article.nextSteps')}</h3>
           <div class="cta-row">
-            <a href={post.gameHref} class="button-link">{t(typedLocale, 'article.comparePricing')}</a>
+            <a href={post.gameHref} class="button-link">{comparePricingLabel}</a>
             <a href={post.priceTrackHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
             <a href={post.wishlistHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
             <a href={post.membershipHref} class="button-link secondary">{t(typedLocale, 'article.seeTrialBenefits')}</a>
@@ -362,8 +394,8 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
           <h3>{t(typedLocale, 'article.gameAtAGlance')}</h3>
           <dl class="glance-list">
             <div class="glance-row">
-              <dt>{t(typedLocale, 'article.platform')}</dt>
-              <dd>{post.platform}</dd>
+              <dt>{t(typedLocale, 'article.primaryPlatform')}</dt>
+              <dd>{displayPlatformLabel}</dd>
             </div>
             {post.playStyle && (
               <div class="glance-row">

@@ -45,6 +45,10 @@ export type BlogPost = {
   updatedAt?: string;
   gameTitle: string;
   platform: string;
+  primaryPlatformKey?: string;
+  primaryPlatformLabel?: string;
+  hasOtherPlatforms?: boolean;
+  otherPlatformLabels?: string[];
   author: string;
   readingTime: string;
   decision: string;
@@ -471,6 +475,10 @@ function entryToPost(entry: CollectionEntry<'posts'>): BlogPost {
     updatedAt: d.updatedAt,
     gameTitle: d.gameTitle,
     platform: d.platform,
+    primaryPlatformKey: d.primaryPlatformKey,
+    primaryPlatformLabel: d.primaryPlatformLabel,
+    hasOtherPlatforms: d.hasOtherPlatforms,
+    otherPlatformLabels: d.otherPlatformLabels,
     author: d.author,
     readingTime: d.readingTime,
     decision: d.decision,
