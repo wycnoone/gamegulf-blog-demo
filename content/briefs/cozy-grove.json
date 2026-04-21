@@ -1,0 +1,846 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5",
+    "game_id": "1ZWE4WIpTp5",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Cozy Grove",
+    "description": "Welcome to Cozy Grove, a life-sim game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts. With a little time and a lot of crafting, you'll bring color and joy back to Cozy Grove!\n\nCozy Grove is synced to real world time, and provides 30-60 minutes of new quest content each day. After that, you can fish, craft and decorate to your heart's content!\n\nFeatures:\n• Beautiful, dynamic, hand-drawn landscapes that come alive when you help a spirit in need.\n• Dozens of memorable characters and spirits for you to find and befriend. Each spirit has a unique, extensive story for you to unravel over time.\n• Collect spirit animals, craft decorations, go fishing and more!\n• 40+ hour campaign filled with side quests, designed to span months of playtime.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513498997210267.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513498997210267.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513499202718362.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513499179117736.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513499183811046.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513499175417680.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513499171917942.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513499386513929.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Lifestyle",
+      "Puzzle",
+      "Simulation",
+      "Role-playing"
+    ],
+    "release_date": "2021-04-08",
+    "developer": "Spry Fox",
+    "publisher": "The Quantum Astrophysicists Guild",
+    "metacritic": 71
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 12.63,
+          "discount_price": 6.1,
+          "discount_rate": 51,
+          "discount_end": "2026-04-23 22:59:59",
+          "discount_end_timestamp": 1776985199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 6.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 13.99,
+          "discount_price": 6.76,
+          "discount_rate": 51,
+          "discount_end": "2026-04-23 21:59:59",
+          "discount_end_timestamp": 1776981599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 6.76
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 13.99,
+          "discount_price": 6.76,
+          "discount_rate": 51,
+          "discount_end": "2026-04-23 21:59:59",
+          "discount_end_timestamp": 1776981599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 6.76
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 13.99,
+          "discount_price": 6.76,
+          "discount_rate": 51,
+          "discount_end": "2026-04-23 21:59:59",
+          "discount_end_timestamp": 1776981599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 6.76
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 13.99,
+          "discount_price": 6.76,
+          "discount_rate": 51,
+          "discount_end": "2026-04-23 21:59:59",
+          "discount_end_timestamp": 1776981599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 6.76
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 13.99,
+          "discount_price": 6.76,
+          "discount_rate": 51,
+          "discount_end": "2026-04-23 22:59:59",
+          "discount_end_timestamp": 1776985199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 6.76
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 7.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 7.99
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 10.81,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 10.81
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 13.41,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.41
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-25",
+              "country_code": "JP",
+              "value": 3.94,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-10-28",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-11-29",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "JP",
+              "value": 3.96,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-13",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-25",
+              "country_code": "FR",
+              "value": 6.78,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-01-26",
+              "country_code": "GB",
+              "value": 6.12,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-01-28",
+              "country_code": "JP",
+              "value": 3.95,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-24",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-22",
+              "country_code": "BR",
+              "value": 13.41,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "JP",
+              "value": 3.94,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-11",
+              "country_code": "JP",
+              "value": 3.98,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-08-06",
+              "country_code": "JP",
+              "value": 3.98,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-10",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-01",
+              "country_code": "JP",
+              "value": 3.96,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-28",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-11-29",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "JP",
+              "value": 3.96,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-13",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-25",
+              "country_code": "FR",
+              "value": 6.78,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-01-26",
+              "country_code": "GB",
+              "value": 6.12,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-01-28",
+              "country_code": "JP",
+              "value": 3.95,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-24",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-22",
+              "country_code": "BR",
+              "value": 13.41,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "JP",
+              "value": 3.94,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 7.99,
+          "discount_price": 5.33,
+          "discount_rate": 33,
+          "discount_end": "2026-05-10 14:59:59",
+          "discount_end_timestamp": 1778425199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 5.33
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": 8.55,
+          "discount_rate": 33,
+          "discount_end": "2026-05-11 06:59:59",
+          "discount_end_timestamp": 1778482799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.55
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 13.41,
+          "discount_price": 8.94,
+          "discount_rate": 33,
+          "discount_end": "2026-05-11 06:59:59",
+          "discount_end_timestamp": 1778482799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.94
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-11",
+              "country_code": "JP",
+              "value": 5.33,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-11",
+              "country_code": "JP",
+              "value": 5.33,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 7.99,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "JP",
+          "value": 5.33,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 8.55,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "dypfbmqzkiI",
+      "title": "Rivenaar's Grove",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506220048318240.jpeg",
+      "metacritic": null,
+      "price": 2.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-01-09",
+      "categories": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/dypfbmqzkiI"
+    },
+    {
+      "id": "1JaMrepYsxU",
+      "title": "Fantasy Grove",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505366259718312.jpeg",
+      "metacritic": null,
+      "price": 2.46,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-26",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Other",
+        "Action",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/1JaMrepYsxU"
+    },
+    {
+      "id": "39goUINy6Ic",
+      "title": "Lush Grove",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/8/177568869695315109.jpeg",
+      "metacritic": null,
+      "price": 2.46,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-05-03",
+      "categories": [
+        "Role-playing",
+        "Action",
+        "Other",
+        "Adventure",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/39goUINy6Ic"
+    },
+    {
+      "id": "4wHYUDQCf1K",
+      "title": "Gold Grove",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504437303915001.jpeg",
+      "metacritic": null,
+      "price": 2.46,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-09-06",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Action",
+        "Racing",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/4wHYUDQCf1K"
+    },
+    {
+      "id": "2CUZu0eWMLA",
+      "title": "Great God Grove",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506519084510381.jpeg",
+      "metacritic": null,
+      "price": 19.99,
+      "discount_price": 11.99,
+      "discount_rate": 40,
+      "discount_tag": "LowPrice",
+      "discount_end": "3 days",
+      "release_date": "2024-11-15",
+      "categories": [
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/2CUZu0eWMLA"
+    },
+    {
+      "id": "iXKrIwGEXZj",
+      "title": "Chinese Parents",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514438098413373.jpeg",
+      "metacritic": null,
+      "price": 6.91,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-20",
+      "categories": [
+        "Adventure",
+        "Lifestyle",
+        "Role-playing",
+        "Simulation",
+        "Puzzle",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/iXKrIwGEXZj"
+    },
+    {
+      "id": "jexJwkMNnuk",
+      "title": "OPUS: Echo of Starsong - Full Bloom Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511519954115250.jpeg",
+      "metacritic": 75,
+      "price": 14.47,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-05-11",
+      "categories": [
+        "Adventure",
+        "Lifestyle",
+        "Role-playing",
+        "Simulation",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/jexJwkMNnuk"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+      "priceCurrency": "EUR",
+      "price": "13.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+      "priceCurrency": "GBP",
+      "price": "10.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1480.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+      "priceCurrency": "HKD",
+      "price": "99.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+      "priceCurrency": "BRL",
+      "price": "79.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+      "priceCurrency": "ARS",
+      "price": "13999.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:42+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 6.1,
+        "region": "United Kingdom",
+        "country_code": "GB"
+      },
+      "global_low": {
+        "price_eur": 7.99,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 3.94,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-03-25"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 7,
+      "avg_discount_price_eur": 5.24,
+      "sale_periods": [
+        {
+          "start": "2025-06-11",
+          "end": "2025-08-06"
+        },
+        {
+          "start": "2025-10-01",
+          "end": "2025-10-01"
+        },
+        {
+          "start": "2025-12-03",
+          "end": "2025-12-03"
+        },
+        {
+          "start": "2026-01-28",
+          "end": "2026-01-28"
+        },
+        {
+          "start": "2026-03-25",
+          "end": "2026-03-25"
+        }
+      ],
+      "days_since_last_discount": 27,
+      "last_discount": {
+        "date": "2026-03-25",
+        "price_eur": 3.94,
+        "region": "Japan",
+        "drop_pct": 71
+      },
+      "trend_entries_count": 14,
+      "price_verdict": "regular_discounter"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 5.33,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 5.33,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 8.55,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.33,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-03-11"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/1ZWE4WIpTp5",
+    "price_track": "https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1458100,
+      "name": "Cozy Grove",
+      "developer": [
+        "Spry Fox"
+      ],
+      "publisher": [
+        " Spry Fox"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Casual",
+        "Indie"
+      ],
+      "steam_price": "$14.99",
+      "total_recommendations": 7372,
+      "short_description": "Welcome to Cozy Grove, a game about camping on a haunted, ever-changing island. As a Spirit Scout, you'll wander the island's forest each day, finding new hidden secrets and helping soothe the local ghosts. With a little time and a lot of crafting, you'll bring color and joy back to Cozy Grove!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Simplified Chinese, Dutch, Korean, Portuguese - Brazil, Russian, Traditional Chinese, Turkish, Arabic",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 7505,
+        "total_negative": 858,
+        "total_reviews": 8363,
+        "score_description": "Very Positive",
+        "positive_percent": 90
+      }
+    },
+    "hltb": null
+  }
+}

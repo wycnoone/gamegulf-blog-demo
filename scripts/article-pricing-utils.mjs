@@ -393,8 +393,11 @@ export function getPreferredSwitchPlatform(brief) {
   return key ? brief.platforms[key] : null;
 }
 
-export function buildPriceRowsFromBrief(brief, locale) {
-  const digital = getPreferredSwitchPlatform(brief)?.digital;
+export function buildPriceRowsFromBrief(brief, locale, opts = {}) {
+  const overrideKey = opts.platformKey;
+  const digital = overrideKey
+    ? brief?.platforms?.[overrideKey]?.digital
+    : getPreferredSwitchPlatform(brief)?.digital;
   const offers = Array.isArray(brief?.schema_offers) ? brief.schema_offers : [];
   if (!Array.isArray(digital)) return [];
 

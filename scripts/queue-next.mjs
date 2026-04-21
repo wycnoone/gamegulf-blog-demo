@@ -14,7 +14,7 @@
  *   { "action": "empty", "message": "No pending games in queue" }
  */
 
-import { readFileSync, writeFileSync } from 'node:fs';
+import { existsSync, readFileSync, renameSync, unlinkSync, writeFileSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -26,7 +26,15 @@ function loadQueue() {
 }
 
 function saveQueue(data) {
-  writeFileSync(QUEUE_FILE, JSON.stringify(data, null, 2) + '\n', 'utf8');
+  const tmp = `${QUEUE_FILE}.${process.pid}.tmp`;
+  const payload = JSON.stringify(data, null, 2) + '\n';
+  writeFileSync(tmp, payload, 'utf8');
+  try {
+    if (existsSync(QUEUE_FILE)) unlinkSync(QUEUE_FILE);
+  } catch {
+    /* ignore */
+  }
+  renameSync(tmp, QUEUE_FILE);
 }
 
 function today() {

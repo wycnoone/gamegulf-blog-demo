@@ -44,10 +44,11 @@ function scanExistingArticles() {
 
     for (const file of files) {
       const content = readFileSync(join(dir, file), 'utf8');
-      const hrefMatch = content.match(/^gameHref:\s*"([^"]+)"/m);
+      const hrefMatch = content.match(/^gameHref:\s*(?:"([^"]+)"|(\S+))/m);
       if (!hrefMatch) continue;
 
-      const gid = extractGameId(hrefMatch[1]);
+      const href = hrefMatch[1] || hrefMatch[2];
+      const gid = extractGameId(href);
       if (!gid) continue;
 
       if (!index.has(gid)) {

@@ -1,0 +1,9 @@
+{
+  "_doc": "Override NS2 Today's Deals URL filter (full-game heuristic). whitelist: always include. blacklist: always skip.",
+  "whitelist": [],
+  "blacklist": [
+    "https://www.gamegulf.com/detail/8yzWw45jH7D",
+    "https://www.gamegulf.com/detail/lROewPLRbnZ",
+    "https://www.gamegulf.com/detail/f9OGZos3ohf"
+  ]
+}

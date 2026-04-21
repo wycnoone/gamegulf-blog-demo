@@ -1,0 +1,703 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/gYJqgnC6bt7",
+    "game_id": "gYJqgnC6bt7",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Isekai Rondo",
+    "description": "Sho, a young man who spends his days in an exploitative company in modern Japan, is reincarnated into a parallel universe as Shaw, due to an accident!\n\nWhile the job given in his new life is 'Unemployed' and hardships continue with a bad luck party, one day he acquires the ultimate job as a Sage, suddenly becoming the strongest with ultra rare passive skills!\n\nAiming for the long-awaited mellow life he finds himself in a battle to defeat the Overlord after meeting the Hero Viola.\n\nWith exceptional passive skills that for example can change the future by returning before Game Over, get rid of enemies in turn-based battles by summoning spirits or managing mana plants, or even use the skills of monsters!\n\nComplete quests and raise the guild rank so you can challenge deeper dungeon or other adventuring parties, too! With other elements such as a battle arena and the dungeon where treasure chests are automatically generated, your adventure against the Overlord's Army will surely be an unparalleled quest to finally gain a calm, modest life!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048123019748.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048123019748.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048272716133.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048275217973.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048329410144.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048266119848.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048313314407.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509048437110007.jpeg"
+    ],
+    "genres": [
+      "Role-playing",
+      "Adventure",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "2023-09-14",
+    "developer": "Exe Create Inc.",
+    "publisher": "KEMCO",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": 6.41,
+          "discount_rate": 50,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 6.41
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 7.13,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 7.13
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 15.51,
+          "discount_price": 7.75,
+          "discount_rate": 50,
+          "discount_end": "2026-04-22 22:59:59",
+          "discount_end_timestamp": 1776898799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 7.75
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 12.78,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.78
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 15.08,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.08
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-25",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 7.49,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "US",
+              "value": 6.41,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-09-03",
+              "country_code": "JP",
+              "value": 7.13,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-24",
+              "country_code": "JP",
+              "value": 4.28,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-25",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 7.49,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "US",
+              "value": 6.41,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 7.67,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 7.67
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 13.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.68
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 13.87,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.87
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 6.41,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 6.41,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 13.68,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "hN9DxcuCBuX",
+      "title": "Mecha Ritz: Steel Rondo",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510658810717799.jpeg",
+      "metacritic": null,
+      "price": 1.23,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-11-03",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hN9DxcuCBuX"
+    },
+    {
+      "id": "fAO1HjaEfbY",
+      "title": "Hentai RPG: Isekai Journey",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510203692118515.jpeg",
+      "metacritic": null,
+      "price": 3.83,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-01-18",
+      "categories": [
+        "Puzzle",
+        "Role-playing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/fAO1HjaEfbY"
+    },
+    {
+      "id": "lNiufDCsn2i",
+      "title": "Isekai Bride Hunting",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511484738714928.jpeg",
+      "metacritic": null,
+      "price": 0.44,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-05-19",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/lNiufDCsn2i"
+    },
+    {
+      "id": "9dmWDXAeexQ",
+      "title": "Pixel Game Maker Series ISEKAI QUARTET Adventure:Action Game",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513196240919772.jpeg",
+      "metacritic": null,
+      "price": 8.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-06-17",
+      "categories": [
+        "Action",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/9dmWDXAeexQ"
+    },
+    {
+      "id": "99cpwijuE2N",
+      "title": "That Time I Got Reincarnated as a Slime ISEKAI Chronicles",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507192444815203.jpeg",
+      "metacritic": null,
+      "price": 19.98,
+      "discount_price": 5.99,
+      "discount_rate": 70,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "8 days",
+      "release_date": "2024-08-08",
+      "categories": [
+        "Action",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/99cpwijuE2N"
+    },
+    {
+      "id": "9sVKHNxsdQS",
+      "title": "Reigns: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507883425211823.jpeg",
+      "metacritic": null,
+      "price": 1.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-17",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Strategy",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/9sVKHNxsdQS"
+    },
+    {
+      "id": "9WhpwKoMUEa",
+      "title": "Asdivine Hearts II",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516367233616398.jpeg",
+      "metacritic": null,
+      "price": 12.99,
+      "discount_price": 6.49,
+      "discount_rate": 50,
+      "discount_tag": "LowPrice",
+      "discount_end": "15 days",
+      "release_date": "2019-01-24",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9WhpwKoMUEa"
+    },
+    {
+      "id": "aTLrSVd4Pru",
+      "title": "SDガンダム ジージェネレーション クロスレイズ プラチナムエディション",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/7/177557345357316042.jpeg",
+      "metacritic": null,
+      "price": 32.66,
+      "discount_price": 13.98,
+      "discount_rate": 57,
+      "discount_tag": "Normal",
+      "discount_end": "4 days",
+      "release_date": "2019-11-28",
+      "categories": [
+        "Simulation",
+        "Role-playing",
+        "Strategy",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/aTLrSVd4Pru"
+    },
+    {
+      "id": "epD4u4OZ3S3",
+      "title": "Kingdom Eighties",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508867722813920.jpeg",
+      "metacritic": null,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-10-16",
+      "categories": [
+        "Strategy",
+        "Simulation",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/epD4u4OZ3S3"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+      "priceCurrency": "USD",
+      "price": "15.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:50:49+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1420.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:50:49+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+      "priceCurrency": "HKD",
+      "price": "127.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:50:49+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+      "priceCurrency": "BRL",
+      "price": "89.95",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:50:49+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+      "priceCurrency": "ARS",
+      "price": "12799.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:50:49+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+      "priceCurrency": "EUR",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:50:49+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+      "priceCurrency": "GBP",
+      "price": "13.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:50:49+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 6.41,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 6.41,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 6.41,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.28,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-09-24"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 3,
+      "avg_discount_price_eur": 6.06,
+      "sale_periods": [
+        {
+          "start": "2025-09-24",
+          "end": "2025-09-24"
+        }
+      ],
+      "days_since_last_discount": 120,
+      "last_discount": {
+        "date": "2025-12-22",
+        "price_eur": 6.41,
+        "region": "United States",
+        "drop_pct": 14
+      },
+      "trend_entries_count": 5,
+      "price_verdict": "occasional_discounter"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 7.67,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": null,
+      "local_low": {
+        "price_eur": 13.68,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/gYJqgnC6bt7",
+    "price_track": "https://www.gamegulf.com/detail/gYJqgnC6bt7#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2476490,
+      "name": "Isekai Rondo",
+      "developer": [
+        "Exe Create Inc."
+      ],
+      "publisher": [
+        "KEMCO"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "steam_price": "$14.99",
+      "total_recommendations": 0,
+      "short_description": "Quest for a parallel universe after being reborn with the ultimate job!",
+      "supported_languages": "English, Japanese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 21,
+        "total_negative": 4,
+        "total_reviews": 25,
+        "score_description": "Positive",
+        "positive_percent": 84
+      }
+    },
+    "hltb": null
+  }
+}

@@ -1,0 +1,27 @@
+# NS2 Today's Deals detail URLs (2026-04-21)
+# source: https://www.gamegulf.com/search?filter=%7B%22SubPlatform%22%3A%5B%22Nintendo%20Switch%202%22%5D%2C%22Sale%22%3A%5B%22Today's%20Deals%22%5D%7D
+
+https://www.gamegulf.com/detail/gYJqgnC6bt7
+https://www.gamegulf.com/detail/hn0KGDe3a02
+https://www.gamegulf.com/detail/fAgxpcnSqqY
+https://www.gamegulf.com/detail/8yzWw45jH7D
+https://www.gamegulf.com/detail/1ZWE4WIpTp5
+https://www.gamegulf.com/detail/lVcxEtGWREp
+https://www.gamegulf.com/detail/fBU2EsXvwu3
+https://www.gamegulf.com/detail/i4zTw5w7xOE
+https://www.gamegulf.com/detail/f9OGZos3ohf
+https://www.gamegulf.com/detail/eHcjTMMlKTc
+https://www.gamegulf.com/detail/gthbGCYccwj
+https://www.gamegulf.com/detail/anSzYUgMVSE
+https://www.gamegulf.com/detail/iVzGnfPidYx
+https://www.gamegulf.com/detail/1YTurw0ZwV5
+https://www.gamegulf.com/detail/lROewPLRbnZ
+https://www.gamegulf.com/detail/9Eh12CtrCPN
+https://www.gamegulf.com/detail/9ZIG09suBe5
+https://www.gamegulf.com/detail/7Flsba5gsJj
+https://www.gamegulf.com/detail/4InB054ixft
+https://www.gamegulf.com/detail/cRdwEnEBMxZ
+https://www.gamegulf.com/detail/78Bs6ITwbHX
+https://www.gamegulf.com/detail/lC0Hucv3og8
+https://www.gamegulf.com/detail/bqnbuz3ln4z
+https://www.gamegulf.com/detail/jOx3ZV1olfz

@@ -1,0 +1,655 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/8yzWw45jH7D",
+    "game_id": "8yzWw45jH7D",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Disney Dreamlight Valley",
+    "description": "Disney Dreamlight Valley is a hybrid between a life-sim and an adventure game rich with quests, exploration, and engaging activities featuring Disney and Pixar friends, both old and new.  \n\nOnce an idyllic land, Dreamlight Valley was a place where Disney and Pixar characters lived in harmony—until the Forgetting. Night Thorns grew across the land and severed the wonderful memories tied to this magical place. With nowhere else to go, the hopeless inhabitants of Dreamlight Valley retreated behind locked doors in the Dream Castle.\n\nNow it's up to you to discover the stories of this world and bring the magic back to Dreamlight Valley! \n\nDiscover the Secrets of Dreamlight Valley\nFree the Dream Castle from the insidious grip of the Forgetting, and unlock the unique Realms of well-loved Disney and Pixar characters, including great queens and kings such as Anna and Simba. Each Realm contains unique challenges with puzzles to solve in the quest to bring friendship back to the Valley.  \n\nYou’ll start your adventure in the Valley, but your journey will take you to infinity… and beyond! Explore what lurks in the Forest of Valor and brave the deepest caverns as you take on challenges from iconic Disney and Pixar heroes and villains. Who knows who—or what—you might discover.  \n\nForge Friendships with Disney & Pixar Characters \nGarden with WALL•E, cook with Remy or kick back and fish with Goofy. What better way to collect, craft, and rebuild the Valley than with a friend! From beautiful princesses to nefarious villains, every Dreamlight Valley resident brings their own story arc, quests, and rewards. Meet up in daily hangouts and make friends with some of your favorite Disney and Pixar characters.\n\nRestore the Valley to Its Former Glory \nFree the Valley from the grip of the Forgetting and return Dreamlight Valley to its former greatness by making it your own. In Dreamlight Valley, you can build the perfect neighborhood that is just for you with a fully customizable layout, creative landscaping, and thousands of decorative items. \n\nWill you settle on the Beach next to Moana, or call Buzz Lightyear your next-door neighbor in the Plaza?  \n\nExpress Your Disney Style \nBring out your inner princess, villain, or Disney bounder! Assemble unique outfits and decorate your home with thousands of fantastic items. Using the Touch of Magic tool, you can even create your own designs with Disney- and Pixar-inspired decals! \nWith the in-game Camera, get ready to snap a sunset selfie with Mirabel, capture a culinary creation with Remy, or simply cherish a moment.\n\nA Game in Constant Evolution \nNew content means that there's always something fresh to explore. Meet new characters in the Valley, check out the latest clothing and furniture collections in Scrooge’s Store, and complete challenging in-game events! Be sure to dream your way back to Dreamlight Valley regularly to discover new adventures!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510984751014708.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510984751014708.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510984941714766.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510984936115650.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510984929717350.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510984933919314.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510984938113707.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510985174410318.jpeg"
+    ],
+    "genres": [
+      "Simulation",
+      "Adventure",
+      "Role-playing",
+      "Other"
+    ],
+    "release_date": "2022-09-06",
+    "developer": "Gameloft",
+    "publisher": "Gameloft",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 24.73,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.73
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 25.11,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.11
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.21
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-16",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "BR",
+              "value": 24.73,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-10",
+              "country_code": "JP",
+              "value": 17.58,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "JP",
+              "value": 25.11,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-18",
+              "country_code": "JP",
+              "value": 17.58,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-16",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "BR",
+              "value": 24.73,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-10",
+              "country_code": "JP",
+              "value": 17.58,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "JP",
+              "value": 25.11,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 24.73,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.73
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.21
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-05",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "BR",
+              "value": 24.73,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-05",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "BR",
+              "value": 24.73,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-05",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "BR",
+              "value": 24.73,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 34.21,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 34.21,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513464210115579.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "12 days",
+      "release_date": "2021-04-15",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    },
+    {
+      "id": "7VEozgoyTst",
+      "title": "Fantasy Blacksmith Shop Simulator",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508439138019409.jpeg",
+      "metacritic": null,
+      "price": 1.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-12-29",
+      "categories": [
+        "Simulation",
+        "Adventure",
+        "Role-playing",
+        "Other",
+        "Lifestyle"
+      ],
+      "url": "https://www.gamegulf.com/detail/7VEozgoyTst"
+    },
+    {
+      "id": "8PrNQh4g17J",
+      "title": "Mystery Lover 2: Forgotten Truth",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505138418019514.jpeg",
+      "metacritic": null,
+      "price": 5.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-05-29",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/8PrNQh4g17J"
+    },
+    {
+      "id": "iXKrIwGEXZj",
+      "title": "Chinese Parents",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514438098413373.jpeg",
+      "metacritic": null,
+      "price": 6.91,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-20",
+      "categories": [
+        "Adventure",
+        "Lifestyle",
+        "Role-playing",
+        "Simulation",
+        "Puzzle",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/iXKrIwGEXZj"
+    },
+    {
+      "id": "ihS6ArXS8Lb",
+      "title": "Meg's Monster",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510077863611040.jpeg",
+      "metacritic": 79,
+      "price": 1.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-02",
+      "categories": [
+        "Role-playing",
+        "Adventure",
+        "Strategy",
+        "Simulation",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/ihS6ArXS8Lb"
+    },
+    {
+      "id": "vPssTmjBsB",
+      "title": "Yonder: The Cloud Catcher Chronicles",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517044276913454.jpeg",
+      "metacritic": 74,
+      "price": 14.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-07-05",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/vPssTmjBsB"
+    },
+    {
+      "id": "amMHzQ9CHyL",
+      "title": "To The Sky",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508024155615428.jpeg",
+      "metacritic": null,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-21",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/amMHzQ9CHyL"
+    },
+    {
+      "id": "a8QMoMHkUpB",
+      "title": "Vampire: The Masquerade - Swansong",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613769103016479.jpeg",
+      "metacritic": null,
+      "price": 59.99,
+      "discount_price": 11.99,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2023-09-28",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Puzzle",
+        "Other",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/a8QMoMHkUpB"
+    },
+    {
+      "id": "hf4SuZFwpUX",
+      "title": "Alchemy Garden",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509099139210085.jpeg",
+      "metacritic": null,
+      "price": 10.06,
+      "discount_price": 5.03,
+      "discount_rate": 50,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2023-09-07",
+      "categories": [
+        "Lifestyle",
+        "Other",
+        "Simulation",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/hf4SuZFwpUX"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8yzWw45jH7D#currency-price",
+      "priceCurrency": "USD",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:33+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8yzWw45jH7D#currency-price",
+      "priceCurrency": "JPY",
+      "price": "4650.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:33+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8yzWw45jH7D#currency-price",
+      "priceCurrency": "BRL",
+      "price": "147.45",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:33+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8yzWw45jH7D#currency-price",
+      "priceCurrency": "ARS",
+      "price": "6399.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T18:57:33+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 24.73,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 17.58,
+        "region": "JP",
+        "date": "2025-06-18"
+      },
+      "local_low": {
+        "price_eur": 34.21,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 17.58,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-06-18"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 21.16,
+      "sale_periods": [
+        {
+          "start": "2025-06-18",
+          "end": "2025-06-18"
+        },
+        {
+          "start": "2026-02-10",
+          "end": "2026-02-10"
+        }
+      ],
+      "days_since_last_discount": 70,
+      "last_discount": {
+        "date": "2026-02-10",
+        "price_eur": 17.58,
+        "region": "Japan",
+        "drop_pct": 29
+      },
+      "trend_entries_count": 5,
+      "price_verdict": "occasional_discounter"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 24.73,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 24.73,
+        "region": "BR",
+        "date": "2026-04-06"
+      },
+      "local_low": {
+        "price_eur": 34.21,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 24.73,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-04-06"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 24.73,
+      "sale_periods": [],
+      "days_since_last_discount": 15,
+      "last_discount": {
+        "date": "2026-04-06",
+        "price_eur": 24.73,
+        "region": "Brazil",
+        "drop_pct": 28
+      },
+      "trend_entries_count": 2,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/8yzWw45jH7D",
+    "price_track": "https://www.gamegulf.com/detail/8yzWw45jH7D#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1401590,
+      "name": "Disney Dreamlight Valley",
+      "developer": [
+        "Gameloft"
+      ],
+      "publisher": [
+        "Gameloft"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Full controller support",
+        "In-App Purchases",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Playable without Timed Input",
+        "Save Anytime",
+        "Stereo Sound",
+        "Subtitle Options",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "RPG",
+        "Simulation"
+      ],
+      "steam_price": "HK$ 309.00",
+      "total_recommendations": 21263,
+      "short_description": "Explore a world filled with the magic of Disney as you discover rich stories and build the perfect neighborhood alongside Disney and Pixar heroes and villains in this new life-sim adventure game. Welcome to Disney Dreamlight Valley.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese, Simplified Chinese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 22001,
+        "total_negative": 1858,
+        "total_reviews": 23859,
+        "score_description": "Very Positive",
+        "positive_percent": 92
+      }
+    },
+    "hltb": null
+  }
+}
