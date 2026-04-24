@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/ilppjvoZ4dv",
+    "game_id": "ilppjvoZ4dv",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Snoopy & The Great Mystery Club - Joe Cool Fun Pack",
+    "description": "",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910261111957.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910261111957.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910456512388.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910418818669.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910460918662.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910484219189.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910418619436.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910665212096.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Action",
+      "Puzzle"
+    ],
+    "release_date": "2026-03-17",
+    "developer": "Cradle Games",
+    "publisher": "Game Mill",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 49.64,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 49.64
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    },
+    {
+      "id": "4ih1kLyZLm8",
+      "title": "Panda Jump",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
+    },
+    {
+      "id": "ari1ZXrPQFN",
+      "title": "Red Ball Escape",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513226484514499.jpeg",
+      "metacritic": null,
+      "price": 2.05,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-21",
+      "categories": [
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
+    },
+    {
+      "id": "81UgB7rP66E",
+      "title": "The True",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513638626611561.jpeg",
+      "metacritic": null,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-11",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/81UgB7rP66E"
+    },
+    {
+      "id": "hUpbpKWpEWj",
+      "title": "Out of Line",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512785048318925.jpeg",
+      "metacritic": 71,
+      "price": 7.65,
+      "discount_price": 3.06,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "20 hr",
+      "release_date": "2021-08-18",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hUpbpKWpEWj"
+    },
+    {
+      "id": "jNsE1q7UceS",
+      "title": "Chess Brain",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512266289716123.jpeg",
+      "metacritic": null,
+      "price": 0.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-11",
+      "categories": [
+        "Board game",
+        "Puzzle",
+        "Strategy",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/jNsE1q7UceS"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/ilppjvoZ4dv#currency-price",
+      "priceCurrency": "BRL",
+      "price": "296.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:09+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/ilppjvoZ4dv#currency-price",
+      "priceCurrency": "ARS",
+      "price": "42000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:09+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 49.64,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/ilppjvoZ4dv",
+    "price_track": "https://www.gamegulf.com/detail/ilppjvoZ4dv#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 3746120,
+      "name": "Snoopy & The Great Mystery Club - Joe Cool Fun Pack",
+      "developer": [
+        "Cradle Games"
+      ],
+      "publisher": [
+        "GameMill Entertainment"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Downloadable Content",
+        "Steam Achievements",
+        "Full controller support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "steam_price": "$9.89",
+      "total_recommendations": 0,
+      "short_description": "Fly, race, and roll with Snoopy like never before! The Joe Cool Fun Pack brings four fresh mini-games, the iconic Joe Cool outfit, and a collection of 75 full-color Peanuts comics. Suit up, take flight, and dive into fun with everyone’s favorite beagle!",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 3,
+        "total_negative": 0,
+        "total_reviews": 3,
+        "score_description": "3 user reviews",
+        "positive_percent": 100
+      }
+    },
+    "hltb": null
+  }
+}

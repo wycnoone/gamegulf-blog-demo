@@ -1,7 +1,7 @@
 ---
 title: Lohnt sich What Remains of Edith Finch 2026 auf der Switch?
 description: >-
-  April 2026: ~88 Metacritic Erzähl-Adventure, indexierte eShop-Zeilen,
+  April 2026: ~88 Metacritic Erzähl-Adventure, indexierte eShop-Preisn,
   Rabatt-Historie vs. historischer Tiefstpreis, Kauf im Sale.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"

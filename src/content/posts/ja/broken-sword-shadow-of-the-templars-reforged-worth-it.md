@@ -71,7 +71,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - "Broken Sword - Shadow of the Templars: …"
@@ -157,14 +157,14 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ポルトガル | JPY 2805 | €24.99 |
-| ブラジル | JPY 2824 | R$109.99 |
-| アメリカ合衆国 | JPY 4001 | $29.99 |
-| イギリス | JPY 4300 | £19.99 |
-| ドイツ | JPY 4677 | €24.99 |
-| スペイン | JPY 4677 | €24.99 |
-| フランス | JPY 4677 | €24.99 |
-| イタリア | JPY 4677 | €24.99 |
+| ポルトガル | JPY 2800 | €24.99 |
+| ブラジル | JPY 2819 | R$109.99 |
+| アメリカ合衆国 | JPY 3994 | $29.99 |
+| イギリス | JPY 4293 | £19.99 |
+| ドイツ | JPY 4668 | €24.99 |
+| スペイン | JPY 4668 | €24.99 |
+| フランス | JPY 4668 | €24.99 |
+| イタリア | JPY 4668 | €24.99 |
 
 ## 『Broken Sword - Shadow of the Templars: Reforged』はどんなゲーム？
 

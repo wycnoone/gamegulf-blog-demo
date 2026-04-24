@@ -1,0 +1,290 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/4iEFCE29B3u",
+    "game_id": "4iEFCE29B3u",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Warframe",
+    "description": "CHOOSE YOUR WARFRAME\n\nWith more than 60 Warframes, each fully customizable with their own unique abilities, you can create the perfect fit just for you.\n\nASSEMBLE YOUR ARSENAL\n\nKatanas. Crossbows. Flamethrowers, and more… Expand your Arsenal with more than 600 diverse Weapons, then modify each one to your playstyle.\n\nEXPERIENCE FAST-PACED COMBAT\n\nSlice and dice through hordes of enemies, go in guns blazing, or sneak your way in — the choice is yours.\n\nEXPLORE OPEN WORLDS\n\nExplore, discover, fight, and fly in massive open landscapes within Warframe.\n\nFLUID PARKOUR MOVEMENT\n\nSeamlessly leap, slide and glide through capital ships and underground compounds with a robust movement system.\n\nA SOLAR SYSTEM IN RUIN\n\nIn the world of Warframe, grotesque clones and corporate villains dominate the solar system. Fight back against greed and corruption as you explore and defend more than 18 unique worlds.\n\nSQUAD UP\n\nYou don’t have to work alone. Invite up to three friends or fight alongside the millions of other players in our Tenno community.\n\nPLAY TODAY FOR FREE\n\nWarframe is entirely free-to-play. With no barrier to entry, there’s nothing to stop you and your friends from joining our world. Welcome to the Origin System, Tenno.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563551315296.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563551315296.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563712416845.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563716713628.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563717013844.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563714716839.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563731717005.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516563924213508.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Role-playing",
+      "Shooter"
+    ],
+    "release_date": "2018-11-20",
+    "developer": "Digital Extremes",
+    "publisher": "Digital Extremes",
+    "metacritic": 86
+  },
+  "platforms": {},
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
+      "metacritic": 72,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "6 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "2OJjPKonGxw",
+      "title": "NeuroVoider",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517412849817987.jpeg",
+      "metacritic": 85,
+      "price": 3.78,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-02-22",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Role-playing",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/2OJjPKonGxw"
+    },
+    {
+      "id": "3brZfNExZa6",
+      "title": "The Falconeer: Warrior Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512919568419829.jpeg",
+      "metacritic": null,
+      "price": 20.79,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Adventure",
+        "Fighting",
+        "Shooter",
+        "Action",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/3brZfNExZa6"
+    },
+    {
+      "id": "ilKSKtMKd2S",
+      "title": "Maid of the Dead",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613750823411852.jpeg",
+      "metacritic": null,
+      "price": 6.47,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-15",
+      "categories": [
+        "Action",
+        "Shooter",
+        "Role-playing",
+        "Utility"
+      ],
+      "url": "https://www.gamegulf.com/detail/ilKSKtMKd2S"
+    },
+    {
+      "id": "5JBy7MZcZzD",
+      "title": "Hunt",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514540651119398.jpeg",
+      "metacritic": null,
+      "price": 4.86,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-07-15",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Sports",
+        "Role-playing",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/5JBy7MZcZzD"
+    },
+    {
+      "id": "1qd1htNKHOK",
+      "title": "S.T.A.L.K.E.R.: Shadow of Chornobyl",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506636328915348.jpeg",
+      "metacritic": null,
+      "price": 8.57,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-10-31",
+      "categories": [
+        "Action",
+        "First-person",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/1qd1htNKHOK"
+    },
+    {
+      "id": "4UATf4VN8JX",
+      "title": "S.T.A.L.K.E.R.: Call of Prypiat",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506635011917335.jpeg",
+      "metacritic": null,
+      "price": 8.57,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-10-31",
+      "categories": [
+        "Action",
+        "First-person",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/4UATf4VN8JX"
+    },
+    {
+      "id": "g4AvQVXhQlE",
+      "title": "Dead Effect 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512231187916448.jpeg",
+      "metacritic": null,
+      "price": 1.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-18",
+      "categories": [
+        "Action",
+        "First-person",
+        "Role-playing",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/g4AvQVXhQlE"
+    },
+    {
+      "id": "1uXS0vjfBHd",
+      "title": "REMEDIUM: Sentinels",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509355283317303.jpeg",
+      "metacritic": null,
+      "price": 0.64,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-07-18",
+      "categories": [
+        "Action",
+        "Shooter",
+        "Role-playing",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/1uXS0vjfBHd"
+    }
+  ],
+  "schema_offers": [],
+  "price_analytics": {},
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/4iEFCE29B3u",
+    "price_track": "https://www.gamegulf.com/detail/4iEFCE29B3u#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 230410,
+      "name": "Warframe",
+      "developer": [
+        "Digital Extremes"
+      ],
+      "publisher": [
+        "Digital Extremes"
+      ],
+      "metacritic_score": 69,
+      "metacritic_url": "https://www.metacritic.com/game/pc/warframe?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Workshop",
+        "In-App Purchases",
+        "Camera Comfort",
+        "Color Alternatives",
+        "Custom Volume Controls",
+        "Playable without Timed Input",
+        "Stereo Sound",
+        "Surround Sound",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "HDR available"
+      ],
+      "genres": [
+        "Action",
+        "RPG",
+        "Free To Play"
+      ],
+      "steam_price": null,
+      "total_recommendations": 2881,
+      "short_description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game",
+      "supported_languages": "English<strong>*</strong>, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Russian, Japanese, Polish, Portuguese - Brazil, Traditional Chinese, Turkish, Ukrainian, Thai<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 578174,
+        "total_negative": 81290,
+        "total_reviews": 659464,
+        "score_description": "Very Positive",
+        "positive_percent": 88
+      }
+    },
+    "hltb": null
+  }
+}

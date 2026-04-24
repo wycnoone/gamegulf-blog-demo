@@ -204,14 +204,14 @@ April **pricing** backs a confident buy for sale regions: **indexed EU storefron
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Germany | USD 24.58 | €20.99 |
-| Spain | USD 24.58 | €20.99 |
-| France | USD 24.58 | €20.99 |
-| Italy | USD 24.58 | €20.99 |
-| Hong Kong | USD 29.05 | HK$224 |
-| Japan | USD 55.90 | ¥8,778 |
-| Brazil | USD 59.07 | R$299.90 |
-| United States | USD 60.98 | $59.99 |
+| Germany | USD 24.63 | €20.99 |
+| Spain | USD 24.63 | €20.99 |
+| France | USD 24.63 | €20.99 |
+| Italy | USD 24.63 | €20.99 |
+| Hong Kong | USD 29.11 | HK$224 |
+| Japan | USD 56.00 | ¥8,778 |
+| Brazil | USD 59.18 | R$299.90 |
+| United States | USD 61.09 | $59.99 |
 
 Tracked history adds the missing context: the feed’s **all-time low** sits at **€20.99** (**France**, **December 2025**) — effectively the **historical low** band you are seeing in **sale**-eligible EU regions today. With **eleven discounts** logged in the past year, **average sale prices near €29.64**, and **only six days** since the **last discount** move, this is a **buy-now** window for tactics fans — just open the [GameGulf live multi-region price track](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) to confirm **your** storefront, because **Japan** and **United States** rows can still track **far above** the **EU sale** anchor.
 

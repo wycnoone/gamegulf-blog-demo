@@ -215,7 +215,7 @@ Das ist **das** Referenz-Kart-Paket der Hardware.
 ## Jetzt kaufen, wenn
 
 - Du **~92-Metacritic-Polish** mit **Lokal + Online** willst
-- **Deine eShop-Zeile** nah an **Japan / Hongkong** liegt
+- **Deine eShop-Preis** nah an **Japan / Hongkong** liegt
 - **WG, Familie oder Team** noch „einen Cup“ will
 - **DLC-Strecken** später ok sind
 - Du kein **80h-RPG** erwartest
@@ -231,4 +231,4 @@ Das ist **das** Referenz-Kart-Paket der Hardware.
 
 **Mario Kart 8 Deluxe liefert eine gute Stunde**, kein neues Drehbuch — Strecken belohnen Training, Items bestrafen Arroganz, Hilfen glätten Skill-Gaps.
 
-**Check deine eShop-Zeile einmal.** Wenn die Zahl passt und noch Fahrer da sind, **kaufen** — auf Halb-Preis-Wunder wartet man bei diesem Katalog selten.
+**Check dein eShop-Preis einmal.** Wenn die Zahl passt und noch Fahrer da sind, **kaufen** — auf Halb-Preis-Wunder wartet man bei diesem Katalog selten.

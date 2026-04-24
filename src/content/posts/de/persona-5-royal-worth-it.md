@@ -37,7 +37,7 @@ mainFriction: Mementos und lange Paläste bremsen bei 40h-Zieltempo.
 timeFit: HLTB ~101 h Main, ~123 h Extras, ~141 h Completion.
 fitLabel: Für Vorbereitung auf Vertraute, Palast-Rätsel und lange Bögen.
 timingNote: >-
-  Vergleiche eShop-Zeile mit Japan und ~20 € Tracking-Schnitt vor dem Kauf.
+  Vergleiche eShop-Preis mit Japan und ~20 € Tracking-Schnitt vor dem Kauf.
 communityVibe: Phantomdieb-Memes — Kaffee, Prüfungen, Herzen klauen
 playtime: 101h main · 123h+ extras · ~141h completionist (HLTB)
 reviewSignal: "94 Metacritic"

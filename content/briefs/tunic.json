@@ -1,0 +1,634 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/kBRC5WqFkE8",
+    "game_id": "kBRC5WqFkE8",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "TUNIC",
+    "description": "Explore a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC, an isometric action game about a small fox on a big adventure. Stranded in a ruined land, and armed with only your own curiosity, you will confront colossal beasts, collect strange and powerful items, and unravel long-lost secrets.\n\nBECOME A LEGEND\nStories say that a great treasure is hidden somewhere in this land. Perhaps it lies beyond the golden door? Or somewhere deep beneath the earth? Some tales tell of a palace high above the clouds, and of ancient beings with incredible power. What will you find?\n\nREBUILD A SACRED BOOK\nDuring your travels, you’ll reconstruct the game’s Instruction Manual. Page by page, you’ll reveal maps, tips, special techniques, and the deepest of secrets. If you find every last one, maybe something good will happen...\n\nBE COURAGEOUS, LITTLE ONE!\nDive into varied, technical combat. Dodge, block, parry, and strike! Learn how to conquer a wide cast of monsters, big and small — and discover useful new items to help you on your way.\n\n\n- Explore a hostile and intricately-connected world of shady forests, sprawling ruins, and labyrinthine catacombs\n- Fight mighty bosses deep beneath the earth, high above the clouds, and in places stranger still\n- Collect the missing manual pages, bursting with hints and original full-colour illustrations\n- Discover hidden treasures to help you on your way\n- Unearth secret relics, secret techniques, secret puzzles, and… listen, there’s a lot of secrets!\n- Featuring sound design by Power Up Audio\n- An original soundtrack by Lifeformed",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510878850610604.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510878850610604.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510879097014424.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510879100413226.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510879097613771.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510879099319340.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510879106316537.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510879325216124.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_date": "2022-09-27",
+    "developer": "TUNIC Team",
+    "publisher": "Finji",
+    "metacritic": 88
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 22.06,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 22.06
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 24.48,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.48
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 25.01,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.01
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 25.66,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.66
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 27.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 27.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 27.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 27.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 27.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 27.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 27.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 27.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 27.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 27.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 28.96,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.96
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-15",
+              "country_code": "IT",
+              "value": 27.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 13.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 12.24,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-07-20",
+              "country_code": "FR",
+              "value": 27.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-21",
+              "country_code": "FR",
+              "value": 13.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-08-18",
+              "country_code": "JP",
+              "value": 11.03,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-15",
+              "country_code": "IT",
+              "value": 27.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 13.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 12.24,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "FR",
+          "value": 27.99,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 25.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    },
+    {
+      "id": "4ih1kLyZLm8",
+      "title": "Panda Jump",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
+    },
+    {
+      "id": "ari1ZXrPQFN",
+      "title": "Red Ball Escape",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513226484514499.jpeg",
+      "metacritic": null,
+      "price": 2.05,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-21",
+      "categories": [
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
+    },
+    {
+      "id": "81UgB7rP66E",
+      "title": "The True",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513638626611561.jpeg",
+      "metacritic": null,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-11",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/81UgB7rP66E"
+    },
+    {
+      "id": "hUpbpKWpEWj",
+      "title": "Out of Line",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512785048318925.jpeg",
+      "metacritic": 71,
+      "price": 5.03,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-18",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hUpbpKWpEWj"
+    },
+    {
+      "id": "jNsE1q7UceS",
+      "title": "Chess Brain",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512266289716123.jpeg",
+      "metacritic": null,
+      "price": 0.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-11",
+      "categories": [
+        "Board game",
+        "Puzzle",
+        "Strategy",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/jNsE1q7UceS"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+      "priceCurrency": "USD",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:09+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+      "priceCurrency": "EUR",
+      "price": "27.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:09+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+      "priceCurrency": "GBP",
+      "price": "25.19",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:09+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+      "priceCurrency": "JPY",
+      "price": "4085.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:09+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+      "priceCurrency": "HKD",
+      "price": "229.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:09+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+      "priceCurrency": "BRL",
+      "price": "145.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:09+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+      "priceCurrency": "ARS",
+      "price": "42000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:09+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 22.06,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 27.99,
+        "region": "FR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 25.66,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 11.03,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-08-18"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 4,
+      "avg_discount_price_eur": 12.81,
+      "sale_periods": [
+        {
+          "start": "2025-07-21",
+          "end": "2025-08-18"
+        },
+        {
+          "start": "2025-12-18",
+          "end": "2025-12-22"
+        }
+      ],
+      "days_since_last_discount": 121,
+      "last_discount": {
+        "date": "2025-12-22",
+        "price_eur": 12.24,
+        "region": "Brazil",
+        "drop_pct": 13
+      },
+      "trend_entries_count": 6,
+      "price_verdict": "sale_likely_soon"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/kBRC5WqFkE8",
+    "price_track": "https://www.gamegulf.com/detail/kBRC5WqFkE8#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 553420,
+      "name": "TUNIC",
+      "developer": [
+        "TUNIC Team"
+      ],
+      "publisher": [
+        "Finji"
+      ],
+      "metacritic_score": 85,
+      "metacritic_url": "https://www.metacritic.com/game/pc/tunic?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "steam_price": "$29.99",
+      "total_recommendations": 15867,
+      "short_description": "Explore a land filled with lost legends, ancient powers, and ferocious monsters in TUNIC, an isometric action game about a small fox on a big adventure.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Bulgarian<strong>*</strong>, Czech<strong>*</strong>, Danish<strong>*</strong>, Dutch<strong>*</strong>, Finnish<strong>*</strong>, Greek<strong>*</strong>, Hungarian<strong>*</strong>, Japanese<strong>*</strong>, Korean<strong>*</strong>, Norwegian<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Romanian<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong>, Ukrainian<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Arabic<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 15851,
+        "total_negative": 1478,
+        "total_reviews": 17329,
+        "score_description": "Very Positive",
+        "positive_percent": 91
+      }
+    },
+    "hltb": null
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+    "game_id": "1wHJMRuRjHR",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Star Wars™ Pinball",
+    "description": "Feel the power of the Force™ in Star Wars™ Pinball!\n\n19 TABLES CELEBRATING A GALAXY FAR, FAR AWAY\n• Movie Adaptations: Episodes IV - VIII; Rogue One: A Star Wars Story; Solo: A Star Wars Story \n• TV Adaptations: Star Wars: The Clone Wars and Star Wars Rebels\n• Characters: Han Solo, Darth Vader, Lando Calrissian in the Calrissian Chronicles table, Boba Fett, Droids\n• Locations: Ahch-To Island, Mimban\n• Themes: Jedi versus Sith in Masters of the Force, X-wings vs. TIE fighters in Starfighter Assault, or experience the Might of the First Order\n\nNINTENDO SWITCH™ EXCLUSIVE FEATURES AND MODES\nIn addition to HD Rumble and vertical play, Star Wars Pinball boasts several new features and modes exclusive to Nintendo Switch as a standalone product:  \n• Galactic Struggle: Every Star Wars Pinball player in the galaxy will choose to support the light or dark side in a perpetual online digital tug-of-war between the forces of good and evil. Which path will you choose?\n• Career Mode: Designed with short on-the-go gameplay sessions in mind, this mode challenges you to complete very specific pinball-based missions across all 19 tables.  \n   o Choose the path of the Jedi or the Sith as you progress through 50 career ranks. \n   o Some missions involve mastering awesome Star Wars-themed mini-games that might be difficult for some players to access through regular play, such as piloting an X-wing or TIE fighter or fighting Darth Vader in a lightsaber duel.\n• Force Powers and Talents: Collect Holocron Shards during missions to unlock Force powers and talents that yield special in-game bonuses when activated, such as multipliers, slowing down time and more. \n• Cantina Jukebox: Collect the greatest tunes in the galaxy as you play each table. Once you’ve heard a song, you can listen to it any time you like in the game lobby.\n\nAlso, challenge anyone in the galaxy through Galactic Tournaments, League Play and, of course, old-fashioned high scores achieved through Single Player mode.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676626216804.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676626216804.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676859618873.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676837711486.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676859518834.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676839716091.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676839714889.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515677029616964.jpeg"
+    ],
+    "genres": [
+      "Arcade",
+      "Simulation",
+      "Platformer"
+    ],
+    "release_date": "2019-09-13",
+    "developer": "Zen Studios",
+    "publisher": "Zen Studios",
+    "metacritic": 86
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 25.66,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.66
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 26,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 26
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 26.02,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 26.02
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 31.03,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 31.03
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-29",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-15",
+              "country_code": "FR",
+              "value": 29.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "FR",
+              "value": 11.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "US",
+              "value": 10.26,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-29",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-04-30",
+              "country_code": "US",
+              "value": 8.97,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-11-15",
+              "country_code": "FR",
+              "value": 29.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "FR",
+              "value": 11.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "US",
+              "value": 10.26,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-29",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 25.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 25.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "diFXsIVTHHR",
+      "title": "STAR WARS: Hunters™",
+      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/12/174174094074714006.jpeg",
+      "metacritic": 57,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2024-06-04",
+      "categories": [
+        "Action",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/diFXsIVTHHR"
+    },
+    {
+      "id": "eGxqRp4O0J1",
+      "title": "STAR WARS™: Bounty Hunter™",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507230520513636.jpeg",
+      "metacritic": null,
+      "price": 11.08,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/eGxqRp4O0J1"
+    },
+    {
+      "id": "9kNFxeahgtV",
+      "title": "STAR WARS™ Republic Commando™",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513504935919062.jpeg",
+      "metacritic": null,
+      "price": 10.69,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-12-23",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/9kNFxeahgtV"
+    },
+    {
+      "id": "6Vt2Ygtth6V",
+      "title": "STAR WARS™: The Force Unleashed™",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511623173514725.jpeg",
+      "metacritic": null,
+      "price": 13.39,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-04-21",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/6Vt2Ygtth6V"
+    },
+    {
+      "id": "h49t6mFHoM0",
+      "title": "STAR WARS™: Dark Forces Remaster",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508181841018905.jpeg",
+      "metacritic": null,
+      "price": 5.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Shooter",
+        "Training"
+      ],
+      "url": "https://www.gamegulf.com/detail/h49t6mFHoM0"
+    },
+    {
+      "id": "bjwF5l3Acae",
+      "title": "Connect the Circuit 1000",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506050988814958.jpeg",
+      "metacritic": null,
+      "price": 1.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-01-30",
+      "categories": [
+        "Arcade",
+        "Board game",
+        "Puzzle",
+        "Simulation",
+        "Action",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/bjwF5l3Acae"
+    },
+    {
+      "id": "5SECsbCNuNH",
+      "title": "Cue Sports",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511967306518817.jpeg",
+      "metacritic": null,
+      "price": 3.99,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-10",
+      "categories": [
+        "Arcade",
+        "Party",
+        "Sports",
+        "Platformer",
+        "Simulation",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/5SECsbCNuNH"
+    },
+    {
+      "id": "bIv1Jco6mid",
+      "title": "Sparking Beam Strike 1000",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506344375912960.jpeg",
+      "metacritic": null,
+      "price": 2.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-12-12",
+      "categories": [
+        "Arcade",
+        "Board game",
+        "Puzzle",
+        "Simulation",
+        "Action",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/bIv1Jco6mid"
+    },
+    {
+      "id": "6rjdJgKR0g",
+      "title": "8-Ball Pocket",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515302301718067.jpeg",
+      "metacritic": null,
+      "price": 3.24,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-11-21",
+      "categories": [
+        "Arcade",
+        "Simulation",
+        "Sports",
+        "Action",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/6rjdJgKR0g"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price",
+      "priceCurrency": "USD",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price",
+      "priceCurrency": "EUR",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price",
+      "priceCurrency": "GBP",
+      "price": "26.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price",
+      "priceCurrency": "JPY",
+      "price": "4818.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price",
+      "priceCurrency": "HKD",
+      "price": "238.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 25.66,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 25.66,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 25.66,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 8.97,
+        "region": "US",
+        "country": "United States",
+        "date": "2025-04-30"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 11.13,
+      "sale_periods": [
+        {
+          "start": "2025-04-30",
+          "end": "2025-04-30"
+        },
+        {
+          "start": "2025-11-17",
+          "end": "2025-12-22"
+        }
+      ],
+      "days_since_last_discount": 121,
+      "last_discount": {
+        "date": "2025-12-22",
+        "price_eur": 10.26,
+        "region": "United States",
+        "drop_pct": 14
+      },
+      "trend_entries_count": 5,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+    "price_track": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1530770,
+      "name": "Star Wars™ Pinball VR",
+      "developer": [
+        "Zen Studios"
+      ],
+      "publisher": [
+        "Zen Studios"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Tracked Controller Support",
+        "VR Supported",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Simulation"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 176,
+      "short_description": "Immerse yourself with 8 amazing Star Wars™ Pinball tables in VR - including one based on The Mandalorian - and level up the pinball action with a customizable Fan Cave, Career Mode, Force Powers, and Total Immersion.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 78,
+        "total_negative": 115,
+        "total_reviews": 193,
+        "score_description": "Mixed",
+        "positive_percent": 40
+      }
+    },
+    "hltb": null
+  }
+}

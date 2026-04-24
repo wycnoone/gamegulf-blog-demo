@@ -1,0 +1,820 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/8OiOn4Of8Bq",
+    "game_id": "8OiOn4Of8Bq",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Starward Rogue",
+    "description": "Starward Rogue is a bullet hell twin-stick shooter. Blast your way through the Megalith, a rogue-lite labyrinth lodged in the side of a star. Customize your mech with a huge variety of weapons, perks, and upgrades. Steel yourself for the dangers that lurk in the depths of the dungeon.\n\nThe cult classic twin-stick Isaac-like you've been looking for and probably missed!\n\n- Play as a \"head in a mech\" harvested from the neck of everyone's favorite Space Hydra.\n- Roguelite catacombs that evolve and expand with each of your successes.\n- 9 starting mechs to choose from with a wide range of abilities: time control, shot magnetism, perk randomization, and more.\n- 5 difficulty levels ranging from \"Relatively Easy\" to \"Nigh Impossible.\"\n- 350+ items, including active weapons, one time use consumables, and passive upgrades.\n- 150+ regular enemies, 10+ minibosses, and 20+ epic bosses.\n- 500+ rooms to explore, including the special condemned survival rooms.\n- Level up during each run through the perk system which allows for varied build diversity.\n- Buy upgrades from a variety of shops.\n- Secrets! Among them \"incredibilities\" that massively change the way the game plays.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508357971318274.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508357971318274.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508358166419550.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508358149111147.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508358131214152.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508358134018269.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508358131416669.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508358355314518.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Arcade",
+      "Other",
+      "Shooter"
+    ],
+    "release_date": "2024-01-25",
+    "developer": "Arcen Games",
+    "publisher": "Klabater",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 9.18,
+          "discount_price": 1.35,
+          "discount_rate": 85,
+          "discount_end": "2026-04-22 14:59:59",
+          "discount_end_timestamp": 1776869999,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 1.35
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 8.89,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.89
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 15.51,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.51
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-29",
+              "country_code": "BR",
+              "value": 8.89,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-30",
+              "country_code": "FR",
+              "value": 2.24,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "JP",
+              "value": 1.35,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-10-25",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-10-28",
+              "country_code": "FR",
+              "value": 2.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-11-05",
+              "country_code": "JP",
+              "value": 1.57,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-27",
+              "country_code": "IT",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 2.24,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 1.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "FR",
+              "value": 2.24,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "JP",
+              "value": 1.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "IT",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-29",
+              "country_code": "BR",
+              "value": 8.89,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-30",
+              "country_code": "FR",
+              "value": 2.24,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "JP",
+              "value": 1.35,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-27",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-05-28",
+              "country_code": "FR",
+              "value": 3.74,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-06-11",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-07-17",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-18",
+              "country_code": "FR",
+              "value": 2.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-30",
+              "country_code": "JP",
+              "value": 1.78,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-09-07",
+              "country_code": "FR",
+              "value": 2.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-09-17",
+              "country_code": "JP",
+              "value": 1.78,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-25",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-10-28",
+              "country_code": "FR",
+              "value": 2.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-11-05",
+              "country_code": "JP",
+              "value": 1.57,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-27",
+              "country_code": "IT",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 2.24,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 1.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "FR",
+              "value": 2.24,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "JP",
+              "value": 1.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "IT",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-29",
+              "country_code": "BR",
+              "value": 8.89,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-30",
+              "country_code": "FR",
+              "value": 2.24,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "JP",
+              "value": 1.35,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 1.35,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "jEWblIF0H7u",
+      "title": "Rogue Lords",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511518486217802.jpeg",
+      "metacritic": null,
+      "price": 13.66,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-05-12",
+      "categories": [
+        "Role-playing",
+        "Strategy",
+        "Platformer",
+        "Other",
+        "Board game"
+      ],
+      "url": "https://www.gamegulf.com/detail/jEWblIF0H7u"
+    },
+    {
+      "id": "k3Rw9FKy3nO",
+      "title": "Rogue Wizards",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513083178716183.jpeg",
+      "metacritic": null,
+      "price": 11.99,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-07-15",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/k3Rw9FKy3nO"
+    },
+    {
+      "id": "4KiS7nP8hVL",
+      "title": "Rogue Singularity",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515758924710436.jpeg",
+      "metacritic": null,
+      "price": 12.82,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-08-15",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/4KiS7nP8hVL"
+    },
+    {
+      "id": "7nfMGfGhUzM",
+      "title": "Rogue Robots",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514714185317487.jpeg",
+      "metacritic": null,
+      "price": 5.69,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-06-12",
+      "categories": [
+        "Action",
+        "Fighting",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/7nfMGfGhUzM"
+    },
+    {
+      "id": "jc3MsHcrHTW",
+      "title": "Skull Rogue",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515104044719931.jpeg",
+      "metacritic": null,
+      "price": 2.99,
+      "discount_price": 0.99,
+      "discount_rate": 66,
+      "discount_tag": "LowPrice",
+      "discount_end": "6 days",
+      "release_date": "2020-02-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/jc3MsHcrHTW"
+    },
+    {
+      "id": "xdZtBz8u4v",
+      "title": "30XX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509118633518105.jpeg",
+      "metacritic": 86,
+      "price": 19.99,
+      "discount_price": 8.99,
+      "discount_rate": 55,
+      "discount_tag": "LowPrice",
+      "discount_end": "9 days",
+      "release_date": "2023-09-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Other",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/xdZtBz8u4v"
+    },
+    {
+      "id": "9g2qRvyINPi",
+      "title": "The Running Toaster",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505646886217659.jpeg",
+      "metacritic": null,
+      "price": 0.03,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-03-27",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Other",
+        "Shooter",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/9g2qRvyINPi"
+    },
+    {
+      "id": "dG0NURDbVeN",
+      "title": "Super Kart Mini Car Race",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508456825913026.jpeg",
+      "metacritic": null,
+      "price": 2.24,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-12-25",
+      "categories": [
+        "Action",
+        "Shooter",
+        "Other",
+        "Arcade",
+        "Racing"
+      ],
+      "url": "https://www.gamegulf.com/detail/dG0NURDbVeN"
+    },
+    {
+      "id": "d5M7yi2ZKso",
+      "title": "Arcade Space Shooter 2 in 1",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513198862213358.jpeg",
+      "metacritic": null,
+      "price": 1.68,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-06-17",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Other",
+        "Shooter",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/d5M7yi2ZKso"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8OiOn4Of8Bq#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8OiOn4Of8Bq#currency-price",
+      "priceCurrency": "EUR",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8OiOn4Of8Bq#currency-price",
+      "priceCurrency": "GBP",
+      "price": "13.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8OiOn4Of8Bq#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1699.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8OiOn4Of8Bq#currency-price",
+      "priceCurrency": "BRL",
+      "price": "52.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/8OiOn4Of8Bq#currency-price",
+      "priceCurrency": "ARS",
+      "price": "3700.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:39+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 1.35,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 1.35,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 1.35,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-12-24"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 16,
+      "avg_discount_price_eur": 3.28,
+      "sale_periods": [],
+      "days_since_last_discount": 20,
+      "last_discount": {
+        "date": "2026-04-01",
+        "price_eur": 1.35,
+        "region": "Japan",
+        "drop_pct": 40
+      },
+      "trend_entries_count": 23,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/8OiOn4Of8Bq",
+    "price_track": "https://www.gamegulf.com/detail/8OiOn4Of8Bq#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 410820,
+      "name": "Starward Rogue",
+      "developer": [
+        "Arcen Games"
+      ],
+      "publisher": [
+        "Arcen Games"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "steam_price": "$2.99",
+      "total_recommendations": 285,
+      "short_description": "Starward Rogue is a bullet hell twin-stick shooter. Blast your way through the Megalith, a rogue-lite labyrinth lodged in the side of a star. Customize your mech with a huge variety of weapons, perks, and upgrades. Steel yourself for the dangers that lurk in the depths of the dungeon.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 440,
+        "total_negative": 47,
+        "total_reviews": 487,
+        "score_description": "Very Positive",
+        "positive_percent": 90
+      }
+    },
+    "hltb": null
+  }
+}

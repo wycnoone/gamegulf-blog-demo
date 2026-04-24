@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/eDgfEcHHtCI",
+    "game_id": "eDgfEcHHtCI",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Poker Club",
+    "description": "Welcome to Poker Club!\n\nLive the life of a poker pro in the most immersive simulation ever seen! Join a community of online players on your way to the top of the Poker Club Championship tour! Whether you’re a seasoned poker pro or brand new to the table, enter the world of Poker Club and raise your game!\n\nPCC Campaign: Live the Life of a Poker Pro\n\nWin your way to the top of the PCC Pro Tour from the low-stakes basement of Ralph’s Pizzeria to the jaw-dropping high-stakes Intensity Arena, where you'll win PCC tournament rings if you don’t fold under the pressure of huge 228 player multi-table tournaments! Feeling flush from a big win? Flash the cash on character and table customisations to flaunt your style.\n\nOnline Clubs: Win Together\n\nJoin a Club and team up with players from across the world to break the vault and level up together, to earn bigger daily payouts and bonuses, and unlock unique rewards and events!\n\n10 Texas Hold’em Modes: More Ways to Play\n\nRaise your game with a huge variety of Texas Hold’em events: from one-on-one Heads Up games, to huge multi-table tournaments for 228 players! Enjoy freezeouts, shootouts, super-turbos, bounties, ring games and more in the PCC Pro Tour, play online tournaments, or create a custom table to play by your own rules with friends. \n\nTrue Immersion: As Close as it Gets to the Real Thing\n\nIn Poker Club, you’ll get so close to the action that you can see the weave of the linen finish on the playing cards! Enjoy the thrill of playing poker from an immersive first-person perspective with realistic HD visuals, bringing you so close to the action that you’ll be able to see the weave of the linen finish on the premium quality cards as you play",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512215870018299.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512215870018299.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216005215725.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216010718206.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216002613749.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512215998711498.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512215998510855.jpeg"
+    ],
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "2021-11-24",
+    "developer": "Ripstone",
+    "publisher": "Ripstone Publishing",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 15.05,
+          "discount_price": 7.52,
+          "discount_rate": 50,
+          "discount_end": "2026-04-22 15:59:59",
+          "discount_end_timestamp": 1776873599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 7.52
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 11.74,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.74
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 17.59,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.59
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 17.59,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.59
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 17.59,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.59
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 17.59,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.59
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 17.59,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.59
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 18.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 18.38
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 7.52,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "ewOsLj8MIJa",
+      "title": "Joker Poker - Video Poker",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513734156414758.jpeg",
+      "metacritic": null,
+      "price": 0.35,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-05-12",
+      "categories": [
+        "Arcade",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/ewOsLj8MIJa"
+    },
+    {
+      "id": "1VKMrI7PZBw",
+      "title": "Poker Hands",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514453125916992.jpeg",
+      "metacritic": null,
+      "price": 0.86,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-20",
+      "categories": [
+        "Board game",
+        "Puzzle",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/1VKMrI7PZBw"
+    },
+    {
+      "id": "4l1cdv2AqyR",
+      "title": "ポーカーソリティア",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/8/177568712632917253.jpeg",
+      "metacritic": null,
+      "price": 2.65,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-17",
+      "categories": [
+        "Puzzle",
+        "Platformer",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/4l1cdv2AqyR"
+    },
+    {
+      "id": "9EZu0tgR13s",
+      "title": "Video Poker Collection",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513622098714220.jpeg",
+      "metacritic": null,
+      "price": 0.59,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-05-12",
+      "categories": [
+        "Arcade",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9EZu0tgR13s"
+    },
+    {
+      "id": "8kKigalF7hw",
+      "title": "3 Card Poker",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504816277910757.jpeg",
+      "metacritic": null,
+      "price": 3.69,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-07-11",
+      "categories": [
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/8kKigalF7hw"
+    },
+    {
+      "id": "ehV6IA8PIYB",
+      "title": "Volta-X",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514476966411068.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-12",
+      "categories": [
+        "Action",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/ehV6IA8PIYB"
+    },
+    {
+      "id": "9sVKHNxsdQS",
+      "title": "Reigns: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507883425211823.jpeg",
+      "metacritic": null,
+      "price": 1.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-17",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Strategy",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/9sVKHNxsdQS"
+    },
+    {
+      "id": "c4NsGCd06I6",
+      "title": "Overcooked! 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516860867215327.jpeg",
+      "metacritic": 81,
+      "price": 22.45,
+      "discount_price": 5.61,
+      "discount_rate": 75,
+      "discount_tag": "Normal",
+      "discount_end": "1 days",
+      "release_date": "2021-04-27",
+      "categories": [
+        "Party",
+        "Strategy",
+        "Communication",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/c4NsGCd06I6"
+    },
+    {
+      "id": "8tP0WaRq4sv",
+      "title": "The Battle of Polytopia",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510788302211618.jpeg",
+      "metacritic": 72,
+      "price": 1.29,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-10-12",
+      "categories": [
+        "Strategy",
+        "Adventure",
+        "Simulation",
+        "Board game"
+      ],
+      "url": "https://www.gamegulf.com/detail/8tP0WaRq4sv"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/eDgfEcHHtCI#currency-price",
+      "priceCurrency": "USD",
+      "price": "17.59",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:19+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/eDgfEcHHtCI#currency-price",
+      "priceCurrency": "EUR",
+      "price": "17.59",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:19+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/eDgfEcHHtCI#currency-price",
+      "priceCurrency": "GBP",
+      "price": "15.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:19+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/eDgfEcHHtCI#currency-price",
+      "priceCurrency": "BRL",
+      "price": "70.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:19+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/eDgfEcHHtCI#currency-price",
+      "priceCurrency": "ARS",
+      "price": "2240.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:19+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 7.52,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": null,
+      "local_low": {
+        "price_eur": 7.52,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/eDgfEcHHtCI",
+    "price_track": "https://www.gamegulf.com/detail/eDgfEcHHtCI#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1174460,
+      "name": "Poker Club",
+      "developer": [
+        "Ripstone"
+      ],
+      "publisher": [
+        "Ripstone"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Casual",
+        "Indie",
+        "Simulation",
+        "Sports",
+        "Strategy"
+      ],
+      "steam_price": "$9.99",
+      "total_recommendations": 495,
+      "short_description": "Welcome to the most immersive poker simulation ever made. Live the life of a poker pro in a global Poker Tour, then join a Club and make a name for yourself in 200-player online tournaments.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Russian<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 312,
+        "total_negative": 222,
+        "total_reviews": 534,
+        "score_description": "Mixed",
+        "positive_percent": 58
+      }
+    },
+    "hltb": null
+  }
+}

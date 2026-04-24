@@ -67,7 +67,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - Overcooked! All You Can Eat sale bingo
@@ -149,14 +149,14 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 1243 | ¥4,100 |
-| イギリス | JPY 1933 | £29.99 |
-| ドイツ | JPY 2244 | €39.99 |
-| スペイン | JPY 2244 | €39.99 |
-| フランス | JPY 2244 | €39.99 |
-| 香港 | JPY 5622 | HK$275 |
-| アメリカ合衆国 | JPY 6402 | $39.99 |
-| ブラジル | JPY 6745 | R$214.9 |
+| 日本 | JPY 1240 | ¥4,100 |
+| イギリス | JPY 1930 | £29.99 |
+| ドイツ | JPY 2240 | €39.99 |
+| スペイン | JPY 2240 | €39.99 |
+| フランス | JPY 2240 | €39.99 |
+| 香港 | JPY 5612 | HK$275 |
+| アメリカ合衆国 | JPY 6391 | $39.99 |
+| ブラジル | JPY 6733 | R$214.9 |
 
 ## 『Overcooked! All You Can Eat』はどんなゲーム？
 

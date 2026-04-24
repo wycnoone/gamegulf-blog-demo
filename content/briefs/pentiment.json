@@ -1,0 +1,703 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/a4rTYMFl9zT",
+    "game_id": "a4rTYMFl9zT",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Pentiment",
+    "description": "Art Imitates Death\nStep into a living illustrated world inspired by illuminated manuscripts and printed woodcuts in a time when Europe is at a crossroads of great religious and political change. Walk in the footsteps of Andreas Maler, a master artist who finds himself in the middle of murders, scandals, and intrigue in the Bavarian Alps.\n\nIllustrated world\nExperience 16th century Europe as the master artists of the time saw them. Art inspired by great illuminated manuscripts and the earliest printed books becomes a living, breathing world in Pentiment.\n\nUncover mysteries\nChoose different academic and social backgrounds and meet a colorful cast of characters as you discover the stories and secrets that lie within the small Bavarian town of Tassing and nearby Keirsau Abbey.\n\nImpact a changing world\nIn an era of great religious and political change, each decision you make can have a profound impact on the community’s future. Find your own way through this turbulent time and see the consequences of your choices play out over generations.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508222491014873.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508222491014873.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508222635715157.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508222634216088.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508222674216031.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508222698010852.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508222633719994.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_date": "2024-02-22",
+    "developer": "Obsidian Entertainment",
+    "publisher": "Microsoft Studios",
+    "metacritic": 90
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": 8.55,
+          "discount_rate": 50,
+          "discount_end": "2026-04-30 06:59:59",
+          "discount_end_timestamp": 1777532399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.55
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 11.29,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.29
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 16.6,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.6
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 17.23,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.23
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-31",
+              "country_code": "JP",
+              "value": 5.64,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-26",
+              "country_code": "BR",
+              "value": 16.6,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "GB",
+              "value": 8.61,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 8.3,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-24",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-25",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "ES",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-03-20",
+              "country_code": "GB",
+              "value": 17.23,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "JP",
+              "value": 5.64,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-27",
+              "country_code": "GB",
+              "value": 17.23,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-05-28",
+              "country_code": "GB",
+              "value": 8.61,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-06-25",
+              "country_code": "JP",
+              "value": 5.64,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-07-20",
+              "country_code": "GB",
+              "value": 17.23,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-07-21",
+              "country_code": "GB",
+              "value": 8.61,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "GB",
+              "value": 17.23,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-09-04",
+              "country_code": "GB",
+              "value": 8.61,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-10-06",
+              "country_code": "PT",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-11-26",
+              "country_code": "BR",
+              "value": 16.6,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "GB",
+              "value": 8.61,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 8.3,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-24",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-25",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "ES",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-03-20",
+              "country_code": "GB",
+              "value": 17.23,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "JP",
+              "value": 5.64,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 8.55,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "5yQg2v3ODEh",
+      "title": "World Of Solitaire",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514092135617241.jpeg",
+      "metacritic": null,
+      "price": 5.78,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-22",
+      "categories": [
+        "Adventure",
+        "Board game",
+        "Puzzle",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/5yQg2v3ODEh"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    },
+    {
+      "id": "lkbUI04vdAR",
+      "title": "Flipping Death",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516857905118612.jpeg",
+      "metacritic": 83,
+      "price": 19.99,
+      "discount_price": 1.99,
+      "discount_rate": 90,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2018-08-07",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/lkbUI04vdAR"
+    },
+    {
+      "id": "79zzPDxBeD",
+      "title": "Forests, Fields and Fortresses",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507051709512831.jpeg",
+      "metacritic": null,
+      "price": 3.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-08-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/79zzPDxBeD"
+    },
+    {
+      "id": "h61NRMbokGw",
+      "title": "LIMBO",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516958805210441.jpeg",
+      "metacritic": 83,
+      "price": 4.29,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-26",
+      "categories": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/h61NRMbokGw"
+    },
+    {
+      "id": "4ih1kLyZLm8",
+      "title": "Panda Jump",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT#currency-price",
+      "priceCurrency": "GBP",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2090.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT#currency-price",
+      "priceCurrency": "BRL",
+      "price": "99.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT#currency-price",
+      "priceCurrency": "ARS",
+      "price": "2699.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.55,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 5.64,
+        "region": "JP",
+        "date": "2025-06-25"
+      },
+      "local_low": {
+        "price_eur": 8.55,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.64,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-06-25"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 10,
+      "avg_discount_price_eur": 9.64,
+      "sale_periods": [
+        {
+          "start": "2025-06-25",
+          "end": "2025-06-25"
+        },
+        {
+          "start": "2026-03-31",
+          "end": "2026-03-31"
+        }
+      ],
+      "days_since_last_discount": 22,
+      "last_discount": {
+        "date": "2026-03-31",
+        "price_eur": 5.64,
+        "region": "Japan",
+        "drop_pct": 67
+      },
+      "trend_entries_count": 16,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/a4rTYMFl9zT",
+    "price_track": "https://www.gamegulf.com/detail/a4rTYMFl9zT#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1205520,
+      "name": "Pentiment",
+      "developer": [
+        "Obsidian Entertainment"
+      ],
+      "publisher": [
+        "Xbox Game Studios"
+      ],
+      "metacritic_score": 88,
+      "metacritic_url": "https://www.metacritic.com/game/pc/pentiment?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual"
+      ],
+      "steam_price": "$9.99",
+      "total_recommendations": 8678,
+      "short_description": "Step into a living illustrated world in a time when Europe is at a crossroads of great religious and political change. Walk in the footsteps of Andreas Maler, a master artist who finds himself in the middle of murders, scandals, and intrigue in the Bavarian Alps.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Japanese, Korean, Russian, Simplified Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 8697,
+        "total_negative": 438,
+        "total_reviews": 9135,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 95
+      }
+    },
+    "hltb": null
+  }
+}

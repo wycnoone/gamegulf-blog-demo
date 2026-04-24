@@ -3,7 +3,7 @@ import { DecisionEmptyState } from './DecisionEmptyState';
 import { DecisionFeaturedCardV2 } from './DecisionFeaturedCardV2';
 import { DecisionFilterPanel } from './DecisionFilterPanel';
 import { DecisionGridCard } from './DecisionGridCard';
-import type { DecisionEntryCardModel, QuickFilterKey } from '@/lib/blog';
+import { quickFilterLabelMap, type DecisionEntryCardModel, type QuickFilterKey } from '@/lib/blog-shared';
 import type { BlogLocale } from '@/lib/i18n';
 import { t } from '@/lib/translations';
 
@@ -16,7 +16,27 @@ type DecisionHomeHubProps = {
 
 type HomeMode = 'all' | 'recommended_now' | 'wait_for_sale' | 'set_alert';
 
-function getFilterGroups() { return []; }
+const PLAY_PROFILE_FILTERS: QuickFilterKey[] = [
+  'co_op',
+  'long_rpg',
+  'family_friendly',
+  'nintendo_first_party',
+  'short_sessions',
+];
+const PRICE_FILTERS: QuickFilterKey[] = ['under_20', 'great_on_sale', 'rarely_discounted'];
+
+function getFilterGroups(locale: BlogLocale) {
+  return [
+    {
+      title: t(locale, 'filter.groupPlayProfile'),
+      filters: PLAY_PROFILE_FILTERS.map((key) => ({ key, label: quickFilterLabelMap[key][locale] })),
+    },
+    {
+      title: t(locale, 'filter.groupPrice'),
+      filters: PRICE_FILTERS.map((key) => ({ key, label: quickFilterLabelMap[key][locale] })),
+    },
+  ];
+}
 
 function getIntentOptions(locale: BlogLocale) {
   return [
@@ -109,7 +129,7 @@ function formatGuidesCount(locale: BlogLocale, count: number) {
 
 export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
   const intentOptions = useMemo(() => getIntentOptions(locale), [locale]);
-  const filterGroups = useMemo(() => getFilterGroups(), []);
+  const filterGroups = useMemo(() => getFilterGroups(locale), [locale]);
   const [query, setQuery] = useState('');
   const [activeFilters, setActiveFilters] = useState<QuickFilterKey[]>([]);
   const [activeMode, setActiveMode] = useState<HomeMode>('all');

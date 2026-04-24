@@ -1,0 +1,477 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/kAoLm6ihsej",
+    "game_id": "kAoLm6ihsej",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Super Mega Baseball 3",
+    "description": "Super Mega Baseball 3 refines the series’ formula with the deepest on-field simulation yet, comprehensive offline and online play including Franchise mode and the newly added Online Leagues mode, and vastly improved graphics. New content includes revamped UI plus tons of new audio, team/character content, and stadiums with variable lighting conditions.\n\nFeatures:\n•\tChallenge your hand-eye coordination or relax and hit dingers with fluid gameplay that scales seamlessly from novice to beyond-expert levels of difficulty.\n•\tApply and refine your baseball instincts with a sophisticated baseball simulation featuring new pickoff and stealing mechanics, wild pitches/passed balls, designated hitters, and situational player traits.\n•\tTake in the sights and sounds of 14 richly detailed ballparks, each featuring unique day, night and alternate lighting conditions.\n•\tGuide an evolving team to greatness over multiple seasons in the all new Franchise mode featuring player development, aging, retirement and signing/releasing of free agents (1vCPU, 2vCPU, local or online).\n•\tOrganize a cross-platform league with your friends in the newly added, versatile Online Leagues mode (1v1, online only).\n•\tCompete online to win pennants and climb to higher divisions in the cross-platform Pennant Race mode (1v1, online only).\n•\tCreate your ideal league with a comprehensive customization suite that includes season length/structure, team names/uniforms/logos, and player names/appearance/attributes.\n•\tPlay or simulate any combination of games/teams in customized Seasons and Elimination brackets, solo or with friends (1vCPU, 2vCPU, 1v1, 2v1, 2v2, CPUvCPU, local or online).\n•\tSkip customization and compete for top leaderboard scores with standardized teams and settings (locked player attributes) in Standard Season and Standard Elimination modes (1vCPU, 2vCPU, local or online).\n\nDownload the free demo to play an unlimited number of games in the competitive online Pennant Race mode, play Exhibition games against the AI, or experiment with the customization suite.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514859871817253.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514859871817253.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514860039310754.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514860040316974.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514860041119060.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514860045111183.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514860053011264.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514860236712158.jpeg"
+    ],
+    "genres": [
+      "Arcade",
+      "Simulation",
+      "Sports"
+    ],
+    "release_date": "2020-05-13",
+    "developer": "Metalhead Software Inc.",
+    "publisher": "Electronic Arts",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 38.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 38.49
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 40.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 40.22
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 38.49,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 38.49,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "dJETy3JwQaj",
+      "title": "Super Mega Baseball™ 4",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509536067410067.jpeg",
+      "metacritic": null,
+      "price": 41.76,
+      "discount_price": 4.18,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "7 days",
+      "release_date": "2023-06-02",
+      "categories": [
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/dJETy3JwQaj"
+    },
+    {
+      "id": "bPXCVyenTCp",
+      "title": "JDM Drag Racing Car Driving Simulator 2022 Games",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511274770910631.jpeg",
+      "metacritic": null,
+      "price": 0.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/bPXCVyenTCp"
+    },
+    {
+      "id": "aBdaznlfiRl",
+      "title": "Lonely Mountains: Downhill",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514886064319244.jpeg",
+      "metacritic": 84,
+      "price": 19.99,
+      "discount_price": 5.99,
+      "discount_rate": 70,
+      "discount_tag": "LowPrice",
+      "discount_end": "9 days",
+      "release_date": "2020-05-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/aBdaznlfiRl"
+    },
+    {
+      "id": "4muroiVTbOx",
+      "title": "Space Warrior",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513401262819344.jpeg",
+      "metacritic": null,
+      "price": 2.3,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-19",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Simulation",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/4muroiVTbOx"
+    },
+    {
+      "id": "lufojonADH6",
+      "title": "Retro Bowl",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511902032917069.jpeg",
+      "metacritic": 84,
+      "price": 0.34,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-02-10",
+      "categories": [
+        "Arcade",
+        "Role-playing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/lufojonADH6"
+    },
+    {
+      "id": "zlBPPdidzF",
+      "title": "Pinball Big Splash",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513530538911316.jpeg",
+      "metacritic": null,
+      "price": 2.51,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-26",
+      "categories": [
+        "Arcade",
+        "Board game",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/zlBPPdidzF"
+    },
+    {
+      "id": "cvfwVE1bUvQ",
+      "title": "Hentai Golf",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508522612518143.jpeg",
+      "metacritic": null,
+      "price": 4.84,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-12-15",
+      "categories": [
+        "Sports",
+        "Action",
+        "Simulation",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/cvfwVE1bUvQ"
+    },
+    {
+      "id": "6vDavHF1LKF",
+      "title": "Reel Fishing®: Days of Summer",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506641827319438.jpeg",
+      "metacritic": null,
+      "price": 16.09,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-10-31",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/6vDavHF1LKF"
+    },
+    {
+      "id": "emfju5Q2sL0",
+      "title": "Super Soccer Blast: America VS Europe",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513209505014241.jpeg",
+      "metacritic": null,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-06-24",
+      "categories": [
+        "Arcade",
+        "Sports",
+        "Simulation",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/emfju5Q2sL0"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kAoLm6ihsej#currency-price",
+      "priceCurrency": "USD",
+      "price": "44.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kAoLm6ihsej#currency-price",
+      "priceCurrency": "EUR",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:42+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kAoLm6ihsej#currency-price",
+      "priceCurrency": "GBP",
+      "price": "34.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:42+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 38.49,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 38.49,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 38.49,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/kAoLm6ihsej",
+    "price_track": "https://www.gamegulf.com/detail/kAoLm6ihsej#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 988910,
+      "name": "Super Mega Baseball 3",
+      "developer": [
+        "Metalhead Software Inc."
+      ],
+      "publisher": [
+        "Electronic Arts"
+      ],
+      "metacritic_score": 80,
+      "metacritic_url": "https://www.metacritic.com/game/pc/super-mega-baseball-3?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Shared/Split Screen PvP",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "Simulation",
+        "Sports"
+      ],
+      "steam_price": "HK$ 188.00",
+      "total_recommendations": 1826,
+      "short_description": "Run up the score in a relaxed slugfest or push the limits of your reflexes in this refined baseball simulator. The third entry in the series features all-new Franchise and Online Leagues modes, major graphical enhancements, and on-field additions including pickoffs and situational player traits.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 1909,
+        "total_negative": 182,
+        "total_reviews": 2091,
+        "score_description": "Very Positive",
+        "positive_percent": 91
+      }
+    },
+    "hltb": null
+  }
+}

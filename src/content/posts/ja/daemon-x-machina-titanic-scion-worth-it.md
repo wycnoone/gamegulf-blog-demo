@@ -61,7 +61,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - "Daemon X Machina: Titanic Scion sale bi…"
@@ -139,13 +139,13 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ドイツ | JPY 6548 | €69.99 |
-| スペイン | JPY 6548 | €69.99 |
-| ポルトガル | JPY 6548 | €69.99 |
-| 香港 | JPY 8749 | HK$428 |
-| ブラジル | JPY 8786 | R$279.99 |
-| 日本 | JPY 8895 | ¥8,800 |
-| アメリカ合衆国 | JPY 11206 | $69.99 |
+| ドイツ | JPY 6536 | €69.99 |
+| スペイン | JPY 6536 | €69.99 |
+| ポルトガル | JPY 6536 | €69.99 |
+| 香港 | JPY 8733 | HK$428 |
+| ブラジル | JPY 8771 | R$279.99 |
+| 日本 | JPY 8879 | ¥8,800 |
+| アメリカ合衆国 | JPY 11186 | $69.99 |
 
 ## 『Daemon X Machina: Titanic Scion』はどんなゲーム？
 

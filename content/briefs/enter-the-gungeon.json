@@ -1,0 +1,716 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/gl15YolAnF2",
+    "game_id": "gl15YolAnF2",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Enter the Gungeon",
+    "description": "Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past. Select a hero [or team up in co-op] and battle your way to the bottom of the Gungeon by surviving a challenging and evolving series of floors filled with the dangerously adorable Gundead and fearsome Gungeon bosses armed to the teeth. Gather precious loot, discover hidden secrets, and chat with opportunistic merchants and shopkeepers to purchase powerful items to gain an edge.\n\nThe Gungeon: Enter the Gungeon – a constantly evolving bullet hell fortress that elegantly blends meticulously hand-designed rooms within a procedurally-generated labyrinth bent on destroying all that enter its walls. But beware – the Gungeon responds to even the most modest victory against its sentries and traps by raising the stakes and the challenges found within! \n\nThe Cult of the Gundead: The Gungeon isn’t just traps and chasms – calm your nerves and steady your aim as you face down the gun-totting Cult of the Gundead. These disciples of the gun will stop at nothing to put down the heroes in their tracks and employ any tactics necessary to defend their temple.\n\nThe Gungeoneers: Choose between one of several unlikely heroes, each burdened by a deep regret and in search of a way to change their past, no matter the cost. Filled with equal parts courage and desperation, these adventurers won’t hesitate to dive across flaming walls, roll through a wall of bullets, or take cover behind whatever is around to make it to their goal alive!\n\nThe Guns: Discover and unlock scores of uniquely fantastic guns to annihilate all that oppose you in the Gungeon – each carrying their own unique tactics and ammunition. Unleash everything from the tried and true medley of missiles, lasers, and cannonballs to the bizarrely effective volley of rainbows, fish, foam darts, and bees! Yep, bees.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274583514441.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274583514441.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274763614305.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274762718396.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274763914942.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274761413967.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274765810871.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517274991111490.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Shooter"
+    ],
+    "release_date": "2017-12-14",
+    "developer": "Dodge Roll",
+    "publisher": "Devolver Digital",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 7.88,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 7.88
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 8.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.1
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 12.63,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.63
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-05",
+              "country_code": "JP",
+              "value": 1.62,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "BR",
+              "value": 7.88,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-05",
+              "country_code": "GB",
+              "value": 3.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-30",
+              "country_code": "DE",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "DE",
+              "value": 3.49,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 2.01,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-09",
+              "country_code": "PT",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "GB",
+              "value": 12.63,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-20",
+              "country_code": "BR",
+              "value": 7.88,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-05",
+              "country_code": "JP",
+              "value": 1.62,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "BR",
+              "value": 7.88,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-04",
+              "country_code": "GB",
+              "value": 3.15,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-07-20",
+              "country_code": "GB",
+              "value": 12.63,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-07-21",
+              "country_code": "GB",
+              "value": 3.15,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-05",
+              "country_code": "GB",
+              "value": 3.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-30",
+              "country_code": "DE",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "DE",
+              "value": 3.49,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 2.01,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-09",
+              "country_code": "PT",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "GB",
+              "value": 12.63,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-20",
+              "country_code": "BR",
+              "value": 7.88,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-05",
+              "country_code": "JP",
+              "value": 1.62,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "BR",
+              "value": 7.88,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "aR3bKFvWMXU",
+      "title": "Exit the Gungeon",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515063125219556.jpeg",
+      "metacritic": 68,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-03-17",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/aR3bKFvWMXU"
+    },
+    {
+      "id": "jPwZPk62kF3",
+      "title": "Enter the Dodgeball",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502889058816169.jpeg",
+      "metacritic": null,
+      "price": 1.16,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2026-03-19",
+      "categories": [
+        "Action",
+        "Lifestyle",
+        "Sports",
+        "Training",
+        "Utility",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/jPwZPk62kF3"
+    },
+    {
+      "id": "dm86GCKPzG2",
+      "title": "Metroid Prime™ Remastered",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510188972211467.jpeg",
+      "metacritic": 94,
+      "price": 23.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-03",
+      "categories": [
+        "Action",
+        "First-person",
+        "Shooter",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2"
+    },
+    {
+      "id": "f4EfdeaIHdl",
+      "title": "Red Colony",
+      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/12/174174153505916085.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-01-07",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/f4EfdeaIHdl"
+    },
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
+      "metacritic": 72,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "6 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "2DnaPGYGeNp",
+      "title": "DUSK",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg",
+      "metacritic": 88,
+      "price": 1.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/2DnaPGYGeNp"
+    },
+    {
+      "id": "8g92xCnI6tv",
+      "title": "Anyaroth: The Queen's Tyranny",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509929555715941.jpeg",
+      "metacritic": null,
+      "price": 1.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-30",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Other",
+        "Shooter",
+        "Racing"
+      ],
+      "url": "https://www.gamegulf.com/detail/8g92xCnI6tv"
+    },
+    {
+      "id": "81UgB7rP66E",
+      "title": "The True",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513638626611561.jpeg",
+      "metacritic": null,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-11",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/81UgB7rP66E"
+    },
+    {
+      "id": "8grlxCEcxxP",
+      "title": "Thy Creature",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508600528813015.jpeg",
+      "metacritic": null,
+      "price": 0.14,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-30",
+      "categories": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/8grlxCEcxxP"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gl15YolAnF2#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gl15YolAnF2#currency-price",
+      "priceCurrency": "EUR",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gl15YolAnF2#currency-price",
+      "priceCurrency": "GBP",
+      "price": "10.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gl15YolAnF2#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1500.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gl15YolAnF2#currency-price",
+      "priceCurrency": "BRL",
+      "price": "46.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gl15YolAnF2#currency-price",
+      "priceCurrency": "ARS",
+      "price": "7299.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:12+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 7.88,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 1.62,
+        "region": "JP",
+        "date": "2026-04-05"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 1.62,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-04-05"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 7,
+      "avg_discount_price_eur": 4.84,
+      "sale_periods": [
+        {
+          "start": "2025-06-04",
+          "end": "2025-06-04"
+        },
+        {
+          "start": "2025-07-21",
+          "end": "2025-11-05"
+        },
+        {
+          "start": "2025-12-18",
+          "end": "2025-12-22"
+        },
+        {
+          "start": "2026-04-05",
+          "end": "2026-04-05"
+        }
+      ],
+      "days_since_last_discount": 17,
+      "last_discount": {
+        "date": "2026-04-05",
+        "price_eur": 1.62,
+        "region": "Japan",
+        "drop_pct": 79
+      },
+      "trend_entries_count": 12,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/gl15YolAnF2",
+    "price_track": "https://www.gamegulf.com/detail/gl15YolAnF2#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 311690,
+      "name": "Enter the Gungeon",
+      "developer": [
+        "Dodge Roll"
+      ],
+      "publisher": [
+        "Devolver Digital"
+      ],
+      "metacritic_score": 84,
+      "metacritic_url": "https://www.metacritic.com/game/pc/enter-the-gungeon?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "$14.99",
+      "total_recommendations": 78144,
+      "short_description": "Enter the Gungeon is a bullet hell dungeon crawler following a band of misfits seeking to shoot, loot, dodge roll and table-flip their way to personal absolution by reaching the legendary Gungeon’s ultimate treasure: the gun that can kill the past.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 84263,
+        "total_negative": 4193,
+        "total_reviews": 88456,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 95
+      }
+    },
+    "hltb": null
+  }
+}

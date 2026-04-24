@@ -1,4 +1,4 @@
-import type { QuickFilterKey } from '@/lib/blog';
+import type { QuickFilterKey } from '@/lib/blog-shared';
 import type { BlogLocale } from '@/lib/i18n';
 import { t } from '@/lib/translations';
 

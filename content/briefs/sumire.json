@@ -1,0 +1,625 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/4LnuQj83T6c",
+    "game_id": "4LnuQj83T6c",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Sumire",
+    "description": "Sumire is an indie narrative adventure, featuring a one-day journey through a picturesque Japanese village. In this enchanted place, a disenchanted girl named Sumire meets a mischievous spirit who makes her a deal to fulfill her most desired wish.\nBut in order to see this wish come true, she must complete a series of tasks in return, before night falls and this special day reaches its end.\n\n■Follow Sumire on a series of quests both big and small, given by charming forest creatures, quirky townspeople, and Sumire's own heartfelt needs.\n■Take or refuse them, but be wary: as the day progresses, your path will change and you may never get the same chance again.\n■Discover collectibles, bonus items, tests of skill, and other challenges -- some hidden, some not.\n■Explore a variety of lush, beautiful environments rendered in a painterly style.\n■A one day time limit. With the sky changing from the promise of morning to the soft twilight, all choices are finished when the sky turns to violet.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513298882511153.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513298882511153.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513299053713644.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513299061118660.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513299059711183.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513299059110442.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513299050314226.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513299229611429.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Communication",
+      "Lifestyle",
+      "Other"
+    ],
+    "release_date": "2021-05-27",
+    "developer": "GameTomo Team",
+    "publisher": "GameTomo",
+    "metacritic": 86
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 5.35,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 5.35
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 8.41,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.41
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 8.54,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.54
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 8.55,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.55
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 12.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 12.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 12.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 12.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 12.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 13.44,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.44
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-06",
+              "country_code": "DE",
+              "value": 12.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "HK",
+              "value": 8.41,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "JP",
+              "value": 5.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 0.75,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-12",
+              "country_code": "GB",
+              "value": 13.44,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 8.54,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "FR",
+              "value": 1.81,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "DE",
+              "value": 12.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "HK",
+              "value": 8.41,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "JP",
+              "value": 5.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-20",
+              "country_code": "JP",
+              "value": 5.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-05-21",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "JP",
+              "value": 5.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-24",
+              "country_code": "JP",
+              "value": 0.64,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 0.75,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-12",
+              "country_code": "GB",
+              "value": 13.44,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 8.54,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "FR",
+              "value": 1.81,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "DE",
+              "value": 12.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "HK",
+              "value": 8.41,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "JP",
+              "value": 5.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "FR",
+          "value": 12.99,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 8.55,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "9c0to3Qwzzc",
+      "title": "Geisha's Heart: Romance Among the Cherry Blossoms",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503805643515806.jpeg",
+      "metacritic": null,
+      "price": 21.38,
+      "discount_price": 8.55,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "23 days",
+      "release_date": "2025-11-27",
+      "categories": [
+        "Simulation",
+        "Communication",
+        "Adventure",
+        "Other",
+        "Lifestyle",
+        "Utility"
+      ],
+      "url": "https://www.gamegulf.com/detail/9c0to3Qwzzc"
+    },
+    {
+      "id": "26DBPxGUX2w",
+      "title": "Outbound",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502654469112095.jpeg",
+      "metacritic": null,
+      "price": 12.01,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2026-04-23",
+      "categories": [
+        "Adventure",
+        "Lifestyle",
+        "Simulation",
+        "Other",
+        "Music",
+        "Communication",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/26DBPxGUX2w"
+    },
+    {
+      "id": "lgLANTzSNQL",
+      "title": "Spa Massage Boys: Love & Relax",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502941044314453.jpeg",
+      "metacritic": null,
+      "price": 21.3,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2026-03-12",
+      "categories": [
+        "Simulation",
+        "Communication",
+        "Adventure",
+        "Other",
+        "Lifestyle",
+        "Puzzle",
+        "Utility"
+      ],
+      "url": "https://www.gamegulf.com/detail/lgLANTzSNQL"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4LnuQj83T6c#currency-price",
+      "priceCurrency": "USD",
+      "price": "9.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4LnuQj83T6c#currency-price",
+      "priceCurrency": "EUR",
+      "price": "12.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4LnuQj83T6c#currency-price",
+      "priceCurrency": "GBP",
+      "price": "11.69",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4LnuQj83T6c#currency-price",
+      "priceCurrency": "JPY",
+      "price": "990.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4LnuQj83T6c#currency-price",
+      "priceCurrency": "HKD",
+      "price": "77.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4LnuQj83T6c#currency-price",
+      "priceCurrency": "BRL",
+      "price": "50.95",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:35+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 5.35,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 12.99,
+        "region": "FR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 8.55,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 0.64,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-09-24"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 6,
+      "avg_discount_price_eur": 4.26,
+      "sale_periods": [
+        {
+          "start": "2025-05-21",
+          "end": "2025-05-21"
+        },
+        {
+          "start": "2025-09-24",
+          "end": "2025-12-24"
+        },
+        {
+          "start": "2026-03-19",
+          "end": "2026-03-19"
+        }
+      ],
+      "days_since_last_discount": 1,
+      "last_discount": {
+        "date": "2026-04-21",
+        "price_eur": 5.35,
+        "region": "Japan",
+        "drop_pct": 36
+      },
+      "trend_entries_count": 12,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/4LnuQj83T6c",
+    "price_track": "https://www.gamegulf.com/detail/4LnuQj83T6c#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1335230,
+      "name": "Sumire",
+      "developer": [
+        "GameTomo Team"
+      ],
+      "publisher": [
+        "GameTomo Co., Ltd."
+      ],
+      "metacritic_score": 78,
+      "metacritic_url": "https://www.metacritic.com/game/pc/sumire?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "steam_price": "$5.99",
+      "total_recommendations": 855,
+      "short_description": "One Day, One Life. Sumire is a magical narrative adventure about choices made, and dreams lost and found. Embark on a mysterious journey to help Sumire achieve her deepest wishes, before the day ends and the sky turns to twilight.",
+      "supported_languages": "English, Japanese, French, Simplified Chinese, Traditional Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 883,
+        "total_negative": 43,
+        "total_reviews": 926,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 95
+      }
+    },
+    "hltb": null
+  }
+}

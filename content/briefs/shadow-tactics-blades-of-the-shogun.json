@@ -1,0 +1,570 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/3pCi8QDLHfn",
+    "game_id": "3pCi8QDLHfn",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Shadow Tactics: Blades of the Shogun",
+    "description": "Shadow Tactics is a hardcore tactical stealth game set in Japan around the Edo period.\n\nTake control of a team of deadly specialists and sneak in the shadows between dozens of enemies. Choose your approach when infiltrating mighty castles, snowy mountain monasteries or hidden forest camps. Set traps, poison your opponents or completely avoid enemy contact.\n\nThe group is composed of very different personalities. Working together as a team seems impossible at first. Yet over the course of many missions, trust is won and friendships are made. The characters develop their own dynamic and each member will have to face their own personal demons.\n\nThe player has to carefully evaluate his options in order to master the challenging missions: how will the characters behave as a team? Which one is best equipped for each task? How can they best master the given missions? Come up with your own ingenious tactics to vanquish enemies and complete missions.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502903220810287.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502903220810287.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502903368510275.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502903490810637.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502903366617040.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502903361811560.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502903403512749.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Strategy"
+    ],
+    "release_date": "2026-03-18",
+    "developer": "Mimimi Games",
+    "publisher": "Daedalic Entertainment",
+    "metacritic": 85
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 39.99,
+          "discount_price": 31.99,
+          "discount_rate": 20,
+          "discount_end": "2026-05-18 21:59:59",
+          "discount_end_timestamp": 1779141599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 31.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 39.99,
+          "discount_price": 31.99,
+          "discount_rate": 20,
+          "discount_end": "2026-05-18 22:59:59",
+          "discount_end_timestamp": 1779145199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 31.99
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.21
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 37.35,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 37.35
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 37.73,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 37.73
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-06",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-20",
+              "country_code": "IT",
+              "value": 31.99,
+              "currency": "EUR",
+              "country": "Italy"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-20",
+              "country_code": "BR",
+              "value": 37.73,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-20",
+              "country_code": "IT",
+              "value": 31.99,
+              "currency": "EUR",
+              "country": "Italy"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-20",
+              "country_code": "BR",
+              "value": 37.73,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-20",
+              "country_code": "IT",
+              "value": 31.99,
+              "currency": "EUR",
+              "country": "Italy"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "IT",
+          "value": 31.99,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 34.21,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "dHcuG11zfW2",
+      "title": "Shadow Tactics: Blades of the Shogun - Aiko's Choice",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502904817513429.jpeg",
+      "metacritic": null,
+      "price": 19.99,
+      "discount_price": 15.99,
+      "discount_rate": 20,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "27 days",
+      "release_date": "2026-03-18",
+      "categories": [
+        "Action",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/dHcuG11zfW2"
+    },
+    {
+      "id": "ehV6IA8PIYB",
+      "title": "Volta-X",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514476966411068.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-12",
+      "categories": [
+        "Action",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/ehV6IA8PIYB"
+    },
+    {
+      "id": "1O9950t4YQ5",
+      "title": "Door Kickers: Action Squad",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515512506913414.jpeg",
+      "metacritic": null,
+      "price": 8.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-10-28",
+      "categories": [
+        "Action",
+        "Strategy",
+        "Shooter",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/1O9950t4YQ5"
+    },
+    {
+      "id": "gLkDoa1UGVA",
+      "title": "Highlaundry Overwashed - Play with your friends!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507643876914720.jpeg",
+      "metacritic": null,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-24",
+      "categories": [
+        "Party",
+        "Utility",
+        "Strategy",
+        "Action",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/gLkDoa1UGVA"
+    },
+    {
+      "id": "5eB336c9LhC",
+      "title": "Overcooked! All You Can Eat",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513564135811401.jpeg",
+      "metacritic": 87,
+      "price": 22.14,
+      "discount_price": 6.64,
+      "discount_rate": 70,
+      "discount_tag": "Normal",
+      "discount_end": "4 days",
+      "release_date": "2021-07-21",
+      "categories": [
+        "Simulation",
+        "Strategy",
+        "Action",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/5eB336c9LhC"
+    },
+    {
+      "id": "23lHeDBgYEs",
+      "title": "S.O.L Search of Light",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507840333618122.jpeg",
+      "metacritic": null,
+      "price": 10.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-25",
+      "categories": [
+        "Action",
+        "Training",
+        "Other",
+        "Adventure",
+        "Platformer",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/23lHeDBgYEs"
+    },
+    {
+      "id": "byey3kix9ma",
+      "title": "Special Forces Strike: Tactical Swat Shooter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508034716519503.jpeg",
+      "metacritic": null,
+      "price": 2.56,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-21",
+      "categories": [
+        "Shooter",
+        "Action",
+        "Simulation",
+        "First-person",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/byey3kix9ma"
+    },
+    {
+      "id": "jNsE1q7UceS",
+      "title": "Chess Brain",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512266289716123.jpeg",
+      "metacritic": null,
+      "price": 0.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-11",
+      "categories": [
+        "Board game",
+        "Puzzle",
+        "Strategy",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/jNsE1q7UceS"
+    },
+    {
+      "id": "9LhexgMA0RR",
+      "title": "Nexomon",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512539308818717.jpeg",
+      "metacritic": null,
+      "price": 4.75,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-01",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Fighting",
+        "Action",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9LhexgMA0RR"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3pCi8QDLHfn#currency-price",
+      "priceCurrency": "USD",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:23+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3pCi8QDLHfn#currency-price",
+      "priceCurrency": "BRL",
+      "price": "225.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:23+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3pCi8QDLHfn#currency-price",
+      "priceCurrency": "ARS",
+      "price": "56959.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:23+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3pCi8QDLHfn#currency-price",
+      "priceCurrency": "EUR",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:23+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3pCi8QDLHfn#currency-price",
+      "priceCurrency": "GBP",
+      "price": "32.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:23+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 31.99,
+        "region": "Italy",
+        "country_code": "IT"
+      },
+      "global_low": {
+        "price_eur": 31.99,
+        "region": "IT",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 34.21,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 31.99,
+        "region": "IT",
+        "country": "Italy",
+        "date": "2026-04-20"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 33.1,
+      "sale_periods": [],
+      "days_since_last_discount": 1,
+      "last_discount": {
+        "date": "2026-04-20",
+        "price_eur": 31.99,
+        "region": "Italy",
+        "drop_pct": 6
+      },
+      "trend_entries_count": 3,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/3pCi8QDLHfn",
+    "price_track": "https://www.gamegulf.com/detail/3pCi8QDLHfn#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 418240,
+      "name": "Shadow Tactics: Blades of the Shogun",
+      "developer": [
+        "Mimimi Games"
+      ],
+      "publisher": [
+        "Daedalic Entertainment"
+      ],
+      "metacritic_score": 85,
+      "metacritic_url": "https://www.metacritic.com/game/pc/shadow-tactics-blades-of-the-shogun?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Indie",
+        "Strategy"
+      ],
+      "steam_price": "$3.99",
+      "total_recommendations": 30601,
+      "short_description": "Shadow Tactics is a hardcore tactical stealth game set in Japan around the Edo period. A new Shogun seizes power over Japan and enforces nationwide peace. In his battle against conspiracy and rebellion, he recruits five specialists with extraordinary skills for assassination, sabotage and espionage.",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese<strong>*</strong>, Polish, Russian, Korean, Simplified Chinese, Portuguese - Brazil, Italian, Traditional Chinese, Turkish<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 36649,
+        "total_negative": 1520,
+        "total_reviews": 38169,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 96
+      }
+    },
+    "hltb": null
+  }
+}

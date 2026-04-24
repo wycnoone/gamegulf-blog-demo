@@ -61,7 +61,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - Shadow Labyrinth sale bingo
@@ -143,14 +143,14 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 4003 | ¥3,960 |
-| ブラジル | JPY 4692 | R$149.5 |
-| アメリカ合衆国 | JPY 4802 | $29.99 |
-| 香港 | JPY 4884 | HK$239 |
-| イギリス | JPY 5377 | £24.99 |
-| ドイツ | JPY 5612 | €29.99 |
-| スペイン | JPY 5612 | €29.99 |
-| フランス | JPY 5612 | €29.99 |
+| 日本 | JPY 3996 | ¥3,960 |
+| ブラジル | JPY 4683 | R$149.5 |
+| アメリカ合衆国 | JPY 4794 | $29.99 |
+| 香港 | JPY 4876 | HK$239 |
+| イギリス | JPY 5367 | £24.99 |
+| ドイツ | JPY 5602 | €29.99 |
+| スペイン | JPY 5602 | €29.99 |
+| フランス | JPY 5602 | €29.99 |
 
 ## 『Shadow Labyrinth』はどんなゲーム？
 

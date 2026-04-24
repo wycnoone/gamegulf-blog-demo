@@ -1,0 +1,732 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/fjc0WzBHx4A",
+    "game_id": "fjc0WzBHx4A",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Kaiju Wars",
+    "description": "Play out a Kaiju movie as the mayor of Floatio city, tasked with holding off the overwhelming strength of a Kaiju attack with (hopelessly) outclassed military. Defend your city as five unique and devastating Kaiju grow in power with every attack. Unfortunately, they can't be killed, but can be slowed down and forced to fall back... for now.\n\nMonsters move towards the nearest building, and the scientists have mathed the exact odds of where they might go next. Build sacrificial army bases and airfields to distract the Kaiju. If standard methods aren't enough, deploy experimental weapons such as freeze rays and transforming mechas to keep them at bay. Or you can always park tanks and jets in the monsters’ path to slow them down (don't worry, we have a good insurance policy). If all your efforts fail, don't be ashamed and run away! Be prepared to evacuate the laboratory using transport trucks, boats, or planes when the Kaiju get too close.\n\nPlay missions from all over the world as you progress through the fight against Kaiju in a 15+ hour story-based campaign. Throughout the campaign, you’ll have the chance to gain an advantage with upgradeable ACE units and Project Deck customization. Test your wits in tactical puzzles, command dozens of units in large-scale scenarios, and fend off repeated attacks in defense missions while developing your city economically. And if you’re hungry for more, test your command skills in weekly challenges!\n\nFeatures: \n\nProtect your city in a tactical battle with cannon-fodder tanks, jets, and more... unusual firepower.\n\nFace five different Kaiju - each with unique skills and potential for mutation.\n\nImmersive gameplay - enjoy the narrative-driven gameplay with a plethora of dialogues between historical \ncharacters throughout each operation. The tone of the interactions is affected by your choices.\n\nDo everything to stop the monsters, including sacrificing your units and buildings.\n\nRemember that you can’t kill Kaiju - you can only slow them down.\n\nDefend cities around the world in 15+ hours of campaign mode.\n\nProve your command capabilities in weekly challenges.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510430911618150.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510430911618150.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510431168512573.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510431161413285.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510431224510380.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510431161316047.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510431150316789.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510431379910002.jpeg"
+    ],
+    "genres": [
+      "Strategy",
+      "Platformer",
+      "Role-playing",
+      "Racing",
+      "Board game",
+      "Simulation"
+    ],
+    "release_date": "2022-12-20",
+    "developer": "Foolish Mortals Games, Michael Long",
+    "publisher": "Klabater",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 12.42,
+          "discount_price": 2.11,
+          "discount_rate": 83,
+          "discount_end": "2026-04-22 14:59:59",
+          "discount_end_timestamp": 1776869999,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 2.11
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 11.74,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.74
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.68
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "BR",
+              "value": 11.74,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-30",
+              "country_code": "IT",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-10-27",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-10-28",
+              "country_code": "FR",
+              "value": 5.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-11-05",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-06",
+              "country_code": "JP",
+              "value": 12.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "IT",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "BR",
+              "value": 11.74,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-30",
+              "country_code": "IT",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-27",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-05-28",
+              "country_code": "FR",
+              "value": 5.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-06-11",
+              "country_code": "JP",
+              "value": 3.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-07-17",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-18",
+              "country_code": "FR",
+              "value": 5.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-30",
+              "country_code": "JP",
+              "value": 2.43,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-04",
+              "country_code": "BR",
+              "value": 11.74,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-09-07",
+              "country_code": "FR",
+              "value": 5.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-09-17",
+              "country_code": "JP",
+              "value": 2.43,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-27",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-10-28",
+              "country_code": "FR",
+              "value": 5.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-11-05",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-06",
+              "country_code": "JP",
+              "value": 12.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "IT",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "BR",
+              "value": 11.74,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-30",
+              "country_code": "IT",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "JP",
+              "value": 2.11,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 2.11,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "g9WPG9QktMD",
+      "title": "KAIJU KHAOS",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515690739716371.jpeg",
+      "metacritic": null,
+      "price": 1.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-09-06",
+      "categories": [
+        "Arcade",
+        "Action",
+        "Adventure",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/g9WPG9QktMD"
+    },
+    {
+      "id": "hlw8PNpsj2Z",
+      "title": "Ultra Kaiju Monster Rancher",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510749170218339.jpeg",
+      "metacritic": 74,
+      "price": 19.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-10-19",
+      "categories": [
+        "Simulation",
+        "Role-playing",
+        "Adventure",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hlw8PNpsj2Z"
+    },
+    {
+      "id": "kn5mj1L1eDh",
+      "title": "Kaichu: The Kaiju Dating Sim",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510980749810173.jpeg",
+      "metacritic": null,
+      "price": 0.31,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-07",
+      "categories": [
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/kn5mj1L1eDh"
+    },
+    {
+      "id": "gKDZLhkqBNP",
+      "title": "Kaiju Big Battel: Fighto Fantasy",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505223013717986.jpeg",
+      "metacritic": null,
+      "price": 12.33,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-05-14",
+      "categories": [
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/gKDZLhkqBNP"
+    },
+    {
+      "id": "ixRAeOqFEvn",
+      "title": "Sausage Wars",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510590496011747.jpeg",
+      "metacritic": null,
+      "price": 4.99,
+      "discount_price": 1.99,
+      "discount_rate": 60,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2022-11-11",
+      "categories": [
+        "Arcade",
+        "Fighting",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/ixRAeOqFEvn"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fjc0WzBHx4A#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:25+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fjc0WzBHx4A#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2300.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:25+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fjc0WzBHx4A#currency-price",
+      "priceCurrency": "BRL",
+      "price": "69.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:25+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fjc0WzBHx4A#currency-price",
+      "priceCurrency": "ARS",
+      "price": "4900.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:25+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fjc0WzBHx4A#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:25+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fjc0WzBHx4A#currency-price",
+      "priceCurrency": "GBP",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:25+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 2.11,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 2.11,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 2.11,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-11-05"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 15,
+      "avg_discount_price_eur": 4.47,
+      "sale_periods": [],
+      "days_since_last_discount": 20,
+      "last_discount": {
+        "date": "2026-04-01",
+        "price_eur": 2.11,
+        "region": "Japan",
+        "drop_pct": 58
+      },
+      "trend_entries_count": 22,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/fjc0WzBHx4A",
+    "price_track": "https://www.gamegulf.com/detail/fjc0WzBHx4A#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1508400,
+      "name": "Kaiju Wars",
+      "developer": [
+        "Foolish Mortals Games",
+        "Michael Long"
+      ],
+      "publisher": [
+        "Foolish Mortals Games"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Shared/Split Screen PvP",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Includes level editor",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Indie",
+        "Strategy"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 223,
+      "short_description": "Play out a Kaiju movie as the (hopelessly) outclassed military in this stylish 2D turn-based strategy game. Construct buildings and defend your city with cannon-fodder tanks, jets and more as the devastating kaiju grow in power with every attack.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Korean<strong>*</strong>, Portuguese - Brazil<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 206,
+        "total_negative": 63,
+        "total_reviews": 269,
+        "score_description": "Mostly Positive",
+        "positive_percent": 77
+      }
+    },
+    "hltb": null
+  }
+}

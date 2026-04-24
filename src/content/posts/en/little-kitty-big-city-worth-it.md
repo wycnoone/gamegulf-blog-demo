@@ -178,14 +178,14 @@ From a pricing perspective, it is not at historical low. Indexed rows currently 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Spain | USD 17.55 | €14.99 |
-| Brazil | USD 18.21 | R$92.45 |
-| Japan | USD 22.16 | ¥3,480 |
-| Hong Kong | USD 23.35 | HK$180 |
-| United States | USD 25.40 | $24.99 |
-| Germany | USD 29.27 | €24.99 |
-| France | USD 29.27 | €24.99 |
-| Italy | USD 29.27 | €24.99 |
+| Spain | USD 17.59 | €14.99 |
+| Brazil | USD 18.24 | R$92.45 |
+| Japan | USD 22.20 | ¥3,480 |
+| Hong Kong | USD 23.40 | HK$180 |
+| United States | USD 25.45 | $24.99 |
+| Germany | USD 29.32 | €24.99 |
+| France | USD 29.32 | €24.99 |
+| Italy | USD 29.32 | €24.99 |
 
 The tracked discount history shows two discount events in one year, average discount-level pricing near €17.75, and a historical low at €11.35. That pattern supports a practical decision: fair to buy now for fit, reasonable to wait for deal-first buyers.
 

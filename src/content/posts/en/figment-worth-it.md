@@ -192,11 +192,11 @@ April 2026 **pricing** is unusually friendly: indexed data flags **Japan near �
 | Japan | USD 0.63 | ¥2,200 |
 | United States | USD 2.03 | $19.99 |
 | Brazil | USD 2.37 | R$99.99 |
-| Hong Kong | USD 19.32 | HK$149 |
-| Germany | USD 23.41 | €19.99 |
-| Spain | USD 23.41 | €19.99 |
-| France | USD 23.41 | €19.99 |
-| Italy | USD 23.41 | €19.99 |
+| Hong Kong | USD 19.36 | HK$149 |
+| Germany | USD 23.45 | €19.99 |
+| Spain | USD 23.45 | €19.99 |
+| France | USD 23.45 | €19.99 |
+| Italy | USD 23.45 | €19.99 |
 
 Tracked **discount** history reinforces the value story: the **deepest historical low** in this feed aligns with the **current** promo band, **average sale prices** sit near **€0.77**, and the last notable move landed **18 days** ago (**Japan**, **20 March 2026**, **~45% drop** in the tracker). Translation: **waiting** rarely buys you better math — it mostly buys you **risk of MSRP**. Confirm **your** account on the [live pricing grid](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) because **promo timing** still varies by region.
 

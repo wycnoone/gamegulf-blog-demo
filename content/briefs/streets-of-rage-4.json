@@ -1,0 +1,753 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/jdeP21BUeOV",
+    "game_id": "jdeP21BUeOV",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Streets of Rage 4",
+    "description": "Amongst the best beat’em up series ever created, jammin’ ‘90s beats and over the top street beating, the iconic series Streets of Rage comes back with a masterful tribute to and revitalization of the classic action fans adore.\n\nThe all-time classic Streets of Rage, known as Bare Knuckle (ベア・ナックル Bea Nakkuru) in Japan, is a beat ‘em up series known for this timeless gameplay and electronic dance influenced music. Streets of Rage 4 builds upon the classic trilogy’s gameplay with new mechanics, beautiful hand-drawn visuals and a God tier soundtrack.\n\nTeam up with iconic and brand-new characters\n\nStreets of Rage 4 got its iconic characters back: Axel, Blaze, and Adam teaming up with new brother and sister in arms Floyd Iraia and Cherry Hunter. With some brand-new moves and kickass tracks to take a listen, our heroes are ready to dish out beatdowns to a fledgling group of ill-advised criminals in full force.\n\nNostalgia strikes again \n\nOne of your dreams is coming true. In addition to the 5 new characters, unlock and play your favorite pixelated characters from the previous Streets of Rage games such as Axel, Adam, Blaze, Skate, Max and many more with their own retro SFX, in gorgeous HD hand-drawn urban environments. And for the full nostalgic experience, you will also be able to play with the music of the previous Streets of Rage games!\n\nOutstanding Hand-Drawn Visuals\n\nStreets of Rage 4 will be the first entry to the core series in 25 years, standing as Axel, Adam or Blaze’s glorious return to serving up side-scrolling beatdowns. With lush hand-drawn animations, new combat abilities, and fresh tracks from an amazing team of composers, Streets of Rage 4 will be a masterful tribute to and revitalization of the classic action fans adore.\n\nEpic line-up of legendary games composers \n\nThe Streets of Rage series is known for its electronic dance influenced music around the world. \n\nLed by Olivier Derivière the soundtrack of Streets of Rage 4 will be composed by not only an all-star ensemble of Japanese memorable musical architects in the video game history but also by 4 Western rising stars:\n\n●\tYūzō Koshiro \n●\tMotohiro Kawashima \n●\tYoko Shimomura\n●\tHarumi Fujita\n●\tKeiji Yamagishi \n●\tScattle\n●\tDas Mörtal \n●\tXL Middleton\n●\tGroundislava\n\nFeatures\n\n● The comeback of the legendary Streets of Rage series.\n● Beautiful graphics fully hand-drawn animated by the studio behind Wonder Boy: The Dragon’s Trap.\n● Clean up Wood Oak City by yourself or with another friend online !\n● Team up to 4 people offline to take the city back for the very first time!\n● Classic gameplay enhanced with brand-new mechanics.\n● Soundtrack by a wide all-star line up of world-class musicians.\n● Braised chicken everywhere.\n● A dozen former Streets of Rage characters unlockable and playable in their original pixel versions.\n● Play with the music of the previous Streets of Rage games.\n● 12 unique stages.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514901724118254.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514901724118254.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514901956611796.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514901941311443.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514901936513860.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514901936811176.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514901939019121.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514902118511836.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Arcade",
+      "Fighting",
+      "Adventure"
+    ],
+    "release_date": "2020-04-30",
+    "developer": "Dotemu, Guard Crush, Lizardcube",
+    "publisher": "Dotemu",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 14.04,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.04
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 20.53,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.53
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.38
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 25.85,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.85
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 20.53,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "ES",
+              "value": 7.49,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-04-13",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-20",
+              "country_code": "PT",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 8.74,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "JP",
+              "value": 4.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-06",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "JP",
+              "value": 4.21,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 20.53,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "ES",
+              "value": 7.49,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-04-13",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-08",
+              "country_code": "JP",
+              "value": 5.61,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-06-26",
+              "country_code": "US",
+              "value": 7.48,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-07-20",
+              "country_code": "JP",
+              "value": 4.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-08-04",
+              "country_code": "US",
+              "value": 7.48,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-10-04",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-09",
+              "country_code": "JP",
+              "value": 4.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-20",
+              "country_code": "PT",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 8.74,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "JP",
+              "value": 4.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-06",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "JP",
+              "value": 4.21,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 20.53,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "ES",
+              "value": 7.49,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-04-13",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "ES",
+          "value": 24.99,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 21.38,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "4GMmsCfh2bR",
+      "title": "Katana Kata",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513654512316372.jpeg",
+      "metacritic": null,
+      "price": 12.74,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-02-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/4GMmsCfh2bR"
+    },
+    {
+      "id": "2v4a6fRJegL",
+      "title": "Super Mega Zero",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511612837511648.jpeg",
+      "metacritic": null,
+      "price": 5.11,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-04-21",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/2v4a6fRJegL"
+    },
+    {
+      "id": "9sDNeuiqIyt",
+      "title": "Berserk Boy",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508134138810367.jpeg",
+      "metacritic": 81,
+      "price": 12.96,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-12-25",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/9sDNeuiqIyt"
+    },
+    {
+      "id": "d4fHxByJG7U",
+      "title": "Dungeons and Goblins",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508950015814421.jpeg",
+      "metacritic": null,
+      "price": 0.8,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-29",
+      "categories": [
+        "Action",
+        "Fighting",
+        "Adventure",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/d4fHxByJG7U"
+    },
+    {
+      "id": "hppqiZmB01R",
+      "title": "AKIBA'S TRIP: Hellbound & Debriefed",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513039057715714.jpeg",
+      "metacritic": 53,
+      "price": 29.99,
+      "discount_price": 8.99,
+      "discount_rate": 70,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 hr",
+      "release_date": "2021-07-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hppqiZmB01R"
+    },
+    {
+      "id": "90YQAjxWTzt",
+      "title": "The Hong Kong Massacre",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513896626719407.jpeg",
+      "metacritic": 56,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "1 days",
+      "release_date": "2020-12-26",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Shooter",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/90YQAjxWTzt"
+    },
+    {
+      "id": "fEaWliaRdSR",
+      "title": "Die for Valhalla!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517018269216129.jpeg",
+      "metacritic": null,
+      "price": 7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-12-27",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/fEaWliaRdSR"
+    },
+    {
+      "id": "dVYczJXiqlX",
+      "title": "Clan N",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514497036615046.jpeg",
+      "metacritic": null,
+      "price": 8.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-25",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/dVYczJXiqlX"
+    },
+    {
+      "id": "d29BipXV436",
+      "title": "Flame Keeper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509985936610984.jpeg",
+      "metacritic": null,
+      "price": 11.99,
+      "discount_price": 4.79,
+      "discount_rate": 60,
+      "discount_tag": "Normal",
+      "discount_end": "5 days",
+      "release_date": "2023-03-17",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/d29BipXV436"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/jdeP21BUeOV#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:48+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/jdeP21BUeOV#currency-price",
+      "priceCurrency": "EUR",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:48+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/jdeP21BUeOV#currency-price",
+      "priceCurrency": "GBP",
+      "price": "22.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:48+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/jdeP21BUeOV#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2599.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:48+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/jdeP21BUeOV#currency-price",
+      "priceCurrency": "HKD",
+      "price": "188.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:48+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 14.04,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 24.99,
+        "region": "ES",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 21.38,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.21,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-02-12"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 7,
+      "avg_discount_price_eur": 7.96,
+      "sale_periods": [
+        {
+          "start": "2025-06-08",
+          "end": "2025-08-04"
+        },
+        {
+          "start": "2025-10-09",
+          "end": "2025-10-09"
+        },
+        {
+          "start": "2025-12-18",
+          "end": "2025-12-22"
+        },
+        {
+          "start": "2026-02-12",
+          "end": "2026-02-12"
+        },
+        {
+          "start": "2026-04-02",
+          "end": "2026-04-02"
+        }
+      ],
+      "days_since_last_discount": 20,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 7.49,
+        "region": "Spain",
+        "drop_pct": 64
+      },
+      "trend_entries_count": 15,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/jdeP21BUeOV",
+    "price_track": "https://www.gamegulf.com/detail/jdeP21BUeOV#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 985890,
+      "name": "Streets of Rage 4",
+      "developer": [
+        "Dotemu",
+        "Guard Crush",
+        "Lizardcube"
+      ],
+      "publisher": [
+        "Dotemu"
+      ],
+      "metacritic_score": 84,
+      "metacritic_url": "https://www.metacritic.com/game/pc/streets-of-rage-4?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Shared/Split Screen PvP",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 16956,
+      "short_description": "Amongst the best beat’em up series ever created, jammin’ ‘90s beats and over the top street fighting, the iconic series Streets of Rage comes back with a masterful tribute to and revitalization of the classic action fans adore.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Traditional Chinese, Korean, Japanese, Portuguese - Brazil, Russian, Ukrainian",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 17790,
+        "total_negative": 1445,
+        "total_reviews": 19235,
+        "score_description": "Very Positive",
+        "positive_percent": 92
+      }
+    },
+    "hltb": null
+  }
+}

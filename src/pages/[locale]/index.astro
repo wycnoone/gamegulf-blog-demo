@@ -1,8 +1,7 @@
 ---
 import BaseLayout from '@/layouts/BaseLayout.astro';
 import BlogShell from '@/components/BlogShell.astro';
-import DecisionFeaturedCardStatic from '@/components/DecisionFeaturedCardStatic.astro';
-import DecisionGridCardStatic from '@/components/DecisionGridCardStatic.astro';
+import { DecisionHomeHub } from '@/components/DecisionHomeHub';
 import {
   blogBasePath,
   defaultOgImage,
@@ -32,8 +31,6 @@ const alternates = getLocaleAlternates(localePaths);
 
 const listingTitle = t(typedLocale, 'listing.title');
 const listingDescription = t(typedLocale, 'listing.description');
-const featuredCards = cards.slice(0, Math.min(2, cards.length));
-const latestCards = cards.slice(featuredCards.length);
 
 const jsonLd: object[] = [
   {
@@ -89,36 +86,7 @@ const jsonLd: object[] = [
   alternates={alternates}
   jsonLd={jsonLd}
 >
-  <BlogShell locale={typedLocale} localePaths={localePaths}>
-    {cards.length > 0 && (
-      <section class="decision-featured-section section-block">
-        <div class="section-head">
-          <div>
-            <h2>{t(typedLocale, 'home.section.all.featured')}</h2>
-            <p>{t(typedLocale, 'home.section.all.featuredDesc')}</p>
-          </div>
-        </div>
-        <div class="decision-featured-grid-v2">
-          {featuredCards.map((card) => (
-            <DecisionFeaturedCardStatic card={card} />
-          ))}
-        </div>
-      </section>
-    )}
-
-    {latestCards.length > 0 && (
-      <section class="decision-latest-section section-block">
-        <div class="section-head">
-          <div>
-            <h2>{t(typedLocale, 'home.section.all.latest')}</h2>
-          </div>
-        </div>
-        <div class="decision-grid-v2">
-          {latestCards.map((card) => (
-            <DecisionGridCardStatic card={card} />
-          ))}
-        </div>
-      </section>
-    )}
+  <BlogShell locale={typedLocale} localePaths={localePaths} showBlogIntro={false}>
+    <DecisionHomeHub client:load locale={typedLocale} cards={cards} />
   </BlogShell>
 </BaseLayout>

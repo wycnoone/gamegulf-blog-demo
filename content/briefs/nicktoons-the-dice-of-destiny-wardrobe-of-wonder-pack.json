@@ -1,0 +1,399 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/4InB054ixft",
+    "game_id": "4InB054ixft",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Nicktoons & The Dice of Destiny - Wardrobe of Wonder Pack",
+    "description": "Embark on a fantastical quest with your favorite Nicktoons characters—reimagined as epic Action-RPG heroes!\n\nNicktoons & The Dice of Destiny is a vibrant, universe-spanning mashup that brings iconic Nickelodeon heroes into a world of fantasy-style tropes and real-time RPG action. Get ready to roll the dice and dive into a wild, action-packed adventure with SpongeBob, Katara, Leonardo, and others as they swing spatulas, bend water, slice katanas, and more. Get ready for epic battles, dynamic environments, and recognizable character moments, all with an engaging gameplay experience for players of all ages.\n\nKey Game Features:\n• Play as Legendary Nickelodeon Characters—Fantasy Style\nSuit up as SpongeBob SquarePants, Katara, Leonardo, Sandy Cheeks, Timmy Turner, Susie Carmichael, Danny Phantom, Jimmy Neutron, and Jenny Wakeman, each reimagined into classic RPG character classes from Spellcaster and Wizard to Barbarian and Knight, and more. Every hero comes with their own unique powers and weapons.\n\n• Real-Time, Action-Packed Battles\nSlash, cast spells, and strategize your way through fast-paced, fluid combat. Master each character’s unique style and time your combos to perfection.\n\n• Explore Whimsical Worlds \nFrom Bikini Bottomshire to the Ghost Zone, journey through colorful, Nickelodeon-inspired fantasy lands with fun, reimagined twists – each filled with puzzles, secrets, side quests, and wonderful surprises.\n\n• Conquer Epic Boss Battles\nFace off against iconic enemies like Azula, Angelica, and Plankton in intense boss battles - each fight offering unique mechanics and surprises—leading up to an unforgettably climactic final encounter.\n\n• Single Player or Local Co-Op for 1–4 Players\nTeam up with friends and build your party! Mix and match characters for the perfect balance of skills and chaos in your local squad.\n\n• Level Up and Customization\nUnlock new powers, upgrade your weapons, and shape your heroes’ path through this awesome adventure. \n\n• Built for Nick Fans and Action-RPG Lovers\nWhether you're a lifelong Nickelodeon fan or a fantasy RPG adventurer, Nicktoons & The Dice of Destiny blends charm, fast-paced fun, and adventure together in one unforgettable quest.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503751673011989.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503751673011989.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503751860816659.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503751860714129.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503751813913624.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503751877711040.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503751835812308.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503752046713168.jpeg"
+    ],
+    "genres": [],
+    "release_date": "2025-12-05",
+    "developer": "Petit Fabrik, Fair Play Labs",
+    "publisher": "Game Mill",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 42.77,
+          "discount_price": 17.1,
+          "discount_rate": 60,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-31",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-31",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-31",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "ehV6IA8PIYB",
+      "title": "Volta-X",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514476966411068.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-12",
+      "categories": [
+        "Action",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/ehV6IA8PIYB"
+    },
+    {
+      "id": "INlLdFP5Q9",
+      "title": "Persona 5 Royal",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613886744511224.jpeg",
+      "metacritic": 94,
+      "price": 49.47,
+      "discount_price": 14.84,
+      "discount_rate": 70,
+      "discount_tag": "Normal",
+      "discount_end": "8 days",
+      "release_date": "2022-10-21",
+      "categories": [
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/INlLdFP5Q9"
+    },
+    {
+      "id": "19Ort0SsmGH",
+      "title": "Metroid Prime™ 4: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503754223012971.jpeg",
+      "metacritic": null,
+      "price": 43.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-12-04",
+      "categories": [
+        "Shooter",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/19Ort0SsmGH"
+    },
+    {
+      "id": "s9w6NmjaHR",
+      "title": "ウィンドボーンコンクリートジャングル",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505568597416180.jpeg",
+      "metacritic": null,
+      "price": 4.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-10",
+      "categories": [
+        "Simulation",
+        "Adventure",
+        "Racing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/s9w6NmjaHR"
+    },
+    {
+      "id": "bPXCVyenTCp",
+      "title": "JDM Drag Racing Car Driving Simulator 2022 Games",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511274770910631.jpeg",
+      "metacritic": null,
+      "price": 0.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/bPXCVyenTCp"
+    },
+    {
+      "id": "1VuVQZTxHa7",
+      "title": "Star Overdrive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505574772315464.jpeg",
+      "metacritic": null,
+      "price": 10.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-10",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/1VuVQZTxHa7"
+    },
+    {
+      "id": "4r0JXhMULKy",
+      "title": "Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614596824511492.jpeg",
+      "metacritic": null,
+      "price": 7.95,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-03",
+      "categories": [
+        "Simulation",
+        "Role-playing",
+        "Communication",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4r0JXhMULKy"
+    },
+    {
+      "id": "dDeKTiMgTdg",
+      "title": "Cyber Pool",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511782599311321.jpeg",
+      "metacritic": null,
+      "price": 0.33,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-10",
+      "categories": [
+        "Action",
+        "Sports",
+        "Party",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/dDeKTiMgTdg"
+    },
+    {
+      "id": "5fIWVgbvENf",
+      "title": "BPM: Bullets Per Minute",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510976143515317.jpeg",
+      "metacritic": null,
+      "price": 1.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-08",
+      "categories": [
+        "Action",
+        "Arcade",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/5fIWVgbvENf"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4InB054ixft#currency-price",
+      "priceCurrency": "ARS",
+      "price": "53000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:04+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/4InB054ixft#currency-price",
+      "priceCurrency": "USD",
+      "price": "49.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:04+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 17.1,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 17.1,
+        "region": "US",
+        "country": "United States",
+        "date": "2026-03-31"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/4InB054ixft",
+    "price_track": "https://www.gamegulf.com/detail/4InB054ixft#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 3760300,
+      "name": "Nicktoons & The Dice of Destiny - Wardrobe of Wonder Pack",
+      "developer": [
+        "Petit Fabrik",
+        "Fair Play Labs"
+      ],
+      "publisher": [
+        "GameMill Entertainment"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Downloadable Content",
+        "Steam Achievements",
+        "Full controller support",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "RPG"
+      ],
+      "steam_price": "$8.99",
+      "total_recommendations": 0,
+      "short_description": "The Wardrobe of Wonder Pack unlocks a dazzling new costume for each of the 9 playable heroes, further reimagining their iconic styles through a different fantasy lens.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 0,
+        "total_negative": 1,
+        "total_reviews": 1,
+        "score_description": "1 user reviews",
+        "positive_percent": 0
+      }
+    },
+    "hltb": null
+  }
+}

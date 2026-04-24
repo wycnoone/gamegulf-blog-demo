@@ -1,0 +1,916 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/fYMsPn41Ojq",
+    "game_id": "fYMsPn41Ojq",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "MARVEL Cosmic Invasion",
+    "description": "Tribute Games and Dotemu are teaming up again, in collaboration with Marvel Games, to craft an original, fresh beat 'em up. Featuring dynamic combat combos and dazzling pixel art, this planet-hopping adventure stands as a love letter to the Marvel Universe.\n\n\n“THE COSMOS MUST FALL SO THAT I MIGHT LIVE!!”\n\nSo swears Annihilus, the living death that walks!\nAfter an unprecedented attack is launched across the galaxy, all life hangs in the balance.\nFrom New York City to the depths of the Negative Zone, the future of the Universe will be fought for across the stars in MARVEL Cosmic Invasion!\n\n\n15 PLAYABLE SUPER HEROES\n\nSpider-Man, Wolverine, She-Hulk, Captain America, Phoenix, Black Panther, Storm and Iron Man, some of the most powerful earth-born Marvel Super Heroes, are ready to face the threat.\nBut they won't be alone! Galactic Super Heroes Rocket Raccoon, Beta Ray Bill, Venom, Cosmic Ghost Rider, Nova, Phyla-Vell and the Silver Surfer enter the battle as well to complete the relentless line-up.\nAll will join forces in a star-spanning brawling adventure against the deadly Annihilation Wave.\n\nWhether you’re an old-school expert or a first-time fan, you’ll find familiar faces and discover new favorites in a captivating roster of characters from across the Marvel Universe!\n\n\nMASTER THE COSMIC SWAP TAG-TEAM SYSTEM\n\nWith the Cosmic Swap tag-team system, choose two Super Heroes for each level and switch between them instantly. Create unique combos and powerful special attacks. Each character’s abilities encourage creative team-ups and a more tactical approach to the action.\n\n\nAMAZING RETRO ART DIRECTION\n\nMARVEL Cosmic Invasion is a tribute to one of Marvel’s most iconic eras, with stunning full-color pixel art designs.\n\n\nINTUITIVE, FUN MULTIPLAYER FOR EVERYONE\n\nWhether you're teaming up with friends or family, MARVEL Cosmic Invasion has you covered with local/online play and a drop-in/drop-out adaptive system. \n\n\nA cosmic battle awaits!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778087512942.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778087512942.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778311217346.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778297717430.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778260313437.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778306412790.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778254714962.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503778535415213.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Arcade",
+      "Fighting"
+    ],
+    "release_date": "2025-12-01",
+    "developer": "Tribute Games Inc.",
+    "publisher": "Dotemu",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 26.73,
+          "discount_price": 21.39,
+          "discount_rate": 19,
+          "discount_end": "2026-04-22 14:59:59",
+          "discount_end_timestamp": 1776869999,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.39
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 25.66,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.66
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 26,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 26
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 26.91,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 26.91
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "IT",
+              "value": 22.49,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 21.39,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-02-06",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-10",
+              "country_code": "HK",
+              "value": 22.06,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "US",
+              "value": 20.52,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "IT",
+              "value": 22.49,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 21.39,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-02-06",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-10",
+              "country_code": "HK",
+              "value": 22.06,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "US",
+              "value": 20.52,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "IT",
+              "value": 22.49,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 21.39,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 25.66,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.66
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 26.91,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 26.91
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 31.03,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 31.03
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "DE",
+              "value": 22.49,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-19",
+              "country_code": "ES",
+              "value": 29.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-01",
+              "country_code": "US",
+              "value": 23.09,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "BR",
+              "value": 26.91,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "US",
+              "value": 20.52,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "ES",
+              "value": 29.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "DE",
+              "value": 22.49,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-19",
+              "country_code": "ES",
+              "value": 29.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-12-01",
+              "country_code": "US",
+              "value": 23.09,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "BR",
+              "value": 26.91,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "US",
+              "value": 20.52,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "ES",
+              "value": 29.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 25.66,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "DE",
+              "value": 22.49,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-19",
+              "country_code": "ES",
+              "value": 29.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "JP",
+          "value": 21.39,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "DE",
+          "value": 29.99,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 25.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 25.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "8goLXalZ06p",
+      "title": "MARVEL Cosmic Invasion (漫威宇宙入侵)",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581699057419744.octet-stream",
+      "metacritic": null,
+      "price": 26,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-12-02",
+      "categories": [
+        "Action",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/8goLXalZ06p"
+    },
+    {
+      "id": "2C0Qun7XswI",
+      "title": "ACA NEOGEO REAL BOUT FATAL FURY 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516840347010050.jpeg",
+      "metacritic": null,
+      "price": 4.53,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-16",
+      "categories": [
+        "Arcade",
+        "Fighting",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2C0Qun7XswI"
+    },
+    {
+      "id": "ael7uFTLB9o",
+      "title": "The Viking's Games: Madness Fight",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511052547211947.jpeg",
+      "metacritic": null,
+      "price": 19.99,
+      "discount_price": 7.99,
+      "discount_rate": 60,
+      "discount_tag": "Normal",
+      "discount_end": "23 days",
+      "release_date": "2022-08-25",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/ael7uFTLB9o"
+    },
+    {
+      "id": "cX5ALAbZAEC",
+      "title": "RetroMania Wrestling",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513526665014355.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-30",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/cX5ALAbZAEC"
+    },
+    {
+      "id": "ieE6BFASOQ1",
+      "title": "ACA NEOGEO ART OF FIGHTING 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517240020810065.jpeg",
+      "metacritic": null,
+      "price": 4.53,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-01-11",
+      "categories": [
+        "Arcade",
+        "Fighting",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/ieE6BFASOQ1"
+    },
+    {
+      "id": "8dy5ZFKO3K9",
+      "title": "Fight'N Rage",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515635548614271.jpeg",
+      "metacritic": 79,
+      "price": 6.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-10-13",
+      "categories": [
+        "Arcade",
+        "Fighting",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/8dy5ZFKO3K9"
+    },
+    {
+      "id": "cyZIlBkkrqa",
+      "title": "Eight Dragons",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513294328019821.jpeg",
+      "metacritic": null,
+      "price": 6.83,
+      "discount_price": 2.05,
+      "discount_rate": 70,
+      "discount_tag": "Normal",
+      "discount_end": "2 days",
+      "release_date": "2021-05-27",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/cyZIlBkkrqa"
+    },
+    {
+      "id": "4GMmsCfh2bR",
+      "title": "Katana Kata",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513654512316372.jpeg",
+      "metacritic": null,
+      "price": 12.74,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-02-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/4GMmsCfh2bR"
+    },
+    {
+      "id": "1XCkG5mikZo",
+      "title": "Heavy Hand: Pixel Tree Forest Fury",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506933494112223.jpeg",
+      "metacritic": null,
+      "price": 2.77,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-09-19",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Simulation",
+        "Training"
+      ],
+      "url": "https://www.gamegulf.com/detail/1XCkG5mikZo"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+      "priceCurrency": "USD",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:43+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+      "priceCurrency": "BRL",
+      "price": "160.47",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:43+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+      "priceCurrency": "ARS",
+      "price": "42873.22",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:43+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+      "priceCurrency": "GBP",
+      "price": "26.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:43+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+      "priceCurrency": "EUR",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:43+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+      "priceCurrency": "HKD",
+      "price": "238.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:43+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+      "priceCurrency": "JPY",
+      "price": "4950.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:18:43+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 21.39,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 21.39,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 25.66,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 20.52,
+        "region": "US",
+        "country": "United States",
+        "date": "2026-02-12"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 4,
+      "avg_discount_price_eur": 21.62,
+      "sale_periods": [],
+      "days_since_last_discount": 13,
+      "last_discount": {
+        "date": "2026-04-08",
+        "price_eur": 21.39,
+        "region": "Japan",
+        "drop_pct": 5
+      },
+      "trend_entries_count": 6,
+      "price_verdict": "at_historical_low"
+    },
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 25.66,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 29.99,
+        "region": "DE",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 25.66,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 20.52,
+        "region": "US",
+        "country": "United States",
+        "date": "2026-02-12"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 3,
+      "avg_discount_price_eur": 22.89,
+      "sale_periods": [
+        {
+          "start": "2026-02-12",
+          "end": "2026-02-12"
+        }
+      ],
+      "days_since_last_discount": 19,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 22.49,
+        "region": "Germany",
+        "drop_pct": 12
+      },
+      "trend_entries_count": 7,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/fYMsPn41Ojq",
+    "price_track": "https://www.gamegulf.com/detail/fYMsPn41Ojq#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2753970,
+      "name": "MARVEL Cosmic Invasion",
+      "developer": [
+        "Tribute Games Inc."
+      ],
+      "publisher": [
+        "Dotemu",
+        "Gamirror Games"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "steam_price": "$29.99",
+      "total_recommendations": 1744,
+      "short_description": "A cosmic battle awaits! Choose between 15 Marvel Super Heroes in this frenetic action beat ‘em up to fight against the deadly Annihilation Wave threatening the galaxy. From New York City to the depths of the Negative Zone, the future of the Marvel Universe will be fought for across the stars!",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Ukrainian, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 1681,
+        "total_negative": 226,
+        "total_reviews": 1907,
+        "score_description": "Very Positive",
+        "positive_percent": 88
+      }
+    },
+    "hltb": null
+  }
+}

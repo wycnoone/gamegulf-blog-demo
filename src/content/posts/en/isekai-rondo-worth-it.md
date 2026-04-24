@@ -164,14 +164,14 @@ Tracked **discount** history: **all-time low** around **€6.41** (US), **3** sa
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| United States | USD 7.54 | $15.99 |
-| Japan | USD 8.39 | ¥1,420 |
-| United Kingdom | USD 9.12 | £13.49 |
-| Hong Kong | USD 15.04 | HK$127 |
-| Germany | USD 17.64 | €14.99 |
-| Spain | USD 17.64 | €14.99 |
-| France | USD 17.64 | €14.99 |
-| Italy | USD 17.64 | €14.99 |
+| United States | USD 7.52 | $15.99 |
+| Japan | USD 8.37 | ¥1,420 |
+| United Kingdom | USD 9.09 | £13.49 |
+| Hong Kong | USD 14.99 | HK$127 |
+| Germany | USD 17.59 | €14.99 |
+| Spain | USD 17.59 | €14.99 |
+| France | USD 17.59 | €14.99 |
+| Italy | USD 17.59 | €14.99 |
 
 ## What kind of game is Isekai Rondo, really?
 

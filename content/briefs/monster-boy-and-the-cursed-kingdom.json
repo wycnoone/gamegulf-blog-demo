@@ -1,0 +1,769 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/1vs5joujuwt",
+    "game_id": "1vs5joujuwt",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Monster Boy and the Cursed Kingdom",
+    "description": "Enjoy a colorful action-adventure game made alongside Ryuichi Nishizawa, creator of the original Wonder Boy in Monster World series.\n\nMonster Boy and the Cursed Kingdom borrows the best from the classic series to deliver a fresh, modern adventure with fun gameplay, memorable music and gorgeous hand drawn animations.\n\nCan Jin save Monster World Kingdom? Help our young hero defeat challenging enemies, discover hidden locations, upgrade powerful equipment, and more! You'll also unlock special forms with unique skills used to open new paths where mighty bosses and secret treasures await.\n\nFeature Overview:\n\n- Six awesome forms with unique combat and platforming abilities to make your adventure exciting from start to finish.\n\n- Unlock new paths and secrets with special equipment: look for magic weapons and items that gradually open up the world.\n\n- Over 15 hours of epic adventure: explore the new Monster World in a vast interconnected environment.\n\n- Hand Drawn animations: characters and enemies come to life with detailed animations and fun facial expressions.\n\n- Soundtrack from iconic Japanese composers: \nYuzo Koshiro, Motoi Sakuraba, Michiru Yamane, Keiki Kobayashi and Takeshi Yanagawa.\n\n- Full HD graphics at 60 fps: the game supports 1080p/60fps in TV mode and 720p/60fps in Nintendo Switch™ handheld mode.\n\n- HD rumble support: feel the action with high performance HD rumble support.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519417110374.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519417110374.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519570614877.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519555819724.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519561810706.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519565517507.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519564119644.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519767017082.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer",
+      "Role-playing"
+    ],
+    "release_date": "2018-12-04",
+    "developer": "Game Atelier",
+    "publisher": "FDG Entertainment",
+    "metacritic": 86
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": 8.55,
+          "discount_rate": 75,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.55
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 39.99,
+          "discount_price": 9.99,
+          "discount_rate": 75,
+          "discount_end": "2026-05-06 21:59:59",
+          "discount_end_timestamp": 1778104799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 39.99,
+          "discount_price": 9.99,
+          "discount_rate": 75,
+          "discount_end": "2026-05-06 21:59:59",
+          "discount_end_timestamp": 1778104799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 21.5,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.5
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 34.84,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.84
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 40.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 40.22
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-02",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-10-27",
+              "country_code": "JP",
+              "value": 21.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-29",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "GB",
+              "value": 40.22,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-27",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-11",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-05",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-18",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "JP",
+              "value": 21.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-07",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-06-11",
+              "country_code": "FR",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-06-12",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-07-02",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-08-06",
+              "country_code": "FR",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-08-07",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-02",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-10-27",
+              "country_code": "JP",
+              "value": 21.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-29",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "GB",
+              "value": 40.22,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-27",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-11",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-24",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-05",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-18",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "JP",
+              "value": 21.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "US",
+              "value": 8.55,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 8.55,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 8.55,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "9Px8TBWvMuJ",
+      "title": "Thy Sword",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514839291018925.jpeg",
+      "metacritic": null,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-05-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/9Px8TBWvMuJ"
+    },
+    {
+      "id": "fsUV1iSeP10",
+      "title": "A Knight's Quest",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515589429116067.jpeg",
+      "metacritic": 59,
+      "price": 21.38,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-10-10",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/fsUV1iSeP10"
+    },
+    {
+      "id": "ibFZ55Su88l",
+      "title": "Dark Devotion",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515532535310953.jpeg",
+      "metacritic": null,
+      "price": 11.88,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-10-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/ibFZ55Su88l"
+    },
+    {
+      "id": "f5C2814u01N",
+      "title": "Another Crab's Treasure",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507841575018104.jpeg",
+      "metacritic": null,
+      "price": 7.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-25",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/f5C2814u01N"
+    },
+    {
+      "id": "3UB5QPbDnv4",
+      "title": "Hand of Fate 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516913319814176.jpeg",
+      "metacritic": 81,
+      "price": 14.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-11-22",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Board game",
+        "Role-playing",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/3UB5QPbDnv4"
+    },
+    {
+      "id": "9VtLub04OOI",
+      "title": "CRYPT CUSTODIAN",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507084158318852.jpeg",
+      "metacritic": null,
+      "price": 5.24,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-08-27",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/9VtLub04OOI"
+    },
+    {
+      "id": "6klhJSNBUNM",
+      "title": "Rogue Legacy",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516611857918256.jpeg",
+      "metacritic": 80,
+      "price": 10.06,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-05-22",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/6klhJSNBUNM"
+    },
+    {
+      "id": "eXr7L98TFCM",
+      "title": "REDO!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511358723513107.jpeg",
+      "metacritic": null,
+      "price": 9.99,
+      "discount_price": 3.49,
+      "discount_rate": 65,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2022-06-22",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/eXr7L98TFCM"
+    },
+    {
+      "id": "i2Vh2vjWb9O",
+      "title": "HunterX: code name T",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508300706717015.jpeg",
+      "metacritic": null,
+      "price": 10.26,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-15",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/i2Vh2vjWb9O"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price",
+      "priceCurrency": "USD",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price",
+      "priceCurrency": "EUR",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price",
+      "priceCurrency": "GBP",
+      "price": "34.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price",
+      "priceCurrency": "JPY",
+      "price": "3980.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price",
+      "priceCurrency": "HKD",
+      "price": "319.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.55,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 8.55,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 8.55,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.37,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-05-07"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 11,
+      "avg_discount_price_eur": 10.61,
+      "sale_periods": [
+        {
+          "start": "2025-05-07",
+          "end": "2025-05-07"
+        },
+        {
+          "start": "2025-07-02",
+          "end": "2025-07-02"
+        },
+        {
+          "start": "2025-09-03",
+          "end": "2025-09-03"
+        },
+        {
+          "start": "2025-10-29",
+          "end": "2025-10-29"
+        },
+        {
+          "start": "2025-12-24",
+          "end": "2025-12-24"
+        },
+        {
+          "start": "2026-02-18",
+          "end": "2026-02-18"
+        }
+      ],
+      "days_since_last_discount": 20,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 8.55,
+        "region": "United States",
+        "drop_pct": 60
+      },
+      "trend_entries_count": 19,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/1vs5joujuwt",
+    "price_track": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 449610,
+      "name": "Monster Boy and the Cursed Kingdom",
+      "developer": [
+        "Game Atelier"
+      ],
+      "publisher": [
+        "FDG Entertainment"
+      ],
+      "metacritic_score": 82,
+      "metacritic_url": "https://www.metacritic.com/game/pc/monster-boy-and-the-cursed-kingdom?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "$9.89",
+      "total_recommendations": 2396,
+      "short_description": "A legendary series returns with a grand new adventure! Enjoy a colorful action-adventure game made alongside Ryuichi Nishizawa, creator of the original Wonder Boy in Monster World series.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Russian, Korean, Simplified Chinese, Polish",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 2287,
+        "total_negative": 293,
+        "total_reviews": 2580,
+        "score_description": "Very Positive",
+        "positive_percent": 89
+      }
+    },
+    "hltb": null
+  }
+}

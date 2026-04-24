@@ -322,6 +322,47 @@ export function normalizePriceRows(rows) {
     .sort((a, b) => a.eurPrice - b.eurPrice);
 }
 
+/**
+ * GameGulf sometimes ships no per-region digital rows for F2P titles or free first-party utilities.
+ * Those briefs still need a minimal grid for synthesis / sync validators.
+ */
+export function briefQualifiesForZeroPricePlaceholderGrid(brief) {
+  if (!brief || typeof brief !== 'object') return false;
+  const steamGenres = brief.enrichment?.steam?.genres;
+  if (Array.isArray(steamGenres)) {
+    for (const g of steamGenres) {
+      if (String(g).toLowerCase().includes('free to play')) return true;
+    }
+  }
+  const title = String(brief.game?.title || '').toLowerCase();
+  if (title.includes('transfer tool') || title.includes('island transfer')) return true;
+  const desc = String(brief.game?.description || '').toLowerCase();
+  if (
+    desc.includes('free-to-play') ||
+    desc.includes('free to play') ||
+    desc.includes('entirely free') ||
+    desc.includes('no barrier to entry')
+  ) {
+    return true;
+  }
+  return false;
+}
+
+/** Four stable non-AR rows at EUR 0 for free listings (card + table stay honest: zero base price). */
+export function buildZeroPricePlaceholderRows() {
+  const codes = ['US', 'GB', 'DE', 'JP'];
+  return codes.map((regionCode) => {
+    const nativeCurrency = REGION_NATIVE_CURRENCY[regionCode] || 'EUR';
+    const decimals = nativeCurrency === 'JPY' ? 0 : 2;
+    return {
+      regionCode,
+      eurPrice: 0,
+      nativePrice: formatNativePrice(0, nativeCurrency, decimals),
+      nativeCurrency,
+    };
+  });
+}
+
 export async function buildLocalizedPriceRows(priceRows, locale, rates) {
   const resolvedRates = rates || await getEurExchangeRates();
   return Promise.all(

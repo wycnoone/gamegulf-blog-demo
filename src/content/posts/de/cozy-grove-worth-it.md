@@ -1,5 +1,5 @@
 ---
-title: Lohnt sich Cozy Grove auf Nintendo Switch 2026?
+title: Lohnt sich Cozy Grove auf NS2026?
 description: 2026年4月Nintendo Switch购买参考：Cozy Grove、GameGulf 价格信号与买/等建议。
 publishedAt: "2026-04-22"
 updatedAt: "2026-04-22"
@@ -115,7 +115,7 @@ cardPrice: EUR 6.10
 cardPriceNative: £10.99
 cardPriceNativeCurrency: GBP
 faq:
-  - question: Lohnt sich Cozy Grove auf Nintendo Switch 2026?
+  - question: Lohnt sich Cozy Grove auf NS2026?
     answer: >-
       Cozy Grove 是否值得买取决于你是否喜欢Adventure, Lifestyle, Puzzle, Simulation,
       Role-playing，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。

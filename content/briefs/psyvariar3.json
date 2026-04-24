@@ -1,0 +1,172 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/9ZIG09suBe5",
+    "game_id": "9ZIG09suBe5",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Psyvariar3",
+    "description": "",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573226404718815.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573226404718815.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573226589215070.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573226774210667.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573226929216849.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573227090918685.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573227267818519.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573227412116879.jpeg"
+    ],
+    "genres": [
+      "Shooter",
+      "Action",
+      "Training",
+      "Other"
+    ],
+    "release_date": "2026-05-21",
+    "developer": "Banana Bytes, Red Art Studios",
+    "publisher": "サクセス",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    },
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [],
+  "schema_offers": [],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    },
+    "switch 1": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/9ZIG09suBe5",
+    "price_track": "https://www.gamegulf.com/detail/9ZIG09suBe5#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 4019130,
+      "name": "Psyvariar 3",
+      "developer": [
+        "Banana Bytes",
+        "Red Art Studios"
+      ],
+      "publisher": [
+        "Red Art Games",
+        "SUCCESS Corp."
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action"
+      ],
+      "steam_price": null,
+      "total_recommendations": 0,
+      "short_description": "Play as one of 7 pilots in this thrilling sequel to a SHMUP classic. The time has come for a new generation of Psyvariars to rise… and save humanity.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 0,
+        "total_negative": 0,
+        "total_reviews": 0,
+        "score_description": "No user reviews",
+        "positive_percent": null
+      }
+    },
+    "hltb": null
+  }
+}

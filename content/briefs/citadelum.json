@@ -1,0 +1,559 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q",
+    "game_id": "lFnuI8Vkf4Q",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Citadelum",
+    "description": "Build your settlement. Gather and refine resources from forests and quarries, breed animals, grow vegetables, fish and make wine, so you can keep your population healthy and fed. Improve your buildings and ensure water supply with aqueducts. Welcome citizens to your village as artisans, farmers, carpenters... or train them to join your legions in different units. Towers and walls will protect your village from barbarian attacks, while it grows into a magnificent city.\n\nExpand. Explore the world map, free villages under siege and experience the power of the most advanced armies of the era: the legion, engaging in tactical auto-battle combat. Once the territory is secured, you can set trade routes, import exotic resources and scale up your economy. Send out your explorers to find a collection of mythological objects that will help you in your expansion and complete missions for the Senate.\n\nHonour. Rise to the pantheon and gain the favor of the gods. Build temples, make offerings so they will grant you gifts. But beware, because gods behave in a capricious and ruthless manner; worship one of them and you may suffer the wrath of another. Interaction with deities allows a non linear, replayable narrative, full of mythical encounters. Prepare to be amazed when they come down to earth and help you, or tremble with fear if they punish your people. \n\nCity Building, evolved. Citadelum presents a unique three layered gameplay, based in city building core mechanics, strategic expansion and commerce, and the role of the gods. You will find different missions, artifacts and challenges in every playthrough.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377342417757.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377342417757.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377620917293.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377547917515.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377507915951.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377510219612.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377502812961.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503377801112016.jpeg"
+    ],
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "2026-01-22",
+    "developer": "Abylight Barcelona",
+    "publisher": "Abylight",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 17.28,
+          "discount_price": 11.23,
+          "discount_rate": 35,
+          "discount_end": "2026-04-26 14:59:59",
+          "discount_end_timestamp": 1777215599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.23
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 26.66,
+          "discount_price": 17.33,
+          "discount_rate": 35,
+          "discount_end": "2026-04-30 06:59:59",
+          "discount_end_timestamp": 1777532399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.33
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 24.8,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.8
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-01",
+              "country_code": "FR",
+              "value": 18.84,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 11.23,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-01",
+              "country_code": "FR",
+              "value": 18.84,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 11.23,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-01",
+              "country_code": "FR",
+              "value": 18.84,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 11.23,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "JP",
+          "value": 11.23,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 24.8,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "ehV6IA8PIYB",
+      "title": "Volta-X",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514476966411068.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-12",
+      "categories": [
+        "Action",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/ehV6IA8PIYB"
+    },
+    {
+      "id": "9sVKHNxsdQS",
+      "title": "Reigns: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507883425211823.jpeg",
+      "metacritic": null,
+      "price": 1.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-17",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Strategy",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/9sVKHNxsdQS"
+    },
+    {
+      "id": "c4NsGCd06I6",
+      "title": "Overcooked! 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516860867215327.jpeg",
+      "metacritic": 81,
+      "price": 22.45,
+      "discount_price": 5.61,
+      "discount_rate": 75,
+      "discount_tag": "Normal",
+      "discount_end": "1 days",
+      "release_date": "2021-04-27",
+      "categories": [
+        "Party",
+        "Strategy",
+        "Communication",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/c4NsGCd06I6"
+    },
+    {
+      "id": "8tP0WaRq4sv",
+      "title": "The Battle of Polytopia",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510788302211618.jpeg",
+      "metacritic": 72,
+      "price": 1.29,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-10-12",
+      "categories": [
+        "Strategy",
+        "Adventure",
+        "Simulation",
+        "Board game"
+      ],
+      "url": "https://www.gamegulf.com/detail/8tP0WaRq4sv"
+    },
+    {
+      "id": "5eB336c9LhC",
+      "title": "Overcooked! All You Can Eat",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513564135811401.jpeg",
+      "metacritic": 87,
+      "price": 22.14,
+      "discount_price": 6.64,
+      "discount_rate": 70,
+      "discount_tag": "Normal",
+      "discount_end": "4 days",
+      "release_date": "2021-07-21",
+      "categories": [
+        "Simulation",
+        "Strategy",
+        "Action",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/5eB336c9LhC"
+    },
+    {
+      "id": "5kFG8fUv2ne",
+      "title": "Real Hentai 5",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614499770810651.jpeg",
+      "metacritic": null,
+      "price": 12.33,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-02-20",
+      "categories": [
+        "Puzzle",
+        "Simulation",
+        "Strategy",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/5kFG8fUv2ne"
+    },
+    {
+      "id": "aejGvJPzy7n",
+      "title": "3D Printer - PrintMaster Simulator",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507975031110310.jpeg",
+      "metacritic": null,
+      "price": 6.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-29",
+      "categories": [
+        "Education",
+        "Simulation",
+        "Strategy",
+        "Training"
+      ],
+      "url": "https://www.gamegulf.com/detail/aejGvJPzy7n"
+    },
+    {
+      "id": "byey3kix9ma",
+      "title": "Special Forces Strike: Tactical Swat Shooter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508034716519503.jpeg",
+      "metacritic": null,
+      "price": 2.56,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-21",
+      "categories": [
+        "Shooter",
+        "Action",
+        "Simulation",
+        "First-person",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/byey3kix9ma"
+    },
+    {
+      "id": "chJeluXTvUZ",
+      "title": "Cook, Serve, Delicious! 2!!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516120018016217.jpeg",
+      "metacritic": null,
+      "price": 0.6,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-10-30",
+      "categories": [
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/chJeluXTvUZ"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q#currency-price",
+      "priceCurrency": "USD",
+      "price": "28.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q#currency-price",
+      "priceCurrency": "BRL",
+      "price": "159.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q#currency-price",
+      "priceCurrency": "ARS",
+      "price": "35000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q#currency-price",
+      "priceCurrency": "EUR",
+      "price": "28.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q#currency-price",
+      "priceCurrency": "JPY",
+      "price": "3200.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:37+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 11.23,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 11.23,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 24.8,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 11.23,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-04-08"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 11.23,
+      "sale_periods": [],
+      "days_since_last_discount": 13,
+      "last_discount": {
+        "date": "2026-04-08",
+        "price_eur": 11.23,
+        "region": "Japan",
+        "drop_pct": 40
+      },
+      "trend_entries_count": 2,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q",
+    "price_track": "https://www.gamegulf.com/detail/lFnuI8Vkf4Q#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2603020,
+      "name": "Citadelum",
+      "developer": [
+        "Abylight Barcelona"
+      ],
+      "publisher": [
+        "Abylight Studios",
+        "Gamersky Games"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Workshop",
+        "Adjustable Text Size",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Playable without Timed Input",
+        "Save Anytime",
+        "Stereo Sound",
+        "Steam Cloud",
+        "Includes level editor",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Indie",
+        "Simulation",
+        "Strategy"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 920,
+      "short_description": "Citadelum is a city builder set in legendary Ancient Rome. Build your own settlement, gather resources and evolve it into a magnificent city. Explore the world, trade and lead your mighty legions in epic tactical battles. Earn the favor of the Gods or challenge them, if you dare.",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Russian, Simplified Chinese, Portuguese - Brazil, Italian, Polish, Catalan, Traditional Chinese, Korean<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 831,
+        "total_negative": 160,
+        "total_reviews": 991,
+        "score_description": "Very Positive",
+        "positive_percent": 84
+      }
+    },
+    "hltb": null
+  }
+}

@@ -1,7 +1,7 @@
 ---
 title: Lohnt sich Ori and the Will of the Wisps auf der Switch 2026?
 description: >-
-  Switch-Kaufratgeber — indexierte eShop-Zeilen April 2026, Rabatt-Historie vs.
+  Switch-Kaufratgeber — indexierte eShop-Preisn April 2026, Rabatt-Historie vs.
   Japan-Anker, HLTB-Zeiten, Bewegung und Bosse, Kauf jetzt oder auf den nächsten
   Sale warten.
 publishedAt: "2026-04-07"

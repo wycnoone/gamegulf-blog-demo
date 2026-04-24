@@ -1,0 +1,519 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/2xQi0B58XvR",
+    "game_id": "2xQi0B58XvR",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Bastion",
+    "description": "Bastion is an action role-playing experience that redefines storytelling in games, with a reactive narrator who marks your every move. Explore more than 40 lush hand-painted environments as you discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces. Wield a huge arsenal of upgradeable weapons and battle savage beasts adapted to their new habitat. Finish the main story to unlock the New Game Plus mode and continue your journey!\n\nKey Features:\n\nAction-packed combat rewards playing with finesse\nHours of reactive narration delivers a deep story\nStunning hand-painted artwork\nCritically-acclaimed original music score\n10+ unique upgradeable weapons to be used\n6 powerful Bastion structures to be discovered\nNew Game Plus' and 'Score Attack' modes unlocked after finishing the story\n'No-Sweat Mode' lets players of any skill level enjoy the story",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516773882014930.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516773882014930.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516774078516992.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516774079215959.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516774080114676.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516774081512925.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516774097516979.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516774293615236.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-playing"
+    ],
+    "release_date": "2018-09-13",
+    "developer": "Supergiant Games",
+    "publisher": "Supergiant Games",
+    "metacritic": 90
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 12.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.49
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 12.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.49
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 12.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.49
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 12.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.49
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 12.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.49
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 12.63,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.63
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 2.49,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-07",
+              "country_code": "PT",
+              "value": 12.49,
+              "currency": "EUR",
+              "country": "Portugal"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-26",
+              "country_code": "US",
+              "value": 2.56,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 2.49,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-07",
+              "country_code": "PT",
+              "value": 12.49,
+              "currency": "EUR",
+              "country": "Portugal"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "FR",
+          "value": 12.49,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
+      "metacritic": 72,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "6 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "kYo4NRMWRCG",
+      "title": "Ultra Pixel Survive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509832319710446.jpeg",
+      "metacritic": null,
+      "price": 0.46,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-04-14",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 12.41,
+      "discount_price": 2.48,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
+      "id": "aXRBXHN2tEI",
+      "title": "Seven Spirits",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508718530815596.jpeg",
+      "metacritic": null,
+      "price": 0.81,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-09",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/aXRBXHN2tEI"
+    },
+    {
+      "id": "lqa9TJHCgVE",
+      "title": "Monster Hunter Rise",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513536485310369.jpeg",
+      "metacritic": 88,
+      "price": 7.26,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/lqa9TJHCgVE"
+    },
+    {
+      "id": "ab3x78yk63M",
+      "title": "Moonlighter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516616208918895.jpeg",
+      "metacritic": 83,
+      "price": 11.91,
+      "discount_price": 1.75,
+      "discount_rate": 85,
+      "discount_tag": "LowPrice",
+      "discount_end": "23 days",
+      "release_date": "2021-02-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/ab3x78yk63M"
+    },
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513464210115579.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "11 days",
+      "release_date": "2021-04-15",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    },
+    {
+      "id": "9LhexgMA0RR",
+      "title": "Nexomon",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512539308818717.jpeg",
+      "metacritic": null,
+      "price": 4.75,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-01",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Fighting",
+        "Action",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9LhexgMA0RR"
+    },
+    {
+      "id": "bpMFtHJyIBc",
+      "title": "Collection of Mana",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515945486010794.jpeg",
+      "metacritic": 83,
+      "price": 28.52,
+      "discount_price": 11.41,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "13 days",
+      "release_date": "2017-06-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Other",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/bpMFtHJyIBc"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2xQi0B58XvR#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:47+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2xQi0B58XvR#currency-price",
+      "priceCurrency": "EUR",
+      "price": "12.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:47+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2xQi0B58XvR#currency-price",
+      "priceCurrency": "GBP",
+      "price": "10.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:47+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 12.49,
+        "region": "Germany",
+        "country_code": "DE"
+      },
+      "global_low": {
+        "price_eur": 12.49,
+        "region": "FR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 2.49,
+        "region": "FR",
+        "country": "France",
+        "date": "2025-12-18"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 2.49,
+      "sale_periods": [
+        {
+          "start": "2025-06-26",
+          "end": "2025-12-18"
+        }
+      ],
+      "days_since_last_discount": 125,
+      "last_discount": {
+        "date": "2025-12-18",
+        "price_eur": 2.49,
+        "region": "France",
+        "drop_pct": 3
+      },
+      "trend_entries_count": 3,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/2xQi0B58XvR",
+    "price_track": "https://www.gamegulf.com/detail/2xQi0B58XvR#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 107100,
+      "name": "Bastion",
+      "developer": [
+        "Supergiant Games"
+      ],
+      "publisher": [
+        "Supergiant Games"
+      ],
+      "metacritic_score": 86,
+      "metacritic_url": "https://www.metacritic.com/game/pc/bastion?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "RPG"
+      ],
+      "steam_price": "$2.24",
+      "total_recommendations": 28007,
+      "short_description": "Discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces.",
+      "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish - Spain, Simplified Chinese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 36160,
+        "total_negative": 1787,
+        "total_reviews": 37947,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 95
+      }
+    },
+    "hltb": null
+  }
+}

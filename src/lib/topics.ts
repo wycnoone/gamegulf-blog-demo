@@ -1,5 +1,5 @@
 import type { BlogLocale } from './i18n';
-import type { QuickFilterKey } from './blog';
+import type { QuickFilterKey } from './blog-shared';
 
 export interface TopicDefinition {
   slug: string;

@@ -1,0 +1,725 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/7fx6KVjz6uA",
+    "game_id": "7fx6KVjz6uA",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "NBA 2K26",
+    "description": "Bragging rights are on the line in MyCAREER*, MyTEAM, MyNBA, The W, and Play Now—leave no doubt that you wear the crown.\n\nPOWERED BY ProPLAY™\n\nDominate every possession with immersive technology that directly translates NBA footage into realistic gameplay. Feel more connected to every dribble and crossover with revamped size-ups and experience fast-paced, dynamic movement with all-new ProPLAY features.\n\nSQUAD UP IN THE CITY\n\nBuild a transcendent MyPLAYER and climb the competitive ranks to reach the pinnacle of NBA stardom in an all-new MyCAREER journey. Team up with friends in a stunning, streamlined City, earn recognition and increase your REP, and battle rival squads for Park supremacy.\n\nUNITE STARS IN MyTEAM\n\nCollect and compete with NBA and WNBA superstars in MyTEAM. Assemble a star-studded roster, put your dream team to the test in new single-player and multiplayer modes, and acquire new cards to make your MyTEAM fantasy a reality.\n\nYOUR TEAM, YOUR STORY\n\nLead an NBA franchise as a General Manager in MyNBA. Choose from all 30 teams, experience 30 unique MyGM storylines with real-world inspiration, and chase the ultimate goal: to win a championship. Influence the future of the sport and leave an indelible mark on the league.\n\n*Internet connection and NBA 2K Account required to redeem and use bonus content. Terms apply.\n\nPlay Now, MyNBA, and The W are available offline. All other game modes and features require Internet connection and may require online account registration (varies 13+).",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504444485411205.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504444485411205.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504444669319564.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504444619212105.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504444618717110.jpeg"
+    ],
+    "genres": [
+      "Sports"
+    ],
+    "release_date": "2025-09-05",
+    "developer": "Visual Concepts",
+    "publisher": "2K",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 59.88,
+          "discount_price": 14.96,
+          "discount_rate": 75,
+          "discount_end": "2026-04-30 06:59:59",
+          "discount_end_timestamp": 1777532399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.96
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 67.06,
+          "discount_price": 16.76,
+          "discount_rate": 75,
+          "discount_end": "2026-04-30 06:59:59",
+          "discount_end_timestamp": 1777532399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.76
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 79.99,
+          "discount_price": 19.99,
+          "discount_rate": 75,
+          "discount_end": "2026-04-26 21:59:59",
+          "discount_end_timestamp": 1777240799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 79.99,
+          "discount_price": 19.99,
+          "discount_rate": 75,
+          "discount_end": "2026-04-26 21:59:59",
+          "discount_end_timestamp": 1777240799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 59.86,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.86
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 59.88,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 59.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-20",
+              "country_code": "US",
+              "value": 59.88,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-01-20",
+              "country_code": "US",
+              "value": 59.88,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 59.88,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 59.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-11-20",
+              "country_code": "US",
+              "value": 59.88,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-01-20",
+              "country_code": "US",
+              "value": 59.88,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "US",
+              "value": 59.88,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 59.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 43.15,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 43.15
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 50.29,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 50.29
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 51.32,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 51.32
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-04",
+              "country_code": "JP",
+              "value": 43.15,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-05",
+              "country_code": "JP",
+              "value": 19.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "JP",
+              "value": 43.15,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-10-04",
+              "country_code": "BR",
+              "value": 50.29,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-11-04",
+              "country_code": "JP",
+              "value": 43.15,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-05",
+              "country_code": "JP",
+              "value": 19.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "JP",
+              "value": 43.15,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 14.96,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 51.32,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "lTujtHDWRf8",
+      "title": "《NBA 2K26》",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581042895113631.octet-stream",
+      "metacritic": null,
+      "price": 57.47,
+      "discount_price": 8.61,
+      "discount_rate": 85,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "5 days",
+      "release_date": "2025-09-05",
+      "categories": [
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/lTujtHDWRf8"
+    },
+    {
+      "id": "iTnYuQ5SXQb",
+      "title": "NBA 2K25",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507017561514676.jpeg",
+      "metacritic": null,
+      "price": 33.11,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-09-06",
+      "categories": [
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/iTnYuQ5SXQb"
+    },
+    {
+      "id": "7dLBwa43lIJ",
+      "title": "NBA BOUNCE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504292383714538.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-09-26",
+      "categories": [
+        "Arcade",
+        "Party",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/7dLBwa43lIJ"
+    },
+    {
+      "id": "g1wMXaZCrsG",
+      "title": "WWE 2K26 Standard Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502925525610177.jpeg",
+      "metacritic": null,
+      "price": 59.86,
+      "discount_price": 50.79,
+      "discount_rate": 15,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "18 days",
+      "release_date": "2026-03-13",
+      "categories": [
+        "Sports",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/g1wMXaZCrsG"
+    },
+    {
+      "id": "9AzyZjHFdKy",
+      "title": "NBA 2K Playgrounds 2",
+      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/12/174174108644519301.jpeg",
+      "metacritic": null,
+      "price": 18.42,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-10-16",
+      "categories": [
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/9AzyZjHFdKy"
+    },
+    {
+      "id": "bPXCVyenTCp",
+      "title": "JDM Drag Racing Car Driving Simulator 2022 Games",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511274770910631.jpeg",
+      "metacritic": null,
+      "price": 0.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/bPXCVyenTCp"
+    },
+    {
+      "id": "dDeKTiMgTdg",
+      "title": "Cyber Pool",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511782599311321.jpeg",
+      "metacritic": null,
+      "price": 0.33,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-10",
+      "categories": [
+        "Action",
+        "Sports",
+        "Party",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/dDeKTiMgTdg"
+    },
+    {
+      "id": "HFxJjwpoOA",
+      "title": "Car Parking Simulator 2024",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509035421313946.jpeg",
+      "metacritic": null,
+      "price": 8.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-15",
+      "categories": [
+        "Action",
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/HFxJjwpoOA"
+    },
+    {
+      "id": "9i1hM5uZq34",
+      "title": "Mario Golf™: Super Rush",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513162609316163.jpeg",
+      "metacritic": null,
+      "price": 35.53,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-06-25",
+      "categories": [
+        "Adventure",
+        "Sports",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/9i1hM5uZq34"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/7fx6KVjz6uA#currency-price",
+      "priceCurrency": "USD",
+      "price": "59.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/7fx6KVjz6uA#currency-price",
+      "priceCurrency": "BRL",
+      "price": "299.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/7fx6KVjz6uA#currency-price",
+      "priceCurrency": "ARS",
+      "price": "59990.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/7fx6KVjz6uA#currency-price",
+      "priceCurrency": "JPY",
+      "price": "7990.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/7fx6KVjz6uA#currency-price",
+      "priceCurrency": "HKD",
+      "price": "548.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:35+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/7fx6KVjz6uA#currency-price",
+      "priceCurrency": "EUR",
+      "price": "79.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:35+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 14.96,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 19.99,
+        "region": "FR",
+        "date": "2026-04-02"
+      },
+      "local_low": {
+        "price_eur": 14.96,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 19.99,
+        "region": "FR",
+        "country": "France",
+        "date": "2026-04-02"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 39.92,
+      "sale_periods": [],
+      "days_since_last_discount": 19,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 19.99,
+        "region": "France",
+        "drop_pct": 67
+      },
+      "trend_entries_count": 5,
+      "price_verdict": "at_historical_low"
+    },
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 43.15,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 19.42,
+        "region": "JP",
+        "date": "2025-11-05"
+      },
+      "local_low": {
+        "price_eur": 51.32,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 19.42,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-11-05"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 31.29,
+      "sale_periods": [
+        {
+          "start": "2025-11-05",
+          "end": "2025-11-05"
+        }
+      ],
+      "days_since_last_discount": 167,
+      "last_discount": {
+        "date": "2025-11-05",
+        "price_eur": 19.42,
+        "region": "Japan",
+        "drop_pct": 55
+      },
+      "trend_entries_count": 4,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/7fx6KVjz6uA",
+    "price_track": "https://www.gamegulf.com/detail/7fx6KVjz6uA#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 3472040,
+      "name": "NBA 2K26",
+      "developer": [
+        "Visual Concepts"
+      ],
+      "publisher": [
+        "2K"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Shared/Split Screen PvP",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "In-App Purchases",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Keyboard Only Option",
+        "Stereo Sound",
+        "Surround Sound",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Sports"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 15240,
+      "short_description": "Bragging rights are on the line in MyCAREER, MyTEAM, MyNBA, The W, and Play Now. Showcase your bag of moves with hyper realism, Powered by ProPLAY™, and challenge your friends, or rivals, in NBA 2K26’s competitive modes—and leave no doubt that you wear the crown.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 13175,
+        "total_negative": 6748,
+        "total_reviews": 19923,
+        "score_description": "Mixed",
+        "positive_percent": 66
+      }
+    },
+    "hltb": null
+  }
+}

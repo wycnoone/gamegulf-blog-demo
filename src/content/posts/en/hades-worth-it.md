@@ -196,16 +196,17 @@ The 2026 question is less about quality and more about **indexed math**: today�
 
 **Japan still leads the indexed digital stack near €15.22 equivalent (¥2,800), with Brazil and the United States stepping up from there in the same April 2026 snapshot.**
 
+
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 17.82 | ¥2,800 |
-| Brazil | USD 18.21 | R$92.46 |
-| United States | USD 25.40 | $24.99 |
-| Germany | USD 29.27 | €24.99 |
-| Spain | USD 29.27 | €24.99 |
-| France | USD 29.27 | €24.99 |
-| Italy | USD 29.27 | €24.99 |
-| Portugal | USD 29.27 | €24.99 |
+| Japan | USD 17.86 | ¥2,800 |
+| Brazil | USD 18.24 | R$92.46 |
+| United States | USD 25.45 | $24.99 |
+| Germany | USD 29.32 | €24.99 |
+| Spain | USD 29.32 | €24.99 |
+| France | USD 29.32 | €24.99 |
+| Italy | USD 29.32 | €24.99 |
+| Portugal | USD 29.32 | €24.99 |
 
 Tracked sale history tells a sharper story than list price alone: the **deepest recorded point** in this feed sits near **€4.66 on the Brazil eShop (18 December 2025)**, while **average discount-level prints** in the same window hug that **€4.66** anchor. That means **today’s Japan-led pricing is fair for a masterpiece**, but **not** the same beast as those **rare, aggressive lows**. Use the [live multi-region grid](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) to confirm **your** account’s row before you checkout.
 

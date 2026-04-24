@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/3FBK8MMWRHv",
+    "game_id": "3FBK8MMWRHv",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Assault Android Cactus+",
+    "description": "Experience an arcade style twin stick shooter set in a vivid sci fi universe. Junior Constable Cactus is outside her pay grade when she responds to a distress call and ends up stranded on a crippled space freighter under attack by its own robot workers.\n\nWith a draining battery mechanic instead of lives, Assault Android Cactus+ challenges you to think fast and shoot faster. Charge head first into an army of refitted robots, transforming stages and massive boss showdowns.\n\nFeatures:\n• 9 playable androids, each with a distinct play style and personality.\n• 25 stage campaign, Boss Rush, Infinity Drive and Daily Drive give you many ways to play.\n• Online leaderboards to compare yourself against your friends and the world.\n• Unlock game modifying EX options, explore the codex and listen to Developer Commentary.\n• An all new Campaign+ mode with remixed stages for a fresh challenge.\n• Supports local co-op in all game modes up to four players.\n• Play with any configuration including Nintendo Switch™ Pro Controllers and single Joy-Con™ controllers using aim assist.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215316612548.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215316612548.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215513415945.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215514910011.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215507012488.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215512919807.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215523811695.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516215689218907.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Arcade",
+      "Shooter"
+    ],
+    "release_date": "2019-03-08",
+    "developer": "Witch Beam",
+    "publisher": "Witch Beam",
+    "metacritic": 86
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 10.69,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 10.69
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.68
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-17",
+              "country_code": "FR",
+              "value": 3.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 3.21,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-16",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-07-21",
+              "country_code": "JP",
+              "value": 3.21,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-18",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-21",
+              "country_code": "JP",
+              "value": 3.21,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "FR",
+              "value": 3.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 3.21,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-16",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 10.69,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "5fIWVgbvENf",
+      "title": "BPM: Bullets Per Minute",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510976143515317.jpeg",
+      "metacritic": null,
+      "price": 1.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-08",
+      "categories": [
+        "Action",
+        "Arcade",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/5fIWVgbvENf"
+    },
+    {
+      "id": "2OJjPKonGxw",
+      "title": "NeuroVoider",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517412849817987.jpeg",
+      "metacritic": 85,
+      "price": 3.78,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-02-22",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Role-playing",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/2OJjPKonGxw"
+    },
+    {
+      "id": "gCg2uQJJfO1",
+      "title": "OlliOlli World",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
+      "metacritic": 87,
+      "price": 19.53,
+      "discount_price": 4.87,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "4 days",
+      "release_date": "2022-02-08",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Platformer",
+        "Action",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1"
+    },
+    {
+      "id": "K1SvVJeGAn",
+      "title": "Gold Digger",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513539885519977.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-25",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/K1SvVJeGAn"
+    },
+    {
+      "id": "4yz15vuekUI",
+      "title": "Low Story",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508677102715545.jpeg",
+      "metacritic": null,
+      "price": 7.99,
+      "discount_price": 1.59,
+      "discount_rate": 80,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "2 hr",
+      "release_date": "2023-11-16",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/4yz15vuekUI"
+    },
+    {
+      "id": "4muroiVTbOx",
+      "title": "Space Warrior",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513401262819344.jpeg",
+      "metacritic": null,
+      "price": 2.3,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-19",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Simulation",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/4muroiVTbOx"
+    },
+    {
+      "id": "97xc0MyqWUS",
+      "title": "SEGA AGES Fantasy Zone",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515241490519083.jpeg",
+      "metacritic": 84,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-11-28",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/97xc0MyqWUS"
+    },
+    {
+      "id": "llo6wHTmXjG",
+      "title": "The Hero with a Thousand Arms",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509973402012791.jpeg",
+      "metacritic": null,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-21",
+      "categories": [
+        "Action",
+        "Racing",
+        "Puzzle",
+        "Arcade",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/llo6wHTmXjG"
+    },
+    {
+      "id": "lGr9w6o2QfS",
+      "title": "Techno Tanks",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513377346914694.jpeg",
+      "metacritic": null,
+      "price": 3.24,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-05-06",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Party",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/lGr9w6o2QfS"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3FBK8MMWRHv#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3FBK8MMWRHv#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3FBK8MMWRHv#currency-price",
+      "priceCurrency": "GBP",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3FBK8MMWRHv#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1980.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 10.69,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 10.69,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 3.21,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-07-21"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 3.21,
+      "sale_periods": [
+        {
+          "start": "2025-07-21",
+          "end": "2025-07-21"
+        },
+        {
+          "start": "2025-10-21",
+          "end": "2025-11-17"
+        },
+        {
+          "start": "2025-12-17",
+          "end": "2025-12-17"
+        }
+      ],
+      "days_since_last_discount": 126,
+      "last_discount": {
+        "date": "2025-12-17",
+        "price_eur": 3.21,
+        "region": "Japan",
+        "drop_pct": 70
+      },
+      "trend_entries_count": 7,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/3FBK8MMWRHv",
+    "price_track": "https://www.gamegulf.com/detail/3FBK8MMWRHv#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 250110,
+      "name": "Assault Android Cactus+",
+      "developer": [
+        "Witch Beam"
+      ],
+      "publisher": [
+        "Witch Beam"
+      ],
+      "metacritic_score": 79,
+      "metacritic_url": "https://www.metacritic.com/game/pc/assault-android-cactus?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 1310,
+      "short_description": "Assault Android Cactus is an intense arcade style twin stick shooter - pick from one of nine unique synthetic heroines and blast your way through overwhelming robots hordes to save the ship from its own workforce. Supports single player and local co-op game modes.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 1883,
+        "total_negative": 118,
+        "total_reviews": 2001,
+        "score_description": "Very Positive",
+        "positive_percent": 94
+      }
+    },
+    "hltb": null
+  }
+}

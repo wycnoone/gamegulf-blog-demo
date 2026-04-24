@@ -1,0 +1,738 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/6DnacuZfd9X",
+    "game_id": "6DnacuZfd9X",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Evoland Legendary Edition",
+    "description": "Evoland is a journey through the history of action/adventure gaming, allowing you to unlock new technologies, gameplay systems and graphic upgrades as you progress through the game. Inspired by many cult series that have left their mark in the RPG video gaming culture, Evoland takes you from monochrome to full 3D graphics and from active time battles to real time boss fights, all with plenty of humor and references to many classic games.\n\nEvoland 2 graphics style is changing as you travel through time and its gameplay evolves as you move along the storyline. It is also a real RPG at heart, with a deep scenario based on time travel: explore different eras and change the history of the world. But are you sure that the consequences will not make things worse?\n\nFull of humor and references to classic games, the Evoland series brings a truly epic and extraordinary adventure, unlike anything you’ve ever played before!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516321834310440.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516321834310440.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516321998315872.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516321996613751.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516321998411106.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516321994217418.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516321993517001.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516322188810064.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-playing"
+    ],
+    "release_date": "2019-02-07",
+    "developer": "Shiro Games",
+    "publisher": "Shiro Games",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 15.29,
+          "discount_price": 3.82,
+          "discount_rate": 75,
+          "discount_end": "2026-04-22 15:59:59",
+          "discount_end_timestamp": 1776873599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 3.82
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 13.5,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.5
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.68
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-04",
+              "country_code": "JP",
+              "value": 13.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "HK",
+              "value": 3.82,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-16",
+              "country_code": "JP",
+              "value": 13.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-30",
+              "country_code": "JP",
+              "value": 3.38,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-01",
+              "country_code": "HK",
+              "value": 15.29,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-07",
+              "country_code": "HK",
+              "value": 3.82,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "HK",
+              "value": 15.29,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-04",
+              "country_code": "JP",
+              "value": 13.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "HK",
+              "value": 3.82,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-01",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-05-02",
+              "country_code": "US",
+              "value": 4.27,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-06-04",
+              "country_code": "HK",
+              "value": 3.82,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-06-17",
+              "country_code": "JP",
+              "value": 3.38,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-07-08",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-07-09",
+              "country_code": "US",
+              "value": 4.27,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-07-16",
+              "country_code": "HK",
+              "value": 3.82,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-08-11",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-08-12",
+              "country_code": "US",
+              "value": 4.27,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-09-14",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-09-15",
+              "country_code": "US",
+              "value": 4.27,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-09-25",
+              "country_code": "PT",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-10-14",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-10-19",
+              "country_code": "US",
+              "value": 4.27,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-11-16",
+              "country_code": "JP",
+              "value": 13.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-30",
+              "country_code": "JP",
+              "value": 3.38,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-01",
+              "country_code": "HK",
+              "value": 15.29,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-07",
+              "country_code": "HK",
+              "value": 3.82,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "HK",
+              "value": 15.29,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-04",
+              "country_code": "JP",
+              "value": 13.5,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "HK",
+              "value": 3.82,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "HK",
+          "value": 3.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "ho2uhb9ZcqA",
+      "title": "Space Crew: Legendary Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514208895416047.jpeg",
+      "metacritic": null,
+      "price": 13.68,
+      "discount_price": 2.73,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "14 days",
+      "release_date": "2020-10-15",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/ho2uhb9ZcqA"
+    },
+    {
+      "id": "73may79Sr7F",
+      "title": "PICROSS S NAMCO LEGENDARY edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507611998219648.jpeg",
+      "metacritic": null,
+      "price": 6.48,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-30",
+      "categories": [
+        "Puzzle",
+        "Strategy",
+        "Training",
+        "Party",
+        "Education"
+      ],
+      "url": "https://www.gamegulf.com/detail/73may79Sr7F"
+    },
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
+      "metacritic": 72,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "kYo4NRMWRCG",
+      "title": "Ultra Pixel Survive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509832319710446.jpeg",
+      "metacritic": null,
+      "price": 0.46,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-04-14",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 12.41,
+      "discount_price": 2.48,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
+      "id": "aXRBXHN2tEI",
+      "title": "Seven Spirits",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508718530815596.jpeg",
+      "metacritic": null,
+      "price": 0.81,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-09",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/aXRBXHN2tEI"
+    },
+    {
+      "id": "lqa9TJHCgVE",
+      "title": "Monster Hunter Rise",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513536485310369.jpeg",
+      "metacritic": 88,
+      "price": 21.55,
+      "discount_price": 4.31,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "19 hr",
+      "release_date": "2021-03-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/lqa9TJHCgVE"
+    },
+    {
+      "id": "ab3x78yk63M",
+      "title": "Moonlighter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516616208918895.jpeg",
+      "metacritic": 83,
+      "price": 11.91,
+      "discount_price": 1.75,
+      "discount_rate": 85,
+      "discount_tag": "LowPrice",
+      "discount_end": "24 days",
+      "release_date": "2021-02-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/ab3x78yk63M"
+    },
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513464210115579.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "12 days",
+      "release_date": "2021-04-15",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/6DnacuZfd9X#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/6DnacuZfd9X#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/6DnacuZfd9X#currency-price",
+      "priceCurrency": "GBP",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/6DnacuZfd9X#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2500.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/6DnacuZfd9X#currency-price",
+      "priceCurrency": "HKD",
+      "price": "140.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:38+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 3.82,
+        "region": "Hong Kong SAR China",
+        "country_code": "HK"
+      },
+      "global_low": {
+        "price_eur": 3.82,
+        "region": "HK",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 3.38,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-06-17"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 13,
+      "avg_discount_price_eur": 5.69,
+      "sale_periods": [],
+      "days_since_last_discount": 13,
+      "last_discount": {
+        "date": "2026-04-08",
+        "price_eur": 3.82,
+        "region": "Hong Kong SAR China",
+        "drop_pct": 72
+      },
+      "trend_entries_count": 21,
+      "price_verdict": "near_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/6DnacuZfd9X",
+    "price_track": "https://www.gamegulf.com/detail/6DnacuZfd9X#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1020470,
+      "name": "Evoland Legendary Edition",
+      "developer": [
+        "Shiro Games"
+      ],
+      "publisher": [
+        "Shiro Games"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "steam_price": "$4.99",
+      "total_recommendations": 1369,
+      "short_description": "Evoland Legendary Edition brings you two great and unique RPGs, with their graphic style and gameplay changing as you progress through the game!",
+      "supported_languages": "English, French, German",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 2117,
+        "total_negative": 507,
+        "total_reviews": 2624,
+        "score_description": "Very Positive",
+        "positive_percent": 81
+      }
+    },
+    "hltb": null
+  }
+}

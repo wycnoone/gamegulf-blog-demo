@@ -1,0 +1,486 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/lbSY71Er106",
+    "game_id": "lbSY71Er106",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "PGA TOUR 2K25",
+    "description": "Step onto golf’s biggest stages and prove you can rise among the greats. Compete in the ultimate test: The PGA Championship, The U.S. Open, and The Open Championship make their PGA TOUR 2K debut.\n\nRise through the ranks in an expanded MyCAREER, where every round builds your legacy. Create your path to greatness with new MyPLAYER customization, upgraded Skill Trees, and advanced Course Designer tools. Then take your shot against the best in ranked, casual, and cross-platform multiplayer.\n\nYou didn’t show up for second place.\n\nGRAB A CLUB. CHASE GREATNESS.\nTeam up or face off in Match Play, Scramble, or Skins - online or local. Compete in cross-platform societies, earn seasonal rewards, and rise through daily and weekly tournaments.\n\nON GOLF’S BIGGEST STAGES\nTake on legends like Tiger Woods or step into their shoes and feel what it’s like to master some of the hardest courses in the world. In a PGA TOUR 2K franchise first, test your grit at The PGA Championship, U.S. Open and The Open Championship. \n\nYOUR CAREER. YOUR LEGACY. YOUR WAY.\nDynamically simulate rounds, train for tournaments, and evolve your player through new Attribute Point and Equipment Progression systems.\n\nSEASONS. BACK AND BETTER THAN EVER.\nEarn rewards, climb the Ranked leaderboards, and experience regular content updates. Progress at your own pace through past Seasons.\n\nPGA TOUR 2K25: AIM FOR GREATNESS",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503231697613491.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503231697613491.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503231856617501.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503231897312046.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503231855216364.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503231898115904.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503231856418954.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503232068412942.jpeg"
+    ],
+    "genres": [
+      "Sports",
+      "Simulation"
+    ],
+    "release_date": "2026-02-06",
+    "developer": "HB Studios",
+    "publisher": "2K",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 47.53,
+          "discount_price": 28.52,
+          "discount_rate": 40,
+          "discount_end": "2026-05-10 14:59:59",
+          "discount_end_timestamp": 1778425199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.52
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 59.86,
+          "discount_price": 35.83,
+          "discount_rate": 40,
+          "discount_end": "2026-05-10 15:59:59",
+          "discount_end_timestamp": 1778428799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 35.83
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 59.88,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.88
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 63.71,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 63.71
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "JP",
+              "value": 28.52,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "JP",
+              "value": 28.52,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "JP",
+              "value": 28.52,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "JP",
+          "value": 28.52,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 59.88,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "lfi53UEG4GF",
+      "title": "PGA TOUR 2K21",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514436445917862.jpeg",
+      "metacritic": 72,
+      "price": 35.65,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-25",
+      "categories": [
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/lfi53UEG4GF"
+    },
+    {
+      "id": "bPXCVyenTCp",
+      "title": "JDM Drag Racing Car Driving Simulator 2022 Games",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511274770910631.jpeg",
+      "metacritic": null,
+      "price": 0.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/bPXCVyenTCp"
+    },
+    {
+      "id": "HFxJjwpoOA",
+      "title": "Car Parking Simulator 2024",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509035421313946.jpeg",
+      "metacritic": null,
+      "price": 8.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-15",
+      "categories": [
+        "Action",
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/HFxJjwpoOA"
+    },
+    {
+      "id": "aBdaznlfiRl",
+      "title": "Lonely Mountains: Downhill",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514886064319244.jpeg",
+      "metacritic": 84,
+      "price": 19.99,
+      "discount_price": 5.99,
+      "discount_rate": 70,
+      "discount_tag": "LowPrice",
+      "discount_end": "10 days",
+      "release_date": "2020-05-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/aBdaznlfiRl"
+    },
+    {
+      "id": "ku8I87aYAk",
+      "title": "Carnivores: Dinosaur Hunt",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513267116912599.jpeg",
+      "metacritic": null,
+      "price": 7.79,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-15",
+      "categories": [
+        "Action",
+        "First-person",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/ku8I87aYAk"
+    },
+    {
+      "id": "kAoLm6ihsej",
+      "title": "Super Mega Baseball 3",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514859871817253.jpeg",
+      "metacritic": 87,
+      "price": 38.49,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-05-13",
+      "categories": [
+        "Arcade",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/kAoLm6ihsej"
+    },
+    {
+      "id": "4muroiVTbOx",
+      "title": "Space Warrior",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513401262819344.jpeg",
+      "metacritic": null,
+      "price": 2.3,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-19",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Simulation",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/4muroiVTbOx"
+    },
+    {
+      "id": "lufojonADH6",
+      "title": "Retro Bowl",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511902032917069.jpeg",
+      "metacritic": 84,
+      "price": 0.34,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-02-10",
+      "categories": [
+        "Arcade",
+        "Role-playing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/lufojonADH6"
+    },
+    {
+      "id": "g1NMgq5dN7m",
+      "title": "City Stunt Driver",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512341648519752.jpeg",
+      "metacritic": null,
+      "price": 0.83,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-19",
+      "categories": [
+        "Action",
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/g1NMgq5dN7m"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lbSY71Er106#currency-price",
+      "priceCurrency": "BRL",
+      "price": "379.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lbSY71Er106#currency-price",
+      "priceCurrency": "ARS",
+      "price": "62999.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lbSY71Er106#currency-price",
+      "priceCurrency": "USD",
+      "price": "69.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lbSY71Er106#currency-price",
+      "priceCurrency": "JPY",
+      "price": "8800.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/lbSY71Er106#currency-price",
+      "priceCurrency": "HKD",
+      "price": "548.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:28+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 28.52,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 28.52,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 59.88,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 28.52,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-04-14"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/lbSY71Er106",
+    "price_track": "https://www.gamegulf.com/detail/lbSY71Er106#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2385530,
+      "name": "PGA TOUR 2K25",
+      "developer": [
+        "HB Studios"
+      ],
+      "publisher": [
+        "2K"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Shared/Split Screen PvP",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "In-App Purchases",
+        "HDR available",
+        "Family Sharing"
+      ],
+      "genres": [
+        "RPG",
+        "Simulation",
+        "Sports"
+      ],
+      "steam_price": "$23.09",
+      "total_recommendations": 3158,
+      "short_description": "Take your best shot at glory in PGA TOUR 2K25! In a 2K-first, compete in three prestigious major tournaments. Personalize your game with expanded MyCAREER, MyPLAYER and Course Designer options. Challenge friends across ranked, casual, and cross-platform multiplayer.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 2782,
+        "total_negative": 1265,
+        "total_reviews": 4047,
+        "score_description": "Mixed",
+        "positive_percent": 69
+      }
+    },
+    "hltb": null
+  }
+}

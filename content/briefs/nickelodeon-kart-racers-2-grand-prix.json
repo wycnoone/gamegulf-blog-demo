@@ -1,0 +1,639 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/auKAjdaTmh",
+    "game_id": "auKAjdaTmh",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Nickelodeon Kart Racers 2: Grand Prix",
+    "description": "Nickelodeon Kart Racers is back and we’re kicking it into overdrive!  In Nickelodeon Kart Racers 2: Grand Prix, you can select from 30 playable racers and 70 team members to assemble your ultimate pit crew. Choose your favorites from Nickelodeon’s hall of fame, including JoJo Siwa, SpongeBob SquarePants, the Teenage Mutant Ninja Turtles, the babies from Rugrats, the cool kids from Hey Arnold!, Ren and Stimpy, Lincoln Loud and his sisters, and more! \n\nMore Characters + More Karts + More Tracks = MORE FUN!  First, speed your way across a variety of Slime-filled tracks in a fun series of races where you can win highly-coveted cups and over 80 upgrades for your Kart!  Then, shift into the next gear and challenge your friends in online multiplayer or in local arena multiplayer to see who can cross the finish line first or handle the wild arena challenges!  There’s no slowing down - on your marks, get set, Slime!\n\n-Largest collection of Nickelodeon characters ever in a Kart game!\n\n-100 beloved Nick characters to choose from\n\n-30 playable racers and 70 crew members that each have unique powers designed to help you win\n\n-Strategize your ultimate pit crew to increase your level of \n attack, defense, or fun!\n\n-Tens of thousands different all-star character combinations\n\n-Local multiplayer up to 4, and online multiplayer up to 8\n\n-New and improved racing engine for best in class racing fun!\n\n-Zoom through 28 Slime-filled tracks and 2 arena environments!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514252722818681.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514252722818681.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514252889112573.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514252918010109.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514252875912116.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514252901410638.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514252879319771.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514253073317454.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Arcade",
+      "Racing"
+    ],
+    "release_date": "2020-10-06",
+    "developer": "Bamtang Games",
+    "publisher": "Game Mill",
+    "metacritic": 72
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": 3.41,
+          "discount_rate": 90,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 3.41
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 39.99,
+          "discount_price": 3.99,
+          "discount_rate": 90,
+          "discount_end": "2026-05-01 21:59:59",
+          "discount_end_timestamp": 1777672799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 3.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 39.99,
+          "discount_price": 3.99,
+          "discount_rate": 90,
+          "discount_end": "2026-05-01 21:59:59",
+          "discount_end_timestamp": 1777672799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 3.99
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 25.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.82
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 33.64,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 33.64
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 40.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 40.22
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-15",
+              "country_code": "HK",
+              "value": 33.64,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-18",
+              "country_code": "JP",
+              "value": 5.16,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-01",
+              "country_code": "FR",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-03",
+              "country_code": "FR",
+              "value": 3.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "HK",
+              "value": 33.64,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-06",
+              "country_code": "FR",
+              "value": 3.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-08-04",
+              "country_code": "FR",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-08-05",
+              "country_code": "FR",
+              "value": 3.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-10-03",
+              "country_code": "FR",
+              "value": 3.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-11-15",
+              "country_code": "HK",
+              "value": 33.64,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-18",
+              "country_code": "JP",
+              "value": 5.16,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-01",
+              "country_code": "FR",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-03",
+              "country_code": "FR",
+              "value": 3.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "HK",
+              "value": 33.64,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 3.41,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "bPXCVyenTCp",
+      "title": "JDM Drag Racing Car Driving Simulator 2022 Games",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511274770910631.jpeg",
+      "metacritic": null,
+      "price": 0.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/bPXCVyenTCp"
+    },
+    {
+      "id": "aBdaznlfiRl",
+      "title": "Lonely Mountains: Downhill",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514886064319244.jpeg",
+      "metacritic": 84,
+      "price": 19.99,
+      "discount_price": 5.99,
+      "discount_rate": 70,
+      "discount_tag": "LowPrice",
+      "discount_end": "10 days",
+      "release_date": "2020-05-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/aBdaznlfiRl"
+    },
+    {
+      "id": "4muroiVTbOx",
+      "title": "Space Warrior",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513401262819344.jpeg",
+      "metacritic": null,
+      "price": 2.3,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-19",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Simulation",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/4muroiVTbOx"
+    },
+    {
+      "id": "6UzoZTDEAnQ",
+      "title": "Airborne Motocross",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511349250610327.jpeg",
+      "metacritic": null,
+      "price": 0.31,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-06-23",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/6UzoZTDEAnQ"
+    },
+    {
+      "id": "llo6wHTmXjG",
+      "title": "The Hero with a Thousand Arms",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509973402012791.jpeg",
+      "metacritic": null,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-21",
+      "categories": [
+        "Action",
+        "Racing",
+        "Puzzle",
+        "Arcade",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/llo6wHTmXjG"
+    },
+    {
+      "id": "fndQVIxIDZa",
+      "title": "Kart Crazy Race Simulator Game",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510213523917432.jpeg",
+      "metacritic": null,
+      "price": 3.45,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-02-09",
+      "categories": [
+        "Action",
+        "Racing",
+        "Communication",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/fndQVIxIDZa"
+    },
+    {
+      "id": "hvWGlzYkTK1",
+      "title": "Xtreme Club Racing",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516045016315209.jpeg",
+      "metacritic": null,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-07-11",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hvWGlzYkTK1"
+    },
+    {
+      "id": "dG0NURDbVeN",
+      "title": "Super Kart Mini Car Race",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508456825913026.jpeg",
+      "metacritic": null,
+      "price": 2.24,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-12-25",
+      "categories": [
+        "Action",
+        "Shooter",
+        "Other",
+        "Arcade",
+        "Racing"
+      ],
+      "url": "https://www.gamegulf.com/detail/dG0NURDbVeN"
+    },
+    {
+      "id": "nXQlGXrP7G",
+      "title": "Adrenaline Rush: Highway Extreme Traffic Racer",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507679443112531.jpeg",
+      "metacritic": null,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-18",
+      "categories": [
+        "Racing",
+        "Action",
+        "Simulation",
+        "Party",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/nXQlGXrP7G"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/auKAjdaTmh#currency-price",
+      "priceCurrency": "USD",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:34+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/auKAjdaTmh#currency-price",
+      "priceCurrency": "EUR",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:34+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/auKAjdaTmh#currency-price",
+      "priceCurrency": "GBP",
+      "price": "34.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:34+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/auKAjdaTmh#currency-price",
+      "priceCurrency": "JPY",
+      "price": "4780.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:34+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/auKAjdaTmh#currency-price",
+      "priceCurrency": "HKD",
+      "price": "308.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:34+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/auKAjdaTmh#currency-price",
+      "priceCurrency": "ARS",
+      "price": "3585.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:25:34+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 3.41,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 3.99,
+        "region": "FR",
+        "date": "2025-06-06"
+      },
+      "local_low": {
+        "price_eur": 3.41,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 3.99,
+        "region": "FR",
+        "country": "France",
+        "date": "2025-06-06"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 3,
+      "avg_discount_price_eur": 4.38,
+      "sale_periods": [],
+      "days_since_last_discount": 77,
+      "last_discount": {
+        "date": "2026-02-03",
+        "price_eur": 3.99,
+        "region": "France",
+        "drop_pct": 90
+      },
+      "trend_entries_count": 9,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/auKAjdaTmh",
+    "price_track": "https://www.gamegulf.com/detail/auKAjdaTmh#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1383960,
+      "name": "Nickelodeon Kart Racers 2: Grand Prix",
+      "developer": [
+        "Bamtang Games"
+      ],
+      "publisher": [
+        "GameMill Entertainment"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Shared/Split Screen PvP",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Stats",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Casual",
+        "Racing"
+      ],
+      "steam_price": "$2.99",
+      "total_recommendations": 510,
+      "short_description": "Nickelodeon Kart Racers is back and we’re kicking it into overdrive! In Nickelodeon Kart Racers 2: Grand Prix, you can select from 30 playable racers and 70 team members to assemble your ultimate pit crew.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 658,
+        "total_negative": 175,
+        "total_reviews": 833,
+        "score_description": "Mostly Positive",
+        "positive_percent": 79
+      }
+    },
+    "hltb": null
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/gvgXGVxaV7s",
+    "game_id": "gvgXGVxaV7s",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Death's Door",
+    "description": "The job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm untouched by death - where creatures grow far past their expiry and overflow with greed and power.\n\nTalon Sharp Combat:  Utilize melee weapons, arrows and magic to overcome a fantastic array of beasts and demigods. Mistakes are punished and victory is rewarded. Gain an edge by customizing your character stats and mastering the abilities and upgrades you obtain.\n\nA Beautifully Bleak World: Venture beyond the Doors and explore a land full of twisted inhabitants and countless secrets, bringing hope to the weird and wonderful characters you’ll meet along the way.\n\nA Dark Mystery to Unravel: Track down and defeat colossal tyrants with stories and motivations of their own. Experience a somber yet darkly comedic tale, uncovering the truths behind the flow of souls, the role of the Crows and the origin of the Doors.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216497815524.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216497815524.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216798916711.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216826517835.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216831814866.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216833119391.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512216832714353.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512217021911667.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Arcade",
+      "Puzzle"
+    ],
+    "release_date": "2021-11-23",
+    "developer": "Acid Nerve",
+    "publisher": "Devolver Digital",
+    "metacritic": 89
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 11.07,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.07
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 16.93,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.93
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.68
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-02",
+              "country_code": "JP",
+              "value": 11.07,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-09",
+              "country_code": "JP",
+              "value": 2.77,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-06",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "JP",
+              "value": 2.77,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-14",
+              "country_code": "GB",
+              "value": 20.68,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "BR",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-04",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-20",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-21",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-10-12",
+              "country_code": "IT",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2025-11-02",
+              "country_code": "JP",
+              "value": 11.07,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-09",
+              "country_code": "JP",
+              "value": 2.77,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-06",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 4.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "JP",
+              "value": 2.77,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-14",
+              "country_code": "GB",
+              "value": 20.68,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "BR",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "eKVuMRlHKlh",
+      "title": "Death's Hangover",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514398481816284.jpeg",
+      "metacritic": null,
+      "price": 4.99,
+      "discount_price": 1.99,
+      "discount_rate": 60,
+      "discount_tag": "Normal",
+      "discount_end": "6 days",
+      "release_date": "2020-08-28",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/eKVuMRlHKlh"
+    },
+    {
+      "id": "eUXK7XvXFRu",
+      "title": "Door Kickers",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513898144012483.jpeg",
+      "metacritic": null,
+      "price": 11.99,
+      "discount_price": 2.39,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "6 days",
+      "release_date": "2020-12-26",
+      "categories": [
+        "Action",
+        "Puzzle",
+        "Shooter",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/eUXK7XvXFRu"
+    },
+    {
+      "id": "8g62rggaFG2",
+      "title": "Heaven's Door",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510428596317895.jpeg",
+      "metacritic": null,
+      "price": 15.98,
+      "discount_price": 6.39,
+      "discount_rate": 60,
+      "discount_tag": "Normal",
+      "discount_end": "22 days",
+      "release_date": "2022-12-20",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/8g62rggaFG2"
+    },
+    {
+      "id": "cNR2yo2jHuT",
+      "title": "Death's Gambit: Afterlife",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512458246110036.jpeg",
+      "metacritic": 78,
+      "price": 19.99,
+      "discount_price": 9.99,
+      "discount_rate": 50,
+      "discount_tag": "Normal",
+      "discount_end": "2 days",
+      "release_date": "2021-09-30",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/cNR2yo2jHuT"
+    },
+    {
+      "id": "1O9950t4YQ5",
+      "title": "Door Kickers: Action Squad",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515512506913414.jpeg",
+      "metacritic": null,
+      "price": 8.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-10-28",
+      "categories": [
+        "Action",
+        "Strategy",
+        "Shooter",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/1O9950t4YQ5"
+    },
+    {
+      "id": "ari1ZXrPQFN",
+      "title": "Red Ball Escape",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513226484514499.jpeg",
+      "metacritic": null,
+      "price": 2.05,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-21",
+      "categories": [
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
+    },
+    {
+      "id": "k5tvz7IEu3E",
+      "title": "Shikon-X Astro Defense Fortress",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507189070715009.jpeg",
+      "metacritic": null,
+      "price": 0.25,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-08-08",
+      "categories": [
+        "Adventure",
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/k5tvz7IEu3E"
+    },
+    {
+      "id": "fTAFwpdm6UI",
+      "title": "KORAL",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516012446114363.jpeg",
+      "metacritic": null,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-08-01",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/fTAFwpdm6UI"
+    },
+    {
+      "id": "jXlLG8kjMhS",
+      "title": "Fashion Princess",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511005783919796.jpeg",
+      "metacritic": null,
+      "price": 1.56,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-01",
+      "categories": [
+        "Action",
+        "Puzzle",
+        "Adventure",
+        "Sports",
+        "Arcade",
+        "Education"
+      ],
+      "url": "https://www.gamegulf.com/detail/jXlLG8kjMhS"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+      "priceCurrency": "GBP",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2050.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+      "priceCurrency": "HKD",
+      "price": "155.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+      "priceCurrency": "BRL",
+      "price": "101.95",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:37+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+      "priceCurrency": "ARS",
+      "price": "2198.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:37+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 11.07,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 2.77,
+        "region": "JP",
+        "date": "2025-11-09"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 2.77,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-11-09"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 6,
+      "avg_discount_price_eur": 7.28,
+      "sale_periods": [
+        {
+          "start": "2025-06-04",
+          "end": "2025-06-04"
+        },
+        {
+          "start": "2025-07-21",
+          "end": "2025-07-21"
+        },
+        {
+          "start": "2025-11-09",
+          "end": "2025-11-09"
+        },
+        {
+          "start": "2025-12-18",
+          "end": "2025-12-22"
+        }
+      ],
+      "days_since_last_discount": 36,
+      "last_discount": {
+        "date": "2026-03-17",
+        "price_eur": 17.1,
+        "region": "Brazil",
+        "drop_pct": 17
+      },
+      "trend_entries_count": 11,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/gvgXGVxaV7s",
+    "price_track": "https://www.gamegulf.com/detail/gvgXGVxaV7s#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 894020,
+      "name": "Death's Door",
+      "developer": [
+        "Acid Nerve"
+      ],
+      "publisher": [
+        "Devolver Digital"
+      ],
+      "metacritic_score": 85,
+      "metacritic_url": "https://www.metacritic.com/game/pc/deaths-door?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 18514,
+      "short_description": "Reaping souls of the dead and punching a clock might get monotonous but it's honest work for a Crow. The job gets lively when your assigned soul is stolen and you must track down a desperate thief to a realm untouched by death - where creatures grow far past their expiry.",
+      "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 19741,
+        "total_negative": 1438,
+        "total_reviews": 21179,
+        "score_description": "Very Positive",
+        "positive_percent": 93
+      }
+    },
+    "hltb": null
+  }
+}

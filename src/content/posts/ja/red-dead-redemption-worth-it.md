@@ -61,7 +61,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - Red Dead Redemption sale bingo
@@ -143,14 +143,14 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 3447 | ¥6,820 |
-| 香港 | JPY 4068 | HK$398 |
-| イギリス | JPY 4300 | £39.99 |
-| ドイツ | JPY 4677 | €49.99 |
-| スペイン | JPY 4677 | €49.99 |
-| フランス | JPY 4677 | €49.99 |
-| イタリア | JPY 4677 | €49.99 |
-| ポルトガル | JPY 4677 | €49.99 |
+| 日本 | JPY 3441 | ¥6,820 |
+| 香港 | JPY 4061 | HK$398 |
+| イギリス | JPY 4293 | £39.99 |
+| ドイツ | JPY 4668 | €49.99 |
+| スペイン | JPY 4668 | €49.99 |
+| フランス | JPY 4668 | €49.99 |
+| イタリア | JPY 4668 | €49.99 |
+| ポルトガル | JPY 4668 | €49.99 |
 
 ## 『Red Dead Redemption』はどんなゲーム？
 

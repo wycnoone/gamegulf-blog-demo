@@ -1,5 +1,5 @@
 ---
-title: Lohnt sich Red Dead Redemption auf Nintendo Switch 2026?
+title: Lohnt sich Red Dead Redemption auf NS2026?
 description: 2026年4月Nintendo Switch购买参考：Red Dead Redemption、GameGulf 价格信号与买/等建议。
 publishedAt: "2026-04-22"
 updatedAt: "2026-04-22"
@@ -111,7 +111,7 @@ cardPrice: EUR 18.42
 cardPriceNative: ¥6,820
 cardPriceNativeCurrency: JPY
 faq:
-  - question: Lohnt sich Red Dead Redemption auf Nintendo Switch 2026?
+  - question: Lohnt sich Red Dead Redemption auf NS2026?
     answer: >-
       Red Dead Redemption 是否值得买取决于你是否喜欢Action, Adventure，以及你在 GameGulf
       上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。

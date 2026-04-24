@@ -12,7 +12,9 @@ import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 import {
+  briefQualifiesForZeroPricePlaceholderGrid,
   buildPriceRowsFromBrief,
+  buildZeroPricePlaceholderRows,
   normalizePriceRows,
 } from './article-pricing-utils.mjs';
 
@@ -142,7 +144,7 @@ function discountParagraph(locale, a, detailUrl, anchorEur, metaYear) {
       ? `${last.date} (${last.region}, ${eur(last.price_eur)})`
       : trend?.date
         ? `${trend.date} (${trend.region || trend.country || ''}, ${eur(trend.price_eur)})`
-        : `${y} tracker window (cheapest indexed row ${eur(anchor)})`;
+        : `${y} tracker window (cheapest indexed territory ${eur(anchor)})`;
 
   if (locale === 'en') {
     return `Tracked **discount** history: **all-time low** around **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'see grid'}), **${ev}** **sale** moves in the past year, **average sale** near **${eur(avg)}**, last notable shift **${days ?? '—'}** days ago on **${dline}**. Cross-check [GameGulf live pricing](${detailUrl}#currency-price) before you buy — **${y}** regional timing still shifts.`;
@@ -151,7 +153,7 @@ function discountParagraph(locale, a, detailUrl, anchorEur, metaYear) {
     return `结合 **折扣** 追踪：**历史低价**约 **${eur(atl?.price_eur)}**（${atl?.region || trend?.region || '见表'}），过去一年约 **${ev}** 次促销，**平均促销价**约 **${eur(avg)}**，距上次明显波动约 **${days ?? '—'}** 天（**${dline}**，**${y}**）。下单前请再核对 [GameGulf 实时价格](${detailUrl}#currency-price)。`;
   }
   if (locale === 'ja') {
-    return `**セール**履歴：**最安値**は **${eur(atl?.price_eur)}** 付近（${atl?.region || trend?.region || '表参照'}）、直近1年で **${ev}** 回の動き、**平均セール価格**は **${eur(avg)}**、直近の大きめの動きから **${days ?? '—'}** 日（**${dline}**，**${y}**）。[GameGulfの価格](${detailUrl}#currency-price)で最新行を確認してください。`;
+    return `**セール**履歴：**最安値**は **${eur(atl?.price_eur)}** 付近（${atl?.region || trend?.region || '一覧参照'}）、直近1年で **${ev}** 回の動き、**平均セール価格**は **${eur(avg)}**、直近の大きめの動きから **${days ?? '—'}** 日（**${dline}**，**${y}**）。[GameGulfの価格](${detailUrl}#currency-price)で最新の価格帯を確認してください。`;
   }
   if (locale === 'fr') {
     return `Historique des **soldes** : **plus bas historique** vers **${eur(atl?.price_eur)}** (${atl?.region || trend?.region || 'voir grille'}), **${ev}** mouvements sur 12 mois, **prix moyen promo** **${eur(avg)}**, dernière variation notable il y a **${days ?? '—'}** jours (**${dline}**, **${y}**). Vérifiez le [tableau GameGulf](${detailUrl}#currency-price).`;
@@ -258,9 +260,125 @@ function buildBody(locale, ctx) {
     metaYear,
   } = ctx;
   const H = sectionHeadings(locale, gameTitle, platformLabel);
-  const g = (genres || []).slice(0, 3).join(', ') || 'action-adventure';
-  const pt = playtime ? `**${playtime}**` : '**session-friendly runtime**';
+  const gEn = (genres || []).slice(0, 3).join(', ') || 'action-adventure';
+  const gZh = (genres || []).slice(0, 3).join('、') || '动作冒险';
+  const gJa = (genres || []).slice(0, 3).join(' / ') || 'アクション・アドベンチャー';
+  const g = locale === 'zh-hans' ? gZh : locale === 'ja' ? gJa : gEn;
+  const pt =
+    playtime
+      ? `**${playtime}**`
+      : locale === 'zh-hans'
+        ? '**体量偏友好，适合碎片时间**'
+        : locale === 'ja'
+          ? '**短めのセッション向き**'
+          : '**session-friendly runtime**';
   const disc = discountParagraph(locale, analytics, detailUrl, anchorEur, metaYear);
+
+  if (locale === 'zh-hans') {
+    return `## ${H.quick}
+
+**${gameTitle}** 在 **${mcLine}** 上与口碑大体一致 — **${g}** 的方向也和 eShop 卡片给人的预期接近。${pt} 用来框定你买到的是多长的一段体验。
+
+${disc}
+
+下单前建议用 **GameGulf** 上的 [多区价格表](${detailUrl}#currency-price) 把 **折扣** 故事核对清楚。
+
+## ${H.price}
+
+**数字版各区价格变动很快** — 下方表格与 frontmatter 同源，均来自 **GameGulf** 的同一张多区表。请到 [gamegulf.com](https://www.gamegulf.com) 对照你账号所在区服的真实标价，不要想当然认定只有一个「全球最好价」。
+
+## ${H.what}
+
+**${gameTitle}** 是一款 **${g}** 向 ${platformLabel} 作品${dev ? `，出自 **${dev}**` : ''} — 商店长文案可以当作宣传，但真正该看的是 **类型组合** 和 **${mcLine}** 给出的质量信号。
+
+1. **核心循环** — 大体符合 ${platformLabel} 玩家对这个品类常见节奏的预期。
+2. **体量** — ${pt}，避免误以为买到了「默认一百小时」的长线 RPG。
+3. **气质** — 预告片诚实的话，入手后大概率是同一挂味。
+
+## ${H.perf}
+
+**${gameTitle}** 在 ${platformLabel} 上更接近 **稳定的主流优化**：载入可接受、以手柄为主的界面，掌上画面仍可读。
+
+- **掌机：**界面缩放与动态清晰度是主要变量，预期是轻微妥协而非坏移植。
+- **底座：**若不是粒子特效大秀，底座更多提供舒适度而不是质变。
+- **操作：**常规键位为主；商店页没强调体感就不用在意花哨陀螺仪。
+
+## ${H.buy}
+
+- 你喜欢 **${g}** 的节奏，且 **${mcLine}** 这一档符合你对质量的预期
+- 你在 **GameGulf** 上看到的区服参考价已在 **促销带**（到账前务必 [再核一次](${detailUrl}#currency-price)）
+- 你需要 **随拿随放** 的游玩节奏 — ${pt}
+- 你已经被 **预告 / Demo** 说服，只差 **价格** 推一把
+- 相对折腾实体，你更看重 ${platformLabel} 上的 **数字版便利**
+
+## ${H.wait}
+
+- 你所在区服还在 **接近标价**，而别的区服在同一时间窗里折扣更明显
+- 你根本不买 **${g}** 这一套，**打折** 也救不了口味
+- 你本月预算更想留给 **更长流程的 RPG**
+- 你已在别的平台买过，只想在 **史低带** 入一个「客串」版本
+- 你对 **补丁 / 版本差** 很敏感，还是先论坛探路更合适
+
+## ${H.close}
+
+**${gameTitle}** 在 ${platformLabel} 上更像是 **「对照收据再下判断」**：当 **GameGulf** 给的 **折扣** 叠得好看时，口味 + **Metacritic** 一致性比营销词更重要。
+
+花一分钟扫一眼 **[GameGulf 价格页](${detailUrl}#currency-price)**：价格顺眼就锁单，不顺眼就等都行 —— 下一个促窗口还可以回来再对照一次。
+`;
+  }
+
+  if (locale === 'ja') {
+    return `## ${H.quick}
+
+**${gameTitle}** は **${mcLine}** 帯で批評面の期待とおおむね一致し、**${g}** の遊び方も eShop のカード印象に近いです。${pt} が「どれだけ遊べる買い物か」の目安になります。
+
+${disc}
+
+購入前に **[GameGulf の価格一覧](${detailUrl}#currency-price)** で **セール** の筋を確認してください。
+
+## ${H.price}
+
+**価格は地域ごとに動きが早い**です。下の表は frontmatter と同じ **GameGulf** の地域別価格一覧から生成しています。[gamegulf.com](https://www.gamegulf.com) で自分のアカウント地域の表示を必ず照合し、「どこが一番安い」と決めつけないでください。
+
+## ${H.what}
+
+**${gameTitle}** は **${g}** 系の ${platformLabel} 向けパッケージ${dev ? `（**${dev}**）` : ''}です。長いストア文はマーケ前提で読み、**ジャンルの組み合わせ**と **${mcLine}** を羅針盤にしてください。
+
+1. **コアループ** — このカテゴリで ${platformLabel} ユーザーが期待する遊び方に近いです。
+2. **ボリューム** — ${pt} で、100時間級 RPG を誤爆買いしないように。
+3. **トーン** — トレーラーが正直なら、雰囲気もだいたいその延長です。
+
+## ${H.perf}
+
+**${gameTitle}** は ${platformLabel} で **安定した主流最適化**寄り：読み込みは許容範囲、コントローラ前提の UI、携帯でも絵が読めるラインです。
+
+- **携帯:** UI スケールと動きの見やすさが主な差分。致命的な移植ではなく軽い妥協の想定で。
+- **ドック:** 粒子祭りでなければ、快適さの寄与が中心で劇的な画質跳ねは期待しすぎないで。
+- **操作:** 基本割当。ストアが触れない限り変なジャイロ必須ではありません。
+
+## ${H.buy}
+
+- **${g}** のテンポが好きで、**${mcLine}** の帯が自分の期待と合う
+- **GameGulf** で見た地域の価格が **セール帯**（[再確認](${detailUrl}#currency-price) は必須）
+- **短いセッション** を大事にしたい — ${pt}
+- **トレーラー / 体験版** でほぼ決まっていて、**価格** の一押しが欲しい
+- パッケ狩りより **ダウンロード版の手軽さ** を ${platformLabel} で取りたい
+
+## ${H.wait}
+
+- 自分の地域は定価寄りなのに、他地域は深い **セール** がある
+- **${g}** の組み合わせ自体が苦手で **セール** でも救わない
+- 今月の予算は **長編 RPG** に回したい
+- すでに別環境で持っていて、**最安付近** の二枚目だけ欲しい
+- **パッチ差** が気になる — 掲示板を見てから **GameGulf** に戻る
+
+## ${H.close}
+
+**${gameTitle}** は ${platformLabel} で **レシート（価格表）と相性**の判断：**GameGulf** の **セール** が積み上がっているときは、好み + **Metacritic** の一致が誇り文句より効きます。
+
+**[GameGulf の価格](${detailUrl}#currency-price)** を一度だけ流し読みし、納得できるなら購入。迷うなら待って、次のセール窓でもう一度見れば十分です。
+`;
+  }
 
   return `## ${H.quick}
 
@@ -272,7 +390,7 @@ ${disc}
 
 ## ${H.price}
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
 
 ## ${H.what}
 
@@ -293,7 +411,7 @@ ${disc}
 ## ${H.buy}
 
 - You want **${g}** pacing and the **${mcLine}** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](${detailUrl}#currency-price)
+- **Your account region** already sits in the **sale** band **GameGulf** highlights — [double-check here](${detailUrl}#currency-price)
 - You value **pick-up-and-play** sessions — ${pt}
 - You already liked **trailers / demos** and only needed a **price** nudge
 - You prefer **digital convenience** on ${platformLabel} over hunting physical deals
@@ -310,7 +428,7 @@ ${disc}
 
 **${gameTitle}** is a **receipt-driven** decision on ${platformLabel}: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
 
-Skim **[GameGulf pricing](${detailUrl}#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Skim **[GameGulf pricing](${detailUrl}#currency-price)** once, lock the **deal** if your regional price lines up, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
 
 `;
 }
@@ -333,6 +451,18 @@ function pickSwitchPlatformKey(brief) {
     }
   }
   return best || 'switch';
+}
+
+/** Reader-facing console name: NS2 for new hardware; OG = "Switch" in zh-hans, "Nintendo Switch" elsewhere. */
+function displayPlatformLabel(locale, key) {
+  const k = String(key || 'switch').toLowerCase().replace(/\s+/g, '');
+  if (k === 'switch2') return 'NS2';
+  if (locale === 'zh-hans') return 'Switch';
+  return 'Nintendo Switch';
+}
+
+function displayPlatformField(locale, key) {
+  return displayPlatformLabel(locale, key);
 }
 
 function clip(s, max) {
@@ -363,8 +493,8 @@ function titleForLocale(locale, gameTitle, platformLabel) {
 function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, hltbStr) {
   const gameTitle = brief.game.title.replace(/[™®©]/g, '').trim();
   const key = pickSwitchPlatformKey(brief);
-  const platformLabel = key === 'switch 2' ? 'NS2' : 'Nintendo Switch';
-  const platformField = key === 'switch 2' ? 'NS2' : 'Nintendo Switch';
+  const platformLabel = displayPlatformLabel(locale, key);
+  const platformField = displayPlatformField(locale, key);
   const links = brief.product_links || {};
   const detailUrl = links.detail || brief.meta?.source_url;
   const pv =
@@ -380,9 +510,11 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
       ? locale === 'en'
         ? 'Yes — indexed data sits at or near the tracked historic low posture.'
         : locale === 'zh-hans'
-          ? '是——当前索引姿态接近或处于追踪的历史低价带。'
+          ? '是——当前价格接近或处于我们追踪到的历史低价区间。'
           : 'Yes — data tracks near historic lows.'
-      : 'Mixed — compare the live cheapest row to the tracked average.';
+      : locale === 'zh-hans'
+        ? '较复杂——请在 GameGulf 对照当前最低价与追踪均价。'
+        : 'Mixed — compare the live cheapest listing to the tracked average.';
 
   const tldrBase =
     locale === 'en'
@@ -412,14 +544,14 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
     readingTime: READING[locale],
     decision: clip(
       locale === 'en'
-        ? `Buy now if the pitch fits and your GameGulf row shows the promo band; wait if MSRP-only regions are your only option.`
-        : `若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。`,
+        ? `Buy now if the pitch fits and your GameGulf price snapshot shows the promo band; wait if MSRP-only regions are your only option.`
+        : `若口味匹配且 GameGulf 上你的区服已在促销带可买；若你只能买到接近标价的区服就更适合等等。`,
       240,
     ),
     priceSignal: clip(
       locale === 'en'
-        ? `Indexed pricing highlights the global low row versus MSRP tiers — huge spread is common on this SKU.`
-        : `索引价差常很明显：低价行与 MSRP 行可能差一档。`,
+        ? `Indexed pricing highlights the cheapest territories versus MSRP tiers — huge spread is common on this SKU.`
+        : `索引价差常很明显：低价区服与标价区服可能差一档。`,
       200,
     ),
     wishlistHref: links.wishlist || 'https://www.gamegulf.com/wishlist',
@@ -474,8 +606,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
     fitLabel: clip(locale === 'en' ? 'Buyers who compare two regions before checkout.' : '会先对照两个区服再下单的人。', 72),
     timingNote: clip(
       locale === 'en'
-        ? `If your row is already discounted, hesitation is mostly taste — still verify live pricing.`
-        : `若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。`,
+        ? `If your storefront price is already discounted, hesitation is mostly taste — still verify live pricing.`
+        : `若你看到的参考价已在促销带，犹豫多半只剩口味；但仍要核对商店实时价。`,
       200,
     ),
     communityVibe: clip(
@@ -488,8 +620,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
     reviewSignal: locReviewSignal(locale, mcNum),
     takeaway: clip(
       locale === 'en'
-        ? `${gameTitle} is a value call first — let GameGulf rows decide urgency, Metacritic sets quality expectations.`
-        : `${gameTitle} 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。`,
+        ? `${gameTitle} is a value call first — let GameGulf regional prices decide urgency, Metacritic sets quality expectations.`
+        : `${gameTitle} 更像“价格优先”的决策：用 GameGulf 各区参考价判断紧迫性。`,
       200,
     ),
     playStyle: clip(genres || 'Core loop matches standard controller play.', 200),
@@ -503,8 +635,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
     ),
     currentDeal: clip(
       locale === 'en'
-        ? `Cheapest indexed rows lead the table — compare native currency on GameGulf.`
-        : `索引最低价通常在表头几行；请在 GameGulf 对照原生货币。`,
+        ? `The cheapest tracked territories lead the table — compare native currency on GameGulf.`
+        : `索引最低价通常排在表格前几格；请在 GameGulf 对照原生货币。`,
       200,
     ),
     nearHistoricalLow: nearLow,
@@ -526,7 +658,7 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
     playerVoices: [
       { quote: clip(locale === 'en' ? 'Runs fine for me in handheld.' : '掌机模式整体可玩。', 80), sentiment: 'positive' },
       { quote: clip(locale === 'en' ? 'Worth it on a deep sale only.' : '深度折扣才值。', 80), sentiment: 'mixed' },
-      { quote: clip(locale === 'en' ? 'Check your own region first.' : '先看清自己区服行价。', 80), sentiment: 'positive' },
+      { quote: clip(locale === 'en' ? 'Check your own region first.' : '先看清自己区服价格。', 80), sentiment: 'positive' },
     ],
     communityMemes: [
       clip(`${gameTitle} sale bingo`, 40),
@@ -549,8 +681,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
         question: q1,
         answer: clip(
           locale === 'en'
-            ? `${gameTitle} is worth buying on ${platformLabel} in 2026 if the genre fits and your GameGulf row shows the promo band you expect — verify live pricing before checkout.`
-            : `${gameTitle} 是否值得买取决于你是否喜欢${genres || '这类玩法'}，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。`,
+            ? `${gameTitle} is worth buying on ${platformLabel} in 2026 if the genre fits and your GameGulf regional snapshot shows the promo band you expect — verify live pricing before checkout.`
+            : `${gameTitle} 是否值得买取决于你是否喜欢${genres || '这类玩法'}，以及你在 GameGulf 上看到的区服参考价是否落在预期促销带；下单前请再核对一次商店实时价。`,
           400,
         ),
       },
@@ -607,6 +739,10 @@ async function main() {
   const h = hltbHours(brief);
 
   let priceRows = normalizePriceRows(buildPriceRowsFromBrief(brief, 'en', { platformKey: key }));
+  if (priceRows.length < 4 && briefQualifiesForZeroPricePlaceholderGrid(brief)) {
+    priceRows = normalizePriceRows(buildZeroPricePlaceholderRows());
+    console.warn('Using zero-price placeholder grid (F2P / free utility, no GameGulf digital rows):', briefPath);
+  }
   if (priceRows.length < 4) {
     console.error('Not enough price rows (need 4+ non-AR). Skipping:', briefPath);
     process.exit(1);
@@ -614,7 +750,6 @@ async function main() {
   priceRows = priceRows.slice(0, 8);
 
   const gameTitle = brief.game.title.replace(/[™®©]/g, '').trim();
-  const platformLabel = key === 'switch 2' ? 'NS2' : 'Nintendo Switch';
   const detailUrl = brief.product_links?.detail || brief.meta?.source_url;
   const metaYear = String(brief.meta?.extracted_at || '2026').slice(0, 4);
   const anchorEur =
@@ -623,7 +758,7 @@ async function main() {
     gameTitle,
     genres: brief.game.genres,
     mcLine: locHeroStat('en', mcUse),
-    platformLabel,
+    platformLabel: displayPlatformLabel('en', key),
     detailUrl,
     analytics,
     playtime: null,
@@ -638,6 +773,7 @@ async function main() {
     const hltbStr = locPlaytime(loc, h);
     ctx.playtime = hltbStr;
     ctx.mcLine = locHeroStat(loc, mcUse);
+    ctx.platformLabel = displayPlatformLabel(loc, key);
     const fm = buildFrontmatter(loc, brief, articleSlug, priceRows, decision, mcUse, hltbStr);
     const body = buildBody(loc, ctx);
     const out = join(POSTS, loc, `${articleSlug}.md`);

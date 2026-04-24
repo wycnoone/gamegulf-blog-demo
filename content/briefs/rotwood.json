@@ -1,0 +1,510 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/iRRuS0wBuBs",
+    "game_id": "iRRuS0wBuBs",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Rotwood",
+    "description": "The world has been thrown into chaos, and it's up to you and your friends to battle the corrupted beasts of the Rotwood. Upgrade your gear, choose your preferred weapon, and hone your skills to defend your safe haven.\n\nRotwood is about getting better, getting stronger, and taking on challenges you once thought impossible. Featuring rich and varied fighting mechanics, play solo or co-op with up to three other friends to battle your way through the Rotwood and its increasingly frenzied inhabitants.\n\nComplex and Rewarding Combat: Button mashing and decent gear will only get you so far. You will need to make use of your skills and whatever you can gather before venturing too far into the Rotwood.\n\nBattle Bosses: Gather your friends and equipment then set out to face each boss on their own turf. Collect the rewards, get stronger, and master your weapon to take on bigger, badder bosses and their minions.\n\nA New Hunt, Every Time: Each time you venture out into the Rotwood collect and combine interesting powerups and abilities offered throughout your hunt. Choose your gear and strategize your choices to create insane builds that probably shouldn't be allowed.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028479913349.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028479913349.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028642013669.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028754416618.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028640414502.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028645010623.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028742416529.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503028890910019.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-playing"
+    ],
+    "release_date": "2026-03-03",
+    "developer": "Klei Entertainment",
+    "publisher": "Klei Entertainment",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 18.36,
+          "discount_price": 13.77,
+          "discount_rate": 25,
+          "discount_end": "2026-04-23 14:59:59",
+          "discount_end_timestamp": 1776956399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.77
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 14.92,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.92
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 25.66,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.66
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 28.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 28.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 13.77,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 13.77,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 13.77,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "JP",
+          "value": 13.77,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 25.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
+      "metacritic": 72,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "kYo4NRMWRCG",
+      "title": "Ultra Pixel Survive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509832319710446.jpeg",
+      "metacritic": null,
+      "price": 0.46,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-04-14",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 12.41,
+      "discount_price": 2.48,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
+      "id": "aXRBXHN2tEI",
+      "title": "Seven Spirits",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508718530815596.jpeg",
+      "metacritic": null,
+      "price": 0.81,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-09",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/aXRBXHN2tEI"
+    },
+    {
+      "id": "lqa9TJHCgVE",
+      "title": "Monster Hunter Rise",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513536485310369.jpeg",
+      "metacritic": 88,
+      "price": 21.55,
+      "discount_price": 4.31,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "19 hr",
+      "release_date": "2021-03-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/lqa9TJHCgVE"
+    },
+    {
+      "id": "ab3x78yk63M",
+      "title": "Moonlighter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516616208918895.jpeg",
+      "metacritic": 83,
+      "price": 11.91,
+      "discount_price": 1.75,
+      "discount_rate": 85,
+      "discount_tag": "LowPrice",
+      "discount_end": "24 days",
+      "release_date": "2021-02-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/ab3x78yk63M"
+    },
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513464210115579.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "12 days",
+      "release_date": "2021-04-15",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    },
+    {
+      "id": "9LhexgMA0RR",
+      "title": "Nexomon",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512539308818717.jpeg",
+      "metacritic": null,
+      "price": 4.75,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-01",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Fighting",
+        "Action",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9LhexgMA0RR"
+    },
+    {
+      "id": "bpMFtHJyIBc",
+      "title": "Collection of Mana",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515945486010794.jpeg",
+      "metacritic": 83,
+      "price": 19.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-13",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Other",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/bpMFtHJyIBc"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iRRuS0wBuBs#currency-price",
+      "priceCurrency": "USD",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iRRuS0wBuBs#currency-price",
+      "priceCurrency": "BRL",
+      "price": "88.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iRRuS0wBuBs#currency-price",
+      "priceCurrency": "ARS",
+      "price": "24000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iRRuS0wBuBs#currency-price",
+      "priceCurrency": "EUR",
+      "price": "28.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iRRuS0wBuBs#currency-price",
+      "priceCurrency": "JPY",
+      "price": "3400.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:50+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 13.77,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 13.77,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 25.66,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 13.77,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-04-08"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/iRRuS0wBuBs",
+    "price_track": "https://www.gamegulf.com/detail/iRRuS0wBuBs#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2015270,
+      "name": "Rotwood",
+      "developer": [
+        "Klei Entertainment"
+      ],
+      "publisher": [
+        "Klei Entertainment"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Full controller support",
+        "Steam Cloud",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "steam_price": "$22.49",
+      "total_recommendations": 7305,
+      "short_description": "The world has been thrown into chaos, and it's up to you and your friends to battle the corrupted beasts of the Rotwood. Upgrade your gear, choose your preferred weapon, and hone your skills to defend your safe haven.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Simplified Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 6004,
+        "total_negative": 1990,
+        "total_reviews": 7994,
+        "score_description": "Mostly Positive",
+        "positive_percent": 75
+      }
+    },
+    "hltb": null
+  }
+}

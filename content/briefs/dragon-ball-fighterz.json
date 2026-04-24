@@ -1,0 +1,799 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/5RjBiFrKel",
+    "game_id": "5RjBiFrKel",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "DRAGON BALL FighterZ",
+    "description": "DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its all-powerful fighters.\n\nPartnering with Arc System Works, DRAGON BALL FighterZ maximizes high end Anime graphics and brings easy to learn but difficult to master fighting gameplay.\n\nHigh-end Anime Graphics\nUsing the power of the Unreal engine and the talented team at Arc System Works, DRAGON BALL FighterZ is a visual tour-de-force.\n\n3vs3 Tag/Support\nBuild your dream team and sharpen your skills to master high-speed tag combinations.\n\nThrilling Online Features\nRanked matches, interactive lobby, crazy 6-player Party Match... There is something for every taste!\n\nExclusive Story Mode\nDiscover a scenario featuring Android 21, a brand new character whose creation was supervised by Akira Toriyama himself.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516716756616502.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516716756616502.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516716954614427.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516716947317167.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516716943911881.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516716950316939.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516716967614324.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516717195410812.jpeg"
+    ],
+    "genres": [
+      "Fighting",
+      "Action"
+    ],
+    "release_date": "2018-09-28",
+    "developer": "Arc System Works",
+    "publisher": "BANDAI NAMCO Entertainment",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 16.04,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.04
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 21.74,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.74
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 51.32,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 51.32
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 57,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 57
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 57.47,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 57.47
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-10-31",
+              "country_code": "GB",
+              "value": 57.47,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-03",
+              "country_code": "GB",
+              "value": 9.18,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "HK",
+              "value": 21.74,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-11-25",
+              "country_code": "HK",
+              "value": 3.06,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-22",
+              "country_code": "JP",
+              "value": 16.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-27",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-17",
+              "country_code": "HK",
+              "value": 3.06,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 57,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "JP",
+              "value": 16.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-05",
+              "country_code": "JP",
+              "value": 16.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-05-06",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-05-27",
+              "country_code": "HK",
+              "value": 4.15,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-07-20",
+              "country_code": "GB",
+              "value": 57.47,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-07-21",
+              "country_code": "GB",
+              "value": 9.18,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-08-20",
+              "country_code": "HK",
+              "value": 21.74,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-08-21",
+              "country_code": "HK",
+              "value": 3.71,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-10-03",
+              "country_code": "JP",
+              "value": 16.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-07",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-31",
+              "country_code": "GB",
+              "value": 57.47,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-03",
+              "country_code": "GB",
+              "value": 9.18,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "HK",
+              "value": 21.74,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-11-25",
+              "country_code": "HK",
+              "value": 3.06,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-22",
+              "country_code": "JP",
+              "value": 16.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-27",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-17",
+              "country_code": "HK",
+              "value": 3.06,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 57,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "JP",
+              "value": 16.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 16.04,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 51.32,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "effxAsKnOKb",
+      "title": "DRAGON BALL: THE BREAKERS",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510764485213018.jpeg",
+      "metacritic": null,
+      "price": 9.56,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-10-14",
+      "categories": [
+        "Action",
+        "Party",
+        "Other",
+        "Adventure",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/effxAsKnOKb"
+    },
+    {
+      "id": "aIGhDXXRJ2D",
+      "title": "DRAGON BALL GEKISHIN SQUADRA",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504435698610209.jpeg",
+      "metacritic": null,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2025-09-10",
+      "categories": [
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/aIGhDXXRJ2D"
+    },
+    {
+      "id": "4qys2NlKXDI",
+      "title": "ドラゴンボール ゲキシン スクアドラ",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177570288895511381.jpeg",
+      "metacritic": null,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2025-09-10",
+      "categories": [
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/4qys2NlKXDI"
+    },
+    {
+      "id": "4Km5lDIbVxW",
+      "title": "DRAGON BALL: Sparking! ZERO",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503912650716661.jpeg",
+      "metacritic": null,
+      "price": 51.32,
+      "discount_price": 33.87,
+      "discount_rate": 34,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "7 days",
+      "release_date": "2025-11-14",
+      "categories": [
+        "Action",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/4Km5lDIbVxW"
+    },
+    {
+      "id": "loIyW5N7Tpk",
+      "title": "ドラゴンボール Sparking! ZERO",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177571191026813146.jpeg",
+      "metacritic": null,
+      "price": 42.77,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-11-13",
+      "categories": [
+        "Action",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/loIyW5N7Tpk"
+    },
+    {
+      "id": "FPYQZcqqsH",
+      "title": "JoJo's Bizarre Adventure: All-Star Battle R",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510998294415108.jpeg",
+      "metacritic": null,
+      "price": 19.73,
+      "discount_price": 3.95,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "7 days",
+      "release_date": "2022-09-02",
+      "categories": [
+        "Fighting",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/FPYQZcqqsH"
+    },
+    {
+      "id": "2C0Qun7XswI",
+      "title": "ACA NEOGEO REAL BOUT FATAL FURY 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516840347010050.jpeg",
+      "metacritic": null,
+      "price": 4.53,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-16",
+      "categories": [
+        "Arcade",
+        "Fighting",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2C0Qun7XswI"
+    },
+    {
+      "id": "7VhBBiFgduX",
+      "title": "Goonya Fighter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515903598619645.jpeg",
+      "metacritic": null,
+      "price": 8.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-06-27",
+      "categories": [
+        "Action",
+        "Fighting",
+        "Party",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/7VhBBiFgduX"
+    },
+    {
+      "id": "ael7uFTLB9o",
+      "title": "The Viking's Games: Madness Fight",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511052547211947.jpeg",
+      "metacritic": null,
+      "price": 19.99,
+      "discount_price": 7.99,
+      "discount_rate": 60,
+      "discount_tag": "Normal",
+      "discount_end": "22 days",
+      "release_date": "2022-08-25",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/ael7uFTLB9o"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+      "priceCurrency": "USD",
+      "price": "59.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+      "priceCurrency": "EUR",
+      "price": "59.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+      "priceCurrency": "GBP",
+      "price": "49.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2970.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+      "priceCurrency": "HKD",
+      "price": "199.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+      "priceCurrency": "BRL",
+      "price": "339.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+      "priceCurrency": "ARS",
+      "price": "38399.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 16.04,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 16.04,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 51.32,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 3.06,
+        "region": "HK",
+        "country": "Hong Kong SAR China",
+        "date": "2025-11-25"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 11,
+      "avg_discount_price_eur": 7.3,
+      "sale_periods": [
+        {
+          "start": "2025-05-06",
+          "end": "2025-05-27"
+        },
+        {
+          "start": "2025-07-21",
+          "end": "2025-07-21"
+        },
+        {
+          "start": "2025-08-21",
+          "end": "2025-08-21"
+        },
+        {
+          "start": "2025-10-07",
+          "end": "2025-10-07"
+        },
+        {
+          "start": "2025-11-03",
+          "end": "2025-11-03"
+        },
+        {
+          "start": "2025-11-25",
+          "end": "2025-11-25"
+        },
+        {
+          "start": "2026-01-27",
+          "end": "2026-02-17"
+        },
+        {
+          "start": "2026-03-24",
+          "end": "2026-03-24"
+        }
+      ],
+      "days_since_last_discount": 29,
+      "last_discount": {
+        "date": "2026-03-24",
+        "price_eur": 7.99,
+        "region": "Japan",
+        "drop_pct": 50
+      },
+      "trend_entries_count": 19,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/5RjBiFrKel",
+    "price_track": "https://www.gamegulf.com/detail/5RjBiFrKel#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 678950,
+      "name": "DRAGON BALL FighterZ",
+      "developer": [
+        "Arc System Works"
+      ],
+      "publisher": [
+        "Bandai Namco Entertainment"
+      ],
+      "metacritic_score": 85,
+      "metacritic_url": "https://www.metacritic.com/game/pc/dragon-ball-fighterz?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Shared/Split Screen PvP",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action"
+      ],
+      "steam_price": "$9.59",
+      "total_recommendations": 54024,
+      "short_description": "DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its all-powerful fighters.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 68304,
+        "total_negative": 7201,
+        "total_reviews": 75505,
+        "score_description": "Very Positive",
+        "positive_percent": 90
+      }
+    },
+    "hltb": null
+  }
+}

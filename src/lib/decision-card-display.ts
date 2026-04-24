@@ -3,7 +3,7 @@ import type {
   DecisionEntryCardModel,
   PriceRecommendation,
   WorthItCardModel,
-} from '@/lib/blog';
+} from '@/lib/blog-shared';
 import type { BlogLocale } from '@/lib/i18n';
 import { t } from '@/lib/translations';
 import { shortenText, normalizeForComparison } from '@/lib/text-utils';

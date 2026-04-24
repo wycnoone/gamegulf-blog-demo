@@ -1,0 +1,13 @@
+diff --git a/node_modules/astro/dist/core/build/static-build.js b/node_modules/astro/dist/core/build/static-build.js
+index 9474ee2..67f3b7a 100644
+--- a/node_modules/astro/dist/core/build/static-build.js
++++ b/node_modules/astro/dist/core/build/static-build.js
+@@ -275,7 +275,7 @@ async function cleanServerOutput(opts, ssrOutputChunkNames, internals) {
+       files.map(async (filename) => {
+         const url = new URL(filename, out);
+         const map = new URL(url + ".map");
+-        await Promise.all([fs.promises.rm(url), fs.promises.rm(map).catch(() => {
++        await Promise.all([fs.promises.rm(url, { force: true }), fs.promises.rm(map).catch(() => {
+         })]);
+       })
+     );

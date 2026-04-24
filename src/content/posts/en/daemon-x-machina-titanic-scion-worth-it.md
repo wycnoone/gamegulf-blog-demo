@@ -160,13 +160,13 @@ Tracked **discount** history: **all-time low** around **€46.75** (HK), **3** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Germany | USD 41.17 | €69.99 |
-| Spain | USD 41.17 | €69.99 |
-| Portugal | USD 41.17 | €69.99 |
-| Hong Kong | USD 55.01 | HK$428 |
-| Brazil | USD 55.25 | R$279.99 |
-| Japan | USD 55.93 | ¥8,800 |
-| United States | USD 70.46 | $69.99 |
+| Germany | USD 41.05 | €69.99 |
+| Spain | USD 41.05 | €69.99 |
+| Portugal | USD 41.05 | €69.99 |
+| Hong Kong | USD 54.85 | HK$428 |
+| Brazil | USD 55.09 | R$279.99 |
+| Japan | USD 55.77 | ¥8,800 |
+| United States | USD 70.26 | $69.99 |
 
 ## What kind of game is Daemon X Machina: Titanic Scion, really?
 

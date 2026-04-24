@@ -162,14 +162,14 @@ Tracked **discount** history: **all-time low** around **€12.42** (JP), **3** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Germany | USD 13.06 | €19.49 |
-| Italy | USD 13.06 | €19.49 |
-| Japan | USD 14.61 | ¥2,300 |
-| Hong Kong | USD 16.06 | HK$125 |
-| Brazil | USD 19.73 | R$99.99 |
-| United States | USD 20.12 | $19.99 |
-| United Kingdom | USD 22.65 | £16.75 |
-| Spain | USD 22.93 | €19.49 |
+| Germany | USD 13.02 | €19.49 |
+| Italy | USD 13.02 | €19.49 |
+| Japan | USD 14.57 | ¥2,300 |
+| Hong Kong | USD 16.02 | HK$125 |
+| Brazil | USD 19.68 | R$99.99 |
+| United States | USD 20.06 | $19.99 |
+| United Kingdom | USD 22.59 | £16.75 |
+| Spain | USD 22.87 | €19.49 |
 
 ## What kind of game is Sail Forth, really?
 

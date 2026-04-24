@@ -61,7 +61,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - EA SPORTS Madden NFL 26 sale bingo
@@ -143,14 +143,14 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ブラジル | JPY 2191 | R$349 |
-| アメリカ合衆国 | JPY 2240 | $69.99 |
-| 日本 | JPY 9905 | ¥9,800 |
-| 香港 | JPY 11221 | HK$549 |
-| ドイツ | JPY 14969 | €79.99 |
-| スペイン | JPY 14969 | €79.99 |
-| フランス | JPY 14969 | €79.99 |
-| イタリア | JPY 14969 | €79.99 |
+| ブラジル | JPY 2188 | R$349 |
+| アメリカ合衆国 | JPY 2236 | $69.99 |
+| 日本 | JPY 9888 | ¥9,800 |
+| 香港 | JPY 11201 | HK$549 |
+| ドイツ | JPY 14943 | €79.99 |
+| スペイン | JPY 14943 | €79.99 |
+| フランス | JPY 14943 | €79.99 |
+| イタリア | JPY 14943 | €79.99 |
 
 ## 『EA SPORTS Madden NFL 26』はどんなゲーム？
 

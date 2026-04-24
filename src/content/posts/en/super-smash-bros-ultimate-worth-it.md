@@ -180,14 +180,14 @@ Price analytics currently classify it as **at historical low** in this tracker, 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 42.67 | HK$329 |
-| Japan | USD 50.43 | ¥7,920 |
-| United States | USD 60.98 | $59.99 |
-| Brazil | USD 64.98 | R$439.90 |
-| United Kingdom | USD 80.62 | £59.99 |
-| Germany | USD 81.97 | €69.99 |
-| Spain | USD 81.97 | €69.99 |
-| France | USD 81.97 | €69.99 |
+| Hong Kong | USD 42.76 | HK$329 |
+| Japan | USD 50.52 | ¥7,920 |
+| United States | USD 61.09 | $59.99 |
+| Brazil | USD 65.11 | R$439.90 |
+| United Kingdom | USD 80.77 | £59.99 |
+| Germany | USD 82.12 | €69.99 |
+| Spain | USD 82.12 | €69.99 |
+| France | USD 82.12 | €69.99 |
 
 Discount history context is straightforward: this dataset marks the current low as the historical low and reports zero discount events over the past year. For a Nintendo evergreen, this supports a practical buy-now call if the game fits your play habits.
 

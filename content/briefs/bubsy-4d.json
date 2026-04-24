@@ -1,0 +1,350 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/cAMH7qpHeAZ",
+    "game_id": "cAMH7qpHeAZ",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Bubsy 4D",
+    "description": "Join Bubsy on a new, intergalactic, platforming adventure! Yeah, we couldn’t believe it either. The world’s most infamous, wise-cracking bobcat has returned to 3D with new challenges, new moves, and even more purrsonality – in space! Run, jump, glide, and roll across alien planets, battle robotic sheep, and collect tons and tons of yarn. What could possibly go wrong?\n\nBubsy’s longstanding enemies, the fleece-obsessed Woolies, have stolen all of the Earth’s sheep. Oh well, that ain’t Bubsy’s problem. Until the sheep overthrow their captors and return as deadly BaaBots, empowered by Woolie technology, determined to steal Bubsy’s most prized possession, The Golden Fleece. \n\nWith the help of his motley crew of acquaintances, Bubsy must journey through space to defeat the BaaBots and take back the Golden Fleece. Luckily, he’s acquired some new skills to navigate the expansive, craft-themed levels. Bubsy can leap, glide, claw his way up walls, and pounce off enemies. He can also puff up into a new hairball form to roll at blistering speeds. \n\nThe team at Fabraz crafted this expressive new moveset to cater to beginners and speedrun enthusiasts alike. Once you’ve mastered Bubsy’s clawsome new moves, show off your skills by uploading your best level times to the online leaderboards for other players to race against!\n\nFeatures\n- Explore intergalactic, craft-themed worlds, each ending in a BaaBot boss battle\n- New hairball form allows you to roll, bounce, and launch your way around\n- An expressive platforming moveset supports both beginner and advanced levels of play\n- Spend yarn to purrchase stylish new outfits, or collect a hidden blueprint in each level to unlock new moves and upgrades\n- Tackle each level’s time trial, upload your best run, and race against other players’ ghost data\n- Chat with a cast of furmiliar friends including Terri, Terry, Virgil, and Oblivia\n- Pawsitively funky soundtrack by Fat Bard, incorporating elements of jazz, big band, electro-swing and more",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859487912678.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859487912678.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859810017515.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859933514101.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859862019319.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859898216329.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859825416266.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505860210411294.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Platformer"
+    ],
+    "release_date": "2026-05-22",
+    "developer": "Fabraz",
+    "publisher": "Atari",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    },
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "7Flsba5gsJj",
+      "title": "Bubsy 4D (やまねこバブジー 4D)",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573235795511241.jpeg",
+      "metacritic": null,
+      "price": 13.65,
+      "discount_price": 12.23,
+      "discount_rate": 10,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "35 days",
+      "release_date": "2026-05-28",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/7Flsba5gsJj"
+    },
+    {
+      "id": "2wzGLEduqxF",
+      "title": "Bubsy: Paws on Fire!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515722978616299.jpeg",
+      "metacritic": null,
+      "price": 21.38,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-08-29",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/2wzGLEduqxF"
+    },
+    {
+      "id": "4tb0zQsEZna",
+      "title": "Bubsy in: The Purrfect Collection",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504434876910828.jpeg",
+      "metacritic": null,
+      "price": 10.06,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-09-09",
+      "categories": [
+        "Action",
+        "Platformer",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/4tb0zQsEZna"
+    },
+    {
+      "id": "jOmK3pCLzXJ",
+      "title": "Bounce Journey",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509944240415964.jpeg",
+      "metacritic": null,
+      "price": 0.39,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/jOmK3pCLzXJ"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "asCNm1gJWSn",
+      "title": "From Heaven To Earth",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
+      "metacritic": null,
+      "price": 0.62,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-02-17",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Racing"
+      ],
+      "url": "https://www.gamegulf.com/detail/asCNm1gJWSn"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    },
+    {
+      "id": "4ih1kLyZLm8",
+      "title": "Panda Jump",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
+    }
+  ],
+  "schema_offers": [],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    },
+    "switch 1": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/cAMH7qpHeAZ",
+    "price_track": "https://www.gamegulf.com/detail/cAMH7qpHeAZ#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 3237970,
+      "name": "Bubsy 4D",
+      "developer": [
+        "Fabraz"
+      ],
+      "publisher": [
+        "Atari"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Camera Comfort",
+        "Color Alternatives",
+        "Custom Volume Controls",
+        "Keyboard Only Option",
+        "Mouse Only Option",
+        "Playable without Timed Input",
+        "Save Anytime",
+        "Stereo Sound",
+        "Touch Only Option",
+        "Steam Cloud",
+        "Stats",
+        "Steam Leaderboards",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "$17.99",
+      "total_recommendations": 0,
+      "short_description": "The infamous, wise-cracking bobcat has returned to 3D in a new platforming adventure. Bubsy is back with new challenges, new moves, and even more purrsonality. Run, jump, glide, and roll across alien planets, battle robotic sheep, and collect tons and tons of yarn. What could possibly go wrong?",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Arabic, Japanese, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 0,
+        "total_negative": 0,
+        "total_reviews": 0,
+        "score_description": "No user reviews",
+        "positive_percent": null
+      }
+    },
+    "hltb": null
+  }
+}

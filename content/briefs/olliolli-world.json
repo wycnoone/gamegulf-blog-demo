@@ -1,0 +1,598 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/gCg2uQJJfO1",
+    "game_id": "gCg2uQJJfO1",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "OlliOlli World",
+    "description": "Flip and flow through the vivid and vibrant world of Radlandia, meeting colorful characters as you grind, trick, and air your way to discover the mystical skate gods on your quest for Gnarvana.\n\nTraverse a delightful and weird world as you take on missions, challenges, and make new friends along the way. Customize your character’s looks, tricks, and style while you experience explorable levels with multiple paths that provide an array of opportunities for player expression.  Experience the accessibility, depth, and player freedom as you dive into the signature flow state gameplay of OlliOlli World.\n\nOlliOlli World marks the third entry in the critically-acclaimed OlliOlli series from Roll7, the BAFTA and multi-award-winning independent studio.\n\nKey Features:\n\n•\tWelcome to Radlandia!: Take a trip across a lush skateboarding utopia that is filled to the brim with eccentric characters and vibrant locations that are begging to be explored. Find your grind in Inflatable Alley or blaze down Los Vulgas to discover new paths, fresh side quests, rad rewards, and epic trick opportunities. All perfectly complemented by a hand-picked compilation of IDM and Electronica tracks. \n\n•\tPlay at your level: Super tight controls combine with highly refined gameplay to ensure a silky smooth ride. Not a Pro? Don’t worry – OlliOlli World welcomes you with open arms, allowing new players to tear down streets and pull off sick method grabs without fear of faceplanting the curb. \n\n•\tFreedom of expression: Cruise through Radlandias epic skate-haven and prove your skills to unlock special rewards that let you customize your character’s looks, tricks and style. Want to skate in your flip flops… go for it. Want to wear a bumble bee onesie …ok then… no judgement. In OlliOlli World as long as you’re on board anything goes!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928576817112.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928573012197.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928574915867.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928571116206.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928580016650.jpeg"
+    ],
+    "genres": [
+      "Arcade",
+      "Shooter",
+      "Platformer",
+      "Action",
+      "Sports"
+    ],
+    "release_date": "2022-02-08",
+    "developer": "Roll7",
+    "publisher": "2K",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 19.53,
+          "discount_price": 4.87,
+          "discount_rate": 75,
+          "discount_end": "2026-04-26 22:59:59",
+          "discount_end_timestamp": 1777244399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.87
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": 4.99,
+          "discount_rate": 75,
+          "discount_end": "2026-04-26 21:59:59",
+          "discount_end_timestamp": 1777240799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 14.26,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.26
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 17.04,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.04
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 18.09,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 18.09
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-02",
+              "country_code": "GB",
+              "value": 4.87,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-15",
+              "country_code": "JP",
+              "value": 14.26,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "GB",
+              "value": 4.87,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-15",
+              "country_code": "JP",
+              "value": 14.26,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "GB",
+              "value": 4.87,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "e4VrQFZytFk",
+      "title": "OlliOlli: Switch Stance",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516294568715760.jpeg",
+      "metacritic": 83,
+      "price": 8.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-02-14",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/e4VrQFZytFk"
+    },
+    {
+      "id": "idXEXLICMut",
+      "title": "Composer World",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508814637311554.jpeg",
+      "metacritic": null,
+      "price": 4.31,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-10-25",
+      "categories": [
+        "Music",
+        "Lifestyle",
+        "Utility"
+      ],
+      "url": "https://www.gamegulf.com/detail/idXEXLICMut"
+    },
+    {
+      "id": "fI6S8ljXUmM",
+      "title": "World Spin",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509218476117422.jpeg",
+      "metacritic": null,
+      "price": 0.35,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-08-10",
+      "categories": [
+        "Puzzle",
+        "Action",
+        "Party",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/fI6S8ljXUmM"
+    },
+    {
+      "id": "hGsaURcDsi1",
+      "title": "Rafa's World",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510352270011224.jpeg",
+      "metacritic": null,
+      "price": 0.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-07",
+      "categories": [
+        "Adventure",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hGsaURcDsi1"
+    },
+    {
+      "id": "bf8dsmvyxIk",
+      "title": "Alter World",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510894237411350.jpeg",
+      "metacritic": null,
+      "price": 0.44,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-22",
+      "categories": [
+        "Utility",
+        "Adventure",
+        "Puzzle",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/bf8dsmvyxIk"
+    },
+    {
+      "id": "bFWHrPX2x8j",
+      "title": "Power of Ten",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508044246216690.jpeg",
+      "metacritic": null,
+      "price": 4.86,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-20",
+      "categories": [
+        "Action",
+        "Sports",
+        "Platformer",
+        "Arcade",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/bFWHrPX2x8j"
+    },
+    {
+      "id": "lIWahdh1tFY",
+      "title": "Taito Milestones 3",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506360287314043.jpeg",
+      "metacritic": null,
+      "price": 30.89,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-11-28",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Shooter",
+        "Adventure",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/lIWahdh1tFY"
+    },
+    {
+      "id": "c8cJIGZNe9q",
+      "title": "Hidden Gems: Volume One",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508956820114471.jpeg",
+      "metacritic": null,
+      "price": 1.51,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
+      "categories": [
+        "Action",
+        "Sports",
+        "Shooter",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/c8cJIGZNe9q"
+    },
+    {
+      "id": "2GTxpGVy10L",
+      "title": "Ball-it Hell",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505813558612681.jpeg",
+      "metacritic": null,
+      "price": 4.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-03-04",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Sports",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GTxpGVy10L"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:23:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:23:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+      "priceCurrency": "GBP",
+      "price": "16.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:23:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2640.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:23:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+      "priceCurrency": "HKD",
+      "price": "156.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:23:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+      "priceCurrency": "BRL",
+      "price": "107.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:23:39+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+      "priceCurrency": "ARS",
+      "price": "18999.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:23:39+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 4.87,
+        "region": "United Kingdom",
+        "country_code": "GB"
+      },
+      "global_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.87,
+        "region": "GB",
+        "country": "United Kingdom",
+        "date": "2026-04-02"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 4.87,
+      "sale_periods": [],
+      "days_since_last_discount": 19,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 4.87,
+        "region": "United Kingdom",
+        "drop_pct": 66
+      },
+      "trend_entries_count": 2,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/gCg2uQJJfO1",
+    "price_track": "https://www.gamegulf.com/detail/gCg2uQJJfO1#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1190170,
+      "name": "OlliOlli World",
+      "developer": [
+        "Roll7"
+      ],
+      "publisher": [
+        "2K"
+      ],
+      "metacritic_score": 87,
+      "metacritic_url": "https://www.metacritic.com/game/pc/olliolli-world?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie",
+        "Sports"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 888,
+      "short_description": "OlliOlli World is a bold new skateboarding action-platformer that’s bursting with personality. Flip and flow through the vivid and vibrant world of Radlandia, meeting colorful characters as you grind, trick, and air your way to discover the mystical skate gods on your quest for Gnarvana.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 1647,
+        "total_negative": 184,
+        "total_reviews": 1831,
+        "score_description": "Very Positive",
+        "positive_percent": 90
+      }
+    },
+    "hltb": null
+  }
+}

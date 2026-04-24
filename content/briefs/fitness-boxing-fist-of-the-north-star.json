@@ -1,0 +1,442 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/g7cPULp13iS",
+    "game_id": "g7cPULp13iS",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf"
+    ]
+  },
+  "game": {
+    "title": "Fitness Boxing Fist of the North Star",
+    "description": "Improve your daily exercise habits, get into shape, and draw back the curtain on a new, legendary body! While retaining the basic features of Fitness Boxing, this new installment adds characters and settings from the world of Fist of the North Star for truly effective workouts!\n\n■Fist of the North Star Characters Are Your Instructors\nThe Fitness Boxing series is a boxing exercise game that utilizes the Joy-Con™ to let you throw different punches in the same way as in a rhythm game, while receiving directions from in-game instructors voiced by popular voice actors.\n\nIn Fitness Boxing Fist of the North Star, Kenshiro, the protagonist of Fist of the North Star, and his rivals guide the player as instructors.\n\n■New \"Battle\" Mode\nA new \"Battle\" mode has been added that lets you defeat enemies in the same way as in a rhythm game. The game contains two modes that let you experience workouts with a greater emphasis on action: Outlaw Battle, in which you take down scores of outlaws with your punches, and Boss Battle, in which you fight Kenshiro's rivals such as Raoh.\n\n■Music and Costumes that Further Boost the Fist of the North Star Experience\nBackground music is absolutely essential for exercise. The game features not only Fist of the North Star classics like AIO TORIMODOSE!!, TOUGH BOY, YURIA EIENNI, and SILENT SURVIVOR, but also original songs tailored to each character for a total of 20 songs.\n\nCharacters' outfits can be changed to fit your mood. Many original outfits are available, so check out all the new outfits never before seen in Fist of the North Star.\n\n■Popular Fitness Boxing Features Left Unaltered\nWith the purpose of helping to promote exercising at home and making exercise a daily habit, the game, naturally, continues the use of the series's popular support features such as the alarm and the ability to exclude actions that you struggle with.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072231519012.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072231519012.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072423010019.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072421913342.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072435619232.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072423410907.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072454016804.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510072656014049.jpeg"
+    ],
+    "genres": [
+      "Training",
+      "Sports",
+      "Music",
+      "Other",
+      "Action"
+    ],
+    "release_date": "2023-03-02",
+    "developer": null,
+    "publisher": "Imagineer",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 41.76,
+          "discount_price": 8.35,
+          "discount_rate": 80,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.35
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 42.77,
+          "discount_price": 8.55,
+          "discount_rate": 80,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.55
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 45.97,
+          "discount_price": 9.18,
+          "discount_rate": 80,
+          "discount_end": "2026-04-21 22:59:59",
+          "discount_end_timestamp": 1776812399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.18
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 49.99,
+          "discount_price": 9.99,
+          "discount_rate": 80,
+          "discount_end": "2026-04-21 21:59:59",
+          "discount_end_timestamp": 1776808799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 49.99,
+          "discount_price": 9.99,
+          "discount_rate": 80,
+          "discount_end": "2026-04-21 21:59:59",
+          "discount_end_timestamp": 1776808799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 49.99,
+          "discount_price": 9.99,
+          "discount_rate": 80,
+          "discount_end": "2026-04-21 21:59:59",
+          "discount_end_timestamp": 1776808799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 49.99,
+          "discount_price": 9.99,
+          "discount_rate": 80,
+          "discount_end": "2026-04-21 21:59:59",
+          "discount_end_timestamp": 1776808799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 49.99,
+          "discount_price": 9.99,
+          "discount_rate": 80,
+          "discount_end": "2026-04-21 22:59:59",
+          "discount_end_timestamp": 1776812399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 41.47,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 41.47
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 43.69,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 43.69
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-29",
+              "country_code": "DE",
+              "value": 49.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-06",
+              "country_code": "JP",
+              "value": 41.47,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 27,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-19",
+              "country_code": "HK",
+              "value": 4.37,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-17",
+              "country_code": "JP",
+              "value": 41.47,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-03",
+              "country_code": "JP",
+              "value": 27,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-09-12",
+              "country_code": "HK",
+              "value": 4.37,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-11-29",
+              "country_code": "DE",
+              "value": 49.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-06",
+              "country_code": "JP",
+              "value": 41.47,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 27,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-19",
+              "country_code": "HK",
+              "value": 4.37,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-17",
+              "country_code": "JP",
+              "value": 41.47,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-03",
+              "country_code": "JP",
+              "value": 27,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 8.55,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+      "priceCurrency": "USD",
+      "price": "49.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:58+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+      "priceCurrency": "JPY",
+      "price": "7678.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:58+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+      "priceCurrency": "HKD",
+      "price": "400.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:58+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+      "priceCurrency": "BRL",
+      "price": "249.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:58+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+      "priceCurrency": "ARS",
+      "price": "9609.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:58+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+      "priceCurrency": "EUR",
+      "price": "49.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:58+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+      "priceCurrency": "GBP",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:26:58+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.35,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 4.37,
+        "region": "HK",
+        "date": "2025-09-12"
+      },
+      "local_low": {
+        "price_eur": 8.55,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.37,
+        "region": "HK",
+        "country": "Hong Kong SAR China",
+        "date": "2025-09-12"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 4,
+      "avg_discount_price_eur": 24.96,
+      "sale_periods": [
+        {
+          "start": "2025-09-12",
+          "end": "2025-09-12"
+        },
+        {
+          "start": "2025-12-19",
+          "end": "2025-12-19"
+        }
+      ],
+      "days_since_last_discount": 49,
+      "last_discount": {
+        "date": "2026-03-03",
+        "price_eur": 27,
+        "region": "Japan",
+        "drop_pct": 35
+      },
+      "trend_entries_count": 7,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/g7cPULp13iS",
+    "price_track": "https://www.gamegulf.com/detail/g7cPULp13iS#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": null,
+    "hltb": null
+  }
+}

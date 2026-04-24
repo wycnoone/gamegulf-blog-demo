@@ -1,0 +1,680 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/b27DJctYhLp",
+    "game_id": "b27DJctYhLp",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "The Last Campfire",
+    "description": "ON A JOURNEY\nTravel deeper into the lands beyond the dark forest and overcome the adversities before you.\n\nUNCOVER A WORLD\nDiscover beautiful wilderness filled with lost folk, strange creatures and mysterious ruins.\n\nLIGHT THE LAST CAMPFIRE\nFind hope and carry it with you on your Journey to light The Last Campfire.\n\nFROM A SMALL STUDIO\nA unique tale from Hello Games and the creative minds behind LostWinds.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414114216960.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414114216960.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414308312723.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414304315627.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414310014956.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414290215619.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414291711452.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_date": "2020-08-27",
+    "developer": "Hello Games",
+    "publisher": "Hello Games",
+    "metacritic": 83
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 7.99,
+          "discount_price": 0.8,
+          "discount_rate": 90,
+          "discount_end": "2026-04-22 14:59:59",
+          "discount_end_timestamp": 1776869999,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 0.8
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 9.72,
+          "discount_price": 1.09,
+          "discount_rate": 88,
+          "discount_end": "2026-04-22 15:59:59",
+          "discount_end_timestamp": 1776873599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 1.09
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 14.99,
+          "discount_price": 1.49,
+          "discount_rate": 90,
+          "discount_end": "2026-04-22 21:59:59",
+          "discount_end_timestamp": 1776895199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 1.49
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 14.99,
+          "discount_price": 1.49,
+          "discount_rate": 90,
+          "discount_end": "2026-04-22 21:59:59",
+          "discount_end_timestamp": 1776895199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 1.49
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": 1.7,
+          "discount_rate": 86,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 1.7
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 15.51,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.51
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-25",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-07",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-13",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-21",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-10",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-07",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-02",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-06-03",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-07-16",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-08-27",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-17",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-10-18",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-21",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-13",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-21",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-10",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "JP",
+              "value": 7.99,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-07",
+              "country_code": "JP",
+              "value": 0.8,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 0.8,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 1.7,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "7Ihf5gsTuGe",
+      "title": "The Last Faith",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613775032913168.jpeg",
+      "metacritic": null,
+      "price": 3.02,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-15",
+      "categories": [
+        "Action",
+        "Role-playing",
+        "Adventure",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/7Ihf5gsTuGe"
+    },
+    {
+      "id": "90jbAweetm3",
+      "title": "The Last Cube",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511797179218872.jpeg",
+      "metacritic": null,
+      "price": 1.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-10",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/90jbAweetm3"
+    },
+    {
+      "id": "31NWkgBm7mI",
+      "title": "The Last Worker",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509932736817056.jpeg",
+      "metacritic": null,
+      "price": 3.01,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-30",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Other",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/31NWkgBm7mI"
+    },
+    {
+      "id": "kDccpThEfkJ",
+      "title": "The Last Days",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514270987715242.jpeg",
+      "metacritic": null,
+      "price": 9.99,
+      "discount_price": 1.99,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "8 days",
+      "release_date": "2020-10-01",
+      "categories": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/kDccpThEfkJ"
+    },
+    {
+      "id": "hSrVMA4p0Z2",
+      "title": "The Last Survey",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512881992816886.jpeg",
+      "metacritic": null,
+      "price": 8.64,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Adventure",
+        "Education",
+        "Lifestyle",
+        "Simulation",
+        "Study",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hSrVMA4p0Z2"
+    },
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "5yQg2v3ODEh",
+      "title": "World Of Solitaire",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514092135617241.jpeg",
+      "metacritic": null,
+      "price": 5.78,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-22",
+      "categories": [
+        "Adventure",
+        "Board game",
+        "Puzzle",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/5yQg2v3ODEh"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/b27DJctYhLp#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:29+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/b27DJctYhLp#currency-price",
+      "priceCurrency": "EUR",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:29+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/b27DJctYhLp#currency-price",
+      "priceCurrency": "GBP",
+      "price": "13.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:29+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/b27DJctYhLp#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1480.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:29+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/b27DJctYhLp#currency-price",
+      "priceCurrency": "HKD",
+      "price": "89.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:24:29+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 0.8,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 0.8,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 1.7,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 0.8,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-06-03"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 7,
+      "avg_discount_price_eur": 2.85,
+      "sale_periods": [],
+      "days_since_last_discount": 14,
+      "last_discount": {
+        "date": "2026-04-07",
+        "price_eur": 0.8,
+        "region": "Japan",
+        "drop_pct": 90
+      },
+      "trend_entries_count": 14,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/b27DJctYhLp",
+    "price_track": "https://www.gamegulf.com/detail/b27DJctYhLp#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 990630,
+      "name": "The Last Campfire",
+      "developer": [
+        "Hello Games"
+      ],
+      "publisher": [
+        "Hello Games"
+      ],
+      "metacritic_score": 80,
+      "metacritic_url": "https://www.metacritic.com/game/pc/the-last-campfire?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "$14.99",
+      "total_recommendations": 16194,
+      "short_description": "The Last Campfire is an adventure, a story of a lost ember trapped in a puzzling place, searching for meaning and a way home.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Arabic, Dutch, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 18593,
+        "total_negative": 463,
+        "total_reviews": 19056,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 98
+      }
+    },
+    "hltb": null
+  }
+}

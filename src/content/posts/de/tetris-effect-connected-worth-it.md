@@ -1,7 +1,7 @@
 ---
 title: "Lohnt sich Tetris® Effect: Connected auf der Switch 2026?"
 description: >-
-  Switch-Kaufratgeber — indexierte eShop-Zeilen April 2026, Rabatt-Historie vs.
+  Switch-Kaufratgeber — indexierte eShop-Preisn April 2026, Rabatt-Historie vs.
   Hongkong-Anker, Zone/Connected-Modi, Performance, Kauf jetzt oder Preisalarm.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -110,7 +110,7 @@ faq:
       Tetris® Effect: Connected lohnt sich 2026, wenn du die audiovisuelle
       Version mit Zone, Journey und ernstem Multiplayer willst. Stand April 2026
       startet GameGulfs Index ~19,49 € äquivalent in Hongkong — prüfe deine
-      eigene eShop-Zeile vor dem Kauf.
+      eigene eShop-Preis vor dem Kauf.
   - question: "Wie lang dauert Tetris® Effect: Connected?"
     answer: >-
       Tetris® Effect: Connected hat laut HLTB eine kurze Journey; Extras,
@@ -219,7 +219,7 @@ Präzisions-Puzzle mit Show, kein narrative Port-Bettler.
 ## Jetzt kaufen, wenn
 
 - Du **Zone + Journey + Connected** nativ auf der Switch willst
-- Deine **eShop-Zeile** schon bei **19,99 €** oder nah am **HK-Anker** liegt
+- Deine **eShop-Preis** schon bei **19,99 €** oder nah am **HK-Anker** liegt
 - **Show + Sound** genauso zählen wie Speed
 - **Freundesliste** für **Connected / Zone Battle** bereitsteht
 - **HLTB ~3 h / ~8 h / ~57 h** zu deinem Zeitbudget passt

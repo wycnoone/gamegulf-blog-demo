@@ -191,14 +191,14 @@ April 2026 is a **pricing** question: indexed rows still put **Japan near €41.
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 48.89 | ¥7,678 |
-| Hong Kong | USD 56.81 | HK$438 |
-| Brazil | USD 58.11 | R$295 |
-| United States | USD 60.98 | $59.99 |
-| Germany | USD 70.25 | €59.99 |
-| Spain | USD 70.25 | €59.99 |
-| France | USD 70.25 | €59.99 |
-| Italy | USD 70.25 | €59.99 |
+| Japan | USD 48.99 | ¥7,678 |
+| Hong Kong | USD 56.92 | HK$438 |
+| Brazil | USD 58.22 | R$295 |
+| United States | USD 61.09 | $59.99 |
+| Germany | USD 70.39 | €59.99 |
+| Spain | USD 70.39 | €59.99 |
+| France | USD 70.39 | €59.99 |
+| Italy | USD 70.39 | €59.99 |
 
 Tracked data is louder than sticker price: the **deepest captured point** sits near **€12.52 on the Japan eShop on 10 March 2026**, while **France printed €17.99 on 1 January 2026** — both read as real **sale** moments next to **€59.99** list elsewhere. With **nine discount** events in the rolling year and **~€20.01** average discount-level pricing, treat today as **between sales**, not the floor. On GameGulf, open the [live price grid](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) for **your** account region before checkout.
 

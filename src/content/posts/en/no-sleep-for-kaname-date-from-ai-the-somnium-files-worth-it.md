@@ -171,14 +171,14 @@ Tracked **discount** history: **all-time low** around **€20.75** (HK), **7** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 30.59 | HK$238 |
-| Japan | USD 34.82 | ¥5,478 |
-| Brazil | USD 39.27 | R$199 |
-| United States | USD 40.25 | $39.99 |
-| Germany | USD 47.06 | €39.99 |
-| Spain | USD 47.06 | €39.99 |
-| France | USD 47.06 | €39.99 |
-| Italy | USD 47.06 | €39.99 |
+| Hong Kong | USD 30.51 | HK$238 |
+| Japan | USD 34.72 | ¥5,478 |
+| Brazil | USD 39.15 | R$199 |
+| United States | USD 40.14 | $39.99 |
+| Germany | USD 46.92 | €39.99 |
+| Spain | USD 46.92 | €39.99 |
+| France | USD 46.92 | €39.99 |
+| Italy | USD 46.92 | €39.99 |
 
 ## What kind of game is No Sleep For Kaname Date - From AI: THE SOMNIUM FILES, really?
 

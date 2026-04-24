@@ -182,10 +182,10 @@ The purchase question is mostly **regional math**: indexed data puts **Japan nea
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 50.30 | ¥7,900 |
-| Hong Kong | USD 51.75 | HK$449 |
-| United States | USD 71.14 | $79.99 |
-| Brazil | USD 78.59 | R$499.90 |
+| Japan | USD 50.39 | ¥7,900 |
+| Hong Kong | USD 51.85 | HK$449 |
+| United States | USD 71.28 | $79.99 |
+| Brazil | USD 78.74 | R$499.90 |
 
 **Why there is no Euro or UK row here:** GameGulf’s Switch digital index for this product ID currently returns only the regions in the table above — it does **not** yet include separate EU or United Kingdom eShop lines in the same feed. The game is still sold in € and £ storefronts; use the [live multi-region grid](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price) or your local Nintendo eShop for those prices.
 

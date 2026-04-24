@@ -1,4 +1,4 @@
-import type { DecisionEntryCardModel } from '@/lib/blog';
+import type { DecisionEntryCardModel } from '@/lib/blog-shared';
 import { intlLocales } from '@/lib/i18n';
 import { t } from '@/lib/translations';
 import {

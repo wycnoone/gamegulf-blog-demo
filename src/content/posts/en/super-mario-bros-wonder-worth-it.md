@@ -181,10 +181,10 @@ April 2026 pricing is **first-party math**: indexed data still puts **Japan near
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.39 | ¥6,500 |
-| Hong Kong | USD 42.67 | HK$329 |
-| United States | USD 60.98 | $59.99 |
-| Brazil | USD 68.74 | R$349 |
+| Japan | USD 41.46 | ¥6,500 |
+| Hong Kong | USD 42.76 | HK$329 |
+| United States | USD 61.09 | $59.99 |
+| Brazil | USD 68.87 | R$349 |
 
 Because **discount** prints are **absent** in the trailing-year feed, the practical read is simple: **2026** list bands (**€35.34-class Japan**, **$59.99 US**) behave like the **floor** until Nintendo runs a broad **promo**. That pattern matches **rare first-party cuts** on flagship Mario SKUs — not a judgment on quality, just **sale** frequency. **GameGulf** tracks those rows in the [live multi-region grid](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price); confirm **your** storefront before you buy.
 

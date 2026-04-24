@@ -194,14 +194,14 @@ April 2026 **pricing** is the tension: **Brazil still leads indexed rows near �
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 14.38 | R$72.99 |
-| Japan | USD 17.82 | ¥2,800 |
-| Hong Kong | USD 19.45 | HK$150 |
-| United States | USD 25.40 | $24.99 |
-| Germany | USD 26.92 | €22.99 |
-| Spain | USD 26.92 | €22.99 |
-| France | USD 26.92 | €22.99 |
-| Italy | USD 26.92 | €22.99 |
+| Brazil | USD 14.41 | R$72.99 |
+| Japan | USD 17.86 | ¥2,800 |
+| Hong Kong | USD 19.49 | HK$150 |
+| United States | USD 25.45 | $24.99 |
+| Germany | USD 26.97 | €22.99 |
+| Spain | USD 26.97 | €22.99 |
+| France | USD 26.97 | €22.99 |
+| Italy | USD 26.97 | €22.99 |
 
 The **discount** story dominates: the feed’s **deepest historical low** lands near **€1.25 in Japan on 17 April 2025**, while **list prices** in **April 2026** remain multiple times higher than the **average sale-era band (~€3.77)**. The last captured **discount** move was **5 days** ago (**Hong Kong SAR China**, **2 April 2026**, **~28% drop** in the tracker). Translation: **INSIDE goes on sale a lot** — paying tourist **price** rarely ages well. Confirm your account on the [live grid](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) before checkout.
 

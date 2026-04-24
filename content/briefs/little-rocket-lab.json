@@ -1,0 +1,783 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/aqzo5iha7hQ",
+    "game_id": "aqzo5iha7hQ",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Little Rocket Lab",
+    "description": "You play as Morgan, an aspiring engineer headed home to complete your family's dream project - a rocket ship! Finding home not quite how she left it, Morgan will need to research and build clever contraptions and sprawling factories to help the locals. From simple drills and furnaces to complex assemblers, cranes and miles of conveyor belts, you'll convert local resources into useful materials and bring industry back to sleepy St. Ambroise.\n\n- Build clever contraptions and sprawling factories to solve puzzles and help the town\n- Get to know the locals, make lifelong friendships and become the heart of the community\n- Research and invent new machines, energy sources and mechanical friends\n- Discover a heartwarming story as Morgan, an aspiring engineer with high hopes for town!\n- Finally build your family's rocket ship!\n\nOutside of smashing together crazy contraptions, you'll need to mine out resources, explore coasts, railyards, quarries and underground areas - each part of town has its own materials to inspire you! You'll need to complete challenges, incorporate electrical elements, water, cranes, furnaces, crafting, automate through robotics, and loads more to ensure St. Ambroise returns to its former glory. Are you ready to roll up your sleeves?",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733461114601.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733461114601.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733601915098.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733604816321.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733611310941.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733601415797.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733641114350.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503733762813883.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Role-playing",
+      "Simulation"
+    ],
+    "release_date": "2025-12-10",
+    "developer": "Teenage Astronauts",
+    "publisher": "No More Robots",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 6.71,
+          "discount_price": 5.03,
+          "discount_rate": 25,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 5.03
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": 12.82,
+          "discount_rate": 25,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 17.99,
+          "discount_price": 13.49,
+          "discount_rate": 25,
+          "discount_end": "2026-05-08 21:59:59",
+          "discount_end_timestamp": 1778277599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.49
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 17.99,
+          "discount_price": 13.49,
+          "discount_rate": 25,
+          "discount_end": "2026-05-08 21:59:59",
+          "discount_end_timestamp": 1778277599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.49
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 17.99,
+          "discount_price": 13.49,
+          "discount_rate": 25,
+          "discount_end": "2026-05-08 21:59:59",
+          "discount_end_timestamp": 1778277599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.49
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 17.99,
+          "discount_price": 13.49,
+          "discount_rate": 25,
+          "discount_end": "2026-05-08 22:59:59",
+          "discount_end_timestamp": 1778281199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.49
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 18.38,
+          "discount_price": 13.78,
+          "discount_rate": 25,
+          "discount_end": "2026-05-08 22:59:59",
+          "discount_end_timestamp": 1778281199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.78
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 17.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-02",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-10",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-01-31",
+              "country_code": "BR",
+              "value": 6.71,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-12",
+              "country_code": "DE",
+              "value": 17.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 6.71,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-12-10",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-01-31",
+              "country_code": "BR",
+              "value": 6.71,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-12",
+              "country_code": "DE",
+              "value": 17.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 6.71,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 6.71,
+          "discount_price": 5.03,
+          "discount_rate": 25,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 5.03
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-31",
+              "country_code": "BR",
+              "value": 6.71,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-02-04",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "BR",
+              "value": 6.71,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-02-04",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "BR",
+              "value": 6.71,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "BR",
+              "value": 5.03,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "BR",
+          "value": 5.03,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "BR",
+          "value": 5.03,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "c82iLEcezVD",
+      "title": "Pony World 3",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513263883213761.jpeg",
+      "metacritic": null,
+      "price": 3.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-01-20",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Simulation",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/c82iLEcezVD"
+    },
+    {
+      "id": "iXKrIwGEXZj",
+      "title": "Chinese Parents",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514438098413373.jpeg",
+      "metacritic": null,
+      "price": 6.91,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-20",
+      "categories": [
+        "Adventure",
+        "Lifestyle",
+        "Role-playing",
+        "Simulation",
+        "Puzzle",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/iXKrIwGEXZj"
+    },
+    {
+      "id": "amMHzQ9CHyL",
+      "title": "To The Sky",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508024155615428.jpeg",
+      "metacritic": null,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-21",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/amMHzQ9CHyL"
+    },
+    {
+      "id": "b6Y9sB3WqdR",
+      "title": "MazM: The Phantom of the Opera",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513549295815143.jpeg",
+      "metacritic": null,
+      "price": 8.91,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-25",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/b6Y9sB3WqdR"
+    },
+    {
+      "id": "a8QMoMHkUpB",
+      "title": "Vampire: The Masquerade - Swansong",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613769103016479.jpeg",
+      "metacritic": null,
+      "price": 59.99,
+      "discount_price": 11.99,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2023-09-28",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Puzzle",
+        "Other",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/a8QMoMHkUpB"
+    },
+    {
+      "id": "2F60v3cWZHQ",
+      "title": "Catch a Duck",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515807019311176.jpeg",
+      "metacritic": null,
+      "price": 3.24,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-04-09",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Role-playing",
+        "Simulation",
+        "Puzzle",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/2F60v3cWZHQ"
+    },
+    {
+      "id": "89Z1DKNpOEb",
+      "title": "Bear's Restaurant",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513190608515771.jpeg",
+      "metacritic": null,
+      "price": 1.23,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-10-09",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/89Z1DKNpOEb"
+    },
+    {
+      "id": "3npOq4E53k4",
+      "title": "Doodle Devil: 3volution",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614000068812400.jpeg",
+      "metacritic": null,
+      "price": 0.59,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-10",
+      "categories": [
+        "Adventure",
+        "Board game",
+        "Puzzle",
+        "Simulation",
+        "Role-playing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/3npOq4E53k4"
+    },
+    {
+      "id": "i4BNndP9UtF",
+      "title": "OPUS: Rocket of Whispers",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517122586112907.jpeg",
+      "metacritic": null,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-03-22",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/i4BNndP9UtF"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/aqzo5iha7hQ#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/aqzo5iha7hQ#currency-price",
+      "priceCurrency": "BRL",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/aqzo5iha7hQ#currency-price",
+      "priceCurrency": "ARS",
+      "price": "15000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/aqzo5iha7hQ#currency-price",
+      "priceCurrency": "EUR",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:12+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/aqzo5iha7hQ#currency-price",
+      "priceCurrency": "GBP",
+      "price": "15.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:15:12+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 5.03,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 5.03,
+        "region": "BR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.03,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2025-12-10"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 3,
+      "avg_discount_price_eur": 5.59,
+      "sale_periods": [],
+      "days_since_last_discount": 19,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 5.03,
+        "region": "Brazil",
+        "drop_pct": 25
+      },
+      "trend_entries_count": 6,
+      "price_verdict": "at_historical_low"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 5.03,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 5.03,
+        "region": "BR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.03,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-02-04"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 5.87,
+      "sale_periods": [],
+      "days_since_last_discount": 19,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 5.03,
+        "region": "Brazil",
+        "drop_pct": 25
+      },
+      "trend_entries_count": 4,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/aqzo5iha7hQ",
+    "price_track": "https://www.gamegulf.com/detail/aqzo5iha7hQ#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2451100,
+      "name": "Little Rocket Lab",
+      "developer": [
+        "Teenage Astronauts"
+      ],
+      "publisher": [
+        "No More Robots"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Simulation"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 1208,
+      "short_description": "Transform your childhood home as you build brilliant factories and forge lifelong friendships, then reach for the skies and finally finish your family's dream - your mother's precious rocket ship. Roll up your sleeves, it turns out that saving this town really IS rocket science!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Thai, Japanese, Portuguese - Brazil",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 1124,
+        "total_negative": 116,
+        "total_reviews": 1240,
+        "score_description": "Very Positive",
+        "positive_percent": 91
+      }
+    },
+    "hltb": null
+  }
+}

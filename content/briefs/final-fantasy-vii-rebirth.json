@@ -1,0 +1,295 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/fN7eU5tn386",
+    "game_id": "fN7eU5tn386",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "FINAL FANTASY VII REBIRTH",
+    "description": "The second game of the FINAL FANTASY VII remake trilogy.\n\nAfter escaping from the dystopian city of Midgar, Cloud and his friends set out on a journey across the planet. New adventures await in a vibrant and vast world – sprint across grassy plains on a chocobo and explore expansive environments.\n\n■ Story\nThe lifestream represents the very cycle of life and death, where all life emerges from the planet and returns to its embrace. However, the Shinra Electric Power Company ruthlessly drains the planet of its very essence, the lifestream, and processes it for industry as \"mako.\"\n\nAfter overcoming countless fierce battles in the mako-powered metropolis of Midgar, ex-SOLDIER Cloud Strife and his companions step out into the wider world. Riding across grassy plains atop chocobos, they embark on an uncertain path, beginning their fated journey across the planet.\n\nAt the same time, SOLDIER First Class Zack Fair walks through the wastelands outside of Midgar. Wounded and weary, he drags his battered body forward while supporting his dear friend Cloud, who is delirious from mako poisoning. Beyond the veil of death, an ominous rift tears the heavens above.\n\nMeanwhile, the Wutai interim government leads the Shinra Resistance Committee in a declaration of war.\n\nIn a grim procession, mysterious black-robed figures carry the remains of Jenova, the alien entity infamously known as the cataclysm from the stars and the catalyst of our plight.\n\nSensing the threat to the Planet itself, the fearsome guardians known as Weapons awaken and rise from the lifestream.\n\nThrough the machinations of Cloud’s sworn enemy Sephiroth, the strands of destiny intertwine and are reborn again.\n\nFINAL FANTASY VII REBIRTH is the highly anticipated new story in the FINAL FANTASY VII remake project, a reimagining of the iconic original game into three standalone titles by its original creators. In this game, players will enjoy various new elements as the story unfolds, culminating in the party’s journey to “The Forgotten Capital” from the original FINAL FANTASY VII.\n\n■ Save data bonuses\nCustomers who have save data from the different components of FINAL FANTASY VII REMAKE INTERGRADE can claim the following bonus items:\n\nSave data from the FINAL FANTASY VII REMAKE INTERGRADE main story:\nSummoning Materia: Leviathan\n\n Save data from FINAL FANTASY VII REMAKE INTERGRADE INTERmission:\nSummoning Materia: Ramuh",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502630767116814.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502630767116814.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502630927811165.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502630908113571.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502630869611436.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502630873411081.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502630913516187.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502631129610364.jpeg"
+    ],
+    "genres": [
+      "Role-playing"
+    ],
+    "release_date": "2026-06-03",
+    "developer": "Square Enix",
+    "publisher": "SQUARE ENIX",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "gXXEcQWjLms",
+      "title": "FINAL FANTASY VII",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516170541512724.jpeg",
+      "metacritic": 81,
+      "price": 8.02,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-09-01",
+      "categories": [
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/gXXEcQWjLms"
+    },
+    {
+      "id": "awl6P8RRkLi",
+      "title": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503405046713283.jpeg",
+      "metacritic": null,
+      "price": 28.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2026-01-22",
+      "categories": [
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/awl6P8RRkLi"
+    },
+    {
+      "id": "hpLxgEn4L5z",
+      "title": "CRISIS CORE –FINAL FANTASY VII– REUNION",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510459564710161.jpeg",
+      "metacritic": null,
+      "price": 24.67,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-12-13",
+      "categories": [
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/hpLxgEn4L5z"
+    },
+    {
+      "id": "9KBgKdxqhs5",
+      "title": "CRISIS CORE –FINAL FANTASY VII– REUNION Digital Contents",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510460540119376.jpeg",
+      "metacritic": null,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2022-12-13",
+      "categories": [],
+      "url": "https://www.gamegulf.com/detail/9KBgKdxqhs5"
+    },
+    {
+      "id": "INlLdFP5Q9",
+      "title": "Persona 5 Royal",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613886744511224.jpeg",
+      "metacritic": 94,
+      "price": 49.47,
+      "discount_price": 14.84,
+      "discount_rate": 70,
+      "discount_tag": "Normal",
+      "discount_end": "8 days",
+      "release_date": "2022-10-21",
+      "categories": [
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/INlLdFP5Q9"
+    },
+    {
+      "id": "4r0JXhMULKy",
+      "title": "Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614596824511492.jpeg",
+      "metacritic": null,
+      "price": 7.95,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-03",
+      "categories": [
+        "Simulation",
+        "Role-playing",
+        "Communication",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4r0JXhMULKy"
+    },
+    {
+      "id": "9sVKHNxsdQS",
+      "title": "Reigns: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507883425211823.jpeg",
+      "metacritic": null,
+      "price": 1.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-17",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Strategy",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/9sVKHNxsdQS"
+    },
+    {
+      "id": "9cqczBX1f6",
+      "title": "Alvastia Chronicles",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516287784613034.jpeg",
+      "metacritic": null,
+      "price": 7.13,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-02-07",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9cqczBX1f6"
+    },
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
+      "metacritic": 72,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    }
+  ],
+  "schema_offers": [],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/fN7eU5tn386",
+    "price_track": "https://www.gamegulf.com/detail/fN7eU5tn386#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2909400,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "developer": [
+        "Square Enix"
+      ],
+      "publisher": [
+        "Square Enix"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Keyboard Only Option",
+        "Stereo Sound",
+        "Surround Sound",
+        "Steam Cloud",
+        "HDR available",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "steam_price": "$49.99",
+      "total_recommendations": 21212,
+      "short_description": "The Unknown Journey Continues... After escaping the city of Midgar, Cloud and his friends set out on a journey across the planet. New adventures await in a vibrant, expansive world in this standalone entry of the FFVII remake trilogy.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Japanese<strong>*</strong>, Korean, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 22980,
+        "total_negative": 7094,
+        "total_reviews": 30074,
+        "score_description": "Mostly Positive",
+        "positive_percent": 76
+      }
+    },
+    "hltb": null
+  }
+}

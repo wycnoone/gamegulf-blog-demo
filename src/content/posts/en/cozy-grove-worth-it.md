@@ -166,14 +166,14 @@ Tracked **discount** history: **all-time low** around **€7.99** (JP), **7** sa
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| United Kingdom | USD 7.18 | £10.99 |
-| Germany | USD 7.95 | €13.99 |
-| Spain | USD 7.95 | €13.99 |
-| France | USD 7.95 | €13.99 |
-| Italy | USD 7.95 | €13.99 |
-| Portugal | USD 7.95 | €13.99 |
-| Japan | USD 9.40 | ¥1,480 |
-| Hong Kong | USD 12.72 | HK$99 |
+| United Kingdom | USD 7.16 | £10.99 |
+| Germany | USD 7.93 | €13.99 |
+| Spain | USD 7.93 | €13.99 |
+| France | USD 7.93 | €13.99 |
+| Italy | USD 7.93 | €13.99 |
+| Portugal | USD 7.93 | €13.99 |
+| Japan | USD 9.37 | ¥1,480 |
+| Hong Kong | USD 12.68 | HK$99 |
 
 ## What kind of game is Cozy Grove, really?
 

@@ -127,7 +127,7 @@ cardPriceNativeCurrency: HKD
 faq:
   - question: >-
       Lohnt sich No Sleep For Kaname Date - From AI: THE SOMNIUM FILES auf
-      Nintendo Switch 2026?
+      NS2026?
     answer: >-
       No Sleep For Kaname Date - From AI: THE SOMNIUM FILES
       是否值得买取决于你是否喜欢Adventure, Puzzle，以及你在 GameGulf

@@ -1,0 +1,643 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/cRdwEnEBMxZ",
+    "game_id": "cRdwEnEBMxZ",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "BEYBLADE X EVOBATTLE",
+    "description": "The BEYBLADE ACTION game that faithfully recreates the world of BEYBLADE X arrives with three powerful evolutions! Witness EVOBATTLE, EVOSTORY, and EVOCUSTOMIZE!\n\n■ Evolution 1: EVOBATTLE\nYour strategy changes dramatically depending on your Bey type. Attack Type specializes in offense, Stamina Type absorbs the opponent’s stamina, Defense Type activates shields for solid protection, and Balance Type boosts attack power through combos! Experience thrilling high-speed Battles that demand skill and precision! Challenge Bladers around the world in online matches!\n\n■ Evolution 2: EVOSTORY\nNew allies await—compete, grow, and chase your dreams together in the ultimate BEY BATTLE ROYALE (BBR)!\n\n■ Evolution 3: EVOCUSTOMIZE\nCustomization reaches new heights! Collect materials to coat your Beys in your favorite colors, enhance your favorite parts, and choose X Skills to create the perfect Beys for your Battle style!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503961864118419.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503961864118419.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503962001013895.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503962014518844.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503962010617541.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503962044416079.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503962058913872.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503962178811966.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Simulation"
+    ],
+    "release_date": "2025-11-12",
+    "developer": "株式会社グルーブボックスジャパン",
+    "publisher": "FURYU Corporation",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 22.64,
+          "discount_price": 15.85,
+          "discount_rate": 30,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.85
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 42.77,
+          "discount_price": 29.93,
+          "discount_rate": 30,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.93
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 38.89,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 38.89
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-01",
+              "country_code": "BR",
+              "value": 15.85,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-06",
+              "country_code": "US",
+              "value": 42.77,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-07",
+              "country_code": "BR",
+              "value": 22.64,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-14",
+              "country_code": "BR",
+              "value": 20.37,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-05",
+              "country_code": "BR",
+              "value": 22.64,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "BR",
+              "value": 15.85,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-12-06",
+              "country_code": "US",
+              "value": 42.77,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-12-07",
+              "country_code": "BR",
+              "value": 22.64,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-14",
+              "country_code": "BR",
+              "value": 20.37,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-05",
+              "country_code": "BR",
+              "value": 22.64,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-01",
+              "country_code": "BR",
+              "value": 15.85,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 27.17,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 27.17
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 51.32,
+          "discount_price": 35.92,
+          "discount_rate": 30,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 35.92
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 44.29,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 44.29
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-09",
+              "country_code": "BR",
+              "value": 27.17,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-09",
+              "country_code": "BR",
+              "value": 27.17,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "BR",
+          "value": 15.85,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "BR",
+          "value": 27.17,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 29.93,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 35.92,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "43lySl04vBS",
+      "title": "BEYBLADE X XONE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506558473715577.jpeg",
+      "metacritic": null,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2024-11-14",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/43lySl04vBS"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 12.41,
+      "discount_price": 2.48,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
+      "id": "ab3x78yk63M",
+      "title": "Moonlighter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516616208918895.jpeg",
+      "metacritic": 83,
+      "price": 11.91,
+      "discount_price": 1.75,
+      "discount_rate": 85,
+      "discount_tag": "LowPrice",
+      "discount_end": "24 days",
+      "release_date": "2021-02-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/ab3x78yk63M"
+    },
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513464210115579.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "12 days",
+      "release_date": "2021-04-15",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    },
+    {
+      "id": "7KMuF0WqydV",
+      "title": "Life of Fly",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513839627315226.jpeg",
+      "metacritic": null,
+      "price": 8.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-04",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Puzzle",
+        "Simulation",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/7KMuF0WqydV"
+    },
+    {
+      "id": "5oci92626zT",
+      "title": "Minecraft",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974432612171.jpeg",
+      "metacritic": 86,
+      "price": 8.14,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-09-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Strategy",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/5oci92626zT"
+    },
+    {
+      "id": "ebzwhEFxAI9",
+      "title": "Magical Bakery",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506592116315606.jpeg",
+      "metacritic": null,
+      "price": 2.47,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-11-07",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Training",
+        "Role-playing",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/ebzwhEFxAI9"
+    },
+    {
+      "id": "fUcU28GjdFT",
+      "title": "Spiritfarer",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514455392012235.jpeg",
+      "metacritic": 84,
+      "price": 9.72,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-05-20",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/fUcU28GjdFT"
+    },
+    {
+      "id": "8x0VqisZcpr",
+      "title": "The Alpha Wolf",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507449870010903.jpeg",
+      "metacritic": null,
+      "price": 4.01,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-06-27",
+      "categories": [
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/8x0VqisZcpr"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cRdwEnEBMxZ#currency-price",
+      "priceCurrency": "USD",
+      "price": "59.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:13+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cRdwEnEBMxZ#currency-price",
+      "priceCurrency": "ARS",
+      "price": "87400.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:13+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cRdwEnEBMxZ#currency-price",
+      "priceCurrency": "BRL",
+      "price": "162.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:13+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cRdwEnEBMxZ#currency-price",
+      "priceCurrency": "JPY",
+      "price": "8200.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:13+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 15.85,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 15.85,
+        "region": "BR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 29.93,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 15.85,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-04-01"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 3,
+      "avg_discount_price_eur": 19.62,
+      "sale_periods": [],
+      "days_since_last_discount": 20,
+      "last_discount": {
+        "date": "2026-04-01",
+        "price_eur": 15.85,
+        "region": "Brazil",
+        "drop_pct": 30
+      },
+      "trend_entries_count": 5,
+      "price_verdict": "at_historical_low"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 27.17,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 27.17,
+        "region": "BR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 35.92,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 27.17,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-03-09"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/cRdwEnEBMxZ",
+    "price_track": "https://www.gamegulf.com/detail/cRdwEnEBMxZ#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 3818010,
+      "name": "BEYBLADE X EVOBATTLE",
+      "developer": [
+        "株式会社グルーブボックスジャパン"
+      ],
+      "publisher": [
+        "FURYU CORPORATION"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Online PvP",
+        "Steam Achievements",
+        "Custom Volume Controls",
+        "Keyboard Only Option",
+        "Save Anytime",
+        "Partial Controller Support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sports"
+      ],
+      "steam_price": "$49.99",
+      "total_recommendations": 0,
+      "short_description": "Three EVOLUTIONS have been unleashed in the &quot;BEYBLADE ACTION&quot; game that faithfully recreates the BEYBLADE X series (distributed by TOMY Company, Ltd.) that is popular among fans of all ages! Witness the power of EVOBATTLE, EVOSTORY, and EVOCUSTOMIZE!",
+      "supported_languages": "English, Japanese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 66,
+        "total_negative": 12,
+        "total_reviews": 78,
+        "score_description": "Very Positive",
+        "positive_percent": 85
+      }
+    },
+    "hltb": null
+  }
+}

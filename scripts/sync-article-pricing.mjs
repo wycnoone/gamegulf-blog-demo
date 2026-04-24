@@ -4,9 +4,11 @@ import { existsSync, readFileSync, writeFileSync } from 'node:fs';
 import { dirname, join, resolve } from 'node:path';
 import yaml from 'js-yaml';
 import {
+  briefQualifiesForZeroPricePlaceholderGrid,
   buildCardPricePayload,
   buildMarkdownPriceTable,
   buildPriceRowsFromBrief,
+  buildZeroPricePlaceholderRows,
   extractSlugFromFilePath,
   formatConvertedPriceFromEur,
   getEurExchangeRates,
@@ -150,6 +152,9 @@ async function syncFile(filePath, rates) {
   let priceRows = normalizePriceRows(frontmatter.priceRows || []);
   if (priceRows.length === 0 && brief) {
     priceRows = normalizePriceRows(buildPriceRowsFromBrief(brief, locale));
+    if (priceRows.length < 4 && briefQualifiesForZeroPricePlaceholderGrid(brief)) {
+      priceRows = normalizePriceRows(buildZeroPricePlaceholderRows());
+    }
   }
 
   if (priceRows.length < 4 || priceRows.length > 8) {

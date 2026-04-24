@@ -1,0 +1,823 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/2vMq1hkFq10",
+    "game_id": "2vMq1hkFq10",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "description": "HEROES IN A HALF SHELL\n\nTeenage Mutant Ninja Turtles: Shredder’s Revenge features groundbreaking gameplay rooted in timeless classic brawling mechanics, brought to you by the beat ’em up experts at Dotemu (Streets of Rage 4) and Tribute Games. Bash your way through gorgeous pixel art environments and slay tons of hellacious enemies with your favorite Turtle, each with his own skills and moves - making each run unique! Choose a fighter, use radical combos to defeat your opponents and experience intense combats loaded with breathtaking action and outrageous ninja abilities. Stay sharp as you face off against Shredder and his faithful Foot Clan alone, or grab your best buds and play with up to 6 players simultaneously!\n\nTURTLE BOYS DON’T CUT KRANG NO SLACK\n\nWith Bebop and Rocksteady assaulting Channel 6 and stealing super gnarly devices to support Krang and Shredder’s latest twisted plan, Teenage Mutant Ninja Turtles: Shredder’s Revenge sees the Turtles battling across a righteous range of timeless TMNT locations. From Manhattan and Coney Island, to city rooftops and dank sewers, help the fearsome foursome trounce Foot Soldiers, Triceraton Warriors, and Rock Troops all the way to Dimension X! \n\nTURTLE POWER!!\n\nEnjoy stunning full-color pixel art graphics and a vintage TMNT vibe that will rock you straight back to the awesome 80s. Every character, vehicle, weapon, item, and background is directly inspired by the 1987 TV show, making you feel like you hopped into the television -- with a dope mix of killer humor and action-packed adventures! \n  \nFEATURES:\n\n● Gnarly game design takes you back to the ’80s\n● Beautiful full-color pixel art graphics\n● Old-school gameplay enhanced with super-fresh mechanics \n● Up to 6 players simultaneously\n● Play with iconic TMNT characters and vehicles in diverse gameplay options\n● Radical new story mode",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511385811319653.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511385811319653.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511385942415076.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511385948312229.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511385942412795.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511385936618316.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511385964510132.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511386197711579.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Other",
+      "Arcade",
+      "Fighting"
+    ],
+    "release_date": "2022-06-16",
+    "developer": "Tribute Games Inc.",
+    "publisher": "Dotemu",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 14.04,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.04
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 15.93,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.93
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.38
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 21.63,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.63
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 25.85,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.85
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-25",
+              "country_code": "HK",
+              "value": 11.8,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-17",
+              "country_code": "HK",
+              "value": 21.63,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-11-19",
+              "country_code": "HK",
+              "value": 13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "PT",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "JP",
+              "value": 8.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-07",
+              "country_code": "HK",
+              "value": 13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "FR",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-09",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "JP",
+              "value": 8.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "BR",
+              "value": 15.93,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "HK",
+              "value": 11.8,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-06",
+              "country_code": "HK",
+              "value": 21.63,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-05-07",
+              "country_code": "HK",
+              "value": 14.09,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-06-08",
+              "country_code": "JP",
+              "value": 9.12,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-07-20",
+              "country_code": "JP",
+              "value": 8.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "HK",
+              "value": 21.63,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-09-11",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-09-24",
+              "country_code": "HK",
+              "value": 13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-10-09",
+              "country_code": "JP",
+              "value": 8.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "HK",
+              "value": 21.63,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-11-19",
+              "country_code": "HK",
+              "value": 13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "PT",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "JP",
+              "value": 8.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-07",
+              "country_code": "HK",
+              "value": 13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "FR",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-02-07",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-09",
+              "country_code": "JP",
+              "value": 14.04,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-12",
+              "country_code": "JP",
+              "value": 8.42,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "BR",
+              "value": 15.93,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "HK",
+              "value": 11.8,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 21.38,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "cQpby2wnKI",
+      "title": "Teenage Mutant Ninja Turtles: Tactical Takedown",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504604147416361.jpeg",
+      "metacritic": null,
+      "price": 17.51,
+      "discount_price": 11.38,
+      "discount_rate": 35,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "19 days",
+      "release_date": "2025-08-25",
+      "categories": [
+        "Board game",
+        "Other",
+        "Puzzle",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/cQpby2wnKI"
+    },
+    {
+      "id": "fVue5l6MFGU",
+      "title": "Teenage Mutant Ninja Turtles: Mutants Unleashed",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506726335619146.jpeg",
+      "metacritic": null,
+      "price": 34.21,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-10-18",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/fVue5l6MFGU"
+    },
+    {
+      "id": "iHvYEqW1Kkb",
+      "title": "Teenage Mutant Ninja Turtles: The Cowabunga Collection",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511029303912752.jpeg",
+      "metacritic": 83,
+      "price": 2.84,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-30",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/iHvYEqW1Kkb"
+    },
+    {
+      "id": "fPbtWcnQey1",
+      "title": "Teenage Mutant Ninja Turtles: Splintered Fate",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507334366414714.jpeg",
+      "metacritic": 74,
+      "price": 11.84,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-07-17",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Fighting",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/fPbtWcnQey1"
+    },
+    {
+      "id": "iLCh5HKeXI0",
+      "title": "Teenage Mutant Ninja Turtles Arcade: Wrath of the Mutants",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507850228813022.jpeg",
+      "metacritic": null,
+      "price": 28.73,
+      "discount_price": 7.17,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "9 days",
+      "release_date": "2024-04-23",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/iLCh5HKeXI0"
+    },
+    {
+      "id": "hppqiZmB01R",
+      "title": "AKIBA'S TRIP: Hellbound & Debriefed",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513039057715714.jpeg",
+      "metacritic": 53,
+      "price": 29.99,
+      "discount_price": 8.99,
+      "discount_rate": 70,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 hr",
+      "release_date": "2021-07-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hppqiZmB01R"
+    },
+    {
+      "id": "gtUMR0VBeyB",
+      "title": "amazin' George 2 Digital Deluxe",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511202245710106.jpeg",
+      "metacritic": null,
+      "price": 1.78,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-23",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Role-playing",
+        "Strategy",
+        "Action",
+        "Platformer",
+        "Fighting",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/gtUMR0VBeyB"
+    },
+    {
+      "id": "hXWdIkjrezf",
+      "title": "Missing Features: 2D",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513288510613870.jpeg",
+      "metacritic": null,
+      "price": 1.68,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-05-27",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Fighting",
+        "Strategy",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hXWdIkjrezf"
+    },
+    {
+      "id": "9dogVghdpsQ",
+      "title": "Cannon Dancer – Osman",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509851054411248.jpeg",
+      "metacritic": 75,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-04-13",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Fighting",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/9dogVghdpsQ"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2599.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+      "priceCurrency": "HKD",
+      "price": "198.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+      "priceCurrency": "BRL",
+      "price": "94.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+      "priceCurrency": "ARS",
+      "price": "1850.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+      "priceCurrency": "EUR",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+      "priceCurrency": "GBP",
+      "price": "22.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:18+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 14.04,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 8.42,
+        "region": "JP",
+        "date": "2025-07-20"
+      },
+      "local_low": {
+        "price_eur": 21.38,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 8.42,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-07-20"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 13,
+      "avg_discount_price_eur": 12.73,
+      "sale_periods": [
+        {
+          "start": "2025-06-08",
+          "end": "2025-07-20"
+        },
+        {
+          "start": "2025-10-09",
+          "end": "2025-10-09"
+        },
+        {
+          "start": "2025-12-22",
+          "end": "2025-12-22"
+        },
+        {
+          "start": "2026-02-12",
+          "end": "2026-02-12"
+        },
+        {
+          "start": "2026-03-25",
+          "end": "2026-03-25"
+        }
+      ],
+      "days_since_last_discount": 28,
+      "last_discount": {
+        "date": "2026-03-25",
+        "price_eur": 11.8,
+        "region": "Hong Kong SAR China",
+        "drop_pct": 26
+      },
+      "trend_entries_count": 20,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/2vMq1hkFq10",
+    "price_track": "https://www.gamegulf.com/detail/2vMq1hkFq10#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1361510,
+      "name": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+      "developer": [
+        "Tribute Games Inc."
+      ],
+      "publisher": [
+        "Dotemu",
+        "Gamirror Games"
+      ],
+      "metacritic_score": 84,
+      "metacritic_url": "https://www.metacritic.com/game/pc/teenage-mutant-ninja-turtles-shredders-revenge?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 12617,
+      "short_description": "Teenage Mutant Ninja Turtles: Shredder’s Revenge reunites Leonardo, Michelangelo, Donatello and Raphael as they kick shell in a beautifully realized beat ’em up.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Simplified Chinese<strong>*</strong>, Traditional Chinese<strong>*</strong>, Korean, Japanese, Portuguese - Brazil<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 13664,
+        "total_negative": 810,
+        "total_reviews": 14474,
+        "score_description": "Very Positive",
+        "positive_percent": 94
+      }
+    },
+    "hltb": null
+  }
+}

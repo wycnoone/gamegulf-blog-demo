@@ -1,0 +1,850 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/2G7jYyj3ED2",
+    "game_id": "2G7jYyj3ED2",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "DAVE THE DIVER",
+    "description": "DAVE THE DIVER is a casual, single-player adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.\n\n■ An adventure, RPG, management hybrid\nExplore and unravel the mysteries in the depths of the Blue Hole by day and run a successful exotic sushi restaurant by night.\nIt’s easy to get hooked on the satisfying gameplay loop!\n\n■Casual combat and gathering gameplay with rogue-like elements\nDive into the ever-changing Blue Hole and use a harpoon and other weapons to catch fish and various creatures. \nUpgrade and forge equipment with collected resources and sushi restaurant profits to prepare for the dangers that lurk in the unknown.\nRunning out of oxygen means leaving collected items and fish behind!\n\n■ Eccentric characters with a lighthearted narrative\nQuirky but lovable characters and a story full of in-jokes, spoofs, and other humorous scenes provide an approachable and enjoyable gameplay experience.\n\n■ A beautiful sea environment with attractive 2D/3D Art\nA combination of pixel and 3D graphics provides a stunning art style that showcases breathtaking underwater scenery. \nThis oceanic adventure is set in the real marine environment of a Blue Hole filled with over 200 kinds of sea creatures.\n\n■ Ample additional content to complement the main gameplay loop\nMinigames, side quests, and multiple storylines provide many hours of entertainment and varied gameplay.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803413710172.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803413710172.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803585312275.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803533916511.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803574912301.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803510919763.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803514110338.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508803815914467.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Role-playing",
+      "Simulation",
+      "Action"
+    ],
+    "release_date": "2023-10-26",
+    "developer": "MINTROCKET",
+    "publisher": "Mintrocket",
+    "metacritic": 88
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 12.96,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.96
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 15.29,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.29
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 16.77,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.77
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 19.53,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.53
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 9.17,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-15",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "GB",
+              "value": 11.71,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "JP",
+              "value": 7.78,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-31",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "JP",
+              "value": 12.96,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-16",
+              "country_code": "JP",
+              "value": 12.96,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 9.17,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-07-07",
+              "country_code": "JP",
+              "value": 8.43,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "JP",
+              "value": 8.43,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-15",
+              "country_code": "HK",
+              "value": 15.29,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-10-19",
+              "country_code": "HK",
+              "value": 9.94,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-11-15",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "GB",
+              "value": 11.71,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "JP",
+              "value": 7.78,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-31",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-04",
+              "country_code": "JP",
+              "value": 12.96,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-16",
+              "country_code": "JP",
+              "value": 12.96,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-31",
+              "country_code": "HK",
+              "value": 9.17,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 13.5,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.5
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 15.29,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.29
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 16.77,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.77
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-06",
+              "country_code": "BR",
+              "value": 16.77,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-06",
+              "country_code": "BR",
+              "value": 16.77,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 12.41,
+      "discount_price": 2.48,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
+      "id": "ab3x78yk63M",
+      "title": "Moonlighter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516616208918895.jpeg",
+      "metacritic": 83,
+      "price": 11.91,
+      "discount_price": 1.75,
+      "discount_rate": 85,
+      "discount_tag": "LowPrice",
+      "discount_end": "23 days",
+      "release_date": "2021-02-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/ab3x78yk63M"
+    },
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513464210115579.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "11 days",
+      "release_date": "2021-04-15",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    },
+    {
+      "id": "ebzwhEFxAI9",
+      "title": "Magical Bakery",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506592116315606.jpeg",
+      "metacritic": null,
+      "price": 2.47,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-11-07",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Training",
+        "Role-playing",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/ebzwhEFxAI9"
+    },
+    {
+      "id": "8x0VqisZcpr",
+      "title": "The Alpha Wolf",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507449870010903.jpeg",
+      "metacritic": null,
+      "price": 4.01,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-06-27",
+      "categories": [
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/8x0VqisZcpr"
+    },
+    {
+      "id": "5n3cAT6AjxA",
+      "title": "Alba: A Wildlife Adventure",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513225778215423.jpeg",
+      "metacritic": 80,
+      "price": 1.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-02-03",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Action",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/5n3cAT6AjxA"
+    },
+    {
+      "id": "jc7VlJkvmbj",
+      "title": "The Survivalists",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514224870017611.jpeg",
+      "metacritic": 70,
+      "price": 24.99,
+      "discount_price": 4.99,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "13 days",
+      "release_date": "2020-10-09",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation",
+        "Strategy",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/jc7VlJkvmbj"
+    },
+    {
+      "id": "jTx9MuBZFaI",
+      "title": "Garden Story",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512850314116319.jpeg",
+      "metacritic": 73,
+      "price": 1.11,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-11",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/jTx9MuBZFaI"
+    },
+    {
+      "id": "9n2IyUxuRLk",
+      "title": "Wolf Simulator: RPG Survival Animal Battle",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509488093411940.jpeg",
+      "metacritic": null,
+      "price": 1.23,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-06-16",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/9n2IyUxuRLk"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:51+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2500.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:51+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+      "priceCurrency": "HKD",
+      "price": "140.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:51+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+      "priceCurrency": "BRL",
+      "price": "99.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:51+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+      "priceCurrency": "ARS",
+      "price": "5877.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:51+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:51+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+      "priceCurrency": "GBP",
+      "price": "16.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:35:51+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 12.96,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 7.78,
+        "region": "JP",
+        "date": "2025-12-18"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 7.78,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-12-18"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 6,
+      "avg_discount_price_eur": 10.75,
+      "sale_periods": [
+        {
+          "start": "2025-07-07",
+          "end": "2025-09-03"
+        },
+        {
+          "start": "2025-10-19",
+          "end": "2025-10-19"
+        },
+        {
+          "start": "2025-12-18",
+          "end": "2025-12-18"
+        },
+        {
+          "start": "2026-03-31",
+          "end": "2026-03-31"
+        }
+      ],
+      "days_since_last_discount": 22,
+      "last_discount": {
+        "date": "2026-03-31",
+        "price_eur": 9.17,
+        "region": "Hong Kong SAR China",
+        "drop_pct": 29
+      },
+      "trend_entries_count": 12,
+      "price_verdict": "regular_discounter"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 13.5,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 16.77,
+        "region": "BR",
+        "date": "2026-03-06"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 16.77,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-03-06"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/2G7jYyj3ED2",
+    "price_track": "https://www.gamegulf.com/detail/2G7jYyj3ED2#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1868140,
+      "name": "DAVE THE DIVER",
+      "developer": [
+        "MINTROCKET"
+      ],
+      "publisher": [
+        "MINTROCKET"
+      ],
+      "metacritic_score": 90,
+      "metacritic_url": "https://www.metacritic.com/game/pc/dave-the-diver?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "RPG",
+        "Simulation"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 131790,
+      "short_description": "DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.",
+      "supported_languages": "English, Korean, Japanese, Simplified Chinese, German, Spanish - Spain, Traditional Chinese, French, Portuguese - Brazil, Italian, Russian",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 144041,
+        "total_negative": 4812,
+        "total_reviews": 148853,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 97
+      }
+    },
+    "hltb": null
+  }
+}

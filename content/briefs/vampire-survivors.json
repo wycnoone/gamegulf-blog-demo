@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/bQdFni5M1jg",
+    "game_id": "bQdFni5M1jg",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Vampire Survivors",
+    "description": "Vampire Survivors is a time survival game with minimalistic gameplay and roguelite elements.\n\nMow down thousands of night creatures and survive until dawn! \nVampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you.\n\nHell is empty, the devils are here, and there's no place to run or hide. All you can do is survive as long as you can until death inevitably puts an end to your struggles. Gather gold in each run to buy upgrades and help the next survivor.\n\nThe supernatural indie phenomenon that lets you be the bullet hell!\n\nThe whole game is also playable in 1-4 player couch co-op.\n\nStarting Tips:\n- Take your time to grab gems and items, they won't disappear.\n- Get two or three offensive weapons at first, but focus on levelling them up one at a time.\n- Armour and Luck are good starting power-ups to spend money on.\n- Refund power-ups often, it's free, and try new upgrade paths.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509197695917267.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509197695917267.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509197924119073.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509197880815652.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509197983716171.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509197877115753.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509197923913564.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509198122917315.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2023-08-17",
+    "developer": "poncle",
+    "publisher": "poncle",
+    "metacritic": 88
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 1.84,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 1.84
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 2.7,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 2.7
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 3.17,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 3.17
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 4.27,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.27
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 4.59,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.59
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 4.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 4.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 4.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 4.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 4.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 4.27,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "eYg9le9jthT",
+      "title": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502660060611373.jpeg",
+      "metacritic": null,
+      "price": 4.19,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2026-04-21",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/eYg9le9jthT"
+    },
+    {
+      "id": "jOMQxziNmeJ",
+      "title": "Vampire Hunters",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506644462710714.jpeg",
+      "metacritic": null,
+      "price": 4.81,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-10-30",
+      "categories": [
+        "Action",
+        "Arcade",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/jOMQxziNmeJ"
+    },
+    {
+      "id": "dCpjWT4b2Oa",
+      "title": "Vampire Therapist",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503153936417048.jpeg",
+      "metacritic": null,
+      "price": 12.82,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2026-02-17",
+      "categories": [
+        "Adventure",
+        "Lifestyle",
+        "Other",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/dCpjWT4b2Oa"
+    },
+    {
+      "id": "1OKY81rHTu8",
+      "title": "Reaper Survivors",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508016025017687.jpeg",
+      "metacritic": null,
+      "price": 2.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-22",
+      "categories": [
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/1OKY81rHTu8"
+    },
+    {
+      "id": "aJJ9ussaddc",
+      "title": "Twilight Survivors",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508257143211647.jpeg",
+      "metacritic": null,
+      "price": 1.3,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-15",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/aJJ9ussaddc"
+    },
+    {
+      "id": "1VuVQZTxHa7",
+      "title": "Star Overdrive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505574772315464.jpeg",
+      "metacritic": null,
+      "price": 10.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-10",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/1VuVQZTxHa7"
+    },
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "jOmK3pCLzXJ",
+      "title": "Bounce Journey",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509944240415964.jpeg",
+      "metacritic": null,
+      "price": 0.39,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/jOmK3pCLzXJ"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+      "priceCurrency": "USD",
+      "price": "4.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+      "priceCurrency": "JPY",
+      "price": "499.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+      "priceCurrency": "HKD",
+      "price": "29.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+      "priceCurrency": "BRL",
+      "price": "10.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+      "priceCurrency": "ARS",
+      "price": "299.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+      "priceCurrency": "EUR",
+      "price": "4.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+      "priceCurrency": "GBP",
+      "price": "3.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:36:00+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 1.84,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": null,
+      "local_low": {
+        "price_eur": 4.27,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/bQdFni5M1jg",
+    "price_track": "https://www.gamegulf.com/detail/bQdFni5M1jg#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1794680,
+      "name": "Vampire Survivors",
+      "developer": [
+        "poncle"
+      ],
+      "publisher": [
+        "poncle"
+      ],
+      "metacritic_score": 86,
+      "metacritic_url": "https://www.metacritic.com/game/pc/vampire-survivors?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Casual",
+        "Indie",
+        "RPG"
+      ],
+      "steam_price": "3,49€",
+      "total_recommendations": 247536,
+      "short_description": "Mow down thousands of night creatures and survive until dawn! Vampire Survivors is a gothic horror casual game with rogue-lite elements, where your choices can allow you to quickly snowball against the hundreds of monsters that get thrown at you. Be the bullet hell!",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Turkish, Ukrainian",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 256942,
+        "total_negative": 4289,
+        "total_reviews": 261231,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 98
+      }
+    },
+    "hltb": null
+  }
+}

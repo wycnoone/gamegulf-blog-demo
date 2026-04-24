@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/3fdYo86X9Za",
+    "game_id": "3fdYo86X9Za",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Tinykin",
+    "description": "Milo arrives on Earth to find that he's way too small, everybody's gone and a day hasn't passed since 1991!\nTeam up with the mysterious tinykin and use their unique powers to create ladders, bridges, explosions and a lot more!\nFind a way home through a sprawling ant-sized metropolis, and unravel Earth's biggest mystery!\n\n-Explore cities of ants, beetles and other insects built inside of a giant house\n-Meet characters everywhere you go and learn their stories and history\n-Catch over a hundred tinykin in each city, and use their special abilities to climb higher, break down doors and solve the city's problems!\n-Skateboard around on Milo's tiny soap-board! Jump, grind and hover around the house\n-Collect upgrades to improve Milo's bubble-pack, build out the Ardwin Museum and complete Ridmi's mysterious machine!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511027846613582.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511027846613582.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511028096211188.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511028093510754.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511028080912943.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511028085110470.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511028107110109.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511028272119825.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Arcade",
+      "Platformer",
+      "Puzzle",
+      "Action"
+    ],
+    "release_date": "2022-08-30",
+    "developer": "Splashteam",
+    "publisher": "tinyBuild Games",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 17.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.82
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.38
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 21.8,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.8
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 24.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.82
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-01",
+              "country_code": "JP",
+              "value": 17.82,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 4.45,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-30",
+              "country_code": "ES",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-11",
+              "country_code": "JP",
+              "value": 4.45,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-08-06",
+              "country_code": "JP",
+              "value": 4.45,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-01",
+              "country_code": "JP",
+              "value": 17.82,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 4.45,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-30",
+              "country_code": "ES",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 21.38,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "ari1ZXrPQFN",
+      "title": "Red Ball Escape",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513226484514499.jpeg",
+      "metacritic": null,
+      "price": 2.05,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-21",
+      "categories": [
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
+    },
+    {
+      "id": "8GNFo0bzMQn",
+      "title": "Pid",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510544948417675.jpeg",
+      "metacritic": null,
+      "price": 17.82,
+      "discount_price": 2.01,
+      "discount_rate": 88,
+      "discount_tag": "Normal",
+      "discount_end": "9 days",
+      "release_date": "2022-11-18",
+      "categories": [
+        "Arcade",
+        "Platformer",
+        "Puzzle",
+        "Shooter",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/8GNFo0bzMQn"
+    },
+    {
+      "id": "jBtDFoP3nAq",
+      "title": "Demons of Asteborg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512929393019051.jpeg",
+      "metacritic": null,
+      "price": 11.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-12-22",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/jBtDFoP3nAq"
+    },
+    {
+      "id": "1yjZBuAhoFe",
+      "title": "Yoku's Island Express",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517017523114552.jpeg",
+      "metacritic": 82,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-11-04",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/1yjZBuAhoFe"
+    },
+    {
+      "id": "1jCoskCR4vu",
+      "title": "The Cub",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508378115611968.jpeg",
+      "metacritic": null,
+      "price": 14.99,
+      "discount_price": 5.99,
+      "discount_rate": 60,
+      "discount_tag": "Normal",
+      "discount_end": "1 days",
+      "release_date": "2024-01-19",
+      "categories": [
+        "Puzzle",
+        "Adventure",
+        "Action",
+        "Role-playing",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/1jCoskCR4vu"
+    },
+    {
+      "id": "lLKlaqkpzRG",
+      "title": "Dyna Bomb",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515953725214238.jpeg",
+      "metacritic": null,
+      "price": 2.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-07-02",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/lLKlaqkpzRG"
+    },
+    {
+      "id": "yra3vhAcUR",
+      "title": "Eden Genesis",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613690087018169.jpeg",
+      "metacritic": null,
+      "price": 11.72,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-09-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Other",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/yra3vhAcUR"
+    },
+    {
+      "id": "2eIdY6ZMhqb",
+      "title": "Ratyboy Adventures",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509912572113147.jpeg",
+      "metacritic": null,
+      "price": 1.23,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-30",
+      "categories": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/2eIdY6ZMhqb"
+    },
+    {
+      "id": "KiGXcv0f4X",
+      "title": "Killer Chambers",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614012475811335.jpeg",
+      "metacritic": null,
+      "price": 5.94,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-12-10",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Puzzle",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/KiGXcv0f4X"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3fdYo86X9Za#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3fdYo86X9Za#currency-price",
+      "priceCurrency": "EUR",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3fdYo86X9Za#currency-price",
+      "priceCurrency": "GBP",
+      "price": "21.59",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3fdYo86X9Za#currency-price",
+      "priceCurrency": "JPY",
+      "price": "3299.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3fdYo86X9Za#currency-price",
+      "priceCurrency": "BRL",
+      "price": "129.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:28+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/3fdYo86X9Za#currency-price",
+      "priceCurrency": "ARS",
+      "price": "3299.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:28+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 17.82,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 4.45,
+        "region": "JP",
+        "date": "2025-06-11"
+      },
+      "local_low": {
+        "price_eur": 21.38,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.45,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-06-11"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 4.45,
+      "sale_periods": [
+        {
+          "start": "2025-06-11",
+          "end": "2025-08-06"
+        },
+        {
+          "start": "2025-12-17",
+          "end": "2025-12-17"
+        }
+      ],
+      "days_since_last_discount": 126,
+      "last_discount": {
+        "date": "2025-12-17",
+        "price_eur": 4.45,
+        "region": "Japan",
+        "drop_pct": 75
+      },
+      "trend_entries_count": 5,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/3fdYo86X9Za",
+    "price_track": "https://www.gamegulf.com/detail/3fdYo86X9Za#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1599020,
+      "name": "Tinykin",
+      "developer": [
+        "Splashteam"
+      ],
+      "publisher": [
+        "tinyBuild"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 2693,
+      "short_description": "Catch hundreds of tinykin and use their unique powers to bring Milo back to his home planet and back to normal size!",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Portuguese - Brazil, Simplified Chinese, Russian<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 4006,
+        "total_negative": 91,
+        "total_reviews": 4097,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 98
+      }
+    },
+    "hltb": null
+  }
+}

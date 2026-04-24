@@ -335,6 +335,24 @@ export const ui = {
     ja: 'リセット',
     pt: 'Redefinir',
   },
+  'filter.groupPlayProfile': {
+    en: 'Play profile',
+    'zh-hans': '玩法与人群',
+    fr: 'Profil de jeu',
+    es: 'Perfil de juego',
+    de: 'Spielprofil',
+    ja: '遊び方・対象',
+    pt: 'Perfil de jogo',
+  },
+  'filter.groupPrice': {
+    en: 'Price & deals',
+    'zh-hans': '价格与折扣',
+    fr: 'Prix & promos',
+    es: 'Precio y ofertas',
+    de: 'Preis & Deals',
+    ja: '価格・セール',
+    pt: 'Preço & promoções',
+  },
 
   // ── Card Components ──
   'card.playerConsensus': {

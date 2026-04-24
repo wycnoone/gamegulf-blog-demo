@@ -162,14 +162,14 @@ Tracked **discount** history: **all-time low** around **€28.04** (GB), **3** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 29.59 | R$149.99 |
-| Germany | USD 30.05 | €36.49 |
-| United States | USD 40.25 | $39.99 |
-| United Kingdom | USD 41.24 | £30.49 |
-| Spain | USD 42.94 | €36.49 |
-| France | USD 42.94 | €36.49 |
-| Italy | USD 42.94 | €36.49 |
-| Portugal | USD 42.94 | €36.49 |
+| Brazil | USD 29.51 | R$149.99 |
+| Germany | USD 29.97 | €36.49 |
+| United States | USD 40.14 | $39.99 |
+| United Kingdom | USD 41.12 | £30.49 |
+| Spain | USD 42.81 | €36.49 |
+| France | USD 42.81 | €36.49 |
+| Italy | USD 42.81 | €36.49 |
+| Portugal | USD 42.81 | €36.49 |
 
 ## What kind of game is High On Life, really?
 

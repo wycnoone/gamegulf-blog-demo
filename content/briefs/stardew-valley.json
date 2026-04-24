@@ -1,0 +1,626 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/hqyYkvm8j6o",
+    "game_id": "hqyYkvm8j6o",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Stardew Valley",
+    "description": "You’ve inherited your grandfather’s old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home? It won’t be easy. Ever since Joja Corporation came to town, the old ways of life have all but disappeared. The community center, once the town’s most vibrant hub of activity, now lies in shambles. But the valley seems full of opportunity. With a little dedication, you might just be the one to restore Stardew Valley to greatness!\n\nNow with Multiplayer! Invite 1-3 players to join you in the valley! Players can work together to build a thriving farm, share resources, and build relationships with townspeople or each other. As more hands are better than one, players have the option to scale profit margin on produce sold for a more challenging experience.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517380923114975.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517380923114975.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517381149411628.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517381144617934.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517381117713840.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517381144917197.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517381171011250.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517381394719588.jpeg"
+    ],
+    "genres": [
+      "Role-playing",
+      "Simulation"
+    ],
+    "release_date": "2017-10-05",
+    "developer": "ConcernedApe",
+    "publisher": "ConcernedApe",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 4.19,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.19
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 7.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 7.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 12.63,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.63
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 13.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 13.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 13.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 13.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 13.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 4.19,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.19
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-10",
+              "country_code": "BR",
+              "value": 4.19,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-10",
+              "country_code": "BR",
+              "value": 4.19,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-10",
+              "country_code": "BR",
+              "value": 4.19,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "7lFMhl1BHfW",
+      "title": "Valley",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516220490818550.jpeg",
+      "metacritic": null,
+      "price": 12.49,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-03-07",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/7lFMhl1BHfW"
+    },
+    {
+      "id": "2vqUD4rmw9B",
+      "title": "Sprout Valley",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509081221315693.jpeg",
+      "metacritic": null,
+      "price": 17.99,
+      "discount_price": 1.99,
+      "discount_rate": 88,
+      "discount_tag": "LowPrice",
+      "discount_end": "8 days",
+      "release_date": "2023-09-08",
+      "categories": [
+        "Adventure",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/2vqUD4rmw9B"
+    },
+    {
+      "id": "kjScttFGYcs",
+      "title": "Hike Valley",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510068407616718.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-02",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Other",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/kjScttFGYcs"
+    },
+    {
+      "id": "bAYe6aHvaU1",
+      "title": "Sacred Valley",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510956263616220.jpeg",
+      "metacritic": null,
+      "price": 0.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-13",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Other",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bAYe6aHvaU1"
+    },
+    {
+      "id": "cUZdC0dx21H",
+      "title": "Everdream Valley",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509462511912876.jpeg",
+      "metacritic": null,
+      "price": 24.99,
+      "discount_price": 7.99,
+      "discount_rate": 68,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2023-06-23",
+      "categories": [
+        "Simulation",
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Lifestyle"
+      ],
+      "url": "https://www.gamegulf.com/detail/cUZdC0dx21H"
+    },
+    {
+      "id": "4r0JXhMULKy",
+      "title": "Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614596824511492.jpeg",
+      "metacritic": null,
+      "price": 7.95,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-03",
+      "categories": [
+        "Simulation",
+        "Role-playing",
+        "Communication",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4r0JXhMULKy"
+    },
+    {
+      "id": "9sVKHNxsdQS",
+      "title": "Reigns: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507883425211823.jpeg",
+      "metacritic": null,
+      "price": 1.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-17",
+      "categories": [
+        "Adventure",
+        "Simulation",
+        "Strategy",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/9sVKHNxsdQS"
+    },
+    {
+      "id": "76s5sRMJv1y",
+      "title": "Dance of Cards",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506140624015461.jpeg",
+      "metacritic": null,
+      "price": 2.77,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-01-23",
+      "categories": [
+        "Adventure",
+        "Board game",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/76s5sRMJv1y"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 12.41,
+      "discount_price": 2.48,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hqyYkvm8j6o#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:59+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hqyYkvm8j6o#currency-price",
+      "priceCurrency": "EUR",
+      "price": "13.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:59+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hqyYkvm8j6o#currency-price",
+      "priceCurrency": "GBP",
+      "price": "10.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:59+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hqyYkvm8j6o#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1480.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:59+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hqyYkvm8j6o#currency-price",
+      "priceCurrency": "BRL",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:59+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hqyYkvm8j6o#currency-price",
+      "priceCurrency": "ARS",
+      "price": "179.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:59+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 4.19,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": null,
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 4.19,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 4.19,
+        "region": "BR",
+        "date": "2026-04-10"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.19,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-04-10"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/hqyYkvm8j6o",
+    "price_track": "https://www.gamegulf.com/detail/hqyYkvm8j6o#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 413150,
+      "name": "Stardew Valley",
+      "developer": [
+        "ConcernedApe"
+      ],
+      "publisher": [
+        "ConcernedApe"
+      ],
+      "metacritic_score": 89,
+      "metacritic_url": "https://www.metacritic.com/game/pc/stardew-valley?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "LAN Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Indie",
+        "RPG",
+        "Simulation"
+      ],
+      "steam_price": "$14.99",
+      "total_recommendations": 858057,
+      "short_description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+      "supported_languages": "English, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese, French, Italian, Hungarian, Korean, Turkish",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 983530,
+        "total_negative": 15229,
+        "total_reviews": 998759,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 98
+      }
+    },
+    "hltb": null
+  }
+}

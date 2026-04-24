@@ -5,6 +5,10 @@
  *
  * Usage:
  *   node scripts/ns2-process-batch.mjs [content/ns2-batch-active-urls.txt]
+ *   node scripts/ns2-process-batch.mjs --queue-pending
+ *
+ * --queue-pending  Process every game-queue.json entry with status pending
+ *                  and notes "NS2 TodaysDeals batch" (ignores file argument).
  */
 
 import { readFileSync, existsSync } from 'node:fs';
@@ -14,6 +18,8 @@ import { execFileSync, spawnSync } from 'node:child_process';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 const ROOT = join(__dirname, '..');
+const QUEUE_PATH = join(ROOT, 'content', 'game-queue.json');
+const NS2_QUEUE_NOTES = 'NS2 TodaysDeals batch';
 const LOCALES = ['en', 'zh-hans', 'ja', 'fr', 'es', 'de', 'pt'];
 
 function sleep(ms) {
@@ -49,9 +55,27 @@ function run(cmd, args, opts = {}) {
   });
 }
 
+/** extract-game-brief prints `✔ <path.json>` — match absolute path or content/briefs/… */
 function parseBriefPathFromExtractLog(output) {
-  const m = output.match(/[\\/]briefs[\\/]([^\s]+\.json)/);
-  return m ? join(ROOT, 'content', 'briefs', m[1]) : null;
+  if (!output) return null;
+  const check = output.match(/[✔✓]\s+([^\r\n]+\.json)/);
+  if (check) {
+    const p = check[1].trim();
+    if (existsSync(p)) return p;
+  }
+  const arrow = output.match(/→\s+([^\r\n]+\.json)/);
+  if (arrow) {
+    const p = arrow[1].trim();
+    if (existsSync(p)) return p;
+  }
+  const rel = output.match(/content[\\/]briefs[\\/][^\s\r\n]+\.json/);
+  if (rel) {
+    const parts = rel[0].split(/[/\\]/);
+    const file = parts[parts.length - 1];
+    const p = join(ROOT, 'content', 'briefs', file);
+    if (existsSync(p)) return p;
+  }
+  return null;
 }
 
 function readUrls(path) {
@@ -175,17 +199,33 @@ async function processOne(url) {
 }
 
 async function main() {
-  const batchFile =
-    process.argv[2] || join(ROOT, 'content', 'ns2-batch-active-urls.txt');
-  if (!existsSync(batchFile)) {
-    console.error('Missing batch file:', batchFile);
-    process.exit(2);
+  const argv = process.argv.slice(2);
+  const queuePending = argv.includes('--queue-pending') || argv.includes('--pending');
+
+  let urls;
+  if (queuePending) {
+    const q = JSON.parse(readFileSync(QUEUE_PATH, 'utf8'));
+    urls = q.games
+      .filter((g) => g.status === 'pending' && g.notes === NS2_QUEUE_NOTES)
+      .map((g) => g.url);
+    console.log(
+      JSON.stringify({ mode: 'queue-pending', pendingNs2Urls: urls.length }, null, 2),
+    );
+  } else {
+    const batchFile =
+      argv.find((a) => !a.startsWith('-')) ||
+      join(ROOT, 'content', 'ns2-batch-active-urls.txt');
+    if (!existsSync(batchFile)) {
+      console.error('Missing batch file:', batchFile);
+      process.exit(2);
+    }
+    urls = readUrls(batchFile);
   }
-  const urls = readUrls(batchFile);
+  const delayMs = parseInt(process.env.NS2_BATCH_DELAY_MS || '2200', 10) || 2200;
   const results = [];
   for (const url of urls) {
     results.push(await processOne(url));
-    await sleep(3500);
+    await sleep(delayMs);
   }
   console.log(JSON.stringify(results, null, 2));
   const failed = results.filter((r) => r.status !== 'ok' && r.status !== 'skipped_exists');

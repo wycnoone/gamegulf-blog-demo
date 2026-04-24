@@ -1,0 +1,955 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/glVDopRk4Oh",
+    "game_id": "glVDopRk4Oh",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Sonic Racing: CrossWorlds",
+    "description": "Race across land, sea, air, and space in Sonic Racing: CrossWorlds! Warp through Travel Rings into new dimensions where something new awaits around every twist and turn.  \n\nSpeed to victory solo or as a team in a variety of offline and online modes and compete against players from around the world. Build the ultimate vehicle to match your racing style, unlock gadgets to gain the upper hand, and unleash power-up items to bring home the win!\n\nReady, Set, Warp!   \nRace across 24 tracks and warp to 15 CrossWorlds with Travel Rings, a unique gameplay mechanic that transports the iconic characters from the Sonic and SEGA universes into new dimensions. Use unpredictability to your advantage as you change the landscape of each race!  \n\nRace With the Best!\nChoose from 23 iconic Sonic characters, the largest roster of any Sonic racing game! \n\nMake It Yours  \nMix and match between 45 unique original vehicles and 70 different gadgets to trick out your ride, level up your kart, and create the ultimate machine to match your racing style. \n\nGain the Advantage with Powerful Items!  \nDominate your opponents with 23 different items including returning favorites and all-new items like the Monster Truck!  \n\nMultiple Ways to Play  \nGather with friends and play local split-screen in Grand Prix and the new party mode Race Park, compete against a community of players from around the world with up to 12 players online in World Match, or test your driving skills in Time Trials.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504326471419539.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504326471419539.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504326597414991.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504326600716442.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504326599716402.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504326638513132.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504326639213369.jpeg"
+    ],
+    "genres": [
+      "Racing",
+      "Sports",
+      "Party"
+    ],
+    "release_date": "2025-09-25",
+    "developer": "Sonic Team",
+    "publisher": "SEGA",
+    "metacritic": 84
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 59.99,
+          "discount_price": 35.99,
+          "discount_rate": 40,
+          "discount_end": "2026-04-29 21:59:59",
+          "discount_end_timestamp": 1777499999,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 35.99
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 37.75,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 37.75
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 63.21,
+          "discount_price": 37.92,
+          "discount_rate": 40,
+          "discount_end": "2026-04-29 22:59:59",
+          "discount_end_timestamp": 1777503599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 37.92
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 41.91,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 41.91
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 47.84,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 47.84
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 51.32,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 51.32
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "HK",
+              "value": 28.62,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-07",
+              "country_code": "ES",
+              "value": 59.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "BR",
+              "value": 41.91,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-16",
+              "country_code": "IT",
+              "value": 35.99,
+              "currency": "EUR",
+              "country": "Italy"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-10-29",
+              "country_code": "BR",
+              "value": 50.29,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 44.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-21",
+              "country_code": "HK",
+              "value": 33.42,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 31.43,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-01-04",
+              "country_code": "JP",
+              "value": 26.43,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-31",
+              "country_code": "HK",
+              "value": 47.84,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-03",
+              "country_code": "HK",
+              "value": 28.62,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-13",
+              "country_code": "BR",
+              "value": 25.14,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-24",
+              "country_code": "JP",
+              "value": 22.65,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "HK",
+              "value": 28.62,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-07",
+              "country_code": "ES",
+              "value": 59.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "BR",
+              "value": 41.91,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-16",
+              "country_code": "IT",
+              "value": 35.99,
+              "currency": "EUR",
+              "country": "Italy"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-10-29",
+              "country_code": "BR",
+              "value": 50.29,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 44.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-21",
+              "country_code": "HK",
+              "value": 33.42,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 31.43,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-01-04",
+              "country_code": "JP",
+              "value": 26.43,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-31",
+              "country_code": "HK",
+              "value": 47.84,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-03",
+              "country_code": "HK",
+              "value": 28.62,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-02-13",
+              "country_code": "BR",
+              "value": 25.14,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-24",
+              "country_code": "JP",
+              "value": 22.65,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "HK",
+              "value": 28.62,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-07",
+              "country_code": "ES",
+              "value": 59.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "BR",
+              "value": 41.91,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-16",
+              "country_code": "IT",
+              "value": 35.99,
+              "currency": "EUR",
+              "country": "Italy"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 43.15,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 43.15
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 51.12,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 51.12
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 58.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 58.68
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 59.88,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.88
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-26",
+              "country_code": "BR",
+              "value": 58.68,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "JP",
+              "value": 43.15,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-26",
+              "country_code": "BR",
+              "value": 58.68,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "JP",
+              "value": 43.15,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-26",
+              "country_code": "BR",
+              "value": 58.68,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-06",
+              "country_code": "JP",
+              "value": 43.15,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "HK",
+          "value": 47.84,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "JP",
+          "value": 43.15,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 51.32,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 59.88,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "dUcKwwxcZl6",
+      "title": "Sonic Racing: CrossWorlds – Open Network Test",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504535569513876.jpeg",
+      "metacritic": null,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2025-08-26",
+      "categories": [],
+      "url": "https://www.gamegulf.com/detail/dUcKwwxcZl6"
+    },
+    {
+      "id": "5CLeZ6jgT2J",
+      "title": "Team Sonic Racing",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516007223013543.jpeg",
+      "metacritic": 71,
+      "price": 39.99,
+      "discount_price": 11.99,
+      "discount_rate": 70,
+      "discount_tag": "LowPrice",
+      "discount_end": "8 days",
+      "release_date": "2019-05-21",
+      "categories": [
+        "Racing",
+        "Action",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/5CLeZ6jgT2J"
+    },
+    {
+      "id": "cE8KtTi7GLM",
+      "title": "Street Cats Race",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511802918610250.jpeg",
+      "metacritic": null,
+      "price": 0.49,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-05",
+      "categories": [
+        "Action",
+        "Racing",
+        "Sports",
+        "Party",
+        "Adventure",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/cE8KtTi7GLM"
+    },
+    {
+      "id": "5dYATOGePRC",
+      "title": "Turbo Boost Racing",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506865918712608.jpeg",
+      "metacritic": null,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-09-27",
+      "categories": [
+        "Arcade",
+        "Party",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/5dYATOGePRC"
+    },
+    {
+      "id": "ega7jDQP0yv",
+      "title": "Drift King",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510906368517737.jpeg",
+      "metacritic": null,
+      "price": 9.99,
+      "discount_price": 0.99,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "6 days",
+      "release_date": "2022-09-22",
+      "categories": [
+        "Racing",
+        "Sports",
+        "Simulation",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/ega7jDQP0yv"
+    },
+    {
+      "id": "3s4PETxaZNu",
+      "title": "Rainbow Runner",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509655437915026.jpeg",
+      "metacritic": null,
+      "price": 2.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-05-12",
+      "categories": [
+        "Action",
+        "Party",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/3s4PETxaZNu"
+    },
+    {
+      "id": "3LsYdXvar3P",
+      "title": "Sky Games",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512108680615430.jpeg",
+      "metacritic": null,
+      "price": 0.99,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-12-27",
+      "categories": [
+        "Party",
+        "Action",
+        "Racing",
+        "Sports",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/3LsYdXvar3P"
+    },
+    {
+      "id": "5ecsat8Fms7",
+      "title": "Top Speed 2: Drag Rivals & Nitro Racing",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511509093914540.jpeg",
+      "metacritic": null,
+      "price": 0.62,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-05-12",
+      "categories": [
+        "Party",
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/5ecsat8Fms7"
+    },
+    {
+      "id": "h4DEl9JBv6M",
+      "title": "Extreme Race",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/7/177560258412118818.jpeg",
+      "metacritic": null,
+      "price": 1.49,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-16",
+      "categories": [
+        "Arcade",
+        "Other",
+        "Racing",
+        "Sports",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/h4DEl9JBv6M"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+      "priceCurrency": "USD",
+      "price": "69.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+      "priceCurrency": "BRL",
+      "price": "349.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+      "priceCurrency": "ARS",
+      "price": "89999.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+      "priceCurrency": "JPY",
+      "price": "7990.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+      "priceCurrency": "HKD",
+      "price": "468.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+      "priceCurrency": "EUR",
+      "price": "59.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:18+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+      "priceCurrency": "GBP",
+      "price": "54.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:18+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 35.99,
+        "region": "Italy",
+        "country_code": "IT"
+      },
+      "global_low": {
+        "price_eur": 47.84,
+        "region": "HK",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 51.32,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 22.65,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-02-24"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 9,
+      "avg_discount_price_eur": 32.29,
+      "sale_periods": [
+        {
+          "start": "2026-01-04",
+          "end": "2026-01-04"
+        },
+        {
+          "start": "2026-02-03",
+          "end": "2026-03-24"
+        }
+      ],
+      "days_since_last_discount": 5,
+      "last_discount": {
+        "date": "2026-04-16",
+        "price_eur": 35.99,
+        "region": "Italy",
+        "drop_pct": 14
+      },
+      "trend_entries_count": 13,
+      "price_verdict": "regular_discounter"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 43.15,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 43.15,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 59.88,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 43.15,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-04-06"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 43.15,
+      "sale_periods": [],
+      "days_since_last_discount": 15,
+      "last_discount": {
+        "date": "2026-04-06",
+        "price_eur": 43.15,
+        "region": "Japan",
+        "drop_pct": 26
+      },
+      "trend_entries_count": 2,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/glVDopRk4Oh",
+    "price_track": "https://www.gamegulf.com/detail/glVDopRk4Oh#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2486820,
+      "name": "Sonic Racing: CrossWorlds",
+      "developer": [
+        "Sonic Team"
+      ],
+      "publisher": [
+        "SEGA"
+      ],
+      "metacritic_score": 84,
+      "metacritic_url": "https://www.metacritic.com/game/pc/sonic-racing-crossworlds?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "PvP",
+        "Shared/Split Screen PvP",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Camera Comfort",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Keyboard Only Option",
+        "Stereo Sound",
+        "Steam Cloud",
+        "Stats",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Racing"
+      ],
+      "steam_price": "$69.99",
+      "total_recommendations": 10142,
+      "short_description": "Race across land, sea, air, space, and time in Sonic Racing: CrossWorlds! Warp through Travel Rings into new dimensions where something new awaits around every twist and turn.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Thai, Traditional Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 13741,
+        "total_negative": 886,
+        "total_reviews": 14627,
+        "score_description": "Very Positive",
+        "positive_percent": 94
+      }
+    },
+    "hltb": null
+  }
+}

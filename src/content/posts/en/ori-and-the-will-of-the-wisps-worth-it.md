@@ -205,14 +205,14 @@ Indexed math is blunt: **Japan still leads the April 2026 table near €19.14 eq
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 22.41 | ¥3,520 |
-| Hong Kong | USD 29.57 | HK$228 |
-| United States | USD 30.48 | $29.99 |
-| Brazil | USD 33.10 | R$168 |
-| United Kingdom | USD 33.59 | £24.99 |
-| Germany | USD 35.12 | €29.99 |
-| Spain | USD 35.12 | €29.99 |
-| France | USD 35.12 | €29.99 |
+| Japan | USD 22.46 | ¥3,520 |
+| Hong Kong | USD 29.63 | HK$228 |
+| United States | USD 30.54 | $29.99 |
+| Brazil | USD 33.16 | R$168 |
+| United Kingdom | USD 33.65 | £24.99 |
+| Germany | USD 35.19 | €29.99 |
+| Spain | USD 35.19 | €29.99 |
+| France | USD 35.19 | €29.99 |
 
 Tracked **sale** history is sharper than list rank alone: the **deepest global point in this feed** remains that **€6.50 United States low on 22 December 2025**, while **recurring discount prints average near €11.66** across the indexed year — that is why the pipeline tags this as a **regular discounter**, not a “never goes on sale” catalog title. Use the [live multi-region grid](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price) to confirm **your** account before checkout.
 

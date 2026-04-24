@@ -37,7 +37,7 @@ consensusPraise: Steuerung, Lesbarkeit und EMMI-Drohung bleiben Switch-Maßstab.
 mainFriction: Schwierigkeitsspitzen und EMMI ermüden „chill exploration“-Typen.
 timeFit: HLTB ~9h Story, ~12h Extras, ~14h Completion (Community-Durchschnitt).
 fitLabel: Für Spieler, die Rhythmus trainieren wollen, nicht gemütlich farmen.
-timingNote: Vergleiche deine eShop-Zeile mit HK/JP-Ankern vor dem Vollzahlen.
+timingNote: Vergleiche dein eShop-Preis mit HK/JP-Ankern vor dem Vollzahlen.
 communityVibe: EMMI-Schritte — dauerhafter Ohrwurm
 playtime: ~9h Story · ~12h+ Extras · ~14h Completion (HLTB)
 reviewSignal: 88 Metacritic
@@ -217,7 +217,7 @@ Kein „meiden“-Port, sondern **fertige Nintendo-Action**.
 ## Kaufe jetzt, wenn
 
 - Du **~88 Metacritic**-**2D-Metroid** mit **EMMI-Druck** willst
-- **Deine eShop-Zeile** nah an **HK/JP-Ankern** liegt, die du zahlen kannst
+- **Deine eShop-Preis** nah an **HK/JP-Ankern** liegt, die du zahlen kannst
 - **Boss-Lernen** motiviert, kein **200h-Sandbox**
 - Du **HLTB ~9–12h** kompakte Kampagne willst
 

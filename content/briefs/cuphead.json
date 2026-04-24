@@ -1,0 +1,721 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/50pq42JLkJ3",
+    "game_id": "50pq42JLkJ3",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Cuphead",
+    "description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era: traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings. \n\nPlay as Cuphead or Mugman (in single player or local co-op) as you traverse strange worlds, acquire new weapons, learn powerful super moves, and discover hidden secrets while you try to pay your debt back to the devil!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095042511348.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095042511348.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095221315758.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095212112510.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095217115825.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095215314740.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095204512280.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516095378211770.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Arcade",
+      "Platformer",
+      "Shooter"
+    ],
+    "release_date": "2019-04-18",
+    "developer": "Studio MDHR Entertainment Inc.",
+    "publisher": "StudioMDHR",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 8.37,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.37
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 10.69,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 10.69
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 19.53,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.53
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-26",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-17",
+              "country_code": "DE",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "BR",
+              "value": 8.37,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-21",
+              "country_code": "JP",
+              "value": 7.48,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 5.86,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-26",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-07-20",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-07-21",
+              "country_code": "GB",
+              "value": 13.67,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-09-04",
+              "country_code": "GB",
+              "value": 13.67,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-10-14",
+              "country_code": "BR",
+              "value": 8.37,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-10-20",
+              "country_code": "BR",
+              "value": 5.86,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-11-17",
+              "country_code": "DE",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-12-03",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "BR",
+              "value": 8.37,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-21",
+              "country_code": "JP",
+              "value": 7.48,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 5.86,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-03-26",
+              "country_code": "GB",
+              "value": 19.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-04-02",
+              "country_code": "JP",
+              "value": 10.69,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "gCg2uQJJfO1",
+      "title": "OlliOlli World",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
+      "metacritic": 87,
+      "price": 19.53,
+      "discount_price": 4.87,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "4 days",
+      "release_date": "2022-02-08",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Platformer",
+        "Action",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1"
+    },
+    {
+      "id": "K1SvVJeGAn",
+      "title": "Gold Digger",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513539885519977.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-25",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/K1SvVJeGAn"
+    },
+    {
+      "id": "xdZtBz8u4v",
+      "title": "30XX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509118633518105.jpeg",
+      "metacritic": 86,
+      "price": 19.99,
+      "discount_price": 8.99,
+      "discount_rate": 55,
+      "discount_tag": "LowPrice",
+      "discount_end": "8 days",
+      "release_date": "2023-09-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Shooter",
+        "Other",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/xdZtBz8u4v"
+    },
+    {
+      "id": "aR3bKFvWMXU",
+      "title": "Exit the Gungeon",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515063125219556.jpeg",
+      "metacritic": 68,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-03-17",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/aR3bKFvWMXU"
+    },
+    {
+      "id": "a1jEtH3v3Nc",
+      "title": "Huntdown",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514862245113358.jpeg",
+      "metacritic": 86,
+      "price": 12.33,
+      "discount_price": 3.08,
+      "discount_rate": 75,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2020-05-12",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/a1jEtH3v3Nc"
+    },
+    {
+      "id": "43N99UxHs7I",
+      "title": "Enchanted Portals",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508762057314459.jpeg",
+      "metacritic": null,
+      "price": 19.99,
+      "discount_price": 3.99,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "6 days",
+      "release_date": "2023-10-24",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/43N99UxHs7I"
+    },
+    {
+      "id": "8GNFo0bzMQn",
+      "title": "Pid",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510544948417675.jpeg",
+      "metacritic": null,
+      "price": 17.82,
+      "discount_price": 2.01,
+      "discount_rate": 88,
+      "discount_tag": "Normal",
+      "discount_end": "9 days",
+      "release_date": "2022-11-18",
+      "categories": [
+        "Arcade",
+        "Platformer",
+        "Puzzle",
+        "Shooter",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/8GNFo0bzMQn"
+    },
+    {
+      "id": "kgJB6q1XjHr",
+      "title": "Moon Raider",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513420820310754.jpeg",
+      "metacritic": null,
+      "price": 0.68,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-16",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/kgJB6q1XjHr"
+    },
+    {
+      "id": "a31fDVHoWha",
+      "title": "Orion Haste",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508055807811554.jpeg",
+      "metacritic": null,
+      "price": 5.03,
+      "discount_price": 2.01,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "11 hr",
+      "release_date": "2024-03-15",
+      "categories": [
+        "Action",
+        "Shooter",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/a31fDVHoWha"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/50pq42JLkJ3#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/50pq42JLkJ3#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/50pq42JLkJ3#currency-price",
+      "priceCurrency": "GBP",
+      "price": "16.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/50pq42JLkJ3#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1980.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/50pq42JLkJ3#currency-price",
+      "priceCurrency": "BRL",
+      "price": "49.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/50pq42JLkJ3#currency-price",
+      "priceCurrency": "ARS",
+      "price": "552.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.37,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 5.86,
+        "region": "BR",
+        "date": "2025-10-20"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.86,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2025-10-20"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 10,
+      "avg_discount_price_eur": 11.3,
+      "sale_periods": [
+        {
+          "start": "2025-10-20",
+          "end": "2025-10-20"
+        },
+        {
+          "start": "2025-12-22",
+          "end": "2025-12-22"
+        }
+      ],
+      "days_since_last_discount": 20,
+      "last_discount": {
+        "date": "2026-04-02",
+        "price_eur": 10.69,
+        "region": "Japan",
+        "drop_pct": 45
+      },
+      "trend_entries_count": 14,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/50pq42JLkJ3",
+    "price_track": "https://www.gamegulf.com/detail/50pq42JLkJ3#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 268910,
+      "name": "Cuphead",
+      "developer": [
+        "Studio MDHR Entertainment Inc."
+      ],
+      "publisher": [
+        "Studio MDHR Entertainment Inc."
+      ],
+      "metacritic_score": 88,
+      "metacritic_url": "https://www.metacritic.com/game/pc/cuphead?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 186460,
+      "short_description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 200141,
+        "total_negative": 7839,
+        "total_reviews": 207980,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 96
+      }
+    },
+    "hltb": null
+  }
+}

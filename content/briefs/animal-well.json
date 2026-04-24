@@ -1,0 +1,612 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+    "game_id": "64ud7IJ2teL",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "ANIMAL WELL",
+    "description": "Hatch from your flower and spelunk through the beautiful and sometimes haunting world of Animal Well, a pixelated wonder rendered in intricate audio and visual detail.\n\nUpdated with enhanced visual effects when played on Nintendo Switch™ 2.\n\nExplore - Illuminate the Dark\n• A world of puzzle boxes with a profound atmosphere\n• Light candles for safety and gradually fill out your map\n• Nonlinear -- explore and collect items in whatever order you choose\n\nSolve puzzles - Observation is rewarded\n• Enemies, environment, and items interact in surprising and systemic ways\n• All items have multiple uses\n• Learn how innocuous details can become meaningful\n\nSurvive - Tread Carefully\n• Assess for yourself what is safe and dangerous\n• Focus on tension and suspense rather than action\n• You are disempowered, but can make clever use of your environment and items",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755463810068.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755463810068.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755718618719.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755721012682.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755724918867.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755678918979.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755746811569.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507755970119312.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Action",
+      "Platformer"
+    ],
+    "release_date": "2024-05-09",
+    "developer": "Billy Basso",
+    "publisher": "Bigmode",
+    "metacritic": 90
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 12.58,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.58
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 15.93,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.93
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.38
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 24.13,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.13
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 24.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.49
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 24.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.49
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 24.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.49
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 24.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.49
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.49
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-24",
+              "country_code": "GB",
+              "value": 24.13,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "ES",
+              "value": 24.49,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-02-25",
+              "country_code": "ES",
+              "value": 17.14,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-03-13",
+              "country_code": "IT",
+              "value": 24.49,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-07-30",
+              "country_code": "GB",
+              "value": 24.13,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-10-14",
+              "country_code": "JP",
+              "value": 15.93,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-15",
+              "country_code": "JP",
+              "value": 11.95,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-24",
+              "country_code": "GB",
+              "value": 24.13,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "ES",
+              "value": 24.49,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-02-25",
+              "country_code": "ES",
+              "value": 17.14,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-03-13",
+              "country_code": "IT",
+              "value": 24.49,
+              "currency": "EUR",
+              "country": "Italy"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 21.38,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "jjdobPTkRT2",
+      "title": "Hell Well",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508540516019948.jpeg",
+      "metacritic": null,
+      "price": 2.7,
+      "discount_price": 1.08,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "19 hr",
+      "release_date": "2023-12-14",
+      "categories": [
+        "Strategy",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/jjdobPTkRT2"
+    },
+    {
+      "id": "e4Cjhs4USLP",
+      "title": "Creature in the Well",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515689352614618.jpeg",
+      "metacritic": 76,
+      "price": 10.72,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-21",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Puzzle",
+        "Shooter",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/e4Cjhs4USLP"
+    },
+    {
+      "id": "f60Tw6LREM",
+      "title": "Lost Grimoires 3: The Forgotten Well",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513050844311970.jpeg",
+      "metacritic": null,
+      "price": 5.35,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-07-15",
+      "categories": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/f60Tw6LREM"
+    },
+    {
+      "id": "jrnDdrpgGvN",
+      "title": "Animal Hospital",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508850292010224.jpeg",
+      "metacritic": null,
+      "price": 39.99,
+      "discount_price": 7.99,
+      "discount_rate": 80,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "8 days",
+      "release_date": "2023-10-19",
+      "categories": [
+        "Simulation",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/jrnDdrpgGvN"
+    },
+    {
+      "id": "fccI1le24N2",
+      "title": "Animals Names",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509978033010123.jpeg",
+      "metacritic": null,
+      "price": 0.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-20",
+      "categories": [
+        "Education"
+      ],
+      "url": "https://www.gamegulf.com/detail/fccI1le24N2"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    },
+    {
+      "id": "4ih1kLyZLm8",
+      "title": "Panda Jump",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2950.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price",
+      "priceCurrency": "BRL",
+      "price": "74.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price",
+      "priceCurrency": "ARS",
+      "price": "13000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price",
+      "priceCurrency": "EUR",
+      "price": "24.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price",
+      "priceCurrency": "GBP",
+      "price": "20.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 12.58,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 11.95,
+        "region": "JP",
+        "date": "2025-10-15"
+      },
+      "local_low": {
+        "price_eur": 21.38,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 11.95,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-10-15"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 4,
+      "avg_discount_price_eur": 16.6,
+      "sale_periods": [],
+      "days_since_last_discount": 34,
+      "last_discount": {
+        "date": "2026-03-19",
+        "price_eur": 21.38,
+        "region": "United States",
+        "drop_pct": 13
+      },
+      "trend_entries_count": 8,
+      "price_verdict": "near_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+    "price_track": "https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 813230,
+      "name": "ANIMAL WELL",
+      "developer": [
+        "Billy Basso"
+      ],
+      "publisher": [
+        "Bigmode"
+      ],
+      "metacritic_score": 90,
+      "metacritic_url": "https://www.metacritic.com/game/pc/animal-well?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "HK$ 149.00",
+      "total_recommendations": 21944,
+      "short_description": "Explore a dense, interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter beautiful and unsettling creatures, as you attempt to survive what lurks in the dark. There is more than what you see.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Portuguese - Brazil, Russian, Ukrainian, Korean",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 22663,
+        "total_negative": 987,
+        "total_reviews": 23650,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 96
+      }
+    },
+    "hltb": null
+  }
+}

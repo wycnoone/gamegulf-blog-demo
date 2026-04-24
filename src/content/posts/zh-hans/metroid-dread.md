@@ -1,5 +1,5 @@
 ---
-title: 《密特罗德 生存恐惧》2026 年还值得在 Nintendo Switch 上买吗？
+title: 《密特罗德 生存恐惧》2026 年还值得在 Switch 上买吗？
 description: Switch 购买决策：2026 年 4 月各服索引价、任天堂第一方少见打折节奏、HLTB 时长、EMMI 压迫感与反击战斗，以及适合立刻买还是先盯价。
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -83,7 +83,7 @@ membershipHref: https://www.gamegulf.com/pricing
 coverImage: https://cdn.gamegulf.com/upload/1740987997188163706985.jpeg
 heroTheme: dark
 faq:
-  - question: 《密特罗德 生存恐惧》2026 年还值得在 Nintendo Switch 上买吗？
+  - question: 《密特罗德 生存恐惧》2026 年还值得在 Switch 上买吗？
     answer: >-
       密特罗德 生存恐惧在 2026 年仍值得买，如果你想要高完成度的 2D 密特罗德、能接受 EMMI 追逃与高强度 Boss。截至 2026 年 4
       月，GameGulf 索引里香港 eShop 约 €36.44 折算（HK$329）起 — 务必用实时多区表核对你账号所在服。
@@ -155,14 +155,14 @@ cardPriceNativeCurrency: HKD
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 香港 | CNY 291.40 | HK$329 |
-| 日本 | CNY 330.42 | ¥7,600 |
-| 美国 | CNY 416.39 | $59.99 |
-| 英国 | CNY 458.77 | £49.99 |
-| 巴西 | CNY 469.41 | R$349 |
-| 德国 | CNY 479.72 | €59.99 |
-| 西班牙 | CNY 479.72 | €59.99 |
-| 法国 | CNY 479.72 | €59.99 |
+| 香港 | CNY 291.78 | HK$329 |
+| 日本 | CNY 330.85 | ¥7,600 |
+| 美国 | CNY 416.93 | $59.99 |
+| 英国 | CNY 459.37 | £49.99 |
+| 巴西 | CNY 470.02 | R$349 |
+| 德国 | CNY 480.35 | €59.99 |
+| 西班牙 | CNY 480.35 | €59.99 |
+| 法国 | CNY 480.35 | €59.99 |
 
 这段 **折扣** 叙事很枯燥：追踪样本里 **过去一年约 0 次可引用的降价事件**，也抽不出靠谱的“平均 **打折** 价” — 你要比的是**区服差价**，不是幻想每周 **促销**。GameGulf 的多区索引与 eShop 行一致，先用 [实时多区价格表](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) 对齐你账号所在服。
 

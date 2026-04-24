@@ -1,0 +1,261 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/7Flsba5gsJj",
+    "game_id": "7Flsba5gsJj",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf"
+    ]
+  },
+  "game": {
+    "title": "Bubsy 4D (やまねこバブジー 4D)",
+    "description": "",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573235795511241.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573235795511241.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573235995215274.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573236221212945.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573236431516058.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573236647913617.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573236802014812.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177573236979512391.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "release_date": "2026-05-28",
+    "developer": null,
+    "publisher": "Atari",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "cAMH7qpHeAZ",
+      "title": "Bubsy 4D",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505859487912678.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": 15.39,
+      "discount_rate": 10,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "30 days",
+      "release_date": "2026-05-22",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/cAMH7qpHeAZ"
+    },
+    {
+      "id": "4tb0zQsEZna",
+      "title": "Bubsy in: The Purrfect Collection",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504434876910828.jpeg",
+      "metacritic": null,
+      "price": 10.06,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-09-09",
+      "categories": [
+        "Action",
+        "Platformer",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/4tb0zQsEZna"
+    },
+    {
+      "id": "1VuVQZTxHa7",
+      "title": "Star Overdrive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505574772315464.jpeg",
+      "metacritic": null,
+      "price": 10.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-10",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/1VuVQZTxHa7"
+    },
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "jOmK3pCLzXJ",
+      "title": "Bounce Journey",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509944240415964.jpeg",
+      "metacritic": null,
+      "price": 0.39,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/jOmK3pCLzXJ"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "dm86GCKPzG2",
+      "title": "Metroid Prime™ Remastered",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510188972211467.jpeg",
+      "metacritic": 94,
+      "price": 23.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-03",
+      "categories": [
+        "Action",
+        "First-person",
+        "Shooter",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2"
+    },
+    {
+      "id": "f4EfdeaIHdl",
+      "title": "Red Colony",
+      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/12/174174153505916085.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-01-07",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/f4EfdeaIHdl"
+    },
+    {
+      "id": "asCNm1gJWSn",
+      "title": "From Heaven To Earth",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
+      "metacritic": null,
+      "price": 0.62,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-02-17",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Racing"
+      ],
+      "url": "https://www.gamegulf.com/detail/asCNm1gJWSn"
+    }
+  ],
+  "schema_offers": [],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": null,
+      "global_low": null,
+      "local_low": null,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "unknown"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/7Flsba5gsJj",
+    "price_track": "https://www.gamegulf.com/detail/7Flsba5gsJj#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": null,
+    "hltb": null
+  }
+}

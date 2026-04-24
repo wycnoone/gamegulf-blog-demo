@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/dm86GCKPzG2",
+    "game_id": "dm86GCKPzG2",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf"
+    ]
+  },
+  "game": {
+    "title": "Metroid Prime™ Remastered",
+    "description": "Step into the boots of Samus Aran as you navigate the winding paths and interconnected environments of an alluring-yet-dangerous alien planet. Use powers like the iconic Morph Ball and Grapple Beam to revisit hard-to-reach areas and find a path forward. With revamped graphics, sound, unlockable art, and updated control schemes, Samus’ 3D platforming debut has reached greater heights. Calm and capable, Samus takes on this solo mission...but she is far from alone. \r\n\r\nExplore the alien environments and eerie isolation of planet Tallon IV\r\n\r\nJourney through the diverse biomes of planet Tallon IV as you uncover the Space Pirates’ sinister experiments and gather information about the toxic substance that left the planet in ruin. Blast forward to your next objective or take time to stop and scan your surroundings and delve into the creatures and culture of Tallon IV. From the quiet stillness of the snowy Phendrana Drifts to the magma geysers of Magmoor Caverns, this alien planet introduces beautifully harsh landscapes and labyrinths.\r\n\r\nUpgrade your arsenal to take on extraterrestrial terrors\r\n\r\nUse Samus’ Arm Cannon and go head-to-head against otherworldly creatures, bolstered Space Pirates, and the energy-sapping Metroids. Backtrack through areas and pay close attention to your environment to solve puzzles and get more upgrades. You’ll need the help of abilities like the Ice Beam, Missiles, and several visors to dispatch the alien threats lurking on Tallon IV.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510188972211467.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510188972211467.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510189145214887.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510189148813718.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510189148116797.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510189153314054.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510189144716919.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510189320713321.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "First-person",
+      "Shooter",
+      "Adventure"
+    ],
+    "release_date": "2023-02-08",
+    "developer": null,
+    "publisher": "Nintendo",
+    "metacritic": 94
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 23.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 23.22
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 23.92,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 23.92
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.21
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 36.88,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 36.88
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 40.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 40.22
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-22",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-22",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-22",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 23.22,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 34.21,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "19Ort0SsmGH",
+      "title": "Metroid Prime™ 4: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503754223012971.jpeg",
+      "metacritic": null,
+      "price": 43.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-12-04",
+      "categories": [
+        "Shooter",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/19Ort0SsmGH"
+    },
+    {
+      "id": "2DnaPGYGeNp",
+      "title": "DUSK",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg",
+      "metacritic": 88,
+      "price": 1.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/2DnaPGYGeNp"
+    },
+    {
+      "id": "bzmuhBPqWcr",
+      "title": "Pandemic Shooter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511980263915011.jpeg",
+      "metacritic": null,
+      "price": 0.34,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-01-27",
+      "categories": [
+        "Shooter",
+        "Action",
+        "Adventure",
+        "First-person"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzmuhBPqWcr"
+    },
+    {
+      "id": "cgZsgAysd1n",
+      "title": "Chop Goblins",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508208932010667.jpeg",
+      "metacritic": null,
+      "price": 2.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-22",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/cgZsgAysd1n"
+    },
+    {
+      "id": "6ksYbp40ufO",
+      "title": "Nightmare Reaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509639141410439.jpeg",
+      "metacritic": 64,
+      "price": 28.73,
+      "discount_price": 10.05,
+      "discount_rate": 65,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2023-05-18",
+      "categories": [
+        "Shooter",
+        "Action",
+        "Adventure",
+        "Arcade",
+        "First-person"
+      ],
+      "url": "https://www.gamegulf.com/detail/6ksYbp40ufO"
+    },
+    {
+      "id": "9LbNZcHvwVq",
+      "title": "Umurangi Generation Special Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513232029412605.jpeg",
+      "metacritic": 81,
+      "price": 13.11,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-09-30",
+      "categories": [
+        "Adventure",
+        "First-person",
+        "Shooter",
+        "Simulation",
+        "Action",
+        "Study",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/9LbNZcHvwVq"
+    },
+    {
+      "id": "jvD52jVnLi0",
+      "title": "Death Park 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511661052212494.jpeg",
+      "metacritic": null,
+      "price": 0.43,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-04-14",
+      "categories": [
+        "Action",
+        "Shooter",
+        "Adventure",
+        "First-person"
+      ],
+      "url": "https://www.gamegulf.com/detail/jvD52jVnLi0"
+    },
+    {
+      "id": "iYQKJlILDIx",
+      "title": "QuietMansion1",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507106415614662.jpeg",
+      "metacritic": null,
+      "price": 7.49,
+      "discount_price": 3.74,
+      "discount_rate": 50,
+      "discount_tag": "LowPrice",
+      "discount_end": "4 days",
+      "release_date": "2024-08-22",
+      "categories": [
+        "Action",
+        "First-person",
+        "Role-playing",
+        "Shooter",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/iYQKJlILDIx"
+    },
+    {
+      "id": "cBWrCnkBauE",
+      "title": "Gal*Gun 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517084748713688.jpeg",
+      "metacritic": 62,
+      "price": 4.07,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/cBWrCnkBauE"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+      "priceCurrency": "USD",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+      "priceCurrency": "EUR",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+      "priceCurrency": "GBP",
+      "price": "34.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+      "priceCurrency": "JPY",
+      "price": "4300.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+      "priceCurrency": "HKD",
+      "price": "219.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+      "priceCurrency": "BRL",
+      "price": "219.90",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+      "priceCurrency": "ARS",
+      "price": "56699.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 23.22,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 23.22,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 34.21,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 34.21,
+        "region": "US",
+        "country": "United States",
+        "date": "2026-04-22"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/dm86GCKPzG2",
+    "price_track": "https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": null,
+    "hltb": null
+  }
+}

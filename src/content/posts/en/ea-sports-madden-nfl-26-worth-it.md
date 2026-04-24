@@ -164,14 +164,14 @@ Tracked **discount** history: **all-time low** around **€10.59** (JP), **3** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 13.78 | R$349 |
-| United States | USD 14.09 | $69.99 |
-| Japan | USD 62.28 | ¥9,800 |
-| Hong Kong | USD 70.55 | HK$549 |
-| Germany | USD 94.12 | €79.99 |
-| Spain | USD 94.12 | €79.99 |
-| France | USD 94.12 | €79.99 |
-| Italy | USD 94.12 | €79.99 |
+| Brazil | USD 13.74 | R$349 |
+| United States | USD 14.04 | $69.99 |
+| Japan | USD 62.10 | ¥9,800 |
+| Hong Kong | USD 70.35 | HK$549 |
+| Germany | USD 93.85 | €79.99 |
+| Spain | USD 93.85 | €79.99 |
+| France | USD 93.85 | €79.99 |
+| Italy | USD 93.85 | €79.99 |
 
 ## What kind of game is EA SPORTS Madden NFL 26, really?
 

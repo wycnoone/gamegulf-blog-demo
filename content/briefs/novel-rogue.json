@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/1PBv755th4U",
+    "game_id": "1PBv755th4U",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Novel Rogue",
+    "description": "In the mystical Ancient Library, a young apprentice named Wright trains under Yuisil, the Witch of Portals. As part of his magical studies, he delves into the stories of four enchanted books, each offering a unique realm to explore. From reclaiming a fallen kingdom to unraveling the mysteries of the underworld, your choices shape the destinies of captivating characters and their intertwining tales.\n\nIn this card deck-building roguelite full of pixel artwork, dive into thrilling, turn-based card battles where every decision counts. Build and customize decks across four unique systems, each tailored to the worlds within the books. Collect powerful cards, use Ink to enhance your deck, and adapt your strategy to overcome enemies and unlock special endings. With randomized dungeons and escalating challenges, each run is a fresh test of your skills.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504895151613896.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504895202713785.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504895173315442.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504895132119746.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504895129819687.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504895334510075.jpeg"
+    ],
+    "genres": [
+      "Role-playing",
+      "Adventure",
+      "Action",
+      "Simulation",
+      "Board game",
+      "Strategy"
+    ],
+    "release_date": "2025-07-03",
+    "developer": "Exe Create Inc.",
+    "publisher": "KEMCO",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 8.32,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.32
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": 11.11,
+          "discount_rate": 35,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.11
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": 12.99,
+          "discount_rate": 35,
+          "discount_end": "2026-04-22 21:59:59",
+          "discount_end_timestamp": 1776895199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": 12.99,
+          "discount_rate": 35,
+          "discount_end": "2026-04-22 21:59:59",
+          "discount_end_timestamp": 1776895199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": 12.99,
+          "discount_rate": 35,
+          "discount_end": "2026-04-22 22:59:59",
+          "discount_end_timestamp": 1776898799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.99
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 20.12,
+          "discount_price": 13.07,
+          "discount_rate": 35,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.07
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": 13.44,
+          "discount_rate": 35,
+          "discount_end": "2026-04-22 22:59:59",
+          "discount_end_timestamp": 1776898799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.44
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 15.29,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.29
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-01-12",
+              "country_code": "JP",
+              "value": 8.32,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-14",
+              "country_code": "JP",
+              "value": 5.82,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 20.12,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-07-03",
+              "country_code": "JP",
+              "value": 7.49,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-12",
+              "country_code": "JP",
+              "value": 8.32,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-14",
+              "country_code": "JP",
+              "value": 5.82,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "BR",
+              "value": 20.12,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-17",
+              "country_code": "US",
+              "value": 17.1,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.96,
+          "discount_price": 11.67,
+          "discount_rate": 35,
+          "discount_end": "2026-04-23 06:59:59",
+          "discount_end_timestamp": 1776927599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.67
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 16.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.38
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 11.11,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 11.67,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "jEWblIF0H7u",
+      "title": "Rogue Lords",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511518486217802.jpeg",
+      "metacritic": null,
+      "price": 13.66,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-05-12",
+      "categories": [
+        "Role-playing",
+        "Strategy",
+        "Platformer",
+        "Other",
+        "Board game"
+      ],
+      "url": "https://www.gamegulf.com/detail/jEWblIF0H7u"
+    },
+    {
+      "id": "k3Rw9FKy3nO",
+      "title": "Rogue Wizards",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513083178716183.jpeg",
+      "metacritic": null,
+      "price": 11.99,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-07-15",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/k3Rw9FKy3nO"
+    },
+    {
+      "id": "4KiS7nP8hVL",
+      "title": "Rogue Singularity",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515758924710436.jpeg",
+      "metacritic": null,
+      "price": 12.82,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-08-15",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/4KiS7nP8hVL"
+    },
+    {
+      "id": "7nfMGfGhUzM",
+      "title": "Rogue Robots",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514714185317487.jpeg",
+      "metacritic": null,
+      "price": 5.69,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-06-12",
+      "categories": [
+        "Action",
+        "Fighting",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/7nfMGfGhUzM"
+    },
+    {
+      "id": "jc3MsHcrHTW",
+      "title": "Skull Rogue",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515104044719931.jpeg",
+      "metacritic": null,
+      "price": 2.99,
+      "discount_price": 0.99,
+      "discount_rate": 66,
+      "discount_tag": "LowPrice",
+      "discount_end": "6 days",
+      "release_date": "2020-02-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/jc3MsHcrHTW"
+    },
+    {
+      "id": "iPvpPFiBKca",
+      "title": "Overrogue",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511279674818441.jpeg",
+      "metacritic": null,
+      "price": 7.13,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-07",
+      "categories": [
+        "Adventure",
+        "Board game",
+        "Role-playing",
+        "Strategy",
+        "Action",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/iPvpPFiBKca"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+      "priceCurrency": "USD",
+      "price": "20.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+      "priceCurrency": "BRL",
+      "price": "119.95",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+      "priceCurrency": "ARS",
+      "price": "16799.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1540.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+      "priceCurrency": "HKD",
+      "price": "150.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+      "priceCurrency": "GBP",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.32,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 5.82,
+        "region": "JP",
+        "date": "2026-01-14"
+      },
+      "local_low": {
+        "price_eur": 11.11,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.82,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-01-14"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 11.46,
+      "sale_periods": [
+        {
+          "start": "2026-01-14",
+          "end": "2026-01-14"
+        }
+      ],
+      "days_since_last_discount": 35,
+      "last_discount": {
+        "date": "2026-03-17",
+        "price_eur": 17.1,
+        "region": "United States",
+        "drop_pct": 15
+      },
+      "trend_entries_count": 5,
+      "price_verdict": "occasional_discounter"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 11.67,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": null,
+      "local_low": {
+        "price_eur": 11.67,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/1PBv755th4U",
+    "price_track": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 3204140,
+      "name": "Novel Rogue",
+      "developer": [
+        "Exe Create Inc."
+      ],
+      "publisher": [
+        "KEMCO"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "RPG",
+        "Strategy"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 0,
+      "short_description": "Turn the page and shape destiny in a card deck-building roguelite JRPG!",
+      "supported_languages": "Japanese, English",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 6,
+        "total_negative": 0,
+        "total_reviews": 6,
+        "score_description": "6 user reviews",
+        "positive_percent": 100
+      }
+    },
+    "hltb": null
+  }
+}

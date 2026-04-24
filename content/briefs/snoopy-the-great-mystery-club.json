@@ -1,0 +1,683 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/ck6HFyqUzjK",
+    "game_id": "ck6HFyqUzjK",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Snoopy & The Great Mystery Club",
+    "description": "Join Snoopy and the gang in an all-new mystery adventure packed with charm, clever puzzles, and heartwarming friendships! Step into Snoopy’s paws and detective hat as you explore the town, solve challenging cases, and uncover hidden secrets—with help from the lovable Peanuts gang.\n\nWhether you're investigating strange happenings at the school, chasing clues through the forest, each case is filled with brain-teasing challenges and unexpected surprises. Build your own team of four from familiar friends such as Peppermint Patty, Lucy, Marcie, Schroeder, Franklin and others—each bringing their own special skills to the case.\nLighthearted, witty, and full of classic Peanuts charm, this feel-good action-puzzle adventure is ideal for both the young and the young at heart!\n \nKEY FEATURES:\n\n• PLAY AS SNOOPY!: Snoopy’s on the case as you take charge of The Great Mystery Club! Build your custom squad of the lovable Peanuts gang—each with unique abilities and quirky strengths that bring fun and strategy to every puzzle.\n\n• EXPLORE ICONIC LOCATIONS: Journey through the town as you solve mysteries and puzzles. Visit the gang’s school, the iconic music hall, Charlie Brown’s house, the baseball field, the Kite eating tree, and more as you uncover surprises and twists!\n\n• SNOOPY’S ON THE CASE: Switch between Snoopy’s personas—Detective, Beagle Scout, Fierce Pirate, and more—to solve puzzles with clever tools like a leaf blower, a super-sleuth's magnifying glass, a trusty metal detector, and more. Each role unlocks fun new ways to crack part of the case!\n\n• MYSTERY CLUB MINI-GAMES:  Take some swings at home plate, try kicking the football, work in the lab, play a tune, and race to the finish! Have a blast with baseball, football, crafting, memory tests, object hunts, piano playing, soapbox derbies—and take flight in the legendary Sopwith Camel to chase down the Red Baron!\n\n• A STORY PACKED WITH HEART & HUMOR:  Enjoy humorous and delightful encounters and an emotional story that celebrates the power of friendship, teamwork, and staying true to who you are.\n\n• INTERACTIVELY IMMERSERSE YOURSLE IN THE WORLD PEANUTS: With its charming creative direction and gameplay, enjoy a visually stunning adventure that combines modern, soft graphics with the nostalgic, adventurous tone of the beloved Peanuts brand.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504192939317889.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504192939317889.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504193134914618.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504193273710120.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504193109616516.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504193094015892.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504193144717549.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504193397511209.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Action"
+    ],
+    "release_date": "2025-10-10",
+    "developer": "Cradle Games",
+    "publisher": "Game Mill",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": 17.1,
+          "discount_rate": 50,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 39.99,
+          "discount_price": 19.99,
+          "discount_rate": 50,
+          "discount_end": "2026-05-01 21:59:59",
+          "discount_end_timestamp": 1777672799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 39.99,
+          "discount_price": 19.99,
+          "discount_rate": 50,
+          "discount_end": "2026-05-01 21:59:59",
+          "discount_end_timestamp": 1777672799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 39.99,
+          "discount_price": 19.99,
+          "discount_rate": 50,
+          "discount_end": "2026-05-01 21:59:59",
+          "discount_end_timestamp": 1777672799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 39.99,
+          "discount_price": 19.99,
+          "discount_rate": 50,
+          "discount_end": "2026-05-01 21:59:59",
+          "discount_end_timestamp": 1777672799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 39.99,
+          "discount_price": 19.99,
+          "discount_rate": 50,
+          "discount_end": "2026-05-01 22:59:59",
+          "discount_end_timestamp": 1777676399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 40.22,
+          "discount_price": 20.11,
+          "discount_rate": 50,
+          "discount_end": "2026-05-01 22:59:59",
+          "discount_end_timestamp": 1777676399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.11
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 49.64,
+          "discount_price": 24.82,
+          "discount_rate": 50,
+          "discount_end": "2026-04-22 06:59:59",
+          "discount_end_timestamp": 1776841199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.82
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-15",
+              "country_code": "DE",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-01-28",
+              "country_code": "ES",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-02-03",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-06",
+              "country_code": "BR",
+              "value": 49.64,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-11-15",
+              "country_code": "DE",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-01-28",
+              "country_code": "ES",
+              "value": 39.99,
+              "currency": "EUR",
+              "country": "Spain"
+            },
+            {
+              "date": "2026-02-03",
+              "country_code": "FR",
+              "value": 19.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-06",
+              "country_code": "BR",
+              "value": 49.64,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.21
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 39.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 39.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-06",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-06",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-06",
+              "country_code": "US",
+              "value": 34.21,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 34.21,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "US",
+          "value": 34.21,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "ilppjvoZ4dv",
+      "title": "Snoopy & The Great Mystery Club - Joe Cool Fun Pack",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502910261111957.jpeg",
+      "metacritic": null,
+      "price": 25.78,
+      "discount_price": 23.16,
+      "discount_rate": 10,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "21 days",
+      "release_date": "2026-05-14",
+      "categories": [
+        "Adventure",
+        "Action",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/ilppjvoZ4dv"
+    },
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    },
+    {
+      "id": "4ih1kLyZLm8",
+      "title": "Panda Jump",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
+    },
+    {
+      "id": "ari1ZXrPQFN",
+      "title": "Red Ball Escape",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513226484514499.jpeg",
+      "metacritic": null,
+      "price": 2.05,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-21",
+      "categories": [
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
+    },
+    {
+      "id": "81UgB7rP66E",
+      "title": "The True",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513638626611561.jpeg",
+      "metacritic": null,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-11",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Puzzle",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/81UgB7rP66E"
+    },
+    {
+      "id": "hUpbpKWpEWj",
+      "title": "Out of Line",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512785048318925.jpeg",
+      "metacritic": 71,
+      "price": 7.65,
+      "discount_price": 3.06,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "20 hr",
+      "release_date": "2021-08-18",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hUpbpKWpEWj"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/ck6HFyqUzjK#currency-price",
+      "priceCurrency": "USD",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:47+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/ck6HFyqUzjK#currency-price",
+      "priceCurrency": "BRL",
+      "price": "296.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:47+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/ck6HFyqUzjK#currency-price",
+      "priceCurrency": "ARS",
+      "price": "42000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:47+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/ck6HFyqUzjK#currency-price",
+      "priceCurrency": "EUR",
+      "price": "39.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:47+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/ck6HFyqUzjK#currency-price",
+      "priceCurrency": "GBP",
+      "price": "34.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:47+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 17.1,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 19.99,
+        "region": "FR",
+        "date": "2026-02-03"
+      },
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 19.99,
+        "region": "FR",
+        "country": "France",
+        "date": "2026-02-03"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 19.99,
+      "sale_periods": [],
+      "days_since_last_discount": 77,
+      "last_discount": {
+        "date": "2026-02-03",
+        "price_eur": 19.99,
+        "region": "France",
+        "drop_pct": 50
+      },
+      "trend_entries_count": 4,
+      "price_verdict": "at_historical_low"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 34.21,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 34.21,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 34.21,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 34.21,
+        "region": "US",
+        "country": "United States",
+        "date": "2026-04-06"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/ck6HFyqUzjK",
+    "price_track": "https://www.gamegulf.com/detail/ck6HFyqUzjK#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 3328180,
+      "name": "Snoopy & The Great Mystery Club",
+      "developer": [
+        "Cradle Games"
+      ],
+      "publisher": [
+        "GameMill Entertainment"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure"
+      ],
+      "steam_price": "$19.99",
+      "total_recommendations": 0,
+      "short_description": "Join Snoopy and the gang in an all-new mystery adventure packed with charm, clever puzzles, and heartwarming friendships! Step into Snoopy’s paws and detective hat as you explore the town, solve challenging cases, and uncover hidden secrets—with help from the lovable Peanuts gang.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Dutch<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 62,
+        "total_negative": 6,
+        "total_reviews": 68,
+        "score_description": "Very Positive",
+        "positive_percent": 91
+      }
+    },
+    "hltb": null
+  }
+}

@@ -166,14 +166,14 @@ Tracked **discount** history: **all-time low** around **€6.64** (see grid), **
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 7.81 | ¥4,100 |
-| United Kingdom | USD 12.16 | £29.99 |
-| Germany | USD 14.11 | €39.99 |
-| Spain | USD 14.11 | €39.99 |
-| France | USD 14.11 | €39.99 |
-| Hong Kong | USD 35.35 | HK$275 |
-| United States | USD 40.25 | $39.99 |
-| Brazil | USD 42.41 | R$214.9 |
+| Japan | USD 7.79 | ¥4,100 |
+| United Kingdom | USD 12.12 | £29.99 |
+| Germany | USD 14.07 | €39.99 |
+| Spain | USD 14.07 | €39.99 |
+| France | USD 14.07 | €39.99 |
+| Hong Kong | USD 35.25 | HK$275 |
+| United States | USD 40.14 | $39.99 |
+| Brazil | USD 42.29 | R$214.9 |
 
 ## What kind of game is Overcooked! All You Can Eat, really?
 

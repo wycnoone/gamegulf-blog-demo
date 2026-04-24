@@ -61,7 +61,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - Hello Kitty Island Adventure sale bingo
@@ -127,10 +127,10 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 4271 | ¥6,500 |
-| ブラジル | JPY 5784 | R$184.31 |
-| 香港 | JPY 6112 | HK$299 |
-| アメリカ合衆国 | JPY 8004 | $49.99 |
+| 日本 | JPY 4263 | ¥6,500 |
+| ブラジル | JPY 5774 | R$184.31 |
+| 香港 | JPY 6101 | HK$299 |
+| アメリカ合衆国 | JPY 7990 | $49.99 |
 
 ## 『Hello Kitty Island Adventure』はどんなゲーム？
 

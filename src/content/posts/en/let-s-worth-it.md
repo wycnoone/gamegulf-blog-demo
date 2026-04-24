@@ -164,14 +164,14 @@ Tracked **discount** history: **all-time low** around **€26.83** (BR), **3** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 39.47 | R$199.99 |
-| Hong Kong | USD 39.58 | HK$358 |
-| Germany | USD 41.17 | €49.99 |
-| France | USD 41.17 | €49.99 |
-| Italy | USD 41.17 | €49.99 |
-| Portugal | USD 41.17 | €49.99 |
-| Japan | USD 41.95 | ¥7,700 |
-| United States | USD 50.33 | $49.99 |
+| Brazil | USD 39.35 | R$199.99 |
+| Hong Kong | USD 39.47 | HK$358 |
+| Germany | USD 41.05 | €49.99 |
+| France | USD 41.05 | €49.99 |
+| Italy | USD 41.05 | €49.99 |
+| Portugal | USD 41.05 | €49.99 |
+| Japan | USD 41.83 | ¥7,700 |
+| United States | USD 50.18 | $49.99 |
 
 ## What kind of game is 牧場物語 Let's！風のグランドバザール, really?
 

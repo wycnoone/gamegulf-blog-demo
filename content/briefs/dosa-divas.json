@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/2FqEovVMEB1",
+    "game_id": "2FqEovVMEB1",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Dosa Divas",
+    "description": "Outerloop Games delivers Dosa Divas - a spicy narrative turn-based RPG. After years apart, sisters Samara and Amani journey with their ancient spirit-mech on a mission to defeat a rotten fast food empire and reconnect communities with their traditions. Platform through vibrant villages, battle corporate goons, reconcile with loved ones, and eat one last meal together before saying goodbye.\n\nTASTE VICTORY\nEngage in a flavorful turn-based combat system where every attack packs some heat, especially when you time it right. Hitting the action button as the hit lands amplifies your attack damage and strengthens your blocks against enemy attacks.  Use boost points at the start of your turn to multiply damage on attacks and skills. Each character harnesses their Spirit Power to use a unique set of class-based abilities associated with one of five flavor profiles. Match enemy flavour cravings to break down their defenses and leave them stuffed. With each round, build up your Ultimate meter to use special group Ultimates and serve up some devastating damage. \n\nMECH-SPLORATION\nTraverse unique villages in a customizable and upgradable ancient spirit-mech named Goddess. Double-jump, drill, and grapple your way through the world to discover local ingredients, hidden paths, memories, and new friends.\n\nORDER UP\nCook up made-to-order food to wake the people from a processed food-induced haze using the expressive cooking system. Forage, fish, and barter to collect ingredients and fire up orders for hungry villagers. Delivering delicious, hearty meals reconnects communities with their culture, history, and shared memories and increases your reputation. Developing a strong reputation comes with major perks and progression.\n\nFIST FOOD\nFuel yourself in battle by having a quick bite to eat. Leverage the effects of ingredients to adjust recipes and create extra fragrant dishes that restore health, enhance damage, fortify defense, and replenish your Spirit Power.\n\nMECH IT YOUR OWN\nServe up looks by customizing your spirit-mech, Goddess. Mix and match your mech’s body, arms, and legs. Create your own spicy style with custom wraps and accessories.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679047514997.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679047514997.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679170310402.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679170113933.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679170211973.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679219118859.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679174312420.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502679339312767.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Role-playing"
+    ],
+    "release_date": "2026-04-14",
+    "developer": "Outerloop Games",
+    "publisher": "Outerloop Games",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 18.99,
+          "discount_price": 17.09,
+          "discount_rate": 10,
+          "discount_end": "2026-04-27 21:59:59",
+          "discount_end_timestamp": 1777327199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.09
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 18.99,
+          "discount_price": 17.09,
+          "discount_rate": 10,
+          "discount_end": "2026-04-27 21:59:59",
+          "discount_end_timestamp": 1777327199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.09
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 18.99,
+          "discount_price": 17.09,
+          "discount_rate": 10,
+          "discount_end": "2026-04-27 22:59:59",
+          "discount_end_timestamp": 1777330799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.09
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 18.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 18.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "FR",
+              "value": 17.09,
+              "currency": "EUR",
+              "country": "France"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "FR",
+              "value": 17.09,
+              "currency": "EUR",
+              "country": "France"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "FR",
+              "value": 17.09,
+              "currency": "EUR",
+              "country": "France"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": 15.39,
+          "discount_rate": 10,
+          "discount_end": "2026-04-28 06:59:59",
+          "discount_end_timestamp": 1777359599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.39
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 18.99,
+          "discount_price": 17.09,
+          "discount_rate": 10,
+          "discount_end": "2026-04-27 22:59:59",
+          "discount_end_timestamp": 1777330799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.09
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "US",
+              "value": 15.39,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "US",
+              "value": 15.39,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-14",
+              "country_code": "US",
+              "value": 15.39,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "FR",
+          "value": 17.09,
+          "currency": "EUR",
+          "price_type": "Digital"
+        },
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 15.39,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 15.39,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "hWut0zzzi13",
+      "title": "DEX",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
+      "metacritic": 72,
+      "price": 19.99,
+      "discount_price": 2.99,
+      "discount_rate": 85,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2020-07-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Shooter",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "kYo4NRMWRCG",
+      "title": "Ultra Pixel Survive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509832319710446.jpeg",
+      "metacritic": null,
+      "price": 0.46,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-04-14",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 12.41,
+      "discount_price": 2.48,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2021-08-05",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
+      "id": "aXRBXHN2tEI",
+      "title": "Seven Spirits",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508718530815596.jpeg",
+      "metacritic": null,
+      "price": 0.81,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-09",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/aXRBXHN2tEI"
+    },
+    {
+      "id": "lqa9TJHCgVE",
+      "title": "Monster Hunter Rise",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513536485310369.jpeg",
+      "metacritic": 88,
+      "price": 21.55,
+      "discount_price": 4.31,
+      "discount_rate": 80,
+      "discount_tag": "LowPrice",
+      "discount_end": "19 hr",
+      "release_date": "2021-03-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/lqa9TJHCgVE"
+    },
+    {
+      "id": "ab3x78yk63M",
+      "title": "Moonlighter",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516616208918895.jpeg",
+      "metacritic": 83,
+      "price": 11.91,
+      "discount_price": 1.75,
+      "discount_rate": 85,
+      "discount_tag": "LowPrice",
+      "discount_end": "24 days",
+      "release_date": "2021-02-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/ab3x78yk63M"
+    },
+    {
+      "id": "30TxRgUarep",
+      "title": "Deiland: Pocket Planet Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513464210115579.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "12 days",
+      "release_date": "2021-04-15",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Communication"
+      ],
+      "url": "https://www.gamegulf.com/detail/30TxRgUarep"
+    },
+    {
+      "id": "9LhexgMA0RR",
+      "title": "Nexomon",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512539308818717.jpeg",
+      "metacritic": null,
+      "price": 4.75,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-01",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Fighting",
+        "Action",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9LhexgMA0RR"
+    },
+    {
+      "id": "bpMFtHJyIBc",
+      "title": "Collection of Mana",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515945486010794.jpeg",
+      "metacritic": 83,
+      "price": 19.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-13",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Other",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/bpMFtHJyIBc"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2FqEovVMEB1#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:08+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2FqEovVMEB1#currency-price",
+      "priceCurrency": "EUR",
+      "price": "18.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:08+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 17.09,
+        "region": "France",
+        "country_code": "FR"
+      },
+      "global_low": {
+        "price_eur": 17.09,
+        "region": "FR",
+        "type": "Digital"
+      },
+      "local_low": null,
+      "trend_from_lowest": {
+        "price_eur": 17.09,
+        "region": "FR",
+        "country": "France",
+        "date": "2026-04-14"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    },
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 15.39,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": {
+        "price_eur": 15.39,
+        "region": "US",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 15.39,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 15.39,
+        "region": "US",
+        "country": "United States",
+        "date": "2026-04-14"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/2FqEovVMEB1",
+    "price_track": "https://www.gamegulf.com/detail/2FqEovVMEB1#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 2950710,
+      "name": "Dosa Divas",
+      "developer": [
+        "Outerloop Games"
+      ],
+      "publisher": [
+        "Outerloop Games",
+        "Outersloth"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Save Anytime",
+        "Stereo Sound",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "steam_price": "$17.99",
+      "total_recommendations": 0,
+      "short_description": "Battle an evil fast food empire in this spicy narrative turn-based RPG. Two sisters and their upgradable spirit-mech cook delicious meals, fight corpos, build up your reputation with local communities, and reconcile with loved ones.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 24,
+        "total_negative": 1,
+        "total_reviews": 25,
+        "score_description": "Positive",
+        "positive_percent": 96
+      }
+    },
+    "hltb": null
+  }
+}

@@ -170,14 +170,14 @@ Tracked **discount** history: **all-time low** around **€10.45** (BR), **2** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Portugal | USD 17.64 | €24.99 |
-| Brazil | USD 17.76 | R$109.99 |
-| United States | USD 25.16 | $29.99 |
-| United Kingdom | USD 27.04 | £19.99 |
-| Germany | USD 29.41 | €24.99 |
-| Spain | USD 29.41 | €24.99 |
-| France | USD 29.41 | €24.99 |
-| Italy | USD 29.41 | €24.99 |
+| Portugal | USD 17.59 | €24.99 |
+| Brazil | USD 17.71 | R$109.99 |
+| United States | USD 25.09 | $29.99 |
+| United Kingdom | USD 26.96 | £19.99 |
+| Germany | USD 29.32 | €24.99 |
+| Spain | USD 29.32 | €24.99 |
+| France | USD 29.32 | €24.99 |
+| Italy | USD 29.32 | €24.99 |
 
 ## What kind of game is Broken Sword - Shadow of the Templars: Reforged, really?
 

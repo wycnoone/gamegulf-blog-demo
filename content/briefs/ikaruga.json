@@ -1,0 +1,673 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/c6bSJCmVQxa",
+    "game_id": "c6bSJCmVQxa",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Ikaruga",
+    "description": "A rebel pilot named Shinra must battle an enemy nation using a specially-designed fighter called the Ikaruga, which can switch between two energy polarities (black or white) at the touch of a button. Bullets that are the same color as Shinra’s ship can be absorbed, while the opposite color will do damage - this polarity-switching mechanic is the game's core feature and the foundation for its stage and enemy design. It's now up to Shinra makes his final stand, as the Ikaruga might be the rebel federation's last chance to defeat the oppressive Horai regime!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517014902319374.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517014902319374.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517015067419248.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517015065816442.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517015069418573.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517015066614809.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517015073916173.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517015227618288.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Arcade",
+      "Shooter"
+    ],
+    "release_date": "2018-05-29",
+    "developer": "TREASURE",
+    "publisher": "Nicalis",
+    "metacritic": 88
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 8.91,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.91
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 15.51,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.51
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-10-30",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-06",
+              "country_code": "JP",
+              "value": 6.64,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-13",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 5.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-30",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "JP",
+              "value": 7.56,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-22",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-04",
+              "country_code": "JP",
+              "value": 7.13,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-07-30",
+              "country_code": "JP",
+              "value": 6.21,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-09-24",
+              "country_code": "JP",
+              "value": 7.13,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-10-30",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-06",
+              "country_code": "JP",
+              "value": 6.64,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-13",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "JP",
+              "value": 5.35,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-01-30",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-02-11",
+              "country_code": "JP",
+              "value": 7.56,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-03-22",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-04-08",
+              "country_code": "JP",
+              "value": 8.91,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 8.91,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "5fIWVgbvENf",
+      "title": "BPM: Bullets Per Minute",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510976143515317.jpeg",
+      "metacritic": null,
+      "price": 1.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-08",
+      "categories": [
+        "Action",
+        "Arcade",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/5fIWVgbvENf"
+    },
+    {
+      "id": "2OJjPKonGxw",
+      "title": "NeuroVoider",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517412849817987.jpeg",
+      "metacritic": 85,
+      "price": 3.78,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-02-22",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Role-playing",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/2OJjPKonGxw"
+    },
+    {
+      "id": "gCg2uQJJfO1",
+      "title": "OlliOlli World",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
+      "metacritic": 87,
+      "price": 19.53,
+      "discount_price": 4.87,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "4 days",
+      "release_date": "2022-02-08",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Platformer",
+        "Action",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1"
+    },
+    {
+      "id": "K1SvVJeGAn",
+      "title": "Gold Digger",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513539885519977.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-25",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/K1SvVJeGAn"
+    },
+    {
+      "id": "4yz15vuekUI",
+      "title": "Low Story",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508677102715545.jpeg",
+      "metacritic": null,
+      "price": 7.99,
+      "discount_price": 1.59,
+      "discount_rate": 80,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "2 hr",
+      "release_date": "2023-11-16",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/4yz15vuekUI"
+    },
+    {
+      "id": "4muroiVTbOx",
+      "title": "Space Warrior",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513401262819344.jpeg",
+      "metacritic": null,
+      "price": 2.3,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-08-19",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Shooter",
+        "Simulation",
+        "Racing",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/4muroiVTbOx"
+    },
+    {
+      "id": "97xc0MyqWUS",
+      "title": "SEGA AGES Fantasy Zone",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515241490519083.jpeg",
+      "metacritic": 84,
+      "price": 5.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-11-28",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/97xc0MyqWUS"
+    },
+    {
+      "id": "llo6wHTmXjG",
+      "title": "The Hero with a Thousand Arms",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509973402012791.jpeg",
+      "metacritic": null,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-21",
+      "categories": [
+        "Action",
+        "Racing",
+        "Puzzle",
+        "Arcade",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/llo6wHTmXjG"
+    },
+    {
+      "id": "lGr9w6o2QfS",
+      "title": "Techno Tanks",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513377346914694.jpeg",
+      "metacritic": null,
+      "price": 3.24,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-05-06",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Party",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/lGr9w6o2QfS"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/c6bSJCmVQxa#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:03+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/c6bSJCmVQxa#currency-price",
+      "priceCurrency": "EUR",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:03+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/c6bSJCmVQxa#currency-price",
+      "priceCurrency": "GBP",
+      "price": "13.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:03+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/c6bSJCmVQxa#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1650.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:03+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.91,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 8.91,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.35,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2025-12-17"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 6,
+      "avg_discount_price_eur": 6.97,
+      "sale_periods": [
+        {
+          "start": "2025-06-04",
+          "end": "2025-07-30"
+        },
+        {
+          "start": "2025-09-24",
+          "end": "2025-09-24"
+        },
+        {
+          "start": "2025-11-06",
+          "end": "2025-11-06"
+        },
+        {
+          "start": "2025-12-17",
+          "end": "2025-12-17"
+        },
+        {
+          "start": "2026-02-11",
+          "end": "2026-02-11"
+        }
+      ],
+      "days_since_last_discount": 14,
+      "last_discount": {
+        "date": "2026-04-08",
+        "price_eur": 8.91,
+        "region": "Japan",
+        "drop_pct": 41
+      },
+      "trend_entries_count": 12,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/c6bSJCmVQxa",
+    "price_track": "https://www.gamegulf.com/detail/c6bSJCmVQxa#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 253750,
+      "name": "Ikaruga",
+      "developer": [
+        "TREASURE"
+      ],
+      "publisher": [
+        "TREASURE"
+      ],
+      "metacritic_score": 84,
+      "metacritic_url": "https://www.metacritic.com/game/pc/ikaruga?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Steam Leaderboards",
+        "Remote Play on TV",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Indie"
+      ],
+      "steam_price": "$9.99",
+      "total_recommendations": 2142,
+      "short_description": "Shoot! Dodge! and... Get Hit!? &quot;Ikaruga&quot; is a vertical shoot 'em up that features an unique polarity-switching gameplay. Switch the ship's polarity and &quot;get hit and absorb&quot; enemy bullets! Achieve High Score with the chain bonus!",
+      "supported_languages": "English<strong>*</strong>, Japanese<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 2188,
+        "total_negative": 122,
+        "total_reviews": 2310,
+        "score_description": "Very Positive",
+        "positive_percent": 95
+      }
+    },
+    "hltb": null
+  }
+}

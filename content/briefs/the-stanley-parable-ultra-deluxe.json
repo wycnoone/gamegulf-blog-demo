@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/cSbjsRXoPAi",
+    "game_id": "cSbjsRXoPAi",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "The Stanley Parable: Ultra Deluxe",
+    "description": "You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will have your choices taken from you. The game will end, the game will never end. Contradiction follows contradiction, the rules of how games should work are broken, then broken again. You are not here to win. The Stanley Parable is a game that plays you. \n\nWhat's New? \n\nThe Stanley Parable: Ultra Deluxe is an expanded re-imagining of the critically acclaimed, award winning indie game The Stanley Parable from 2013. \n\nEverything that was in the original Stanley Parable is here, preserved just like it was back in 2013. But The Stanley Parable: Ultra Deluxe also dramatically expands the world of the original game with new content, new choices, and new secrets to uncover. The labyrinth has just gotten bigger. \n\nIn addition, the game has been visually upgraded to reflect modern technology while faithfully preserving the tone of the original game. Accessibility features have also been added to the game, including localization of in-world text, colorblind options, and content warnings. \n\nAnd just as before, the impeccable voicework of Kevan Brighting will accompany you every step of the way. \n\nIn The Stanley Parable: Ultra Deluxe, everything you remember has been recreated, yet it's different somehow. We've been here before, haven't we? Is Stanley still the same as he was back then? Or is it you who has changed?",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582275810089.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582275810089.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582527113039.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582509219190.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582509511406.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582475217134.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582506916431.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511582731610685.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "First-person",
+      "Other"
+    ],
+    "release_date": "2022-04-27",
+    "developer": "Crows Crows Crows",
+    "publisher": "Crows Crows Crows",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.38
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 21.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 21.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 21.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 21.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 21.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 22.98,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 22.98
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 21.38,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "gJlxtNbcY44",
+      "title": "Mortisomem",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/8/177568635789914517.jpeg",
+      "metacritic": null,
+      "price": 4.93,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-11",
+      "categories": [
+        "Adventure",
+        "Action",
+        "Puzzle",
+        "Other",
+        "First-person"
+      ],
+      "url": "https://www.gamegulf.com/detail/gJlxtNbcY44"
+    },
+    {
+      "id": "9LbNZcHvwVq",
+      "title": "Umurangi Generation Special Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513232029412605.jpeg",
+      "metacritic": 81,
+      "price": 13.11,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-09-30",
+      "categories": [
+        "Adventure",
+        "First-person",
+        "Shooter",
+        "Simulation",
+        "Action",
+        "Study",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/9LbNZcHvwVq"
+    },
+    {
+      "id": "5wfvepx8jpF",
+      "title": "Opus Castle",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510704245710427.jpeg",
+      "metacritic": null,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2022-10-27",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Other",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/5wfvepx8jpF"
+    },
+    {
+      "id": "drrH1pnAjoG",
+      "title": "911: Prey",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506435434416597.jpeg",
+      "metacritic": null,
+      "price": 5.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-11-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Other",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/drrH1pnAjoG"
+    },
+    {
+      "id": "aYUNJbjoDJG",
+      "title": "Escape First 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513722415117764.jpeg",
+      "metacritic": null,
+      "price": 2.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-02-25",
+      "categories": [
+        "Adventure",
+        "First-person",
+        "Puzzle",
+        "Role-playing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/aYUNJbjoDJG"
+    },
+    {
+      "id": "g4F21vvhe3F",
+      "title": "BEASTWATCH: Meat & Mayhem",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507677169112754.jpeg",
+      "metacritic": null,
+      "price": 4.19,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-20",
+      "categories": [
+        "Shooter",
+        "Action",
+        "Adventure",
+        "Other",
+        "First-person"
+      ],
+      "url": "https://www.gamegulf.com/detail/g4F21vvhe3F"
+    },
+    {
+      "id": "jX0c6Pd1cE5",
+      "title": "Night at the Gates of Hell",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613802371015036.jpeg",
+      "metacritic": null,
+      "price": 0.13,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-08",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/jX0c6Pd1cE5"
+    },
+    {
+      "id": "95ePgTWJq92",
+      "title": "Dungeon Nightmares 1+2 Collection",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513827432614993.jpeg",
+      "metacritic": null,
+      "price": 6.48,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-01-07",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "First-person",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/95ePgTWJq92"
+    },
+    {
+      "id": "diH6UlA1EsV",
+      "title": "Sludge Life",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513263275811184.jpeg",
+      "metacritic": 73,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-29",
+      "categories": [
+        "Action",
+        "Adventure",
+        "First-person",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/diH6UlA1EsV"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cSbjsRXoPAi#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:24+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cSbjsRXoPAi#currency-price",
+      "priceCurrency": "EUR",
+      "price": "21.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:24+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cSbjsRXoPAi#currency-price",
+      "priceCurrency": "GBP",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:24+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/cSbjsRXoPAi#currency-price",
+      "priceCurrency": "ARS",
+      "price": "1799.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:39:24+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 21.38,
+        "region": "United States",
+        "country_code": "US"
+      },
+      "global_low": null,
+      "local_low": {
+        "price_eur": 21.38,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/cSbjsRXoPAi",
+    "price_track": "https://www.gamegulf.com/detail/cSbjsRXoPAi#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1703340,
+      "name": "The Stanley Parable: Ultra Deluxe",
+      "developer": [
+        "Crows Crows Crows"
+      ],
+      "publisher": [
+        "Crows Crows Crows"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "Indie"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 32753,
+      "short_description": "The Stanley Parable: Ultra Deluxe is an expanded re-imagining of 2013's The Stanley Parable. You will play as Stanley, and you will not play as Stanley. You will make a choice, and you will become powerless. You are not here to win. The Stanley Parable is a game that plays you.",
+      "supported_languages": "English<strong>*</strong>, French, Italian, German, Russian, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Ukrainian<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 32530,
+        "total_negative": 2017,
+        "total_reviews": 34547,
+        "score_description": "Very Positive",
+        "positive_percent": 94
+      }
+    },
+    "hltb": null
+  }
+}

@@ -203,14 +203,14 @@ Indexed math matters: **Hong Kong still leads the April 2026 table near €19.49
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 22.82 | HK$176 |
-| Germany | USD 23.41 | €19.99 |
-| Spain | USD 23.41 | €19.99 |
-| France | USD 23.41 | €19.99 |
-| Italy | USD 23.41 | €19.99 |
-| Portugal | USD 23.41 | €19.99 |
-| United Kingdom | USD 24.18 | £17.99 |
-| Japan | USD 28.66 | ¥4,500 |
+| Hong Kong | USD 22.87 | HK$176 |
+| Germany | USD 23.45 | €19.99 |
+| Spain | USD 23.45 | €19.99 |
+| France | USD 23.45 | €19.99 |
+| Italy | USD 23.45 | €19.99 |
+| Portugal | USD 23.45 | €19.99 |
+| United Kingdom | USD 24.23 | £17.99 |
+| Japan | USD 28.71 | ¥4,500 |
 
 Tracked sale history is sharper than list rank alone: the **deepest global point in this feed** remains that **€9.75 Hong Kong low on 9 June 2025**, while **recurring discount prints average near €16.58** across the indexed year. That mix is why the pipeline tags this as an **occasional discounter**—sales exist, but they are not weekly clockwork. Use the [live multi-region grid](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price) to confirm **your** account before checkout.
 

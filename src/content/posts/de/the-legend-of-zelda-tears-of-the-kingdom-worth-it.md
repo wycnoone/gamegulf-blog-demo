@@ -12,7 +12,7 @@ author: GameGulf Editorial AI
 readingTime: 8 Min. Lesezeit
 decision: >-
   Flagship-Kauf für Spieler mit Bock auf Physik-Basteln,
-  Himmel/Tiefen-Exploration und 50–250h Sandbox. Preissensibel: Japan-Zeile mit
+  Himmel/Tiefen-Exploration und 50–250h Sandbox. Preissensibel: Japan-Preis mit
   eigenem Konto abgleichen.
 priceSignal: >-
   Index: Japan günstigstes €42,95-Äquivalent (¥7.900), USA ~€60,75 ($79,99).
@@ -40,7 +40,7 @@ mainFriction: ~30 fps mit Einbrüchen; Größe kann ohne klare Ziele überforder
 timeFit: ~59h Story, 117h+ Extras, ~248h Completion (HLTB-Durchschnitt).
 fitLabel: System-Spieler mit Zeit für wochenlange Solo-Trips.
 timingNote: >-
-  Kein Sale-Taktplan — Japan-Zeile ist realistischer Tiefpreis-Anker; bei MSRP
+  Kein Sale-Taktplan — Japan-Preis ist realistischer Tiefpreis-Anker; bei MSRP
   Alert setzen.
 communityVibe: Ultrahand-Clips, Schrein-Skips, Tiefen-Routen bleiben aktiv.
 playtime: 59h Story · 117h+ Extras · ~248h Completion (HLTB)
@@ -173,7 +173,7 @@ Kauffrage = **Regionen-Mathe**: Index **Japan ~€42,95 (¥7.900)**, **USA ~€6
 | Vereinigte Staaten | EUR 60.75 | $79.99 |
 | Brasilien | EUR 67.11 | R$499.90 |
 
-**Kein EU/UK-Zeilenblock hier:** Der Switch-Digital-Index dieses Produkts listet aktuell nur die Tabelle oben — **keine separaten EU/UK-eShop-Zeilen im selben Feed**. [Live-Mehrregionen-Grid](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price) oder lokaler Store.
+**Kein EU/UK-Zeilenblock hier:** Der Switch-Digital-Index dieses Produkts listet aktuell nur die Tabelle oben — **keine separaten EU/UK-eShop-Preisn im selben Feed**. [Live-Mehrregionen-Grid](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price) oder lokaler Store.
 
 **Rabatt-Historie:** Im Tracking **0 Sale-Events** letztes Jahr — typisch für Flaggschiff-**Zelda** außerhalb großer Nintendo-**Sale**-Wellen. **2026** zeigt der Index keinen **historischen Tiefstpreis** unter der **Japan-¥7.900**-Zeile; nutze sie als **Rabatt**-Vergleichsanker zu deiner Währung.
 

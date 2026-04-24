@@ -1,0 +1,629 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/hyxZXNVNaxL",
+    "game_id": "hyxZXNVNaxL",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Into the Breach",
+    "description": "The remnants of human civilization are threatened by gigantic creatures breeding beneath the earth. You must control powerful mechs from the future to hold off this alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game from the makers of FTL.  \n\nFeatures:\n\nDefend the Cities: Civilian buildings power your mechs. Defend them from the Vek and watch your fire!\n\nPerfect Your Strategy: All enemy attacks are telegraphed in minimalistic, turn-based combat. Analyze your opponent's attack and come up with the perfect counter every turn.\n\nBuild the Ultimate Mech: Find powerful new weapons and unique pilots as you battle the Vek infestation across Corporate-Nation islands.\n\nAnother Chance: Failure is not an option. When you are defeated, send help back through time to save another timeline!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516815596716411.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516815596716411.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516815783919919.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516815844714655.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516815787519057.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516815784510802.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516815792313716.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516816003511468.jpeg"
+    ],
+    "genres": [
+      "Puzzle",
+      "Role-playing",
+      "Strategy"
+    ],
+    "release_date": "2018-08-28",
+    "developer": "Subset Games",
+    "publisher": "Subset Games",
+    "metacritic": 89
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 8.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.22
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 8.75,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.75
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 13.09,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.09
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-22",
+              "country_code": "GB",
+              "value": 13.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-02-02",
+              "country_code": "BR",
+              "value": 8.22,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-14",
+              "country_code": "BR",
+              "value": 2.47,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "GB",
+              "value": 13.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-07-20",
+              "country_code": "GB",
+              "value": 13.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-09-03",
+              "country_code": "GB",
+              "value": 13.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2025-10-19",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-10-20",
+              "country_code": "US",
+              "value": 5.12,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-02-02",
+              "country_code": "BR",
+              "value": 8.22,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-14",
+              "country_code": "BR",
+              "value": 2.47,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "DE",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "GB",
+              "value": 13.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "RlLWLhwUiq",
+      "title": "Into The Sky",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509100185111133.jpeg",
+      "metacritic": null,
+      "price": 1.23,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-07",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Racing",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/RlLWLhwUiq"
+    },
+    {
+      "id": "gQSof7m04I6",
+      "title": "Into The Dark",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510989791415686.jpeg",
+      "metacritic": null,
+      "price": 0.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-03",
+      "categories": [
+        "Role-playing",
+        "Action",
+        "Fighting",
+        "Shooter",
+        "First-person"
+      ],
+      "url": "https://www.gamegulf.com/detail/gQSof7m04I6"
+    },
+    {
+      "id": "djzV9JxGQKa",
+      "title": "Into The Emberlands",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504898245219914.jpeg",
+      "metacritic": null,
+      "price": 2.91,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-07-02",
+      "categories": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/djzV9JxGQKa"
+    },
+    {
+      "id": "fRBnRboCvtB",
+      "title": "The Secret Order: Shadow Breach",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515049577512909.jpeg",
+      "metacritic": null,
+      "price": 1.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-09-10",
+      "categories": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/fRBnRboCvtB"
+    },
+    {
+      "id": "ew0EPWGY1UX",
+      "title": "Skautfold: Into the Fray",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506823666110138.jpeg",
+      "metacritic": null,
+      "price": 9.21,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-10-04",
+      "categories": [
+        "Action",
+        "Role-playing",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/ew0EPWGY1UX"
+    },
+    {
+      "id": "8kn2jN4XYtz",
+      "title": "Backpack Hero",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508697240015593.jpeg",
+      "metacritic": null,
+      "price": 0.74,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-14",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Strategy",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/8kn2jN4XYtz"
+    },
+    {
+      "id": "fEjmrmGEuQs",
+      "title": "Where is Drake?",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507858153018561.jpeg",
+      "metacritic": null,
+      "price": 5.28,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-19",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/fEjmrmGEuQs"
+    },
+    {
+      "id": "5DsamlfTbo9",
+      "title": "Epyx Rogue",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507325901113014.jpeg",
+      "metacritic": null,
+      "price": 4.49,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-07-18",
+      "categories": [
+        "Role-playing",
+        "Adventure",
+        "Strategy",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/5DsamlfTbo9"
+    },
+    {
+      "id": "fx2cfqrZofF",
+      "title": "Doll Explorer",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613734652118538.jpeg",
+      "metacritic": null,
+      "price": 5.6,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-04",
+      "categories": [
+        "Strategy",
+        "Simulation",
+        "Puzzle",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/fx2cfqrZofF"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hyxZXNVNaxL#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:34:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hyxZXNVNaxL#currency-price",
+      "priceCurrency": "EUR",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:34:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hyxZXNVNaxL#currency-price",
+      "priceCurrency": "GBP",
+      "price": "11.39",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:34:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hyxZXNVNaxL#currency-price",
+      "priceCurrency": "JPY",
+      "price": "1620.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:34:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hyxZXNVNaxL#currency-price",
+      "priceCurrency": "BRL",
+      "price": "49.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:34:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/hyxZXNVNaxL#currency-price",
+      "priceCurrency": "ARS",
+      "price": "999.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:34:11+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.22,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 2.47,
+        "region": "BR",
+        "date": "2026-02-14"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 2.47,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-02-14"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 4,
+      "avg_discount_price_eur": 8.38,
+      "sale_periods": [
+        {
+          "start": "2025-10-20",
+          "end": "2025-10-20"
+        },
+        {
+          "start": "2026-02-14",
+          "end": "2026-02-14"
+        }
+      ],
+      "days_since_last_discount": 0,
+      "last_discount": {
+        "date": "2026-04-22",
+        "price_eur": 13.09,
+        "region": "United Kingdom",
+        "drop_pct": 13
+      },
+      "trend_entries_count": 8,
+      "price_verdict": "regular_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/hyxZXNVNaxL",
+    "price_track": "https://www.gamegulf.com/detail/hyxZXNVNaxL#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 590380,
+      "name": "Into the Breach",
+      "developer": [
+        "Subset Games"
+      ],
+      "publisher": [
+        "Subset Games"
+      ],
+      "metacritic_score": 90,
+      "metacritic_url": "https://www.metacritic.com/game/pc/into-the-breach?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Indie",
+        "RPG",
+        "Simulation",
+        "Strategy"
+      ],
+      "steam_price": "$5.99",
+      "total_recommendations": 18502,
+      "short_description": "Control powerful mechs from the future to defeat an alien threat. Each attempt to save the world presents a new randomly generated challenge in this turn-based strategy game.",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Polish<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Simplified Chinese<strong>*</strong>, Arabic<strong>*</strong>, Korean<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Thai<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 20567,
+        "total_negative": 1246,
+        "total_reviews": 21813,
+        "score_description": "Very Positive",
+        "positive_percent": 94
+      }
+    },
+    "hltb": null
+  }
+}

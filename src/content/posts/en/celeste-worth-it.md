@@ -162,14 +162,14 @@ Tracked **discount** history: **all-time low** around **€2.51** (see grid), **
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 2.95 | R$59.99 |
-| Italy | USD 5.87 | €19.99 |
-| Portugal | USD 5.87 | €19.99 |
-| Japan | USD 13.73 | ¥2,160 |
-| United States | USD 20.12 | $19.99 |
-| Germany | USD 23.52 | €19.99 |
-| Spain | USD 23.52 | €19.99 |
-| France | USD 23.52 | €19.99 |
+| Brazil | USD 2.94 | R$59.99 |
+| Italy | USD 5.85 | €19.99 |
+| Portugal | USD 5.85 | €19.99 |
+| Japan | USD 13.69 | ¥2,160 |
+| United States | USD 20.06 | $19.99 |
+| Germany | USD 23.45 | €19.99 |
+| Spain | USD 23.45 | €19.99 |
+| France | USD 23.45 | €19.99 |
 
 ## What kind of game is Celeste, really?
 

@@ -196,14 +196,14 @@ April **2026** pricing is classic Nintendo evergreen: indexed digital still open
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.88 | ¥6,578 |
-| Hong Kong | USD 42.67 | HK$329 |
-| United States | USD 60.98 | $59.99 |
-| Brazil | USD 64.98 | R$329.9 |
-| United Kingdom | USD 67.19 | £49.99 |
-| Germany | USD 70.25 | €59.99 |
-| Spain | USD 70.25 | €59.99 |
-| France | USD 70.25 | €59.99 |
+| Japan | USD 41.96 | ¥6,578 |
+| Hong Kong | USD 42.76 | HK$329 |
+| United States | USD 61.09 | $59.99 |
+| Brazil | USD 65.11 | R$329.9 |
+| United Kingdom | USD 67.31 | £49.99 |
+| Germany | USD 70.39 | €59.99 |
+| Spain | USD 70.39 | €59.99 |
+| France | USD 70.39 | €59.99 |
 
 Because **Mario Kart 8 Deluxe** rarely prints deep **discount** history here, the buying question is **regional fairness**, not fantasy coupon math. GameGulf mirrors the same ladder — use the [live multi-region grid](https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price) to confirm the row your Nintendo account actually pays.
 

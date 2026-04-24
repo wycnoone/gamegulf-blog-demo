@@ -7,9 +7,11 @@ import LanguageSelector from './LanguageSelector.astro';
 interface Props {
   locale: BlogLocale;
   localePaths?: Partial<Record<BlogLocale, string>>;
+  /** When false, hides the duplicate blog title block (e.g. homepage uses DecisionHomeHub hero). */
+  showBlogIntro?: boolean;
 }
 
-const { locale, localePaths } = Astro.props;
+const { locale, localePaths, showBlogIntro = true } = Astro.props;
 const siteUrl = 'https://www.gamegulf.com';
 ---
 
@@ -30,15 +32,17 @@ const siteUrl = 'https://www.gamegulf.com';
   </header>
 
   <main class="blog-shell">
-    <section class="blog-intro">
-      <div>
-        <p class="eyebrow">GameGulf Blog</p>
-        <h1 class="blog-intro-title">
-          {t(locale, 'shell.blogTitle')}
-        </h1>
-        <p>{t(locale, 'shell.description')}</p>
-      </div>
-    </section>
+    {showBlogIntro && (
+      <section class="blog-intro">
+        <div>
+          <p class="eyebrow">GameGulf Blog</p>
+          <h1 class="blog-intro-title">
+            {t(locale, 'shell.blogTitle')}
+          </h1>
+          <p>{t(locale, 'shell.description')}</p>
+        </div>
+      </section>
+    )}
 
     <nav class="topic-nav section-block" aria-label="Guides">
       <div class="topic-nav-row">

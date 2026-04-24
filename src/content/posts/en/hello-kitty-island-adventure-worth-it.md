@@ -148,10 +148,10 @@ Tracked **discount** history: **all-time low** around **€20.71** (BR), **2** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 26.85 | ¥6,500 |
-| Brazil | USD 36.37 | R$184.31 |
-| Hong Kong | USD 38.43 | HK$299 |
-| United States | USD 50.33 | $49.99 |
+| Japan | USD 26.77 | ¥6,500 |
+| Brazil | USD 36.27 | R$184.31 |
+| Hong Kong | USD 38.32 | HK$299 |
+| United States | USD 50.18 | $49.99 |
 
 ## What kind of game is Hello Kitty Island Adventure, really?
 

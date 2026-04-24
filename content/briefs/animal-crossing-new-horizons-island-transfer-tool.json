@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/70tkQPwVGp",
+    "game_id": "70tkQPwVGp",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf"
+    ]
+  },
+  "game": {
+    "title": "Animal Crossing: New Horizons Island Transfer Tool",
+    "description": "Use this software to transfer the data for your whole island in the Animal Crossing: New Horizons game from one Nintendo Switch system to another. Download this software on both Nintendo Switch systems in order to transfer your island. Detailed information on the moving process can also be found on the Nintendo Support website. https://support.nintendo.com/",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514043588915090.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514043588915090.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514043714315044.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514043800715655.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514043779512169.jpeg"
+    ],
+    "genres": [],
+    "release_date": "2020-11-18",
+    "developer": null,
+    "publisher": "Nintendo",
+    "metacritic": 90
+  },
+  "platforms": {},
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "ehV6IA8PIYB",
+      "title": "Volta-X",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514476966411068.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-12",
+      "categories": [
+        "Action",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/ehV6IA8PIYB"
+    },
+    {
+      "id": "INlLdFP5Q9",
+      "title": "Persona 5 Royal",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613886744511224.jpeg",
+      "metacritic": 94,
+      "price": 49.47,
+      "discount_price": 14.84,
+      "discount_rate": 70,
+      "discount_tag": "Normal",
+      "discount_end": "7 days",
+      "release_date": "2022-10-21",
+      "categories": [
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/INlLdFP5Q9"
+    },
+    {
+      "id": "19Ort0SsmGH",
+      "title": "Metroid Prime™ 4: Beyond",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503754223012971.jpeg",
+      "metacritic": null,
+      "price": 43.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-12-04",
+      "categories": [
+        "Shooter",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/19Ort0SsmGH"
+    },
+    {
+      "id": "s9w6NmjaHR",
+      "title": "ウィンドボーンコンクリートジャングル",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505568597416180.jpeg",
+      "metacritic": null,
+      "price": 4.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-10",
+      "categories": [
+        "Simulation",
+        "Adventure",
+        "Racing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/s9w6NmjaHR"
+    },
+    {
+      "id": "bPXCVyenTCp",
+      "title": "JDM Drag Racing Car Driving Simulator 2022 Games",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511274770910631.jpeg",
+      "metacritic": null,
+      "price": 0.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-07-07",
+      "categories": [
+        "Arcade",
+        "Racing",
+        "Simulation",
+        "Sports",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/bPXCVyenTCp"
+    },
+    {
+      "id": "1VuVQZTxHa7",
+      "title": "Star Overdrive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505574772315464.jpeg",
+      "metacritic": null,
+      "price": 10.73,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-10",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/1VuVQZTxHa7"
+    },
+    {
+      "id": "4r0JXhMULKy",
+      "title": "Psychiatric Prison Romance: Serial Killer Anime Girls Dating Sim",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614596824511492.jpeg",
+      "metacritic": null,
+      "price": 7.95,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-04-03",
+      "categories": [
+        "Simulation",
+        "Role-playing",
+        "Communication",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4r0JXhMULKy"
+    },
+    {
+      "id": "dDeKTiMgTdg",
+      "title": "Cyber Pool",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511782599311321.jpeg",
+      "metacritic": null,
+      "price": 0.33,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-10",
+      "categories": [
+        "Action",
+        "Sports",
+        "Party",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/dDeKTiMgTdg"
+    },
+    {
+      "id": "5fIWVgbvENf",
+      "title": "BPM: Bullets Per Minute",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510976143515317.jpeg",
+      "metacritic": null,
+      "price": 1.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-08",
+      "categories": [
+        "Action",
+        "Arcade",
+        "First-person",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/5fIWVgbvENf"
+    }
+  ],
+  "schema_offers": [],
+  "price_analytics": {},
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/70tkQPwVGp",
+    "price_track": "https://www.gamegulf.com/detail/70tkQPwVGp#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": null,
+    "hltb": null
+  }
+}

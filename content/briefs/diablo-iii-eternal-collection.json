@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/lbleSUrEV1M",
     "game_id": "lbleSUrEV1M",
-    "extracted_at": "2026-04-06",
+    "extracted_at": "2026-04-22",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf"
@@ -11,14 +11,14 @@
   "game": {
     "title": "Diablo III: Eternal Collection",
     "description": "Ages ago, angels and demons birthed your world in a forbidden union. Now they’ve come to claim it. Stand tall among Sanctuary’s meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.\n\nUnholy Trinity\nThe Diablo III game, the Reaper of Souls expansion, and the Rise of the Necromancer pack are all part of the Eternal Collection: 7 classes, 5 acts, and seasons’ worth of demon-smashing.\n\nNintendo Switch™ Exclusives\nDiscover pieces of Zelda’s world in Sanctuary. The Eternal Collection on Switch™ includes the Cucco companion pet, a Triforce portrait frame, and an exclusive transmogrification set that will let your heroes sport Ganondorf's iconic armor. You’ll also receive unique cosmetic wings.\n\nDefy the Darkness\nYou’re a surrounded world’s only defense against Heaven and Hell. Arm yourself with a Joy-Con™ or the Pro Controller, and choose from 7 dark fantasy classes, each with its own way to slay.\n\nEternal Replayability\nEvil is never vanquished forever. Whether you’re testing yourself against new difficulty settings, playing through the epic story campaign, searching for the perfect skill combo, expanding your collection of gear, racing through random dungeons, or traveling Sanctuary anew each season, you’ll always have a fresh challenge to seek out.\n\nAssemble the Perfect Arsenal\nAs you charge through Diablo III’s five story acts, you’ll collect gear from Sanctuary’s furthest reaches, including legendary items that change your entire playstyle and armor sets that provide dynamic bonuses as you uncover more pieces.\n\nYour Path to Power\nDiablo III’s power-building system is flexible enough for an afternoon or a full season. Push back the Burning Hells with spears, storms, and zombie dogs—over 800 unique abilities to unlock and master. Turn fire into lightning, split your magic blasts, and change your skills to create devastating power combinations.\n\nIt’s Dangerous to Go Alone\nJump into local, action-RPG multiplayer with up to three friends, and crush demons from your comfiest couch cushions, no internet required—or fill out the ranks of your party online. You can play Diablo III shared-screen on a single Nintendo Switch™, remotely on up to four Nintendo Switch ™ consoles, or combine TV and handheld play.",
-    "cover_image": "https://cdn.gamegulf.com/upload/17409875813381024311913.jpeg",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614120342413445.jpeg",
     "all_images": [
-      "https://cdn.gamegulf.com/upload/17409875813381024311913.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875817921731411913.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875821571413511913.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875825331977011913.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875829871435711913.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875833531272911913.jpeg"
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614120342413445.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614120611010902.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614120593818406.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614120597114328.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614120595113180.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614120594814240.jpeg"
     ],
     "genres": [
       "Action",
@@ -32,82 +32,70 @@
     "metacritic": 88
   },
   "platforms": {
-    "switch": {
-      "name": "Nintendo Switch",
+    "switch 1": {
+      "name": "Nintendo Switch 1",
       "enabled": true,
-      "languages": [
-        "Japanese",
-        "English",
-        "Spanish",
-        "French",
-        "German",
-        "Italian",
-        "Portuguese",
-        "Russian",
-        "Korean",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ],
+      "languages": [],
       "digital": [
-        {
-          "country_code": "HK",
-          "country": "Hong Kong SAR China",
-          "price": 51.5,
-          "discount_price": 16.94,
-          "discount_rate": 67,
-          "discount_end": "2026-04-12 15:59:59",
-          "discount_end_timestamp": 1776009599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 16.94
-        },
         {
           "country_code": "BR",
           "country": "Brazil",
-          "price": 33.47,
+          "price": 33.37,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 33.47
+          "calculate_value": 33.37
         },
         {
           "country_code": "JP",
           "country": "Japan",
-          "price": 41.75,
+          "price": 41.47,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 41.75
+          "calculate_value": 41.47
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 50.79,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 50.79
         },
         {
           "country_code": "US",
           "country": "United States",
-          "price": 52.07,
+          "price": 51.32,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 52.07
+          "calculate_value": 51.32
         },
         {
           "country_code": "GB",
           "country": "United Kingdom",
-          "price": 57.29,
+          "price": 57.47,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 57.29
+          "calculate_value": 57.47
         },
         {
           "country_code": "DE",
@@ -176,16 +164,9 @@
           "period": "30 D",
           "entries": [
             {
-              "date": "2026-03-15",
-              "country_code": "BR",
-              "value": 33.47,
-              "currency": "EUR",
-              "country": "Brazil"
-            },
-            {
               "date": "2026-04-01",
               "country_code": "HK",
-              "value": 16.94,
+              "value": 16.71,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
             }
@@ -197,49 +178,49 @@
             {
               "date": "2025-11-16",
               "country_code": "JP",
-              "value": 13.77,
+              "value": 13.68,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-12-26",
               "country_code": "JP",
-              "value": 41.75,
+              "value": 41.47,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-12-30",
               "country_code": "JP",
-              "value": 13.77,
+              "value": 13.68,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-02-14",
               "country_code": "JP",
-              "value": 41.75,
+              "value": 41.47,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-02-16",
               "country_code": "JP",
-              "value": 13.77,
+              "value": 13.68,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-03-15",
-              "country_code": "BR",
-              "value": 33.47,
+              "country_code": "HK",
+              "value": 50.79,
               "currency": "EUR",
-              "country": "Brazil"
+              "country": "Hong Kong SAR China"
             },
             {
               "date": "2026-04-01",
               "country_code": "HK",
-              "value": 16.94,
+              "value": 16.71,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
             }
@@ -251,100 +232,76 @@
             {
               "date": "2025-07-20",
               "country_code": "JP",
-              "value": 13.77,
+              "value": 13.68,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-09-03",
               "country_code": "GB",
-              "value": 57.29,
+              "value": 57.47,
               "currency": "EUR",
               "country": "United Kingdom"
             },
             {
               "date": "2025-09-04",
               "country_code": "GB",
-              "value": 18.9,
+              "value": 18.96,
               "currency": "EUR",
               "country": "United Kingdom"
             },
             {
               "date": "2025-11-16",
               "country_code": "JP",
-              "value": 13.77,
+              "value": 13.68,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-12-26",
               "country_code": "JP",
-              "value": 41.75,
+              "value": 41.47,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-12-30",
               "country_code": "JP",
-              "value": 13.77,
+              "value": 13.68,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-02-14",
               "country_code": "JP",
-              "value": 41.75,
+              "value": 41.47,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-02-16",
               "country_code": "JP",
-              "value": 13.77,
+              "value": 13.68,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-03-15",
-              "country_code": "BR",
-              "value": 33.47,
+              "country_code": "HK",
+              "value": 50.79,
               "currency": "EUR",
-              "country": "Brazil"
+              "country": "Hong Kong SAR China"
             },
             {
               "date": "2026-04-01",
               "country_code": "HK",
-              "value": 16.94,
+              "value": 16.71,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
             }
           ]
         }
       ]
-    },
-    "xbox": {
-      "name": "Xbox",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
-    },
-    "psn": {
-      "name": "PlayStation Network",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
-    },
-    "steam": {
-      "name": "Steam",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
     }
   },
   "lows": [
@@ -356,9 +313,9 @@
       "type": "Local Low",
       "entries": [
         {
-          "platform": "Nintendo Switch",
+          "platform": "Nintendo Switch 1",
           "country_code": "US",
-          "value": 52.07,
+          "value": 51.32,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -367,38 +324,36 @@
   ],
   "similar_games": [
     {
-      "id": "4cvY608E5Jx",
-      "title": "Ghosty",
-      "image": "https://cdn.gamegulf.com/upload/1740987680888174283147.jpeg",
-      "metacritic": null,
-      "price": 0,
-      "discount_price": null,
-      "discount_rate": null,
+      "id": "jc7VlJkvmbj",
+      "title": "The Survivalists",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514224870017611.jpeg",
+      "metacritic": 70,
+      "price": 24.99,
+      "discount_price": 4.99,
+      "discount_rate": 80,
       "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2023-07-14",
+      "discount_end": "13 days",
+      "release_date": "2020-10-09",
       "categories": [
-        "Arcade",
-        "Racing",
         "Action",
-        "Party",
-        "Strategy",
+        "Adventure",
         "Role-playing",
-        "Communication",
-        "Adventure"
+        "Simulation",
+        "Strategy",
+        "Party"
       ],
-      "url": "https://www.gamegulf.com/detail/4cvY608E5Jx"
+      "url": "https://www.gamegulf.com/detail/jc7VlJkvmbj"
     },
     {
       "id": "krmEbPsOu48",
       "title": "Darksiders Genesis",
-      "image": "https://cdn.gamegulf.com/upload/17409879794811713210049.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515166590711085.jpeg",
       "metacritic": 74,
-      "price": 25.99,
-      "discount_price": 10.4,
-      "discount_rate": 60,
+      "price": 25.82,
+      "discount_price": null,
+      "discount_rate": null,
       "discount_tag": "Normal",
-      "discount_end": "2 days",
+      "discount_end": "",
       "release_date": "2020-02-14",
       "categories": [
         "Action",
@@ -409,56 +364,54 @@
       "url": "https://www.gamegulf.com/detail/krmEbPsOu48"
     },
     {
-      "id": "jc7VlJkvmbj",
-      "title": "The Survivalists",
-      "image": "https://cdn.gamegulf.com/upload/1740987945279159548947.jpeg",
-      "metacritic": 70,
-      "price": 21.71,
-      "discount_price": 4.32,
-      "discount_rate": 80,
-      "discount_tag": "Normal",
-      "discount_end": "2 days",
-      "release_date": "2020-10-09",
-      "categories": [
-        "Strategy",
-        "Multiplayer",
-        "Adventure",
-        "Other",
-        "Action",
-        "Role-playing",
-        "Simulation",
-        "Party"
-      ],
-      "url": "https://www.gamegulf.com/detail/jc7VlJkvmbj"
-    },
-    {
-      "id": "j9BEz8lrmCf",
-      "title": "Gal Metal",
-      "image": "https://cdn.gamegulf.com/upload/17409876174461703211923.jpeg",
-      "metacritic": 61,
-      "price": 17.35,
+      "id": "4cvY608E5Jx",
+      "title": "Ghosty",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509361449417002.jpeg",
+      "metacritic": null,
+      "price": 0,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2018-10-30",
+      "release_date": "2023-07-14",
       "categories": [
-        "Arcade",
-        "Music",
+        "Action",
+        "Strategy",
+        "Role-playing",
+        "Communication",
         "Adventure",
-        "Party",
+        "Arcade",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/4cvY608E5Jx"
+    },
+    {
+      "id": "j9BEz8lrmCf",
+      "title": "Gal Metal",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516623972319409.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 hr",
+      "release_date": "2018-11-02",
+      "categories": [
+        "Music",
         "Role-playing",
         "Simulation",
-        "Action"
+        "Action",
+        "Adventure",
+        "Party"
       ],
       "url": "https://www.gamegulf.com/detail/j9BEz8lrmCf"
     },
     {
       "id": "b7Erz04yGwA",
       "title": "Soul Searching",
-      "image": "https://cdn.gamegulf.com/upload/17409878771881129710466.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515519039719169.jpeg",
       "metacritic": null,
-      "price": 5.44,
+      "price": 5.4,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -467,8 +420,6 @@
       "categories": [
         "Adventure",
         "Role-playing",
-        "Multiplayer",
-        "Other",
         "Simulation",
         "Action",
         "Party"
@@ -476,31 +427,11 @@
       "url": "https://www.gamegulf.com/detail/b7Erz04yGwA"
     },
     {
-      "id": "9yQmR6LzDjh",
-      "title": "Hammerwatch Anniversary Edition",
-      "image": "https://cdn.gamegulf.com/upload/1740987502986154081994.jpeg",
-      "metacritic": null,
-      "price": 2.39,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2023-12-12",
-      "categories": [
-        "Role-playing",
-        "Action",
-        "Adventure",
-        "Other",
-        "Party"
-      ],
-      "url": "https://www.gamegulf.com/detail/9yQmR6LzDjh"
-    },
-    {
       "id": "cEdxNqKTlMW",
       "title": "Witch & Hero 2",
-      "image": "https://cdn.gamegulf.com/upload/17409876325641846310171.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515263885417065.jpeg",
       "metacritic": null,
-      "price": 2.72,
+      "price": 2.7,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -515,11 +446,31 @@
       "url": "https://www.gamegulf.com/detail/cEdxNqKTlMW"
     },
     {
+      "id": "9yQmR6LzDjh",
+      "title": "Hammerwatch Anniversary Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508542851912198.jpeg",
+      "metacritic": null,
+      "price": 2.35,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-12-12",
+      "categories": [
+        "Role-playing",
+        "Action",
+        "Adventure",
+        "Party",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/9yQmR6LzDjh"
+    },
+    {
       "id": "FJSlN1BeT0",
       "title": "Knights of Braveland",
-      "image": "https://cdn.gamegulf.com/upload/1740987980331138051691.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508327103916654.jpeg",
       "metacritic": null,
-      "price": 4.38,
+      "price": 4.32,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -528,30 +479,28 @@
       "categories": [
         "Action",
         "Adventure",
-        "Role-playing",
-        "Platformer",
-        "Party"
+        "Party",
+        "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/FJSlN1BeT0"
     },
     {
       "id": "7OQ1elx6dQm",
       "title": "Conan Chop Chop",
-      "image": "https://cdn.gamegulf.com/upload/1740987646178151016219.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511834971716752.jpeg",
       "metacritic": null,
-      "price": 1.31,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 18.28,
+      "discount_price": 5.48,
+      "discount_rate": 70,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "7 days",
       "release_date": "2022-03-01",
       "categories": [
         "Action",
         "Adventure",
-        "Party",
-        "Multiplayer",
         "Other",
-        "Role-playing"
+        "Role-playing",
+        "Party"
       ],
       "url": "https://www.gamegulf.com/detail/7OQ1elx6dQm"
     }
@@ -568,7 +517,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T07:50:48+00:00"
+      "priceValidUntil": "2026-05-22T19:36:55+00:00"
     },
     {
       "@type": "Offer",
@@ -581,7 +530,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T07:50:48+00:00"
+      "priceValidUntil": "2026-05-22T19:36:55+00:00"
     },
     {
       "@type": "Offer",
@@ -594,7 +543,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T07:50:48+00:00"
+      "priceValidUntil": "2026-05-22T19:36:55+00:00"
     },
     {
       "@type": "Offer",
@@ -607,7 +556,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T07:50:48+00:00"
+      "priceValidUntil": "2026-05-22T19:36:55+00:00"
     },
     {
       "@type": "Offer",
@@ -620,7 +569,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T07:50:48+00:00"
+      "priceValidUntil": "2026-05-22T19:36:55+00:00"
     },
     {
       "@type": "Offer",
@@ -633,7 +582,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T07:50:48+00:00"
+      "priceValidUntil": "2026-05-22T19:36:55+00:00"
     },
     {
       "@type": "Offer",
@@ -646,42 +595,42 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-06T07:50:48+00:00"
+      "priceValidUntil": "2026-05-22T19:36:55+00:00"
     }
   ],
   "price_analytics": {
-    "switch": {
+    "switch 1": {
       "current_cheapest": {
-        "price_eur": 16.94,
-        "region": "Hong Kong SAR China",
-        "country_code": "HK"
+        "price_eur": 33.37,
+        "region": "Brazil",
+        "country_code": "BR"
       },
       "global_low": {
-        "price_eur": 13.77,
+        "price_eur": 13.68,
         "region": "JP",
         "date": "2025-07-20"
       },
       "local_low": {
-        "price_eur": 52.07,
+        "price_eur": 51.32,
         "region": "US",
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 13.77,
+        "price_eur": 13.68,
         "region": "JP",
         "country": "Japan",
         "date": "2025-07-20"
       },
       "at_or_near_historical_low": false,
       "discount_events_1y": 5,
-      "avg_discount_price_eur": 15.43,
+      "avg_discount_price_eur": 15.34,
       "sale_periods": [
         {
           "start": "2025-07-20",
           "end": "2025-07-20"
         },
         {
-          "start": "2025-11-16",
+          "start": "2025-09-04",
           "end": "2025-11-16"
         },
         {
@@ -691,59 +640,21 @@
         {
           "start": "2026-02-16",
           "end": "2026-02-16"
+        },
+        {
+          "start": "2026-04-01",
+          "end": "2026-04-01"
         }
       ],
-      "days_since_last_discount": 5,
+      "days_since_last_discount": 21,
       "last_discount": {
         "date": "2026-04-01",
-        "price_eur": 16.94,
+        "price_eur": 16.71,
         "region": "Hong Kong SAR China",
-        "drop_pct": 49
+        "drop_pct": 67
       },
       "trend_entries_count": 10,
       "price_verdict": "regular_discounter"
-    },
-    "xbox": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
-    },
-    "psn": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
-    },
-    "steam": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
     }
   },
   "product_links": {

@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/83uNBGDNnOl",
+    "game_id": "83uNBGDNnOl",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Celeste",
+    "description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight, hand-crafted platformer from the creators of multiplayer classic TowerFall.\n\n • A narrative-driven, single-player adventure like mom used to make, with a charming cast of characters and a touching story of self-discovery\n • A massive mountain teeming with 700+ screens of hardcore platforming challenges and devious secrets\n • Brutal B-side chapters to unlock, built for only the bravest mountaineers\n • IGF “Excellence in Audio” finalist, with over 2 hours of original music led by dazzling live piano and catchy synth beats\n • Pie\n\nThe controls are simple and accessible - simply jump, air-dash, and climb - but with layers of expressive depth to master, where every death is a lesson. Lightning-fast respawns keep you climbing as you uncover the mysteries of the mountain and brave its many perils. \n\nThis is it, Madeline. Just breathe. You can do this.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212464511024.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212464511024.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212621218246.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212616716680.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212618210115.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212618418380.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212618917982.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212845018077.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Platformer",
+      "Action"
+    ],
+    "release_date": "2018-01-25",
+    "developer": "Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+    "publisher": "Maddy Makes Games",
+    "metacritic": 92
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 10.06,
+          "discount_price": 2.51,
+          "discount_rate": 75,
+          "discount_end": "2026-04-22 15:59:59",
+          "discount_end_timestamp": 1776873599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 2.51
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": 4.99,
+          "discount_rate": 75,
+          "discount_end": "2026-05-05 21:59:59",
+          "discount_end_timestamp": 1778018399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": 4.99,
+          "discount_rate": 75,
+          "discount_end": "2026-05-05 22:59:59",
+          "discount_end_timestamp": 1778021999,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.99
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 11.67,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.67
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.68
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": []
+        },
+        {
+          "period": "1 Y",
+          "entries": []
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 17.1,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "jOmK3pCLzXJ",
+      "title": "Bounce Journey",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509944240415964.jpeg",
+      "metacritic": null,
+      "price": 0.39,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-24",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/jOmK3pCLzXJ"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "asCNm1gJWSn",
+      "title": "From Heaven To Earth",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
+      "metacritic": null,
+      "price": 0.62,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-02-17",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Racing"
+      ],
+      "url": "https://www.gamegulf.com/detail/asCNm1gJWSn"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 10.8,
+      "discount_price": 1.08,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "2 days",
+      "release_date": "2017-11-23",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    },
+    {
+      "id": "4ih1kLyZLm8",
+      "title": "Panda Jump",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-09-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
+    },
+    {
+      "id": "ari1ZXrPQFN",
+      "title": "Red Ball Escape",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513226484514499.jpeg",
+      "metacritic": null,
+      "price": 2.05,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-21",
+      "categories": [
+        "Arcade",
+        "Other",
+        "Platformer",
+        "Puzzle",
+        "Action",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
+    },
+    {
+      "id": "23lHeDBgYEs",
+      "title": "S.O.L Search of Light",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507840333618122.jpeg",
+      "metacritic": null,
+      "price": 10.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-25",
+      "categories": [
+        "Action",
+        "Training",
+        "Other",
+        "Adventure",
+        "Platformer",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/23lHeDBgYEs"
+    },
+    {
+      "id": "i8HmgHBnC2u",
+      "title": "Slime-san",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517438380218823.jpeg",
+      "metacritic": 82,
+      "price": 11.5,
+      "discount_price": 2.3,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "2 days",
+      "release_date": "2017-08-03",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/i8HmgHBnC2u"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price",
+      "priceCurrency": "USD",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price",
+      "priceCurrency": "EUR",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price",
+      "priceCurrency": "GBP",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2160.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price",
+      "priceCurrency": "BRL",
+      "price": "59.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price",
+      "priceCurrency": "ARS",
+      "price": "1400.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 2.51,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": null,
+      "local_low": {
+        "price_eur": 17.1,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/83uNBGDNnOl",
+    "price_track": "https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 504230,
+      "name": "Celeste",
+      "developer": [
+        "Maddy Makes Games Inc.",
+        "Extremely OK Games, Ltd."
+      ],
+      "publisher": [
+        "Maddy Makes Games Inc."
+      ],
+      "metacritic_score": 88,
+      "metacritic_url": "https://www.metacritic.com/game/pc/celeste?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Remote Play on Phone",
+        "Remote Play on Tablet",
+        "Remote Play on TV",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "62.500₫",
+      "total_recommendations": 124931,
+      "short_description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 135700,
+        "total_negative": 3572,
+        "total_reviews": 139272,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 97
+      }
+    },
+    "hltb": null
+  }
+}

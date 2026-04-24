@@ -1,0 +1,569 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/kxyrmTE8vZE",
+    "game_id": "kxyrmTE8vZE",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Unavowed",
+    "description": "A demon possessed you one year ago. Since that day, you unwillingly tore a trail of bloodshed through New York City. Waking up on a stormy rooftop, you meet your saviors: the Unavowed, an ancient society dedicated to stopping evil. Life as you knew it is over, but by joining them you have a chance to reverse some of the damage you’ve done—and, if you choose wisely, to redeem yourself.\n\nShape your hero: Name the playable character, choose their gender, and pick from three origin stories to customize the protagonist.\n\nChoose your party: Select two out of four companions to join you on missions across the boroughs of New York City. Each member of the Unavowed has a unique personality and skillset, providing different solutions to the obstacles you’ll encounter. \n\nFollow your conscience: Difficult choices await. In Unavowed’s subtly branching storyline, your decisions could come back to help you… or haunt you.\n\nPlay how you want: Controls refined for Nintendo Switch™ allow you to play comfortably with either the Joy-Con™ controllers or the touch screen.\n\n“Unavowed is much more than it appears: it's a brilliantly written adventure that makes you care deeply about its inhabitants and subverts your expectations.” Gamespot, 9/10\n\n“With a great cast of characters, Unavowed is a stylish urban supernatural fantasy that is touching, funny, endearing, replayable and above all, fun.” Adventure Gamers, 5 stars\n\n“An adventure game of the highest calibre, with a story that'll grip you from beginning to end.” GamesMaster UK, 90%\n\n“This game is definitely a fusion of different themes and cultures you see in fantasy stories of all kinds—we have Jinn, fire mages, elementals, mer folk, dragons, dryads, fae, and ghosts. You’d think squashing this many ingredients into a blender would just result in something confused and muddled, but it works REALLY WELL, I am impressed.” Pushing Up Roses (YouTube)",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123232319753.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123242916155.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123239918911.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123235810018.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123247613312.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123415417051.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Puzzle",
+      "Role-playing"
+    ],
+    "release_date": "2021-07-07",
+    "developer": "Wadjet Eye Games",
+    "publisher": "Wadjet Eye Games",
+    "metacritic": 91
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 4.69,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.69
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 12.82,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 12.82
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 15.51,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.51
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "BR",
+              "value": 4.69,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "ES",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-02-18",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "BR",
+              "value": 4.69,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "ES",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-05-27",
+              "country_code": "BR",
+              "value": 3.75,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-02-18",
+              "country_code": "FR",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "BR",
+              "value": 4.69,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2026-04-22",
+              "country_code": "ES",
+              "value": 14.99,
+              "currency": "EUR",
+              "country": "Spain"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "BR",
+          "value": 4.69,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 12.82,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "8kn2jN4XYtz",
+      "title": "Backpack Hero",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508697240015593.jpeg",
+      "metacritic": null,
+      "price": 0.74,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-11-14",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Strategy",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/8kn2jN4XYtz"
+    },
+    {
+      "id": "avhRcB49Pcm",
+      "title": "Puzzle Quest: The Legend Returns",
+      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/12/174174168459616037.jpeg",
+      "metacritic": 78,
+      "price": 9.45,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-09-19",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/avhRcB49Pcm"
+    },
+    {
+      "id": "jsuIdnsqgct",
+      "title": "The Experiment: Escape Room",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514867251514186.jpeg",
+      "metacritic": null,
+      "price": 2.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-12-10",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/jsuIdnsqgct"
+    },
+    {
+      "id": "2lKgFAWM8Ss",
+      "title": "Aliisha:The Oblivion of Twin Goddesses",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510530055111530.jpeg",
+      "metacritic": null,
+      "price": 16.2,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-11-24",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Puzzle",
+        "Role-playing",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/2lKgFAWM8Ss"
+    },
+    {
+      "id": "c82iLEcezVD",
+      "title": "Pony World 3",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513263883213761.jpeg",
+      "metacritic": null,
+      "price": 3.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-01-20",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Simulation",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/c82iLEcezVD"
+    },
+    {
+      "id": "bYScYJDVvos",
+      "title": "Shadow Corridor",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512336116818168.jpeg",
+      "metacritic": 61,
+      "price": 10.69,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-08-08",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/bYScYJDVvos"
+    },
+    {
+      "id": "fEjmrmGEuQs",
+      "title": "Where is Drake?",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507858153018561.jpeg",
+      "metacritic": null,
+      "price": 5.28,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-04-19",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/fEjmrmGEuQs"
+    },
+    {
+      "id": "5DsamlfTbo9",
+      "title": "Epyx Rogue",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507325901113014.jpeg",
+      "metacritic": null,
+      "price": 4.49,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-07-18",
+      "categories": [
+        "Role-playing",
+        "Adventure",
+        "Strategy",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/5DsamlfTbo9"
+    },
+    {
+      "id": "alzsuMkRy3Y",
+      "title": "Hypnospace Outlaw",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414982812472.jpeg",
+      "metacritic": 84,
+      "price": 17.1,
+      "discount_price": 5.12,
+      "discount_rate": 70,
+      "discount_tag": "Normal",
+      "discount_end": "1 days",
+      "release_date": "2020-08-27",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/alzsuMkRy3Y"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price",
+      "priceCurrency": "USD",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price",
+      "priceCurrency": "EUR",
+      "price": "14.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price",
+      "priceCurrency": "GBP",
+      "price": "13.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price",
+      "priceCurrency": "BRL",
+      "price": "27.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 4.69,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 4.69,
+        "region": "BR",
+        "type": "Digital"
+      },
+      "local_low": {
+        "price_eur": 12.82,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 3.75,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2025-05-27"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 4.69,
+      "sale_periods": [
+        {
+          "start": "2025-05-27",
+          "end": "2025-05-27"
+        }
+      ],
+      "days_since_last_discount": 29,
+      "last_discount": {
+        "date": "2026-03-24",
+        "price_eur": 4.69,
+        "region": "Brazil",
+        "drop_pct": 69
+      },
+      "trend_entries_count": 4,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/kxyrmTE8vZE",
+    "price_track": "https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 336140,
+      "name": "Unavowed",
+      "developer": [
+        "Wadjet Eye Games"
+      ],
+      "publisher": [
+        "Wadjet Eye Games"
+      ],
+      "metacritic_score": 87,
+      "metacritic_url": "https://www.metacritic.com/game/pc/unavowed?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Steam Trading Cards",
+        "Captions available",
+        "Steam Cloud",
+        "Commentary available",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie",
+        "RPG"
+      ],
+      "steam_price": "$14.99",
+      "total_recommendations": 2254,
+      "short_description": "A demon has possessed you and used your body to tear a swath of bloodshed through New York. You are now free, but life as you knew it is over. Your only path forward is joining the Unavowed - an ancient society dedicated to stopping evil. No matter what the cost.",
+      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 2438,
+        "total_negative": 112,
+        "total_reviews": 2550,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 96
+      }
+    },
+    "hltb": null
+  }
+}

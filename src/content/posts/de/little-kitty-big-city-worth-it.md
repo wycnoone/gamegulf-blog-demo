@@ -35,7 +35,7 @@ mainFriction: Hauptstrang kurz; Komplexität bleibt bewusst niedrig.
 timeFit: Länge hängt von Neugier ab; Hauptpfad eher kurz.
 fitLabel: Ideal als Puffer zwischen großen Spielen.
 timingNote: >-
-  Vergleiche deine eShop-Zeile mit Spanien ~14,99 €. Nur Tiefpreis? Alarm
+  Vergleiche dein eShop-Preis mit Spanien ~14,99 €. Nur Tiefpreis? Alarm
   setzen.
 communityVibe: "Cozy-Chaos: Hüte auf, Chaos an, Heimweg später."
 playtime: ~3 h Hauptstory / ~5–7 h Komplett

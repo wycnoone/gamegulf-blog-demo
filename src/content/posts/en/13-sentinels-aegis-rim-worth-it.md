@@ -191,14 +191,14 @@ April 2026 **pricing** is the green light for promo regions: **United States ind
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| United States | USD 15.24 | $59.99 |
-| United Kingdom | USD 20.14 | £49.99 |
-| Hong Kong | USD 22.70 | HK$438 |
-| Japan | USD 48.89 | ¥7,678 |
-| Brazil | USD 58.11 | R$295 |
-| Germany | USD 70.25 | €59.99 |
-| Spain | USD 70.25 | €59.99 |
-| France | USD 70.25 | €59.99 |
+| United States | USD 15.26 | $59.99 |
+| United Kingdom | USD 20.18 | £49.99 |
+| Hong Kong | USD 22.74 | HK$438 |
+| Japan | USD 48.99 | ¥7,678 |
+| Brazil | USD 58.22 | R$295 |
+| Germany | USD 70.39 | €59.99 |
+| Spain | USD 70.39 | €59.99 |
+| France | USD 70.39 | €59.99 |
 
 The **discount** narrative matters: the last tracked move was **63 days** ago (**Hong Kong SAR China**, **3 February 2026**, **~60% drop**), while **historical low** references still anchor around **€14.33** (**GB**, **5 June 2025**). **Sale** frequency is healthy — **seven** meaningful **discount** windows in the past year — so **waiting** from a **€59.99** row can work, but **promo** shoppers should move before timers expire. Verify **your** account on the [live multi-region grid](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 

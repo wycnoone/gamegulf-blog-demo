@@ -1,0 +1,443 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/er4LLAIOlU",
+    "game_id": "er4LLAIOlU",
+    "extracted_at": "2026-04-21",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "People of Note",
+    "description": "After being shut out of the Noteworthy Song Contest, Cadence realizes that her solo act might not be enough for the judges. As she travels across Note to the Rock City of Durandis, the EDM City of Lumina, and more, Cadence fills out her band with eclectic and powerful musicians from lands afar. But something's brewing in the distance...the Harmonic Convergence is playing havoc with the world's musical energies, and dark forces are working behind the scenes to disrupt Note's natural harmonies. It wasn't in the set list, but Cadence and the others need to step up and make sure music itself still has a future on stage.\n\nIn People of Note, experience turn-based combat like never before: each battle is an interactive musical performance with evolving combat conditions, real-time rhythm-based attacks, and genre-bending mashup attacks!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502706376413555.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502706376413555.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502706512516269.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502706518212672.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502706524918642.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502706560615291.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502706526115497.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502708520913270.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Music",
+      "Role-playing"
+    ],
+    "release_date": "2026-04-07",
+    "developer": "Iridium Studios",
+    "publisher": "Annapurna Interactive",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 15.66,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.66
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 16.17,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.17
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 23.99,
+          "discount_price": 21.59,
+          "discount_rate": 10,
+          "discount_end": "2026-04-21 21:59:59",
+          "discount_end_timestamp": 1776808799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.59
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-07",
+              "country_code": "JP",
+              "value": 14.1,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-04-07",
+              "country_code": "JP",
+              "value": 14.1,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-04-07",
+              "country_code": "JP",
+              "value": 14.1,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 2",
+          "country_code": "JP",
+          "value": 15.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "j9BEz8lrmCf",
+      "title": "Gal Metal",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516623972319409.jpeg",
+      "metacritic": 61,
+      "price": 19.99,
+      "discount_price": 4.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "1 days",
+      "release_date": "2018-11-02",
+      "categories": [
+        "Music",
+        "Role-playing",
+        "Simulation",
+        "Action",
+        "Adventure",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/j9BEz8lrmCf"
+    },
+    {
+      "id": "f12StdXsRrn",
+      "title": "Monster Legacy: New Horizons",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508267856719697.jpeg",
+      "metacritic": null,
+      "price": 2.49,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Music",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/f12StdXsRrn"
+    },
+    {
+      "id": "hNs20ATfGSZ",
+      "title": "ATONE: Heart of the Elder Tree",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510239620511759.jpeg",
+      "metacritic": 76,
+      "price": 14.99,
+      "discount_price": 2.99,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "2 days",
+      "release_date": "2023-01-27",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Music",
+        "Role-playing",
+        "Action",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/hNs20ATfGSZ"
+    },
+    {
+      "id": "guLDMyXZrEw",
+      "title": "Everhood 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505814115614841.jpeg",
+      "metacritic": null,
+      "price": 1.23,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-03-04",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Music",
+        "Role-playing",
+        "Racing"
+      ],
+      "url": "https://www.gamegulf.com/detail/guLDMyXZrEw"
+    },
+    {
+      "id": "8b3det48Vov",
+      "title": "No Straight Roads",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514428097618627.jpeg",
+      "metacritic": 71,
+      "price": 21.38,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-25",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Music",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/8b3det48Vov"
+    },
+    {
+      "id": "gY68bekDRPB",
+      "title": "Victor Vran Overkill Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614127113415584.jpeg",
+      "metacritic": null,
+      "price": 22.58,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-02-14",
+      "categories": [
+        "Action",
+        "Role-playing",
+        "Adventure",
+        "Music"
+      ],
+      "url": "https://www.gamegulf.com/detail/gY68bekDRPB"
+    },
+    {
+      "id": "55N0LF4wFMA",
+      "title": "HYKE:Northern Light(s)",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504382243418702.jpeg",
+      "metacritic": null,
+      "price": 8.63,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-09-18",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Music",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/55N0LF4wFMA"
+    },
+    {
+      "id": "cYarENTjpqX",
+      "title": "Traveler's Refrain",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503721087817939.jpeg",
+      "metacritic": null,
+      "price": 12.42,
+      "discount_price": 8.07,
+      "discount_rate": 35,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "1 days",
+      "release_date": "2025-12-11",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Music",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/cYarENTjpqX"
+    },
+    {
+      "id": "fYWutWiVTmu",
+      "title": "Starlair",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506178843514622.jpeg",
+      "metacritic": null,
+      "price": 4.31,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-01-16",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Role-playing",
+        "Music"
+      ],
+      "url": "https://www.gamegulf.com/detail/fYWutWiVTmu"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/er4LLAIOlU#currency-price",
+      "priceCurrency": "HKD",
+      "price": "148.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:01+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/er4LLAIOlU#currency-price",
+      "priceCurrency": "EUR",
+      "price": "23.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:01+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/er4LLAIOlU#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2900.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-21T19:16:01+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 15.66,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 15.66,
+        "region": "JP",
+        "type": "Digital"
+      },
+      "local_low": null,
+      "trend_from_lowest": {
+        "price_eur": 14.1,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-04-07"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 0,
+      "avg_discount_price_eur": null,
+      "sale_periods": [],
+      "days_since_last_discount": null,
+      "last_discount": null,
+      "trend_entries_count": 1,
+      "price_verdict": "near_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/er4LLAIOlU",
+    "price_track": "https://www.gamegulf.com/detail/er4LLAIOlU#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1626170,
+      "name": "People of Note",
+      "developer": [
+        "Iridium Studios"
+      ],
+      "publisher": [
+        "Annapurna Interactive"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Adjustable Text Size",
+        "Color Alternatives",
+        "Custom Volume Controls",
+        "Adjustable Difficulty",
+        "Keyboard Only Option",
+        "Playable without Timed Input",
+        "Save Anytime",
+        "Subtitle Options",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "RPG"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 217,
+      "short_description": "In this turn-based RPG musical, join Cadence as she recruits an ensemble of musicians on her quest for stardom. Experience turn-based combat like never before, where each battle is a musical performance with evolving combat conditions and genre-bending mashup attacks!",
+      "supported_languages": "English<strong>*</strong>, French, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese, Italian, Russian<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 237,
+        "total_negative": 24,
+        "total_reviews": 261,
+        "score_description": "Very Positive",
+        "positive_percent": 91
+      }
+    },
+    "hltb": null
+  }
+}

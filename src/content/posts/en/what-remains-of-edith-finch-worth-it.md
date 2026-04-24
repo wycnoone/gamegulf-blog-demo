@@ -207,14 +207,14 @@ The honest math: **tracked history** still shows a **deeper €2.86 point (Brazi
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Spain | USD 5.84 | €4.99 |
-| Brazil | USD 13.60 | R$69.00 |
-| Japan | USD 14.01 | ¥2,200 |
-| United States | USD 20.32 | $19.99 |
-| Germany | USD 23.41 | €19.99 |
-| France | USD 23.41 | €19.99 |
-| Italy | USD 23.41 | €19.99 |
-| United Kingdom | USD 24.18 | £17.99 |
+| Spain | USD 5.85 | €4.99 |
+| Brazil | USD 13.62 | R$69.00 |
+| Japan | USD 14.03 | ¥2,200 |
+| United States | USD 20.36 | $19.99 |
+| Germany | USD 23.45 | €19.99 |
+| France | USD 23.45 | €19.99 |
+| Italy | USD 23.45 | €19.99 |
+| United Kingdom | USD 24.23 | £17.99 |
 
 Pull the **discount** story into focus: the feed’s **all-time low** reference sits near **€2.86 (Brazil, April 2025)**, while **today’s €4.99 Spain tier** still beats the **average discount** level in the same tracker window — that is the definition of a **good sale**, not a panic buy. If you are price-sensitive, open the [GameGulf live multi-region price track](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) and compare **your** account’s row before you assume the **Spain** anchor applies.
 

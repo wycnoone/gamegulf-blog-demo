@@ -205,14 +205,14 @@ That is enough to matter because the game still has real weight behind the purch
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 15.38 | ¥6,050 |
-| United Kingdom | USD 54.09 | £39.99 |
-| Germany | USD 58.82 | €49.99 |
-| Spain | USD 58.82 | €49.99 |
-| France | USD 58.82 | €49.99 |
-| Italy | USD 58.82 | €49.99 |
-| Portugal | USD 58.82 | €49.99 |
-| Brazil | USD 59.18 | R$299.9 |
+| Japan | USD 15.34 | ¥6,050 |
+| United Kingdom | USD 53.94 | £39.99 |
+| Germany | USD 58.65 | €49.99 |
+| Spain | USD 58.65 | €49.99 |
+| France | USD 58.65 | €49.99 |
+| Italy | USD 58.65 | €49.99 |
+| Portugal | USD 58.65 | €49.99 |
+| Brazil | USD 59.01 | R$299.9 |
 
 The history matters as much as the sticker. According to GameGulf's tracking, today's **€13.07** is back at the cheapest level the site has recorded, matching the floor from **June 3, 2025**. Nintendo Switch has also logged **six** discount events in the last tracked year, and the last big move happened **31 days** ago on **March 21, 2026**. That is enough **discount** and **sale** history to treat this as a real buying window rather than a lucky flash.
 

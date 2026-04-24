@@ -189,16 +189,17 @@ Monster Hunter Rise is not just "good for the price"; it is still one of the mor
 
 **Monster Hunter Rise currently bottoms out at €4.33 in Japan, and that price equals its historical low in tracked data.**
 
+
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 5.07 | ¥3,990 |
-| Brazil | USD 36.23 | R$184.00 |
-| Hong Kong | USD 39.89 | HK$308.00 |
-| United States | USD 40.58 | $39.99 |
-| Germany | USD 46.83 | €39.99 |
-| Spain | USD 46.83 | €39.99 |
-| France | USD 46.83 | €39.99 |
-| Portugal | USD 46.83 | €39.99 |
+| Japan | USD 5.08 | ¥3,990 |
+| Brazil | USD 36.30 | R$184.00 |
+| Hong Kong | USD 39.96 | HK$308.00 |
+| United States | USD 40.65 | $39.99 |
+| Germany | USD 46.92 | €39.99 |
+| Spain | USD 46.92 | €39.99 |
+| France | USD 46.92 | €39.99 |
+| Portugal | USD 46.92 | €39.99 |
 
 Monster Hunter Rise discount history is unusually clear: the tracked timeline records **7 discounts** in the last year, with an average discount level around **€7.15**, and the last discount landed just **8 days** ago. In practical terms, this is not a weak sale signal. It is a real low-price window. Before checkout, compare your own region row on GameGulf because some storefronts remain much higher than the cheapest row.
 

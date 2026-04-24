@@ -73,7 +73,7 @@ playerVoices:
     sentiment: positive
   - quote: 深度折扣才值。
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: 購入前に自分のリージョンの価格を確認してください。
     sentiment: positive
 communityMemes:
   - "No Sleep For Kaname Date - From AI: THE…"
@@ -160,14 +160,14 @@ coverImage: >-
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 香港 | JPY 4866 | HK$238 |
-| 日本 | JPY 5537 | ¥5,478 |
-| ブラジル | JPY 6245 | R$199 |
-| アメリカ合衆国 | JPY 6402 | $39.99 |
-| ドイツ | JPY 7484 | €39.99 |
-| スペイン | JPY 7484 | €39.99 |
-| フランス | JPY 7484 | €39.99 |
-| イタリア | JPY 7484 | €39.99 |
+| 香港 | JPY 4857 | HK$238 |
+| 日本 | JPY 5528 | ¥5,478 |
+| ブラジル | JPY 6234 | R$199 |
+| アメリカ合衆国 | JPY 6391 | $39.99 |
+| ドイツ | JPY 7471 | €39.99 |
+| スペイン | JPY 7471 | €39.99 |
+| フランス | JPY 7471 | €39.99 |
+| イタリア | JPY 7471 | €39.99 |
 
 ## 『No Sleep For Kaname Date - From AI: THE SOMNIUM FILES』はどんなゲーム？
 

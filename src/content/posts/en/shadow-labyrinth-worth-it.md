@@ -164,14 +164,14 @@ Tracked **discount** history: **all-time low** around **€14.11** (JP), **5** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 25.17 | ¥3,960 |
-| Brazil | USD 29.50 | R$149.5 |
-| United States | USD 30.19 | $29.99 |
-| Hong Kong | USD 30.71 | HK$239 |
-| United Kingdom | USD 33.81 | £24.99 |
-| Germany | USD 35.29 | €29.99 |
-| Spain | USD 35.29 | €29.99 |
-| France | USD 35.29 | €29.99 |
+| Japan | USD 25.10 | ¥3,960 |
+| Brazil | USD 29.41 | R$149.5 |
+| United States | USD 30.11 | $29.99 |
+| Hong Kong | USD 30.62 | HK$239 |
+| United Kingdom | USD 33.71 | £24.99 |
+| Germany | USD 35.19 | €29.99 |
+| Spain | USD 35.19 | €29.99 |
+| France | USD 35.19 | €29.99 |
 
 ## What kind of game is Shadow Labyrinth, really?
 

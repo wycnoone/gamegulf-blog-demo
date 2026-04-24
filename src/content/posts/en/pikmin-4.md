@@ -181,10 +181,10 @@ The April 2026 buying question is **price math, not quality**: indexed rows stil
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.39 | ¥6,500 |
-| Hong Kong | USD 42.67 | HK$329 |
-| United States | USD 60.98 | $59.99 |
-| Brazil | USD 68.74 | R$349 |
+| Japan | USD 41.46 | ¥6,500 |
+| Hong Kong | USD 42.76 | HK$329 |
+| United States | USD 61.09 | $59.99 |
+| Brazil | USD 68.87 | R$349 |
 
 Tracked **sale** history tells a sharper story than list **price** alone: the feed still remembers a **Japan discount**-era point near **€28.27 on 25 December 2025**, while **average discount-level prints** in the same window hug about **€35.89**. That means **today’s Japan-led pricing is fair Nintendo retail**, not a permanent **fire sale**. Cross-check the [live multi-region grid](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) before you assume any number matches **your** account.
 

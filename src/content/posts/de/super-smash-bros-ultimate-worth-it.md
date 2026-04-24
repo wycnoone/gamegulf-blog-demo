@@ -189,7 +189,7 @@ Praxisnahe Lesart: Wenn du spielst, ist das Preisniveau schon **niedrig**; wenn 
 
 **Kaufen, wenn:**
 - du ein lokales Multiplayer-„Always on“ willst;
-- deine eShop-Zeile nah an den Index-Spitzen liegt.
+- dein eShop-Preis nah an den Index-Spitzen liegt.
 
 **Warten, wenn:**
 - du in absehbarer Zeit keine Gruppe hast;

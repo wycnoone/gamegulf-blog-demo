@@ -202,14 +202,14 @@ April **2026** pricing adds a rare nudge: indexed digital still opens near **€
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.88 | ¥6,578 |
-| Hong Kong | USD 42.67 | HK$354 |
-| United States | USD 60.98 | $64.99 |
-| United Kingdom | USD 67.19 | £49.99 |
-| Brazil | USD 68.74 | R$359.9 |
-| Germany | USD 70.25 | €59.99 |
-| Spain | USD 70.25 | €59.99 |
-| France | USD 70.25 | €59.99 |
+| Japan | USD 41.96 | ¥6,578 |
+| Hong Kong | USD 42.76 | HK$354 |
+| United States | USD 61.09 | $64.99 |
+| United Kingdom | USD 67.31 | £49.99 |
+| Brazil | USD 68.87 | R$359.9 |
+| Germany | USD 70.39 | €59.99 |
+| Spain | USD 70.39 | €59.99 |
+| France | USD 70.39 | €59.99 |
 
 Treat the **historical low** signal as a **regional** fact: if **your** storefront mirrors **Japan**, you are buying into the same cluster the tracker saw on **8 March 2026**. GameGulf lines up with that ladder — verify on the [live multi-region grid](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price) before checkout.
 

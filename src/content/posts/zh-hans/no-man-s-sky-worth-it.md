@@ -7,7 +7,7 @@ category: worth-it
 gameTitle: 无人深空
 platform: Nintendo Switch
 primaryPlatformKey: switch-1
-primaryPlatformLabel: Nintendo Switch
+primaryPlatformLabel: Switch
 hasOtherPlatforms: true
 otherPlatformLabels:
   - NS2
@@ -27,7 +27,7 @@ priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 1
-listingTakeaway: Metacritic 83 的宇宙沙盒——Nintendo Switch 日本行回到 €13.07。
+listingTakeaway: Metacritic 83 的宇宙沙盒——Switch 日本行回到 €13.07。
 whatItIs: 便携宇宙沙盒——扫描、基地建造、生存循环、交易、狗斗。
 bestFor: 想要一款能随身长期投入的沙盒，而不是线性剧情。
 avoidIf: 你要强叙事节奏、快速上手，或必须在 Nintendo Switch 上联机。
@@ -162,14 +162,14 @@ cardPriceNativeCurrency: JPY
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 104.82 | ¥6,050 |
-| 英国 | CNY 368.69 | £39.99 |
-| 德国 | CNY 400.93 | €49.99 |
-| 西班牙 | CNY 400.93 | €49.99 |
-| 法国 | CNY 400.93 | €49.99 |
-| 意大利 | CNY 400.93 | €49.99 |
-| 葡萄牙 | CNY 400.93 | €49.99 |
-| 巴西 | CNY 403.34 | R$299.9 |
+| 日本 | CNY 104.65 | ¥6,050 |
+| 英国 | CNY 368.09 | £39.99 |
+| 德国 | CNY 400.27 | €49.99 |
+| 西班牙 | CNY 400.27 | €49.99 |
+| 法国 | CNY 400.27 | €49.99 |
+| 意大利 | CNY 400.27 | €49.99 |
+| 葡萄牙 | CNY 400.27 | €49.99 |
+| 巴西 | CNY 402.68 | R$299.9 |
 
 历史同样关键。按 GameGulf 的追踪，今天的 **€13.07** 已经回到站内记录过的最便宜区间，与 **2025 年 6 月 3 日**的低点重合。Nintendo Switch 在过去一年里还出现过 **6 次折扣**，最近一次明显跌价发生在 **2026 年 3 月 21 日**，距今 **31 天**。这已经是足够完整的**折扣**与**打折**证据，说明现在不是“乱冲”，而是踩在很清楚的买点上。
 
@@ -183,7 +183,7 @@ cardPriceNativeCurrency: JPY
 
 但这不代表人人都适合。若你讨厌生存整理、合成表、库存压力，或者希望剧情和任务替你安排好全部节奏，那么别人嘴里的“自由”在你这边就可能只剩事务劳动。
 
-## 《无人深空》在 Nintendo Switch 上跑得怎么样？
+## 《无人深空》在 Switch 上跑得怎么样？
 
 **《无人深空》在 Nintendo Switch 上的表现，比很多人当年预期得更好，但它仍然是把一个很大的系统沙盒塞进掌机硬件里的移植。**
 

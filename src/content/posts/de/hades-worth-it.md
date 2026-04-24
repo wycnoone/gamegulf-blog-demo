@@ -13,7 +13,7 @@ author: GameGulf Editorial AI
 readingTime: 7 Min. Lesezeit
 decision: >-
   Kaufen, wenn du Top-Roguelite magst und Sterben als Fortschritt ok findest.
-  Beobachten, wenn deine eShop-Zeile weit über dem indexierten Japan liegt oder
+  Beobachten, wenn dein eShop-Preis weit über dem indexierten Japan liegt oder
   du nur historische Sale-Tiefs willst.
 priceSignal: >-
   Index setzt Japan auf ~15,22 € äquivalent (¥2.800) vorn; Verlauf zeigt ein
@@ -42,7 +42,7 @@ mainFriction: Raumvorlagen und Gegner wirken nach dem Hauptstrang weniger frisch
 timeFit: HLTB ~23 h Hauptstory, ~49 h Extras, ~95 h Completion.
 fitLabel: Spieler, die Scheitern als Story-Treibstoff sehen.
 timingNote: >-
-  Preisfokus? Vergleiche deine eShop-Zeile mit Japan-Index und Brasilien-Anker
+  Preisfokus? Vergleiche dein eShop-Preis mit Japan-Index und Brasilien-Anker
   2025.
 communityVibe: „Kein Entkommen“-Meme + OST auf Dauerschleife
 playtime: 23 h Story · 49 h+ Extras · ~95 h Completion (HLTB)
@@ -230,7 +230,7 @@ Das ist **ein gepflegter Port**, kein Notfall-Downgrade.
 ## Jetzt kaufen, wenn
 
 - du **kurze Runs** mit **echter Story zwischen Versuchen** willst
-- **deine eShop-Zeile** nah am **japanischen Index** liegt
+- **dein eShop-Preis** nah am **japanischen Index** liegt
 - **Sprache und Musik** für dich so zählen wie Gameplay
 - **Roguelite-Wiederholung** **Treibstoff** statt Strafe ist
 - du mit **anderen Action-Titeln vergleichst, die du beendest**

@@ -195,7 +195,7 @@ Im April **2026** startet der Index bei **~€35,76 Äquivalent (Japan)** mit ei
 | Spanien | EUR 59.99 | €59.99 |
 | Frankreich | EUR 59.99 | €59.99 |
 
-Das **Tief** ist **regional**: folgt **Ihre eShop-Zeile** **Tokio**, sitzen Sie im **2026** gesehenen Cluster. Prüfen Sie die [Live-Mehrregionen-Tabelle](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price).
+Das **Tief** ist **regional**: folgt **Ihre eShop-Preis** **Tokio**, sitzen Sie im **2026** gesehenen Cluster. Prüfen Sie die [Live-Mehrregionen-Tabelle](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price).
 
 ## Was für ein Spiel?
 
@@ -236,4 +236,4 @@ Kaufen Sie für die **Schleife**, nicht für **fps-Flex**.
 
 **Animal Crossing: New Horizons kultiviert eine Stimmung nach der Arbeit** — Nachbarn, Jahreszeiten, Screenshot-Ordner.
 
-**Checken Sie die eShop-Zeile einmal.** Wenn **cozy Loop** passt und der Preis im **Tracking-Tief** sitzt, **kaufen** — auf Wunder-**Sale** zu warten kämpft mit seltenen First-Party-Promos.
+**Checken Sie die eShop-Preis einmal.** Wenn **cozy Loop** passt und der Preis im **Tracking-Tief** sitzt, **kaufen** — auf Wunder-**Sale** zu warten kämpft mit seltenen First-Party-Promos.

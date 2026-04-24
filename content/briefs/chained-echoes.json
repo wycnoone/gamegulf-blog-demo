@@ -1,0 +1,608 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/iapEa7sttwo",
+    "game_id": "iapEa7sttwo",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Chained Echoes",
+    "description": "Chained Echoes is a story-driven JRPG where a group of heroes travel around the vast continent of Valandis to bring an end to the war between its three kingdoms. \n\nIn the course of their journey, they will travel through a wide array of diverse landscapes spanning from wind-tanned plateaus and exotic archipelagos to sunken cities and forgotten dungeons.\nTake up your sword, channel your magic or board your Mech. Chained Echoes is a 16-bit Style RPG set in a fantasy world where dragons are as common as piloted mechanical suits. \n\nFollow a group of heroes as they explore a land filled to the brim with charming characters, fantastic landscapes and vicious foes. \nCan you bring peace to a continent where war has been waged for generations and betrayal lurks around every corner?\n\nFeatures:\n- 30 - 40 hours of play time\n- Fast paced turn-based battles\n- No random encounters; enemies can be seen running around\n- Tons of items to be looted, stolen or crafted\n- Complex skill and equipment system\n- Customize your own airship\n- Travel and fight by foot or in your Mech\n- 16-bit Style graphics",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477067815077.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477067815077.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477189818038.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477203813617.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477210513789.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477191310508.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477195019482.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510477377316193.jpeg"
+    ],
+    "genres": [
+      "Role-playing",
+      "Action",
+      "Adventure",
+      "Strategy"
+    ],
+    "release_date": "2022-12-08",
+    "developer": "Umami Tiger (Matthias Linda)",
+    "publisher": "Deck 13",
+    "metacritic": 90
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 8.05,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.05
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 11.91,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.91
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 15.12,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.12
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.38,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.38
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 26.43,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 26.43
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-03",
+              "country_code": "PT",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-12-13",
+              "country_code": "HK",
+              "value": 11.91,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "HK",
+              "value": 5.9,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-12-03",
+              "country_code": "PT",
+              "value": 24.99,
+              "currency": "EUR",
+              "country": "Portugal"
+            },
+            {
+              "date": "2025-12-13",
+              "country_code": "HK",
+              "value": 11.91,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2025-12-17",
+              "country_code": "HK",
+              "value": 5.9,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-15",
+              "country_code": "US",
+              "value": 21.38,
+              "currency": "EUR",
+              "country": "United States"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 21.38,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "aAHcnHgKqme",
+      "title": "Chained",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513605021710761.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-03-11",
+      "categories": [],
+      "url": "https://www.gamegulf.com/detail/aAHcnHgKqme"
+    },
+    {
+      "id": "foKZbMV5YR6",
+      "title": "Echoes",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507624082515478.jpeg",
+      "metacritic": null,
+      "price": 8.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-29",
+      "categories": [
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/foKZbMV5YR6"
+    },
+    {
+      "id": "9Cp2oRTZnJJ",
+      "title": "Chained Heroes",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506013166117288.jpeg",
+      "metacritic": null,
+      "price": 3.85,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-02-03",
+      "categories": [
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/9Cp2oRTZnJJ"
+    },
+    {
+      "id": "9OzgPJmPYS5",
+      "title": "Ninjora Echoes",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502686827217490.jpeg",
+      "metacritic": null,
+      "price": 5.99,
+      "discount_price": 4.79,
+      "discount_rate": 20,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "8 days",
+      "release_date": "2026-04-10",
+      "categories": [
+        "Adventure",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/9OzgPJmPYS5"
+    },
+    {
+      "id": "jgZpGvhaomf",
+      "title": "Chained Climb Together",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506202461715908.jpeg",
+      "metacritic": null,
+      "price": 3.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-01-10",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/jgZpGvhaomf"
+    },
+    {
+      "id": "9LhexgMA0RR",
+      "title": "Nexomon",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512539308818717.jpeg",
+      "metacritic": null,
+      "price": 4.75,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-01",
+      "categories": [
+        "Adventure",
+        "Role-playing",
+        "Fighting",
+        "Action",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/9LhexgMA0RR"
+    },
+    {
+      "id": "l7taqmVRgrH",
+      "title": "NanoApostle",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506998367312252.jpeg",
+      "metacritic": null,
+      "price": 11.53,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-09-12",
+      "categories": [
+        "Action",
+        "Fighting",
+        "Role-playing",
+        "Strategy",
+        "Adventure"
+      ],
+      "url": "https://www.gamegulf.com/detail/l7taqmVRgrH"
+    },
+    {
+      "id": "jc7VlJkvmbj",
+      "title": "The Survivalists",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514224870017611.jpeg",
+      "metacritic": 70,
+      "price": 24.99,
+      "discount_price": 4.99,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "13 days",
+      "release_date": "2020-10-09",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation",
+        "Strategy",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/jc7VlJkvmbj"
+    },
+    {
+      "id": "4cvY608E5Jx",
+      "title": "Ghosty",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509361449417002.jpeg",
+      "metacritic": null,
+      "price": 0,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-07-14",
+      "categories": [
+        "Action",
+        "Strategy",
+        "Role-playing",
+        "Communication",
+        "Adventure",
+        "Arcade",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/4cvY608E5Jx"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2800.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+      "priceCurrency": "HKD",
+      "price": "109.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+      "priceCurrency": "BRL",
+      "price": "47.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+      "priceCurrency": "ARS",
+      "price": "3800.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+      "priceCurrency": "EUR",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+      "priceCurrency": "GBP",
+      "price": "22.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 8.05,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 5.9,
+        "region": "HK",
+        "date": "2025-12-17"
+      },
+      "local_low": {
+        "price_eur": 21.38,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 5.9,
+        "region": "HK",
+        "country": "Hong Kong SAR China",
+        "date": "2025-12-17"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 8.91,
+      "sale_periods": [
+        {
+          "start": "2025-12-17",
+          "end": "2025-12-17"
+        }
+      ],
+      "days_since_last_discount": 126,
+      "last_discount": {
+        "date": "2025-12-17",
+        "price_eur": 5.9,
+        "region": "Hong Kong SAR China",
+        "drop_pct": 50
+      },
+      "trend_entries_count": 4,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/iapEa7sttwo",
+    "price_track": "https://www.gamegulf.com/detail/iapEa7sttwo#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1229240,
+      "name": "Chained Echoes",
+      "developer": [
+        "Umami Tiger (Matthias Linda)"
+      ],
+      "publisher": [
+        "Deck13",
+        "WhisperGames"
+      ],
+      "metacritic_score": 91,
+      "metacritic_url": "https://www.metacritic.com/game/pc/chained-echoes?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Indie",
+        "RPG"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 7380,
+      "short_description": "Take up your sword, channel your magic or board your Mech. Chained Echoes is a 16-bit style RPG set in a fantasy world where dragons are as common as piloted mechanical suits.",
+      "supported_languages": "English, French, German, Korean, Japanese, Simplified Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": true
+      },
+      "reviews": {
+        "total_positive": 6931,
+        "total_negative": 866,
+        "total_reviews": 7797,
+        "score_description": "Very Positive",
+        "positive_percent": 89
+      }
+    },
+    "hltb": null
+  }
+}

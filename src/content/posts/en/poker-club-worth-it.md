@@ -162,14 +162,14 @@ Tracked **discount** history: **all-time low** around **€7.52** (see grid), **
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| United States | USD 8.85 | $17.59 |
-| Brazil | USD 13.81 | R$70 |
-| Germany | USD 20.70 | €17.59 |
-| Spain | USD 20.70 | €17.59 |
-| France | USD 20.70 | €17.59 |
-| Italy | USD 20.70 | €17.59 |
-| Portugal | USD 20.70 | €17.59 |
-| United Kingdom | USD 21.63 | £15.99 |
+| United States | USD 8.82 | $17.59 |
+| Brazil | USD 13.77 | R$70 |
+| Germany | USD 20.64 | €17.59 |
+| Spain | USD 20.64 | €17.59 |
+| France | USD 20.64 | €17.59 |
+| Italy | USD 20.64 | €17.59 |
+| Portugal | USD 20.64 | €17.59 |
+| United Kingdom | USD 21.57 | £15.99 |
 
 ## What kind of game is Poker Club, really?
 

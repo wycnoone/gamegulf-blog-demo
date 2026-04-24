@@ -1,7 +1,7 @@
 ---
 title: INSIDE auf der Switch — jetzt kaufen oder auf den nächsten Sale warten?
 description: >-
-  April 2026 Kaufberatung: ~91 Metacritic, indexierte eShop-Zeilen, häufige
+  April 2026 Kaufberatung: ~91 Metacritic, indexierte eShop-Preisn, häufige
   Rabatt-Historie vs Listenpreis, wann kaufen oder nächsten Drop tracken.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"

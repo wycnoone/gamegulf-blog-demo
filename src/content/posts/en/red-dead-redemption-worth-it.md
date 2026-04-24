@@ -164,14 +164,14 @@ Tracked **discount** history: **all-time low** around **€22.05** (JP), **6** s
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 21.67 | ¥6,820 |
-| Hong Kong | USD 25.58 | HK$398 |
-| United Kingdom | USD 27.04 | £39.99 |
-| Germany | USD 29.41 | €49.99 |
-| Spain | USD 29.41 | €49.99 |
-| France | USD 29.41 | €49.99 |
-| Italy | USD 29.41 | €49.99 |
-| Portugal | USD 29.41 | €49.99 |
+| Japan | USD 21.61 | ¥6,820 |
+| Hong Kong | USD 25.51 | HK$398 |
+| United Kingdom | USD 26.96 | £39.99 |
+| Germany | USD 29.32 | €49.99 |
+| Spain | USD 29.32 | €49.99 |
+| France | USD 29.32 | €49.99 |
+| Italy | USD 29.32 | €49.99 |
+| Portugal | USD 29.32 | €49.99 |
 
 ## What kind of game is Red Dead Redemption, really?
 

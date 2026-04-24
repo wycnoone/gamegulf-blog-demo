@@ -1,7 +1,7 @@
 ---
 title: Lohnt sich Unicorn Overlord 2026 auf der Switch?
 description: >-
-  April 2026: ~89 Metacritic Vanillaware-SRPG, indexierte eShop-Zeilen,
+  April 2026: ~89 Metacritic Vanillaware-SRPG, indexierte eShop-Preisn,
   Rabatt-Historie, Switch-Performance und Kauf-Timing.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -37,7 +37,7 @@ consensusPraise: Lesbare Taktik-UI, Soundtrack und Klarheit — oben auf der Swi
 mainFriction: "Langsames Tempo: viel Dialog und Map zwischen den Höhepunkten."
 timeFit: HLTB ~46h Hauptstory, ~63h Extras, ~76h Completion (Community).
 fitLabel: Für Spieler, die Truppen und Eroberung lieber optimieren.
-timingNote: Vergleiche deine eShop-Zeile mit der ~20,99-€-Promo, bevor du kaufst.
+timingNote: Vergleiche dein eShop-Preis mit der ~20,99-€-Promo, bevor du kaufst.
 communityVibe: Tags Tier-Listen, nachts Vanillaware-Fest—dasselbe 4-Uhr-Loop.
 playtime: 46h Story · 63h+ Extras · ~76h Completion (HLTB)
 reviewSignal: 89 Metacritic

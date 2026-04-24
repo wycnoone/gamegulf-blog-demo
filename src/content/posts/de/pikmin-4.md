@@ -1,7 +1,7 @@
 ---
 title: Pikmin 4 auf der Switch — jetzt kaufen oder auf den Sale warten?
 description: >-
-  April 2026: Kauf-Timing auf der Switch, indexierte eShop-Zeilen, Abstand zur
+  April 2026: Kauf-Timing auf der Switch, indexierte eShop-Preisn, Abstand zur
   Japan-Referenz, Rabatt-Historie (Tiefpunkt am 25. Dezember 2025),
   HLTB-Stunden, Oatchi & Dandori, und wann kaufen oder Preisalarm nutzen.
 publishedAt: "2026-04-07"
@@ -41,7 +41,7 @@ mainFriction: Bedachter Rhythmus; Verluste schmerzen, bis Zurückspulen zur Gewo
 timeFit: HLTB ~18 h Hauptstory, ~29 h Extras, ~40 h Completion (Community).
 fitLabel: Spieler, die Transportketten optimieren statt Korridore zu sprinten.
 timingNote: >-
-  Vergleiche deine eShop-Zeile mit Japan-Anker und Dez-2025-Tief vor
+  Vergleiche dein eShop-Preis mit Japan-Anker und Dez-2025-Tief vor
   Impulskäufen.
 communityVibe: Oatchi-Stan, Pikmin-Verlust-Memes, cozy Strategie-Clips
 playtime: 18 h Story · 29 h+ Extras · ~40 h Completion (HLTB)
@@ -115,7 +115,7 @@ faq:
   - question: Pikmin 4 auf der Switch jetzt kaufen oder warten?
     answer: >-
       Pikmin 4 lohnt sich jetzt, wenn du Nintendos modernes Pikmin-Set mit
-      Oatchi, Nachtkarten und Dandori willst und deine eShop-Zeile nah am
+      Oatchi, Nachtkarten und Dandori willst und dein eShop-Preis nah am
       indexierten Japan-Anker liegt. April 2026 setzt der Index Japan weiter
       ~35,34 € äquivalent an — prüfe dein Konto auf GameGulf.
   - question: Wie lang ist Pikmin 4?

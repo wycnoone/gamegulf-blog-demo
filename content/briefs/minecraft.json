@@ -1,0 +1,612 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/5oci92626zT",
+    "game_id": "5oci92626zT",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "Minecraft",
+    "description": "Minecraft is a game about placing blocks and going on adventures.\n\nExplore randomly generated worlds and build amazing things from the simplest of homes to the grandest of castles. Play in creative mode with unlimited resources or mine deep into the world in survival mode, crafting weapons and armor to fend off the dangerous mobs.\n\nIncludes Super Mario Mash-Up and more!",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974432612171.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974432612171.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974637711849.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974637618741.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974635516988.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974648712164.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974636013232.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516974856315710.jpeg"
+    ],
+    "genres": [
+      "Action",
+      "Adventure",
+      "Strategy",
+      "Simulation"
+    ],
+    "release_date": "2018-06-20",
+    "developer": "Mojang Studios, Double Eleven",
+    "publisher": "Mojang",
+    "metacritic": 86
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 16.6,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.6
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 21.39,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.39
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 22.98,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 22.98
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 25.56,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.56
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 25.66,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 25.66
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 29.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 29.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-03-24",
+              "country_code": "JP",
+              "value": 21.39,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "BR",
+              "value": 16.6,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-03-15",
+              "country_code": "HK",
+              "value": 25.56,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "JP",
+              "value": 21.39,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "BR",
+              "value": 16.6,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-03-15",
+              "country_code": "HK",
+              "value": 25.56,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-24",
+              "country_code": "JP",
+              "value": 21.39,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "BR",
+              "value": 16.6,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 25.66,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "jwtMkozFzfr",
+      "title": "Minecraft Legends",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509824910114633.jpeg",
+      "metacritic": null,
+      "price": 4.93,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-04-18",
+      "categories": [
+        "Action",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/jwtMkozFzfr"
+    },
+    {
+      "id": "kAlHoJ4bhto",
+      "title": "Minecraft Dungeons",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514813630418521.jpeg",
+      "metacritic": 72,
+      "price": 2.47,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-05-26",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/kAlHoJ4bhto"
+    },
+    {
+      "id": "el9h2tXX2Gc",
+      "title": "Minecraft Dungeons II ",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502611620513158.jpeg",
+      "metacritic": null,
+      "price": null,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "",
+      "discount_end": "",
+      "release_date": "2026-12-31",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/el9h2tXX2Gc"
+    },
+    {
+      "id": "4LbIK1SdXbl",
+      "title": "Minecraft: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517479290410557.jpeg",
+      "metacritic": null,
+      "price": 22.98,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2017-05-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/4LbIK1SdXbl"
+    },
+    {
+      "id": "4LSyP8caNh0",
+      "title": "小学館マンガアプリ MINECRAFT～世界の果てへの旅～ コミックスパック",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/9/177569329131114767.jpeg",
+      "metacritic": null,
+      "price": 0.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-06-12",
+      "categories": [
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/4LSyP8caNh0"
+    },
+    {
+      "id": "jE85dQ1s9Z8",
+      "title": "Lion Simulator Survival: RPG Animal Battle",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508192530917905.jpeg",
+      "metacritic": null,
+      "price": 6.5,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-25",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/jE85dQ1s9Z8"
+    },
+    {
+      "id": "iyVWAZsVmBH",
+      "title": "Forest Ranger Life Simulator",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505720456415969.jpeg",
+      "metacritic": null,
+      "price": 8.99,
+      "discount_price": 2.99,
+      "discount_rate": 66,
+      "discount_tag": "Normal",
+      "discount_end": "12 days",
+      "release_date": "2025-03-15",
+      "categories": [
+        "Adventure",
+        "Education",
+        "Simulation",
+        "Strategy",
+        "Action",
+        "Training"
+      ],
+      "url": "https://www.gamegulf.com/detail/iyVWAZsVmBH"
+    },
+    {
+      "id": "jc7VlJkvmbj",
+      "title": "The Survivalists",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514224870017611.jpeg",
+      "metacritic": 70,
+      "price": 24.99,
+      "discount_price": 4.99,
+      "discount_rate": 80,
+      "discount_tag": "Normal",
+      "discount_end": "13 days",
+      "release_date": "2020-10-09",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation",
+        "Strategy",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/jc7VlJkvmbj"
+    },
+    {
+      "id": "eb6FoezDVE4",
+      "title": "Yacht Haven Tycoon: Marina Port Parking Simulator",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507770037914052.jpeg",
+      "metacritic": null,
+      "price": 6.41,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-05-03",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/eb6FoezDVE4"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+      "priceCurrency": "USD",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:08+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+      "priceCurrency": "EUR",
+      "price": "29.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:08+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+      "priceCurrency": "GBP",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:08+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+      "priceCurrency": "JPY",
+      "price": "3960.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:08+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+      "priceCurrency": "HKD",
+      "price": "234.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:08+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+      "priceCurrency": "BRL",
+      "price": "99.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:08+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+      "priceCurrency": "ARS",
+      "price": "13199.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:41:08+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 16.6,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 16.6,
+        "region": "BR",
+        "date": "2026-04-14"
+      },
+      "local_low": {
+        "price_eur": 25.66,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 16.6,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2026-04-14"
+      },
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 2,
+      "avg_discount_price_eur": 19,
+      "sale_periods": [],
+      "days_since_last_discount": 8,
+      "last_discount": {
+        "date": "2026-04-14",
+        "price_eur": 16.6,
+        "region": "Brazil",
+        "drop_pct": 22
+      },
+      "trend_entries_count": 3,
+      "price_verdict": "at_historical_low"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/5oci92626zT",
+    "price_track": "https://www.gamegulf.com/detail/5oci92626zT#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1912410,
+      "name": "Minecraft Dungeons II",
+      "developer": [
+        "Mojang Studios",
+        "Double Eleven"
+      ],
+      "publisher": [
+        "Xbox Game Studios"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Single-player",
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Cross-Platform Multiplayer",
+        "Partial Controller Support",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Action",
+        "Adventure",
+        "RPG"
+      ],
+      "steam_price": null,
+      "total_recommendations": 0,
+      "short_description": "The next chapter of Minecraft Dungeons begins in the fall of 2026! A new threat is descending upon the land. Become a hero and clash with the forces of evil once more!    ",
+      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Italian, German<strong>*</strong>, Spanish - Spain, Dutch, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil<strong>*</strong>, Russian, Simplified Chinese<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Swedish<strong>*</strong>, Traditional Chinese<strong>*</strong>, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 0,
+        "total_negative": 0,
+        "total_reviews": 0,
+        "score_description": "No user reviews",
+        "positive_percent": null
+      }
+    },
+    "hltb": null
+  }
+}

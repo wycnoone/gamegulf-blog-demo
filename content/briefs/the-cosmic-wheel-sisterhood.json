@@ -1,0 +1,617 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/klXFe9KFi82",
+    "game_id": "klXFe9KFi82",
+    "extracted_at": "2026-04-22",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "The Cosmic Wheel Sisterhood",
+    "description": "The Cosmic Wheel Sisterhood is a thought-provoking narrative experience from the creators of The Red Strings Club. Featuring a richly diverse cast of characters, Tarot-like card creation, divination, and a branching story that spans time and space, The Cosmic Wheel Sisterhood explores themes of identity, community, and personal responsibility in a beautifully hand-crafted universe.\n\nYou play as Fortuna, a Witch living exiled on an asteroid who forms a pact with a forbidden creature in the hopes of regaining her freedom. Reconnect with your Witch friends after a 200 year long exile, meet new Witches, and use the cards you created to pierce through their pasts and futures. As you delve into this universe, you will see yourself immersed in the complex web of interests that surround your coven, leading to a political plot that will define the fate of the Cosmic Witch society.\n\nSpellbinding Story\nEnjoy a complex narrative spanning decades as Fortuna comes to terms with her power and the impact her decisions have on others and the fate of her Coven.\n\nArcane Deck Building\nCraft unique divination cards from hundreds of possibilities to help you understand and determine the fate of the characters you encounter.\n\nMagical Music\nMore than 3 hours of bewitching original music by the celebrated composer fingerspit.\n\nEnchanting Visuals\nSavour the stunning hand-crafted pixel art visuals and a huge cast of deliciously designed witches from all walks of life.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613812800019484.jpeg",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613812800019484.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613813042215244.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613813070019432.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613813047018515.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613813079719909.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613813068616830.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613813247315254.jpeg"
+    ],
+    "genres": [
+      "Adventure",
+      "Other",
+      "Simulation",
+      "Platformer"
+    ],
+    "release_date": "2023-08-16",
+    "developer": "Deconstructeam",
+    "publisher": "Devolver Digital",
+    "metacritic": 87
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 9.22,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.22
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 10.8,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 10.8
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 15.39,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.39
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 17.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.49
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 17.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.49
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 17.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.49
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 17.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.49
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 17.49,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.49
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 18.15,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 18.15
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": []
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-11-09",
+              "country_code": "JP",
+              "value": 5.18,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-23",
+              "country_code": "DE",
+              "value": 17.49,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-11-24",
+              "country_code": "JP",
+              "value": 10.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-25",
+              "country_code": "BR",
+              "value": 9.22,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 8.25,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 4.36,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-06-04",
+              "country_code": "FR",
+              "value": 8.74,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-20",
+              "country_code": "FR",
+              "value": 17.49,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-07-21",
+              "country_code": "FR",
+              "value": 8.74,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-10-16",
+              "country_code": "US",
+              "value": 15.39,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2025-11-09",
+              "country_code": "JP",
+              "value": 5.18,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-23",
+              "country_code": "DE",
+              "value": 17.49,
+              "currency": "EUR",
+              "country": "Germany"
+            },
+            {
+              "date": "2025-11-24",
+              "country_code": "JP",
+              "value": 10.8,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2025-11-25",
+              "country_code": "BR",
+              "value": 9.22,
+              "currency": "EUR",
+              "country": "Brazil"
+            },
+            {
+              "date": "2025-12-18",
+              "country_code": "FR",
+              "value": 8.25,
+              "currency": "EUR",
+              "country": "France"
+            },
+            {
+              "date": "2025-12-22",
+              "country_code": "BR",
+              "value": 4.36,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "US",
+          "value": 15.39,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "amMHzQ9CHyL",
+      "title": "To The Sky",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508024155615428.jpeg",
+      "metacritic": null,
+      "price": 0.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-03-21",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Simulation",
+        "Other",
+        "Platformer",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/amMHzQ9CHyL"
+    },
+    {
+      "id": "hppbGuxts8W",
+      "title": "Area 86",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514075081711169.jpeg",
+      "metacritic": null,
+      "price": 6.48,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-01-07",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Simulation",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/hppbGuxts8W"
+    },
+    {
+      "id": "8Kl05gPpefB",
+      "title": "Art Sqool",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514039045810931.jpeg",
+      "metacritic": null,
+      "price": 6.48,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-11-19",
+      "categories": [
+        "Adventure",
+        "Education",
+        "Platformer",
+        "Simulation",
+        "Study",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/8Kl05gPpefB"
+    },
+    {
+      "id": "jYmRg7Mp46M",
+      "title": "Hannah's Day",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614956692713704.jpeg",
+      "metacritic": null,
+      "price": 5.94,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-05-29",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Platformer",
+        "Puzzle",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/jYmRg7Mp46M"
+    },
+    {
+      "id": "7LwErRck5D3",
+      "title": "Bambas!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504913026712454.jpeg",
+      "metacritic": null,
+      "price": 3.7,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-06-27",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Platformer",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/7LwErRck5D3"
+    },
+    {
+      "id": "51OOILQDwEI",
+      "title": "Hole Digging Master",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504927263419261.jpeg",
+      "metacritic": null,
+      "price": 4.56,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-06-26",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Platformer",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/51OOILQDwEI"
+    },
+    {
+      "id": "hkyq7zTOAOT",
+      "title": "Lorn's Lure",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504260163212801.jpeg",
+      "metacritic": null,
+      "price": 14.99,
+      "discount_price": 8.24,
+      "discount_rate": 45,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "7 days",
+      "release_date": "2025-10-02",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Simulation",
+        "Other",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/hkyq7zTOAOT"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/klXFe9KFi82#currency-price",
+      "priceCurrency": "USD",
+      "price": "17.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/klXFe9KFi82#currency-price",
+      "priceCurrency": "EUR",
+      "price": "17.49",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/klXFe9KFi82#currency-price",
+      "priceCurrency": "GBP",
+      "price": "15.79",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/klXFe9KFi82#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2000.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/klXFe9KFi82#currency-price",
+      "priceCurrency": "BRL",
+      "price": "54.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:11+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/klXFe9KFi82#currency-price",
+      "priceCurrency": "ARS",
+      "price": "1300.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-22T19:37:11+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 9.22,
+        "region": "Brazil",
+        "country_code": "BR"
+      },
+      "global_low": {
+        "price_eur": 4.36,
+        "region": "BR",
+        "date": "2025-12-22"
+      },
+      "local_low": {
+        "price_eur": 15.39,
+        "region": "US",
+        "type": "Digital"
+      },
+      "trend_from_lowest": {
+        "price_eur": 4.36,
+        "region": "BR",
+        "country": "Brazil",
+        "date": "2025-12-22"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 6,
+      "avg_discount_price_eur": 7.76,
+      "sale_periods": [
+        {
+          "start": "2025-11-09",
+          "end": "2025-11-09"
+        },
+        {
+          "start": "2025-12-22",
+          "end": "2025-12-22"
+        }
+      ],
+      "days_since_last_discount": 121,
+      "last_discount": {
+        "date": "2025-12-22",
+        "price_eur": 4.36,
+        "region": "Brazil",
+        "drop_pct": 47
+      },
+      "trend_entries_count": 10,
+      "price_verdict": "sale_likely_soon"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/klXFe9KFi82",
+    "price_track": "https://www.gamegulf.com/detail/klXFe9KFi82#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1340480,
+      "name": "The Cosmic Wheel Sisterhood",
+      "developer": [
+        "Deconstructeam"
+      ],
+      "publisher": [
+        "Devolver Digital"
+      ],
+      "metacritic_score": 85,
+      "metacritic_url": "https://www.metacritic.com/game/pc/the-cosmic-wheel-sisterhood?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Indie"
+      ],
+      "steam_price": "$17.99",
+      "total_recommendations": 5146,
+      "short_description": "Immerse yourself in an enchanting narrative experience as Fortuna, a fortune-teller Witch condemned to exile on her asteroid home. Craft your own Tarot deck, regain your freedom, and shape the fate of the cosmic Witch society.",
+      "supported_languages": "English, French, Spanish - Spain, Japanese, Russian, Simplified Chinese, German",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 5495,
+        "total_negative": 377,
+        "total_reviews": 5872,
+        "score_description": "Very Positive",
+        "positive_percent": 94
+      }
+    },
+    "hltb": null
+  }
+}

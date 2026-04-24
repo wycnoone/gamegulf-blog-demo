@@ -1,14 +1,14 @@
 ---
 title: Lohnt sich No Man's Sky 2026 auf der Nintendo Switch?
 description: >-
-  Nintendo-Switch-1-Guide für April 2026: ~83 Metacritic, Japan bei 13,07 €,
+  Nintendo-Nintendo Switch-Guide für April 2026: ~83 Metacritic, Japan bei 13,07 €,
   HLTB-Zeiten und die Frage, ob jetzt kaufen oder warten sinnvoller ist.
 publishedAt: "2026-04-21"
 updatedAt: "2026-04-21"
 category: worth-it
 gameTitle: No Man's Sky
 platform: Nintendo Switch
-primaryPlatformKey: switch-1
+primaryPlatformKey: Nintendo Switch
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: true
 otherPlatformLabels:
@@ -31,7 +31,7 @@ priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 1
-listingTakeaway: Nintendo-Switch-1-Sandbox mit 83 Metacritic — Japan fällt wieder auf 13,07 €.
+listingTakeaway: Nintendo-Nintendo Switch-Sandbox mit 83 Metacritic — Japan fällt wieder auf 13,07 €.
 whatItIs: Weltraum-Sandbox für unterwegs — erkunden, craften, bauen, handeln, kämpfen.
 bestFor: Spieler, die ein portables Langzeit-Sandbox-Spiel wollen.
 avoidIf: Du willst straffe Führung, wenig Menüs oder direkt Koop als Kern.
@@ -58,7 +58,7 @@ timeCommitment: >-
   bei 156 Stunden. Das ist ein Dauer-Spiel, kein Wochenendhäppchen.
 playMode: Singleplayer auf Nintendo Switch.
 whyNow: >-
-  Die Nintendo-Switch-1-Zeile ist wieder am verfolgten Tief, dadurch bleibt vom
+  Die Nintendo-Nintendo-Switch-Preis ist wieder am verfolgten Tief, dadurch bleibt vom
   Warten kaum Argument übrig.
 currentDeal: >-
   Am 21. April 2026 setzt GameGulf Nintendo Switch Japan bei 13,07 € (-60 %) an
@@ -118,7 +118,7 @@ faq:
   - question: Lohnt sich No Man's Sky 2026 auf der Switch?
     answer: >-
       No Man's Sky lohnt sich 2026, wenn du Nintendo Switch meinst und die
-      Japan-Zeile für 13,07 € mitnehmen kannst, die GameGulf am 21. April 2026
+      Japan-Preis für 13,07 € mitnehmen kannst, die GameGulf am 21. April 2026
       zeigt.
   - question: Wie lang ist No Man's Sky?
     answer: >-
@@ -201,7 +201,7 @@ Das Spiel selbst trägt die Empfehlung. **83 Metacritic**, auf Steam **Very Posi
 | Portugal | EUR 49.99 | €49.99 |
 | Brasilien | EUR 50.29 | R$299.9 |
 
-Die Historie zählt genauso wie der aktuelle Preis. Die Nintendo-Switch-1-Analytics von GameGulf markieren **13,07 €** als **historischen Tiefstpreis**, passend zur Referenz vom **3. Juni 2025**. Im letzten verfolgten Jahr tauchen **sechs** **Rabatt**-Fenster auf, und der letzte größere Drop liegt **31 Tage** zurück. Das ist genug **Sale**- und **Rabatt**-Historie, um die aktuelle Zeile als echten Kaufzeitpunkt zu lesen und nicht als Zufallszucker. Andere Plattformen vergleichst du danach auf GameGulf selbst.
+Die Historie zählt genauso wie der aktuelle Preis. Die Nintendo-Nintendo Switch-Analytics von GameGulf markieren **13,07 €** als **historischen Tiefstpreis**, passend zur Referenz vom **3. Juni 2025**. Im letzten verfolgten Jahr tauchen **sechs** **Rabatt**-Fenster auf, und der letzte größere Drop liegt **31 Tage** zurück. Das ist genug **Sale**- und **Rabatt**-Historie, um die aktuelle Zeile als echten Kaufzeitpunkt zu lesen und nicht als Zufallszucker. Andere Plattformen vergleichst du danach auf GameGulf selbst.
 
 ## Was ist No Man's Sky eigentlich?
 
