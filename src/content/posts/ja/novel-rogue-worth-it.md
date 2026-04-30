@@ -113,15 +113,16 @@ cardPriceNativeCurrency: JPY
 faq:
   - question: 2026年、Switch版Novel Rogueは買うべき？
     answer: >-
-      Novel RogueはKEMCO系ピクセルデッキローグが好きなら買い候補——Metacritic前提なしで、まずデッキビルドとRun耐性が合うかを見る。
+      Novel
+      RogueはKEMCO系ピクセルデッキローグが好きなら買い候補——Metacritic前提なしで、まずデッキビルドとRun耐性が合うかを見る。
   - question: Novel Rogueのプレイ時間は？
     answer: Novel RogueはRun単位の複数晩想定——Ink周回で伸びる。
   - question: デッキRNGやInk周回がキツい場合は？
-    answer: >-
-      Novel Rogueはランダム攻略とInk強化の繰り返しが核——ガチャ気味な変動や周回ストレスが先に来るなら、設定ファンでも続きにくい。
+    answer: Novel Rogueはランダム攻略とInk強化の繰り返しが核——ガチャ気味な変動や周回ストレスが先に来るなら、設定ファンでも続きにくい。
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
+playtime: "目安: 1ラン約20–60分、反復で伸びる"
 ---
 ## クイック結論
 

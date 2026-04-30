@@ -38,7 +38,7 @@ listingTakeaway: >-
   Sonic Mania — Sonic 2D de elite ; índice 2026 acima da média promo vs. fundos
   antigos.
 whatItIs: Sonic 2D premium ; Sonic, Tails, Knuckles ; versus local e co-op.
-bestFor: "Ritmo Mega Drive, zonas novas e clássicos 2D bem feitos."
+bestFor: Ritmo Mega Drive, zonas novas e clássicos 2D bem feitos.
 avoidIf: Preferes mundo aberto 3D — aqui é corredor 2D.
 consensusPraise: ~86 Metacritic ; PC Steam muito positivo em escala.
 mainFriction: Skill-check tardio — actos finais castigam rotas desleixadas.
@@ -146,6 +146,7 @@ cardPriceRegion: Japão
 cardPrice: EUR 10.69
 cardPriceNative: ¥1,980
 cardPriceNativeCurrency: JPY
+playtime: ~6 h principal, 10 h extras, ~19 h 100%
 ---
 ## Veredito rápido
 

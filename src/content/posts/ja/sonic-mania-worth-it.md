@@ -123,6 +123,7 @@ cardPriceRegion: 日本
 cardPrice: JPY 2000
 cardPriceNative: ¥1,980
 cardPriceNativeCurrency: JPY
+playtime: メイン約6時間／追加約10時間／コンプ約19時間
 ---
 ## クイック判定
 

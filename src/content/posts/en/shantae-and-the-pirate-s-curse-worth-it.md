@@ -147,6 +147,7 @@ cardPriceRegion: Germany
 cardPrice: USD 18.99
 cardPriceNative: €16.22
 cardPriceNativeCurrency: EUR
+playtime: "Estimated: ~5–15 min runs; replay-driven"
 ---
 ## Quick verdict
 

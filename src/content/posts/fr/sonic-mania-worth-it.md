@@ -149,6 +149,7 @@ cardPriceRegion: Japon
 cardPrice: EUR 10.69
 cardPriceNative: ¥1,980
 cardPriceNativeCurrency: JPY
+playtime: ~6 h principale, 10 h extras, ~19 h complétion
 ---
 ## Verdict rapide
 

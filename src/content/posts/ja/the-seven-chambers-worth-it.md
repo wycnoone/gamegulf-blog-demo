@@ -122,6 +122,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513454845410940.jpeg
+playtime: "目安: メイン約3–8時間、追加約8–15時間"
 ---
 ## クイック結論
 

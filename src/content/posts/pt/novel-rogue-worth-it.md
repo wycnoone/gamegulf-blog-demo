@@ -117,8 +117,9 @@ cardPriceNativeCurrency: JPY
 faq:
   - question: Novel Rogue ainda vale no Switch em 2026?
     answer: >-
-      Novel Rogue ainda vale se você já curte o loop roguelite de deck pixel da KEMCO
-      — sem Metacritic útil, tolerância a RNG/Ink e afinco pelo loop importam mais que hype de trailer.
+      Novel Rogue ainda vale se você já curte o loop roguelite de deck pixel da
+      KEMCO — sem Metacritic útil, tolerância a RNG/Ink e afinco pelo loop
+      importam mais que hype de trailer.
   - question: Quanto tempo leva Novel Rogue?
     answer: Novel Rogue ocupa várias noites em runs — grind Ink prolonga.
   - question: E se RNG ou farm de Ink me esgotar?
@@ -128,6 +129,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
+playtime: "Estimativa: partidas de ~20–60 min, rejogável"
 ---
 ## Veredito rápido
 

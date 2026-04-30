@@ -149,6 +149,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515669520512845.jpeg
+playtime: "Estimated scope: 3–8h main · 8–15h extras"
 ---
 ## Quick verdict
 

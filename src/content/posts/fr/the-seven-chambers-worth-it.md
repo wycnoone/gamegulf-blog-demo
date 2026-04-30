@@ -149,6 +149,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513454845410940.jpeg
+playtime: "Estimation : ~3–8 h histoire, 8–15 h extras"
 ---
 ## Verdict rapide
 

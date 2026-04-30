@@ -115,17 +115,20 @@ cardPriceNativeCurrency: JPY
 faq:
   - question: ¿Novel Rogue merece la pena en Switch en 2026?
     answer: >-
-      Novel Rogue merece la pena si ya toleras el bucle roguelite de mazos pixel KEMCO
-      — sin Metacritic útil, cuenta más la tolerancia al RNG/Ink y las ganas de repetir runs.
+      Novel Rogue merece la pena si ya toleras el bucle roguelite de mazos pixel
+      KEMCO — sin Metacritic útil, cuenta más la tolerancia al RNG/Ink y las
+      ganas de repetir runs.
   - question: ¿Cuánto dura Novel Rogue?
     answer: Novel Rogue ocupa varias noches en runs — grind Ink lo alarga.
   - question: ¿Y si el RNG o farmear Ink me agota?
     answer: >-
-      Novel Rogue apuesta a rutas aleatorias y subidas de Ink — si la varianza o la
-      repetición te cansan antes que divertirte probando grimorios, mejor saltar.
+      Novel Rogue apuesta a rutas aleatorias y subidas de Ink — si la varianza o
+      la repetición te cansan antes que divertirte probando grimorios, mejor
+      saltar.
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
+playtime: "Estimación: partidas de ~20–60 min, rejugable"
 ---
 ## Veredicto rápido
 

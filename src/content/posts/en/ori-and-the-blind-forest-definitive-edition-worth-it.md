@@ -7,7 +7,7 @@ description: >-
 publishedAt: "2026-04-29"
 updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: Ori and the Blind Forest: Definitive Edition
+gameTitle: "Ori and the Blind Forest: Definitive Edition"
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch

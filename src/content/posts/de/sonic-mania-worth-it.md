@@ -147,6 +147,7 @@ cardPriceRegion: Japan
 cardPrice: EUR 10.69
 cardPriceNative: ¥1,980
 cardPriceNativeCurrency: JPY
+playtime: ~6 h Story, 10 h Extras, ~19 h 100 %
 ---
 ## Kurzurteil
 

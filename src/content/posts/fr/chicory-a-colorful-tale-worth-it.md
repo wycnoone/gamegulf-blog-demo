@@ -1,6 +1,9 @@
 ---
 title: "Faut-il acheter Chicory: A Colorful Tale sur Nintendo Switch en 2026&nbsp;?"
-description: "Mémo d’achat Switch (avril 2026)&nbsp;: Metacritic ~90, puzzles à pinceaux, coop locale, lignes régionales indexées GameGulf vs historiques de promo, fenêtre d’attente plausible."
+description: >-
+  Mémo d’achat Switch (avril 2026)&nbsp;: Metacritic ~90, puzzles à pinceaux,
+  coop locale, lignes régionales indexées GameGulf vs historiques de promo,
+  fenêtre d’attente plausible.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -11,14 +14,23 @@ primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 min lecture
-decision: La qualité et la BO restent évidentes, mais les lignes japonaises encore «&nbsp;headline bon marché&nbsp;» restent bien au‑dessus de la promo moyenne que GameGulf journalise depuis un an — mieux vaut prévoir un prix cible avant de passer en caisse.
-priceSignal: Cinq empreintes de baisse sur douze mois autour de ~€10,20 indexées, alors que l’instantané d’avril conserve une marge sur cette bande.
+decision: >-
+  La qualité et la BO restent évidentes, mais les lignes japonaises encore
+  «&nbsp;headline bon marché&nbsp;» restent bien au‑dessus de la promo moyenne
+  que GameGulf journalise depuis un an — mieux vaut prévoir un prix cible avant
+  de passer en caisse.
+priceSignal: >-
+  Cinq empreintes de baisse sur douze mois autour de ~€10,20 indexées, alors que
+  l’instantané d’avril conserve une marge sur cette bande.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price
 gameHref: https://www.gamegulf.com/detail/kKfeWM8ImWj
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: Metacritic 90
-heroNote: "Aventure pastel vue du dessus&nbsp;: capacities pinceaux façon metroid-lite, livraisons & photos, tenues, coop locale où un second joueur tient les surfaces."
+heroNote: >-
+  Aventure pastel vue du dessus&nbsp;: capacities pinceaux façon metroid-lite,
+  livraisons & photos, tenues, coop locale où un second joueur tient les
+  surfaces.
 badge: Attendez les promos
 verdict: wait_for_sale
 priceCall: wait
@@ -33,17 +45,32 @@ consensusPraise: BO (Lena Raine), tonalité empathique sur la pression créative
 mainFriction: aller-retour cartographiques si vous forcez tout le bac à tenues tard.
 timeFit: 9 h fil → ~13 h quêtes annexes → ~21 h si tout fermer costumes & photo.
 fitLabel: Pour tracer sans crainte des retours arrière ludiques tardifs.
-timingNote: relisez la grille régionale GameGulf avant paiement même si votre store affiche encore du MSRP européen.
+timingNote: >-
+  relisez la grille régionale GameGulf avant paiement même si votre store
+  affiche encore du MSRP européen.
 communityVibe: Peindre tous les arbres puis repartir cuisiner tranquillement
 reviewSignal: Metacritic 90
-takeaway: Chicory reste une évidence gustative&nbsp;; la vigilance prix se joue contre l’historique des promos GameGulf, pas contre la qualité.
-playStyle: Aventure & puzzle à pinceau, combats légers, collectibles mode décontracté, coop locale deux stylos.
+takeaway: >-
+  Chicory reste une évidence gustative&nbsp;; la vigilance prix se joue contre
+  l’historique des promos GameGulf, pas contre la qualité.
+playStyle: >-
+  Aventure & puzzle à pinceau, combats légers, collectibles mode décontracté,
+  coop locale deux stylos.
 timeCommitment: sessions longues facultatives jusqu’aux collecteurs — la base reste courte.
 playMode: solo ou duo local sur même écran commun.
-whyNow: le débat technique est clos — seule la valeur «&nbsp;eShop aujourd’hui&nbsp;» peut encore bloquer quelqu’un.
-currentDeal: "avril&nbsp;2026&nbsp;: le Japon conduit les lignes avant les paliers ~€18,99 en zone euro hors promo."
-nearHistoricalLow: "Ce n’est pas le plus bas observé&nbsp;: lignes japonaises ~€7,94 le 2025‑08‑18 et brésiliennes ~€8,03 le 2025‑12‑22 selon données indexées contre ~€15,88 côté Japon snapshot actuel."
-salePattern: cinq baisses notables/an, moyenne promo ~€10,20 — dernière chute forte repérée au Brésil autour du 2025‑12‑22.
+whyNow: >-
+  le débat technique est clos — seule la valeur «&nbsp;eShop aujourd’hui&nbsp;»
+  peut encore bloquer quelqu’un.
+currentDeal: >-
+  avril&nbsp;2026&nbsp;: le Japon conduit les lignes avant les paliers ~€18,99
+  en zone euro hors promo.
+nearHistoricalLow: >-
+  Ce n’est pas le plus bas observé&nbsp;: lignes japonaises ~€7,94 le 2025‑08‑18
+  et brésiliennes ~€8,03 le 2025‑12‑22 selon données indexées contre ~€15,88
+  côté Japon snapshot actuel.
+salePattern: >-
+  cinq baisses notables/an, moyenne promo ~€10,20 — dernière chute forte repérée
+  au Brésil autour du 2025‑12‑22.
 priceRecommendation: wait
 quickFilters:
   - short_sessions
@@ -64,15 +91,27 @@ playerVoices:
   - quote: Retours tenues tardifs si vous chassez 100&nbsp;% vite.
     sentiment: mixed
 heroTheme: brand
-coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512148204614504.jpeg
-tldr: "Chicory: A Colorful Tale reste un hit Metacritic ~90 — mieux temporiser tant que vos lignes restent hors promo GameGulf."
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512148204614504.jpeg
+tldr: >-
+  Chicory: A Colorful Tale reste un hit Metacritic ~90 — mieux temporiser tant
+  que vos lignes restent hors promo GameGulf.
 faq:
   - question: Est-ce Chicory mérite encore un achat Switch en 2026 ?
-    answer: "Chicory: A Colorful Tale se justifie quand vous voulez explorer pression créative & puzzles peints&nbsp;; passez votre chemin si seule la twitch plateform vous intéresse. Le tableau GameGulf reste l’alarme prix."
+    answer: >-
+      Chicory: A Colorful Tale se justifie quand vous voulez explorer pression
+      créative & puzzles peints&nbsp;; passez votre chemin si seule la twitch
+      plateform vous intéresse. Le tableau GameGulf reste l’alarme prix.
   - question: Combien de temps prend Chicory environ&nbsp;?
-    answer: "Chicory: A Colorful Tale se boucle vite en ~9 h tenues serrées, ~13 h si vous poursuivez mails & vignettes annexes et plus de 20 h lorsque wardrobes + photos absorbent tout le rythme."
+    answer: >-
+      Chicory: A Colorful Tale se boucle vite en ~9 h tenues serrées, ~13 h si
+      vous poursuivez mails & vignettes annexes et plus de 20 h lorsque
+      wardrobes + photos absorbent tout le rythme.
   - question: Qu’est-ce qui peut agacer avant d’acheter Chicory&nbsp;?
-    answer: "Chicory: A Colorful Tale rabat souvent vos pas sur anciennes parcelles après déblocage pinceaux — les retours fatiguent si vous n’aimez que les lignes rectilignes jusqu’ending."
+    answer: >-
+      Chicory: A Colorful Tale rabat souvent vos pas sur anciennes parcelles
+      après déblocage pinceaux — les retours fatiguent si vous n’aimez que les
+      lignes rectilignes jusqu’ending.
 priceRows:
   - regionCode: JP
     eurPrice: 15.88
@@ -112,6 +151,7 @@ cardPriceRegion: Japon
 cardPrice: EUR 15.88
 cardPriceNative: ¥2940
 cardPriceNativeCurrency: JPY
+playtime: ~9 h principale, 13 h extras, ~21 h complétion
 ---
 
 

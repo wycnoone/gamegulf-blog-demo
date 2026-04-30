@@ -1,8 +1,8 @@
 ---
 title: Shantae and the Pirate's Curse sur Switch en 2026 — pour qui ?
 description: >-
-  Mémo avril 2026 : plateforme WayForward ~86 Metacritic, boucle Pirate Gear,
-  et historique GameGulf (bas ~8,11 € en ES, 2025-11-17).
+  Mémo avril 2026 : plateforme WayForward ~86 Metacritic, boucle Pirate Gear, et
+  historique GameGulf (bas ~8,11 € en ES, 2025-11-17).
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -22,18 +22,16 @@ priceTrackHref: https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price
 gameHref: https://www.gamegulf.com/detail/2FXuQLdeecV
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: 86 Metacritic
-heroNote: >-
-  Action/plates-formes WayForward ; gadgets pirates ; ~86 Metacritic Switch.
+heroNote: Action/plates-formes WayForward ; gadgets pirates ; ~86 Metacritic Switch.
 badge: Bon pour le bon joueur
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  Chapitre pirate Shantae ; GameGulf ~16,22 € vs bas ~8,11 € (ES).
+listingTakeaway: Chapitre pirate Shantae ; GameGulf ~16,22 € vs bas ~8,11 € (ES).
 whatItIs: "Plateforme 2D : fouet cheveux + pistolet, sabre, chapeau, saut canon."
-bestFor: "Fans de plateformes colorées et animation soignée."
+bestFor: Fans de plateformes colorées et animation soignée.
 avoidIf: Vous haïssez le retour arrière pour calamars cœur.
 consensusPraise: ~86 Metacritic ; Steam très positif mais échantillon plus petit.
 mainFriction: Oublis de collecte = allers-retours plus tard.
@@ -42,8 +40,7 @@ fitLabel: Comparez étiquette euro à l'historique promo GameGulf.
 timingNote: Si déjà proche d'un bon palier, le goût tranche.
 communityVibe: Série culte WayForward — animation et OST souvent louées
 reviewSignal: 86 Metacritic
-takeaway: >-
-  Qualité évidente pour les bons goûts ; timing = courbe GameGulf.
+takeaway: Qualité évidente pour les bons goûts ; timing = courbe GameGulf.
 playStyle: Action, Adventure, Platformer
 timeCommitment: Sessions courtes possibles entre donjons.
 playMode: Solo aventure (coop selon fiche).
@@ -51,8 +48,8 @@ whyNow: Trois baisses suivies sur 1 an — courbe lisible.
 currentDeal: Tête de tableau souvent en euros — vérifiez la devise native.
 nearHistoricalLow: Loin du bas ~8,11 € espagnol ; prix catalogue probable.
 salePattern: >-
-  Trois baisses / an indexées ; bas global ~8,11 € (ES, 2025-11-17) ; promo
-  moy. ~10,45 € ; dernière forte baisse ~9,73 € (FR, 2025-12-31).
+  Trois baisses / an indexées ; bas global ~8,11 € (ES, 2025-11-17) ; promo moy.
+  ~10,45 € ; dernière forte baisse ~9,73 € (FR, 2025-12-31).
 priceRecommendation: watch
 quickFilters:
   - short_sessions
@@ -79,13 +76,15 @@ communityMemes:
   - danse flex
   - minuteur promo
 tldr: >-
-  Shantae and the Pirate's Curse — ~86 Metacritic ; GameGulf dit de surveiller les promos.
+  Shantae and the Pirate's Curse — ~86 Metacritic ; GameGulf dit de surveiller
+  les promos.
 faq:
   - question: Shantae and the Pirate's Curse vaut-il le coup en 2026 ?
     answer: >-
       Shantae and the Pirate's Curse vaut encore le coup en 2026 si vous voulez
       du WayForward platformer avec gadgets pirates et ~86 Metacritic — mais
-      GameGulf montre des bas ~8,11 € passés face à des lignes ~16,22 € aujourd'hui.
+      GameGulf montre des bas ~8,11 € passés face à des lignes ~16,22 €
+      aujourd'hui.
   - question: Quelle durée ?
     answer: >-
       Shantae and the Pirate's Curse — un week-end pour l'histoire ; cartes et
@@ -97,6 +96,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
+playtime: "Estimation : runs de ~5–15 min, rejouabilité élevée"
 ---
 ## Verdict rapide
 

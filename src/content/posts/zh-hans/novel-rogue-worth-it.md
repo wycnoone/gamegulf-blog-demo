@@ -113,16 +113,16 @@ cardPriceNativeCurrency: JPY
 faq:
   - question: 2026 年《Novel Rogue》还值得在 Switch 上买吗？
     answer: >-
-      《Novel Rogue》适合想在 Switch 上反复开局刷 KEMCO 像素卡组肉鸽、能接受构筑随机性的人——这里没有可靠的 Metacritic
-      汇总分，更像对口与否的问题。
+      《Novel Rogue》适合想在 Switch 上反复开局刷 KEMCO 像素卡组肉鸽、能接受构筑随机性的人——这里没有可靠的
+      Metacritic 汇总分，更像对口与否的问题。
   - question: 《Novel Rogue》大概多长？
     answer: 《Novel Rogue》偏多局短线 RPG——若不抄攻略自行摸索 Ink，时间会拉长。
   - question: 卡组随机或 Ink 周回让我烦躁怎么办？
-    answer: >-
-      《Novel Rogue》主打随机路线与墨水强化周回——若这比构筑乐趣更折磨你，叙事设定再有趣也未必玩得下去。
+    answer: 《Novel Rogue》主打随机路线与墨水强化周回——若这比构筑乐趣更折磨你，叙事设定再有趣也未必玩得下去。
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
+playtime: 预估：单局约20–60分钟，靠反复游玩延长
 ---
 ## 快速结论
 

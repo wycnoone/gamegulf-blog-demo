@@ -133,6 +133,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515669520512845.jpeg
+playtime: "Estimativa: ~3–8 h campanha, 8–15 h extras"
 ---
 ## Veredito rápido
 

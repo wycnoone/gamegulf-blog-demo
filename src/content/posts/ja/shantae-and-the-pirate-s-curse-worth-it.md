@@ -13,24 +13,21 @@ primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: true
 author: GameGulf Editorial AI
 readingTime: 7 分
-decision: >-
-  WayForward好きなら名作枠。ただし欧州€16.22帯が多く、深いセールまでGameGulfで監視が安全。
+decision: WayForward好きなら名作枠。ただし欧州€16.22帯が多く、深いセールまでGameGulfで監視が安全。
 priceSignal: スペインで2025-11-17付近に~€8.11、現行は€16.22級が並びがち。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price
 gameHref: https://www.gamegulf.com/detail/2FXuQLdeecV
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: Metacritic 86前後
-heroNote: >-
-  シャンティと海賊の呪い — アクションADV／海賊道具でロック解除；Switchレビュー帯は約86。
+heroNote: シャンティと海賊の呪い — アクションADV／海賊道具でロック解除；Switchレビュー帯は約86。
 badge: 好みが合う人向け
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  海賊チャプター；GameGulf：€16.22帯 vs 追跡最安~€8.11（ES）。
+listingTakeaway: 海賊チャプター；GameGulf：€16.22帯 vs 追跡最安~€8.11（ES）。
 whatItIs: 髪叩き戦闘＋海賊ギア（銃・刀・帽子・大砲）で島迷宫を攻略する2Dアクション。
 bestFor: ドット絵とテンポ良いマップ探索が好きな人。
 avoidIf: ハートイカの周回集めが苦痛。
@@ -74,22 +71,22 @@ communityMemes:
   - 島チェックリスト地獄
   - ダンス自慢
   - セール時計
-tldr: >-
-  シャンティと海賊の呪い — MC約86の佳作。GameGulfはセール監視を推す。
+tldr: シャンティと海賊の呪い — MC約86の佳作。GameGulfはセール監視を推す。
 faq:
   - question: 2026年、Switch版は買い？
     answer: >-
       シャンティと海賊の呪いは2026年も、WayForward流の海賊ギア2DとMetacritic約86を求めるなら買い候補。
       ただGameGulfは~€8.11級の深い安値があったことを示し、今の€16.22帯は待ち／アラート向き。
   - question: ボリュームは？
-    answer: >-
-      シャンティと海賊の呪い — 本編は週末想定。マップ／イカ回収でさらに伸びる。
+    answer: シャンティと海賊の呪い — 本編は週末想定。マップ／イカ回収でさらに伸びる。
   - question: 価格比較はどこ？
     answer: >-
-      シャンティと海賊の呪い — https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price の表で比較。
+      シャンティと海賊の呪い — https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price
+      の表で比較。
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
+playtime: "目安: 1ラン約5–15分、反復で伸びる"
 ---
 ## クイック判定
 

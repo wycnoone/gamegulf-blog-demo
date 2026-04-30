@@ -168,6 +168,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512148204614504.jpeg
+playtime: 9h main · 13h+ extras · ~21h completionist
 ---
 ## Quick verdict
 

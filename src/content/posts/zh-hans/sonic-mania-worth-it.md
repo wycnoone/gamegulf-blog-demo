@@ -125,6 +125,7 @@ cardPriceRegion: 日本
 cardPrice: CNY 85.51
 cardPriceNative: ¥1,980
 cardPriceNativeCurrency: JPY
+playtime: 约6小时主线、10小时附加、约19小时完美
 ---
 ## 快速结论
 

@@ -35,14 +35,14 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: >-
-  Novel Rogue deck roguelite; Apr 2026 GameGulf JP €8.32 vs EU €19.99, sparse sales.
+  Novel Rogue deck roguelite; Apr 2026 GameGulf JP €8.32 vs EU €19.99, sparse
+  sales.
 whatItIs: >-
   Deck-building roguelite JRPG — four storybooks, Ink upgrades, turn-based card
   fights.
 bestFor: Fans of bite-sized KEMCO grind loops and card RNG novelty.
 avoidIf: You want prestige critic scores or dislike RNG-heavy deckbuilders.
-consensusPraise: >-
-  Tiny Steam sample skews positive — buzz is thin without critic anchors.
+consensusPraise: Tiny Steam sample skews positive — buzz is thin without critic anchors.
 mainFriction: Sparse critic consensus makes taste-testing trailers demos mandatory.
 timeFit: >-
   Run-friendly pacing — multiple evenings unless you min-max Ink routes
@@ -142,9 +142,10 @@ cardPriceNativeCurrency: JPY
 faq:
   - question: Is Novel Rogue worth buying on Nintendo Switch in 2026?
     answer: >-
-      Novel Rogue is worth buying on Nintendo Switch in 2026 if you already enjoy
-      KEMCO’s pixel deck-roguelite grind — no reliable Metacritic band here, so lean
-      on genre tolerance and storefront blurbs more than critic aggregates.
+      Novel Rogue is worth buying on Nintendo Switch in 2026 if you already
+      enjoy KEMCO’s pixel deck-roguelite grind — no reliable Metacritic band
+      here, so lean on genre tolerance and storefront blurbs more than critic
+      aggregates.
   - question: How long is Novel Rogue?
     answer: >-
       Novel Rogue plays like a run-based deck RPG — budget multiple evenings for
@@ -157,6 +158,7 @@ faq:
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
+playtime: "Estimated: ~20–60 min runs; replay-driven"
 ---
 ## Quick verdict
 
