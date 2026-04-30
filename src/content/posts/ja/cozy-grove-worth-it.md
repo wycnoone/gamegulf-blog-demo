@@ -1,195 +1,188 @@
 ---
-title: 2026年、Nintendo Switchで『Cozy Grove』は買い？
-description: 2026年4月Nintendo Switch购买参考：Cozy Grove、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: 2026年版『Cozy Grove』はNintendo Switchで買うべき？値段・セール歴で判断する
+description: >-
+  GameGulfのインデックス価格、過去1年のセール波形、過去値（JPで約€3.94のレコード）といったデータをもとに、
+  「毎日起きる灵异キャンプ生活シム」への課金タイミングを整理する。
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: Cozy Grove
 platform: Nintendo Switch
-primaryPlatformKey: switch 1
-primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
 author: GameGulf Editorial AI
-readingTime: 読了約7分
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price
-gameHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5
-membershipHref: https://www.gamegulf.com/pricing
-heroStat: Metacritic 71点台
-heroNote: Cozy Grove：Adventure, Lifestyle, Puzzle, Simulation, Role-playing；Spry Fox。
-badge: セール待ち
+readingTime: 約8分
+decision: >-
+  Cozy Grove は Metacritic 約71 の癒やし枠だけど、インデックス上のディスカウント平均（約€5.24）より高い shelf
+  に留まっていることがまだある。 日米の赤タグほど強くない自分の行なら、アラート待ちが妥当。
+priceSignal: >-
+  Switch デジタルの追跡では昨年〜今年で「7」のセール脈があり、値引き発生時の平均は約 €5.24。 日本インデックスはおよそ
+  €7.99、USの33％割引換算では約 €8.55、トレンド上の過去最低点は JP で 2026-03-25 付近の約 €3.94。
+heroStat: Metacritic 約71点
+heroNote: 手書き質感のアイランド＋リアルタイム同期。評価軸は雰囲気立てと丁寧さ、後半ループの単調さは好みで分岐。
+badge: セールで狙うのが妥当
 verdict: wait_for_sale
 priceCall: wait
 confidence: medium
 actionBucket: wait
-featuredPriority: 2
-listingTakeaway: >-
-  Cozy Grove：Adventure, Lifestyle, Puzzle, Simulation,
-  Role-playing；2026年4月价格分区差值得先对照 GameGulf。
-whatItIs: >-
-  Adventure, Lifestyle, Puzzle, Simulation, Role-playing — Cozy Grove on
-  Nintendo Switch.
-bestFor: 想要Adventure, Lifestyle, Puzzle, Simulation, Role-playing且接受…
-avoidIf: 不喜欢Adventure, Lifestyle, Puzzle, Simulation, Role-playing气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；Metacritic 71点台 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: Metacritic 71点台
-takeaway: Cozy Grove 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Adventure, Lifestyle, Puzzle, Simulation, Role-playing
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 7 次促销波动——折扣是常态。
+featuredPriority: 1
+listingTakeaway: メタ評価だけじゃなく、記録済みdiscount平均と並べられるかが買いの鍵／Cozy Grove向け。
+whatItIs: 魂スカウト式のゆるハント生活シム。日々のクエスト、アイデコや釣り、季節越しキャンプ。
+bestFor: 十数分だけ触るベッドサイド嗜好の人／週末一気クリア欲求は低い側。
+avoidIf: デイリーカップ耐性がなく、クエストログが増えるとすぐムカつくタイプなら不向き。
+consensusPraise: ランタンともりの空気、アートワークの温度差には定評。
+mainFriction: 中盤以降でも「フェッチ感」にもう一段粘れるかどうかで印象が二分。
+timeFit: 設計としては複数月単位〜本筋だけでもだいたい40h前後の印象。
+fitLabel: 競技ランクよりログイン習慣を大事にできる人ほど着地が良い。
+timingNote: いま自分の Nintendo アカウントがどのEUR換算ステージに載っているかだけはGameGulfで確認。
+communityVibe: ランタン一つ増やして今日は終わろう、な夜に刺さる
+playtime: 本編系 ~40h 目安／日課運用すると数ヶ月化
+reviewSignal: Metacritic 約71点
+takeaway: 「癒やし」だけでスクロールしないで、インデックス化された過去saleとセットで読むゲーム／Cozy Grove視点。
+playStyle: 魂さんたちのクエストチェーン／釣り・クラフト・アイキャンプのアップサイクル。
+timeCommitment: 突貫ウィークより数ヶ月スパンのコツコツ型タイプミスマッチになりやすい。
+playMode: シングルでの島ルーティン／カレンダーリズム依存。オンライン協力レイド構成は売りではない。
+whyNow: 単純には「売り」の波が複数あったが、すべてのタイミングが底値級というわけではない。
+currentDeal: インデックス最安〜は日本行（現状€7.99級）。US側は資料上33％割引換算〜€8.55。
+nearHistoricalLow: 追跡上の過去より深い側は JP ベースで 2026-03-25 付に約 €3.94 のトレンド点がログされている。
+salePattern: 直近〜1年に「7」のディスカウント区間ログ。赤字タグがある時の換算値はおよそ €5.24 が基準になりやすい。
 priceRecommendation: wait
 quickFilters:
-  - great_on_sale
   - short_sessions
+  - great_on_sale
 playerNeeds:
-  - value_for_money
+  - cozy
+  - casual
   - wait_for_sale
 tags:
-  - cozy grove nintendo switch
-  - cozy grove worth it
-  - cozy grove price
-  - gamegulf deals
+  - Cozy Grove Switch 評価
+  - Cozy Grove セール歴
+  - Switch ゆるゲー インディー 比較 GameGulf
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Switchを枕元に挟んでログインするだけで一日の頭のノイズが落ちる
     sentiment: positive
-  - quote: 深度折扣才值。
-    sentiment: mixed
-  - quote: 購入前に自分のリージョンの価格を確認してください。
+  - quote: 魂さんたちのドラマには間を空けるほど噛める。焦らなくていいタイプだけど。
     sentiment: positive
+  - quote: がっつり一気読みタイプとしてはクエスト頭打ちがあるとむかつく
+    sentiment: negative
 communityMemes:
-  - Cozy Grove sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Cozy Grove — Metacritic 71点台；价格信号偏等折扣。
+  - ランタンの灯り増し隊
+  - クエスト増えて怖い島
+  - チェックリスト脳問題
+  - 魂たちのカウンター待ち時間
+  - ゆるゆるだけどゆるゆるじゃない
+  - 睡眠前ルーティンの代用品
+tldr: >-
+  Cozy Grove は相変わらず Metacritic 約71のアート方向性で買えるが、インデックス上の過去sale平均と離れた shelf
+  でも落ちずに買うのはむずいので、自分のレジストリの数字をGameGulfで並べられてからにするのが無難。
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price
+gameHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513498997210267.jpeg
+heroTheme: brand
+faq:
+  - question: 『Cozy Grove』はSwitchで今買っても大丈夫？
+    answer: >-
+      Cozy Grove は自分の行がインデックス上ディスカウント帯または赤タグ済み〜なら納得感が出やすい。EUR
+      €13.99級の単紙なら、アラート推奨。
+  - question: 『Cozy Grove』の時間の使いどころってどれくらい？
+    answer: >-
+      Cozy Grove
+      は「毎日夜に15分」を前提に複数月広げる構成。総投下時間だけ見ると〜40時間規模とも言われるが、プレイログは細切れになりやすい。
+  - question: Switch版『Cozy Grove』動作は大丈夫？
+    answer: Cozy Grove はアート寄りゆえ負荷は軽め。話題になりやすいのはインベントリとメニュー往復であり、処理落ちだけで避けるタイプよりUI耐性の話。
+  - question: ディスカウント待ちすべきタイミングがある？『Cozy Grove』
+    answer: >-
+      Cozy Grove は追跡上のインデックス平均ディスカウント価値がおよそ
+      €5.24。またJPで過去にもっと値段が落ちていたレコードがある（一例：2026-03-25 付近〜€3.94）。自分のロックリージョンの live
+      値をゲームサイトのログと突き合わせて確認してね。 もっと細かくは gamegulf.com/detail/1ZWE4WIpTp5 。
+  - question: 『Cozy Grove』ほか区域の売値を並べられるところは？
+    answer: Cozy Grove はGameGulfのクロスインデックスで一次チェックすると迷子になりにくい。過去ログとウィッシュリストのループがセット。
 priceRows:
-  - regionCode: GB
-    eurPrice: 6.1
-    nativePrice: £10.99
-    nativeCurrency: GBP
-  - regionCode: DE
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: ES
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: FR
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: IT
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
   - regionCode: JP
     eurPrice: 7.99
     nativePrice: ¥1,480
     nativeCurrency: JPY
+  - regionCode: US
+    eurPrice: 8.55
+    nativePrice: $14.99
+    nativeCurrency: USD
   - regionCode: HK
     eurPrice: 10.81
     nativePrice: HK$99
     nativeCurrency: HKD
-cardPriceEur: 6.1
-cardPriceRegionCode: GB
-cardPriceRegion: イギリス
-cardPrice: JPY 1142
-cardPriceNative: £10.99
-cardPriceNativeCurrency: GBP
-faq:
-  - question: 2026年、Nintendo Switchで『Cozy Grove』は買い？
-    answer: >-
-      Cozy Grove 是否值得买取决于你是否喜欢Adventure, Lifestyle, Puzzle, Simulation,
-      Role-playing，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Cozy Grove?
-    answer: >-
-      Cozy Grove — treat runtime as store-listed scope; verify patch notes if
-      you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Cozy Grove — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513498997210267.jpeg
+  - regionCode: GB
+    eurPrice: 12.63
+    nativePrice: £10.99
+    nativeCurrency: GBP
+  - regionCode: BR
+    eurPrice: 13.41
+    nativePrice: R$79.99
+    nativeCurrency: BRL
+  - regionCode: DE
+    eurPrice: 13.99
+    nativePrice: €13.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 13.99
+    nativePrice: €13.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 13.99
+    nativePrice: €13.99
+    nativeCurrency: EUR
+cardPriceEur: 7.99
+cardPriceRegionCode: JP
+cardPriceRegion: 日本
+cardPrice: JPY 1495
+cardPriceNative: ¥1,480
+cardPriceNativeCurrency: JPY
 ---
-## 結論
 
-**Cozy Grove** reads as **Metacritic 71点台**  — **Adventure, Lifestyle, Puzzle** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+## 早見結論
 
-**セール**履歴：**最安値**は **€7.99** 付近（JP）、直近1年で **7** 回の動き、**平均セール価格**は **€5.24**、直近の大きめの動きから **27** 日（**2026-03-25 (Japan, €3.94)**）。[GameGulfの価格](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)で最新行を確認してください。
+**Cozy Grove** は **Metacritic 約71の癒やし枠**だが、「今いくら」は **インデックス上の過去discount平均（約 €5.24）** と **historical low**（一例：JPで2026-03-25付近〜€3.94）を照合しないとフェアじゃない。いまログで見えるのは JP **€7.99級** と **US側の〜€8.55（資料上・33％割引換算レンジの話）**。まずは **[GameGulfのクロスチェックページ](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)** を開いたうえで、**gamegulf に載った数値ともう一度付き合う**ことを勧める。
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price) so you can sanity-check the **discount** story before checkout.
+自分のロックリージョンが **Euro〜€13.99帯単紙**だったら、そのまま突っ込むより**セール・アラート**を先決にしてしまった方が、後悔指数は下げやすい。
 
-## 『Cozy Grove』はNintendo Switchでいまいくら？
+## Nintendo Switch版『Cozy Grove』／いくら前提で見る？
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**discount** と **sale** と **インデックス上の過去ログ** が全部噛み合っているわけじゃなく、ときどき単紙が残る。その意味で、[GameGulfのマルチインデックス](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)に沿わない体感コメントほどズレやすい。こういう **historical pricing** と **Euroのライン** と **自分のロックリージョン** を足し算しないとフェア評価は始まらない。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| イギリス | JPY 1140 | £10.99 |
-| ドイツ | JPY 1263 | €13.99 |
-| スペイン | JPY 1263 | €13.99 |
-| フランス | JPY 1263 | €13.99 |
-| イタリア | JPY 1263 | €13.99 |
-| ポルトガル | JPY 1263 | €13.99 |
-| 日本 | JPY 1493 | ¥1,480 |
-| 香港 | JPY 2019 | HK$99 |
+| 日本 | JPY 1495 | ¥1,480 |
+| アメリカ合衆国 | JPY 1599 | $14.99 |
+| 香港 | JPY 2022 | HK$99 |
+| イギリス | JPY 2362 | £10.99 |
+| ブラジル | JPY 2508 | R$79.99 |
+| ドイツ | JPY 2617 | €13.99 |
+| スペイン | JPY 2617 | €13.99 |
+| フランス | JPY 2617 | €13.99 |
 
-## 『Cozy Grove』はどんなゲーム？
+## 「Cozy Grove」ってどんなゲーム？
 
-**Cozy Grove** is a **Adventure, Lifestyle, Puzzle** package from **Spry Fox** — treat the long store blurb as marketing, but the **genre mix** and **Metacritic 71点台** signal are the real buying compass.
+**ハンドドロウ寄りゆるラン・シム**：魂さんクエストチェーン、アイキャンプでの装飾、釣り、クラフト。**40h＋級**と公式コピーの数字はあるものの構造は複数月ログイン設計であり、ひとりでオンラレイドを張る構成ではなく、ゆるゆるチェックリスト。
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+## Switchでどんな体感？
 
-## 『Cozy Grove』のNintendo Switch動作は？
+**共通プレイヤー談ログ**側は「処理落ち」より「リストUIとインベ」「タップ反復」の話が増え気味。**TVモードでも携帯モードでも**スペック地獄になりにくく、問題は耐性。
 
-**Cozy Grove** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## それでも『今』買っていい人
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+- JPまたはUS側の自分のロックリージョンの **ゲームサイトのEUR換算ログ** が **€7.99級や€8.55級でも十分許容**。かつ自分は **ゆるゆるチェックリスト系** が好み。
+- **Metacritic約71級** が示すゆるゆる側の質感だけで動くプレイヤー。
+- 「毎日夜に15分」を割り切れる。
 
-## いま買うなら
+## いったんウェイト側に倒したい場合
 
-- You want **Adventure, Lifestyle, Puzzle** pacing and the **Metacritic 71点台** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- 単紙 **Euro〜€13.99帯**。その一方でログ上過去sale平均はおよそ €5.24 とかいうとき。
+- とにかく「毎ゲーム即座にクリア」したい側で、クエスト頭打ちにイライラしやすい。
+- とにかく **GameGulfのウィッシュリスト** に投げられるなら自分で相場チェックしない日が減る。
 
-## 待つなら
+## クロージング
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Adventure, Lifestyle, Puzzle) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+**Cozy Grove** と **過去ログ** が **gamegulf.com/detail/1ZWE4WIpTp5** に並んでいて初めて、今日の自分のロックリージョンで「買い」になり得る。**gamegulf** のワークフローだけで自分のロックリージョンだけをEUR一本で済ませないこと、**ウィッシュリスト** を付けられるなら自分で相場を忘れずに済ませられる。
 
-## 『Cozy Grove』(Nintendo Switch)の最後に
-
-**Cozy Grove** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+最後にもう一度：**GameGulf** のマルチインデックスと **gamegulf.com** の過去記録を踏まえたうえで、今のスイッチの赤タグと照合してから買い判断しよう。

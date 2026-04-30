@@ -11,8 +11,9 @@ interface Props {
 }
 
 const { cards, locale } = Astro.props;
-const featured = cards.slice(0, Math.min(2, cards.length));
-const grid = cards.slice(featured.length);
+const featured = cards.filter((card) => card.featuredPriority < 999).slice(0, 2);
+const featuredIds = new Set(featured.map((card) => card.id));
+const grid = cards.filter((card) => !featuredIds.has(card.id));
 ---
 
 {cards.length === 0 ? (
@@ -21,19 +22,21 @@ const grid = cards.slice(featured.length);
   </div>
 ) : (
   <>
-    <section class="decision-featured-section section-block">
-      <div class="section-head">
-        <div>
-          <h2>{t(locale, 'topic.topPicks')}</h2>
-          <p>{t(locale, 'topic.topPicksDesc')}</p>
+    {featured.length > 0 && (
+      <section class="decision-featured-section section-block">
+        <div class="section-head">
+          <div>
+            <h2>{t(locale, 'topic.topPicks')}</h2>
+            <p>{t(locale, 'topic.topPicksDesc')}</p>
+          </div>
         </div>
-      </div>
-      <div class="decision-featured-grid-v2">
-        {featured.map((card) => (
-          <DecisionFeaturedCardStatic card={card} />
-        ))}
-      </div>
-    </section>
+        <div class="decision-featured-grid-v2">
+          {featured.map((card) => (
+            <DecisionFeaturedCardStatic card={card} />
+          ))}
+        </div>
+      </section>
+    )}
 
     {grid.length > 0 && (
       <section class="decision-grid-section section-block">

@@ -1,32 +1,30 @@
 ---
 title: "Is Shovel Knight: Treasure Trove worth buying on Nintendo Switch in 2026?"
 description: >-
-  April 2026 Nintendo Switch guide for Shovel Knight: Treasure Trove — 91
-  Metacritic, GameGulf sale analytics, and a clear buy/wait call.
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+  Switch buying memo for Shovel Knight: Treasure Trove — Japan-led April 2026
+  eShop indexing vs tracked all-time lows, Metacritic 91 pedigree, coop and
+  Showdown modes, compile length, and when to checkout on GameGulf.
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: "Shovel Knight: Treasure Trove"
+gameTitle: Shovel Knight Treasure Trove
 platform: Nintendo Switch
-primaryPlatformKey: switch 1
+primaryPlatformKey: switch-1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 7 min read
+readingTime: 8 min read
 decision: >-
-  Buy now if the pitch fits and your GameGulf row shows the promo band; wait if
-  MSRP-only regions are your only option.
+  Buy-on-fit: Shovel Knight is a stacked Metacritic 91 anthology — and tracked
+  data still anchors Japan near the €11.67 all‑time row from March 2026.
 priceSignal: >-
-  Indexed pricing highlights the global low row versus MSRP tiers — huge spread
-  is common on this SKU.
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price
-gameHref: https://www.gamegulf.com/detail/fppDS0HCLd8
-membershipHref: https://www.gamegulf.com/pricing
+  Regional spread swings from JP’s tracked floor to €39.99-class EU/US list
+  tiers — your account storefront matters more than hoping for mystery new lows.
 heroStat: 91 Metacritic
 heroNote: >-
-  Shovel Knight: Treasure Trove — Action, Adventure, Platformer; Yacht Club
-  Games; store pitch vs. critic band (91 Metacritic).
+  Treasure Trove bundles Shovel of Hope plus Specter / Plague / King campaigns,
+  Shovel Knight Showdown, challenge tower, coop Shovel of Hope, and Body Swap —
+  chunky retro platform pedigree with authored boss gauntlets.
 badge: Buy now
 verdict: buy_now
 priceCall: buy
@@ -34,69 +32,117 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  Shovel Knight: Treasure Trove — Action, Adventure, Platformer; April 2026
-  GameGulf pricing show…
+  91 Metacritic anthology; JP ~€11.67 tracked ATL band — buy on fit vs
+  list-heavy rows.
 whatItIs: >-
-  Action, Adventure, Platformer — Shovel Knight: Treasure Trove on Nintendo
-  Switch.
-bestFor: Players who want Action, Adventure, Platformer with honest …
-avoidIf: You want a different genre mix than Action, Adventure, Platformer — ski…
+  Retro platform anthology: co-op Shovel runs, showdown arena, campaign DLC movesets.
+bestFor: Players craving anthology twitch plus couch showdown nights.
+avoidIf: You dislike precision jumps, retracing hubs, or 8‑bit pacing by design.
 consensusPraise: >-
-  Critic band (91 Metacritic) plus store-featured strengths players repeat in
-  revie…
-mainFriction: Genre fatigue or sale FOMO — not every region shows the same promo at once.
-timeFit: Runtime fits evenings, not months.
-fitLabel: Buyers who compare two regions before checkout.
+  Tight Shovel Blade combat, inventive boss arenas, Yacht Club-era polish
+  sticks.
+mainFriction: Later campaigns demand new movement verbs — mastery curve jumps between arcs.
+timeFit: '~12h Shovel arc first; anthology clears often pass 35h+ extras.'
+fitLabel: Best when twitch arenas beat sprawling open‑world hunts.
 timingNote: >-
-  If your row is already discounted, hesitation is mostly taste — still verify
-  live pricing.
-communityVibe: Sale threads, handheld impressions, patch notes chatter
+  If EU MSRP (~€39.99) is your storefront, compare JP rows on GameGulf before
+  checkout.
+communityVibe: Jump-king karma — Shovel Drops still echo in Twitch clips
+playtime: ~12h first campaign sweep · anthology often 35h+ extras · fuller clears longer
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Shovel Knight: Treasure Trove is a value call first — let GameGulf rows decide
-  urgency, Metacritic sets quality expectations.
-playStyle: Action, Adventure, Platformer
-timeCommitment: Session-friendly.
-playMode: Single-player unless store lists multiplayer.
-whyNow: Today's Deals stack plus GameGulf trend counts make the spreadsheet legible.
-currentDeal: Cheapest indexed rows lead the table — compare native currency on GameGulf.
-nearHistoricalLow: Yes — indexed data sits at or near the tracked historic low posture.
+  Shovel Knight: Treasure Trove remains a marquee Switch anthology — indexed
+  data still prints Japan hugging a tracked March 2026 low while EU/US sit
+  typical list tiers.
+playStyle: >-
+  Side‑scrolling platforming with relic juggling, checkpoints, coop Shovel of
+  Hope progression, Shovel Knight Showdown party matches, curated challenge
+  remix towers, Body Swap remix, plus distinct Plague Specter King movesets
+  feeding different map routes.
+timeCommitment: >-
+  Typical runs land near twelve hours focusing on Shovel of Hope pacing, whereas
+  rolling every bundled campaign plus challenge layers commonly stretches past
+  thirty‑five — mastery trials and showdown practice add discretionary time.
+playMode: >-
+  Local co-op campaign (Shovel of Hope); local four-player Shovel Knight
+  Showdown arena.
+whyNow: >-
+  Port patch cadence stabilized years ago — the buyer question is anthology
+  volume versus your tolerance for twitch platforming—not whether Yacht Club
+  secretly adds live-service gates.
+currentDeal: >-
+  April 2026 snapshot: Japan anchors near €11.67 on the indexed digital grid
+  while BR/US/EU print higher converted tiers aligned with storefront MSRP
+  ladders.
+nearHistoricalLow: >-
+  Yes — tracked history ties the current JP row to €11.67 on 2026-03‑28,
+  matching broader low prints in the extractor window.
 salePattern: >-
-  2 tracked discount moves in the past year — sales are part of the product
-  lifecycle here.
+  Two labelled discount pulses inside the sampled year averaging near €13.90
+  during drops — spaced, not perpetual.
 priceRecommendation: buy
 quickFilters:
-  - great_on_sale
+  - co_op
   - short_sessions
+  - great_on_sale
 playerNeeds:
   - value_for_money
   - buy_now
 tags:
-  - "shovel knight: treasure trove nintendo …"
-  - "shovel knight: treasure trove worth it"
-  - "shovel knight: treasure trove price"
-  - gamegulf deals
+  - shovel knight treasure trove switch
+  - shovel knight switch worth it
+  - Yacht Club Games switch
+  - retro platformers switch coop
+  - shovel knight showdown
 playerVoices:
-  - quote: Runs fine for me in handheld.
+  - quote: >-
+      Coop Shovel of Hope finally let my partner carry lives while I farmed
+      checkpoints.
     sentiment: positive
-  - quote: Worth it on a deep sale only.
+  - quote: Specter Knight mobility rewrote every map — worth the anthology alone.
+    sentiment: positive
+  - quote: >-
+      Showdown scratched Smash-adjacent party nights without drifting
+      controllers.
+    sentiment: positive
+  - quote: Challenge tower kicked my pacing — expect Trials Fusion-grade retries.
     sentiment: mixed
-  - quote: Check your own region first.
-    sentiment: positive
-communityMemes:
-  - "Shovel Knight: Treasure Trove sale bingo"
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
+  - quote: Plague bombing puzzles felt fiddly after Specter dash flow unlocked.
+    sentiment: negative
+  - quote: If you crave open worlds, episodic vignettes stay linear by design.
+    sentiment: negative
 tldr: >-
-  Shovel Knight: Treasure Trove — 91 Metacritic; pricing favors buying now if
-  the genre fits.
+  Shovel Knight Treasure Trove — 91 Metacritic; JP ~€11.67 tracked low vs €39 EU list—buy if twitch/sofa fit; glance GameGulf first.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price
+gameHref: https://www.gamegulf.com/detail/fppDS0HCLd8
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
+heroTheme: brand
+faq:
+  - question: Should I buy Shovel Knight Treasure Trove before other Switch platformers?
+    answer: >-
+      Shovel Knight Treasure Trove earns its spotlight if you want authored
+      pixel stages, multiple hero movesets, and couch showdown extras —
+      prioritize it when anthology density beats chasing a solitary Metroidvania
+      grind.
+  - question: How long does Shovel Knight Treasure Trove take on Nintendo Switch?
+    answer: >-
+      Shovel Knight Treasure Trove clears its opening campaign arcs near the
+      low‑teen hour mark before extras, whereas sweeping every bundled campaign
+      lands north of thirty-five hours — showdown practice and mastery
+      challenges inflate totals further depending on retries.
+  - question: What friction should newcomers expect beyond platforming twitch?
+    answer: >-
+      Shovel Knight Treasure Trove layers distinct mobility rules per campaign
+      arc, strict boss pattern checks, curated challenge remixes, and showdown
+      timing windows — prepare for punitive-feeling retries tempered by
+      forgiving checkpoints unless you crave no-damage medallions.
 priceRows:
   - regionCode: JP
     eurPrice: 11.67
-    nativePrice: ¥2,160
+    nativePrice: ¥2160
     nativeCurrency: JPY
   - regionCode: BR
     eurPrice: 24.82
@@ -122,93 +168,71 @@ priceRows:
     eurPrice: 39.99
     nativePrice: €39.99
     nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 39.99
-    nativePrice: €39.99
-    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 41.37
+    nativePrice: £35.99
+    nativeCurrency: GBP
 cardPriceEur: 11.67
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 13.69
-cardPriceNative: ¥2,160
+cardPrice: USD 13.66
+cardPriceNative: ¥2160
 cardPriceNativeCurrency: JPY
-faq:
-  - question: "Is Shovel Knight: Treasure Trove worth buying on Nintendo Switch in 2026?"
-    answer: >-
-      Shovel Knight: Treasure Trove is worth buying on Nintendo Switch in 2026
-      if the genre fits and your GameGulf row shows the promo band you expect —
-      verify live pricing before checkout.
-  - question: "How long is Shovel Knight: Treasure Trove?"
-    answer: >-
-      Shovel Knight: Treasure Trove — treat runtime as store-listed scope;
-      verify patch notes if you need exact parity.
-  - question: Where should I check Nintendo Switch pricing?
-    answer: >-
-      Shovel Knight: Treasure Trove — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
 ---
+
 ## Quick verdict
 
-**Shovel Knight: Treasure Trove** reads as **91 Metacritic** on the critic side — **Action, Adventure, Platformer** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**Shovel Knight: Treasure Trove** stays a **catalog-grade Switch anthology**: **91 Metacritic**, and GameGulf’s April 2026 grid still anchors **Japan near a tracked €11.67 row** (~¥2,160) from **2026‑03‑28**.
 
-Tracked **discount** history: **all-time low** around **€11.67** (JP), **2** **sale** moves in the past year, **average sale** near **€13.90**, last notable shift **25** days ago on **2026-03-28 (Japan, €11.67)**. Cross-check [GameGulf live pricing](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price) before you buy — **2026** regional timing still shifts.
+If twitch platforming campaigns plus couch showdown modes appeal, line up **[GameGulf pricing](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** before you blindly pay EU MSRP.
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price) so you can sanity-check the **discount** story before checkout.
+## Current price on Switch
 
-## How much does Shovel Knight: Treasure Trove cost on Nintendo Switch right now?
-
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+Converted spread swings from **¥2,160‑class lows** toward **€39.99 / $39.99 list tiers**: cross-region storefronts widen the divide more than “wait for miracles.”
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 13.69 | ¥2,160 |
-| Brazil | USD 29.12 | R$147.99 |
-| United States | USD 40.14 | $39.99 |
-| Germany | USD 46.92 | €39.99 |
-| Spain | USD 46.92 | €39.99 |
-| France | USD 46.92 | €39.99 |
-| Italy | USD 46.92 | €39.99 |
-| Portugal | USD 46.92 | €39.99 |
+| Japan | USD 13.66 | ¥2160 |
+| Brazil | USD 29.05 | R$147.99 |
+| United States | USD 40.05 | $39.99 |
+| Germany | USD 46.81 | €39.99 |
+| Spain | USD 46.81 | €39.99 |
+| France | USD 46.81 | €39.99 |
+| Italy | USD 46.81 | €39.99 |
+| United Kingdom | USD 48.43 | £35.99 |
 
-## What kind of game is Shovel Knight: Treasure Trove, really?
+Tracked pulses: **two** recognizable discount swings during the sampled year averaging **€13.90** when promos strike, versus the **€11.67 JP anchor** aligning with March’s datapoint. Roughly **32** days elapsed since last recorded movement — still near historical lows versus bloated EUR prints.
 
-**Shovel Knight: Treasure Trove** is a **Action, Adventure, Platformer** package from **Yacht Club Games** — treat the long store blurb as marketing, but the **genre mix** and **91 Metacritic** signal are the real buying compass.
+Indexed rows above come straight from **[GameGulf’s detail page grid](https://www.gamegulf.com/detail/fppDS0HCLd8)** so you toggle currencies without juggling storefront tabs mid-decision.
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+## What kind of game is it?
 
-## How does Shovel Knight: Treasure Trove run on Nintendo Switch?
+**Treasure Trove bundles core Shovel arcs (Shovel of Hope, Specter / Plague / King campaigns), Showdown arenas, coop remixes, and Body Swap.**
 
-**Shovel Knight: Treasure Trove** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+Core anchors worth naming: Shovel relic economy with checkpoint forgiveness, spectacle boss gauntlets, dedicated **Shovel Knight Showdown** brawls (local four-slot parties), coop **Shovel of Hope**, **Challenge Mode** remix towers (+50 tiers), Body Swap rewriting protagonist sprites, Jake Kaufman + Manami Matsumae-era soundtrack spine.
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+Compared with exploration-heavy contemporaries (**Hollow Knight** map sprawl vs authored chapter ladders), Shovel favors timed gauntlets, pattern literacy, episodic gimmicks—not crafting loops.
 
-## Buy now if
+## How it runs on Nintendo Switch
 
-- You want **Action, Adventure, Platformer** pacing and the **91 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+Treat it as **handheld-friendly neo-retro clarity** tuned for quick retries.
 
-## Wait if
+- **Presentation:** Stable 1080p dock target with crisp pixel choreography; undocked OLED panels keep parallax readability.
+- **Co-op / showdown:** Split Joy-Con coop works for Shovel duo runs; showdown demands manual stick precision—Pro Controller preferable for serious sessions.
+- **Save model:** Checkpoint cadence favors short bursts offline—nothing live-service tethered.
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, Platformer) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+Ports stayed maintenance-light after Yacht Club’s multi-year polishing—expect offline stability, optional challenge modifiers, NG+ scaffolding.
 
-## Shovel Knight: Treasure Trove on Nintendo Switch — closing take
+## Buy now / Wait
 
-**Shovel Knight: Treasure Trove** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
+- **Buy now** when your **[GameGulf](https://www.gamegulf.com/detail/fppDS0HCLd8)** row sits **within spitting distance of €11.67‑class lows** (~¥2,160 equivalents) versus **€39.99** EU pricing.
+- **Buy now** if **local showdown nights** or coop shovel runs justify the SKU — bundled campaigns replace buying each episode piecemeal elsewhere.
+- **Wait** only when you refuse cross-region setups **and** your storefront stays locked at €39.99 with no backlog urgency—track alerts via **GameGulf** instead of doom-scrolling rumor threads.
+- **Skip** when precision platformers bore you—or you crave sandbox exploration before authored gauntlets.
 
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+## Closing
+
+Value story is anthology density + **indexed JP anchor** honesty: GameGulf data still echoes **tracked March‑2026 lows**, so lean on alerts or alternative storefronts whenever MSRP clashes with your backlog discipline.
+
+Peek **gamegulf.com** once more—then shovel or shelve confidently.

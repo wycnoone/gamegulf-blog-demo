@@ -1,58 +1,45 @@
 ---
-title: "2026年、Switch版『ペルソナ5 ザ・ロイヤル』は買うべき？"
-description: >-
-  2026年4月の索引、割引履歴、HLTB、Switch体感——今買うか価格アラートか。
+title: 2026年、Switch版『ペルソナ5 ザ・ロイヤル』は買うべき？
+description: 2026年4月の索引、割引履歴、、Switch体感——今買うか価格アラートか。
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
 gameTitle: ペルソナ5 ザ・ロイヤル
 platform: Nintendo Switch
 author: GameGulf Editorial AI
-readingTime: "9分で読める"
+readingTime: 9分で読める
 decision: >-
   歴史最安だけ買うならセール待ち——追跡ではJP/EUが2026年4月リストを大きく下回る帯も。
   今夜始めて百時間アークを€20前後のセール平均のために止めたくないなら今買い。
-priceSignal: >-
-  インデックスは日本が約€41.75換算（¥7,678）先行。年9回の割引窓、平均約€20.01、
-  2026年3月10日の日本低点約€12.52。
-heroStat: "Metacritic 94"
-heroNote: >-
-  ATLUSカレンダーJRPG——パレス、Press Turn、コープ準備、第三学期、DLC同梱。
-badge: "セール待ち"
+priceSignal: インデックスは日本が約€41.75換算（¥7,678）先行。年9回の割引窓、平均約€20.01、 2026年3月10日の日本低点約€12.52。
+heroStat: Metacritic 94
+heroNote: ATLUSカレンダーJRPG——パレス、Press Turn、コープ準備、第三学期、DLC同梱。
+badge: セール待ち
 verdict: wait_for_sale
 priceCall: wait
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  Metacritic 94 の JRPG — 日本が索引で先行、割引帯は定価より低め（平均 ~€20）。
-whatItIs: "ターン制JRPG：パレス、ペルソナ、第三学期、DLC同梱。"
-bestFor: "長編JRPGとカレンダー圧が好きな人。"
+listingTakeaway: Metacritic 94 の JRPG — 日本が索引で先行、割引帯は定価より低め（平均 ~€20）。
+whatItIs: ターン制JRPG：パレス、ペルソナ、第三学期、DLC同梱。
+bestFor: 長編JRPGとカレンダー圧が好きな人。
 avoidIf: カレンダー圧やアニメ調ドラマが苦手なら避けた方がいい。
 consensusPraise: UI・音楽・脚本・戦闘テンポはジャンル参照級。
 mainFriction: 40時間で畳みたいとメメントスや長パレスが重い。
-timeFit: HLTB 約101h本編、123h追加、141hコンプ。
+timeFit:  約101h本編、123h追加、141hコンプ。
 fitLabel: コープ準備・パレス謎解き・長尺アークが好きな人。
-timingNote: >-
-  決済前に自分のeShopの価格を日本価格と追跡平均~€20と照合。
+timingNote: 決済前に自分のeShopの価格を日本価格と追跡平均~€20と照合。
 communityVibe: 怪盗梗——コーヒー、試験、とにかく心を盗む
-playtime: 約101h本編 · 123h+追加 · ~141hコンプ（HLTB）
-reviewSignal: "Metacritic 94"
-takeaway: >-
-  ロイヤルが買う版のまま——2026年4月は「セールの合間」で追跡底ではない。
-playStyle: >-
-  Press Turn弱点、バトンタッチ、パレス謎、メメントス、第三学期。
-timeCommitment: >-
-  HLTB 約101時間本線、123時間追加込み、141時間コンプ。
+playtime: 約101h本編 · 123h+追加 · ~141hコンプ（）
+reviewSignal: Metacritic 94
+takeaway: ロイヤルが買う版のまま——2026年4月は「セールの合間」で追跡底ではない。
+playStyle: Press Turn弱点、バトンタッチ、パレス謎、メメントス、第三学期。
+timeCommitment:  約101時間本線、123時間追加込み、141時間コンプ。
 playMode: シングル。
-whyNow: >-
-  品質は確定——問いは次の深い下落前に今の価格が払えるか。
-currentDeal: >-
-  日本が約€41.75換算（¥7,678）先行、米は約€52.07（$59.99）。
-nearHistoricalLow: >-
-  いいえ——2026年3月10日に日本約€12.52、リストから大きく下。
-salePattern: >-
-  年9窓・平均~€20.01——深い値引きは戻り、その後定価へ。
+whyNow: 品質は確定——問いは次の深い下落前に今の価格が払えるか。
+currentDeal: 日本が約€41.75換算（¥7,678）先行、米は約€52.07（$59.99）。
+nearHistoricalLow: いいえ——2026年3月10日に日本約€12.52、リストから大きく下。
+salePattern: 年9窓・平均~€20.01——深い値引きは戻り、その後定価へ。
 priceRecommendation: wait
 quickFilters:
   - long_rpg
@@ -86,8 +73,7 @@ communityMemes:
   - パンケーキが全部壊した
   - コーヒー父エネルギー
   - 心盗みRTA
-tldr: >-
-  ペルソナ5 ザ・ロイヤル — Metacritic 94；2026年4月日本索引先行、割引平均 ~€20 — 合うなら買い、最安はアラート。
+tldr: ペルソナ5 ザ・ロイヤル — Metacritic 94；2026年4月日本索引先行、割引平均 ~€20 — 合うなら買い、最安はアラート。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price
 gameHref: https://www.gamegulf.com/detail/INlLdFP5Q9
@@ -101,7 +87,7 @@ faq:
       ザ・ロイヤルはロイヤル一式が欲しく約94点のJRPGを携帯でやるなら買い。2026年4月時点でGameGulf索引は日本が約€41.75換算（¥7,678）から
       — 自区を確認。
   - question: 時間は？
-    answer: ペルソナ5 ザ・ロイヤルはHLTBで本体約101時間、追加約123時間、コンプ約141時間。
+    answer: ペルソナ5 ザ・ロイヤルはで本体約101時間、追加約123時間、コンプ約141時間。
   - question: Switchは？
     answer: ペルソナ5 ザ・ロイヤルは据え置き下げ世代の携帯向け移植で、ターン制は安定しやすい一方ロードは長めの報告が多い。
   - question: セール待ち？
@@ -146,7 +132,7 @@ priceRows:
 cardPriceEur: 41.75
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 7679
+cardPrice: JPY 7795
 cardPriceNative: ¥7,678
 cardPriceNativeCurrency: JPY
 ---
@@ -162,17 +148,16 @@ cardPriceNativeCurrency: JPY
 
 **日本が索引で先行。**
 
-
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 7799 | ¥7,678 |
-| 香港 | JPY 9062 | HK$438 |
-| ブラジル | JPY 9270 | R$295 |
-| アメリカ合衆国 | JPY 9727 | $59.99 |
-| ドイツ | JPY 11207 | €59.99 |
-| スペイン | JPY 11207 | €59.99 |
-| フランス | JPY 11207 | €59.99 |
-| イタリア | JPY 11207 | €59.99 |
+| 日本 | JPY 7809 | ¥7,678 |
+| 香港 | JPY 9074 | HK$438 |
+| ブラジル | JPY 9281 | R$295 |
+| アメリカ合衆国 | JPY 9740 | $59.99 |
+| ドイツ | JPY 11221 | €59.99 |
+| スペイン | JPY 11221 | €59.99 |
+| フランス | JPY 11221 | €59.99 |
+| イタリア | JPY 11221 | €59.99 |
 
 **2026年3月10日 ~€12.52**、**2026年1月1日 フランス €17.99**。**GameGulf** [表](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) で確認。
 

@@ -24,15 +24,15 @@ bestFor: 戦闘より文章と演出を取りに行く人向け。
 avoidIf: 死や喪のテーマが厳しいとき、またはアクション中心を求めるなら避ける。
 consensusPraise: シナリオと環境演出の密度はインディーでも最上位。
 mainFriction: ボリュームは短い——時間単価ではなく密度で勝負する作品。
-timeFit: HLTBは本編約2h／+α約3h／コンプ約3h（コミュニティ集計）。
+timeFit: は本編約2h／+α約3h／コンプ約3h（コミュニティ集計）。
 fitLabel: 「短くて濃い」を歓迎する人に刺さる。
 timingNote: €4.99帯と€2.86参考最安を見比べてから待つか決める。
 communityVibe: ルイス編が先に拡散、屋敷はミックステープのような余韻だけ。
-playtime: 本編約2時間 · +α約3時間 · コンプ約3時間（HLTB）
+playtime: 本編約2時間 · +α約3時間 · コンプ約3時間（）
 reviewSignal: Metacritic 88
 takeaway: What Remains of Edith Finchは2026年もナラティブ好きには買い——今の索引は強いセールだが最安値ではない。
 playStyle: 一人称探索、軽いインタラクト、章ごとに変わる遊び——戦闘ループはない。
-timeCommitment: HLTB集計で本編約2時間。一晩で完走しやすい。
+timeCommitment: 集計で本編約2時間。一晩で完走しやすい。
 playMode: シングルプレイ。
 whyNow: 評価は固定。変わるのはストア行がセール帯かどうか。
 currentDeal: 2026年4月の索引はスペインが約€4.99で先行、ブラジル・日本・米と続き、欧州MSRP行は高め。
@@ -85,7 +85,7 @@ faq:
       What Remains of Edith
       Finchは、短く濃い一人称ナラティブが欲しい人には買いです。2026年4月はGameGulfで自分の地域の価格を確認して——スペイン索引は平均セール価格を下回る帯です。
   - question: クリア時間は？
-    answer: What Remains of Edith FinchはHLTB集計で本編約2時間、+α約3時間、コンプ約3時間。短時間で完走できます。
+    answer: What Remains of Edith Finchは集計で本編約2時間、+α約3時間、コンプ約3時間。短時間で完走できます。
   - question: Switchの動きは？
     answer: What Remains of Edith Finchは探索中心で負荷は低め。携帯でもUIは読みやすく、一晩プレイ向きという説明が多いです。
   - question: 辛すぎる内容？
@@ -130,7 +130,7 @@ priceRows:
 cardPriceEur: 4.99
 cardPriceRegionCode: ES
 cardPriceRegion: スペイン
-cardPrice: JPY 918
+cardPrice: JPY 932
 cardPriceNative: €4.99
 cardPriceNativeCurrency: EUR
 ---
@@ -147,17 +147,16 @@ cardPriceNativeCurrency: EUR
 
 **2026年4月の索引はスペインが最安付近、続いてブラジル・日本・米、欧州MSRP行は高め。**
 
-
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| スペイン | JPY 932 | €4.99 |
-| ブラジル | JPY 2169 | R$69.00 |
-| 日本 | JPY 2234 | ¥2,200 |
-| アメリカ合衆国 | JPY 3241 | $19.99 |
-| ドイツ | JPY 3734 | €19.99 |
-| フランス | JPY 3734 | €19.99 |
-| イタリア | JPY 3734 | €19.99 |
-| イギリス | JPY 3858 | £17.99 |
+| スペイン | JPY 933 | €4.99 |
+| ブラジル | JPY 2172 | R$69.00 |
+| 日本 | JPY 2237 | ¥2,200 |
+| アメリカ合衆国 | JPY 3245 | $19.99 |
+| ドイツ | JPY 3739 | €19.99 |
+| フランス | JPY 3739 | €19.99 |
+| イタリア | JPY 3739 | €19.99 |
+| イギリス | JPY 3863 | £17.99 |
 
 **最安値**の文脈を足すと、**歴史的な底**は**€2.86**、**今の€4.99**は**強いセール**だが**オールタイムロー**ではない。**セール**期待だけなら今で十分、**絶対最安**だけ欲しいなら**待機**も合理。
 

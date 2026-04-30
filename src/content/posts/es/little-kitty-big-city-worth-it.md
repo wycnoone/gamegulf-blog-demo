@@ -151,20 +151,19 @@ cardPrice: EUR 14.99
 cardPriceNative: €14.99
 cardPriceNativeCurrency: EUR
 ---
+## Veredicto rapido
 
-## Veredicto rápido
+**Little Kitty, Big City** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **78 Metacritic**.
 
-**Little Kitty, Big City es un sí fácil si encaja el perfil**: señal de **78 Metacritic**, controles sin fricción y bucle pensado para ratos cortos.
+Little Kitty, Big City se recomienda rápido si encaja el tono; el precio es defendible, aunque no es el suelo histórico.
 
-En precio, **no está en el mínimo histórico**: el índice muestra **~14,99 € en España** y el **mínimo trazado ~11,35 € (Japón, 18/08/2025)**. Compra por encaje; espera si solo te mueve el suelo.
+Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €14.99.
 
-**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price).
 
-## ¿Cuánto cuesta ahora en Switch?
+## Cuanto cuesta Little Kitty, Big City en Nintendo Switch ahora?
 
-**El índice arranca cerca de ~14,99 € en España y sube en otras regiones en este snapshot.**
-
-
+Little Kitty, Big City se recomienda rápido si encaja el tono; el precio es defendible, aunque no es el suelo histórico.
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
 | España | EUR 14.99 | €14.99 |
@@ -176,30 +175,33 @@ En precio, **no está en el mínimo histórico**: el índice muestra **~14,99 �
 | Francia | EUR 24.99 | €24.99 |
 | Italia | EUR 24.99 | €24.99 |
 
-El historial es **ocasional**: ~**2** rebajas en un año, precio medio en promo ~**17,75 €**, suelo **~11,35 €**. Traducción: compra razonable por disfrute; espera si eres cazador de mínimos.
+## Que tipo de juego es Little Kitty, Big City?
 
-## ¿Qué tipo de juego es?
+Nucleo de genero: **Exploración urbana en tercera persona: misiones ligeras, parkour, sombreros**. Lo importante es si ese bucle te encaja, no el texto de marketing.
 
-**Traversal + travesuras ligeras, no sandbox de sistemas.** Exploras una ciudad legible, haces recados, coleccionas sombreros y te improvisas en tejados.
+## Como rinde Little Kitty, Big City en Nintendo Switch?
 
-Su mejor baza es la coherencia de tono: objetivos claros, poca punición, avance por curiosidad.
+Suele ser jugable con estabilidad razonable; confirma siempre con la version actual.
 
-## ¿Cómo va en Switch?
+- Rendimiento: base estable con variaciones segun build.
+- Control/lectura: esquema estandar, legibilidad portatil segun contenido.
+- Modo de juego: Un jugador.
 
-**Alineado con un juego de baja presión: legibilidad + cámara + movimiento.** La percepción general es positiva.
+## Comprar ahora si
 
-No depende de frames milimétricos: lo importante es que se sienta estable.
+- te gusta **Quien quiere relax en 20–40 minutos, no un RPG largo.**
+- tu precio regional en GameGulf ya esta en rango objetivo
+- prefieres jugar ya en vez de esperar otra ventana de oferta
+- te cuadra el ritmo: ~3 h historia principal / ~5–7 h al 100 %
+## Esperar si
 
-## ¿Comprar o esperar?
+- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- no tienes claro el encaje de genero
+- este mes priorizas otros juegos
+- Si buscas combate profundo o progresión larga, pasa de largo.
 
-**Compra si:**
-- quieres cozy en sesiones cortas y tu región está cerca de los mejores precios indexados;
-- valoras atmósfera y movimiento sobre combate profundo.
+## Cierre
 
-**Espera si:**
-- solo compras cerca del mínimo histórico;
-- compites con un juego más largo con el mismo presupuesto.
+Primero precio, luego gusto: aqui funciona mejor ese orden. Descuentos poco frecuentes: ~2 eventos al año, precio medio en promo ~17,75 €.
 
-## Recomendación final
-
-**Little Kitty, Big City es un gran “para desconectar ya”.** Las alertas en GameGulf ayudan, pero el mínimo histórico ya apareció por debajo del precio actual.
+Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price)** y decide comprar o esperar.

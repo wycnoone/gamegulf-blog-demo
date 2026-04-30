@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/e64l6e8kvjr",
     "game_id": "e64l6e8kvjr",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -27,7 +27,7 @@
       "Platformer"
     ],
     "release_date": "2019-09-27",
-    "developer": "Moon Studios GmbH",
+    "developer": null,
     "publisher": "Microsoft Studios",
     "metacritic": 90
   },
@@ -151,13 +151,6 @@
         {
           "period": "30 D",
           "entries": [
-            {
-              "date": "2026-03-24",
-              "country_code": "GB",
-              "value": 17.23,
-              "currency": "EUR",
-              "country": "United Kingdom"
-            },
             {
               "date": "2026-04-01",
               "country_code": "BR",
@@ -340,11 +333,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -359,12 +352,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -456,11 +449,11 @@
       "title": "OlliOlli World",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
       "metacritic": 87,
-      "price": 19.53,
-      "discount_price": 4.87,
+      "price": 17.04,
+      "discount_price": 4.26,
       "discount_rate": 75,
       "discount_tag": "LowPrice",
-      "discount_end": "4 days",
+      "discount_end": "10 days",
       "release_date": "2022-02-08",
       "categories": [
         "Arcade",
@@ -484,7 +477,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:04+00:00"
+      "priceValidUntil": "2026-05-29T19:45:40+00:00"
     },
     {
       "@type": "Offer",
@@ -497,7 +490,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:04+00:00"
+      "priceValidUntil": "2026-05-29T19:45:40+00:00"
     },
     {
       "@type": "Offer",
@@ -510,7 +503,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:04+00:00"
+      "priceValidUntil": "2026-05-29T19:45:40+00:00"
     },
     {
       "@type": "Offer",
@@ -523,7 +516,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:04+00:00"
+      "priceValidUntil": "2026-05-29T19:45:40+00:00"
     },
     {
       "@type": "Offer",
@@ -536,7 +529,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:04+00:00"
+      "priceValidUntil": "2026-05-29T19:45:40+00:00"
     },
     {
       "@type": "Offer",
@@ -549,7 +542,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:04+00:00"
+      "priceValidUntil": "2026-05-29T19:45:40+00:00"
     }
   ],
   "price_analytics": {
@@ -588,7 +581,7 @@
           "end": "2026-03-09"
         }
       ],
-      "days_since_last_discount": 21,
+      "days_since_last_discount": 28,
       "last_discount": {
         "date": "2026-04-01",
         "price_eur": 16.6,
@@ -606,48 +599,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 387290,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 36755,
       "name": "Ori and the Blind Forest: Definitive Edition",
-      "developer": [
-        "Moon Studios GmbH"
-      ],
-      "publisher": [
-        "Xbox Game Studios"
-      ],
-      "metacritic_score": 88,
-      "metacritic_url": "https://www.metacritic.com/game/pc/ori-and-the-blind-forest-definitive-edition?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Cloud",
-        "Stats",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action"
-      ],
-      "steam_price": "$4.99",
-      "total_recommendations": 61506,
-      "short_description": "“Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning Action-Platformer crafted by Moon Studios.",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Russian, Portuguese - Brazil",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 66744,
-        "total_negative": 3426,
-        "total_reviews": 70170,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 95
-      }
-    },
-    "hltb": null
+      "main_story_hours": 9,
+      "main_extra_hours": 11,
+      "completionist_hours": 13,
+      "all_styles_hours": 11,
+      "review_score": 84,
+      "total_submissions": 5608
+    }
   }
 }

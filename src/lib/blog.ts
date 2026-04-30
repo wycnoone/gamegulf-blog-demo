@@ -534,6 +534,18 @@ function sentenceCaseLabel(value: string) {
   return value.replace(/_/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 }
 
+function extractMetacriticScore(post: BlogPost): number | null {
+  const sources = [post.reviewSignal, post.heroStat].filter(Boolean) as string[];
+  for (const text of sources) {
+    if (!/metacritic/i.test(text)) continue;
+    const m = text.match(/\b(100|[1-9]\d)\b/);
+    if (!m) continue;
+    const score = Number(m[1]);
+    if (Number.isFinite(score)) return score;
+  }
+  return null;
+}
+
 function sortByPriorityAndDate<T extends { featuredPriority: number; publishedAt: string }>(a: T, b: T) {
   if (a.featuredPriority !== b.featuredPriority) return a.featuredPriority - b.featuredPriority;
   return +new Date(b.publishedAt) - +new Date(a.publishedAt);
@@ -683,6 +695,10 @@ export async function prepareDecisionEntryCard(post: BlogPost): Promise<Decision
   const actionBucket = inferActionBucket(post, verdict);
   const priceCall = inferPriceCall(post, verdict);
   const confidence = getDisplayConfidence(post, verdict);
+  const metacriticScore = extractMetacriticScore(post);
+  const featuredPriority = (metacriticScore != null && metacriticScore >= 88)
+    ? (post.featuredPriority ?? 999)
+    : 999;
   const priceDetailDisplay = post.cardPriceData
     ? await formatAdaptivePriceSummary(post.cardPriceData, post.locale, post.platform)
     : undefined;
@@ -714,7 +730,7 @@ export async function prepareDecisionEntryCard(post: BlogPost): Promise<Decision
     tags: getDisplayQuickFilterTags(post),
     quickFilters: inferQuickFilters(post),
     actionBucket,
-    featuredPriority: post.featuredPriority ?? 999,
+    featuredPriority,
     publishedAt: post.publishedAt,
     updatedAt: post.updatedAt,
     readingTime: post.readingTime,

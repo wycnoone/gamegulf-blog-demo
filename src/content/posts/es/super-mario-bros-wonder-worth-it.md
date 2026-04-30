@@ -1,6 +1,8 @@
 ---
 title: ¿Merece la pena Super Mario Bros. Wonder en Nintendo Switch en 2026?
-description: Abril de 2026 — índice, ofertas first-party raras, HLTB, coop y chapas — ¿el precio de lista sigue siendo razonable?
+description: >-
+  Abril de 2026 — índice, ofertas first-party raras, , coop y chapas — ¿el
+  precio de lista sigue siendo razonable?
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -8,10 +10,17 @@ gameTitle: Super Mario Bros. Wonder
 platform: Nintendo Switch
 author: GameGulf Editorial AI
 readingTime: 7 min de lectura
-decision: Compra a precio lista si quieres un 2D Mario pulido con efectos Wonder y coop en el sofá — el first-party casi nunca se desploma fuerte aquí. Pásalo si solo persigues mínimos históricos u odias el 2D Mario.
-priceSignal: El índice pone a Japón ~35,34 € (¥6.500) y a EE. UU. ~59,99 $; casi cero descuentos rastreados en 12 meses.
+decision: >-
+  Compra a precio lista si quieres un 2D Mario pulido con efectos Wonder y coop
+  en el sofá — el first-party casi nunca se desploma fuerte aquí. Pásalo si solo
+  persigues mínimos históricos u odias el 2D Mario.
+priceSignal: >-
+  El índice pone a Japón ~35,34 € (¥6.500) y a EE. UU. ~59,99 $; casi cero
+  descuentos rastreados en 12 meses.
 heroStat: 92 Metacritic
-heroNote: Relanzamiento 2D de Nintendo — Wonder Flowers, builds de chapas, mayor elenco jugable en vista lateral, coop local y online.
+heroNote: >-
+  Relanzamiento 2D de Nintendo — Wonder Flowers, builds de chapas, mayor elenco
+  jugable en vista lateral, coop local y online.
 badge: Comprar ahora
 verdict: buy_now
 priceCall: buy
@@ -23,21 +32,35 @@ whatItIs: Mario 2D — Wonder Flowers, elefante, chapas, coop local.
 bestFor: Familias y plataformas cortas con coop.
 avoidIf: Evítalo si solo compras en mínimos históricos profundos o detestas el
 consensusPraise: Grandes set-pieces Wonder, niveles claros, coop accesible.
-mainFriction: Menos horas que un JRPG al mismo precio — el valor es densidad y rejugabilidad.
-timeFit: HLTB ~10 h historia, ~14 h extras, ~20 h completion.
+mainFriction: >-
+  Menos horas que un JRPG al mismo precio — el valor es densidad y
+  rejugabilidad.
+timeFit:  ~10 h historia, ~14 h extras, ~20 h completion.
 fitLabel: Sesiones cortas, coop en sofá y acabado Nintendo.
-timingNote: Usa el ancla Japón como referencia — el historial de grandes rebajas es escaso.
+timingNote: >-
+  Usa el ancla Japón como referencia — el historial de grandes rebajas es
+  escaso.
 communityVibe: Memes Wonder Flower, Mario elefante, standees de rescate
-playtime: 10h main · 14h+ extras · ~20h completionist (HLTB)
+playtime: 10h main · 14h+ extras · ~20h completionist
 reviewSignal: 92 Metacritic
-takeaway: Wonder es el referente 2D Mario moderno — paga lista si el formato encaja; alerta solo si rechazas precios first-party.
-playStyle: Set-pieces Wonder, builds de chapas, modos Yoshi/Nabbit, coop cuatro jugadores en local, siluetas y standees online, flujo del Reino Flor.
-timeCommitment: HLTB ~10 h ruta principal, ~14 h con extras, ~20 h completion.
+takeaway: >-
+  Wonder es el referente 2D Mario moderno — paga lista si el formato encaja;
+  alerta solo si rechazas precios first-party.
+playStyle: >-
+  Set-pieces Wonder, builds de chapas, modos Yoshi/Nabbit, coop cuatro jugadores
+  en local, siluetas y standees online, flujo del Reino Flor.
+timeCommitment:  ~10 h ruta principal, ~14 h con extras, ~20 h completion.
 playMode: Hasta cuatro en local; ayudas online y carreras.
-whyNow: Calidad fijada en 92 Metacritic — la duda es aceptar las listas digitales típicas de Nintendo.
+whyNow: >-
+  Calidad fijada en 92 Metacritic — la duda es aceptar las listas digitales
+  típicas de Nintendo.
 currentDeal: "Abril 2026: Japón ~35,34 € (¥6.500) arriba, luego Hong Kong, EE. UU. y Brasil."
-nearHistoricalLow: Sí en este feed — el mínimo rastreado coincide con la lista Japón, sin promos separadas este año.
-salePattern: El Mario first-party rara vez se hunde fuerte — espera lista o promos modestas.
+nearHistoricalLow: >-
+  Sí en este feed — el mínimo rastreado coincide con la lista Japón, sin promos
+  separadas este año.
+salePattern: >-
+  El Mario first-party rara vez se hunde fuerte — espera lista o promos
+  modestas.
 priceRecommendation: buy
 quickFilters:
   - family_friendly
@@ -72,7 +95,9 @@ communityMemes:
   - Malabarismos de chapas
   - Yoshi carga al equipo
   - Escuadrón standees
-tldr: Super Mario Bros. Wonder — 92 Metacritic; Japón lidera abril 2026, casi sin ofertas — compra por coop, no por cazar mínimos.
+tldr: >-
+  Super Mario Bros. Wonder — 92 Metacritic; Japón lidera abril 2026, casi sin
+  ofertas — compra por coop, no por cazar mínimos.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/byr07mi5hyW#currency-price
 gameHref: https://www.gamegulf.com/detail/byr07mi5hyW
@@ -81,15 +106,23 @@ coverImage: https://cdn.gamegulf.com/upload/1740988156611113242404.jpeg
 heroTheme: brand
 faq:
   - question: ¿Vale Wonder en 2026 ?
-    answer: Super Mario Bros. Wonder vale para Mario 2D pulido y coop en sofá. En abril 2026 GameGulf indexa Japón ~35,34 € (¥6.500) — revisa tu cuenta.
+    answer: >-
+      Super Mario Bros. Wonder vale para Mario 2D pulido y coop en sofá. En
+      abril 2026 GameGulf indexa Japón ~35,34 € (¥6.500) — revisa tu cuenta.
   - question: ¿Duración ?
-    answer: Super Mario Bros. Wonder ~10 h / 14 h / 20 h según HLTB.
+    answer: Super Mario Bros. Wonder ~10 h / 14 h / 20 h según .
   - question: ¿Switch ?
-    answer: Super Mario Bros. Wonder busca plataforma 2D legible — estabilidad first-party típica.
+    answer: >-
+      Super Mario Bros. Wonder busca plataforma 2D legible — estabilidad
+      first-party típica.
   - question: ¿Ofertas ?
-    answer: "Super Mario Bros. Wonder: cero ofertas capturadas en un año en este feed — list como suelo."
+    answer: >-
+      Super Mario Bros. Wonder: cero ofertas capturadas en un año en este feed —
+      list como suelo.
   - question: ¿JRPG primero ?
-    answer: "Super Mario Bros. Wonder gana en sesiones cortas ; JRPG largo: guía Persona 5 Royal."
+    answer: >-
+      Super Mario Bros. Wonder gana en sesiones cortas ; JRPG largo: guía
+      Persona 5 Royal.
 priceRows:
   - regionCode: JP
     eurPrice: 35.34
@@ -114,18 +147,19 @@ cardPrice: EUR 35.34
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
 ---
+## Veredicto rapido
 
+**Super Mario Bros. Wonder** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **92 Metacritic**.
 
-## Veredicto rápido
+Compra a precio lista si quieres un 2D Mario pulido con efectos Wonder y coop en el sofá — el first-party casi nunca se desploma fuerte aquí. Pásalo si solo persigues mínimos históricos u odias el 2D Mario.
 
-**Super Mario Bros. Wonder** — **92 Metacritic**, **HLTB ~10h / 14h / 20h**. **Japón ~35,34 € (¥6.500)**, **EE. UU. ~59,99 $** ; **cero** **ofertas** / año — **descuentos** raros.
+Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €35.34.
 
-**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price).
 
-## ¿Cuánto cuesta Super Mario Bros. Wonder en Switch actualmente?
+## Cuanto cuesta Super Mario Bros. Wonder en Nintendo Switch ahora?
 
-**Japón lidera.**
-
+El índice pone a Japón ~35,34 € (¥6.500) y a EE. UU. ~59,99 $; casi cero descuentos rastreados en 12 meses.
 
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
@@ -134,24 +168,34 @@ cardPriceNativeCurrency: JPY
 | Estados Unidos | EUR 52.07 | $59.99 |
 | Brasil | EUR 58.70 | R$349 |
 
-**2026** — bandas de **precio** en **suelo** ; **ofertas** escasas y **mínimo histórico** alineado con **¥6.500** en Japón en este feed.**GameGulf** [tabla](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price).
+## Que tipo de juego es Super Mario Bros. Wonder?
 
-## Qué juego
+Nucleo de genero: **Set-pieces Wonder, builds de chapas, modos Yoshi/Nabbit, coop cuatro jugadores en local, siluetas y standees online, flujo del Reino Flor.**. Lo importante es si ese bucle te encaja, no el texto de marketing.
 
-**Mario 2D + Wonder + chapas**.
+## Como rinde Super Mario Bros. Wonder en Nintendo Switch?
 
-## Switch
+Suele ser jugable con estabilidad razonable; confirma siempre con la version actual.
 
-**Legibilidad 2D**.
+- Rendimiento: base estable con variaciones segun build.
+- Control/lectura: esquema estandar, legibilidad portatil segun contenido.
+- Modo de juego: Hasta cuatro en local; ayudas online y carreras.
 
-## Compra ya si
+## Comprar ahora si
 
-**92 Metacritic** y **lista** OK.
+- te gusta **Set-pieces Wonder, builds de chapas, modos Yoshi/Nabbit, coop cuatro jugadores en local, siluetas y standees online, flujo del Reino Flor.**
+- tu precio regional en GameGulf ya esta en rango objetivo
+- prefieres jugar ya en vez de esperar otra ventana de oferta
+- te cuadra el ritmo: HLTB ~10 h ruta principal, ~14 h con extras, ~20 h completion.
 
-## Espera si
+## Esperar si
 
-Solo **ofertas** profundas — o [Persona 5 Royal](/blog/es/persona-5-royal-worth-it) primero.
+- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- no tienes claro el encaje de genero
+- este mes priorizas otros juegos
+- Evítalo si solo compras en mínimos históricos profundos o detestas el
 
-## Wonder mantiene la corona 2D
+## Cierre
 
-**Mira tu fila.**
+Primero precio, luego gusto: aqui funciona mejor ese orden. El Mario first-party rara vez se hunde fuerte — espera lista o promos modestas.
+
+Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price)** y decide comprar o esperar.

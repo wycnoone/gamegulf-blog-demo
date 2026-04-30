@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/kxyrmTE8vZE",
     "game_id": "kxyrmTE8vZE",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -28,7 +28,7 @@
       "Role-playing"
     ],
     "release_date": "2021-07-07",
-    "developer": "Wadjet Eye Games",
+    "developer": null,
     "publisher": "Wadjet Eye Games",
     "metacritic": 91
   },
@@ -141,18 +141,11 @@
           "period": "30 D",
           "entries": [
             {
-              "date": "2026-03-24",
-              "country_code": "BR",
-              "value": 4.69,
-              "currency": "EUR",
-              "country": "Brazil"
-            },
-            {
-              "date": "2026-04-22",
-              "country_code": "ES",
+              "date": "2026-04-29",
+              "country_code": "IT",
               "value": 14.99,
               "currency": "EUR",
-              "country": "Spain"
+              "country": "Italy"
             }
           ]
         },
@@ -174,11 +167,11 @@
               "country": "Brazil"
             },
             {
-              "date": "2026-04-22",
-              "country_code": "ES",
+              "date": "2026-04-29",
+              "country_code": "IT",
               "value": 14.99,
               "currency": "EUR",
-              "country": "Spain"
+              "country": "Italy"
             }
           ]
         },
@@ -207,11 +200,11 @@
               "country": "Brazil"
             },
             {
-              "date": "2026-04-22",
-              "country_code": "ES",
+              "date": "2026-04-29",
+              "country_code": "IT",
               "value": 14.99,
               "currency": "EUR",
-              "country": "Spain"
+              "country": "Italy"
             }
           ]
         }
@@ -404,11 +397,11 @@
       "title": "Hypnospace Outlaw",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414982812472.jpeg",
       "metacritic": 84,
-      "price": 17.1,
-      "discount_price": 5.12,
+      "price": 17.19,
+      "discount_price": 5.15,
       "discount_rate": 70,
       "discount_tag": "Normal",
-      "discount_end": "1 days",
+      "discount_end": "9 days",
       "release_date": "2020-08-27",
       "categories": [
         "Adventure",
@@ -430,7 +423,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+      "priceValidUntil": "2026-05-29T19:26:48+00:00"
     },
     {
       "@type": "Offer",
@@ -443,7 +436,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+      "priceValidUntil": "2026-05-29T19:26:48+00:00"
     },
     {
       "@type": "Offer",
@@ -456,7 +449,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+      "priceValidUntil": "2026-05-29T19:26:48+00:00"
     },
     {
       "@type": "Offer",
@@ -469,7 +462,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:30+00:00"
+      "priceValidUntil": "2026-05-29T19:26:48+00:00"
     }
   ],
   "price_analytics": {
@@ -504,7 +497,7 @@
           "end": "2025-05-27"
         }
       ],
-      "days_since_last_discount": 29,
+      "days_since_last_discount": 36,
       "last_discount": {
         "date": "2026-03-24",
         "price_eur": 4.69,
@@ -522,48 +515,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 336140,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 54219,
       "name": "Unavowed",
-      "developer": [
-        "Wadjet Eye Games"
-      ],
-      "publisher": [
-        "Wadjet Eye Games"
-      ],
-      "metacritic_score": 87,
-      "metacritic_url": "https://www.metacritic.com/game/pc/unavowed?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Steam Trading Cards",
-        "Captions available",
-        "Steam Cloud",
-        "Commentary available",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
-      "steam_price": "$14.99",
-      "total_recommendations": 2254,
-      "short_description": "A demon has possessed you and used your body to tear a swath of bloodshed through New York. You are now free, but life as you knew it is over. Your only path forward is joining the Unavowed - an ancient society dedicated to stopping evil. No matter what the cost.",
-      "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 2438,
-        "total_negative": 112,
-        "total_reviews": 2550,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 96
-      }
-    },
-    "hltb": null
+      "main_story_hours": 10,
+      "main_extra_hours": 12,
+      "completionist_hours": 22,
+      "all_styles_hours": 11,
+      "review_score": 84,
+      "total_submissions": 216
+    }
   }
 }

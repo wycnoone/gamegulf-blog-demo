@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2DumzaIwa0N",
     "game_id": "2DumzaIwa0N",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -165,13 +165,6 @@
           "period": "30 D",
           "entries": [
             {
-              "date": "2026-03-25",
-              "country_code": "US",
-              "value": 17.1,
-              "currency": "EUR",
-              "country": "United States"
-            },
-            {
               "date": "2026-04-05",
               "country_code": "JP",
               "value": 10.69,
@@ -318,6 +311,24 @@
   ],
   "similar_games": [
     {
+      "id": "268PiKuEXVf",
+      "title": "SONIC SUPERSTARS",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508863229212559.jpeg",
+      "metacritic": 67,
+      "price": 59.99,
+      "discount_price": 20.99,
+      "discount_rate": 65,
+      "discount_tag": "LowPrice",
+      "discount_end": "3 hr",
+      "release_date": "2023-10-17",
+      "categories": [
+        "Platformer",
+        "Party",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/268PiKuEXVf"
+    },
+    {
       "id": "a7dEWGCFET2",
       "title": "Sonic Origins",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511353993915518.jpeg",
@@ -334,24 +345,6 @@
         "Platformer"
       ],
       "url": "https://www.gamegulf.com/detail/a7dEWGCFET2"
-    },
-    {
-      "id": "268PiKuEXVf",
-      "title": "SONIC SUPERSTARS",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508863229212559.jpeg",
-      "metacritic": 67,
-      "price": 59.99,
-      "discount_price": 20.99,
-      "discount_rate": 65,
-      "discount_tag": "LowPrice",
-      "discount_end": "7 days",
-      "release_date": "2023-10-17",
-      "categories": [
-        "Platformer",
-        "Party",
-        "Action"
-      ],
-      "url": "https://www.gamegulf.com/detail/268PiKuEXVf"
     },
     {
       "id": "dqgcEBMyaim",
@@ -390,20 +383,22 @@
       "url": "https://www.gamegulf.com/detail/4QdBMRuh3aC"
     },
     {
-      "id": "bk9ZsYW0VVt",
-      "title": "Atari Mania",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510777285011415.jpeg",
-      "metacritic": 66,
-      "price": 13.66,
+      "id": "2fNkUIQHbF9",
+      "title": "Hentai Mania",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613725925813666.jpeg",
+      "metacritic": null,
+      "price": 7.69,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2022-10-13",
+      "release_date": "2024-05-22",
       "categories": [
-        "Adventure"
+        "Other",
+        "Puzzle",
+        "Role-playing"
       ],
-      "url": "https://www.gamegulf.com/detail/bk9ZsYW0VVt"
+      "url": "https://www.gamegulf.com/detail/2fNkUIQHbF9"
     },
     {
       "id": "jOmK3pCLzXJ",
@@ -448,11 +443,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -467,12 +462,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -494,7 +489,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:24+00:00"
+      "priceValidUntil": "2026-05-29T18:48:15+00:00"
     },
     {
       "@type": "Offer",
@@ -507,7 +502,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:24+00:00"
+      "priceValidUntil": "2026-05-29T18:48:15+00:00"
     },
     {
       "@type": "Offer",
@@ -520,7 +515,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:24+00:00"
+      "priceValidUntil": "2026-05-29T18:48:15+00:00"
     },
     {
       "@type": "Offer",
@@ -533,7 +528,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:24+00:00"
+      "priceValidUntil": "2026-05-29T18:48:15+00:00"
     },
     {
       "@type": "Offer",
@@ -546,7 +541,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:24+00:00"
+      "priceValidUntil": "2026-05-29T18:48:15+00:00"
     },
     {
       "@type": "Offer",
@@ -559,7 +554,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:24+00:00"
+      "priceValidUntil": "2026-05-29T18:48:15+00:00"
     },
     {
       "@type": "Offer",
@@ -572,7 +567,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:24+00:00"
+      "priceValidUntil": "2026-05-29T18:48:15+00:00"
     }
   ],
   "price_analytics": {
@@ -615,7 +610,7 @@
           "end": "2026-01-20"
         }
       ],
-      "days_since_last_discount": 17,
+      "days_since_last_discount": 24,
       "last_discount": {
         "date": "2026-04-05",
         "price_eur": 10.69,
@@ -670,8 +665,8 @@
         "Adventure",
         "Casual"
       ],
-      "steam_price": "$19.99",
-      "total_recommendations": 23209,
+      "steam_price": "¥ 486",
+      "total_recommendations": 23235,
       "short_description": "Sonic Mania is an all-new adventure with Sonic, Tails, and Knuckles full of unique bosses, rolling 2D landscapes, and fun classic gameplay.",
       "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Traditional Chinese",
       "platforms": {
@@ -680,9 +675,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 25916,
-        "total_negative": 1710,
-        "total_reviews": 27626,
+        "total_positive": 25945,
+        "total_negative": 1712,
+        "total_reviews": 27657,
         "score_description": "Very Positive",
         "positive_percent": 94
       }

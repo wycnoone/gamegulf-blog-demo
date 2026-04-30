@@ -75,8 +75,7 @@ faq:
       Little Kitty, Big City は2026年も、短セッションで癒し探索が欲しい人には買いやすい。
       GameGulfの索引ではスペインが約€14.99。自アカウントの区服と照合してから決めて。
   - question: Little Kitty, Big City のプレイ時間は？
-    answer: >-
-      Little Kitty, Big City: 本編約3時間、サイド・収集込みで約5〜7時間という目安。プレイスタイルで変動する。
+    answer: "Little Kitty, Big City: 本編約3時間、サイド・収集込みで約5〜7時間という目安。プレイスタイルで変動する。"
   - question: Switchではどう動く？
     answer: Little Kitty, Big City はSwitchで低圧設計に合わせて読みやすく、携帯でも快適に回り やすい傾向。
   - question: 今買う？セール待ち？
@@ -117,7 +116,7 @@ priceRows:
 cardPriceEur: 14.99
 cardPriceRegionCode: ES
 cardPriceRegion: スペイン
-cardPrice: JPY 2757
+cardPrice: JPY 2799
 cardPriceNative: €14.99
 cardPriceNativeCurrency: EUR
 ---
@@ -134,17 +133,16 @@ cardPriceNativeCurrency: EUR
 
 **索引ではスペインが約€14.99から、他区は同スナップで上振れ。**
 
-
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| スペイン | JPY 2800 | €14.99 |
-| ブラジル | JPY 2905 | R$92.45 |
-| 日本 | JPY 3534 | ¥3,480 |
-| 香港 | JPY 3725 | HK$180 |
-| アメリカ合衆国 | JPY 4052 | $24.99 |
-| ドイツ | JPY 4668 | €24.99 |
-| フランス | JPY 4668 | €24.99 |
-| イタリア | JPY 4668 | €24.99 |
+| スペイン | JPY 2804 | €14.99 |
+| ブラジル | JPY 2909 | R$92.45 |
+| 日本 | JPY 3539 | ¥3,480 |
+| 香港 | JPY 3730 | HK$180 |
+| アメリカ合衆国 | JPY 4057 | $24.99 |
+| ドイツ | JPY 4674 | €24.99 |
+| フランス | JPY 4674 | €24.99 |
+| イタリア | JPY 4674 | €24.99 |
 
 割引は**偶発**に近い：直近1年で**約2回**、平均割引価格は**€17.75**付近、最安は**€11.35**。体感は「好きなら今でも十分」「底値だけは待てる」。
 

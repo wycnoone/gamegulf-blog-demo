@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/4iEFCE29B3u",
     "game_id": "4iEFCE29B3u",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -28,7 +27,7 @@
       "Shooter"
     ],
     "release_date": "2018-11-20",
-    "developer": "Digital Extremes",
+    "developer": null,
     "publisher": "Digital Extremes",
     "metacritic": 86
   },
@@ -49,12 +48,12 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 19.99,
-      "discount_price": 2.99,
-      "discount_rate": 85,
+      "price": 10.8,
+      "discount_price": 0.95,
+      "discount_rate": 91,
       "discount_tag": "Normal",
-      "discount_end": "6 days",
-      "release_date": "2020-07-24",
+      "discount_end": "2 days",
+      "release_date": "2020-11-19",
       "categories": [
         "Action",
         "Adventure",
@@ -84,6 +83,25 @@
       "url": "https://www.gamegulf.com/detail/2OJjPKonGxw"
     },
     {
+      "id": "ilKSKtMKd2S",
+      "title": "Maid of the Dead",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613750823411852.jpeg",
+      "metacritic": null,
+      "price": 19.5,
+      "discount_price": 9.75,
+      "discount_rate": 50,
+      "discount_tag": "Normal",
+      "discount_end": "17 days",
+      "release_date": "2024-02-15",
+      "categories": [
+        "Action",
+        "Shooter",
+        "Role-playing",
+        "Utility"
+      ],
+      "url": "https://www.gamegulf.com/detail/ilKSKtMKd2S"
+    },
+    {
       "id": "3brZfNExZa6",
       "title": "The Falconeer: Warrior Edition",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512919568419829.jpeg",
@@ -102,25 +120,6 @@
         "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/3brZfNExZa6"
-    },
-    {
-      "id": "ilKSKtMKd2S",
-      "title": "Maid of the Dead",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613750823411852.jpeg",
-      "metacritic": null,
-      "price": 6.47,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2024-02-15",
-      "categories": [
-        "Action",
-        "Shooter",
-        "Role-playing",
-        "Utility"
-      ],
-      "url": "https://www.gamegulf.com/detail/ilKSKtMKd2S"
     },
     {
       "id": "5JBy7MZcZzD",
@@ -163,6 +162,25 @@
       "url": "https://www.gamegulf.com/detail/1qd1htNKHOK"
     },
     {
+      "id": "g4AvQVXhQlE",
+      "title": "Dead Effect 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512231187916448.jpeg",
+      "metacritic": null,
+      "price": 1.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-18",
+      "categories": [
+        "Action",
+        "First-person",
+        "Role-playing",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/g4AvQVXhQlE"
+    },
+    {
       "id": "4UATf4VN8JX",
       "title": "S.T.A.L.K.E.R.: Call of Prypiat",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506635011917335.jpeg",
@@ -181,25 +199,6 @@
         "Other"
       ],
       "url": "https://www.gamegulf.com/detail/4UATf4VN8JX"
-    },
-    {
-      "id": "g4AvQVXhQlE",
-      "title": "Dead Effect 2",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512231187916448.jpeg",
-      "metacritic": null,
-      "price": 1.36,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2021-11-18",
-      "categories": [
-        "Action",
-        "First-person",
-        "Role-playing",
-        "Shooter"
-      ],
-      "url": "https://www.gamegulf.com/detail/g4AvQVXhQlE"
     },
     {
       "id": "1uXS0vjfBHd",
@@ -230,61 +229,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 230410,
-      "name": "Warframe",
-      "developer": [
-        "Digital Extremes"
-      ],
-      "publisher": [
-        "Digital Extremes"
-      ],
-      "metacritic_score": 69,
-      "metacritic_url": "https://www.metacritic.com/game/pc/warframe?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Online Co-op",
-        "Cross-Platform Multiplayer",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Workshop",
-        "In-App Purchases",
-        "Camera Comfort",
-        "Color Alternatives",
-        "Custom Volume Controls",
-        "Playable without Timed Input",
-        "Stereo Sound",
-        "Surround Sound",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "HDR available"
-      ],
-      "genres": [
-        "Action",
-        "RPG",
-        "Free To Play"
-      ],
-      "steam_price": null,
-      "total_recommendations": 2881,
-      "short_description": "Awaken as an unstoppable warrior and battle alongside your friends in this story-driven free-to-play online action game",
-      "supported_languages": "English<strong>*</strong>, German, French, Italian, Korean, Spanish - Spain, Simplified Chinese, Russian, Japanese, Polish, Portuguese - Brazil, Traditional Chinese, Turkish, Ukrainian, Thai<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 578174,
-        "total_negative": 81290,
-        "total_reviews": 659464,
-        "score_description": "Very Positive",
-        "positive_percent": 88
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

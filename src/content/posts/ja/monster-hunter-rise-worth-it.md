@@ -130,7 +130,7 @@ priceRows:
 cardPriceEur: 4.33
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 807
+cardPrice: JPY 808
 cardPriceNative: ¥3,990
 cardPriceNativeCurrency: JPY
 ---
@@ -145,17 +145,16 @@ cardPriceNativeCurrency: JPY
 
 **Monster Hunter Riseは今、日本の価格が最安で€4.33。**
 
-
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 809 | ¥3,990 |
-| ブラジル | JPY 5780 | R$184.00 |
-| 香港 | JPY 6363 | HK$308.00 |
-| アメリカ合衆国 | JPY 6473 | $39.99 |
-| ドイツ | JPY 7471 | €39.99 |
-| スペイン | JPY 7471 | €39.99 |
-| フランス | JPY 7471 | €39.99 |
-| ポルトガル | JPY 7471 | €39.99 |
+| 日本 | JPY 810 | ¥3,990 |
+| ブラジル | JPY 5787 | R$184.00 |
+| 香港 | JPY 6371 | HK$308.00 |
+| アメリカ合衆国 | JPY 6481 | $39.99 |
+| ドイツ | JPY 7480 | €39.99 |
+| スペイン | JPY 7480 | €39.99 |
+| フランス | JPY 7480 | €39.99 |
+| ポルトガル | JPY 7480 | €39.99 |
 
 履歴を見ると、過去1年で**7回のセール**があり、平均割引価格は約€7.15。直近の**割引**は8日前で、いまは実際に安い局面です。GameGulfで自分の地域の価格を確認し、GameGulfの履歴で最安値との差を見て、GameGulfのアラートで待つか即買いか決めるのが安全です。
 

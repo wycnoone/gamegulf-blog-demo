@@ -2,10 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/cLQgELwmAee",
     "game_id": "cLQgELwmAee",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf"
+      "gamegulf",
+      "hltb"
     ]
   },
   "game": {
@@ -282,23 +283,22 @@
   ],
   "similar_games": [
     {
-      "id": "9FPzXGqmCY7",
-      "title": "H1.Jack",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510731567017350.jpeg",
+      "id": "djBQAWOIt0X",
+      "title": "Jack Axe",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512430098417933.jpeg",
       "metacritic": null,
-      "price": 0.31,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2022-10-20",
+      "price": 9.61,
+      "discount_price": 1.86,
+      "discount_rate": 80,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "5 days",
+      "release_date": "2021-10-07",
       "categories": [
         "Action",
         "Adventure",
-        "Arcade",
-        "Education"
+        "Party"
       ],
-      "url": "https://www.gamegulf.com/detail/9FPzXGqmCY7"
+      "url": "https://www.gamegulf.com/detail/djBQAWOIt0X"
     },
     {
       "id": "4OqO2sRI66Z",
@@ -309,13 +309,27 @@
       "discount_price": 2.67,
       "discount_rate": 85,
       "discount_tag": "LowPrice",
-      "discount_end": "10 days",
+      "discount_end": "3 days",
       "release_date": "2022-09-20",
       "categories": [
         "Adventure",
         "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/4OqO2sRI66Z"
+    },
+    {
+      "id": "e4jZwpjh2Gt",
+      "title": "Black Jack",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514844352316529.jpeg",
+      "metacritic": null,
+      "price": 8.55,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-05-14",
+      "categories": [],
+      "url": "https://www.gamegulf.com/detail/e4jZwpjh2Gt"
     },
     {
       "id": "5IdTgHFvQlH",
@@ -337,36 +351,21 @@
       "url": "https://www.gamegulf.com/detail/5IdTgHFvQlH"
     },
     {
-      "id": "e4jZwpjh2Gt",
-      "title": "Black Jack",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514844352316529.jpeg",
+      "id": "7GF65hVerZ4",
+      "title": "Jack Barau",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505322877011483.jpeg",
       "metacritic": null,
-      "price": 8.55,
+      "price": 8.6,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2020-05-14",
-      "categories": [],
-      "url": "https://www.gamegulf.com/detail/e4jZwpjh2Gt"
-    },
-    {
-      "id": "djBQAWOIt0X",
-      "title": "Jack Axe",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512430098417933.jpeg",
-      "metacritic": null,
-      "price": 14.99,
-      "discount_price": 2.99,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "25 days",
-      "release_date": "2021-10-07",
+      "release_date": "2025-05-01",
       "categories": [
-        "Action",
-        "Adventure",
-        "Party"
+        "Platformer",
+        "Puzzle"
       ],
-      "url": "https://www.gamegulf.com/detail/djBQAWOIt0X"
+      "url": "https://www.gamegulf.com/detail/7GF65hVerZ4"
     },
     {
       "id": "eYCCshYb6Qm",
@@ -412,7 +411,7 @@
       "title": "Outbound",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502654469112095.jpeg",
       "metacritic": null,
-      "price": 12.01,
+      "price": 12.41,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -442,7 +441,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:20+00:00"
+      "priceValidUntil": "2026-05-29T19:45:28+00:00"
     },
     {
       "@type": "Offer",
@@ -455,7 +454,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:20+00:00"
+      "priceValidUntil": "2026-05-29T19:45:28+00:00"
     },
     {
       "@type": "Offer",
@@ -468,7 +467,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:20+00:00"
+      "priceValidUntil": "2026-05-29T19:45:28+00:00"
     },
     {
       "@type": "Offer",
@@ -481,7 +480,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:20+00:00"
+      "priceValidUntil": "2026-05-29T19:45:28+00:00"
     },
     {
       "@type": "Offer",
@@ -494,7 +493,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:20+00:00"
+      "priceValidUntil": "2026-05-29T19:45:28+00:00"
     },
     {
       "@type": "Offer",
@@ -507,7 +506,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:20+00:00"
+      "priceValidUntil": "2026-05-29T19:45:28+00:00"
     },
     {
       "@type": "Offer",
@@ -520,7 +519,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:20+00:00"
+      "priceValidUntil": "2026-05-29T19:45:28+00:00"
     }
   ],
   "price_analytics": {
@@ -563,7 +562,7 @@
           "end": "2026-03-12"
         }
       ],
-      "days_since_last_discount": 41,
+      "days_since_last_discount": 48,
       "last_discount": {
         "date": "2026-03-12",
         "price_eur": 5.68,
@@ -582,6 +581,15 @@
   },
   "enrichment": {
     "steam": null,
-    "hltb": null
+    "hltb": {
+      "hltb_id": 88918,
+      "name": "Jack Jeanne",
+      "main_story_hours": 24,
+      "main_extra_hours": 78,
+      "completionist_hours": 214,
+      "all_styles_hours": 63,
+      "review_score": 86,
+      "total_submissions": 15
+    }
   }
 }

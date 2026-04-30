@@ -1,76 +1,80 @@
 ---
-title: 2026年、Nintendo Switchで『Unavowed』は買い？
-description: 2026年4月Nintendo Switch购买参考：Unavowed、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: 2026年、Nintendo Switch版『アナヴォウド』（Unavowed）は買うべき？
+description: >-
+  2026年春の購入メモ。Urban supernatural
+  point‑and‑click。ブラジルの指数最安と北米／欧州リスト価格の裂け目をGameGulfで読む。
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: Unavowed
+gameTitle: 『アナヴォウド』（Unavowed）
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 読了約7分
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+readingTime: 8 分
+decision: 読むADVが好きなら依然トップ級。問題はブラジル級の値とアメリカ／欧州リスト格のギャップ。
+priceSignal: 同じ本作でもアカウントにより「別ゲーム値段」になり得る。
+heroStat: Metacritic 91
+heroNote: アーバンファンタジADV。分身主人公と2体制パーティ。タッチ入力対応。
+badge: 好み次第で極めてお得
+verdict: right_player
+priceCall: watch
+confidence: medium
+actionBucket: wait
+featuredPriority: 2
+listingTakeaway: 『アナヴォウド』（Unavowed）—約MC91の物語ADV。ブラジル行が頭、米欧はMSRPクラス並びになりやすい。
+whatItIs: 伝統的ADVとパーティスキルの重ね掛け。ニューヨーク五区短篇。
+bestFor: 長文ログを楽しめる推理／都市伝説読み派。
+avoidIf: アクションのみ求めるプレイヤー。
+consensusPraise: 謎構造が単なる分岐フラグじゃ済まない。
+mainFriction: テンポは遅め——読むのが苦痛なら不向き。
+timeFit: メイン10来時間級。隊列替え一周で伸びる。
+fitLabel: 深夜のミステリーノベル読みタイプへ。
+timingNote: PCで既に夜更かし済みならSwitchは携帯版として割り切る。
+communityVibe: ニューヨークより会話ボリュームが邪悪。
+playtime: おおよそ メイン約10時間 · 追加約12時間帯 · 全クリ約22時間級
+reviewSignal: Metacritic 91
+takeaway: 名作かどうかより「自分がADVを愛するか」が先。**GameGulf** が示す多地域価格差は読書前に押さえるべき事実ネタになる。
+playStyle: アドベンチャー／パズル語り／タッチ最適解。
+timeCommitment: 何晩にも分割可能——ただしまとめ読みほど爽快。
+playMode: シングルプレイのみ。
+whyNow: Wadjet Eyeの質は既知問題。ポートは読みやすさ勝負。
+currentDeal: GameGulf見る限りブラジルが約€4.69級、USは約$14.99級、Euro圏€14.99級並びが定番ヘッドライン。
+nearHistoricalLow: ブラジル履歴floorは〜€3.75も観測——いまは世界参照値€4.69付近であり「絶対最安のみOK」規律なら様子見か。
+salePattern: 過去1年カウントは1イベント平均€4.69クラスとのブリーフ。日数は〜36日前のブラジル下落参照。
+priceRecommendation: watch
+quickFilters:
+  - short_sessions
+  - under_20
+  - great_on_sale
+playerNeeds:
+  - value_for_money
+tags:
+  - アナヴォウド switch
+  - Unavowed 日本語 価格
+  - gamegulf セール
+playerVoices:
+  - quote: 隊列替えだけで謎語彙が変わる。
+    sentiment: positive
+  - quote: ログの量が読書並み。
+    sentiment: mixed
+  - quote: タッチ調査が救いたま。
+    sentiment: positive
+communityMemes:
+  - レインログ地獄
+  - アーバンノワール耐性
+  - ニューヨーク家賃の悪夢
+tldr: >-
+  『アナヴォウド』（Unavowed）—約MC91読みADV。ブラジル最安級と北米リスト格は別世界。**GameGulf**
+  で地域を確定させてから感情で買わないこと。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price
 gameHref: https://www.gamegulf.com/detail/kxyrmTE8vZE
 membershipHref: https://www.gamegulf.com/pricing
-heroStat: Metacritic 91点台
-heroNote: Unavowed：Adventure, Puzzle, Role-playing；Wadjet Eye Games。
-badge: 好み次第
-verdict: right_player
-priceCall: watch
-confidence: medium
-actionBucket: set_alert
-featuredPriority: 2
-listingTakeaway: Unavowed：Adventure, Puzzle, Role-playing；2026年4月价格分区差值得先对照 GameGulf。
-whatItIs: Adventure, Puzzle, Role-playing — Unavowed on Nintendo Switch.
-bestFor: 想要Adventure, Puzzle, Role-playing且接受掌机体量的人。
-avoidIf: 不喜欢Adventure, Puzzle, Role-playing气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；Metacritic 91点台 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: Metacritic 91点台
-takeaway: Unavowed 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Adventure, Puzzle, Role-playing
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 1 次促销波动——折扣是常态。
-priceRecommendation: watch
-quickFilters:
-  - great_on_sale
-  - short_sessions
-playerNeeds:
-  - value_for_money
-  - wait_for_sale
-tags:
-  - unavowed nintendo switch
-  - unavowed worth it
-  - unavowed price
-  - gamegulf deals
-playerVoices:
-  - quote: 掌机模式整体可玩。
-    sentiment: positive
-  - quote: 深度折扣才值。
-    sentiment: mixed
-  - quote: 購入前に自分のリージョンの価格を確認してください。
-    sentiment: positive
-communityMemes:
-  - Unavowed sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Unavowed — Metacritic 91点台；看个人口味与价格是否同时成立。
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
+heroTheme: brand
 priceRows:
   - regionCode: BR
     eurPrice: 4.69
@@ -107,85 +111,56 @@ priceRows:
 cardPriceEur: 4.69
 cardPriceRegionCode: BR
 cardPriceRegion: ブラジル
-cardPrice: JPY 876
+cardPrice: JPY 877
 cardPriceNative: R$27.99
 cardPriceNativeCurrency: BRL
 faq:
-  - question: 2026年、Nintendo Switchで『Unavowed』は買い？
+  - question: 2026年、Switch「アナヴォウド」（Unavowed）は買うべき？
     answer: >-
-      Unavowed 是否值得买取决于你是否喜欢Adventure, Puzzle, Role-playing，以及你在 GameGulf
-      上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Unavowed?
+      『アナヴォウド』（Unavowed）は長文ログと都市ドラマが好きなら買う価値は依然あり、Metacritic約91の評価帯とも整合する。ただしGameGulfの指数はブラジル最安級と北米リスト格を同ページに並べるので、まず自分の決済できる地域タグを読み解いてからにしてください。
+  - question: アナヴォウドにはどれぐらい時間がかかる？
+    answer: 『アナヴォウド』（Unavowed） — メインはおおよそ10時間前後が目安。コンパニオン入れ替え二周や網羅視点へ行くともう少し伸びる。
+  - question: 「アナヴォウド」でプレイヤーが挫折しやすい点は？
     answer: >-
-      Unavowed — treat runtime as store-listed scope; verify patch notes if you
-      need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Unavowed — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
+      『アナヴォウド』（Unavowed）
+      —ログの密度と伝統的ピクセル探索の往復運動。**タッチ**でマシになるが、読む気が無い時は救われない。**GameGulf** と
+      **gamegulf.com** は読む時間と別軸として価格だけ整頓できる。
 ---
-## 結論
 
-**Unavowed** reads as **Metacritic 91点台**  — **Adventure, Puzzle, Role-playing** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+## クイック判定
 
-**セール**履歴：**最安値**は **€4.69** 付近（BR）、直近1年で **1** 回の動き、**平均セール価格**は **€4.69**、直近の大きめの動きから **29** 日（**2026-03-24 (Brazil, €4.69)**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)で最新行を確認してください。
+**『アナヴォウド』（Unavowed）**は**約Metacritic 91**の**アメリカ都市伝説ドラマADV**であり、仲間コンビの**ピューチルチェンジが謎構造ごとひっくり返す**。**GameGulfブリーフ**ではブラジルが現在の**頭行（約€4.69級）で、North America と Euro圏リストはアメリカ $14.99／€14.99級**と**まったく別物の行列**になりやすい。
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price) so you can sanity-check the **discount** story before checkout.
+**詳細：** [gamegulf.com detail](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price) と **wishlist** [wishlistリンク](https://www.gamegulf.com/wishlist) を活用し、アラート運用には [pricing](https://www.gamegulf.com/pricing) が役立つ。
 
-## 『Unavowed』はNintendo Switchでいまいくら？
+## Switchでの価格は？
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**インデックス上の頭はブラジル**。表は **`priceRows` ソース**であり、読み込みタイミングで動くので必ず **`gamegulf`** の詳細ページを再確認。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ブラジル | JPY 876 | R$27.99 |
-| アメリカ合衆国 | JPY 2395 | $14.99 |
-| ドイツ | JPY 2800 | €14.99 |
-| スペイン | JPY 2800 | €14.99 |
-| フランス | JPY 2800 | €14.99 |
-| イタリア | JPY 2800 | €14.99 |
-| ポルトガル | JPY 2800 | €14.99 |
-| イギリス | JPY 2897 | £13.49 |
+| ブラジル | JPY 877 | R$27.99 |
+| アメリカ合衆国 | JPY 2398 | $14.99 |
+| ドイツ | JPY 2804 | €14.99 |
+| スペイン | JPY 2804 | €14.99 |
+| フランス | JPY 2804 | €14.99 |
+| イタリア | JPY 2804 | €14.99 |
+| ポルトガル | JPY 2804 | €14.99 |
+| イギリス | JPY 2901 | £13.49 |
 
-## 『Unavowed』はどんなゲーム？
+**割引シグナル（2026年4月ブリーフ）:** `discount_events_1y` は **1** 件だが、**2026-03-24** のブラジル **discount** は **約 €4.69**、参考 **最安値** フロアは **2025-05** の **~€3.75**。**セール**判断は北米 **$14.99** 行とセットで見ろ——口伝の **sale** より生データ。
 
-**Unavowed** is a **Adventure, Puzzle, Role-playing** package from **Wadjet Eye Games** — treat the long store blurb as marketing, but the **genre mix** and **Metacritic 91点台** signal are the real buying compass.
+## Unavowedってどんなタイプ？
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+**Wadjet Eye**の伝統**ポイント＆クリック**に**ニューヨーク短篇ミステリー**。**仲間選択二枠がルート解法を変える**が、単なるフラグ増殖とは違って**読み応えにも跳ねる**。
 
-## 『Unavowed』のNintendo Switch動作は？
+**GameGulf** と **ゲーム本編** は別サービスだけど、両方まわすと精神的負担が減る——**読むだけで疲れるタイプには向かない**。**gamegulf.com で価だけ先に並べろ**とはこういう意味。
 
-**Unavowed** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## Switchポートの動き？
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+**入力遅延地獄**ではなく、**テキスト処理地獄**。**タッチ読み込みが救い**。イヤホンでの雰囲気酔い優先。**GameGulf** の数値とは別軸での注意。
 
-## いま買うなら
+## 購入向き／見送り向き（要旨）
 
-- You want **Adventure, Puzzle, Role-playing** pacing and the **Metacritic 91点台** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
-
-## 待つなら
-
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Adventure, Puzzle, Role-playing) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
-
-## 『Unavowed』(Nintendo Switch)の最後に
-
-**Unavowed** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+ブラジルの価タグでも**長文ドラマ読みたい**。そうじゃなく**アクションのみ**しか取りたくない。**GameGulf**が示すリスト格差だけは先に頭に叩き込んでから。

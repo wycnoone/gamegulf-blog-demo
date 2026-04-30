@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/kKfeWM8ImWj",
     "game_id": "kKfeWM8ImWj",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -27,7 +27,7 @@
       "Puzzle"
     ],
     "release_date": "2021-12-15",
-    "developer": "Wishes Ultd., Greg Lobanov, Alexis Dean-Jones, Lena Raine, Madeline Berger, A Shell in the Pit",
+    "developer": null,
     "publisher": "Finji",
     "metacritic": 90
   },
@@ -342,12 +342,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -365,7 +365,7 @@
       "discount_price": 1.99,
       "discount_rate": 90,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "discount_end": "2 hr",
       "release_date": "2018-08-07",
       "categories": [
         "Adventure",
@@ -460,7 +460,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:35+00:00"
+      "priceValidUntil": "2026-05-29T19:34:29+00:00"
     },
     {
       "@type": "Offer",
@@ -473,7 +473,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:35+00:00"
+      "priceValidUntil": "2026-05-29T19:34:29+00:00"
     },
     {
       "@type": "Offer",
@@ -486,7 +486,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:35+00:00"
+      "priceValidUntil": "2026-05-29T19:34:29+00:00"
     },
     {
       "@type": "Offer",
@@ -499,7 +499,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:35+00:00"
+      "priceValidUntil": "2026-05-29T19:34:29+00:00"
     },
     {
       "@type": "Offer",
@@ -512,7 +512,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:35+00:00"
+      "priceValidUntil": "2026-05-29T19:34:29+00:00"
     },
     {
       "@type": "Offer",
@@ -525,7 +525,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:35+00:00"
+      "priceValidUntil": "2026-05-29T19:34:29+00:00"
     },
     {
       "@type": "Offer",
@@ -538,7 +538,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:35+00:00"
+      "priceValidUntil": "2026-05-29T19:34:29+00:00"
     }
   ],
   "price_analytics": {
@@ -577,7 +577,7 @@
           "end": "2025-12-22"
         }
       ],
-      "days_since_last_discount": 121,
+      "days_since_last_discount": 128,
       "last_discount": {
         "date": "2025-12-22",
         "price_eur": 8.03,
@@ -595,56 +595,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 1123450,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 71074,
       "name": "Chicory: A Colorful Tale",
-      "developer": [
-        "Wishes Ultd.",
-        "Greg Lobanov",
-        "Alexis Dean-Jones",
-        "Lena Raine",
-        "Madeline Berger",
-        "A Shell in the Pit"
-      ],
-      "publisher": [
-        "Finji"
-      ],
-      "metacritic_score": 90,
-      "metacritic_url": "https://www.metacritic.com/game/pc/chicory-a-colorful-tale?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Shared/Split Screen Co-op",
-        "Shared/Split Screen",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Cloud",
-        "Remote Play Together",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
-      "steam_price": "$19.99",
-      "total_recommendations": 3335,
-      "short_description": "A top-down adventure game in a coloring book world full of vibrant characters. Use painting powers to explore, solve puzzles, make friends, and draw on anything! From creators on Wandersong + Celeste.",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 3803,
-        "total_negative": 96,
-        "total_reviews": 3899,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 98
-      }
-    },
-    "hltb": null
+      "main_story_hours": 9,
+      "main_extra_hours": 13,
+      "completionist_hours": 21,
+      "all_styles_hours": 14,
+      "review_score": 82,
+      "total_submissions": 526
+    }
   }
 }

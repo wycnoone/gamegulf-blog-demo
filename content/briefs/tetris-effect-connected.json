@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/6Rq3jqh8KUa",
     "game_id": "6Rq3jqh8KUa",
-    "extracted_at": "2026-04-07",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -13,21 +13,20 @@
   "game": {
     "title": "Tetris® Effect: Connected",
     "description": "Tetris® Effect: Connected is Tetris like you've never seen it, or heard it, or felt it before—an incredibly addictive, unique, and breathtakingly gorgeous reinvention of one of the most popular puzzle games of all time, from the people who brought you the award-winning Rez Infinite and legendary puzzle game Lumines.\n\nMusic, backgrounds, sounds, special effects—everything, down to the Tetriminos themselves—pulse, dance, shimmer, and explode in perfect sync with how you're playing, making any of the game's 30+ stages and 10+ modes something you'll want to experience over and over again.\n\nPlus cross-platform multiplayer modes for competitive and cooperative play!\n\nAn exhilarating single-player experience full of surprises.\n• Over 30 different stages, each with its own music, sound effects, graphical style and background that all evolve and change as you play through them.\n\nThe Zone is an all-new mechanic designed just for Tetris Effect: Connected!\n• Includes the all-new “Zone” mechanic, where players can stop time (and Tetriminos falling) by entering “the Zone” and either get out of a sticky situation that could otherwise lead to “Game Over,” or rack up extra Line Clears for bonus rewards.\n\nCross-platform multiplayer lets you play with players from all over the world!\n• Players on different platforms can easily join Friend Match rooms with the new Room ID feature.\n\nA wide variety of competitive and co-op modes!\n• Among the new modes is \"CONNECTED,\" where three players can team up and literally connect their Tetris Matrices to fight against A.I.-controlled Bosses; \"Zone Battle,\" a one-on-one match of standard competitive Tetris, but with a twist: the time-stopping Zone mechanic; and \"Score Attack\" and \"Classic Score Attack,” two single-player versus modes where two players compete separately to see who can get the best score.\n\nJoin in on the fun in Spectator mode!\n• Spectator mode is available in Friend Matches. A room can contain up to 8 total people. Spectators can use emotes during the match to liven up the competition.",
-    "cover_image": "https://cdn.gamegulf.com/upload/1740988010155113796989.jpeg",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413047412191.jpeg",
     "all_images": [
-      "https://cdn.gamegulf.com/upload/1740988010155113796989.jpeg",
-      "https://cdn.gamegulf.com/upload/1740988010606100136989.jpeg",
-      "https://cdn.gamegulf.com/upload/1740988011084143436989.jpeg",
-      "https://cdn.gamegulf.com/upload/1740988011582185446989.jpeg",
-      "https://cdn.gamegulf.com/upload/1740988011998159226989.jpeg",
-      "https://cdn.gamegulf.com/upload/1740988012523109956989.jpeg",
-      "https://cdn.gamegulf.com/upload/1740988012884163926989.jpeg"
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413047412191.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413185012453.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413178613493.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413183614267.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413178114686.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413178913378.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413402018497.jpeg"
     ],
     "genres": [
-      "Puzzle",
-      "Multiplayer",
-      "Music",
       "Arcade",
+      "Music",
+      "Puzzle",
       "Action",
       "Party"
     ],
@@ -37,140 +36,130 @@
     "metacritic": 94
   },
   "platforms": {
-    "switch": {
-      "name": "Nintendo Switch",
+    "switch 1": {
+      "name": "Nintendo Switch 1",
       "enabled": true,
-      "languages": [
-        "Japanese",
-        "French",
-        "German",
-        "Italian",
-        "Spanish",
-        "Korean",
-        "Simplified Chinese",
-        "Traditional Chinese",
-        "English"
-      ],
+      "languages": [],
       "digital": [
         {
           "country_code": "HK",
           "country": "Hong Kong SAR China",
-          "price": 19.49,
+          "price": 19.22,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 19.49
+          "calculate_value": 19.22
+        },
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 24.3,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.3
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 34.2,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.2
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 34.21
         },
         {
           "country_code": "DE",
           "country": "Germany",
           "price": 39.99,
-          "discount_price": 19.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-12 21:59:59",
-          "discount_end_timestamp": 1776031199,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 19.99
+          "calculate_value": 39.99
         },
         {
           "country_code": "ES",
           "country": "Spain",
           "price": 39.99,
-          "discount_price": 19.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-12 21:59:59",
-          "discount_end_timestamp": 1776031199,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 19.99
+          "calculate_value": 39.99
         },
         {
           "country_code": "FR",
           "country": "France",
           "price": 39.99,
-          "discount_price": 19.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-12 21:59:59",
-          "discount_end_timestamp": 1776031199,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 19.99
+          "calculate_value": 39.99
         },
         {
           "country_code": "IT",
           "country": "Italy",
           "price": 39.99,
-          "discount_price": 19.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-12 21:59:59",
-          "discount_end_timestamp": 1776031199,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 19.99
+          "calculate_value": 39.99
         },
         {
           "country_code": "PT",
           "country": "Portugal",
           "price": 39.99,
-          "discount_price": 19.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-12 22:59:59",
-          "discount_end_timestamp": 1776034799,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 19.99
+          "calculate_value": 39.99
         },
         {
           "country_code": "GB",
           "country": "United Kingdom",
-          "price": 41.3,
-          "discount_price": 20.65,
-          "discount_rate": 50,
-          "discount_end": "2026-04-12 22:59:59",
-          "discount_end_timestamp": 1776034799,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 20.65
-        },
-        {
-          "country_code": "JP",
-          "country": "Japan",
-          "price": 24.47,
+          "price": 41.37,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 24.47
-        },
-        {
-          "country_code": "BR",
-          "country": "Brazil",
-          "price": 34.31,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 34.31
-        },
-        {
-          "country_code": "US",
-          "country": "United States",
-          "price": 34.71,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 34.71
+          "calculate_value": 41.37
         }
       ],
       "physical": [],
@@ -182,13 +171,6 @@
         {
           "period": "180 D",
           "entries": [
-            {
-              "date": "2025-10-15",
-              "country_code": "BR",
-              "value": 34.31,
-              "currency": "EUR",
-              "country": "Brazil"
-            },
             {
               "date": "2025-11-02",
               "country_code": "FR",
@@ -206,7 +188,7 @@
             {
               "date": "2025-12-17",
               "country_code": "HK",
-              "value": 9.75,
+              "value": 9.61,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
             },
@@ -225,14 +207,14 @@
             {
               "date": "2025-06-09",
               "country_code": "HK",
-              "value": 9.75,
+              "value": 9.61,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
             },
             {
               "date": "2025-07-20",
               "country_code": "HK",
-              "value": 9.75,
+              "value": 9.61,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
             },
@@ -253,7 +235,7 @@
             {
               "date": "2025-10-15",
               "country_code": "BR",
-              "value": 34.31,
+              "value": 34.2,
               "currency": "EUR",
               "country": "Brazil"
             },
@@ -274,7 +256,7 @@
             {
               "date": "2025-12-17",
               "country_code": "HK",
-              "value": 9.75,
+              "value": 9.61,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
             },
@@ -288,30 +270,6 @@
           ]
         }
       ]
-    },
-    "xbox": {
-      "name": "Xbox",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
-    },
-    "psn": {
-      "name": "PlayStation Network",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
-    },
-    "steam": {
-      "name": "Steam",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
     }
   },
   "lows": [
@@ -323,16 +281,79 @@
       "type": "Local Low",
       "entries": [
         {
-          "platform": "Nintendo Switch",
+          "platform": "Nintendo Switch 1",
           "country_code": "US",
-          "value": 34.71,
+          "value": 34.21,
           "currency": "EUR",
           "price_type": "Digital"
         }
       ]
     }
   ],
-  "similar_games": [],
+  "similar_games": [
+    {
+      "id": "fdBKzsNMf3y",
+      "title": "LUMINES REMASTERED",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516965006112065.jpeg",
+      "metacritic": 83,
+      "price": 12.82,
+      "discount_price": 3.84,
+      "discount_rate": 70,
+      "discount_tag": "LowPrice",
+      "discount_end": "11 hr",
+      "release_date": "2018-06-26",
+      "categories": [
+        "Arcade",
+        "Puzzle",
+        "Action",
+        "Music",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/fdBKzsNMf3y"
+    },
+    {
+      "id": "8mKL2Z8wXgx",
+      "title": "Tales from Candleforth",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507808511418352.jpeg",
+      "metacritic": null,
+      "price": 11.99,
+      "discount_price": 4.19,
+      "discount_rate": 65,
+      "discount_tag": "Normal",
+      "discount_end": "2 hr",
+      "release_date": "2024-04-30",
+      "categories": [
+        "Adventure",
+        "Arcade",
+        "Party",
+        "Puzzle",
+        "Action",
+        "Music"
+      ],
+      "url": "https://www.gamegulf.com/detail/8mKL2Z8wXgx"
+    },
+    {
+      "id": "leR3268S9Lz",
+      "title": "Scramballed!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509969591916723.jpeg",
+      "metacritic": null,
+      "price": 0.28,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-03-23",
+      "categories": [
+        "Music",
+        "Action",
+        "Puzzle",
+        "Arcade",
+        "Fighting",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/leR3268S9Lz"
+    }
+  ],
   "schema_offers": [
     {
       "@type": "Offer",
@@ -345,7 +366,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:33:36+00:00"
+      "priceValidUntil": "2026-05-29T19:15:09+00:00"
     },
     {
       "@type": "Offer",
@@ -358,7 +379,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:33:36+00:00"
+      "priceValidUntil": "2026-05-29T19:15:09+00:00"
     },
     {
       "@type": "Offer",
@@ -371,7 +392,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:33:36+00:00"
+      "priceValidUntil": "2026-05-29T19:15:09+00:00"
     },
     {
       "@type": "Offer",
@@ -384,7 +405,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:33:36+00:00"
+      "priceValidUntil": "2026-05-29T19:15:09+00:00"
     },
     {
       "@type": "Offer",
@@ -397,7 +418,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:33:36+00:00"
+      "priceValidUntil": "2026-05-29T19:15:09+00:00"
     },
     {
       "@type": "Offer",
@@ -410,7 +431,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:33:36+00:00"
+      "priceValidUntil": "2026-05-29T19:15:09+00:00"
     },
     {
       "@type": "Offer",
@@ -423,35 +444,35 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:33:36+00:00"
+      "priceValidUntil": "2026-05-29T19:15:09+00:00"
     }
   ],
   "price_analytics": {
-    "switch": {
+    "switch 1": {
       "current_cheapest": {
-        "price_eur": 19.49,
+        "price_eur": 19.22,
         "region": "Hong Kong SAR China",
         "country_code": "HK"
       },
       "global_low": {
-        "price_eur": 9.75,
+        "price_eur": 9.61,
         "region": "HK",
         "date": "2025-06-09"
       },
       "local_low": {
-        "price_eur": 34.71,
+        "price_eur": 34.21,
         "region": "US",
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 9.75,
+        "price_eur": 9.61,
         "region": "HK",
         "country": "Hong Kong SAR China",
         "date": "2025-06-09"
       },
       "at_or_near_historical_low": false,
       "discount_events_1y": 3,
-      "avg_discount_price_eur": 16.58,
+      "avg_discount_price_eur": 16.53,
       "sale_periods": [
         {
           "start": "2025-06-09",
@@ -462,57 +483,15 @@
           "end": "2025-12-17"
         }
       ],
-      "days_since_last_discount": 111,
+      "days_since_last_discount": 133,
       "last_discount": {
         "date": "2025-12-17",
-        "price_eur": 9.75,
+        "price_eur": 9.61,
         "region": "Hong Kong SAR China",
-        "drop_pct": 51
+        "drop_pct": 52
       },
       "trend_entries_count": 9,
       "price_verdict": "occasional_discounter"
-    },
-    "xbox": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
-    },
-    "psn": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
-    },
-    "steam": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
     }
   },
   "product_links": {
@@ -559,8 +538,8 @@
         "Casual",
         "Indie"
       ],
-      "steam_price": "$39.99",
-      "total_recommendations": 8152,
+      "steam_price": "¥ 116.00",
+      "total_recommendations": 8184,
       "short_description": "Tetris® Effect: Connected adds an all-new robust multiplayer expansion to the huge variety of addictive and innovative single-player modes that Tetris Effect is known for, with all-new co-op and competitive online and local multiplayer modes!",
       "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese, Korean, Simplified Chinese, Thai, Traditional Chinese<br><strong>*</strong>languages with full audio support",
       "platforms": {
@@ -569,9 +548,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 8250,
-        "total_negative": 467,
-        "total_reviews": 8717,
+        "total_positive": 8281,
+        "total_negative": 469,
+        "total_reviews": 8750,
         "score_description": "Very Positive",
         "positive_percent": 95
       }
@@ -583,8 +562,8 @@
       "main_extra_hours": 8,
       "completionist_hours": 57,
       "all_styles_hours": 5,
-      "review_score": 83,
-      "total_submissions": 468
+      "review_score": 82,
+      "total_submissions": 472
     }
   }
 }

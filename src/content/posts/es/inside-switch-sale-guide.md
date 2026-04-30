@@ -24,13 +24,15 @@ priceCall: wait
 confidence: medium
 actionBucket: wait
 featuredPriority: 2
-listingTakeaway: Indie ~91 — ofertas frecuentes; PVP rara vez es el movimiento listo.
+listingTakeaway: >-
+  Indie ~91 — ofertas frecuentes; pagar PVP rara vez es la decisión más
+  inteligente.
 whatItIs: Puzzle-platformer mudo — sigilo, acertijos, ritmo cinematico.
 bestFor: Thriller corto sin relleno.
 avoidIf: Dialogo, RPG o tono soleado obligatorio.
 consensusPraise: Atmosfera, sonido, ritmo one-shot seguros.
 mainFriction: Prueba-error oscuro si no te gusta.
-timeFit: Corto ~3-5h (no HLTB).
+timeFit: Corto ~3-5h (no ).
 fitLabel: Indie como pelicula con mando.
 timingNote: Compara fila con Brasil y minimo Japon ~1,25 EUR antes del PVP.
 communityVibe: ADN Limbo, muro spoiler, auriculares
@@ -145,20 +147,19 @@ cardPrice: EUR 12.28
 cardPriceNative: R$72.99
 cardPriceNativeCurrency: BRL
 ---
-
 ## Veredicto rapido
 
-**INSIDE es puzzle-thriller Playdead ~91 Metacritic** — sigilo mudo, fisica, final culto. **3-5 h**.
+**INSIDE** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **91 Metacritic**.
 
-Abril 2026: **Brasil ~12,28 EUR** index; historial **Japon ~1,25 EUR 17 abr 2025**, **siete** descuentos, **media ~3,77 EUR**. Sin prisa, **espera** siguiente **oferta**. [Tabla en vivo](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
+INSIDE es obra esencial — no pagues lista si tu region flota sobre la proxima oferta.
 
-**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €12.28.
 
-## Cuanto cuesta INSIDE — precio y oferta ahora
+Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
 
-**Indice abril 2026 abre Brasil ~12,28 EUR eq.**
+## Cuanto cuesta INSIDE en Nintendo Switch ahora?
 
-
+INSIDE es obra esencial — no pagues lista si tu region flota sobre la proxima oferta.
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
 | Brasil | EUR 12.28 | R$72.99 |
@@ -170,32 +171,34 @@ Abril 2026: **Brasil ~12,28 EUR** index; historial **Japon ~1,25 EUR 17 abr 2025
 | Francia | EUR 22.99 | €22.99 |
 | Italia | EUR 22.99 | €22.99 |
 
-**Historial de descuento**: **mínimo histórico** cerca de **€1,25** en **Japón el 17 abr 2025**; listas 2026 por encima de la banda **oferta ~€3,77**. Último **descuento** hace **5 días** (**Hong Kong**, **2 abr 2026**, **~28%**). **INSIDE** entra en **oferta** a menudo — la **lista** envejece mal.
+## Que tipo de juego es INSIDE?
 
-## Que juego es
+Nucleo de genero: **Plataformas lateral, fisica, sigilo, lineal sin voz.**. Lo importante es si ese bucle te encaja, no el texto de marketing.
 
-Thriller lateral: puzzles y persecuciones. Luces, cajas, fisica.
+## Como rinde INSIDE en Nintendo Switch?
 
-1. Vinetas sigilo sin skill trees.
-2. Relato ambiental; audio lleva tension.
-3. Brevedad premium.
+Suele ser jugable con estabilidad razonable; confirma siempre con la version actual.
 
-Fans **LIMBO**: mismo peso tactil, SF mas claro.
+- Rendimiento: base estable con variaciones segun build.
+- Control/lectura: esquema estandar, legibilidad portatil segun contenido.
+- Modo de juego: Un jugador.
 
-## Switch
+## Comprar ahora si
 
-**30 fps** estable; siluetas > UI. Portatil legible; dock ok; mando simple.
+- te gusta **Plataformas lateral, fisica, sigilo, lineal sin voz.**
+- tu precio regional en GameGulf ya esta en rango objetivo
+- prefieres jugar ya en vez de esperar otra ventana de oferta
+- te cuadra el ritmo: Una noche o tarde larga.
 
-## Compra ahora si
+## Esperar si
 
-Necesitas **Playdead hoy**; fila ya es oferta aceptable; **91 Metacritic** > arbitrage; **3-5 h** encajan; **auriculares**.
-
-## Espera si
-
-**22-23 EUR** con historial **1-4 EUR** oferta; puedes esperar ciclo; copia Switch solo minimo; tension infantil no; quieres rejugabilidad lineal no.
+- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- no tienes claro el encaje de genero
+- este mes priorizas otros juegos
+- Dialogo, RPG o tono soleado obligatorio.
 
 ## Cierre
 
-**INSIDE** imprescindible ambiente — lista abril 2026 es impuesto urgencia opcional.
+Primero precio, luego gusto: aqui funciona mejor ese orden. Ventanas frecuentes, cortes profundos, rebote a lista.
 
-**Mira GameGulf una vez**, fija objetivo, compra cuando fila cuadre **oferta**.
+Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)** y decide comprar o esperar.

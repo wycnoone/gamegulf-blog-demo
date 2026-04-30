@@ -1,8 +1,10 @@
 ---
-title: Novel Rogue vaut-il le coup sur Nintendo Switch en 2026 ?
-description: 2026年4月Nintendo Switch购买参考：Novel Rogue、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: Novel Rogue sur Switch en 2026 — encore un bon achat ?
+description: >-
+  Guide avril 2026 : Novel Rogue — deck roguelite KEMCO, écart JP/EU sur
+  GameGulf.
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: Novel Rogue
 platform: Nintendo Switch
@@ -10,188 +12,166 @@ primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: true
 author: GameGulf Editorial AI
-readingTime: 7 min de lecture
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+readingTime: 8 min de lecture
+decision: >-
+  À prendre si GameGulf montre des lignes JP ~€8 ; passez si vous exigez
+  Metacritic ou détestez RNG deck.
+priceSignal: JP ~€8 versus EU ~€19,99 — région du compte décide.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1PBv755th4U#currency-price
 gameHref: https://www.gamegulf.com/detail/1PBv755th4U
 membershipHref: https://www.gamegulf.com/pricing
-heroStat: 70 Metacritic
+heroStat: Metacritic — pas de score critique agrégé (deck roguelite KEMCO)
 heroNote: >-
-  Novel Rogue：Role-playing, Adventure, Action, Simulation, Board game,
-  Strategy；Exe Create Inc.。
-badge: Selon les goûts
+  Exe Create / KEMCO — JRPG deck roguelite pixel, quatre livres enchantés et
+  Ink.
+badge: Bon pour le bon joueur
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  Novel Rogue：Role-playing, Adventure, Action, Simulation, Board game,
-  Strategy；2026年4月价格分区差值得先对照…
-whatItIs: >-
-  Role-playing, Adventure, Action, Simulation, Board game, Strategy — Novel
-  Rogue on Ninten…
-bestFor: 想要Role-playing, Adventure, Action, Simulation, Board game, …
-avoidIf: 不喜欢Role-playing, Adventure, Action, Simulation, Board game, Strategy气质就…
-consensusPraise: 口碑集中在玩法与完成度；70 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: 70 Metacritic
-takeaway: Novel Rogue 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Role-playing, Adventure, Action, Simulation, Board game, Strategy
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 2 次促销波动——折扣是常态。
+listingTakeaway: Novel Rogue deck roguelite ; avril 2026 JP €8.32 vs EU €19,99 sur GameGulf.
+whatItIs: JRPG deck roguelite — Ink, cartes tour par tour, quatre arcs livres.
+bestFor: Fans de boucles KEMCO courtes et RNG deck assumée.
+avoidIf: Besoin de Metacritic ou allergy RNG — passez.
+consensusPraise: Steam trop peu de retours — bruit faible.
+mainFriction: Sans critiques agrégées il reste démo/trailer.
+timeFit: Plusieurs soirées en runs.
+fitLabel: Compare JP avant MSRP EU.
+timingNote: Prix déjà bas — backlog suffit à hésiter.
+communityVibe: Blagues KEMCO, RNG deck, prix JP
+reviewSignal: Metacritic — pas de score critique agrégé (deck roguelite KEMCO)
+takeaway: Novel Rogue est niche avant tout — GameGulf impose le ticket régional.
+playStyle: Role-playing, Strategy
+timeCommitment: Run-based pacing.
+playMode: Solo sauf boutique.
+whyNow: JP index souvent sous étiquette EU.
+currentDeal: Native avant paiement sur GameGulf.
+nearHistoricalLow: Pas le plus bas — JP ~€5,82 le **2026-01-14**.
+salePattern: Environ deux promos fortes dans l’année — pas mensuel.
 priceRecommendation: watch
 quickFilters:
   - great_on_sale
   - short_sessions
 playerNeeds:
   - value_for_money
-  - wait_for_sale
+  - cozy
 tags:
-  - novel rogue nintendo switch
-  - novel rogue worth it
-  - novel rogue price
+  - novel rogue switch
+  - novel rogue avis
+  - novel rogue prix
   - gamegulf deals
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Correct si tu aimes KEMCO.
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Attends promo sinon RNG fatigue.
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: Lis ligne JP d’abord.
     sentiment: positive
 communityMemes:
-  - Novel Rogue sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Novel Rogue — 70 Metacritic；看个人口味与价格是否同时成立。
+  - backlog KEMCO
+  - grind Ink
+  - peu de Steam reviews
+  - envie JP
+  - RNG deck
+  - spoilers quatre livres
+tldr: Novel Rogue — pas Metacritic ; JP €8,32 bat EU €19,99 si la boucle plaît.
 priceRows:
   - regionCode: JP
     eurPrice: 8.32
-    nativePrice: ¥1,540
+    nativePrice: ¥1540
     nativeCurrency: JPY
-  - regionCode: US
-    eurPrice: 11.11
-    nativePrice: $20.99
-    nativeCurrency: USD
-  - regionCode: DE
-    eurPrice: 12.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: IT
-    eurPrice: 12.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 12.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: BR
-    eurPrice: 13.07
-    nativePrice: R$119.95
-    nativeCurrency: BRL
-  - regionCode: GB
-    eurPrice: 13.44
-    nativePrice: £17.99
-    nativeCurrency: GBP
   - regionCode: HK
     eurPrice: 15.29
     nativePrice: HK$150
     nativeCurrency: HKD
+  - regionCode: US
+    eurPrice: 17.1
+    nativePrice: $17.10
+    nativeCurrency: USD
+  - regionCode: DE
+    eurPrice: 19.99
+    nativePrice: €19.99
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 19.99
+    nativePrice: €19.99
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 19.99
+    nativePrice: €19.99
+    nativeCurrency: EUR
+  - regionCode: BR
+    eurPrice: 20.12
+    nativePrice: R$119.95
+    nativeCurrency: BRL
+  - regionCode: GB
+    eurPrice: 20.68
+    nativePrice: £17.99
+    nativeCurrency: GBP
 cardPriceEur: 8.32
 cardPriceRegionCode: JP
 cardPriceRegion: Japon
 cardPrice: EUR 8.32
-cardPriceNative: ¥1,540
+cardPriceNative: ¥1540
 cardPriceNativeCurrency: JPY
 faq:
-  - question: Novel Rogue vaut-il le coup sur Nintendo Switch en 2026 ?
+  - question: Novel Rogue vaut-il le coup sur Switch en 2026 ?
     answer: >-
-      Novel Rogue 是否值得买取决于你是否喜欢Role-playing, Adventure, Action, Simulation,
-      Board game, Strategy，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Novel Rogue?
+      Novel Rogue vaut le coup si vous assumez déjà le rogue deck-building pixel KEMCO
+      — sans Metacritic exploitable, la tolérance RNG/Ink prime sur le coup de cœur trailer.
+  - question: Combien de temps dure Novel Rogue ?
+    answer: Novel Rogue demande plusieurs soirées en runs — Ink grind peut rallonger.
+  - question: Et si le RNG ou la grind Ink me vide ?
     answer: >-
-      Novel Rogue — treat runtime as store-listed scope; verify patch notes if
-      you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Novel Rogue — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/1PBv755th4U#currency-price to compare
-      regions without guessing conversions.
+      Novel Rogue mise sur des runs variables et la montée en puissance Ink — si la
+      variance ou la répétition vous épuise avant le plaisir de tester les grimoires,
+      passez votre tour.
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
 ---
 ## Verdict rapide
 
-**Novel Rogue** reads as **70 Metacritic**  — **Role-playing, Adventure, Action** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**Novel Rogue** reste un **deck roguelite KEMCO** sans **Metacritic** exploitable.
 
-Historique des **soldes** : **plus bas** vers **€5.82** (JP), **2** mouvements sur 12 mois, **prix moyen promo** **€11.46**, dernière variation notable il y a **35** jours (**2026-03-17 (United States, €17.10)**). Vérifiez le [tableau GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price).
+**Historique promo** : **plus bas historique** ~**€5,82** JP (**2026-01-14**), **deux** grosses **promos** sur un an, **moyenne promo ~€11,46**, dernier mouvement notable il y a **43** jours (**2026-03-17**, US **€17,10**). JP **€8,32** reste au-dessus du plancher mais sous EU — voir [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price).
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/1PBv755th4U#currency-price) so you can sanity-check the **discount** story before checkout.
+**GameGulf** publie une [grille](https://www.gamegulf.com/detail/1PBv755th4U#currency-price) multi-régions — gardez **gamegulf.com** ouvert pour la prochaine **promo**.
 
-## Combien coûte Novel Rogue sur Nintendo Switch aujourd’hui ?
+## Quel prix Switch — tableau promo ?
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+Synchronisé avec `priceRows`.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
 | --- | ---: | ---: |
-| Japon | EUR 8.32 | ¥1,540 |
-| États-Unis | EUR 11.11 | $20.99 |
-| Allemagne | EUR 12.99 | €19.99 |
-| Italie | EUR 12.99 | €19.99 |
-| Portugal | EUR 12.99 | €19.99 |
-| Brésil | EUR 13.07 | R$119.95 |
-| Royaume-Uni | EUR 13.44 | £17.99 |
+| Japon | EUR 8.32 | ¥1540 |
 | Hong Kong | EUR 15.29 | HK$150 |
+| États-Unis | EUR 17.10 | $17.10 |
+| Allemagne | EUR 19.99 | €19.99 |
+| Italie | EUR 19.99 | €19.99 |
+| Portugal | EUR 19.99 | €19.99 |
+| Brésil | EUR 20.12 | R$119.95 |
+| Royaume-Uni | EUR 20.68 | £17.99 |
 
-## Qu’est-ce que Novel Rogue, vraiment ?
+## Qu’est-ce que c’est ?
 
-**Novel Rogue** is a **Role-playing, Adventure, Action** package from **Exe Create Inc.** — treat the long store blurb as marketing, but the **genre mix** and **70 Metacritic** signal are the real buying compass.
+Deckbuilding pixel + JRPG narration — attendez-vous au tempo **Exe Create**, pas à **Slay the Spire**.
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+## Comment ça tourne ?
 
-## Comment Novel Rogue tourne sur Nintendo Switch ?
+Menus/cartes prioritaires — handheld ok.
 
-**Novel Rogue** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## Achetez si…
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+- Vos lignes GameGulf alignent **€8–€17** vs **€19,99** EU — [table](https://www.gamegulf.com/detail/1PBv755th4U#currency-price)
 
-## Achetez si
+## Attendez si…
 
-- You want **Role-playing, Adventure, Action** pacing and the **70 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/1PBv755th4U#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- Vous chassez uniquement **€5,82** — horizon inconnu
 
-## Attendez si
+## Synthèse
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Role-playing, Adventure, Action) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
-
-## Novel Rogue sur Nintendo Switch — conclusion
-
-**Novel Rogue** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/1PBv755th4U#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Novel Rogue reste **genre + ticket**. Suivez **gamegulf.com** pour les futures **promos**.

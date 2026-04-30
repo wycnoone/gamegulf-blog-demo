@@ -35,11 +35,11 @@ bestFor: Amateurs de tactique, carte et peinture Vanillaware.
 avoidIf: Tu veux des sessions courtes ou tu fuirais 40h+ de fantasy politique.
 consensusPraise: Clarté de combat, musique et lisibilité tactique — haut du panier Switch.
 mainFriction: "Rythme lent : beaucoup de dialogues et d’étapes carte entre deux peaks."
-timeFit: HLTB ~46h main, ~63h extras, ~76h complétion (agrégats).
+timeFit:  ~46h main, ~63h extras, ~76h complétion (agrégats).
 fitLabel: Pour ceux qui aiment optimiser escouades et libérations de territoire.
 timingNote: Compare ta ligne eShop au palier promo ~20,99 € avant de valider le panier.
 communityVibe: "Jour: débats tiers; nuit: festin Vanillaware—même boucle 4h."
-playtime: 46h main · 63h+ extras · ~76h complétion (HLTB)
+playtime: 46h main · 63h+ extras · ~76h complétion
 reviewSignal: 89 Metacritic
 takeaway: >-
   Unicorn Overlord reste un achat solide en 2026 pour les fans de SRPG — les
@@ -48,7 +48,7 @@ playStyle: >-
   Exploration de carte, quêtes, batailles en temps réel avec pause, grosse
   progression de roster.
 timeCommitment: >-
-  HLTB annonce ~46h pour le fil principal, ~63h avec annexes, ~76h en
+  annonce ~46h pour le fil principal, ~63h avec annexes, ~76h en
   complétion.
 playMode: Solo.
 whyNow: La qualité est acquise ; seule ta ligne régionale décide du « bon prix ».
@@ -83,8 +83,7 @@ playerVoices:
       Tu râles sur les trajets carte, puis la prochaine bataille Vanillaware te
       reconditionne en fan
     sentiment: positive
-  - quote: >-
-      Les séquences politiques s’étirent — jusqu’au set-piece qui rattrape tout
+  - quote: Les séquences politiques s’étirent — jusqu’au set-piece qui rattrape tout
     sentiment: mixed
   - quote: >-
       Si ton ADN tactique, c’est l’époque Ogre Battle, c’est le même vertige en
@@ -119,7 +118,7 @@ faq:
   - question: Combien dure Unicorn Overlord ?
     answer: >-
       Unicorn Overlord dure environ 46h sur le fil principal, ~63h avec annexes
-      et ~76h en complétion selon les agrégats HLTB — missions longues, pas un
+      et ~76h en complétion selon les agrégats  — missions longues, pas un
       jeu « une pause café ».
   - question: Comment ça tourne sur Switch ?
     answer: >-
@@ -177,18 +176,19 @@ cardPrice: EUR 20.99
 cardPriceNative: €20.99
 cardPriceNativeCurrency: EUR
 ---
-
 ## Verdict rapide
 
-**Unicorn Overlord reste un SRPG Vanillaware de référence sur Switch** — **~89 Metacritic**, **carte des cinq nations**, **60+ personnages** à optimiser. **HLTB** annonce **~46h / 63h / 76h** selon ton appétit de complétion.
+**Unicorn Overlord** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **89 Metacritic**.
 
-Côté **prix**, l’index d’**avril 2026** place **Allemagne, Espagne, France, Italie** vers **~20,99 €** pendant une **promo** à **-65 %**. Le tracker rappelle un **plus bas historique** à **20,99 € (France, 18 décembre 2025)** avec **onze baisses** sur l’année et un **prix moyen en remise ~29,64 €**. À six jours de la dernière baisse enregistrée, c’est une fenêtre **« achat »** si ton compte est sur ces lignes — ouvre le [suivi multi-régions GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) pour confirmer **ta** ligne.
+Unicorn Overlord reste un achat solide en 2026 pour les fans de SRPG — les promos EU actuelles épousent le plus bas historique vu dans le tracker.
 
-**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €20.99.
 
-## Combien coûte Unicorn Overlord sur Switch ?
+Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price).
 
-**L’index d’avril 2026 commence par les lignes EU autour de 20,99 €, puis Hong Kong, le Japon, le Brésil et les États-Unis montent dans le même classement.**
+## Combien coute Unicorn Overlord sur Nintendo Switch maintenant?
+
+Unicorn Overlord reste un achat solide en 2026 pour les fans de SRPG — les promos EU actuelles épousent le plus bas historique vu dans le tracker.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -202,37 +202,32 @@ Côté **prix**, l’index d’**avril 2026** place **Allemagne, Espagne, France
 | Brésil | EUR 50.44 | R$299.90 |
 | États-Unis | EUR 52.07 | $59.99 |
 
-Au-delà du tableau, l’**historique** parle : **plus bas historique** à **20,99 €**, **onze promos** sur l’année, **prix moyen** de **promo** vers **29,64 €**. Si tu es en **UE promo**, tu es dans la zone **« proche du plancher »** — si tu es au **Japon** ou aux **États-Unis**, compare avant de crier au **discount** miracle.
+## Quel type de jeu est Unicorn Overlord?
 
-## Quel genre de jeu ?
+Noyau de genre: **SRPG Vanillaware : nœuds de carte, batailles en formation, campagne longue**. Le point cle reste l'adaptation a tes preferences, pas le texte marketing.
 
-**Un SRPG où la carte et les escouades priment** — libération de nœuds, quêtes annexes, batailles en formation avec pause.
+## Comment tourne Unicorn Overlord sur Nintendo Switch?
 
-1. **Structure monde ouvert léché** — la progression reste lisible malgré la durée.
-2. **Combats** — armes, slots et synergies rythment les affrontements, proches de la lignée **Ogre Battle** plus que d’un petit tactics indie.
-3. **Roster** — dizaines d’unités à monter : tu joues l’optimisation, pas un héros unique.
+Globalement jouable de facon stable; valide toujours avec la version la plus recente.
 
-## Comment ça tourne sur Switch ?
+- Performance: base stable, ecarts possibles selon build.
+- Controle/lisibilite: schema standard, lisibilite portable selon contenu.
+- Mode: Solo.
 
-**Le rendu 2D et la caméra tactique gardent l’UI lisible en portable** — crucial pour suivre plusieurs escadrons.
+## Acheter maintenant si
 
-- **Portable** : contrastes nets, texte encore confortable sur OLED classique.
-- **Dock** : le spectacle 2D gagne en détail ; pas de contenu rogné côté campagne.
-- **Perf** : les retours parlent surtout de **chargements** et de pics d’effets, pas d’une chute constante de framerate.
+- tu apprecies **Amateurs de tactique, carte et peinture Vanillaware.**
+- ton prix regional sur GameGulf est deja dans ta zone cible
+- tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
+- le format te convient: Solo.
+## Attendre si
 
-## Achète maintenant si
+- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ton fit de genre est incertain
+- ton budget du mois est reserve a d'autres titres
+- Tu veux des sessions courtes ou tu fuirais 40h+ de fantasy politique.
 
-- Tu veux **l’ambition Vanillaware** dans un **SRPG** long et **89 Metacritic** te rassure.
-- **Ta ligne** affiche le palier **~20,99 €** ou un **sale** équivalent réellement achetable.
-- Tu assumes **40h+** de route principale sans rage-quit.
-- Tu compares à d’autres **tactics RPG**, pas à un party-game.
+## Conclusion
 
-## Attends si
-
-- **Ton eShop** reste à **MSRP** et tu refuses les comptes multi-régions.
-- Tu détestes les **longues cinématiques** politiques.
-- Tu vas **finir sur une autre plateforme** où ta bibliothèque vit déjà.
-
-## Dernière ligne
-
-**Unicorn Overlord paie son prix par la profondeur** — si **ta** ligne suit la **promo** EU, le **discount** est déjà au niveau **historique** vu dans le tracker. Sinon, fixe un **prix cible** et laisse la prochaine **promo** faire le travail.
+Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. les promos EU actuelles épousent le plus bas historique vu dans le tracker.
+Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price)** puis tranche achat vs attente.

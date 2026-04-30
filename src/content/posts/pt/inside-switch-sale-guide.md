@@ -14,7 +14,7 @@ readingTime: 8 min de leitura
 decision: >-
   Se o preço manda, espera — as linhas de tabela ficam muito acima da banda
   média de promoções rastreadas. Compra já só se queres o puzzle-platformer da
-  Playdead hoje e a tua linha é um outlier aceitável.
+  Playdead hoje e o preço na tua região ainda é aceitável para ti.
 priceSignal: >-
   Abril de 2026 Brasil ~12,28 € equivalentes; historial Japão ~1,25 € em 2025 —
   sete janelas, média em promoção ~3,77 €.
@@ -29,14 +29,14 @@ featuredPriority: 2
 listingTakeaway: Clássico indie ~91 — promoções voltam; PVP raramente é o lance esperto.
 whatItIs: Puzzle-platformer mudo — stealth, enigmas de ambiente, ritmo cinematográfico.
 bestFor: Thriller curto de autor sem enchimento.
-avoidIf: Precisas de diálogo, RPG ou conforto solarengo.
+avoidIf: Precisas de diálogo, RPG ou um tom claramente mais leve.
 consensusPraise: Atmosfera, som, ritmo one-shot muito seguros.
 mainFriction: Trial-and-error escuro se não gostas.
-timeFit: Curto — ~3–5 h (não HLTB).
+timeFit: Curto — ~3–5 h (não ).
 fitLabel: Indie como filme com comando.
 timingNote: Compara com Brasil e mínimo histórico Japão ~1,25 € antes do PVP.
 communityVibe: ADN Limbo, muro anti-spoil, auscultadores
-playtime: ~3–5 h (estimativas; não HLTB)
+playtime: ~3–5 h (estimativas; não )
 reviewSignal: 91 Metacritic
 takeaway: >-
   INSIDE é obra essencial — não pagues preço turístico se a tua região flutua
@@ -47,7 +47,7 @@ playMode: Um jogador.
 whyNow: Jogo fechado; variável é a frequência de promoções profundas.
 currentDeal: Brasil lidera ~12,28 € eq. (R$72,99), depois JP, HK, EUA.
 nearHistoricalLow: Não — JP ~1,25 € 17 abr 2025 abaixo das listas abr 2026.
-salePattern: Janelas frequentes, cortes profundos, rebound à tabela.
+salePattern: Janelas frequentes, cortes profundos e retorno ao preço de tabela.
 priceRecommendation: wait
 quickFilters:
   - short_sessions
@@ -73,15 +73,13 @@ playerVoices:
     sentiment: negative
   - quote: Checkpoints stealth irritam no replay
     sentiment: negative
-  - quote: Breveza é virtude
+  - quote: A curta duração é uma virtude
     sentiment: positive
 communityMemes:
   - Limbo
   - Spoiler wall
   - Final debate
-tldr: >-
-  INSIDE — ~91 Metacritic; abril 2026 tabela >> historial promo — espera salvo
-  urgência.
+tldr: "INSIDE — ~91 Metacritic; abril 2026 tabela >> historial promo — espera salvo urgência."
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price
 gameHref: https://www.gamegulf.com/detail/2GhXVp3lBzO
@@ -145,18 +143,19 @@ cardPrice: EUR 12.28
 cardPriceNative: R$72.99
 cardPriceNativeCurrency: BRL
 ---
+## Veredito rapido
 
-## Veredito rápido
+**INSIDE** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **91 Metacritic**.
 
-**INSIDE é puzzle-thriller Playdead ~91 Metacritic** — stealth mudo, física, final culto. **3–5 h**.
+INSIDE é obra essencial — não pagues preço turístico se a tua região flutua sobre a próxima promoção.
 
-Abril 2026: **Brasil ~12,28 €** no índice; historial **Japão ~1,25 € 17 abr 2025**, **sete** descontos, **média ~3,77 €**. Sem pressa, **espera**. [Grelha ao vivo](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
+Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €12.28.
 
-**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
 
-## Quanto custa INSIDE — preço e promoção agora
+## Quanto custa INSIDE no Nintendo Switch agora?
 
-**Índice abril 2026 abre Brasil ~12,28 € eq.**
+INSIDE é obra essencial — não pagues preço turístico se a tua região flutua sobre a próxima promoção.
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |
@@ -170,26 +169,34 @@ Abril 2026: **Brasil ~12,28 €** no índice; historial **Japão ~1,25 € 17 ab
 | França | EUR 22.99 | €22.99 |
 | Itália | EUR 22.99 | €22.99 |
 
-**Historial desconto**: mínimo **~1,25 € Japão 17 abr 2025**; listas 2026 >> banda **~3,77 €**. Último movimento **há 5 dias** Hong Kong **2 abr 2026** **~28%**. **INSIDE** entra **muito em promoção**.
+## Que tipo de jogo e INSIDE?
 
-## Que jogo
+Nucleo de genero: **Side-scroller, física, stealth, linear sem voz.**. O ponto principal e se esse loop combina contigo.
 
-Thriller lateral: puzzles e perseguições. Luz, caixas, física. Ritmo curto denso.
+## Como INSIDE roda no Nintendo Switch?
 
-## Switch
+No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 
-**30 fps** estável; silhuetas > UI.
+- Desempenho: base estavel, com variacoes por build.
+- Controles/leitura: esquema padrao, legibilidade portatil depende do conteudo.
+- Modo: Um jogador.
 
-## Compra agora se
+## Comprar agora se
 
-Precisas **hoje**; linha já é promo aceitável; **91 Metacritic**; **3–5 h**; **auscultadores**.
+- voce curte **Side-scroller, física, stealth, linear sem voz.**
+- teu preco regional no GameGulf ja entrou na faixa-alvo
+- voce quer jogar ja, sem esperar outra janela de desconto
+- o ritmo te atende: Uma noite ou tarde longa.
 
-## Espera se
+## Esperar se
 
-**22–23 €** com **1–4 €** no historial; podes esperar; só cópia Switch no mínimo; tensão infantil não; queres sistemas re-jogáveis.
+- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- teu encaixe com o genero esta incerto
+- teu orcamento do mes esta reservado para outros jogos
+- Precisas de diálogo, RPG ou um tom claramente mais leve.
 
-## Fecho
+## Fechamento
 
-**INSIDE** obrigatório para fãs de atmosfera — **PVP** abril 2026 é taxa de urgência opcional.
+Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Janelas frequentes, cortes profundos e retorno ao preço de tabela.
 
-**Vê GameGulf uma vez**, define alvo, compra quando a **promoção** alinhar.
+Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)** e decide compra vs espera.

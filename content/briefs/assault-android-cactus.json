@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/3FBK8MMWRHv",
     "game_id": "3FBK8MMWRHv",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -28,7 +27,7 @@
       "Shooter"
     ],
     "release_date": "2019-03-08",
-    "developer": "Witch Beam",
+    "developer": null,
     "publisher": "Witch Beam",
     "metacritic": 86
   },
@@ -278,6 +277,26 @@
       "url": "https://www.gamegulf.com/detail/5fIWVgbvENf"
     },
     {
+      "id": "gCg2uQJJfO1",
+      "title": "OlliOlli World",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
+      "metacritic": 87,
+      "price": 19.53,
+      "discount_price": 4.87,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "5 hr",
+      "release_date": "2022-02-08",
+      "categories": [
+        "Arcade",
+        "Shooter",
+        "Platformer",
+        "Action",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1"
+    },
+    {
       "id": "2OJjPKonGxw",
       "title": "NeuroVoider",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517412849817987.jpeg",
@@ -295,26 +314,6 @@
         "Shooter"
       ],
       "url": "https://www.gamegulf.com/detail/2OJjPKonGxw"
-    },
-    {
-      "id": "gCg2uQJJfO1",
-      "title": "OlliOlli World",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511928439213327.jpeg",
-      "metacritic": 87,
-      "price": 19.53,
-      "discount_price": 4.87,
-      "discount_rate": 75,
-      "discount_tag": "LowPrice",
-      "discount_end": "4 days",
-      "release_date": "2022-02-08",
-      "categories": [
-        "Arcade",
-        "Shooter",
-        "Platformer",
-        "Action",
-        "Sports"
-      ],
-      "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1"
     },
     {
       "id": "K1SvVJeGAn",
@@ -340,11 +339,11 @@
       "title": "Low Story",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508677102715545.jpeg",
       "metacritic": null,
-      "price": 7.99,
-      "discount_price": 1.59,
-      "discount_rate": 80,
-      "discount_tag": "NewLowPrice",
-      "discount_end": "2 hr",
+      "price": 1.72,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
       "release_date": "2023-11-16",
       "categories": [
         "Action",
@@ -444,7 +443,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+      "priceValidUntil": "2026-05-26T17:21:30+00:00"
     },
     {
       "@type": "Offer",
@@ -457,7 +456,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+      "priceValidUntil": "2026-05-26T17:21:30+00:00"
     },
     {
       "@type": "Offer",
@@ -470,7 +469,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+      "priceValidUntil": "2026-05-26T17:21:30+00:00"
     },
     {
       "@type": "Offer",
@@ -483,7 +482,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:41:30+00:00"
+      "priceValidUntil": "2026-05-26T17:21:30+00:00"
     }
   ],
   "price_analytics": {
@@ -526,7 +525,7 @@
           "end": "2025-12-17"
         }
       ],
-      "days_since_last_discount": 126,
+      "days_since_last_discount": 130,
       "last_discount": {
         "date": "2025-12-17",
         "price_eur": 3.21,
@@ -544,55 +543,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 250110,
-      "name": "Assault Android Cactus+",
-      "developer": [
-        "Witch Beam"
-      ],
-      "publisher": [
-        "Witch Beam"
-      ],
-      "metacritic_score": 79,
-      "metacritic_url": "https://www.metacritic.com/game/pc/assault-android-cactus?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Shared/Split Screen Co-op",
-        "Shared/Split Screen",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Cloud",
-        "Steam Leaderboards",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Remote Play Together",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "steam_price": "$19.99",
-      "total_recommendations": 1310,
-      "short_description": "Assault Android Cactus is an intense arcade style twin stick shooter - pick from one of nine unique synthetic heroines and blast your way through overwhelming robots hordes to save the ship from its own workforce. Supports single player and local co-op game modes.",
-      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 1883,
-        "total_negative": 118,
-        "total_reviews": 2001,
-        "score_description": "Very Positive",
-        "positive_percent": 94
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

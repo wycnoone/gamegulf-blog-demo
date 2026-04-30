@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
     "game_id": "64ud7IJ2teL",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -29,7 +28,7 @@
       "Platformer"
     ],
     "release_date": "2024-05-09",
-    "developer": "Billy Basso",
+    "developer": null,
     "publisher": "Bigmode",
     "metacritic": 90
   },
@@ -282,12 +281,12 @@
       "title": "Hell Well",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508540516019948.jpeg",
       "metacritic": null,
-      "price": 2.7,
-      "discount_price": 1.08,
-      "discount_rate": 60,
-      "discount_tag": "LowPrice",
-      "discount_end": "19 hr",
-      "release_date": "2023-12-14",
+      "price": 0.92,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-12-13",
       "categories": [
         "Strategy",
         "Action"
@@ -316,23 +315,6 @@
       "url": "https://www.gamegulf.com/detail/e4Cjhs4USLP"
     },
     {
-      "id": "f60Tw6LREM",
-      "title": "Lost Grimoires 3: The Forgotten Well",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513050844311970.jpeg",
-      "metacritic": null,
-      "price": 5.35,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2021-07-15",
-      "categories": [
-        "Adventure",
-        "Puzzle"
-      ],
-      "url": "https://www.gamegulf.com/detail/f60Tw6LREM"
-    },
-    {
       "id": "jrnDdrpgGvN",
       "title": "Animal Hospital",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177508850292010224.jpeg",
@@ -341,7 +323,7 @@
       "discount_price": 7.99,
       "discount_rate": 80,
       "discount_tag": "NewLowPrice",
-      "discount_end": "8 days",
+      "discount_end": "1 days",
       "release_date": "2023-10-19",
       "categories": [
         "Simulation",
@@ -350,20 +332,39 @@
       "url": "https://www.gamegulf.com/detail/jrnDdrpgGvN"
     },
     {
-      "id": "fccI1le24N2",
-      "title": "Animals Names",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509978033010123.jpeg",
+      "id": "25sbcukxGiM",
+      "title": "Animal Drifters",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510918682012368.jpeg",
       "metacritic": null,
-      "price": 0.12,
+      "price": 0.43,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2023-03-20",
+      "release_date": "2022-09-16",
       "categories": [
-        "Education"
+        "Action",
+        "Racing",
+        "Arcade"
       ],
-      "url": "https://www.gamegulf.com/detail/fccI1le24N2"
+      "url": "https://www.gamegulf.com/detail/25sbcukxGiM"
+    },
+    {
+      "id": "gVAJ0Nh3lKY",
+      "title": "Animal Lover",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510121549111404.jpeg",
+      "metacritic": null,
+      "price": 8.38,
+      "discount_price": 3.35,
+      "discount_rate": 60,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "15 days",
+      "release_date": "2023-02-22",
+      "categories": [
+        "Adventure",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/gVAJ0Nh3lKY"
     },
     {
       "id": "bzB8Ejvh6BQ",
@@ -389,12 +390,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -454,7 +455,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+      "priceValidUntil": "2026-05-29T19:34:18+00:00"
     },
     {
       "@type": "Offer",
@@ -467,7 +468,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+      "priceValidUntil": "2026-05-29T19:34:18+00:00"
     },
     {
       "@type": "Offer",
@@ -480,7 +481,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+      "priceValidUntil": "2026-05-29T19:34:18+00:00"
     },
     {
       "@type": "Offer",
@@ -493,7 +494,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+      "priceValidUntil": "2026-05-29T19:34:18+00:00"
     },
     {
       "@type": "Offer",
@@ -506,7 +507,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+      "priceValidUntil": "2026-05-29T19:34:18+00:00"
     },
     {
       "@type": "Offer",
@@ -519,7 +520,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:45+00:00"
+      "priceValidUntil": "2026-05-29T19:34:18+00:00"
     }
   ],
   "price_analytics": {
@@ -549,7 +550,7 @@
       "discount_events_1y": 4,
       "avg_discount_price_eur": 16.6,
       "sale_periods": [],
-      "days_since_last_discount": 34,
+      "days_since_last_discount": 41,
       "last_discount": {
         "date": "2026-03-19",
         "price_eur": 21.38,
@@ -567,46 +568,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 813230,
-      "name": "ANIMAL WELL",
-      "developer": [
-        "Billy Basso"
-      ],
-      "publisher": [
-        "Bigmode"
-      ],
-      "metacritic_score": 90,
-      "metacritic_url": "https://www.metacritic.com/game/pc/animal-well?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Cloud",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "steam_price": "HK$ 149.00",
-      "total_recommendations": 21944,
-      "short_description": "Explore a dense, interconnected labyrinth, and unravel its many secrets. Collect items to manipulate your environment in surprising and meaningful ways. Encounter beautiful and unsettling creatures, as you attempt to survive what lurks in the dark. There is more than what you see.",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain, Simplified Chinese, Japanese, Portuguese - Brazil, Russian, Ukrainian, Korean",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 22663,
-        "total_negative": 987,
-        "total_reviews": 23650,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 96
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

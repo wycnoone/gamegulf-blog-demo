@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
     "game_id": "4MvMiSCTpzk",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf"
@@ -556,11 +556,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -575,12 +575,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -602,7 +602,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:34:14+00:00"
+      "priceValidUntil": "2026-05-29T19:07:26+00:00"
     },
     {
       "@type": "Offer",
@@ -615,7 +615,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:34:14+00:00"
+      "priceValidUntil": "2026-05-29T19:07:26+00:00"
     },
     {
       "@type": "Offer",
@@ -628,7 +628,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:34:14+00:00"
+      "priceValidUntil": "2026-05-29T19:07:26+00:00"
     },
     {
       "@type": "Offer",
@@ -641,7 +641,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:34:14+00:00"
+      "priceValidUntil": "2026-05-29T19:07:26+00:00"
     },
     {
       "@type": "Offer",
@@ -654,7 +654,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:34:14+00:00"
+      "priceValidUntil": "2026-05-29T19:07:26+00:00"
     },
     {
       "@type": "Offer",
@@ -667,7 +667,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:34:14+00:00"
+      "priceValidUntil": "2026-05-29T19:07:26+00:00"
     },
     {
       "@type": "Offer",
@@ -680,7 +680,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:34:14+00:00"
+      "priceValidUntil": "2026-05-29T19:07:26+00:00"
     }
   ],
   "price_analytics": {
@@ -710,7 +710,7 @@
       "discount_events_1y": 3,
       "avg_discount_price_eur": 40.93,
       "sale_periods": [],
-      "days_since_last_discount": 3,
+      "days_since_last_discount": 10,
       "last_discount": {
         "date": "2026-04-19",
         "price_eur": 35.53,
@@ -746,7 +746,7 @@
       "discount_events_1y": 1,
       "avg_discount_price_eur": 43.1,
       "sale_periods": [],
-      "days_since_last_discount": 3,
+      "days_since_last_discount": 10,
       "last_discount": {
         "date": "2026-04-19",
         "price_eur": 43.1,

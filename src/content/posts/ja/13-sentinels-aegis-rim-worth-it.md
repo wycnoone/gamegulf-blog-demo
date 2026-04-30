@@ -1,6 +1,6 @@
 ---
 title: 2026年、Switch版『十三機兵防衛圏』は買うべき？
-description: 2026年4月ガイド。Metacritic約88のVanillaware SF群像劇、索引プロモが史低圏、HLTB、 プロモ地域は買い時。
+description: 2026年4月ガイド。Metacritic約88のVanillaware SF群像劇、索引プロモが史低圏、、 プロモ地域は買い時。
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -26,15 +26,15 @@ bestFor: 長いSFを読み、メカで息抜きしたい人。
 avoidIf: 読むの嫌い／純アクションのみ。
 consensusPraise: 構造、美術、ボイス——Switch叙事で重量級。
 mainFriction: 長読みと短戦闘の往復——セッション設計が要。
-timeFit: HLTB 本編約31h・36h付加・38h完走。
+timeFit:  本編約31h・36h付加・38h完走。
 fitLabel: 1章＝SFドラマ1話体質。
 timingNote: 米プロモとEU€59.99を比較。
 communityVibe: タイムライン板、tier議論、ロードアウト
-playtime: 31h · 36h+ · ~38h（HLTB）
+playtime: 31h · 36h+ · ~38h（）
 reviewSignal: Metacritic クライティック約88
 takeaway: 十三機兵防衛圏は2026年4月プロモ地域では買い易い——EU定価帯は並行するので要確認。
 playStyle: 2D調査、分岐ルート、トップダウンメカ戦。
-timeCommitment: HLTB 約31/36/38時間。
+timeCommitment:  約31/36/38時間。
 playMode: シングル。
 whyNow: 物語完成済み；変数は深プロモが見えるか。
 currentDeal: 米~€13.01先頭、GB/HKセール、JP/BRやや定価、DE/ES/FRは€59.99。
@@ -73,7 +73,7 @@ faq:
       十三機兵防衛圏は長編SF群像とVanillaware美術、メカ戦の休憩が欲しいなら買い。2026年4月も
       索引プロモは強い——GameGulfで確認。
   - question: プレイ時間は？
-    answer: 十三機兵防衛圏はHLTBで本編約31時間、付加約36時間、コンプ約38時間。
+    answer: 十三機兵防衛圏はで本編約31時間、付加約36時間、コンプ約38時間。
   - question: RTSは重い？
     answer: 十三機兵防衛圏のメカは軽量リアルタイム——ハードRTSではなく長文の区切り。
   - question: Switch動作は？
@@ -116,7 +116,7 @@ priceRows:
 cardPriceEur: 13.01
 cardPriceRegionCode: US
 cardPriceRegion: アメリカ合衆国
-cardPrice: JPY 2393
+cardPrice: JPY 2429
 cardPriceNative: $59.99
 cardPriceNativeCurrency: USD
 ---
@@ -132,16 +132,17 @@ cardPriceNativeCurrency: USD
 ## 価格はいくら？セール履歴
 
 
+
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| アメリカ合衆国 | JPY 2430 | $59.99 |
-| イギリス | JPY 3213 | £49.99 |
-| 香港 | JPY 3620 | HK$438 |
-| 日本 | JPY 7799 | ¥7,678 |
-| ブラジル | JPY 9270 | R$295 |
-| ドイツ | JPY 11207 | €59.99 |
-| スペイン | JPY 11207 | €59.99 |
-| フランス | JPY 11207 | €59.99 |
+| アメリカ合衆国 | JPY 2434 | $59.99 |
+| イギリス | JPY 3217 | £49.99 |
+| 香港 | JPY 3625 | HK$438 |
+| 日本 | JPY 7809 | ¥7,678 |
+| ブラジル | JPY 9281 | R$295 |
+| ドイツ | JPY 11221 | €59.99 |
+| スペイン | JPY 11221 | €59.99 |
+| フランス | JPY 11221 | €59.99 |
 
 ## どんなゲーム？
 

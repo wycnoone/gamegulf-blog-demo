@@ -1,82 +1,82 @@
 ---
-title: "Chicory: A Colorful Tale vaut-il le coup sur Nintendo Switch en 2026 ?"
-description: "2026年4月Nintendo Switch购买参考：Chicory: A Colorful Tale、GameGulf 价格信号与买/等建议。"
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: "Faut-il acheter Chicory: A Colorful Tale sur Nintendo Switch en 2026&nbsp;?"
+description: "Mémo d’achat Switch (avril 2026)&nbsp;: Metacritic ~90, puzzles à pinceaux, coop locale, lignes régionales indexées GameGulf vs historiques de promo, fenêtre d’attente plausible."
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: "Chicory: A Colorful Tale"
 platform: Nintendo Switch
-primaryPlatformKey: switch 1
+primaryPlatformKey: switch-1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 7 min de lecture
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+readingTime: 7 min lecture
+decision: La qualité et la BO restent évidentes, mais les lignes japonaises encore «&nbsp;headline bon marché&nbsp;» restent bien au‑dessus de la promo moyenne que GameGulf journalise depuis un an — mieux vaut prévoir un prix cible avant de passer en caisse.
+priceSignal: Cinq empreintes de baisse sur douze mois autour de ~€10,20 indexées, alors que l’instantané d’avril conserve une marge sur cette bande.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price
 gameHref: https://www.gamegulf.com/detail/kKfeWM8ImWj
 membershipHref: https://www.gamegulf.com/pricing
-heroStat: 90 Metacritic
-heroNote: >-
-  Chicory: A Colorful Tale：Adventure, Puzzle；Wishes Ultd., Greg Lobanov, Alexis
-  Dean-Jones, Lena Raine, Madeline Berger, A Shell in the Pit。
-badge: Attendre les promos
+heroStat: Metacritic 90
+heroNote: "Aventure pastel vue du dessus&nbsp;: capacities pinceaux façon metroid-lite, livraisons & photos, tenues, coop locale où un second joueur tient les surfaces."
+badge: Attendez les promos
 verdict: wait_for_sale
 priceCall: wait
 confidence: medium
 actionBucket: wait
 featuredPriority: 2
-listingTakeaway: "Chicory: A Colorful Tale：Adventure, Puzzle；2026年4月价格分区差值得先对照 GameGulf。"
-whatItIs: "Adventure, Puzzle — Chicory: A Colorful Tale on Nintendo Switch."
-bestFor: 想要Adventure, Puzzle且接受掌机体量的人。
-avoidIf: 不喜欢Adventure, Puzzle气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；90 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: 90 Metacritic
-takeaway: "Chicory: A Colorful Tale 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。"
-playStyle: Adventure, Puzzle
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 5 次促销波动——折扣是常态。
+listingTakeaway: Chicory ~MC90 ; Japon encore moins cher — promos passées plus basses.
+whatItIs: "Aventure pinceau : chemins fermés, costumes, co‑op locale courte."
+bestFor: Cosy tracer plutôt que duel online ou boss rush brutal.
+avoidIf: vous n’assumez aucun détour quand une capacité rouvre une zone.
+consensusPraise: BO (Lena Raine), tonalité empathique sur la pression créative & assist léger.
+mainFriction: aller-retour cartographiques si vous forcez tout le bac à tenues tard.
+timeFit: 9 h fil → ~13 h quêtes annexes → ~21 h si tout fermer costumes & photo.
+fitLabel: Pour tracer sans crainte des retours arrière ludiques tardifs.
+timingNote: relisez la grille régionale GameGulf avant paiement même si votre store affiche encore du MSRP européen.
+communityVibe: Peindre tous les arbres puis repartir cuisiner tranquillement
+reviewSignal: Metacritic 90
+takeaway: Chicory reste une évidence gustative&nbsp;; la vigilance prix se joue contre l’historique des promos GameGulf, pas contre la qualité.
+playStyle: Aventure & puzzle à pinceau, combats légers, collectibles mode décontracté, coop locale deux stylos.
+timeCommitment: sessions longues facultatives jusqu’aux collecteurs — la base reste courte.
+playMode: solo ou duo local sur même écran commun.
+whyNow: le débat technique est clos — seule la valeur «&nbsp;eShop aujourd’hui&nbsp;» peut encore bloquer quelqu’un.
+currentDeal: "avril&nbsp;2026&nbsp;: le Japon conduit les lignes avant les paliers ~€18,99 en zone euro hors promo."
+nearHistoricalLow: "Ce n’est pas le plus bas observé&nbsp;: lignes japonaises ~€7,94 le 2025‑08‑18 et brésiliennes ~€8,03 le 2025‑12‑22 selon données indexées contre ~€15,88 côté Japon snapshot actuel."
+salePattern: cinq baisses notables/an, moyenne promo ~€10,20 — dernière chute forte repérée au Brésil autour du 2025‑12‑22.
 priceRecommendation: wait
 quickFilters:
-  - great_on_sale
   - short_sessions
+  - under_20
+  - great_on_sale
 playerNeeds:
-  - value_for_money
   - wait_for_sale
+  - value_for_money
 tags:
-  - "chicory: a colorful tale nintendo switch"
-  - "chicory: a colorful tale worth it"
-  - "chicory: a colorful tale price"
-  - gamegulf deals
+  - chicory switch français
+  - chicory switch promo
+  - finji switch puzzle
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Les énigmes reposent sur le pinceau, pas sur gadgets jetables vides.
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Coop tranquille après une grosse journée de boulot écran.
+    sentiment: positive
+  - quote: Retours tenues tardifs si vous chassez 100&nbsp;% vite.
     sentiment: mixed
-  - quote: 先看清自己区服行价。
-    sentiment: positive
-communityMemes:
-  - "Chicory: A Colorful Tale sale bingo"
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: "Chicory: A Colorful Tale — 90 Metacritic；价格信号偏等折扣。"
+heroTheme: brand
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512148204614504.jpeg
+tldr: "Chicory: A Colorful Tale reste un hit Metacritic ~90 — mieux temporiser tant que vos lignes restent hors promo GameGulf."
+faq:
+  - question: Est-ce Chicory mérite encore un achat Switch en 2026 ?
+    answer: "Chicory: A Colorful Tale se justifie quand vous voulez explorer pression créative & puzzles peints&nbsp;; passez votre chemin si seule la twitch plateform vous intéresse. Le tableau GameGulf reste l’alarme prix."
+  - question: Combien de temps prend Chicory environ&nbsp;?
+    answer: "Chicory: A Colorful Tale se boucle vite en ~9 h tenues serrées, ~13 h si vous poursuivez mails & vignettes annexes et plus de 20 h lorsque wardrobes + photos absorbent tout le rythme."
+  - question: Qu’est-ce qui peut agacer avant d’acheter Chicory&nbsp;?
+    answer: "Chicory: A Colorful Tale rabat souvent vos pas sur anciennes parcelles après déblocage pinceaux — les retours fatiguent si vous n’aimez que les lignes rectilignes jusqu’ending."
 priceRows:
   - regionCode: JP
     eurPrice: 15.88
-    nativePrice: ¥2,940
+    nativePrice: ¥2940
     nativeCurrency: JPY
   - regionCode: BR
     eurPrice: 16.07
@@ -102,92 +102,77 @@ priceRows:
     eurPrice: 18.99
     nativePrice: €18.99
     nativeCurrency: EUR
-  - regionCode: IT
-    eurPrice: 18.99
-    nativePrice: €18.99
-    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 19.65
+    nativePrice: £17.09
+    nativeCurrency: GBP
 cardPriceEur: 15.88
 cardPriceRegionCode: JP
 cardPriceRegion: Japon
 cardPrice: EUR 15.88
-cardPriceNative: ¥2,940
+cardPriceNative: ¥2940
 cardPriceNativeCurrency: JPY
-faq:
-  - question: "Chicory: A Colorful Tale vaut-il le coup sur Nintendo Switch en 2026 ?"
-    answer: >-
-      Chicory: A Colorful Tale 是否值得买取决于你是否喜欢Adventure, Puzzle，以及你在 GameGulf
-      上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: "How long is Chicory: A Colorful Tale?"
-    answer: >-
-      Chicory: A Colorful Tale — treat runtime as store-listed scope; verify
-      patch notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Chicory: A Colorful Tale — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512148204614504.jpeg
 ---
-## Verdict rapide
 
-**Chicory: A Colorful Tale** reads as **90 Metacritic**  — **Adventure, Puzzle** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
 
-Historique des **soldes** : **plus bas historique** vers **€18.99** (DE), **5** mouvements sur 12 mois, **prix moyen promo** **€10.20**, dernière variation notable il y a **121** jours (**2025-12-22 (Brazil, €8.03)**, **2026**). Vérifiez le [tableau GameGulf](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price).
+## Verdict express
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price) so you can sanity-check the **discount** story before checkout.
+**Chicory&nbsp;: A Colorful Tale** (≈&nbsp;**90&nbsp;Metacritic**) conjugue narration sur la création nerveuse avec une base **paint‑Traversal** très lisible hors boss rush brut — parcourir **[la grille prix](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)** évite fantasmer un « meilleur universel » alors que vos soldes reflètent seulement un autre storefront.
 
-## Combien coûte Chicory: A Colorful Tale sur Nintendo Switch aujourd’hui ?
+April&nbsp;2026 aligne encore un **axe Japon&nbsp;€15,88** indexée quand plusieurs **promotion** saisonnières descendant **historiquement** vers **€7,94 JP (2025‑08‑18)** puis **€8,03 BR (2025‑12‑22)** — soit plus bas que vos paniers spontanés. **gamegulf.com** aide à suivre cet écart ; même page GameGulf rappelle le contexte **`priceRows`**.
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+Résumé prudent&nbsp;: mieux comparer vos paliers européens listés (**~€18,99 hors promo**) à ce tableau GameGulf plutôt qu’imaginer prix homogènes.
+
+## Combien coûte Chicory sur Nintendo Switch maintenant&nbsp;?
+
+Les lignes zonales suivent encore le grand écart : **`priceRows`** alimentée par **gamegulf.com** — base identique carte article — doit être recalée au moment paiement après sync.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
 | --- | ---: | ---: |
-| Japon | EUR 15.88 | ¥2,940 |
+| Japon | EUR 15.88 | ¥2940 |
 | Brésil | EUR 16.07 | R$95.83 |
 | Hong Kong | EUR 17.04 | HK$156 |
 | États-Unis | EUR 17.10 | $19.99 |
 | Allemagne | EUR 18.99 | €18.99 |
 | Espagne | EUR 18.99 | €18.99 |
 | France | EUR 18.99 | €18.99 |
-| Italie | EUR 18.99 | €18.99 |
+| Royaume-Uni | EUR 19.65 | £17.09 |
 
-## Qu’est-ce que Chicory: A Colorful Tale, vraiment ?
+**discount** suivant données GameGulf&nbsp;: plusieurs **sale** suivies sur l’historique où **promo** moyenne se situe autour **€10,20** contre plus bas japonais autour €7.94 puis brésilien €8.03 — repérez ainsi un véritable **plus bas historique** à comparer à la ligne Japan ~€15,88 encore affichée aujourd’hui dans l’instantané.
 
-**Chicory: A Colorful Tale** is a **Adventure, Puzzle** package from **Wishes Ultd., Greg Lobanov, Alexis Dean-Jones, Lena Raine, Madeline Berger, A Shell in the Pit** — treat the long store blurb as marketing, but the **genre mix** and **90 Metacritic** signal are the real buying compass.
+## Chicory, quel genre exactement&nbsp;?
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+Une **boucle Picnic Province** reliant **capabilities pinceaux** façon lite‑metroïdienne, mails comiques et photos souvenir — tonalité empathique («&nbsp;honte de tracer&nbsp;»)&nbsp;: **Night in the Woods** vs **Captain Toad** — Chicory évite spectacle nerveux gratuit.
 
-## Comment Chicory: A Colorful Tale tourne sur Nintendo Switch ?
+Exploration coop locale reste cosy — pas LAN online.
 
-**Chicory: A Colorful Tale** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+Coop locale demeure canapé, pas partie ranked.
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+Comparer **Captain Toad** vs **Unpacking**, Chicory fait davantage système crayon + psyche.
 
-## Achetez si
+## Rendu technique Switch
 
-- You want **Adventure, Puzzle** pacing and the **90 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+Portrait **stable** sur cartes pastel — **FPS** généralement haut même portable — explosions encre finales plus lourdes. **Assist** garantit narration accessible.
 
-## Attendez si
+Page GameGulf liée aide **gamegulf.com**/storefront ; cas audio&nbsp;: headset > haut-parleurs intégrés.
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Adventure, Puzzle) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+## Acheter maintenant&nbsp;?
 
-## Chicory: A Colorful Tale sur Nintendo Switch — conclusion
+- Coop physique ce week-end **prime** même si **promotion** meilleure existe demain si vous préférez l’instant vécu aux euros.
 
-**Chicory: A Colorful Tale** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
+- Coupons eshop déjà alloués sentimental — ok.
 
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Prévenir alignement prix GameGulf & attentes perso avant achat compulsif&nbsp;: **sale** meilleure existe souvent saisonnièrement suivant tableau.
+
+## Ou attendre&nbsp;?
+
+- Chercher **sale** plus bas suivant tableau GameGulf (moyenne **€10,20**) — **discount** meilleur encore que snapshot actuel ;
+
+- Hors remote — coop locale seule&nbsp;;
+
+Si vous sautez lignes facultatives évite frustration retours — **sans** ils restent jeu plus court agréable.
+
+## Chicory sur Switch&nbsp;: bilan
+
+Rare puzzle émotion‑first encore recommandé en 2026 — question reste valeur **indexed** contre **historic low** suivant grille **gamegulf.com**/GameGulf — évite paiement compulsif storefront **sans** avoir relu historique prix.

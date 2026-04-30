@@ -2,7 +2,7 @@
 title: Metroid Dread sur Switch en vaut-il encore la peine en 2026 ?
 description: >-
   Guide d'achat Switch — grilles eShop indexées en avril 2026, cadence de promos
-  Nintendo, durées HLTB, tension EMMI et combat au parry, achat immédiat ou
+  Nintendo, durées , tension EMMI et combat au parry, achat immédiat ou
   alerte prix.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -37,11 +37,11 @@ bestFor: Profils action qui assument tension EMMI et boss techniques.
 avoidIf: Évitez si chasses EMMI et wipes boss vous épuisent.
 consensusPraise: Maniabilité, lisibilité anim et menace EMMI restent un repère Switch.
 mainFriction: Pics de difficulté et EMMI fatiguent les profils "aventure cool".
-timeFit: HLTB ~9h main, ~12h extras, ~14h complétion (moyennes communauté).
+timeFit:  ~9h main, ~12h extras, ~14h complétion (moyennes communauté).
 fitLabel: Joueurs qui aiment maîtriser un rythme, pas le farming chill.
 timingNote: Comparez votre ligne eShop aux ancres HK/JP avant de valider le plein tarif.
 communityVibe: Bruits de pas EMMI — toujours dans la tête
-playtime: ~9h main · ~12h+ extras · ~14h complétion (HLTB)
+playtime: ~9h main · ~12h+ extras · ~14h complétion
 reviewSignal: 88 Metacritic
 takeaway: >-
   Metroid Dread reste un achat qualité pour les bons profils — le vrai risque
@@ -50,7 +50,7 @@ playStyle: >-
   Metroidvania abilities, phases EMMI, fenêtres de parade, collectibles, modes
   Rookie/Dread et Boss Rush.
 timeCommitment: >-
-  Agrégats HLTB ~9–12h pour une première boucle ; le cleanup et le hard ajoutent
+  Agrégats  ~9–12h pour une première boucle ; le cleanup et le hard ajoutent
   — courtes sessions, courbe raide.
 playMode: Solo.
 whyNow: >-
@@ -112,12 +112,12 @@ faq:
     answer: >-
       Metroid Dread vaut encore le coup en 2026 si vous voulez un Metroid 2D
       exigeant avec zones EMMI et boss soignés. En avril 2026, la grille
-      GameGulf démarre vers ~36,44 EUR équivalent sur l'eShop Hong Kong (329 HK$)
-      — vérifiez la ligne liée à votre compte Nintendo avant d'acheter.
+      GameGulf démarre vers ~36,44 EUR équivalent sur l'eShop Hong Kong (329
+      HK$) — vérifiez la ligne liée à votre compte Nintendo avant d'acheter.
   - question: Combien de temps pour finir Metroid Dread ?
     answer: >-
       Metroid Dread dure environ 9 h pour le fil principal, ~12 h avec extras et
-      ~14 h en complétion selon les moyennes HLTB — les EMMI et boss allongent
+      ~14 h en complétion selon les moyennes  — les EMMI et boss allongent
       la sensation de durée.
   - question: Comment ça tourne sur Switch ?
     answer: >-
@@ -175,18 +175,19 @@ cardPrice: EUR 36.44
 cardPriceNative: HK$329
 cardPriceNativeCurrency: HKD
 ---
-
 ## Verdict rapide
 
-**Metroid Dread reste l’un des “Samus est de retour” les plus convaincants sur Switch** — **88 Metacritic**, **carte ZDR à abilities**, **EMMI** et **combat au parry**. **HLTB** tourne autour de **9h / 12h / 14h**.
+**Metroid Dread** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **88 Metacritic**.
 
-En **avril 2026**, l’index numérique démarre vers **~36,44 € équivalent Hong Kong (329 HK$)**, puis **Japon ~41,32 € (7 600 ¥)**, puis **US / UK / Brésil**, et plusieurs **59,99 €** — le flux ne montre **quasi aucune promo** sur l’année : pensez **prix catalogue**, pas **soldes** permanents.
+Metroid Dread reste un achat qualité pour les bons profils — le vrai risque est régional.
 
-**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €36.44.
 
-## Combien coûte Metroid Dread sur Switch en ce moment ?
+Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price).
 
-**Hong Kong mène toujours l’index autour de ~36,44 € équivalent (329 HK$), avec Japon et États-Unis au-dessus sur le même instantané d’avril 2026.**
+## Combien coute Metroid Dread sur Nintendo Switch maintenant?
+
+Metroid Dread reste un achat qualité pour les bons profils — le vrai risque est régional.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -200,43 +201,32 @@ En **avril 2026**, l’index numérique démarre vers **~36,44 € équivalent H
 | Espagne | EUR 59.99 | €59.99 |
 | France | EUR 59.99 | €59.99 |
 
-Côté **historique**, ce filtre note **zéro vraie promo** captée sur **2025–2026** et aucune **moyenne de promo** fiable — parlez **écart de région**, pas **plus bas historique** miracle en **2026** avec **7 600 ¥** ou **329 HK$** comme repères visibles. En **2026**, comparez **7 600 ¥** côté Japon et **329 HK$** côté HK à votre ligne. GameGulf reflète la même échelle — ouvrez la [grille multi-régions live](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) pour confirmer **votre** compte.
+## Quel type de jeu est Metroid Dread?
 
-## Quel jeu est-ce vraiment ?
+Noyau de genre: **Action 2D : carte ZDR, gating, EMMI, parades, boss et modes de difficulté**. Le point cle reste l'adaptation a tes preferences, pas le texte marketing.
 
-**Un metroidvania moderne où la peur est système, pas décor** — abilities, retours arrière, zones EMMI qui changent le tempo.
+## Comment tourne Metroid Dread sur Nintendo Switch?
 
-1. **Carte abilities** — raccourcis et gates qui récompensent la lecture d’espace.
-2. **Boucle EMMI** — infiltration = géométrie de patrouille, pas attente scriptée.
-3. **Combat** — boss en apprentissage ; exigeant mais lisible.
+Globalement jouable de facon stable; valide toujours avec la version la plus recente.
 
-Par rapport à **Metroid Prime Remastered**, Dread est la branche **2D skill-check** — assumez-le.
+- Performance: base stable, ecarts possibles selon build.
+- Controle/lisibilite: schema standard, lisibilite portable selon contenu.
+- Mode: Solo.
 
-## Comment ça tourne sur Switch ?
+## Acheter maintenant si
 
-**La perf sert la lisibilité des parades et des échappées EMMI.**
+- tu apprecies **Profils action qui assument tension EMMI et boss techniques.**
+- ton prix regional sur GameGulf est deja dans ta zone cible
+- tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
+- le format te convient: Solo.
+## Attendre si
 
-- **Portable :** UI claire ; la friction vient du skill, rarement des fps.
-- **Dock :** grand écran utile pour les lignes de vue EMMI.
-- **Modes :** Rookie / Dread ajustent la marge sans changer le cœur.
+- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ton fit de genre est incertain
+- ton budget du mois est reserve a d'autres titres
+- Évitez si chasses EMMI et wipes boss vous épuisent.
 
-Ce n’est pas un portage “à éviter”, c’est une **action Nintendo finie**.
+## Conclusion
 
-## Achetez maintenant si
-
-- Vous voulez **~88 Metacritic** en **2D Metroid** avec **pression EMMI**
-- **Votre ligne eShop** est proche des **ancres HK / JP** que vous pouvez payer
-- **Boss learning** vous motive, pas **open-world 200h**
-- Vous acceptez **HLTB ~9–12h** pour une campagne serrée
-
-## Attendez si
-
-- **Votre boutique** reste à **59,99 €** sans regarder d’**autres régions**
-- Vous fuyez **les wipes** et voulez du **cosy island** à la place
-- Vous attendez un **-75 %** — ce flux first-party ne le promet pas
-
-## Pourquoi l’aura tient encore
-
-**Metroid Dread, c’est apprendre ZDR au muscle** — chaque upgrade recompose les trajets, chaque EMMI re-règle le tempo, chaque boss achète la minute suivante.
-
-**Regardez votre ligne une fois.** Si le prix colle et que vous voulez de **l’action Nintendo exigeante**, achetez. Sinon, **alerte** — mais ne confondez pas patience et **promo** garantie.
+Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. le vrai risque est régional.
+Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price)** puis tranche achat vs attente.

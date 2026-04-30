@@ -173,9 +173,14 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
   const filteredCards = rankedCards.map((e) => e.card);
   const sectionCopy = useMemo(() => getSectionCopy(locale, activeMode), [locale, activeMode]);
 
-  const featuredCount = filteredCards.length >= 6 ? Math.min(2, filteredCards.length) : 0;
-  const featuredCards = useMemo(() => filteredCards.slice(0, featuredCount), [filteredCards, featuredCount]);
-  const allLatestCards = useMemo(() => filteredCards.slice(featuredCount), [filteredCards, featuredCount]);
+  const featuredCards = useMemo(
+    () => filteredCards.filter((card) => card.featuredPriority < 999).slice(0, 2),
+    [filteredCards],
+  );
+  const allLatestCards = useMemo(() => {
+    const ids = new Set(featuredCards.map((card) => card.id));
+    return filteredCards.filter((card) => !ids.has(card.id));
+  }, [filteredCards, featuredCards]);
   const visibleLatestCards = allLatestCards.slice(0, gridVisible);
   const hasMoreCards = allLatestCards.length > gridVisible;
 

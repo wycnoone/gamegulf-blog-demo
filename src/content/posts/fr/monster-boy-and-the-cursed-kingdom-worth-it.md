@@ -1,12 +1,10 @@
 ---
-title: >-
-  Monster Boy and the Cursed Kingdom vaut-il le coup sur Nintendo Switch en 2026
-  ?
+title: Monster Boy and the Cursed Kingdom sur Switch en 2026 — bon plan ou pas ?
 description: >-
-  2026年4月Nintendo Switch购买参考：Monster Boy and the Cursed Kingdom、GameGulf
-  价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+  Mémo d'achat Switch (avril 2026) — Metacritic, Metroidvania en fil rouge, prix
+  multi-régions GameGulf.
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: Monster Boy and the Cursed Kingdom
 platform: Nintendo Switch
@@ -14,78 +12,111 @@ primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 7 min de lecture
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+readingTime: 8 min de lecture
+decision: >-
+  Achat raisonnable si vous aimez la Metroidvania classique et que GameGulf
+  montre déjà votre région dans la fourchette promo profonde.
+priceSignal: >-
+  Les plus bas indexés se regroupent souvent au Japon en promo ; l'Europe peut
+  rester plus proche du MSRP.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1vs5joujuwt#currency-price
 gameHref: https://www.gamegulf.com/detail/1vs5joujuwt
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: 86 Metacritic
 heroNote: >-
-  Monster Boy and the Cursed Kingdom：Action, Adventure, Platformer,
-  Role-playing；Game Atelier。
+  Six formes animales, progression par équipement, animation dessinée et cible
+  60 fps annoncée.
 badge: Acheter maintenant
 verdict: buy_now
 priceCall: buy
-confidence: medium
+confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  Monster Boy and the Cursed Kingdom：Action, Adventure, Platformer,
-  Role-playing；2026年4月价格分区差值得先对…
+  86 Metacritic ; avril 2026 : GameGulf place le Japon sur le plus bas
+  historique indexé.
 whatItIs: >-
-  Action, Adventure, Platformer, Role-playing — Monster Boy and the Cursed
-  Kingdom on Ninte…
-bestFor: 想要Action, Adventure, Platformer, Role-playing且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, Platformer, Role-playing气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；86 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
+  Metroidvania 2D dessinée — six formes, équipements, 60 fps TV/portable sur
+  Switch.
+bestFor: Fans de puzzles de formes et retours de zone modérés.
+avoidIf: Vous fuirez tout backtracking lié aux pouvoirs.
+consensusPraise: >-
+  Alignement critique autour de 86 Metacritic ; louanges sur l'animation et la
+  BO.
+mainFriction: Chaque pouvoir rouvre d'anciennes zones — rythme volontairement old-school.
+timeFit: Aventure intermédiaire (~15 h annoncées), pas RPG à centaines d'heures.
+fitLabel: Acheteurs qui comparent deux pays sur GameGulf avant le checkout.
+timingNote: >-
+  Les promos tournent ; si votre eShop reste au MSRP, attendre le prochain tour
+  est sain.
+communityVibe: Animation magnifique, six formes, exploration fluide
 reviewSignal: 86 Metacritic
-takeaway: Monster Boy and the Cursed Kingdom 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Action, Adventure, Platformer, Role-playing
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 11 次促销波动——折扣是常态。
+takeaway: Produit qualité — GameGulf transforme la feuille Excel régionale en décision.
+playStyle: Action, Aventure, Plate-forme
+timeCommitment: Environ 15 h pour une trajectoire nette (fiche Nintendo).
+playMode: Solo selon fiches boutiques.
+whyNow: >-
+  Fréquence de promos élevée — les bas indexés reviennent souvent dans la
+  colonne Japon.
+currentDeal: >-
+  Les lignes du haut du tableau GameGulf sont les moins chères ; vérifiez la
+  devise native.
+nearHistoricalLow: Oui — proche du plus bas historique indexé au Japon.
+salePattern: ~12 mouvements de prix sur 12 mois — les promos font partie du cycle.
 priceRecommendation: buy
 quickFilters:
   - great_on_sale
   - short_sessions
 playerNeeds:
-  - value_for_money
   - buy_now
+  - value_for_money
 tags:
-  - monster boy and the cursed kingdom nint…
-  - monster boy and the cursed kingdom wort…
-  - monster boy and the cursed kingdom price
-  - gamegulf deals
+  - monster boy switch
+  - metroidvania switch
+  - gamegulf promo
+  - achat switch 2026
+playtime: Comptez 15–18 h pour le fil principal ; le platine/100 % prend plus.
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: En portable l'animation reste splendide.
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Retours de zones — pas pour les pressés.
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: Attendez l'alignement JP/EU en promo.
     sentiment: positive
 communityMemes:
-  - Monster Boy and the Cursed Kingdom sale…
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Monster Boy and the Cursed Kingdom — 86 Metacritic；价格信号偏买入（口味要对）。
+  - rush de formes
+  - débats Wonder Boy
+  - flex OST
+  - sticker MSRP
+  - nomade eShop
+  - backtrack mème
+tldr: >-
+  Monster Boy and the Cursed Kingdom — 86 Metacritic ; GameGulf montre le Japon
+  au plus bas indexé avec promos fréquentes — achetez si la formule vous parle.
+faq:
+  - question: Monster Boy and the Cursed Kingdom vaut-il le coup sur Switch en 2026 ?
+    answer: >-
+      Monster Boy and the Cursed Kingdom oui si vous cherchez une Metroidvania
+      dessinée et que votre ligne GameGulf est déjà en promo profonde —
+      contrôlez le prix live avant paiement.
+  - question: Quelle durée pour Monster Boy ?
+    answer: >-
+      Monster Boy and the Cursed Kingdom — prévoyez 15 h+ pour le cœur du jeu ;
+      le ménage de secrets prolonge la durée.
+  - question: Où comparer les prix Switch ?
+    answer: >-
+      Monster Boy and the Cursed Kingdom — utilisez la grille GameGulf
+      https://www.gamegulf.com/detail/1vs5joujuwt#currency-price pour éviter les
+      conversions au pif.
+heroTheme: brand
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519417110374.jpeg
 priceRows:
-  - regionCode: US
-    eurPrice: 8.55
-    nativePrice: $39.99
-    nativeCurrency: USD
+  - regionCode: JP
+    eurPrice: 5.37
+    nativePrice: ¥3,980
+    nativeCurrency: JPY
   - regionCode: DE
     eurPrice: 9.99
     nativePrice: €39.99
@@ -94,110 +125,90 @@ priceRows:
     eurPrice: 9.99
     nativePrice: €39.99
     nativeCurrency: EUR
-  - regionCode: JP
-    eurPrice: 21.5
-    nativePrice: ¥3,980
-    nativeCurrency: JPY
+  - regionCode: FR
+    eurPrice: 9.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 9.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: US
+    eurPrice: 34.21
+    nativePrice: $39.99
+    nativeCurrency: USD
   - regionCode: HK
     eurPrice: 34.84
     nativePrice: HK$319
     nativeCurrency: HKD
-  - regionCode: FR
-    eurPrice: 39.99
-    nativePrice: €39.99
-    nativeCurrency: EUR
   - regionCode: IT
     eurPrice: 39.99
     nativePrice: €39.99
     nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 39.99
-    nativePrice: €39.99
-    nativeCurrency: EUR
-cardPriceEur: 8.55
-cardPriceRegionCode: US
-cardPriceRegion: États-Unis
-cardPrice: EUR 8.55
-cardPriceNative: $39.99
-cardPriceNativeCurrency: USD
-faq:
-  - question: >-
-      Monster Boy and the Cursed Kingdom vaut-il le coup sur Nintendo Switch en
-      2026 ?
-    answer: >-
-      Monster Boy and the Cursed Kingdom 是否值得买取决于你是否喜欢Action, Adventure,
-      Platformer, Role-playing，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Monster Boy and the Cursed Kingdom?
-    answer: >-
-      Monster Boy and the Cursed Kingdom — treat runtime as store-listed scope;
-      verify patch notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Monster Boy and the Cursed Kingdom — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/1vs5joujuwt#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516519417110374.jpeg
+cardPriceEur: 5.37
+cardPriceRegionCode: JP
+cardPriceRegion: Japon
+cardPrice: EUR 5.37
+cardPriceNative: ¥3,980
+cardPriceNativeCurrency: JPY
 ---
 ## Verdict rapide
 
-**Monster Boy and the Cursed Kingdom** reads as **86 Metacritic**  — **Action, Adventure, Platformer** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**Monster Boy and the Cursed Kingdom** reste ancré vers **86 Metacritic** sur Switch : **six formes**, **carte refermée par équipement** et **animation dessinée** sont des ancres vérifiables, pas du marketing vide. La fiche Nintendo promet **1080p/60 en TV** et **720p/60 en portable** — important pour juger la lecture des sauts.
 
-Historique des **soldes** : **plus bas historique** vers **€8.55** (US), **11** mouvements sur 12 mois, **prix moyen promo** **€10.61**, dernière variation notable il y a **20** jours (**2026-04-02 (United States, €8.55)**, **2026**). Vérifiez le [tableau GameGulf](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price).
+Côté **promo** / **historique** : **plus bas indexé** vers **€5,37** (**Japon**), **12** baisses relevées sur 12 mois, **prix moyen en promo** ~**€10,18**, dernière baisse notable il y a **14** jours (**2026-04-15**, **Japon**, **€5,37**). Gardez **[GameGulf](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price)** ouvert avant d'encaisser — les écarts **2026** restent géographiques.
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price) so you can sanity-check the **discount** story before checkout.
+**GameGulf** conserve ce SKU sur un [tableau multi-régions](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price) lisible : c'est plus fiable qu'un « prix monde » imaginaire.
 
-## Combien coûte Monster Boy and the Cursed Kingdom sur Nintendo Switch aujourd’hui ?
+## Combien coûte Monster Boy and the Cursed Kingdom sur Nintendo Switch ?
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**Les étiquettes bougent vite** — le tableau ci-dessous reflète exactement les lignes **GameGulf** synchronisées avec notre frontmatter. Comparez toujours [gamegulf.com](https://www.gamegulf.com) à votre compte.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
 | --- | ---: | ---: |
-| États-Unis | EUR 8.55 | $39.99 |
+| Japon | EUR 5.37 | ¥3,980 |
 | Allemagne | EUR 9.99 | €39.99 |
 | Espagne | EUR 9.99 | €39.99 |
-| Japon | EUR 21.50 | ¥3,980 |
+| France | EUR 9.99 | €39.99 |
+| Portugal | EUR 9.99 | €39.99 |
+| États-Unis | EUR 34.21 | $39.99 |
 | Hong Kong | EUR 34.84 | HK$319 |
-| France | EUR 39.99 | €39.99 |
 | Italie | EUR 39.99 | €39.99 |
-| Portugal | EUR 39.99 | €39.99 |
 
-## Qu’est-ce que Monster Boy and the Cursed Kingdom, vraiment ?
+## Quel genre de jeu est-ce vraiment ?
 
-**Monster Boy and the Cursed Kingdom** is a **Action, Adventure, Platformer** package from **Game Atelier** — treat the long store blurb as marketing, but the **genre mix** and **86 Metacritic** signal are the real buying compass.
+**Monster Boy** est une **action/aventure 2D** qui prolonge l'esprit **Wonder Boy / Monster World** : **grande carte**, **nouveaux pouvoirs**, **boss** et **collectibles**, pas une boucle roguelike. Les **six formes** modifient à la fois **combat** et **énigmes d'environnement**.
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+1. **Exploration** — **gating classique** : chaque forme rouvre d'anciennes zones, proche d'une **Metroid** en ton plus lumineux.
+2. **Wow factor** — **animation traditonnelle**, cible **60 fps**, compositeurs (**Yuzo Koshiro**, **Michiru Yamane**, **Motoi Sakuraba**…) d'un niveau rare pour ce budget.
+3. **Temps de jeu** — la fiche annonce **15+ h**, donc aventure intermédiaire, pas service live.
 
-## Comment Monster Boy and the Cursed Kingdom tourne sur Nintendo Switch ?
+## Comment ça tourne sur Switch ?
 
-**Monster Boy and the Cursed Kingdom** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+La version Switch est **soignée** : **Full HD / 60 fps** annoncé en dock, **720p / 60 fps** portable, **HD Rumble** pour le ressenti des impacts.
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+- **Portable** : le travail sprite/UI tient la distance ; pas d'upscale 3D crasseux.
+- **Dock** : confort et lisibilité, pas démo technique next-gen.
+- **Manette** : sauts + **changements de forme** fonctionnent proprement sur **Joy-Con**.
 
-## Achetez si
+## Achetez maintenant si
 
-- You want **Action, Adventure, Platformer** pacing and the **86 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- Vous voulez une **Metroidvania** où **86 Metacritic** colle à votre barre qualité.
+- **GameGulf** montre déjà votre **région** sur la ligne **promo** — [revérifiez](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price).
+- Vous valorisez **l'art** et la **BO** si le **rabattement** suit.
+- Vous visez une aventure **solo** de quelques soirées, pas un RPG à rallonge.
+- Vous n'avez pas bouclé sur **PC** et voulez un **portable** propre.
 
-## Attendez si
+## Attendez plutôt si
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, Platformer) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+- Votre eShop reste **MSRP** alors que d'autres **promos** apparaissent sur **GameGulf**.
+- Le **retour arrière** après chaque pouvoir vous épuise — c'est le design.
+- Vous avez besoin de **multi en ligne** permanent : ici c'est **solo narratif**.
+- Vous espériez du **roguelike** ou du **soulslike** : c'est du **plateformer d'antan**.
 
-## Monster Boy and the Cursed Kingdom sur Nintendo Switch — conclusion
+## Dernière ligne
 
-**Monster Boy and the Cursed Kingdom** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
+**Monster Boy** devient un **achat logique** quand **GameGulf**, **86 Metacritic** et votre envie de **Metroidvania** s'alignent — la **promo** parle plus fort que la jaquette.
 
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Jetez un œil à **[GameGulf prix](https://www.gamegulf.com/detail/1vs5joujuwt#currency-price)** : si la ligne est bonne, validez ; sinon, reprogrammez pour la prochaine **promo** sur **gamegulf.com**.

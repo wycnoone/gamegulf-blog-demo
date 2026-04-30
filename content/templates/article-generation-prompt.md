@@ -280,11 +280,17 @@ FAQ — HIGHEST GEO PRIORITY:
 - 3 to 6 items
 - Every answer is output as FAQPage JSON-LD schema
 - Every answer must START WITH THE GAME NAME
-- Every answer must be self-contained — works without
-  the question
-- Include concrete data (prices, hours, fps) in answers
-- One answer should naturally reference a GameGulf tool
-- Anchor temporal claims with date context:
+- Every answer must be self-contained — works without the question
+- Include concrete data where helpful (hours, modes, consensus) — **avoid repeating**
+  the article’s price section: no duplicate €/MSRP tiers, JP-vs-EU spreads,
+  `#currency-price` URLs, or a standalone “where do I see prices?” FAQ unless the
+  article has no pricing block
+- Prefer three angles: (1) worth-buying / **game fit** and genre; (2) length;
+  (3) **gameplay-friction** (e.g. RNG, timers, hunt scenes). Price mechanics belong
+  in the body’s price + discount paragraphs, not cloned into FAQ.
+- Optional: one FAQ may reference GameGulf for non-price workflows (alerts, wishlist)
+  **without** mirroring the markdown price table
+- Anchor temporal claims with date context when relevant:
   "As of [month year]..." not just "right now"
 
 ·····················································
@@ -514,9 +520,10 @@ GEO (tldr + article body + FAQ):
 □ Buy/wait bullets: situation+trigger; ≥50% cite a concrete purchase cue
 □ Key statements include the game name
 □ Section headings match real user questions
-□ FAQ has 3-6 items, one mentions GameGulf
+□ FAQ has 3-6 items; answers avoid redundant pricing vs body (no FAQ-only grid / `#currency-price` dumps)
+□ FAQ covers worth-buying fit, length, and gameplay-friction — not three price questions
 □ Every FAQ answer starts with the game name
-□ Every FAQ answer is self-contained with concrete data
+□ Every FAQ answer is self-contained with concrete data where relevant (not cloned price blocks)
 □ Temporal claims are date-anchored
 
 Multilingual:

@@ -1,84 +1,103 @@
 ---
-title: "2026年、Nintendo Switchで『Shovel Knight: Treasure Trove』は買い？"
-description: "2026年4月Nintendo Switch购买参考：Shovel Knight: Treasure Trove、GameGulf 价格信号与买/等建议。"
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: 2026年、『ショベルナイト トレジャー・トローブ』Switch版は買いか？
+description: >-
+  2026年4月更新の購入メモ：Metacritic約91のアンソロジーパック、日本行がインデックス上~€11.67前後へ張りつきやすい履歴的低価と、シャベル協力／ショウダウン収録可否。
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: "Shovel Knight: Treasure Trove"
+gameTitle: ショベルナイト トレジャー・トローブ
 platform: Nintendo Switch
-primaryPlatformKey: switch 1
+primaryPlatformKey: switch-1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 読了約7分
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price
-gameHref: https://www.gamegulf.com/detail/fppDS0HCLd8
-membershipHref: https://www.gamegulf.com/pricing
-heroStat: Metacritic 91点台
-heroNote: "Shovel Knight: Treasure Trove：Action, Adventure, Platformer；Yacht Club Games。"
-badge: 今が買い時
+readingTime: 8分で読める
+decision: >-
+  メタ評価込みのアンソロジーとして筋がよい。『シャベルの希望』本篇＋外伝三本＋『ショウダウン』まで入り—GameGulfのインデックス上は日本先行の~€11.67帯が足場になりやすい。
+priceSignal: EUの€39.99定価帯と並べると差は桁に近いので、「さらなる奇跡」を待つよりストア選択が効く。
+heroStat: Metacritic 約91点
+heroNote: >-
+  Yacht Clubによる像素アクション。『シャベルの希望』協力、アリーナ対戦ショウダウン、50超えチャレンジ、Body
+  Swap、各キャンペーン専用操作体系が全部入り。
+badge: 今なら買い
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: >-
-  Shovel Knight: Treasure Trove：Action, Adventure, Platformer；2026年4月价格分区差值得先对照
-  GameGulf。
-whatItIs: >-
-  Action, Adventure, Platformer — Shovel Knight: Treasure Trove on Nintendo
-  Switch.
-bestFor: 想要Action, Adventure, Platformer且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, Platformer气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；Metacritic 91点台 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: Metacritic 91点台
-takeaway: "Shovel Knight: Treasure Trove 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。"
-playStyle: Action, Adventure, Platformer
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Yes — data tracks near historic lows.
-salePattern: 过去一年约 2 次促销波动——折扣是常态。
+listingTakeaway: Metacritic約91のコンピレ；日本〜€11.67帯継続気味——まず自分のニンテンドーアカウント行を見ろ。
+whatItIs: 横スクロピクセルの詰め合わせ協力・アリーナ付き。『疫病』『スペクター』『キング』各ルート収録。
+bestFor: ソファで殴り合いも掘りにも行ける層／レトロ苦行が好きな人。
+avoidIf: OW探索やフル音声RPGのみ欲しい場合は不向き。
+consensusPraise: ボス波形とシャベルの手触り評価が根強い。
+mainFriction: 章ごとの操作体系差がケースによって急勾配になる。
+timeFit: 本篇一周目およそ十二時間級、全収録ぶんは三十五時間超えることも多い。
+fitLabel: アンソロジー総量よりボリューム感を優先できる人へ。
+timingNote: アカウントがEU定価帯のみなら、GameGulfの表と日本フォローを先に比較。
+communityVibe: チャレンジ塔で手柄が増えるタイプのアレ
+playtime: 本篇目安〜12h / 総取りで35h+ / ショウダウン単独は別枠
+reviewSignal: Metacritic 約91点
+takeaway: >-
+  ショベルナイト トレジャー・トローブは
+  Switch向け名作レトロの一つの完成形。履歴〜€11.67帯へ寄り続ける日本インデックスを前提にすると即断しやすい。
+playStyle: 横スクプラットフォーマー、アイテム＆レリック運用、『シャベルの希望』2P協力、『ショウダウン』4人線下パーティ、各々固有のジャンプ論理とボスセットピース。
+timeCommitment: 「シャベルの希望」だけ切りなら十余時間級。三本の外伝＋チャレで三十五時間を優に超える。ショウダウン単体は練習が別ゲー。
+playMode: ローカル協力およびローカル4人ショウダウン対応。
+whyNow: メンテ期はひと段落—買う判断はコンテンツの厚みと苦行耐性。
+currentDeal: 2026年4月現在、インデックス上は日本行がおよそ €11.67、他リージョンは定価帯側。
+nearHistoricalLow: はい。2026-03-28付近からの日本¥2160級が履歴とも整合。
+salePattern: 試料窓では年二回級の明示的な下落、下落時平均~€13.9。
 priceRecommendation: buy
 quickFilters:
-  - great_on_sale
+  - co_op
   - short_sessions
+  - great_on_sale
 playerNeeds:
   - value_for_money
   - buy_now
 tags:
-  - "shovel knight: treasure trove nintendo …"
-  - "shovel knight: treasure trove worth it"
-  - "shovel knight: treasure trove price"
-  - gamegulf deals
+  - ショベルナイト switch
+  - shovel knight 買う
+  - switch 協力ゲーム
+  - Yacht Club Games
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: 協力で分担できたおかげでマルチ産廃だった友人でもクリアまで行けた。
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: スペクターだけで新作と言ってよいぐらい面白い。
+    sentiment: positive
+  - quote: ソファで大乱闘より操作が単純でよかった。
+    sentiment: positive
+  - quote: 疫病の調合は頭にくるときもあった。
     sentiment: mixed
-  - quote: 購入前に自分のリージョンの価格を確認してください。
-    sentiment: positive
-communityMemes:
-  - "Shovel Knight: Treasure Trove sale bingo"
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: "Shovel Knight: Treasure Trove — Metacritic 91点台；价格信号偏买入（口味要对）。"
+  - quote: チャレモードは自分に合わなければ地獄。
+    sentiment: negative
+  - quote: オープンワールドが欲しくなったタイミングで止まった。
+    sentiment: negative
+tldr: ショベルナイト トレジャー・トローブ—Metacritic約91。日本インデックスは〜€11.67前後へ張りつきやすく、コンテンツ量は割安感が強い。
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price
+gameHref: https://www.gamegulf.com/detail/fppDS0HCLd8
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
+heroTheme: brand
+faq:
+  - question: 「ショベルナイト」を他のインディー名作と並べていつ買うべき？
+    answer: >-
+      ショベルナイト
+      トレジャー・トローブは複数の主人公セットとローカルアリーナをまとめ買いしたい人向け。オープンワールド探索やメトロイドヴァニアの地図捜索だけが趣味なら他作を先にすべきタイプのアンソロジーでもある。
+  - question: クリア時間の目安は？
+    answer: >-
+      ショベルナイト
+      トレジャー・トローブは「シャベルの希望」だけを早回しならおよそ十余時間級。三本のキャンペーンとチャレンジ塔を総取りすると三十五時間どころでは終わらない。ショウダウンの練習はカウントを切り離して考えるのが無難。
+  - question: ジャンプの辛さ以外に地雷は？
+    answer: >-
+      ショベルナイト
+      トレジャー・トローブはキャンペーンごとに異なる操作性を要求します。チャレンジステージでは固定ギミックでの死に直しや、対戦モードでの入力精密さ——いずれも「一度覚えると単調」になりがちというより「暗記耐性」への課金となる。
 priceRows:
   - regionCode: JP
     eurPrice: 11.67
-    nativePrice: ¥2,160
+    nativePrice: ¥2160
     nativeCurrency: JPY
   - regionCode: BR
     eurPrice: 24.82
@@ -104,92 +123,61 @@ priceRows:
     eurPrice: 39.99
     nativePrice: €39.99
     nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 39.99
-    nativePrice: €39.99
-    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 41.37
+    nativePrice: £35.99
+    nativeCurrency: GBP
 cardPriceEur: 11.67
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 2180
-cardPriceNative: ¥2,160
+cardPrice: JPY 2183
+cardPriceNative: ¥2160
 cardPriceNativeCurrency: JPY
-faq:
-  - question: "2026年、Nintendo Switchで『Shovel Knight: Treasure Trove』は買い？"
-    answer: >-
-      Shovel Knight: Treasure Trove 是否值得买取决于你是否喜欢Action, Adventure,
-      Platformer，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: "How long is Shovel Knight: Treasure Trove?"
-    answer: >-
-      Shovel Knight: Treasure Trove — treat runtime as store-listed scope;
-      verify patch notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Shovel Knight: Treasure Trove — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
 ---
-## 結論
 
-**Shovel Knight: Treasure Trove** reads as **Metacritic 91点台**  — **Action, Adventure, Platformer** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+## クイック結論
 
-**セール**履歴：**最安値**は **€11.67** 付近（JP）、直近1年で **2** 回の動き、**平均セール価格**は **€13.90**、直近の大きめの動きから **25** 日（**2026-03-28 (Japan, €11.67)**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)で最新行を確認してください。
+**ショベルナイト トレジャー・トローブ** は Switch向けにも **買い**。**Metacritic 約91点** と、Bundleの厚みがある。GameGulf 2026年4月の索引では **日本が~€11.67級（¥2160前後）** で履歴的な安値帯といまだ噛み合う。
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price) so you can sanity-check the **discount** story before checkout.
+チェックしてから買ってほしい：**[GameGulfの詳細ページ価グリッド](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)**。
 
-## 『Shovel Knight: Treasure Trove』はNintendo Switchでいまいくら？
+## Switch版の価格はいくら？
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+日本が引き続きインデックス上の先行者で、EURやUSDのリスト価格帯とは大きく開く。**アカウント変更ができないユーザーほど体感差が強い。**
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 2180 | ¥2,160 |
-| ブラジル | JPY 4637 | R$147.99 |
-| アメリカ合衆国 | JPY 6391 | $39.99 |
-| ドイツ | JPY 7471 | €39.99 |
-| スペイン | JPY 7471 | €39.99 |
-| フランス | JPY 7471 | €39.99 |
-| イタリア | JPY 7471 | €39.99 |
-| ポルトガル | JPY 7471 | €39.99 |
+| 日本 | JPY 2183 | ¥2160 |
+| ブラジル | JPY 4643 | R$147.99 |
+| アメリカ合衆国 | JPY 6399 | $39.99 |
+| ドイツ | JPY 7480 | €39.99 |
+| スペイン | JPY 7480 | €39.99 |
+| フランス | JPY 7480 | €39.99 |
+| イタリア | JPY 7480 | €39.99 |
+| イギリス | JPY 7738 | £35.99 |
 
-## 『Shovel Knight: Treasure Trove』はどんなゲーム？
+追跡した履歴データでは **2026-03-28** に日本で **¥2160** に近い**最安値**帯があり、過去約1年で識別できた約2回の**セール**は平均すると **€13.9前後**。直近の値動きまで約 **32日** — 詳細グラフと同じ並び順は **`gamegulf.com/detail/fppDS0HCLd8`** で再確認してください。
 
-**Shovel Knight: Treasure Trove** is a **Action, Adventure, Platformer** package from **Yacht Club Games** — treat the long store blurb as marketing, but the **genre mix** and **Metacritic 91点台** signal are the real buying compass.
+## どんなゲーム？
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+**本篇＋三本の外伝＋チャレ／ショウダウンのレトロ箱舟。**
 
-## 『Shovel Knight: Treasure Trove』のNintendo Switch動作は？
+- システムのアンカー：レリック配分、`ショウダウン`の宝石争奪、アリーナ用ルール差、Body Swapでのイラスト読み替え、各種ボスセット。
+- メトロイドヴァニア型の広域探索とは違って、細かいプラットフォーミングの教室。
 
-**Shovel Knight: Treasure Trove** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## Nintendo Switchでの動き
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+テレビ720/1080p級の視認性、アリーナはProコン推奨、オフライン中心。
 
-## いま買うなら
+- Docked / Handheldともに問題視されにくい作り。
+- 追加課金型ライブサービスでもないので、ひと段落した今買ってもコンテンツは固定。
 
-- You want **Action, Adventure, Platformer** pacing and the **Metacritic 91点台** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+## 買う／待つ／避ける
 
-## 待つなら
+- **買い**：自分のインデックス行が依然 **¥2160 / ~€11.67級** で、像素苦行が好み。
+- **買い**：ソファ協力またはショウダウンの用途が読める。
+- **待ち**：自分のだけが **€/$39.99定価** に縫い付けで、しかもコンテンツに未練がない。**GameGulf** で通知をセット。
+- **避け**：苦行が嫌い／オープンワールド探索のみ。
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, Platformer) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
-
-## 『Shovel Knight: Treasure Trove』(Nintendo Switch)の最後に
-
-**Shovel Knight: Treasure Trove** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+まとめるとコンテンツ量は割に合うので、適合だけ見極めると割と即断。**gamegulf.com で最終確認後にチェックアウト。**

@@ -32,21 +32,20 @@ featuredPriority: 2
 listingTakeaway: >-
   88 Metacritic story anthology — April 2026 Spain sale sits below average
   discount prints.
-whatItIs: >-
-  First-person narrative: Finch house vignettes, Giant Sparrow pacing.
+whatItIs: "First-person narrative: Finch house vignettes, Giant Sparrow pacing."
 bestFor: Players who want a short, story-first run with no filler.
 avoidIf: Skip if death-heavy themes or walking-sim pacing will wreck your mood.
 consensusPraise: >-
   Writing, scene variety, and environmental storytelling rank among indies’
   best.
 mainFriction: It is brief — you are paying for density, not a 30-hour RPG loop.
-timeFit: HLTB near 2h main, 3h extras, 3h completionist (community).
+timeFit: Typical bands near 2h main, 3h extras, 3h completionist (community).
 fitLabel: Players who treat two perfect hours as better than twenty mediocre ones.
 timingNote: >-
   Compare your row to the €4.99 Spain anchor and the €2.86 Brazil historic print
   before you chase “lowest ever.”
 communityVibe: The Lewis clip lands every time; the house feels like a mixtape.
-playtime: 2h main · 3h+ extras · ~3h completionist (HLTB)
+playtime: 2h main · 3h+ extras · ~3h completionist
 reviewSignal: 88 Metacritic
 takeaway: >-
   What Remains of Edith Finch is an easy sale buy in 2026 for narrative fans —
@@ -55,7 +54,7 @@ playStyle: >-
   First-person exploration, light interaction puzzles, genre-shifting vignettes,
   and diegetic stories tied to each Finch room.
 timeCommitment: >-
-  HLTB aggregates land near two hours for a straight path, about three with
+  Typical player reports land near two hours for a straight path, about three with
   extras, and three for completionists hunting every interactable.
 playMode: Single-player.
 whyNow: >-
@@ -135,7 +134,7 @@ faq:
     answer: >-
       What Remains of Edith Finch averages about two hours for the main path,
       roughly three hours with extras, and near three hours for completionist
-      cleanup according to HLTB community aggregates.
+      cleanup in typical community hour spreads.
   - question: How does What Remains of Edith Finch run on Nintendo Switch?
     answer: >-
       What Remains of Edith Finch is a slow-paced exploration game with modest
@@ -187,74 +186,62 @@ priceRows:
 cardPriceEur: 4.99
 cardPriceRegionCode: ES
 cardPriceRegion: Spain
-cardPrice: USD 5.75
+cardPrice: USD 5.84
 cardPriceNative: €4.99
 cardPriceNativeCurrency: EUR
 ---
-
 ## Quick verdict
 
-**What Remains of Edith Finch remains one of the tightest narrative anthologies you can buy on Switch** — **88 Metacritic**, **two-hour HLTB main path**, and **genre-swapping vignettes** that still feel fresh years after release. **Indexed April 2026 pricing** opens with **Spain near €4.99** during a **75% promo**, which sits **below** the tracker’s **average sale-era print (~€5.58)** even though it is **not** the **all-time low**.
+**What Remains of Edith Finch** on **Nintendo Switch** is primarily a fit-and-price decision. Quality anchor: **88 Metacritic**.
 
-The honest math: **tracked history** still shows a **deeper €2.86 point (Brazil, 14 April 2025)** — roughly **€2.13** under today’s **Spain** row — so you are buying a **strong sale**, not the **historic floor**. With **nine discounts** logged in the past year and the **last drop** only **four days** before this snapshot, waiting for “maybe cheaper” is usually about chasing **Brazil-style outliers**, not guaranteed repeats.
+What Remains of Edith Finch is an easy sale buy in 2026 for narrative fans — just know today’s indexed price is strong but not the tracked all-time floor.
 
-**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+Discount history signal: in 2026, the sale posture still points to a historical low band around €4.99.
 
-## How much does What Remains of Edith Finch cost on Switch right now?
+Before checkout, compare your actual account region on [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price).
 
-**Indexed April 2026 begins with Spain near €4.99 during a deep promo, then Brazil and Japan, before the United States and full-price Euro bands step up.**
+## How much does What Remains of Edith Finch cost on Nintendo Switch right now?
+
+Compare your row to the €4.99 Spain anchor and the €2.86 Brazil historic print before you chase “lowest ever.”
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Spain | USD 5.85 | €4.99 |
-| Brazil | USD 13.62 | R$69.00 |
-| Japan | USD 14.03 | ¥2,200 |
-| United States | USD 20.36 | $19.99 |
-| Germany | USD 23.45 | €19.99 |
-| France | USD 23.45 | €19.99 |
-| Italy | USD 23.45 | €19.99 |
-| United Kingdom | USD 24.23 | £17.99 |
+| Spain | USD 5.84 | €4.99 |
+| Brazil | USD 13.59 | R$69.00 |
+| Japan | USD 14.00 | ¥2,200 |
+| United States | USD 20.31 | $19.99 |
+| Germany | USD 23.40 | €19.99 |
+| France | USD 23.40 | €19.99 |
+| Italy | USD 23.40 | €19.99 |
+| United Kingdom | USD 24.17 | £17.99 |
 
-Pull the **discount** story into focus: the feed’s **all-time low** reference sits near **€2.86 (Brazil, April 2025)**, while **today’s €4.99 Spain tier** still beats the **average discount** level in the same tracker window — that is the definition of a **good sale**, not a panic buy. If you are price-sensitive, open the [GameGulf live multi-region price track](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) and compare **your** account’s row before you assume the **Spain** anchor applies.
+## What kind of game is What Remains of Edith Finch?
 
-## What kind of game is What Remains of Edith Finch, really?
+Core genre mix: **First-person narrative: Finch house vignettes, Giant Sparrow pacing.**. The key question is whether this loop fits your taste, not whether store copy sounds good.
 
-**A first-person anthology about a family obsessed with stories — each chapter rewires mechanics so death never plays the same twice.**
+## How does What Remains of Edith Finch run on Nintendo Switch?
 
-1. **House as level select** — The Finch home is a spatial table of contents: rooms gate memories, and environmental density replaces combat grind.
-2. **Vignette variety** — You might be snapping photos, operating cannery machinery, or sliding into illustrated daydreams — the only constant is first-person intimacy.
-3. **Pacing** — **HLTB’s ~2h main** estimate matches the design: no loot treadmill, just deliberate beats.
+Generally stable enough to play; always verify with the current patch/build context.
 
-If you bounced off **open-world bloat**, this is the opposite — a **short** game that still earns full-price respect on craft alone.
-
-## How does it run on Nintendo Switch?
-
-**This is a low-demand exploration game — Switch’s job is stable first-person movement and readable text, not 4K effects.**
-
-- **Handheld:** Short runtime makes it a strong “one train ride” pick; UI text holds up on smaller panels.
-- **Docked:** House interiors gain detail on bigger screens without changing the design targets.
-- **Performance expectations:** Public **Switch** impressions generally describe a **stable** experience suited to slow exploration — attribute rare hitches to asset streaming in dense rooms, not action-combat stress.
-
-You are not buying this for **frame-perfect combat** — you are buying **clarity of storytelling**, which the port preserves.
+- Performance: stable baseline, with build-to-build variance.
+- Controls/readability: mostly standard mappings; handheld readability depends on content density.
+- Mode info: Single-player.
 
 ## Buy now if
 
-- You want **88 Metacritic** writing in a **~2 hour** package — density beats duration here.
-- **Your indexed row** shows the **€4.99 Spain promo** band or an equivalent **sale** you can actually purchase.
-- You value **scene variety** over **systems depth** — each Finch story is its own mini-genre exercise.
-- You are comparing it to **other narrative indies**, not **30-hour RPGs**.
-- **Grief-forward themes** are something you can hold for one sitting — check your headspace first.
-
+- you already like **Players who want a short, story-first run with no filler.**
+- your regional price on GameGulf is in your target band
+- you want to start now instead of waiting for another sale window
+- the time profile fits: 2h main · 3h+ extras · ~3h completionist
 ## Wait if
 
-- You are trying to **min-max** against the **€2.86 Brazil historic print** and can stand waiting for another deep **sale** cycle.
-- **Death and family tragedy** are the wrong mood — no **discount** fixes that mismatch.
-- You already own it on **PC** and only want a second copy at **all-time-low** pricing.
-- You need **multiplayer or replay combat** — this is **solo narrative** only.
+- your storefront is still near MSRP while other regions are lower
+- your genre fit is uncertain
+- your monthly budget is reserved for other games
+- Skip if death-heavy themes or walking-sim pacing will wreck your mood.
 
-## Edith Finch still earns its reputation
+## Closing take
 
-**What Remains of Edith Finch is less about “hours per dollar” and more about whether you want two unforgettable hours** — **sale** pricing on **Switch** makes that trade easy if your regional row cooperates.
-
-**Check the indexed stack once.** If the number matches your comfort zone, buy before spoilers find you. If you are only chasing the **deepest historic low**, **set an alert** and let the next **discount** do the convincing.
+Price first, taste second is the most reliable order here. just know today’s indexed price is strong but not the tracked all-time floor.
+Do one final check on **[GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)** and decide buy-now vs wait.

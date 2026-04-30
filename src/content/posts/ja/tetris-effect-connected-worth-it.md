@@ -1,49 +1,54 @@
 ---
-title: "2026年、Switch版『Tetris® Effect: Connected』は買うべき？"
+title: 2026年、Switch版『テトリス エフェクト・コネクテッド』は買うべき？
 description: >-
-  Switch購入ガイド：2026年4月時点のインデックス価格、香港基準との割引履歴、Zone/Connected、
-  動きの体感、すぐ買う人と価格アラート派の切り分け。
+  2026年春のSwitch購入メモ：GameGulfのマルチリージョン行（香港が索引の低水位、アメリカ/欧州は定価MSRP寄り）、
+  12か月のセール頻度、Journey/Zone/Connectedの遊び分け、フレーム体感、そして“今買い”と“最安待ち”の切り分け。
 publishedAt: "2026-04-07"
-updatedAt: "2026-04-07"
+updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: "Tetris® Effect: Connected"
+gameTitle: テトリス エフェクト・コネクテッド
 platform: Nintendo Switch
+primaryPlatformKey: switch 1
+primaryPlatformLabel: Nintendo Switch
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7分で読める
 decision: >-
-  Metacritic 94点級の音像テトリスとZone・Journey・Connectedが欲しいなら買い値。香港の
-  過去最安クラスまで待つなら追跡とアラートが妥当。
+  Metacritic 94点帯の舞台型テトリスでJourney・Zone・本気マルチが欲しく、行価が香港索引に近いなら買い。
+  アメリカ/欧州MSRPだけを見て過去の香港最安（€9.61級）まで粘るならアラートが無難。
 priceSignal: >-
-  2026年4月のインデックスは香港が約€19.49相当（HK$176）から。ユーロ圏は€19.99帯の
-  セール行も。履歴では2025年半ばに香港で約€9.75の低水準。
+  4月末スナップでも索引チャートの先頭は香港の約€19.22相当（HK$176）。同じ取得では米$39.99、ユーロ圏€39.99が並び、
+  「全区一律セール」ではない。履歴上の鋭い底は2025年の香港約€9.61。
 heroStat: Metacritic 94点
-heroNote: Enhance流のステージ・テトリス。Journey、Zoneの停止積み、Connected協力ボス、 Zone Battle、クロスプレイフレンドマッチ。
-badge: 向き不向きあり
+heroNote: >-
+  Enhanceの音像テトリス。Journey30+ステージ、Zoneの時間停止ライン、Connected三人協力ボス、Zone Battle、 Score
+  Attack系、フレンドマッチ＋観戦。
+badge: 向き不向きありだが買い筋は強い
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: Metacritic 94の感覚派テトリス。索引は香港先行、2025年履歴に€9.75級の安値。
-whatItIs: 音と画面が同期するテトリス。Journey30+ステージ、Zone、対戦/協力オンラインとローカル。
-bestFor: 手触りの良いパズルとマルチを両取りしたい人。
-avoidIf: 裸のテトリスだけ欲しく演出は要らないなら見送り。
-consensusPraise: Zoneでパニックが設計に変わる。演出がライン消しを引き立てる。
-mainFriction: 定価は廉価テトリスと比べ高い。オンラインは時間帯で寂しめ。
-timeFit: HLTBは本編約3h、追加約8h、コンプ約57h帯。
-fitLabel: テトリスをムード体験として遊ぶパズル好き向け。
-timingNote: 半額帯なら適合度優先。高止まりなら香港行と比較してから。
-communityVibe: もう一回Zone——気づけば深夜、本体まだ熱い。
-playtime: 本編約3h · 追加8h+ · コンプ約57h（HLTB）
+listingTakeaway: MC94の感覚派テトリス。索引は香港先行、2025HK最安は約€9.61、今はその底ではない。
+whatItIs: Journey中心の舞台テトリス。Zone停止、オンライン/ローカル対戦、Connected協力ボス。
+bestFor: 手触りと演出、ヘッドホン文化、マルチ日程までセットで楽しむ人。
+avoidIf: 素のテトリスだけがいい、演出はノイズ——なら廉価版優先。
+consensusPraise: Zoneが詰み回避と爆発的スコアを両立。ステージが“曲”に聴こえる。
+mainFriction: 米欧定価は香港索引と並べると痛い。野良マッチは鯛が薄い時間帯も。
+timeFit: 本編約3h、追加約8h+、周回・コンプで~57h級。
+fitLabel: テトリスをムード体験として遊ぶ人向け。
+timingNote: 自アカウントが香港に近いなら適合優先。MSRP帯だけ見て焦らない。
+communityVibe: もう一回Zone——気づけば朝、本体まだ熱い。
+playtime: 本編約3h · 追加8h+ · コンプ約57h
 reviewSignal: Metacritic 94点
-takeaway: "Tetris® Effect: Connectedは今も名作枠。2026年4月価格は「品質の定価」扱いで、 履歴最安狙いならアラート。"
-playStyle: 基本ルールにZone停止、Journey、Score Attack系、Connected三人協力ボス、 フレンドマッチと観戦。
-timeCommitment: HLTB集計はJourney短め。熟練・ランキング・マルチで伸びる。
+takeaway: テトリス エフェクト・コネクテッドは依然シリーズ最高峰の一歩だが、2026年春は「香港チャート vs 米欧MSRP」の二極化が主役。
+playStyle: Zone、Journey、Score Attack系、Connected、フレンドマッチ、観戦。
+timeCommitment: Journeyは短い。熟練・Effect・ランキングで伸びる。
 playMode: シングル、ローカル複数、オンライン協力/対戦。
-whyNow: 2026年4月中旬までユーロ圏に50%窓が残る可能性も。索引最安は香港寄り——実アカウント 地域が決め手。
-currentDeal: 索引は香港が約€19.49相当（HK$176）が先頭。同スナップで欧州複数店が€19.99。
-nearHistoricalLow: いいえ。2025年6月9日の香港約€9.75が追跡上の鋭い底。欧セールでもそこではない。
-salePattern: 過去1年で明確なセールは3回。平均ディスカウント帯は約€16.58。落ちると深い。
+whyNow: 同じSKUでも決済地域で体感価格が別物——GameGulfで可視化できる。
+currentDeal: 索引の最安は香港~€19.22相当（HK$176）。米$39.99、ドイツ等€39.99が同列レンジ。
+nearHistoricalLow: いいえ。2025-06-09の香港€9.61、2025-12-17の香港深いセールが追跡上の根拠。今はその階じゃない。
+salePattern: 過去1年で明確な割引は3回。割引期の平均は~€16.53。落ちると深い。
 priceRecommendation: watch
 quickFilters:
   - short_sessions
@@ -54,11 +59,11 @@ playerNeeds:
   - value_for_money
   - party_games
 tags:
-  - tetris effect connected switch 日本語
-  - テトリス エフェクト コネクテッド 買い時
+  - テトリスエフェクトコネクテッド switch
+  - テトリス エフェクト 買い時
   - switch テトリス マルチ
   - zone テトリス
-  - セール 価格
+  - gamegulf 価格
 playerVoices:
   - quote: Journeyが遊べるアルバムみたい
     sentiment: positive
@@ -79,141 +84,126 @@ communityMemes:
   - Tスピンの筋肉記憶
   - ヘッドホンオン
   - テトリスがライトショー
-tldr: >-
-  Tetris® Effect: ConnectedはMetacritic 94点帯。2026年4月も索引は香港先行、2025年に
-  €9.75級——合う人は買い、底値はアラート。
+tldr: テトリス エフェクト・コネクテッド — MC94。GameGulfは香港先行、米欧はMSRP帯。2025HK最安~€9.61。ハマる人は今、底値はアラート。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price
 gameHref: https://www.gamegulf.com/detail/6Rq3jqh8KUa
 membershipHref: https://www.gamegulf.com/pricing
-coverImage: https://cdn.gamegulf.com/upload/1740988010155113796989.jpeg
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413047412191.jpeg
 heroTheme: brand
-faq:
-  - question: "2026年、Switch版『Tetris® Effect: Connected』は買うべき？"
-    answer: >-
-      Tetris® Effect: Connectedは、音像重視でZone・Journey・本気のマルチが欲しいなら
-      2026年も買い候補。2026年4月時点のGameGulf索引は香港が約€19.49相当から——自分のアカウント地域の価格を必ず確認して。
-  - question: "『Tetris® Effect: Connected』のクリア時間は？"
-    answer: >-
-      Tetris® Effect: ConnectedのJourneyはHLTB集計で数時間帯。熟練・Effectモード・
-      ランキング狙いだと十数〜数十時間に伸びる。
-  - question: Switch版の動きは？
-    answer: >-
-      Tetris® Effect: ConnectedはSwitchで約60fps体感を狙うハードドロップ向け作品。
-      粒子過多シーンで稀に落ちる程度で、常時カクつきではない。
-  - question: マルチは楽しい？
-    answer: >-
-      Tetris® Effect: ConnectedはConnected協力、Zone Battle、Score Attack系、
-      フレンドマッチと観戦あり——友人と組むのが安定。野良は地域と時間帯で差が出る。
-  - question: 誰が待つべき？
-    answer: >-
-      Tetris® Effect: Connectedは、地域が定価帯のままで過去最安しか認めない人向けに
-      「待ち＋アラート」。GameGulfで目標価格を置き、深いセールに任せよう。
 priceRows:
   - regionCode: HK
-    eurPrice: 19.49
+    eurPrice: 19.22
     nativePrice: HK$176
     nativeCurrency: HKD
-  - regionCode: DE
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: ES
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: FR
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: IT
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: GB
-    eurPrice: 20.65
-    nativePrice: £17.99
-    nativeCurrency: GBP
   - regionCode: JP
-    eurPrice: 24.47
+    eurPrice: 24.3
     nativePrice: ¥4,500
     nativeCurrency: JPY
-cardPriceEur: 19.49
+  - regionCode: BR
+    eurPrice: 34.2
+    nativePrice: R$203.95
+    nativeCurrency: BRL
+  - regionCode: US
+    eurPrice: 34.21
+    nativePrice: $39.99
+    nativeCurrency: USD
+  - regionCode: DE
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+cardPriceEur: 19.22
 cardPriceRegionCode: HK
 cardPriceRegion: 香港
-cardPrice: JPY 3585
 cardPriceNative: HK$176
 cardPriceNativeCurrency: HKD
+cardPrice: JPY 3595
+faq:
+  - question: 2026年、Switch版『テトリス エフェクト・コネクテッド』は買うべき？
+    answer: >-
+      テトリス
+      エフェクト・コネクテッドは、音像と演出でテトリスを遊びたい人、ZoneとJourney、そしてConnectedまで欲しい人に2026年も推せる。
+      MC94点はブレないが、米欧MSRPと香港索引の差が大きい——GameGulfで自分のストア行を先に見る。
+  - question: テトリス エフェクト・コネクテッドのプレイ時間感は？
+    answer: テトリス エフェクト・コネクテッドのJourneyは数時間の背骨。Effectモード、熟練、ランキング、マルチで十数〜数十時間に伸びるのが普通。
+  - question: テトリス エフェクト・コネクテッドの一番の摩擦は？
+    answer: テトリス エフェクト・コネクテッドは粒子と背景が攻める。スプリント専門や演出嫌いなら既存映像で確認。マルチはフレンド予定がないと退屈になりやすい。
 ---
 
 ## 結論から
 
-**『Tetris® Effect: Connected』は依然「プレミアム・テトリス」の筆頭だが、2026年4月は適合と地域が先。** **Metacritic 94点**のパズルで、**音楽に同期するステージ**、**Zone**、パッケージとして成立している **Connected** マルチが核。
+**テトリス エフェクト・コネクテッド**はまだ**「買う理由がハッキリした高級テトリス」**。**Metacritic 94点**、**Journey**のステージ設計、**Zone**、**Connected**まで含めたパッケージが核。
 
-数字では**香港が2026年4月も先頭、約€19.49相当（HK$176）**。**追跡履歴**は**2025年6月9日に香港で約€9.75**、過去1年**セール**は**3回**、**ディスカウント**平均帯**約€16.58**、直近の記録では**2025年12月17日**も**約€9.75**（**約51%**下げの文脈）、このスナップから**111日前**。好きなら**セール帯または香港基準に近い行で**、底値だけなら**アラート**。
+**2026年4月末のGameGulf索引**では**香港が約€19.22（HK$176）**で先頭、同じスクレイプでは**米$39.99**や**欧州€39.99**の**定価**列が並ぶ——地域で勝ち負けが別ゲーになる。
 
-**GameGulf：** 決済前に[マルチリージョンの価格表](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price)で自分のニンテンドーアカウントのストア表示を確認する。**GameGulf** はこのSKUを追跡し、下の過去最安帯との比較に使える。
+**セール**履歴は直球で読める：**最安値**は**2025-06-09の香港€9.61**、その後**2025-12-17**にも同帯の深い値下げ。**過去12か月で割引は3回**、平均的なセール帯は**約€16.53**。**最後のディスカウント**から**133日**。今は「全員が底値」の局面ではない。
 
-## Switch版『Tetris® Effect: Connected』の価格はいくら？
+最終判断は[GameGulfのマルチリージョン表示](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price)で。**GameGulf**はこのSKUの地域差をいちばん早く並べ替えてくれる。二次情報より**gamegulf.com**の表を信じるほうが安全。
 
-**香港がデジタル索引のトップで約€19.49相当（HK$176）、欧州複数店は同スナップで€19.99。**
+## Switch版の価格はいくら？
+
+**香港が索引の底、米欧はMSRP帯が多い**——この一文が2026年春の整理。下の表は**GameGulf**換算のスナップ。[リンク](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price)で最新を確認して。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 香港 | JPY 3641 | HK$176 |
-| ドイツ | JPY 3734 | €19.99 |
-| スペイン | JPY 3734 | €19.99 |
-| フランス | JPY 3734 | €19.99 |
-| イタリア | JPY 3734 | €19.99 |
-| ポルトガル | JPY 3734 | €19.99 |
-| イギリス | JPY 3858 | £17.99 |
-| 日本 | JPY 4571 | ¥4,500 |
+| 香港 | JPY 3595 | HK$176 |
+| 日本 | JPY 4545 | ¥4,500 |
+| ブラジル | JPY 6397 | R$203.95 |
+| アメリカ合衆国 | JPY 6399 | $39.99 |
+| ドイツ | JPY 7480 | €39.99 |
+| スペイン | JPY 7480 | €39.99 |
+| フランス | JPY 7480 | €39.99 |
+| イタリア | JPY 7480 | €39.99 |
 
-**セール**履歴の方がランキングより鋭い：**過去の最安寄り**は**2025年6月9日の香港€9.75**、**平均的な割引価格**は**€16.58**前後。このゲームは「たまに深く安くなる」型。**最安値**狙いなら[マルチリージョン表](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price)で自アカウントを確認。
+**セール**は頻度は低くても深い：**歴史的な安値**は前述の**€9.61 HK**。**ディスカウント**平均は**€16.53**。だから「今ちょうど安い」より「自分の地域がどこにいるか」が先。
 
 ## どんなゲームか
 
-**ルールは定番、体験はライブ。** **Lumines**系の仕上げをテトリスに載せたイメージ。
+**Enhance**の**ライブ型テトリス**。**Rez**や**Lumines**の肌感を**ガイドライン枠**に載せた作品。
 
-1. **Journeyが背骨** — 30超ステージが消行で音と画を変え、抽象的周回ではなくツアー感。
-2. **Zoneが新スキル** — 落下停止で詰み回避もハイスコアも両立。
-3. **Connected/Zone Battleが価格理由** — 三人協力ボスや非対称対戦がパーティとヘッドホン両方に効く。
+1. **Journey**が**30本超のセットリスト**——ステージが進むほど音と光が変わり、周回ではなくトラック単位で学ぶ。
+2. **Zone**で**落下停止**→**積み迴し**のリスク管理と**一撃の加点**を両立。
+3. **Connected**は**三人盤面を合体**してAIボスと戦う協力。**Zone Battle**や**Score Attack**もパーティと推し合いの両方に刺さる。
 
-最小UIのテトリスなら廉価版で足りるが、このフィードバック回路は代換しにくい。
+廉価テトリスで足りる人もいるが、この**フィードバック回路**は代替が効きにくい。
 
 ## Switchではどう動く
 
-**約60fps前提の反射ゲー。** 携帯もドックもハードドロップは読みやすい。
+**約60fps前提**の**ハードドロップ**作品。**携帯**でも**UI**と**ゴースト**が追いやすい。
 
-- **携帯:** Effectモードに向く。派手さがあってもUIは追える。
-- **ドック:** 映像は映えるが粒子過多で稀に落ちる報告。コアは保つ。
-- **マルチ:** フレンドマッチと観戦で安定度アップ。
-
-リマスター待ちの叙事RPGではなく、精密パズルとして見る。
+- **Effect全開**のステージでも**大枠は安定**——ただし**粒子ピーク**で**フレームが伸びる報告**は**よくあるプレイヤー感想**として残る（常時カクつきではない）。
+- **Joy-Con分割**より**Pro**派が多いのは入力の安心感。
+- **マルチ**は**フレンドマッチ+観戦**がコア。野良は鯛任せ。
 
 ## 今買いが刺さる人
 
-- **Zone・Journey・Connected**を**Switch一枚**で欲しい
-- 自分の**ストア行**が**€19.99帯**か**香港基準**に近い
-- **音画演出**と**積み速度**を同列で評価する
+- **Journey+Zone+Connected**を**Switch一枚**で揃えたい
+- 自分の行が**香港附近**か、とにかく**今週遊ぶ理由**がある
+- **ヘッドホン**前提の**ライブ体験**が好き
 - **フレンド**と**Connected/Zone Battle**の予定がある
-- **HLTBの~3h/~8h/~57h**が時間感と合う
 
 ## 待ちが合理的な人
 
-- 地域が**定価帯**のまま、索引では**半額**が見える——**アラート**
-- **裸のマラソン**だけで演出いらない
-- **光量**に弱くスプリント練習が散る
-- **他機種**で所持し**€9.75級**まで再買いしない
-- 今月のフルプライ予算が厳しい——次の**履歴級セール**に譲る
+- アカウントが**$39.99/€39.99**のままで、過去の**€9.61 HK**まで粘る——**GameGulfアラート**
+- **演出0**のテトリスしか要らない
+- 予算が厳しく**次のセール**に回す
 
 ## ヘッドホン試聴はまだ有効か
 
-**テトリスを楽器にするか道具にするか。** ハマればEffectが練習に感じる。合わなければ完璧消しも作業。
+**テトリスを楽器にするか道具にするか。**ハマれば練習が気持ちよくなる。合わなければ演出が邪魔。
 
-**一度自地域の価格を見る。** 数字が許容で**Zone+Connected**が欲しいなら踏み込む。数字が刺さるなら**目標価格**を置いて**香港型の深いセール**を待つ。
+価格と演出耐性を並べてOKなら踏み込む。数字が刺さるなら**GameGulf**に**目標ライン**を置いて**深いセール**を待てばいい。

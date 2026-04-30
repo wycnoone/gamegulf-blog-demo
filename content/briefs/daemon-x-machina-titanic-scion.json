@@ -2,12 +2,20 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
     "game_id": "1YTurw0ZwV5",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
-    ]
+      "enrichment_fallback"
+    ],
+    "surrogate": {
+      "metacritic": [
+        "enrichment-fallback.json"
+      ],
+      "playtime": [
+        "enrichment-fallback.json"
+      ]
+    }
   },
   "game": {
     "title": "Daemon X Machina: Titanic Scion",
@@ -26,9 +34,9 @@
       "Action"
     ],
     "release_date": "2025-09-05",
-    "developer": "Marvelous Inc.",
+    "developer": null,
     "publisher": "Marvelous (XSEED)",
-    "metacritic": 79
+    "metacritic": 69
   },
   "platforms": {
     "switch 2": {
@@ -36,42 +44,6 @@
       "enabled": true,
       "languages": [],
       "digital": [
-        {
-          "country_code": "DE",
-          "country": "Germany",
-          "price": 69.99,
-          "discount_price": 34.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-22 21:59:59",
-          "discount_end_timestamp": 1776895199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 34.99
-        },
-        {
-          "country_code": "ES",
-          "country": "Spain",
-          "price": 69.99,
-          "discount_price": 34.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-22 21:59:59",
-          "discount_end_timestamp": 1776895199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 34.99
-        },
-        {
-          "country_code": "PT",
-          "country": "Portugal",
-          "price": 69.99,
-          "discount_price": 34.99,
-          "discount_rate": 50,
-          "discount_end": "2026-04-22 22:59:59",
-          "discount_end_timestamp": 1776898799,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 34.99
-        },
         {
           "country_code": "HK",
           "country": "Hong Kong SAR China",
@@ -119,6 +91,54 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 59.88
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 69.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 69.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 69.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 69.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 69.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 69.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 69.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 69.99
         }
       ],
       "physical": [],
@@ -127,18 +147,25 @@
           "period": "30 D",
           "entries": [
             {
-              "date": "2026-03-24",
-              "country_code": "HK",
-              "value": 23.37,
-              "currency": "EUR",
-              "country": "Hong Kong SAR China"
-            },
-            {
               "date": "2026-04-20",
               "country_code": "US",
               "value": 59.88,
               "currency": "EUR",
               "country": "United States"
+            },
+            {
+              "date": "2026-04-28",
+              "country_code": "HK",
+              "value": 46.75,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "PT",
+              "value": 69.99,
+              "currency": "EUR",
+              "country": "Portugal"
             }
           ]
         },
@@ -193,6 +220,20 @@
               "value": 59.88,
               "currency": "EUR",
               "country": "United States"
+            },
+            {
+              "date": "2026-04-28",
+              "country_code": "HK",
+              "value": 46.75,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "PT",
+              "value": 69.99,
+              "currency": "EUR",
+              "country": "Portugal"
             }
           ]
         },
@@ -247,6 +288,20 @@
               "value": 59.88,
               "currency": "EUR",
               "country": "United States"
+            },
+            {
+              "date": "2026-04-28",
+              "country_code": "HK",
+              "value": 46.75,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "PT",
+              "value": 69.99,
+              "currency": "EUR",
+              "country": "Portugal"
             }
           ]
         }
@@ -259,8 +314,8 @@
       "entries": [
         {
           "platform": "Nintendo Switch 2",
-          "country_code": "HK",
-          "value": 46.75,
+          "country_code": "JP",
+          "value": 47.53,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -393,25 +448,6 @@
       "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
     },
     {
-      "id": "HFxJjwpoOA",
-      "title": "Car Parking Simulator 2024",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509035421313946.jpeg",
-      "metacritic": null,
-      "price": 8.22,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2023-09-15",
-      "categories": [
-        "Action",
-        "Racing",
-        "Simulation",
-        "Sports"
-      ],
-      "url": "https://www.gamegulf.com/detail/HFxJjwpoOA"
-    },
-    {
       "id": "jOmK3pCLzXJ",
       "title": "Bounce Journey",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509944240415964.jpeg",
@@ -448,6 +484,25 @@
         "Puzzle"
       ],
       "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "HFxJjwpoOA",
+      "title": "Car Parking Simulator 2024",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509035421313946.jpeg",
+      "metacritic": null,
+      "price": 8.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-15",
+      "categories": [
+        "Action",
+        "Racing",
+        "Simulation",
+        "Sports"
+      ],
+      "url": "https://www.gamegulf.com/detail/HFxJjwpoOA"
     }
   ],
   "schema_offers": [
@@ -462,7 +517,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T18:59:42+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -475,7 +530,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T18:59:42+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -488,7 +543,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T18:59:42+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -501,7 +556,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T18:59:42+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -514,7 +569,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T18:59:42+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -527,19 +582,19 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T18:59:42+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     }
   ],
   "price_analytics": {
     "switch 2": {
       "current_cheapest": {
-        "price_eur": 34.99,
-        "region": "Germany",
-        "country_code": "DE"
+        "price_eur": 46.75,
+        "region": "Hong Kong SAR China",
+        "country_code": "HK"
       },
       "global_low": {
-        "price_eur": 46.75,
-        "region": "HK",
+        "price_eur": 47.53,
+        "region": "JP",
         "type": "Digital"
       },
       "local_low": {
@@ -554,23 +609,23 @@
         "date": "2026-03-24"
       },
       "at_or_near_historical_low": false,
-      "discount_events_1y": 3,
-      "avg_discount_price_eur": 31.29,
+      "discount_events_1y": 4,
+      "avg_discount_price_eur": 35.16,
       "sale_periods": [
         {
           "start": "2026-03-19",
           "end": "2026-03-24"
         }
       ],
-      "days_since_last_discount": 28,
+      "days_since_last_discount": 1,
       "last_discount": {
-        "date": "2026-03-24",
-        "price_eur": 23.37,
+        "date": "2026-04-28",
+        "price_eur": 46.75,
         "region": "Hong Kong SAR China",
-        "drop_pct": 2
+        "drop_pct": 22
       },
-      "trend_entries_count": 7,
-      "price_verdict": "occasional_discounter"
+      "trend_entries_count": 9,
+      "price_verdict": "regular_discounter"
     }
   },
   "product_links": {
@@ -580,51 +635,18 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 1342490,
+    "steam": null,
+    "hltb": {
+      "hltb_id": null,
       "name": "Daemon X Machina: Titanic Scion",
-      "developer": [
-        "Marvelous Inc."
-      ],
-      "publisher": [
-        "XSEED Games",
-        "Marvelous USA, Inc.",
-        "Marvelous Europe"
-      ],
-      "metacritic_score": 79,
-      "metacritic_url": "https://www.metacritic.com/game/pc/daemon-x-machina-titanic-scion?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Online Co-op",
-        "Cross-Platform Multiplayer",
-        "Steam Achievements",
-        "Steam Trading Cards",
-        "Partial Controller Support",
-        "Steam Cloud",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action"
-      ],
-      "steam_price": "$69.99",
-      "total_recommendations": 1572,
-      "short_description": "Feel the exhilaration of fast-paced combat in your fully customized armored suit as you freely explore a deadly and dangerous world on land or in the air. Take on titanic boss battles with alone or with up to two other friends in online co-op!",
-      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Simplified Chinese, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 1308,
-        "total_negative": 720,
-        "total_reviews": 2028,
-        "score_description": "Mixed",
-        "positive_percent": 64
-      }
-    },
-    "hltb": null
+      "main_story_hours": 25,
+      "main_extra_hours": 40,
+      "completionist_hours": 55,
+      "all_styles_hours": null,
+      "review_score": null,
+      "total_submissions": null,
+      "_surrogate": true,
+      "_surrogate_source": "enrichment-fallback.json"
+    }
   }
 }

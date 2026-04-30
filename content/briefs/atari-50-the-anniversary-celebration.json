@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/31CqSWiuTPi",
     "game_id": "31CqSWiuTPi",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -27,7 +27,7 @@
       "Arcade"
     ],
     "release_date": "2022-11-11",
-    "developer": "Digital Eclipse",
+    "developer": null,
     "publisher": "Atari",
     "metacritic": 89
   },
@@ -525,26 +525,6 @@
       "url": "https://www.gamegulf.com/detail/jOmK3pCLzXJ"
     },
     {
-      "id": "6Rq3jqh8KUa",
-      "title": "Tetris® Effect: Connected",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413047412191.jpeg",
-      "metacritic": 94,
-      "price": 24.3,
-      "discount_price": 12.15,
-      "discount_rate": 50,
-      "discount_tag": "LowPrice",
-      "discount_end": "6 days",
-      "release_date": "2023-01-19",
-      "categories": [
-        "Arcade",
-        "Music",
-        "Puzzle",
-        "Action",
-        "Party"
-      ],
-      "url": "https://www.gamegulf.com/detail/6Rq3jqh8KUa"
-    },
-    {
       "id": "aBdaznlfiRl",
       "title": "Lonely Mountains: Downhill",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514886064319244.jpeg",
@@ -553,7 +533,7 @@
       "discount_price": 5.99,
       "discount_rate": 70,
       "discount_tag": "LowPrice",
-      "discount_end": "9 days",
+      "discount_end": "2 days",
       "release_date": "2020-05-07",
       "categories": [
         "Arcade",
@@ -563,6 +543,26 @@
         "Action"
       ],
       "url": "https://www.gamegulf.com/detail/aBdaznlfiRl"
+    },
+    {
+      "id": "6Rq3jqh8KUa",
+      "title": "Tetris® Effect: Connected",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512413047412191.jpeg",
+      "metacritic": 94,
+      "price": 10.08,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-08",
+      "categories": [
+        "Arcade",
+        "Music",
+        "Puzzle",
+        "Action",
+        "Party"
+      ],
+      "url": "https://www.gamegulf.com/detail/6Rq3jqh8KUa"
     },
     {
       "id": "bUIJufNUtz8",
@@ -614,7 +614,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:57+00:00"
+      "priceValidUntil": "2026-05-29T19:40:28+00:00"
     },
     {
       "@type": "Offer",
@@ -627,7 +627,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:57+00:00"
+      "priceValidUntil": "2026-05-29T19:40:28+00:00"
     },
     {
       "@type": "Offer",
@@ -640,7 +640,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:57+00:00"
+      "priceValidUntil": "2026-05-29T19:40:28+00:00"
     },
     {
       "@type": "Offer",
@@ -653,7 +653,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:57+00:00"
+      "priceValidUntil": "2026-05-29T19:40:28+00:00"
     },
     {
       "@type": "Offer",
@@ -666,7 +666,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:57+00:00"
+      "priceValidUntil": "2026-05-29T19:40:28+00:00"
     },
     {
       "@type": "Offer",
@@ -679,7 +679,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:57+00:00"
+      "priceValidUntil": "2026-05-29T19:40:28+00:00"
     }
   ],
   "price_analytics": {
@@ -734,7 +734,7 @@
           "end": "2026-04-02"
         }
       ],
-      "days_since_last_discount": 20,
+      "days_since_last_discount": 27,
       "last_discount": {
         "date": "2026-04-02",
         "price_eur": 15.39,
@@ -752,54 +752,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 1919470,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 116251,
       "name": "Atari 50: The Anniversary Celebration",
-      "developer": [
-        "Digital Eclipse"
-      ],
-      "publisher": [
-        "Atari"
-      ],
-      "metacritic_score": 82,
-      "metacritic_url": "https://www.metacritic.com/game/pc/atari-50-the-anniversary-celebration?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "PvP",
-        "Shared/Split Screen PvP",
-        "Co-op",
-        "Shared/Split Screen Co-op",
-        "Shared/Split Screen",
-        "Steam Achievements",
-        "Steam Trading Cards",
-        "Partial Controller Support",
-        "Steam Cloud",
-        "Remote Play Together",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Casual"
-      ],
-      "steam_price": "$39.99",
-      "total_recommendations": 427,
-      "short_description": "Atari 50: The Anniversary Celebration takes players on an interactive journey through 50 years of video games via interviews with designers, developers and industry leaders, documentary footage, product design documents, high-res original artwork, and a curated list of more than 90 playable games.",
-      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 503,
-        "total_negative": 42,
-        "total_reviews": 545,
-        "score_description": "Very Positive",
-        "positive_percent": 92
-      }
-    },
-    "hltb": null
+      "main_story_hours": 6,
+      "main_extra_hours": 12,
+      "completionist_hours": 20,
+      "all_styles_hours": 9,
+      "review_score": 78,
+      "total_submissions": 42
+    }
   }
 }

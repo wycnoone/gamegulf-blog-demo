@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
     "game_id": "1wHJMRuRjHR",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -28,7 +27,7 @@
       "Platformer"
     ],
     "release_date": "2019-09-13",
-    "developer": "Zen Studios",
+    "developer": null,
     "publisher": "Zen Studios",
     "metacritic": 86
   },
@@ -151,15 +150,7 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-03-29",
-              "country_code": "US",
-              "value": 25.66,
-              "currency": "EUR",
-              "country": "United States"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
@@ -197,13 +188,6 @@
         {
           "period": "1 Y",
           "entries": [
-            {
-              "date": "2025-04-30",
-              "country_code": "US",
-              "value": 8.97,
-              "currency": "EUR",
-              "country": "United States"
-            },
             {
               "date": "2025-11-15",
               "country_code": "FR",
@@ -334,35 +318,33 @@
       "url": "https://www.gamegulf.com/detail/6Vt2Ygtth6V"
     },
     {
-      "id": "h49t6mFHoM0",
-      "title": "STAR WARS™: Dark Forces Remaster",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508181841018905.jpeg",
+      "id": "9VNbaFSGSXk",
+      "title": "STAR WARS™: Battlefront Classic Collection",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508078623612267.jpeg",
       "metacritic": null,
-      "price": 5.27,
+      "price": 25.56,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2024-02-28",
+      "release_date": "2024-03-14",
       "categories": [
         "Action",
-        "Adventure",
         "First-person",
-        "Shooter",
-        "Training"
+        "Shooter"
       ],
-      "url": "https://www.gamegulf.com/detail/h49t6mFHoM0"
+      "url": "https://www.gamegulf.com/detail/9VNbaFSGSXk"
     },
     {
       "id": "bjwF5l3Acae",
       "title": "Connect the Circuit 1000",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506050988814958.jpeg",
       "metacritic": null,
-      "price": 1.85,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 2.73,
+      "discount_price": 1.31,
+      "discount_rate": 52,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "6 days",
       "release_date": "2025-01-30",
       "categories": [
         "Arcade",
@@ -379,12 +361,12 @@
       "title": "Cue Sports",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511967306518817.jpeg",
       "metacritic": null,
-      "price": 3.99,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 4.99,
+      "discount_price": 2.64,
+      "discount_rate": 47,
       "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2022-03-10",
+      "discount_end": "12 days",
+      "release_date": "2022-01-28",
       "categories": [
         "Arcade",
         "Party",
@@ -400,12 +382,12 @@
       "title": "Sparking Beam Strike 1000",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506344375912960.jpeg",
       "metacritic": null,
-      "price": 2.7,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 2.99,
+      "discount_price": 1.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2024-12-12",
+      "discount_end": "7 days",
+      "release_date": "2024-12-26",
       "categories": [
         "Arcade",
         "Board game",
@@ -449,7 +431,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+      "priceValidUntil": "2026-05-29T19:07:09+00:00"
     },
     {
       "@type": "Offer",
@@ -462,7 +444,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+      "priceValidUntil": "2026-05-29T19:07:09+00:00"
     },
     {
       "@type": "Offer",
@@ -475,7 +457,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+      "priceValidUntil": "2026-05-29T19:07:09+00:00"
     },
     {
       "@type": "Offer",
@@ -488,7 +470,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+      "priceValidUntil": "2026-05-29T19:07:09+00:00"
     },
     {
       "@type": "Offer",
@@ -501,7 +483,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:06+00:00"
+      "priceValidUntil": "2026-05-29T19:07:09+00:00"
     }
   ],
   "price_analytics": {
@@ -522,32 +504,28 @@
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 8.97,
+        "price_eur": 10.26,
         "region": "US",
         "country": "United States",
-        "date": "2025-04-30"
+        "date": "2025-12-22"
       },
       "at_or_near_historical_low": false,
       "discount_events_1y": 2,
       "avg_discount_price_eur": 11.13,
       "sale_periods": [
         {
-          "start": "2025-04-30",
-          "end": "2025-04-30"
-        },
-        {
           "start": "2025-11-17",
           "end": "2025-12-22"
         }
       ],
-      "days_since_last_discount": 121,
+      "days_since_last_discount": 128,
       "last_discount": {
         "date": "2025-12-22",
         "price_eur": 10.26,
         "region": "United States",
         "drop_pct": 14
       },
-      "trend_entries_count": 5,
+      "trend_entries_count": 4,
       "price_verdict": "occasional_discounter"
     }
   },
@@ -558,45 +536,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 1530770,
-      "name": "Star Wars™ Pinball VR",
-      "developer": [
-        "Zen Studios"
-      ],
-      "publisher": [
-        "Zen Studios"
-      ],
-      "metacritic_score": null,
-      "metacritic_url": null,
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Tracked Controller Support",
-        "VR Supported",
-        "Steam Cloud",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Simulation"
-      ],
-      "steam_price": "$24.99",
-      "total_recommendations": 176,
-      "short_description": "Immerse yourself with 8 amazing Star Wars™ Pinball tables in VR - including one based on The Mandalorian - and level up the pinball action with a customizable Fan Cave, Career Mode, Force Powers, and Total Immersion.",
-      "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 78,
-        "total_negative": 115,
-        "total_reviews": 193,
-        "score_description": "Mixed",
-        "positive_percent": 40
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

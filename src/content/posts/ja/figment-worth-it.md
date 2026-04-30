@@ -1,6 +1,6 @@
 ---
 title: 2026年、Switch版Figmentは買う価値ある？
-description: 2026年4月ガイド。Metacritic約75の音楽脳内アドベンチャー、索引セールが史低圏、HLTB時間、 今買う人向け。
+description: 2026年4月ガイド。Metacritic約75の音楽脳内アドベンチャー、索引セールが史低圏、時間、 今買う人向け。
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -24,15 +24,15 @@ bestFor: 短いインディーでサウンド主役が好きな人。
 avoidIf: ソウル級戦闘か40時間RPGが欲しい。
 consensusPraise: アート、音楽＝世界、ボスデュエットの魅力。
 mainFriction: 戦闘は簡単——上限は探索と謎。
-timeFit: HLTB 本編約5h・6h付加・7h完走。
+timeFit:  本編約5h・6h付加・7h完走。
 fitLabel: 遊べるコンセプトアルバム扱いの人。
-timingNote: 日本プロモ帯に入れるなら躊躇は好み次第——それでも最新行を確認。
+timingNote: 日本プロモ帯に入れるなら躊躇は好み次第——それでも最新価格を確認。
 communityVibe: ボス耳残り、コージー悪夢、Piperポジ
-playtime: 5h · 6h+ · ~7h（HLTB）
+playtime: 5h · 6h+ · ~7h（）
 reviewSignal: Metacritic クライティック約75
 takeaway: Figmentは索引が史低に寄った時に衝動買いしやすい——日本アンカーが自分に効くかは要確認。
 playStyle: アイソメ軽戦闘、謎、ミュージカルセット、脳内世界の恐怖対峙。
-timeCommitment: HLTB 約5時間本編、6時間付加、7時間コンプ。
+timeCommitment:  約5時間本編、6時間付加、7時間コンプ。
 playMode: シングル。
 whyNow: 価格が主役——品質は70台前半の魅力作、完璧神作ではない。
 currentDeal: 索引は日本~€0.54相当（¥2,200文脈）が先頭、米・BRセール、EU MSRP。
@@ -78,7 +78,7 @@ faq:
   - question: 2026年Switch版Figmentは買う？
     answer: Figmentは短く音楽中心の手描きADVが欲しく戦闘は軽めでいいなら買い。2026年4月も索引は 攻めプロモ——GameGulfで自地域を確認。
   - question: Figmentの時間は？
-    answer: FigmentはHLTBで本編約5時間、付加約6時間、コンプ約7時間。
+    answer: Figmentはで本編約5時間、付加約6時間、コンプ約7時間。
   - question: 子供向き？
     answer: Figmentは悪夢を比喩で描くがボスはやや不気味——幼児向けなら映像確認。
   - question: Switch動作は？
@@ -121,7 +121,7 @@ priceRows:
 cardPriceEur: 0.54
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 99
+cardPrice: JPY 101
 cardPriceNative: ¥2,200
 cardPriceNativeCurrency: JPY
 ---
@@ -138,17 +138,16 @@ cardPriceNativeCurrency: JPY
 
 **索引は日本~€0.54相当から。**
 
-
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
 | 日本 | JPY 101 | ¥2,200 |
-| アメリカ合衆国 | JPY 323 | $19.99 |
-| ブラジル | JPY 377 | R$99.99 |
-| 香港 | JPY 3082 | HK$149 |
-| ドイツ | JPY 3734 | €19.99 |
-| スペイン | JPY 3734 | €19.99 |
-| フランス | JPY 3734 | €19.99 |
-| イタリア | JPY 3734 | €19.99 |
+| アメリカ合衆国 | JPY 324 | $19.99 |
+| ブラジル | JPY 378 | R$99.99 |
+| 香港 | JPY 3086 | HK$149 |
+| ドイツ | JPY 3739 | €19.99 |
+| スペイン | JPY 3739 | €19.99 |
+| フランス | JPY 3739 | €19.99 |
+| イタリア | JPY 3739 | €19.99 |
 
 **セール**と**最安値**の両方で見ると、追跡データの**平均セール価格は約€0.77**で、**2025年**から続く深いプロモ帯と整合します。直近の大きな動きは**2026年3月20日**の**日本**行で**約45%**の値下げとして記録されており、現在のプロモ帯は事実上**歴史的な安さ**に寄っています。**待ち**はMSRPに戻るリスクです。
 

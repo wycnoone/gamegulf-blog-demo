@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2ymU0S0c9Vu",
     "game_id": "2ymU0S0c9Vu",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -30,7 +29,7 @@
       "Action"
     ],
     "release_date": "2022-04-21",
-    "developer": "The Stonebot Studio, Ludus Games",
+    "developer": null,
     "publisher": "Skystone Games",
     "metacritic": 86
   },
@@ -153,39 +152,15 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-04-22",
-              "country_code": "PT",
-              "value": 14.99,
-              "currency": "EUR",
-              "country": "Portugal"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
-          "entries": [
-            {
-              "date": "2026-04-22",
-              "country_code": "PT",
-              "value": 14.99,
-              "currency": "EUR",
-              "country": "Portugal"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "1 Y",
-          "entries": [
-            {
-              "date": "2026-04-22",
-              "country_code": "PT",
-              "value": 14.99,
-              "currency": "EUR",
-              "country": "Portugal"
-            }
-          ]
+          "entries": []
         }
       ]
     }
@@ -210,25 +185,6 @@
   ],
   "similar_games": [
     {
-      "id": "7Ihf5gsTuGe",
-      "title": "The Last Faith",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613775032913168.jpeg",
-      "metacritic": null,
-      "price": 3.02,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2023-11-15",
-      "categories": [
-        "Action",
-        "Role-playing",
-        "Adventure",
-        "Platformer"
-      ],
-      "url": "https://www.gamegulf.com/detail/7Ihf5gsTuGe"
-    },
-    {
       "id": "31NWkgBm7mI",
       "title": "The Last Worker",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509932736817056.jpeg",
@@ -248,39 +204,23 @@
       "url": "https://www.gamegulf.com/detail/31NWkgBm7mI"
     },
     {
-      "id": "kDccpThEfkJ",
-      "title": "The Last Days",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514270987715242.jpeg",
+      "id": "7Ihf5gsTuGe",
+      "title": "The Last Faith",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613775032913168.jpeg",
       "metacritic": null,
-      "price": 9.99,
-      "discount_price": 1.99,
-      "discount_rate": 80,
-      "discount_tag": "Normal",
-      "discount_end": "7 days",
-      "release_date": "2020-10-01",
-      "categories": [
-        "Adventure",
-        "Puzzle"
-      ],
-      "url": "https://www.gamegulf.com/detail/kDccpThEfkJ"
-    },
-    {
-      "id": "90jbAweetm3",
-      "title": "The Last Cube",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511797179218872.jpeg",
-      "metacritic": null,
-      "price": 1.36,
+      "price": 3.02,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2022-03-10",
+      "release_date": "2023-11-15",
       "categories": [
+        "Action",
+        "Role-playing",
         "Adventure",
-        "Platformer",
-        "Puzzle"
+        "Platformer"
       ],
-      "url": "https://www.gamegulf.com/detail/90jbAweetm3"
+      "url": "https://www.gamegulf.com/detail/7Ihf5gsTuGe"
     },
     {
       "id": "hSrVMA4p0Z2",
@@ -302,6 +242,41 @@
         "Other"
       ],
       "url": "https://www.gamegulf.com/detail/hSrVMA4p0Z2"
+    },
+    {
+      "id": "90jbAweetm3",
+      "title": "The Last Cube",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511797179218872.jpeg",
+      "metacritic": null,
+      "price": 1.36,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-03-10",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/90jbAweetm3"
+    },
+    {
+      "id": "b27DJctYhLp",
+      "title": "The Last Campfire",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514414114216960.jpeg",
+      "metacritic": 83,
+      "price": 7.99,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2020-08-27",
+      "categories": [
+        "Adventure",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/b27DJctYhLp"
     },
     {
       "id": "gtUMR0VBeyB",
@@ -402,7 +377,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:39:42+00:00"
+      "priceValidUntil": "2026-05-26T17:12:11+00:00"
     },
     {
       "@type": "Offer",
@@ -415,7 +390,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:39:42+00:00"
+      "priceValidUntil": "2026-05-26T17:12:11+00:00"
     },
     {
       "@type": "Offer",
@@ -428,7 +403,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:39:42+00:00"
+      "priceValidUntil": "2026-05-26T17:12:11+00:00"
     },
     {
       "@type": "Offer",
@@ -441,7 +416,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:39:42+00:00"
+      "priceValidUntil": "2026-05-26T17:12:11+00:00"
     },
     {
       "@type": "Offer",
@@ -454,7 +429,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:39:42+00:00"
+      "priceValidUntil": "2026-05-26T17:12:11+00:00"
     },
     {
       "@type": "Offer",
@@ -467,7 +442,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:39:42+00:00"
+      "priceValidUntil": "2026-05-26T17:12:11+00:00"
     }
   ],
   "price_analytics": {
@@ -477,30 +452,21 @@
         "region": "Japan",
         "country_code": "JP"
       },
-      "global_low": {
-        "price_eur": 14.99,
-        "region": "PT",
-        "date": "2026-04-22"
-      },
+      "global_low": null,
       "local_low": {
         "price_eur": 12.82,
         "region": "US",
         "type": "Digital"
       },
-      "trend_from_lowest": {
-        "price_eur": 14.99,
-        "region": "PT",
-        "country": "Portugal",
-        "date": "2026-04-22"
-      },
-      "at_or_near_historical_low": true,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
       "discount_events_1y": 0,
       "avg_discount_price_eur": null,
       "sale_periods": [],
       "days_since_last_discount": null,
       "last_discount": null,
-      "trend_entries_count": 1,
-      "price_verdict": "at_historical_low"
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
     }
   },
   "product_links": {
@@ -510,51 +476,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 944430,
-      "name": "The Last Friend",
-      "developer": [
-        "The Stonebot Studio",
-        "Ludus Games"
-      ],
-      "publisher": [
-        "Skystone Games"
-      ],
-      "metacritic_score": 86,
-      "metacritic_url": "https://www.metacritic.com/game/pc/the-last-friend?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Shared/Split Screen Co-op",
-        "Shared/Split Screen",
-        "Steam Achievements",
-        "Full controller support",
-        "Remote Play Together",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Indie",
-        "Strategy"
-      ],
-      "steam_price": "$14.99",
-      "total_recommendations": 0,
-      "short_description": "Doggone tired of the typical brawler or tower defense that is all bark and no bite? Then join Alpha and T. Juan on a dynamic adventure that has you battling hordes of baddies and bosses on their mission to save all the Doggos!",
-      "supported_languages": "English",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 123,
-        "total_negative": 16,
-        "total_reviews": 139,
-        "score_description": "Very Positive",
-        "positive_percent": 88
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

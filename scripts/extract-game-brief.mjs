@@ -13,6 +13,7 @@
  */
 
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'node:fs';
+import { applySurrogateEnrichment } from './lib/game-enrichment-surrogate.mjs';
 
 const EXCLUDED_REGIONS = new Set(['AR']);
 import { join, dirname } from 'node:path';
@@ -691,6 +692,8 @@ async function extractOne(url, outDir, enrich = true) {
     brief.meta.sources = ['gamegulf'];
     if (steamData) brief.meta.sources.push('steam');
     if (hltbData) brief.meta.sources.push('hltb');
+
+    await applySurrogateEnrichment(brief);
   }
 
   const slug = slugify(brief.game.title);
@@ -718,8 +721,12 @@ Options:
 
 Data sources:
   GameGulf     Always — pricing, metadata, platform availability
-  Steam        Auto — developer, reviews, categories (searched by title)
-  HLTB         Manual — playtime data (requires content/hltb-mapping.json)
+  Steam        Auto — developer, reviews, Metacritic (if Steam lists it)
+  HLTB         Mapped — playtime when content/hltb-mapping.json has an id
+  Surrogates   After Steam/HLTB:
+               - content/enrichment-fallback.json (slug → metacritic / hours)
+               - OpenCritic search if Metacritic still empty (no key)
+               - RAWG if RAWG_API_KEY is set (Metacritic + rough playtime hint)
 
 Examples:
   node scripts/extract-game-brief.mjs https://www.gamegulf.com/detail/h14iXKeQ0PR

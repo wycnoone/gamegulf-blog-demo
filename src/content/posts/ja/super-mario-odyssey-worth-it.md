@@ -1,76 +1,101 @@
 ---
-title: 2026年、Nintendo Switchで『Super Mario Odyssey』は買い？
-description: 2026年4月Nintendo Switch购买参考：Super Mario Odyssey、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: 2026年、Switch版『スーパーマリオ オデッセイ』は買いか？
+description: >-
+  2026年4月のGameGulfインデックス、Metacritic 97点のサンドボックス3Dマリオ、キャッピ協力、過去12か月の
+  追跡セール3回と平均約€40.93——Switch 1グリッドで歴史的な安値帯かどうかを整理します。
+publishedAt: "2026-04-26"
+updatedAt: "2026-04-26"
 category: worth-it
-gameTitle: Super Mario Odyssey
+gameTitle: スーパーマリオ オデッセイ
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
-primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+primaryPlatformLabel: Nintendo Switch（初代）
 author: GameGulf Editorial AI
-readingTime: 読了約7分
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price
-gameHref: https://www.gamegulf.com/detail/4MvMiSCTpzk
-membershipHref: https://www.gamegulf.com/pricing
-heroStat: Metacritic 97点台
-heroNote: Super Mario Odyssey：Action, Adventure, Platformer。
-badge: 今が買い時
+readingTime: 8分で読める
+decision: 自分の地域価格がJPY 6646 (日本)に近いなら買い、離れているなら待機が安全です。
+priceSignal: 地域間の価格差は約JPY 4575で、ここが最重要の判断材料です。
+heroStat: Metacritic 97点
+heroNote: 任天堂のサンドボックス3Dマリオ——キャッピ投げ・憑依、各国のムーン、オプションの2人協力、探索優先の箱庭。
+badge: 今すぐ購入
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: Super Mario Odyssey：Action, Adventure, Platformer；2026年4月价格分区差值得先对照 GameGulf。
-whatItIs: Action, Adventure, Platformer — Super Mario Odyssey on Nintendo Switch.
-bestFor: 想要Action, Adventure, Platformer且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, Platformer气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；Metacritic 97点台 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: Metacritic 97点台
-takeaway: Super Mario Odyssey 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Action, Adventure, Platformer
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Yes — data tracks near historic lows.
-salePattern: 过去一年约 3 次促销波动——折扣是常态。
+listingTakeaway: JPY 6646 (日本)付近なら買い、それ以外は待ち。
+whatItIs: サンドボックス3Dマリオ：キャッピ憑依、各国ムーン、ローカル2Pマリオ+帽子。
+bestFor: のんびり探索と家族協力、任天堂品質を求める人。
+avoidIf: ムーン集めが苦手、インデックスを大きく下回る価格だけ買うなら見送りも。
+consensusPraise: 憑依ギミックと王国の変化が支持の中心。
+mainFriction: 全ムーンは時間対効果が厳しい completion 向け。
+timeFit: ストーリームーン帯はおおむね12–18時間、全収集は40時間超も。
+fitLabel: 好奇心で寄り道したいプレイヤー向け。
+timingNote: GameGulfの最新地域行を確認してから最終判断してください。
+communityVibe: キャッピ脳、ニュードンクシティ縄跳び、ルイージ服ムーン羞恥
+playtime: 約12–18時間ストーリームーン · 40時間+コンプ勢
+reviewSignal: Metacritic 97点
+takeaway: オデッセイはSwitchの看板サンドボックス——合えば買い、指数は歴史的低価格圏。
+playStyle: キャッピ投げ・憑依、各国ハブ、コスチューム、モーション補助任意、ローカル2P帽子、高難度チャレンジ。
+timeCommitment: コアのムーンルートは十数時間〜二十時間前後、コンプは大幅に伸びるという報告が多い。
+playMode: ローカル2P：マリオ＋キャッピ（Joy-Con分担）。
+whyNow: 品質はMetacritic 97で固定——価格はSwitch 1分析が歴史的低水準を指す。
+currentDeal: 2026年4月スナップショット：日本が約€35.53換算で先行、香港・米・英が段階的に上振れ。
+nearHistoricalLow: 割安かどうかは地域依存で、現時点の基準はJPY 6646 (日本)です。
+salePattern: 第一方マリオは深い常時セールになりにくい——ここでは年3回の追跡イベント、平均~€40.93。
 priceRecommendation: buy
 quickFilters:
-  - great_on_sale
+  - family_friendly
+  - nintendo_first_party
   - short_sessions
 playerNeeds:
-  - value_for_money
+  - beginner_friendly
   - buy_now
 tags:
-  - super mario odyssey nintendo switch
-  - super mario odyssey worth it
-  - super mario odyssey price
-  - gamegulf deals
+  - スーパーマリオオデッセイ Switch
+  - マリオオデッセイ 買い 2026
+  - Switch おすすめ 3Dアクション
+  - オデッセイ 協力 キャッピ
+  - 任天堂 第一方 Switch
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Tレックス憑依は何度でも笑える
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: ムーン密度は好き嫌い分かれる
     sentiment: mixed
-  - quote: 購入前に自分のリージョンの価格を確認してください。
+  - quote: 子どもに帽子役は助かった
+    sentiment: positive
+  - quote: 操作気持ちよすぎてストーリー無視した
+    sentiment: positive
+  - quote: ポストの難易度は本気
+    sentiment: mixed
+  - quote: プラットフォーマー好きなら買いの一作
     sentiment: positive
 communityMemes:
-  - Super Mario Odyssey sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Super Mario Odyssey — Metacritic 97点台；价格信号偏买入（口味要对）。
+  - Jump Up, Super Star! 中毒
+  - ポリーン市長の貫禄
+  - 帽子フリック筋肉記憶
+  - 木箱の裏のムーン
+  - アシストモード観光
+tldr: スーパーマリオ オデッセイはJPY 6646 (日本)付近なら買い。高い地域は待ち推奨。
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price
+gameHref: https://www.gamegulf.com/detail/4MvMiSCTpzk
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517350526415935.jpeg
+heroTheme: brand
+faq:
+  - question: 2026年にSwitchで買う価値は？
+    answer: >-
+      スーパーマリオ オデッセイ は、キャッピ憑依のサンドボックス3Dマリオとソファ2Pが欲しいなら買い筋。2026年4月時点の GameGulf
+      Switch 1インデックスでは日本が約€35.53換算で先行——gamegulf.comで自アカウント地域を確認して。
+  - question: クリア時間の目安は？
+    answer: スーパーマリオ オデッセイ のストーリームーン帯は十数〜二十時間前後、全ムーンはもっと長い——コンプ派は時間を見積もって。
+  - question: Switchでの動きは？
+    answer: スーパーマリオ オデッセイ は初代Switchでも滑らかな3Dジャンプを狙う第一方作——技術デモより安定優先、一般的なプレイ感覚に近い。
+  - question: セールは多い？
+    answer: スーパーマリオ オデッセイ はこの追跡では過去1年に3回のディスカウントイベント、平均約€40.93——サードほど激しくないがゼロではない。
+  - question: インディ短作とどちらを先に？
+    answer: スーパーマリオ オデッセイ はフラッグシップの長期ムーン目標向き——10時間未満の小品が先ならGameGulfの短時間記事も見てから決めて。
 priceRows:
   - regionCode: JP
     eurPrice: 35.53
@@ -107,85 +132,53 @@ priceRows:
 cardPriceEur: 35.53
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 6637
+cardPrice: JPY 6646
 cardPriceNative: ¥7,980
 cardPriceNativeCurrency: JPY
-faq:
-  - question: 2026年、Nintendo Switchで『Super Mario Odyssey』は買い？
-    answer: >-
-      Super Mario Odyssey 是否值得买取决于你是否喜欢Action, Adventure, Platformer，以及你在
-      GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Super Mario Odyssey?
-    answer: >-
-      Super Mario Odyssey — treat runtime as store-listed scope; verify patch
-      notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Super Mario Odyssey — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517350526415935.jpeg
 ---
-## 結論
 
-**Super Mario Odyssey** reads as **Metacritic 97点台**  — **Action, Adventure, Platformer** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
 
-**セール**履歴：**最安値**は **€35.53** 付近（JP）、直近1年で **3** 回の動き、**平均セール価格**は **€40.93**、直近の大きめの動きから **3** 日（**2026-04-19 (Japan, €35.53)**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price)で最新行を確認してください。
+## クイック結論
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price) so you can sanity-check the **discount** story before checkout.
+**スーパーマリオ オデッセイ** は地域価格が **JPY 6646 (日本)** に近いなら買い、離れているなら待機が安全です。品質目安: **Metacritic 97点**。
 
-## 『Super Mario Odyssey』はNintendo Switchでいまいくら？
+まず **GameGulf** の最新行を確認。
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+## 現在のSwitch価格
+
+追跡価格差は約 **JPY 4575**。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 6637 | ¥7,980 |
-| 香港 | JPY 6714 | HK$449 |
-| アメリカ合衆国 | JPY 9587 | $69.99 |
-| イギリス | JPY 10736 | £49.99 |
-| ブラジル | JPY 10934 | R$389.9 |
-| ドイツ | JPY 11207 | €59.99 |
-| スペイン | JPY 11207 | €59.99 |
-| フランス | JPY 11207 | €59.99 |
+| 日本 | JPY 6646 | ¥7,980 |
+| 香港 | JPY 6723 | HK$449 |
+| アメリカ合衆国 | JPY 9599 | $69.99 |
+| イギリス | JPY 10750 | £49.99 |
+| ブラジル | JPY 10948 | R$389.9 |
+| ドイツ | JPY 11221 | €59.99 |
+| スペイン | JPY 11221 | €59.99 |
+| フランス | JPY 11221 | €59.99 |
 
-## 『Super Mario Odyssey』はどんなゲーム？
+割引履歴の基準: 2026年の **sale / historical low** で **JPY 6646 (日本)** 付近の記録。第一方マリオは深い常時セールになりにくい——ここでは年3回の追跡イベント、平均~€40.93。
 
-**Super Mario Odyssey** is a **Action, Adventure, Platformer** package — treat the long store blurb as marketing, but the **genre mix** and **Metacritic 97点台** signal are the real buying compass.
+## どんなゲームか
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+サンドボックス3Dマリオ：キャッピ憑依、各国ムーン、ローカル2Pマリオ+帽子。
 
-## 『Super Mario Odyssey』のNintendo Switch動作は？
+## Nintendo Switch（初代）での動作
 
-**Super Mario Odyssey** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+ローカル2P：マリオ＋キャッピ（Joy-Con分担）。 コアのムーンルートは十数時間〜二十時間前後、コンプは大幅に伸びるという報告が多い。
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+## 今買う / 待つ
 
-## いま買うなら
+- **今買う**: 地域価格が **JPY 6646 (日本)** 付近で適性が明確。
+- **今買う**: 今すぐ遊ぶ予定で価格が許容帯。
+- **待つ**: 自地域が最安より高い。
+- **待つ**: 適性が不明でより深い割引が必要。
 
-- You want **Action, Adventure, Platformer** pacing and the **Metacritic 97点台** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+## まとめ
 
-## 待つなら
+判断順は **適性 -> 地域価格 -> 緊急度**。
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, Platformer) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
-
-## 『Super Mario Odyssey』(Nintendo Switch)の最後に
-
-**Super Mario Odyssey** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+最後に **GameGulf** と gamegulf.com を確認。

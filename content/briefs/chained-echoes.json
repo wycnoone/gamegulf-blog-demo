@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/iapEa7sttwo",
     "game_id": "iapEa7sttwo",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -29,7 +29,7 @@
       "Strategy"
     ],
     "release_date": "2022-12-08",
-    "developer": "Umami Tiger (Matthias Linda)",
+    "developer": null,
     "publisher": "Deck 13",
     "metacritic": 90
   },
@@ -305,11 +305,11 @@
       "title": "Ninjora Echoes",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177502686827217490.jpeg",
       "metacritic": null,
-      "price": 5.99,
-      "discount_price": 4.79,
+      "price": 5.12,
+      "discount_price": 4.1,
       "discount_rate": 20,
       "discount_tag": "NewLowPrice",
-      "discount_end": "8 days",
+      "discount_end": "1 days",
       "release_date": "2026-04-10",
       "categories": [
         "Adventure",
@@ -318,23 +318,23 @@
       "url": "https://www.gamegulf.com/detail/9OzgPJmPYS5"
     },
     {
-      "id": "jgZpGvhaomf",
-      "title": "Chained Climb Together",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506202461715908.jpeg",
+      "id": "bs5zadZwGcL",
+      "title": "Chained Survive Together",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505519607312039.jpeg",
       "metacritic": null,
       "price": 3.7,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2025-01-10",
+      "release_date": "2025-04-15",
       "categories": [
-        "Action",
-        "Arcade",
-        "Simulation",
-        "Strategy"
+        "Adventure",
+        "Party",
+        "Puzzle",
+        "Simulation"
       ],
-      "url": "https://www.gamegulf.com/detail/jgZpGvhaomf"
+      "url": "https://www.gamegulf.com/detail/bs5zadZwGcL"
     },
     {
       "id": "9LhexgMA0RR",
@@ -385,7 +385,7 @@
       "discount_price": 4.99,
       "discount_rate": 80,
       "discount_tag": "Normal",
-      "discount_end": "13 days",
+      "discount_end": "6 days",
       "release_date": "2020-10-09",
       "categories": [
         "Action",
@@ -432,7 +432,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+      "priceValidUntil": "2026-05-29T19:30:05+00:00"
     },
     {
       "@type": "Offer",
@@ -445,7 +445,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+      "priceValidUntil": "2026-05-29T19:30:05+00:00"
     },
     {
       "@type": "Offer",
@@ -458,7 +458,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+      "priceValidUntil": "2026-05-29T19:30:05+00:00"
     },
     {
       "@type": "Offer",
@@ -471,7 +471,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+      "priceValidUntil": "2026-05-29T19:30:05+00:00"
     },
     {
       "@type": "Offer",
@@ -484,7 +484,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+      "priceValidUntil": "2026-05-29T19:30:05+00:00"
     },
     {
       "@type": "Offer",
@@ -497,7 +497,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+      "priceValidUntil": "2026-05-29T19:30:05+00:00"
     },
     {
       "@type": "Offer",
@@ -510,7 +510,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:00+00:00"
+      "priceValidUntil": "2026-05-29T19:30:05+00:00"
     }
   ],
   "price_analytics": {
@@ -545,7 +545,7 @@
           "end": "2025-12-17"
         }
       ],
-      "days_since_last_discount": 126,
+      "days_since_last_discount": 133,
       "last_discount": {
         "date": "2025-12-17",
         "price_eur": 5.9,
@@ -563,46 +563,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 1229240,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 82601,
       "name": "Chained Echoes",
-      "developer": [
-        "Umami Tiger (Matthias Linda)"
-      ],
-      "publisher": [
-        "Deck13",
-        "WhisperGames"
-      ],
-      "metacritic_score": 91,
-      "metacritic_url": "https://www.metacritic.com/game/pc/chained-echoes?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Indie",
-        "RPG"
-      ],
-      "steam_price": "$24.99",
-      "total_recommendations": 7380,
-      "short_description": "Take up your sword, channel your magic or board your Mech. Chained Echoes is a 16-bit style RPG set in a fantasy world where dragons are as common as piloted mechanical suits.",
-      "supported_languages": "English, French, German, Korean, Japanese, Simplified Chinese",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 6931,
-        "total_negative": 866,
-        "total_reviews": 7797,
-        "score_description": "Very Positive",
-        "positive_percent": 89
-      }
-    },
-    "hltb": null
+      "main_story_hours": 35,
+      "main_extra_hours": 45,
+      "completionist_hours": 56,
+      "all_styles_hours": 47,
+      "review_score": 85,
+      "total_submissions": 716
+    }
   }
 }

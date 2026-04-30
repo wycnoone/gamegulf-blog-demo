@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/fppDS0HCLd8",
     "game_id": "fppDS0HCLd8",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -28,7 +27,7 @@
       "Platformer"
     ],
     "release_date": "2017-03-03",
-    "developer": "Yacht Club Games",
+    "developer": null,
     "publisher": "Yacht Club Games",
     "metacritic": 91
   },
@@ -151,15 +150,7 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-03-28",
-              "country_code": "JP",
-              "value": 11.67,
-              "currency": "EUR",
-              "country": "Japan"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
@@ -278,11 +269,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -297,12 +288,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -371,6 +362,25 @@
       "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
     },
     {
+      "id": "i8HmgHBnC2u",
+      "title": "Slime-san",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517438380218823.jpeg",
+      "metacritic": 82,
+      "price": 6.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2017-10-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/i8HmgHBnC2u"
+    },
+    {
       "id": "23lHeDBgYEs",
       "title": "S.O.L Search of Light",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507840333618122.jpeg",
@@ -390,25 +400,6 @@
         "Strategy"
       ],
       "url": "https://www.gamegulf.com/detail/23lHeDBgYEs"
-    },
-    {
-      "id": "i8HmgHBnC2u",
-      "title": "Slime-san",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517438380218823.jpeg",
-      "metacritic": 82,
-      "price": 11.5,
-      "discount_price": 2.3,
-      "discount_rate": 80,
-      "discount_tag": "Normal",
-      "discount_end": "1 days",
-      "release_date": "2017-08-03",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Other"
-      ],
-      "url": "https://www.gamegulf.com/detail/i8HmgHBnC2u"
     }
   ],
   "schema_offers": [
@@ -423,7 +414,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:39+00:00"
+      "priceValidUntil": "2026-05-29T19:28:02+00:00"
     },
     {
       "@type": "Offer",
@@ -436,7 +427,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:39+00:00"
+      "priceValidUntil": "2026-05-29T19:28:02+00:00"
     },
     {
       "@type": "Offer",
@@ -449,7 +440,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:39+00:00"
+      "priceValidUntil": "2026-05-29T19:28:02+00:00"
     },
     {
       "@type": "Offer",
@@ -462,7 +453,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:39+00:00"
+      "priceValidUntil": "2026-05-29T19:28:02+00:00"
     },
     {
       "@type": "Offer",
@@ -475,7 +466,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:39+00:00"
+      "priceValidUntil": "2026-05-29T19:28:02+00:00"
     },
     {
       "@type": "Offer",
@@ -488,7 +479,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:39+00:00"
+      "priceValidUntil": "2026-05-29T19:28:02+00:00"
     }
   ],
   "price_analytics": {
@@ -518,7 +509,7 @@
       "discount_events_1y": 2,
       "avg_discount_price_eur": 13.9,
       "sale_periods": [],
-      "days_since_last_discount": 25,
+      "days_since_last_discount": 32,
       "last_discount": {
         "date": "2026-03-28",
         "price_eur": 11.67,
@@ -536,57 +527,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 250760,
-      "name": "Shovel Knight: Treasure Trove",
-      "developer": [
-        "Yacht Club Games"
-      ],
-      "publisher": [
-        "Yacht Club Games"
-      ],
-      "metacritic_score": 85,
-      "metacritic_url": "https://www.metacritic.com/game/pc/shovel-knight?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "PvP",
-        "Shared/Split Screen PvP",
-        "Co-op",
-        "Shared/Split Screen Co-op",
-        "Shared/Split Screen",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Cloud",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Remote Play Together",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "steam_price": "$39.99",
-      "total_recommendations": 13920,
-      "short_description": "Shovel Knight: Treasure Trove is the complete Shovel Knight collection, containing all 5 games in the epic saga! Dig, blast, slash, and bash your way through a fantastical, 8-bit inspired world of pixel-perfect platforming, memorable characters, and world-class action-adventure gameplay.",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Russian, Japanese, Korean, Simplified Chinese, Traditional Chinese",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 15868,
-        "total_negative": 724,
-        "total_reviews": 16592,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 96
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

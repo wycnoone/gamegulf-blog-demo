@@ -2,7 +2,7 @@
 title: Persona 5 Royal no Switch em 2026 — vale a pena comprar?
 description: >-
   Guia Switch (abril 2026): preços indexados, histórico de promoções vs MSRP,
-  tempos HLTB, desempenho portátil, comprar já ou criar alerta.
+  tempos , desempenho portátil, comprar já ou criar alerta.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -35,17 +35,17 @@ bestFor: Quem gosta de JRPG longo com pressão de calendário.
 avoidIf: Evita se drama escolar ou textos longos te cansam.
 consensusPraise: UI, banda sonora, escrita e ritmo de combate continuam referência.
 mainFriction: Mementos e palácios longos se queres fechar em 40 h.
-timeFit: HLTB ~101 h história, ~123 h extras, ~141 h completion.
+timeFit:  ~101 h história, ~123 h extras, ~141 h completion.
 fitLabel: Jogadores que preparam vínculos e puzzles de palácio.
 timingNote: Compara a tua linha eShop com o Japão e a média ~20 € em saldo.
 communityVibe: Memes ladrão — café, exames, roubar corações
-playtime: ~101 h hist. · ~123 h+ extras · ~141 h completion (HLTB)
+playtime: ~101 h hist. · ~123 h+ extras · ~141 h completion
 reviewSignal: 94 Metacritic
 takeaway: >-
   Royal continua a edição certa — abril 2026 é “entre promoções”, não o piso
   rastreado.
 playStyle: Fraquezas, relays, puzzles, Mementos, arco do terceiro semestre.
-timeCommitment: HLTB ~101 h história, ~123 h com extras, ~141 h completionista.
+timeCommitment:  ~101 h história, ~123 h com extras, ~141 h completionista.
 playMode: Um jogador.
 whyNow: >-
   Qualidade está dada; falta saber se o teu preço justifica saltar o próximo
@@ -105,7 +105,7 @@ faq:
   - question: Quanto tempo demora?
     answer: >-
       Persona 5 Royal leva ~101 h de história, ~123 h com extras e ~141 h no 100
-      % segundo HLTB — pensa em semanas, não num fim de semana.
+      % segundo  — pensa em semanas, não num fim de semana.
   - question: Como corre no Switch?
     answer: >-
       Persona 5 Royal mira ~30 fps estáveis com cargas razoáveis — ótimo para
@@ -159,18 +159,19 @@ cardPrice: EUR 41.75
 cardPriceNative: ¥7,678
 cardPriceNativeCurrency: JPY
 ---
+## Veredito rapido
 
-## Veredito rápido
+**Persona 5 Royal** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **94 Metacritic**.
 
-**Persona 5 Royal continua referência: 94 Metacritic, palácios por turnos, vínculos, terceiro semestre.** **HLTB** aponta **~101 h / 123 h / 141 h** conforme Mementos.
+Royal continua a edição certa — abril 2026 é “entre promoções”, não o piso rastreado.
 
-Abril 2026 é preço: **índice Japão ~41,75 € (¥7.678)**, **histórico** com **JP ~12,52 € em 10/03/2026**, **nove promoções**/ano e **média ~20,01 €**. Só **menor preço histórico**? **Alerta**. Já a jogar? **Compra** quando a linha fizer sentido.
+Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €41.75.
 
-**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price).
 
-## Quanto custa Persona 5 Royal no Switch agora?
+## Quanto custa Persona 5 Royal no Nintendo Switch agora?
 
-**Japão lidera o digital (~41,75 €, ¥7.678), depois Hong Kong, Brasil, EUA antes do bloco ~59,99 € na Europa.**
+Royal continua a edição certa — abril 2026 é “entre promoções”, não o piso rastreado.
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |
@@ -184,46 +185,33 @@ Abril 2026 é preço: **índice Japão ~41,75 € (¥7.678)**, **histórico** co
 | França | EUR 59.99 | €59.99 |
 | Itália | EUR 59.99 | €59.99 |
 
-O **histórico** fala mais alto: **menor preço histórico** ~**12,52 € JP em 10/03/2026** e **promoção** **17,99 € em França em 01/01/2026** frente ao **MSRP**. **Nove descontos**, média **~20,01 €** — estamos entre ondas. Na GameGulf abre a [grelha multi-região](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) para **a tua** conta.
+## Que tipo de jogo e Persona 5 Royal?
 
-## Que jogo é este?
+Nucleo de genero: **Fraquezas, relays, puzzles, Mementos, arco do terceiro semestre.**. O ponto principal e se esse loop combina contigo.
 
-**JRPG de calendário: dias em Tóquio para vínculos, noites de palácio com fraquezas e relays.**
+## Como Persona 5 Royal roda no Nintendo Switch?
 
-1. **Turnos** — fraquezas, relays, fusões, kits por palácio.
-2. **Royal** — semestre extra, vínculo novo, DLC: edição completa no Switch.
-3. **Ritmo** — cinemáticas longas e Mementos: ótimo se gostas de planear.
+No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 
-Sessões **curtas**? Compara com [Super Mario Bros. Wonder](/blog/pt/super-mario-bros-wonder-worth-it).
+- Desempenho: base estavel, com variacoes por build.
+- Controles/leitura: esquema padrao, legibilidade portatil depende do conteudo.
+- Modo: Um jogador.
 
-## Desempenho no Switch
+## Comprar agora se
 
-**~30 fps e cargas honestas — legibilidade > fps em turnos.**
+- voce curte **Fraquezas, relays, puzzles, Mementos, arco do terceiro semestre.**
+- teu preco regional no GameGulf ja entrou na faixa-alvo
+- voce quer jogar ja, sem esperar outra janela de desconto
+- o ritmo te atende: HLTB ~101 h história, ~123 h com extras, ~141 h completionista.
 
-- **Portátil:** UI nítida, palácios em deslocações.
-- **Dock:** mesmo jogo; cargas piores vs SSD.
-- **Solo** — sem campanha cooperativa.
+## Esperar se
 
-Bom lar portátil para história longa.
+- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- teu encaixe com o genero esta incerto
+- teu orcamento do mes esta reservado para outros jogos
+- Evita se drama escolar ou textos longos te cansam.
 
-## Compra já se
+## Fechamento
 
-- Aceitas **101 h+ HLTB** como diversão
-- **A tua linha** está perto da **âncora Japão**
-- Pagas pelo craft **94 Metacritic** fora da **média ~20 €**
-- Queres o **terceiro semestre** já
-- Preferes **preparar turnos** a ação pura
-
-## Espera se
-
-- Só **mínimo histórico** (~12,52 € JP, mar 2026)
-- Só **59,99 €** e podes esperar outra **promoção**
-- **Calendário** ou blocos de texto esgotam-te
-- Já tens **Royal** noutra máquina e queres **saldo fundo** no Switch
-- Queres algo **curto** — vê [Mario Wonder](/blog/pt/super-mario-bros-wonder-worth-it)
-
-## Royal mantém a coroa
-
-**Compromisso longo com ATLUS: palácios, vínculos, som, extras Royal.**
-
-**Vê a tua linha uma vez.** Confortável, avança. Senão, **preço-alvo** e deixa a próxima **promoção** decidir.
+Primeiro preco, depois gosto: aqui essa ordem e a mais segura. abril 2026 é “entre promoções”, não o piso rastreado.
+Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price)** e decide compra vs espera.

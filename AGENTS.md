@@ -87,6 +87,7 @@ Keep the **fixed H2 section order** (quick verdict → price → what it is → 
 
 - **Idiom over literal translation:** do not mirror another locale clause-by-clause. Keep the same facts, verdicts, and price logic, but **re-express** them in **natural phrasing** that native readers expect (rhythm, collocations, section hooks).
 - Avoid translationese: calques, stacked abstract nouns, unexplained English jargon where a normal local term exists, and “report / index / narrative” register when everyday buying language works better.
+- **Title and display name (non-negotiable):** In every locale file, `title`, `gameTitle`, and opening lines of FAQ answers must use the **name players actually use in that language** (e.g. zh-hans 通行中文名、ja 官方或任天堂 eShop 表记), not the leftover English SKU string. **Pricing-only scripts** (`sync-article-pricing.mjs`, card sync, etc.) must not be assumed to fix names — after any batch price pass, spot-check **title + gameTitle + first sentence of each FAQ answer** against `gameTitle` for zh-hans, ja, and any locale where the storefront default is English.
 
 ---
 
@@ -265,6 +266,7 @@ Before finishing any blog-page redesign, confirm:
 10. SEO-critical structure is preserved or intentionally documented if changed
 11. Worth-it / buy-timing **article bodies** read like **research memos** inside the standard H2s: concrete anchors (systems, performance, price triggers), not adjective-only marketing tone
 12. List-card **player consensus** copy is **`communityVibe`**, not **`playerVoices`** (run `node scripts/validate-article.mjs` — it warns if `playerVoices` is set but `communityVibe` is missing)
+13. For localized posts, **`title` / `gameTitle` / FAQ answer openings** use the correct **local game name**, not an English SKU left over after tooling passes
 
 ---
 

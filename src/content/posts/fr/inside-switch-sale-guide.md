@@ -36,13 +36,13 @@ bestFor: Court thriller d’auteur sans remplissage.
 avoidIf: Tu veux dialogues, RPG ou confort ensoleillé.
 consensusPraise: Atmosphère, son, rythme one-shot très sûrs.
 mainFriction: Essais dans le noir si tu détestes tâtonner.
-timeFit: Court — souvent ~3–5 h (pas HLTB).
+timeFit: Court — souvent ~3–5 h (pas ).
 fitLabel: Joueurs qui voient l’indé comme film interactif.
 timingNote: >-
   Compare ta ligne au Brésil et au plancher historique ~1,25 € au Japon avant
   catalogue.
 communityVibe: ADN Limbo, mur anti-spoil, casque obligatoire
-playtime: ~3–5 h (estimations ; pas HLTB)
+playtime: ~3–5 h (estimations ; pas )
 reviewSignal: 91 Metacritic
 takeaway: >-
   INSIDE est un monument — mais ne paie pas le prix touriste si ta région flotte
@@ -83,7 +83,7 @@ playerVoices:
     sentiment: positive
   - quote: Thèmes sombres ? aucun virage réconfortant
     sentiment: negative
-  - quote: Certains checkpoints stealth frustrant au replay
+  - quote: Certains checkpoints en infiltration sont frustrants en rejouant
     sentiment: negative
   - quote: La brièveté est un atout
     sentiment: positive
@@ -94,9 +94,7 @@ communityMemes:
   - Casque culte
   - Culture one-sitting
   - Pièce de musée
-tldr: >-
-  INSIDE — ~91 Metacritic Playdead ; avril 2026 catalogue >> historique promo
-  fréquent — attends sauf besoin immédiat.
+tldr: "INSIDE — ~91 Metacritic Playdead ; avril 2026 catalogue >> historique promo fréquent — attends sauf besoin immédiat."
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price
 gameHref: https://www.gamegulf.com/detail/2GhXVp3lBzO
@@ -165,18 +163,19 @@ cardPrice: EUR 12.28
 cardPriceNative: R$72.99
 cardPriceNativeCurrency: BRL
 ---
-
 ## Verdict rapide
 
-**INSIDE est un puzzle-thriller Playdead ~91 Metacritic** — **stealth muet, énigmes physiques, finale culte**. Durée **~3–5 h** : tu paies **ambiance et craft**.
+**INSIDE** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **91 Metacritic**.
 
-Tension avril 2026 : **Brésil ~12,28 € équivalent** en tête, mais l’historique montre un **plancher Japon ~1,25 € le 17 avril 2025**, **sept** promos sur l’année, **moyenne promo ~3,77 €**. Sans urgence, **attends** la prochaine **remise**. Vérifie la [grille live](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
+INSIDE est un monument — mais ne paie pas le prix touriste si ta région flotte au-dessus du prochain bandeau promo quasi certain.
 
-**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €12.28.
 
-## Combien coûte INSIDE sur Switch — prix et promos
+Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
 
-**L’index avril 2026 ouvre avec le Brésil ~12,28 € équivalent (R$72,99).**
+## Combien coute INSIDE sur Nintendo Switch maintenant?
+
+INSIDE est un monument — mais ne paie pas le prix touriste si ta région flotte au-dessus du prochain bandeau promo quasi certain.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -190,46 +189,33 @@ Tension avril 2026 : **Brésil ~12,28 € équivalent** en tête, mais l’histo
 | France | EUR 22.99 | €22.99 |
 | Italie | EUR 22.99 | €22.99 |
 
-L’**historique de promos** parle : **plus bas suivi ~1,25 €** (**Japon**, **17 avril 2025**), **listes 2026** >> **bande promo ~3,77 €**. Dernier mouvement noté **il y a 5 jours** (**Hong Kong**, **2 avril 2026**, **~28 %**). **INSIDE promo souvent** — **prix catalogue** vieillit mal.
+## Quel type de jeu est INSIDE?
 
-## Quel jeu ?
+Noyau de genre: **Défilement latéral, puzzles physiques, stealth, campagne linéaire sans voix.**. Le point cle reste l'adaptation a tes preferences, pas le texte marketing.
 
-**Thriller latéral : puzzles et poursuites remplacent les cinématiques** — lumières, caisses, physique pour éviter les menaces.
+## Comment tourne INSIDE sur Nintendo Switch?
 
-1. **Vignettes stealth** — nouveaux gabarits sans arbre de compétences.
-2. **Récit environnemental** — le mix audio porte la tension.
-3. **Brièveté premium** — chaque set-piece compte.
+Globalement jouable de facon stable; valide toujours avec la version la plus recente.
 
-Fans de **LIMBO** : même **poids tactile**, teinte SF plus nette.
+- Performance: base stable, ecarts possibles selon build.
+- Controle/lisibilite: schema standard, lisibilite portable selon contenu.
+- Mode: Solo.
 
-## Sur Switch ?
+## Acheter maintenant si
 
-**~30 fps stables** — silhouettes > UI.
+- tu apprecies **Défilement latéral, puzzles physiques, stealth, campagne linéaire sans voix.**
+- ton prix regional sur GameGulf est deja dans ta zone cible
+- tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
+- le format te convient: Une soirée ou un long après-midi pour la majorité.
 
-- **Portable :** contraste OK ; luminosité honnête.
-- **Dock :** lumière subtile ; perf alignée.
-- **Manettes :** simple, pas de gyro forcé.
+## Attendre si
 
-Port **musée**, pas bricolage.
+- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ton fit de genre est incertain
+- ton budget du mois est reserve a d'autres titres
+- Tu veux dialogues, RPG ou confort ensoleillé.
 
-## Achète maintenant si
+## Conclusion
 
-- Tu veux **Playdead ce soir**
-- Ta **ligne** est déjà un **sale** « assez bon »
-- Tu préfères **91 Metacritic** au arbitrage euro par euro
-- **3–5 h** collent à ta semaine
-- **Casque** prévu
-
-## Attends si
-
-- **eShop ~22–23 €** alors que **1–4 €** existent en **promo**
-- Tu peux **patienter** le cycle **promo**
-- Copie **Switch** seulement au **plancher**
-- Tension enfant impuissant = **stop**
-- Tu veux **systèmes rejouables** — ici **linéaire**
-
-## Dernier mot
-
-**INSIDE est indispensable pour les fans d’ambiance** — le **catalogue** d’avril 2026 est une taxe d’urgence optionnelle.
-
-**Regarde GameGulf une fois**, fixe une cible, achète quand **ta** ligne rejoint enfin l’histoire **promo** connue de tous.
+Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. mais ne paie pas le prix touriste si ta région flotte au-dessus du prochain bandeau promo quasi certain.
+Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)** puis tranche achat vs attente.

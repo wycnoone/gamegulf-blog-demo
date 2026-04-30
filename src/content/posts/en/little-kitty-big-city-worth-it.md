@@ -158,59 +158,62 @@ priceRows:
 cardPriceEur: 14.99
 cardPriceRegionCode: ES
 cardPriceRegion: Spain
-cardPrice: USD 17.28
+cardPrice: USD 17.56
 cardPriceNative: €14.99
 cardPriceNativeCurrency: EUR
 ---
-
 ## Quick verdict
 
-**Little Kitty, Big City is an easy yes for the right player profile**: a compact exploration game with a **78 Metacritic** critical signal, low-friction controls, and a loop built for short sessions.
+**Little Kitty, Big City** on **Nintendo Switch** is primarily a fit-and-price decision. Quality anchor: **78 Metacritic**.
 
-From a pricing perspective, it is not at historical low. Indexed rows currently show **Spain around €14.99**, while tracked history records a deeper **historical low around €11.35 (Japan, 2025-08-18)**. Buy if the fit is strong; wait if your rule is historical-low-only.
+Little Kitty, Big City is easy to recommend for the right mood; pricing is fair today, but deal hunters can still wait for a lower print.
 
-**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+Discount history signal: in 2026, the sale posture still points to a historical low band around €14.99.
 
-## How much is the Switch price right now?
+Before checkout, compare your actual account region on [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price).
 
-**Current indexed pricing starts near €14.99 in Spain and rises across other regions in this snapshot.**
+## How much does Little Kitty, Big City cost on Nintendo Switch right now?
+
+Buy if your local row is near the Spain lead; wait if you are strictly targeting the older historical low.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Spain | USD 17.59 | €14.99 |
-| Brazil | USD 18.24 | R$92.45 |
-| Japan | USD 22.20 | ¥3,480 |
-| Hong Kong | USD 23.40 | HK$180 |
-| United States | USD 25.45 | $24.99 |
-| Germany | USD 29.32 | €24.99 |
-| France | USD 29.32 | €24.99 |
-| Italy | USD 29.32 | €24.99 |
-
-The tracked discount history shows two discount events in one year, average discount-level pricing near €17.75, and a historical low at €11.35. That pattern supports a practical decision: fair to buy now for fit, reasonable to wait for deal-first buyers.
+| Spain | USD 17.55 | €14.99 |
+| Brazil | USD 18.20 | R$92.45 |
+| Japan | USD 22.15 | ¥3,480 |
+| Hong Kong | USD 23.34 | HK$180 |
+| United States | USD 25.39 | $24.99 |
+| Germany | USD 29.25 | €24.99 |
+| France | USD 29.25 | €24.99 |
+| Italy | USD 29.25 | €24.99 |
 
 ## What kind of game is Little Kitty, Big City?
 
-**It is a playful traversal-and-mischief game, not a systems-heavy sandbox.** You explore a readable urban map, complete light errands, interact with animals, and collect hats while navigating rooftops and alleys.
+Core genre mix: **Open-city cat adventure with light quests, traversal toys, and hat collection.**. The key question is whether this loop fits your taste, not whether store copy sounds good.
 
-The strongest design anchor is tone consistency: objectives stay clear, failure cost stays low, and momentum comes from curiosity rather than mechanical pressure.
+## How does Little Kitty, Big City run on Nintendo Switch?
 
-## How does it run on Nintendo Switch?
+Generally stable enough to play; always verify with the current patch/build context.
 
-**Switch performance is generally aligned with the game's low-pressure design goals.** Visual readability, camera behavior, and traversal response are the key quality factors here, and common player reports are broadly positive.
+- Performance: stable baseline, with build-to-build variance.
+- Controls/readability: mostly standard mappings; handheld readability depends on content density.
+- Mode info: Single-player.
 
-This is not a game that depends on ultra-precise frame windows, so stable feel matters more than benchmark-style stress testing.
+## Buy now if
 
-## Buy now or wait for sale?
+- you already like **Players who want chill exploration in short sessions.**
+- your regional price on GameGulf is in your target band
+- you want to start now instead of waiting for another sale window
+- the time profile fits: ~3h main / ~5–7h completionist
+## Wait if
 
-**Buy now if:**
-- You want a cozy, short-session game and your regional row is close to the indexed leaders.
-- You value tone, charm, and traversal over deep combat or progression systems.
+- your storefront is still near MSRP while other regions are lower
+- your genre fit is uncertain
+- your monthly budget is reserved for other games
+- Skip if you need deep combat systems or a long RPG arc.
 
-**Wait for sale if:**
-- You only buy at or near historical low prints.
-- You are currently choosing between this and a longer game with higher content density.
+## Closing take
 
-## Final recommendation
-
-**Little Kitty, Big City is worth it for players who want charm and low friction right now.** Use GameGulf tracking if your priority is maximizing discount timing, but the current indexed range is already defensible for the right audience.
+Price first, taste second is the most reliable order here. Buy if your local row is near the Spain lead; wait if you are strictly targeting the older historical low.
+Do one final check on **[GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price)** and decide buy-now vs wait.

@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/1vs5joujuwt",
     "game_id": "1vs5joujuwt",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -40,16 +40,16 @@
       "languages": [],
       "digital": [
         {
-          "country_code": "US",
-          "country": "United States",
-          "price": 34.21,
-          "discount_price": 8.55,
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 21.5,
+          "discount_price": 5.37,
           "discount_rate": 75,
-          "discount_end": "2026-04-23 06:59:59",
-          "discount_end_timestamp": 1776927599,
+          "discount_end": "2026-05-06 14:59:59",
+          "discount_end_timestamp": 1778079599,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 8.55
+          "calculate_value": 5.37
         },
         {
           "country_code": "DE",
@@ -76,16 +76,40 @@
           "calculate_value": 9.99
         },
         {
-          "country_code": "JP",
-          "country": "Japan",
-          "price": 21.5,
+          "country_code": "FR",
+          "country": "France",
+          "price": 39.99,
+          "discount_price": 9.99,
+          "discount_rate": 75,
+          "discount_end": "2026-05-06 21:59:59",
+          "discount_end_timestamp": 1778104799,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 39.99,
+          "discount_price": 9.99,
+          "discount_rate": 75,
+          "discount_end": "2026-05-06 22:59:59",
+          "discount_end_timestamp": 1778108399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 9.99
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 34.21,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 21.5
+          "calculate_value": 34.21
         },
         {
           "country_code": "HK",
@@ -100,32 +124,8 @@
           "calculate_value": 34.84
         },
         {
-          "country_code": "FR",
-          "country": "France",
-          "price": 39.99,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 39.99
-        },
-        {
           "country_code": "IT",
           "country": "Italy",
-          "price": 39.99,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 39.99
-        },
-        {
-          "country_code": "PT",
-          "country": "Portugal",
           "price": 39.99,
           "discount_price": null,
           "discount_rate": null,
@@ -159,26 +159,19 @@
               "value": 8.55,
               "currency": "EUR",
               "country": "United States"
+            },
+            {
+              "date": "2026-04-15",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         },
         {
           "period": "180 D",
           "entries": [
-            {
-              "date": "2025-10-27",
-              "country_code": "JP",
-              "value": 21.5,
-              "currency": "EUR",
-              "country": "Japan"
-            },
-            {
-              "date": "2025-10-29",
-              "country_code": "JP",
-              "value": 5.37,
-              "currency": "EUR",
-              "country": "Japan"
-            },
             {
               "date": "2025-11-17",
               "country_code": "GB",
@@ -241,6 +234,13 @@
               "value": 8.55,
               "currency": "EUR",
               "country": "United States"
+            },
+            {
+              "date": "2026-04-15",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         },
@@ -379,6 +379,13 @@
               "value": 8.55,
               "currency": "EUR",
               "country": "United States"
+            },
+            {
+              "date": "2026-04-15",
+              "country_code": "JP",
+              "value": 5.37,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         }
@@ -391,8 +398,8 @@
       "entries": [
         {
           "platform": "Nintendo Switch 1",
-          "country_code": "US",
-          "value": 8.55,
+          "country_code": "JP",
+          "value": 5.37,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -404,7 +411,7 @@
         {
           "platform": "Nintendo Switch 1",
           "country_code": "US",
-          "value": 8.55,
+          "value": 34.21,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -436,11 +443,11 @@
       "title": "A Knight's Quest",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515589429116067.jpeg",
       "metacritic": 59,
-      "price": 21.38,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
+      "price": 24.99,
+      "discount_price": 3.74,
+      "discount_rate": 85,
+      "discount_tag": "LowPrice",
+      "discount_end": "6 days",
       "release_date": "2019-10-10",
       "categories": [
         "Action",
@@ -455,11 +462,11 @@
       "title": "Dark Devotion",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515532535310953.jpeg",
       "metacritic": null,
-      "price": 11.88,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
+      "price": 17.1,
+      "discount_price": 1.7,
+      "discount_rate": 90,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "12 hr",
       "release_date": "2019-10-24",
       "categories": [
         "Action",
@@ -552,11 +559,11 @@
       "title": "REDO!",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511358723513107.jpeg",
       "metacritic": null,
-      "price": 9.99,
-      "discount_price": 3.49,
-      "discount_rate": 65,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
+      "price": 8.22,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
       "release_date": "2022-06-22",
       "categories": [
         "Action",
@@ -598,7 +605,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+      "priceValidUntil": "2026-05-29T18:46:41+00:00"
     },
     {
       "@type": "Offer",
@@ -611,7 +618,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+      "priceValidUntil": "2026-05-29T18:46:41+00:00"
     },
     {
       "@type": "Offer",
@@ -624,7 +631,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+      "priceValidUntil": "2026-05-29T18:46:41+00:00"
     },
     {
       "@type": "Offer",
@@ -637,7 +644,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+      "priceValidUntil": "2026-05-29T18:46:41+00:00"
     },
     {
       "@type": "Offer",
@@ -650,23 +657,23 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:55+00:00"
+      "priceValidUntil": "2026-05-29T18:46:41+00:00"
     }
   ],
   "price_analytics": {
     "switch 1": {
       "current_cheapest": {
-        "price_eur": 8.55,
-        "region": "United States",
-        "country_code": "US"
+        "price_eur": 5.37,
+        "region": "Japan",
+        "country_code": "JP"
       },
       "global_low": {
-        "price_eur": 8.55,
-        "region": "US",
+        "price_eur": 5.37,
+        "region": "JP",
         "type": "Digital"
       },
       "local_low": {
-        "price_eur": 8.55,
+        "price_eur": 34.21,
         "region": "US",
         "type": "Digital"
       },
@@ -676,44 +683,19 @@
         "country": "Japan",
         "date": "2025-05-07"
       },
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 11,
-      "avg_discount_price_eur": 10.61,
-      "sale_periods": [
-        {
-          "start": "2025-05-07",
-          "end": "2025-05-07"
-        },
-        {
-          "start": "2025-07-02",
-          "end": "2025-07-02"
-        },
-        {
-          "start": "2025-09-03",
-          "end": "2025-09-03"
-        },
-        {
-          "start": "2025-10-29",
-          "end": "2025-10-29"
-        },
-        {
-          "start": "2025-12-24",
-          "end": "2025-12-24"
-        },
-        {
-          "start": "2026-02-18",
-          "end": "2026-02-18"
-        }
-      ],
-      "days_since_last_discount": 20,
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 12,
+      "avg_discount_price_eur": 10.18,
+      "sale_periods": [],
+      "days_since_last_discount": 14,
       "last_discount": {
-        "date": "2026-04-02",
-        "price_eur": 8.55,
-        "region": "United States",
-        "drop_pct": 60
+        "date": "2026-04-15",
+        "price_eur": 5.37,
+        "region": "Japan",
+        "drop_pct": 37
       },
-      "trend_entries_count": 19,
-      "price_verdict": "regular_discounter"
+      "trend_entries_count": 20,
+      "price_verdict": "at_historical_low"
     }
   },
   "product_links": {
@@ -747,8 +729,8 @@
         "Adventure",
         "Indie"
       ],
-      "steam_price": "$9.89",
-      "total_recommendations": 2396,
+      "steam_price": "¥ 1,122",
+      "total_recommendations": 2398,
       "short_description": "A legendary series returns with a grand new adventure! Enjoy a colorful action-adventure game made alongside Ryuichi Nishizawa, creator of the original Wonder Boy in Monster World series.",
       "supported_languages": "English, French, Italian, German, Spanish - Spain, Portuguese - Brazil, Japanese, Russian, Korean, Simplified Chinese, Polish",
       "platforms": {
@@ -757,9 +739,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 2287,
-        "total_negative": 293,
-        "total_reviews": 2580,
+        "total_positive": 2288,
+        "total_negative": 294,
+        "total_reviews": 2582,
         "score_description": "Very Positive",
         "positive_percent": 89
       }

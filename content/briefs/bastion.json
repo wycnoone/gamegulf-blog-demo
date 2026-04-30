@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2xQi0B58XvR",
     "game_id": "2xQi0B58XvR",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -28,7 +28,7 @@
       "Role-playing"
     ],
     "release_date": "2018-09-13",
-    "developer": "Supergiant Games",
+    "developer": null,
     "publisher": "Supergiant Games",
     "metacritic": 90
   },
@@ -209,12 +209,12 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 19.99,
-      "discount_price": 2.99,
-      "discount_rate": 85,
+      "price": 10.8,
+      "discount_price": null,
+      "discount_rate": null,
       "discount_tag": "Normal",
-      "discount_end": "6 days",
-      "release_date": "2020-07-24",
+      "discount_end": "",
+      "release_date": "2020-11-19",
       "categories": [
         "Action",
         "Adventure",
@@ -247,12 +247,12 @@
       "title": "Dreamscaper",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
       "metacritic": 82,
-      "price": 12.41,
-      "discount_price": 2.48,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2021-08-05",
+      "price": 6.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-08",
       "categories": [
         "Action",
         "Adventure",
@@ -307,7 +307,7 @@
       "discount_price": 1.75,
       "discount_rate": 85,
       "discount_tag": "LowPrice",
-      "discount_end": "23 days",
+      "discount_end": "16 days",
       "release_date": "2021-02-04",
       "categories": [
         "Action",
@@ -326,7 +326,7 @@
       "discount_price": 4.99,
       "discount_rate": 75,
       "discount_tag": "LowPrice",
-      "discount_end": "11 days",
+      "discount_end": "4 days",
       "release_date": "2021-04-15",
       "categories": [
         "Adventure",
@@ -359,23 +359,23 @@
       "url": "https://www.gamegulf.com/detail/9LhexgMA0RR"
     },
     {
-      "id": "bpMFtHJyIBc",
-      "title": "Collection of Mana",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515945486010794.jpeg",
-      "metacritic": 83,
-      "price": 28.52,
-      "discount_price": 11.41,
-      "discount_rate": 60,
-      "discount_tag": "LowPrice",
-      "discount_end": "13 days",
-      "release_date": "2017-06-01",
+      "id": "bxfnHxrUYhc",
+      "title": "2weistein – The Curse of the Red Dragon 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512442788419757.jpeg",
+      "metacritic": null,
+      "price": 15.4,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-10-01",
       "categories": [
         "Action",
         "Adventure",
-        "Other",
+        "Education",
         "Role-playing"
       ],
-      "url": "https://www.gamegulf.com/detail/bpMFtHJyIBc"
+      "url": "https://www.gamegulf.com/detail/bxfnHxrUYhc"
     }
   ],
   "schema_offers": [
@@ -390,7 +390,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:47+00:00"
+      "priceValidUntil": "2026-05-29T19:34:56+00:00"
     },
     {
       "@type": "Offer",
@@ -403,7 +403,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:47+00:00"
+      "priceValidUntil": "2026-05-29T19:34:56+00:00"
     },
     {
       "@type": "Offer",
@@ -416,7 +416,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:47+00:00"
+      "priceValidUntil": "2026-05-29T19:34:56+00:00"
     }
   ],
   "price_analytics": {
@@ -451,7 +451,7 @@
           "end": "2025-12-18"
         }
       ],
-      "days_since_last_discount": 125,
+      "days_since_last_discount": 132,
       "last_discount": {
         "date": "2025-12-18",
         "price_eur": 2.49,
@@ -469,51 +469,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 107100,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 869,
       "name": "Bastion",
-      "developer": [
-        "Supergiant Games"
-      ],
-      "publisher": [
-        "Supergiant Games"
-      ],
-      "metacritic_score": 86,
-      "metacritic_url": "https://www.metacritic.com/game/pc/bastion?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Cloud",
-        "Steam Leaderboards",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Indie",
-        "RPG"
-      ],
-      "steam_price": "$2.24",
-      "total_recommendations": 28007,
-      "short_description": "Discover the secrets of the Calamity, a surreal catastrophe that shattered the world to pieces.",
-      "supported_languages": "English<strong>*</strong>, French, German, Italian, Spanish - Spain, Simplified Chinese<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 36160,
-        "total_negative": 1787,
-        "total_reviews": 37947,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 95
-      }
-    },
-    "hltb": null
+      "main_story_hours": 6,
+      "main_extra_hours": 9,
+      "completionist_hours": 20,
+      "all_styles_hours": 8,
+      "review_score": 80,
+      "total_submissions": 4965
+    }
   }
 }

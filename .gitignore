@@ -11,3 +11,6 @@ Thumbs.db
 tmp-val.json
 tmp-val.err
 tetris-val.json
+
+# Full validate snapshot (regenerate: node scripts/validate-article.mjs --all > …)
+scripts/.cache/validate*.json

@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
     "game_id": "2DnaPGYGeNp",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -29,7 +28,7 @@
       "Shooter"
     ],
     "release_date": "2021-10-28",
-    "developer": "David Szymanski",
+    "developer": null,
     "publisher": "New Blood",
     "metacritic": 88
   },
@@ -252,20 +251,6 @@
   ],
   "similar_games": [
     {
-      "id": "cMExA7SgKUP",
-      "title": "DUSK '82",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510330659018674.jpeg",
-      "metacritic": null,
-      "price": 0.52,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2023-01-13",
-      "categories": [],
-      "url": "https://www.gamegulf.com/detail/cMExA7SgKUP"
-    },
-    {
       "id": "abWi6yf2oIZ",
       "title": "Rising Dusk",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508539561112749.jpeg",
@@ -283,6 +268,20 @@
         "Platformer"
       ],
       "url": "https://www.gamegulf.com/detail/abWi6yf2oIZ"
+    },
+    {
+      "id": "cMExA7SgKUP",
+      "title": "DUSK '82",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510330659018674.jpeg",
+      "metacritic": null,
+      "price": 0.52,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-13",
+      "categories": [],
+      "url": "https://www.gamegulf.com/detail/cMExA7SgKUP"
     },
     {
       "id": "dVLFDNhec1",
@@ -401,7 +400,7 @@
       "discount_price": 10.05,
       "discount_rate": 65,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "discount_end": "3 hr",
       "release_date": "2023-05-18",
       "categories": [
         "Shooter",
@@ -425,7 +424,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:36:22+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -438,7 +437,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:36:22+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -451,7 +450,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:36:22+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -464,7 +463,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:36:22+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     },
     {
       "@type": "Offer",
@@ -477,7 +476,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:36:22+00:00"
+      "priceValidUntil": "2026-05-29T19:07:19+00:00"
     }
   ],
   "price_analytics": {
@@ -516,7 +515,7 @@
           "end": "2026-02-23"
         }
       ],
-      "days_since_last_discount": 58,
+      "days_since_last_discount": 65,
       "last_discount": {
         "date": "2026-02-23",
         "price_eur": 5.66,
@@ -534,51 +533,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 519860,
-      "name": "DUSK",
-      "developer": [
-        "David Szymanski"
-      ],
-      "publisher": [
-        "New Blood Interactive"
-      ],
-      "metacritic_score": 88,
-      "metacritic_url": "https://www.metacritic.com/game/pc/dusk?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "PvP",
-        "Online PvP",
-        "LAN PvP",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Workshop",
-        "Steam Cloud",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Indie"
-      ],
-      "steam_price": "$19.99",
-      "total_recommendations": 21688,
-      "short_description": "Battle through an onslaught of mystical backwater cultists, possessed militants &amp; even darker forces as you attempt to discover just what lurks beneath the Earth in this retro FPS inspired by the '90s legends.",
-      "supported_languages": "English<strong>*</strong>, Simplified Chinese, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Spanish - Latin America, Traditional Chinese, Turkish, Ukrainian<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 24303,
-        "total_negative": 738,
-        "total_reviews": 25041,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 97
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

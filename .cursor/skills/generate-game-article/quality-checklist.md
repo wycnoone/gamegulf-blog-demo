@@ -62,14 +62,14 @@ Use this after generating articles. Every item must pass.
 - [ ] tldr includes verdict + one concrete detail
 - [ ] Every FAQ answer starts with game name
 - [ ] FAQ answers are self-contained (make sense without question)
-- [ ] One FAQ answer mentions GameGulf naturally
+- [ ] FAQ does **not** repeat the article’s price story — avoid cloning € tiers, MSRP spreads, or `#currency-price` links already covered in the body; prefer worth-buying fit + length + gameplay-friction (see `game-guide-template.md`)
+- [ ] Optional: GameGulf / alerts mention in FAQ only when **non-redundant** vs body pricing
 - [ ] Temporal claims are date-anchored ("as of April 2026")
 
 ## Brand Rules
 
-- [ ] GameGulf mentioned exactly 2 times total
-- [ ] 1× in a FAQ answer (referencing a tool)
-- [ ] 1× in article body (usually pricing section)
+- [ ] Markdown body meets GameGulf mention rules (`validate-article.mjs`: typically **≥3** `gamegulf` substrings in prose below frontmatter — links + brand word)
+- [ ] FAQ is **not** a substitute for body pricing — do not offload the regional grid into FAQ answers
 - [ ] No "GameGulf recommends" or "GameGulf thinks"
 
 ## Multilingual Consistency
@@ -113,3 +113,4 @@ Use this after generating articles. Every item must pass.
 7. **Unescaped colons in YAML strings**: Wrap values containing `:` in quotes.
 8. **Missing game name in FAQ answers**: Every answer must start with
    the full game title for AI citation to work.
+9. **FAQ repeats pricing**: FAQ shouldn't paste `#currency-price` URLs or regional tiers already in the markdown price section — use gameplay/friction + runtime angles instead.

@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/50pq42JLkJ3",
     "game_id": "50pq42JLkJ3",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -153,13 +153,6 @@
         {
           "period": "30 D",
           "entries": [
-            {
-              "date": "2026-03-26",
-              "country_code": "GB",
-              "value": 19.53,
-              "currency": "EUR",
-              "country": "United Kingdom"
-            },
             {
               "date": "2026-04-02",
               "country_code": "JP",
@@ -364,7 +357,7 @@
       "discount_price": 4.87,
       "discount_rate": 75,
       "discount_tag": "LowPrice",
-      "discount_end": "4 days",
+      "discount_end": "3 hr",
       "release_date": "2022-02-08",
       "categories": [
         "Arcade",
@@ -403,7 +396,7 @@
       "discount_price": 8.99,
       "discount_rate": 55,
       "discount_tag": "LowPrice",
-      "discount_end": "8 days",
+      "discount_end": "4 days",
       "release_date": "2023-09-12",
       "categories": [
         "Action",
@@ -444,7 +437,7 @@
       "discount_price": 3.08,
       "discount_rate": 75,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "discount_end": "3 days",
       "release_date": "2020-05-12",
       "categories": [
         "Action",
@@ -459,11 +452,11 @@
       "title": "Enchanted Portals",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508762057314459.jpeg",
       "metacritic": null,
-      "price": 19.99,
-      "discount_price": 3.99,
+      "price": 17.23,
+      "discount_price": 3.44,
       "discount_rate": 80,
       "discount_tag": "LowPrice",
-      "discount_end": "6 days",
+      "discount_end": "2 days",
       "release_date": "2023-10-24",
       "categories": [
         "Action",
@@ -478,11 +471,11 @@
       "title": "Pid",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510544948417675.jpeg",
       "metacritic": null,
-      "price": 17.82,
-      "discount_price": 2.01,
-      "discount_rate": 88,
-      "discount_tag": "Normal",
-      "discount_end": "9 days",
+      "price": 19.99,
+      "discount_price": 1.99,
+      "discount_rate": 90,
+      "discount_tag": "LowPrice",
+      "discount_end": "7 days",
       "release_date": "2022-11-18",
       "categories": [
         "Arcade",
@@ -519,11 +512,11 @@
       "title": "Orion Haste",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177508055807811554.jpeg",
       "metacritic": null,
-      "price": 5.03,
-      "discount_price": 2.01,
-      "discount_rate": 60,
-      "discount_tag": "LowPrice",
-      "discount_end": "11 hr",
+      "price": 3.08,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
       "release_date": "2024-03-15",
       "categories": [
         "Action",
@@ -546,7 +539,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+      "priceValidUntil": "2026-05-26T19:41:16+00:00"
     },
     {
       "@type": "Offer",
@@ -559,7 +552,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+      "priceValidUntil": "2026-05-26T19:41:16+00:00"
     },
     {
       "@type": "Offer",
@@ -572,7 +565,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+      "priceValidUntil": "2026-05-26T19:41:16+00:00"
     },
     {
       "@type": "Offer",
@@ -585,7 +578,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+      "priceValidUntil": "2026-05-26T19:41:16+00:00"
     },
     {
       "@type": "Offer",
@@ -598,7 +591,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+      "priceValidUntil": "2026-05-26T19:41:16+00:00"
     },
     {
       "@type": "Offer",
@@ -611,7 +604,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:38+00:00"
+      "priceValidUntil": "2026-05-26T19:41:16+00:00"
     }
   ],
   "price_analytics": {
@@ -650,7 +643,7 @@
           "end": "2025-12-22"
         }
       ],
-      "days_since_last_discount": 20,
+      "days_since_last_discount": 24,
       "last_discount": {
         "date": "2026-04-02",
         "price_eur": 10.69,
@@ -699,8 +692,8 @@
         "Action",
         "Indie"
       ],
-      "steam_price": "$19.99",
-      "total_recommendations": 186460,
+      "steam_price": "¥ 68.00",
+      "total_recommendations": 186652,
       "short_description": "Cuphead is a classic run and gun action game heavily focused on boss battles. Inspired by cartoons of the 1930s, the visuals and audio are painstakingly created with the same techniques of the era, i.e. traditional hand drawn cel animation, watercolor backgrounds, and original jazz recordings.",
       "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Spanish - Latin America",
       "platforms": {
@@ -709,9 +702,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 200141,
-        "total_negative": 7839,
-        "total_reviews": 207980,
+        "total_positive": 200325,
+        "total_negative": 7852,
+        "total_reviews": 208177,
         "score_description": "Overwhelmingly Positive",
         "positive_percent": 96
       }

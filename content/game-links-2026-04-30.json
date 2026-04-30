@@ -1,0 +1,46 @@
+{
+  "date": "2026-04-30",
+  "count": 10,
+  "games": [
+    {
+      "slug": "ai-the-somnium-files-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB"
+    },
+    {
+      "slug": "daemon-x-machina-titanic-scion-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5"
+    },
+    {
+      "slug": "dusk-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp"
+    },
+    {
+      "slug": "metroid-prime-remastered-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/dm86GCKPzG2"
+    },
+    {
+      "slug": "monster-boy-and-the-cursed-kingdom-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt"
+    },
+    {
+      "slug": "novel-rogue-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U"
+    },
+    {
+      "slug": "shantae-and-the-pirate-s-curse-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/2FXuQLdeecV"
+    },
+    {
+      "slug": "sonic-mania-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N"
+    },
+    {
+      "slug": "star-wars-pinball-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR"
+    },
+    {
+      "slug": "the-seven-chambers-worth-it",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH"
+    }
+  ]
+}

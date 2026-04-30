@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/6mHaDw6g1U5",
     "game_id": "6mHaDw6g1U5",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -28,7 +28,7 @@
       "Platformer"
     ],
     "release_date": "2018-06-12",
-    "developer": "Team Cherry",
+    "developer": null,
     "publisher": "Team Cherry",
     "metacritic": 90
   },
@@ -290,11 +290,11 @@
       "title": "Hollow",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614150545817411.jpeg",
       "metacritic": null,
-      "price": 19.99,
-      "discount_price": 1.99,
-      "discount_rate": 90,
+      "price": 17.1,
+      "discount_price": 2.56,
+      "discount_rate": 85,
       "discount_tag": "Normal",
-      "discount_end": "5 days",
+      "discount_end": "11 hr",
       "release_date": "2018-02-22",
       "categories": [
         "Adventure",
@@ -309,11 +309,11 @@
       "title": "Hollow 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613946760715399.jpeg",
       "metacritic": null,
-      "price": 19.99,
-      "discount_price": 1.99,
-      "discount_rate": 90,
+      "price": 16.77,
+      "discount_price": 2.51,
+      "discount_rate": 85,
       "discount_tag": "LowPrice",
-      "discount_end": "5 days",
+      "discount_end": "11 hr",
       "release_date": "2021-12-30",
       "categories": [
         "Adventure",
@@ -327,10 +327,10 @@
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507270692615190.jpeg",
       "metacritic": null,
       "price": 10.69,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_price": 9.61,
+      "discount_rate": 10,
+      "discount_tag": "LowPrice",
+      "discount_end": "20 days",
       "release_date": "2025-11-27",
       "categories": [
         "Action",
@@ -381,11 +381,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -400,12 +400,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -427,7 +427,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:41+00:00"
+      "priceValidUntil": "2026-05-29T19:34:43+00:00"
     },
     {
       "@type": "Offer",
@@ -440,7 +440,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:41+00:00"
+      "priceValidUntil": "2026-05-29T19:34:43+00:00"
     },
     {
       "@type": "Offer",
@@ -453,7 +453,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:41+00:00"
+      "priceValidUntil": "2026-05-29T19:34:43+00:00"
     },
     {
       "@type": "Offer",
@@ -466,7 +466,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:41+00:00"
+      "priceValidUntil": "2026-05-29T19:34:43+00:00"
     },
     {
       "@type": "Offer",
@@ -479,7 +479,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:41+00:00"
+      "priceValidUntil": "2026-05-29T19:34:43+00:00"
     },
     {
       "@type": "Offer",
@@ -492,7 +492,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:41+00:00"
+      "priceValidUntil": "2026-05-29T19:34:43+00:00"
     }
   ],
   "price_analytics": {
@@ -548,50 +548,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 367520,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 26286,
       "name": "Hollow Knight",
-      "developer": [
-        "Team Cherry"
-      ],
-      "publisher": [
-        "Team Cherry"
-      ],
-      "metacritic_score": 87,
-      "metacritic_url": "https://www.metacritic.com/game/pc/hollow-knight?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Cloud",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "steam_price": "$14.99",
-      "total_recommendations": 481683,
-      "short_description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
-      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Korean<strong>*</strong>, Simplified Chinese<strong>*</strong>, Italian<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Russian<strong>*</strong>, Japanese<strong>*</strong>, Traditional Chinese<strong>*</strong><br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 521482,
-        "total_negative": 16606,
-        "total_reviews": 538088,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 97
-      }
-    },
-    "hltb": null
+      "main_story_hours": 27,
+      "main_extra_hours": 42,
+      "completionist_hours": 65,
+      "all_styles_hours": 42,
+      "review_score": 91,
+      "total_submissions": 9183
+    }
   }
 }

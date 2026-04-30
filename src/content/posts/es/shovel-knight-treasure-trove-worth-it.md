@@ -1,84 +1,137 @@
 ---
-title: "¿Merece la pena Shovel Knight: Treasure Trove en Nintendo Switch en 2026?"
-description: "2026年4月Nintendo Switch购买参考：Shovel Knight: Treasure Trove、GameGulf 价格信号与买/等建议。"
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: ¿Vale Shovel Knight Treasure Trove en Switch en 2026?
+description: >-
+  Guía abril 2026: antología Metacritic ~91, Japón ~11,67 € indexado versus
+  listas UE 39,99 €, cooperative Shovel of Hope / Showdown en sofá, volumen por
+  campaña.
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: "Shovel Knight: Treasure Trove"
+gameTitle: Shovel Knight Treasure Trove
 platform: Nintendo Switch
-primaryPlatformKey: switch 1
+primaryPlatformKey: switch-1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 7 min de lectura
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price
-gameHref: https://www.gamegulf.com/detail/fppDS0HCLd8
-membershipHref: https://www.gamegulf.com/pricing
+readingTime: 8 min de lectura
+decision: >-
+  Sigue siendo compra sólida si te gusta el pixel exigente — Treasure Trove
+  reúne campaña central, DLC con movimiento distinto y arenas locales ; el
+  índice de abril 2026 mantiene Japón cercano al piso (~11,67 € equivalente
+  según datos marzo 2026).
+priceSignal: >-
+  La brecha con las tarjetas UE a 39,99 € sigue abierta; importa más el
+  país/cuenta que fantasmas de nuevas ofertas.
 heroStat: 91 Metacritic
-heroNote: "Shovel Knight: Treasure Trove：Action, Adventure, Platformer；Yacht Club Games。"
-badge: Comprar ya
+heroNote: >-
+  Paquete con Shovel of Hope, DLC de Plaga/Espectro/Rey Caballero, torre
+  Challenge, duelos Showdown y modo Body Swap — estética 8-bits Yacht Club.
+badge: Comprar ahora
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  Shovel Knight: Treasure Trove：Action, Adventure, Platformer；2026年4月价格分区差值得先对照
-  GameGulf。
-whatItIs: >-
-  Action, Adventure, Platformer — Shovel Knight: Treasure Trove on Nintendo
-  Switch.
-bestFor: 想要Action, Adventure, Platformer且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, Platformer气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；91 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
+  Colección ~91 MC JP ~11,67 € marca marzo 2026 — compra si twitch/sofa encaja antes de UE.
+whatItIs: Colección retro plataformas acción con campañas paralelas y modos sofá local.
+bestFor: Noches de multijugador y fanáticos de memorizar bosses.
+avoidIf: Buscas un solo mapa mundo abierto moderno sin castigo twitch.
+consensusPraise: Variedad de gimmicks por campaña y banda sonora citada hasta hoy.
+mainFriction: Cada historia renueva comandos por completo — curva dura entre arcos.
+timeFit: ~12 h historia central ; +35 h si completas DLC y desafíos.
+fitLabel: Mejor cuando quieras antología cargada antes que un RPG infinito.
+timingNote: Si tu cuenta EU sigue 39,99 €, revisa GameGulf antes del checkout.
+communityVibe: Retos modo speedrun meme — siempre algo que demostrar
+playtime: ~12 h historia · antología total 35h+ · showdown aparte
 reviewSignal: 91 Metacritic
-takeaway: "Shovel Knight: Treasure Trove 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。"
-playStyle: Action, Adventure, Platformer
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Yes — data tracks near historic lows.
-salePattern: 过去一年约 2 次促销波动——折扣是常态。
+takeaway: >-
+  Shovel Knight Treasure Trove sigue destacando como pack indie Switch cuando te
+  encaja el pulso rápido; abril 2026 muestra Japón colado en el nivel de marzo
+  (~11,67 € equivalente) contra catálogo europeo alto.
+playStyle: >-
+  Plataformas laterales clásicas, coop en Shovel of Hope, showdown cuatro
+  jugadores, bombas/químicos en DLC Plaga, scythe Specter Knight, mazmorras
+  tácticas Rey Caballero, challenge tower repetible.
+timeCommitment: >-
+  Espera algo más de doce horas si solo enfocas Shovel of Hope pero planifica
+  treinta y cinco o más cuando encadenas todos los DLC y niveles opcionales;
+  Showdown cuenta entrenamiento extra aparte cronos historia.
+playMode: >-
+  Co‑op local (campaña principal) ; combates Showdown hasta cuatro en el mismo
+  sofá.
+whyNow: >-
+  El contenido vivo ya frenó tras años — hoy preguntas por densidad arcade, no
+  temporada online.
+currentDeal: >-
+  Abril 2026 — el índice sigue iniciando Japón ~11,67 € contra ¥2160 declarados
+  ; EE. UU./UE muestran 39-40 € efectivos según zona.
+nearHistoricalLow: >-
+  Sí — la cadena japonesa con fecha 2026-03-28 sigue marcando ese tramo cercano
+  histórico.
+salePattern: >-
+  Dos pulsos claros dentro del último ciclo medio (~13,9 € medio promociones
+  puntuales) — no recurrente pero brusco.
 priceRecommendation: buy
 quickFilters:
-  - great_on_sale
+  - co_op
   - short_sessions
+  - great_on_sale
 playerNeeds:
   - value_for_money
   - buy_now
 tags:
-  - "shovel knight: treasure trove nintendo …"
-  - "shovel knight: treasure trove worth it"
-  - "shovel knight: treasure trove price"
-  - gamegulf deals
+  - shovel knight treasure trove switch
+  - shovel knight switch español
+  - yacht club games switch
+  - plataformas retro switch
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Shovel coop salvó noches antes de Smash sin drift.
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Spectre Knight se sintió nuevo juego con mapas distintos.
+    sentiment: positive
+  - quote: Showdown ocupó noches antes de Smash con cuatro sticks.
+    sentiment: positive
+  - quote: La torre de desafíos me estrujó después de trabajar todo el día.
     sentiment: mixed
-  - quote: 先看清自己区服行价。
-    sentiment: positive
-communityMemes:
-  - "Shovel Knight: Treasure Trove sale bingo"
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: "Shovel Knight: Treasure Trove — 91 Metacritic；价格信号偏买入（口味要对）。"
+  - quote: Plaga se alargaba tras espectacular ritmo inicial.
+    sentiment: negative
+  - quote: Si odias repetir patrones, ni el pack deluxe te enamora.
+    sentiment: negative
+tldr: >-
+  Shovel Knight Treasure Trove — 91 Metacritic ; Japón todavía cercano marzo
+  2026 ; compra para jugones pixel + sofás multijugador.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price
+gameHref: https://www.gamegulf.com/detail/fppDS0HCLd8
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
+heroTheme: brand
+faq:
+  - question: >-
+      ¿Compro Shovel Knight Treasure Trove antes que otros grandes indies
+      Switch?
+    answer: >-
+      Shovel Knight Treasure Trove viene bien si valoras anthology de campaña +
+      showdown local antes que open world grande — si sólo exploras mundo
+      gigante mejor otro género porque aquí prima diseño twitch por mapas breves
+      y peleas.
+  - question: ¿Cuánto dura Treasure Trove de punta a punta?
+    answer: >-
+      Shovel Knight Treasure Trove ronda algo más de doce horas limpiando sólo
+      Shovel of Hope pero supera treinta y cinco al enganchar Plaga/Espectro/Rey
+      y la torre de desafíos; Showdown añade fricciones extra porque
+      entrenamiento competitivo cuenta aparte historia.
+  - question: ¿Más allá del salto rápido, qué trae fricción?
+    answer: >-
+      Shovel Knight Treasure Trove obliga reaprender controles cuando cambias
+      DLC y la torre de desafíos castiga combos — es filosofía Yacht Club twitch
+      y reportes comunes no lo ven bug sino intención.
 priceRows:
   - regionCode: JP
     eurPrice: 11.67
-    nativePrice: ¥2,160
+    nativePrice: ¥2160
     nativeCurrency: JPY
   - regionCode: BR
     eurPrice: 24.82
@@ -104,92 +157,53 @@ priceRows:
     eurPrice: 39.99
     nativePrice: €39.99
     nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 39.99
-    nativePrice: €39.99
-    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 41.37
+    nativePrice: £35.99
+    nativeCurrency: GBP
 cardPriceEur: 11.67
 cardPriceRegionCode: JP
 cardPriceRegion: Japón
 cardPrice: EUR 11.67
-cardPriceNative: ¥2,160
+cardPriceNative: ¥2160
 cardPriceNativeCurrency: JPY
-faq:
-  - question: "¿Merece la pena Shovel Knight: Treasure Trove en Nintendo Switch en 2026?"
-    answer: >-
-      Shovel Knight: Treasure Trove 是否值得买取决于你是否喜欢Action, Adventure,
-      Platformer，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: "How long is Shovel Knight: Treasure Trove?"
-    answer: >-
-      Shovel Knight: Treasure Trove — treat runtime as store-listed scope;
-      verify patch notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Shovel Knight: Treasure Trove — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
 ---
+
 ## Veredicto rápido
 
-**Shovel Knight: Treasure Trove** reads as **91 Metacritic**  — **Action, Adventure, Platformer** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**Shovel Knight Treasure Trove** en Switch es un **sí alto** si disfrutas combos pixel con castigo pero checkpoint justo — **91 Metacritic** y la tabla GameGulf de abril 2026 coloca Japón (~11,67 € equiv.) cercano al piso marzo 2026.
 
-Historial de **descuentos**: **mínimo histórico** cerca de **€11.67** (JP), **2** movimientos en 12 meses, **precio medio en oferta** **€13.90**, último movimiento hace **25** días (**2026-03-28 (Japan, €11.67)**, **2026**). Mira el [precio en vivo en GameGulf](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price).
+Consulta antes **[GameGulf](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** porque las cuentas europeas pagan 39,99 € reales hasta que cambias región o esperas promo.
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price) so you can sanity-check the **discount** story before checkout.
+## Precio actualizado en abril 2026
 
-## ¿Cuánto cuesta Shovel Knight: Treasure Trove en Nintendo Switch ahora?
-
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+El salto Japón‑UE/EU sobrepasa gastar «un parillo» — es orden de magnitud. Usa **`gamegulf.com`** para comparar rápido sin abrir todas las Stores.
 
 
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
-| Japón | EUR 11.67 | ¥2,160 |
+| Japón | EUR 11.67 | ¥2160 |
 | Brasil | EUR 24.82 | R$147.99 |
 | Estados Unidos | EUR 34.21 | $39.99 |
 | Alemania | EUR 39.99 | €39.99 |
 | España | EUR 39.99 | €39.99 |
 | Francia | EUR 39.99 | €39.99 |
 | Italia | EUR 39.99 | €39.99 |
-| Portugal | EUR 39.99 | €39.99 |
+| Reino Unido | EUR 41.37 | £35.99 |
 
-## ¿Qué es Shovel Knight: Treasure Trove, en la práctica?
+Dos rebajas claras muestran **oferta**/promo media **~€13,9**, con **mínimo histórico** japonés cerca **€11.67 (¥2160)** marcado **2026-03-28** y segunda señal hace ~32 días — el panel actualizado queda igualmente en **`gamegulf.com/detail/fppDS0HCLd8`**.
 
-**Shovel Knight: Treasure Trove** is a **Action, Adventure, Platformer** package from **Yacht Club Games** — treat the long store blurb as marketing, but the **genre mix** and **91 Metacritic** signal are the real buying compass.
+## Qué clase de juego es
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+Antología donde cada campaña reescribe comandos pero comparte filosofía twitch de Yacht Club Showdown coop + arenas.
 
-## ¿Cómo va Shovel Knight: Treasure Trove en Nintendo Switch?
+## Rendimiento Switch
 
-**Shovel Knight: Treasure Trove** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+Versión estable en TV y portátil; Showdown conviene usar un Pro Controller si vas en serio.
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+## Comprar o esperar
 
-## Compra si
+- **Comprar**: tu fila japonesa o mixta cae sobre **EUR 11,67** efectivo y te late el género twitch.
+- **Esperar**: sólo cuenta EU cara y backlog brutal — mejor alerta **[GameGulf](https://www.gamegulf.com/detail/fppDS0HCLd8)**.
 
-- You want **Action, Adventure, Platformer** pacing and the **91 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
-
-## Espera si
-
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, Platformer) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
-
-## Shovel Knight: Treasure Trove en Nintendo Switch — cierre
-
-**Shovel Knight: Treasure Trove** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Cierra ciclo chequeando **`gamegulf.com`** — sin eso estarías navegando a ciegas.

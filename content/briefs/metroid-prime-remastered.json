@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/dm86GCKPzG2",
     "game_id": "dm86GCKPzG2",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf"
@@ -163,39 +163,15 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-04-22",
-              "country_code": "US",
-              "value": 34.21,
-              "currency": "EUR",
-              "country": "United States"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
-          "entries": [
-            {
-              "date": "2026-04-22",
-              "country_code": "US",
-              "value": 34.21,
-              "currency": "EUR",
-              "country": "United States"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "1 Y",
-          "entries": [
-            {
-              "date": "2026-04-22",
-              "country_code": "US",
-              "value": 34.21,
-              "currency": "EUR",
-              "country": "United States"
-            }
-          ]
+          "entries": []
         }
       ]
     }
@@ -310,7 +286,7 @@
       "discount_price": 10.05,
       "discount_rate": 65,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "discount_end": "3 hr",
       "release_date": "2023-05-18",
       "categories": [
         "Shooter",
@@ -348,11 +324,11 @@
       "title": "Death Park 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511661052212494.jpeg",
       "metacritic": null,
-      "price": 0.43,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
+      "price": 5.98,
+      "discount_price": 2.99,
+      "discount_rate": 50,
+      "discount_tag": "LowPrice",
+      "discount_end": "11 days",
       "release_date": "2022-04-14",
       "categories": [
         "Action",
@@ -367,11 +343,11 @@
       "title": "QuietMansion1",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507106415614662.jpeg",
       "metacritic": null,
-      "price": 7.49,
-      "discount_price": 3.74,
-      "discount_rate": 50,
-      "discount_tag": "LowPrice",
-      "discount_end": "4 days",
+      "price": 3.78,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
       "release_date": "2024-08-22",
       "categories": [
         "Action",
@@ -415,7 +391,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+      "priceValidUntil": "2026-05-29T19:09:46+00:00"
     },
     {
       "@type": "Offer",
@@ -428,7 +404,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+      "priceValidUntil": "2026-05-29T19:09:46+00:00"
     },
     {
       "@type": "Offer",
@@ -441,7 +417,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+      "priceValidUntil": "2026-05-29T19:09:46+00:00"
     },
     {
       "@type": "Offer",
@@ -454,7 +430,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+      "priceValidUntil": "2026-05-29T19:09:46+00:00"
     },
     {
       "@type": "Offer",
@@ -467,7 +443,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+      "priceValidUntil": "2026-05-29T19:09:46+00:00"
     },
     {
       "@type": "Offer",
@@ -480,7 +456,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+      "priceValidUntil": "2026-05-29T19:09:46+00:00"
     },
     {
       "@type": "Offer",
@@ -493,7 +469,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:31:57+00:00"
+      "priceValidUntil": "2026-05-29T19:09:46+00:00"
     }
   ],
   "price_analytics": {
@@ -513,20 +489,15 @@
         "region": "US",
         "type": "Digital"
       },
-      "trend_from_lowest": {
-        "price_eur": 34.21,
-        "region": "US",
-        "country": "United States",
-        "date": "2026-04-22"
-      },
-      "at_or_near_historical_low": true,
+      "trend_from_lowest": null,
+      "at_or_near_historical_low": false,
       "discount_events_1y": 0,
       "avg_discount_price_eur": null,
       "sale_periods": [],
       "days_since_last_discount": null,
       "last_discount": null,
-      "trend_entries_count": 1,
-      "price_verdict": "at_historical_low"
+      "trend_entries_count": 0,
+      "price_verdict": "rarely_discounted"
     }
   },
   "product_links": {

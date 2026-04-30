@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2FqEovVMEB1",
     "game_id": "2FqEovVMEB1",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -38,6 +38,42 @@
       "enabled": true,
       "languages": [],
       "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 12.42,
+          "discount_price": 11.18,
+          "discount_rate": 9,
+          "discount_end": "2026-04-27 14:59:59",
+          "discount_end_timestamp": 1777301999,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.18
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 12.89,
+          "discount_price": 11.58,
+          "discount_rate": 10,
+          "discount_end": "2026-04-27 15:59:59",
+          "discount_end_timestamp": 1777305599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 11.58
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 18.99,
+          "discount_price": 17.09,
+          "discount_rate": 10,
+          "discount_end": "2026-04-27 21:59:59",
+          "discount_end_timestamp": 1777327199,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.09
+        },
         {
           "country_code": "FR",
           "country": "France",
@@ -94,10 +130,10 @@
           "entries": [
             {
               "date": "2026-04-14",
-              "country_code": "FR",
-              "value": 17.09,
+              "country_code": "JP",
+              "value": 11.18,
               "currency": "EUR",
-              "country": "France"
+              "country": "Japan"
             }
           ]
         },
@@ -106,10 +142,10 @@
           "entries": [
             {
               "date": "2026-04-14",
-              "country_code": "FR",
-              "value": 17.09,
+              "country_code": "JP",
+              "value": 11.18,
               "currency": "EUR",
-              "country": "France"
+              "country": "Japan"
             }
           ]
         },
@@ -118,10 +154,10 @@
           "entries": [
             {
               "date": "2026-04-14",
-              "country_code": "FR",
-              "value": 17.09,
+              "country_code": "JP",
+              "value": 11.18,
               "currency": "EUR",
-              "country": "France"
+              "country": "Japan"
             }
           ]
         }
@@ -204,8 +240,8 @@
       "entries": [
         {
           "platform": "Nintendo Switch 2",
-          "country_code": "FR",
-          "value": 17.09,
+          "country_code": "JP",
+          "value": 11.18,
           "currency": "EUR",
           "price_type": "Digital"
         },
@@ -237,12 +273,12 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 19.99,
-      "discount_price": 2.99,
-      "discount_rate": 85,
+      "price": 10.8,
+      "discount_price": 0.95,
+      "discount_rate": 91,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
-      "release_date": "2020-07-24",
+      "discount_end": "2 days",
+      "release_date": "2020-11-19",
       "categories": [
         "Action",
         "Adventure",
@@ -251,6 +287,25 @@
         "Other"
       ],
       "url": "https://www.gamegulf.com/detail/hWut0zzzi13"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 6.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-08",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
     },
     {
       "id": "kYo4NRMWRCG",
@@ -269,25 +324,6 @@
         "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
-    },
-    {
-      "id": "1e3hgKilc1O",
-      "title": "Dreamscaper",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
-      "metacritic": 82,
-      "price": 12.41,
-      "discount_price": 2.48,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "2 days",
-      "release_date": "2021-08-05",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Role-playing",
-        "Simulation"
-      ],
-      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
     },
     {
       "id": "aXRBXHN2tEI",
@@ -313,11 +349,11 @@
       "title": "Monster Hunter Rise",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513536485310369.jpeg",
       "metacritic": 88,
-      "price": 21.55,
-      "discount_price": 4.31,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "19 hr",
+      "price": 7.26,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
       "release_date": "2021-03-26",
       "categories": [
         "Action",
@@ -335,7 +371,7 @@
       "discount_price": 1.75,
       "discount_rate": 85,
       "discount_tag": "LowPrice",
-      "discount_end": "24 days",
+      "discount_end": "19 days",
       "release_date": "2021-02-04",
       "categories": [
         "Action",
@@ -354,7 +390,7 @@
       "discount_price": 4.99,
       "discount_rate": 75,
       "discount_tag": "LowPrice",
-      "discount_end": "12 days",
+      "discount_end": "7 days",
       "release_date": "2021-04-15",
       "categories": [
         "Adventure",
@@ -387,23 +423,25 @@
       "url": "https://www.gamegulf.com/detail/9LhexgMA0RR"
     },
     {
-      "id": "bpMFtHJyIBc",
-      "title": "Collection of Mana",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515945486010794.jpeg",
-      "metacritic": 83,
-      "price": 19.73,
+      "id": "ebzwhEFxAI9",
+      "title": "Magical Bakery",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506592116315606.jpeg",
+      "metacritic": null,
+      "price": 2.47,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
-      "release_date": "2024-05-13",
+      "release_date": "2024-11-07",
       "categories": [
         "Action",
         "Adventure",
-        "Other",
-        "Role-playing"
+        "Simulation",
+        "Training",
+        "Role-playing",
+        "Communication"
       ],
-      "url": "https://www.gamegulf.com/detail/bpMFtHJyIBc"
+      "url": "https://www.gamegulf.com/detail/ebzwhEFxAI9"
     }
   ],
   "schema_offers": [
@@ -418,7 +456,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:16:08+00:00"
+      "priceValidUntil": "2026-05-26T17:03:54+00:00"
     },
     {
       "@type": "Offer",
@@ -431,26 +469,52 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:16:08+00:00"
+      "priceValidUntil": "2026-05-26T17:03:54+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2FqEovVMEB1#currency-price",
+      "priceCurrency": "HKD",
+      "price": "118.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-26T17:03:54+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/2FqEovVMEB1#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2300.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-05-26T17:03:54+00:00"
     }
   ],
   "price_analytics": {
     "switch 2": {
       "current_cheapest": {
-        "price_eur": 17.09,
-        "region": "France",
-        "country_code": "FR"
+        "price_eur": 11.18,
+        "region": "Japan",
+        "country_code": "JP"
       },
       "global_low": {
-        "price_eur": 17.09,
-        "region": "FR",
+        "price_eur": 11.18,
+        "region": "JP",
         "type": "Digital"
       },
       "local_low": null,
       "trend_from_lowest": {
-        "price_eur": 17.09,
-        "region": "FR",
-        "country": "France",
+        "price_eur": 11.18,
+        "region": "JP",
+        "country": "Japan",
         "date": "2026-04-14"
       },
       "at_or_near_historical_low": true,
@@ -530,7 +594,7 @@
         "Indie",
         "RPG"
       ],
-      "steam_price": "$17.99",
+      "steam_price": "¥ 61.20",
       "total_recommendations": 0,
       "short_description": "Battle an evil fast food empire in this spicy narrative turn-based RPG. Two sisters and their upgradable spirit-mech cook delicious meals, fight corpos, build up your reputation with local communities, and reconcile with loved ones.",
       "supported_languages": "English<strong>*</strong><br><strong>*</strong>languages with full audio support",
@@ -540,11 +604,11 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 24,
+        "total_positive": 31,
         "total_negative": 1,
-        "total_reviews": 25,
+        "total_reviews": 32,
         "score_description": "Positive",
-        "positive_percent": 96
+        "positive_percent": 97
       }
     },
     "hltb": null

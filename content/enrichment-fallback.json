@@ -1,0 +1,14 @@
+{
+  "daemon-x-machina-titanic-scion": {
+    "metacritic": 69,
+    "main_story_hours": 25,
+    "main_extra_hours": 40,
+    "completionist_hours": 55
+  },
+  "cozy-grove": {
+    "metacritic": 71,
+    "main_story_hours": 40,
+    "main_extra_hours": 60,
+    "completionist_hours": 90
+  }
+}

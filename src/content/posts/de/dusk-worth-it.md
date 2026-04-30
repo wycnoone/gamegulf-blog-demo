@@ -1,8 +1,8 @@
 ---
-title: Lohnt sich DUSK auf NS2026?
-description: 2026年4月Nintendo Switch购买参考：DUSK、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: Lohnt sich DUSK 2026 auf der Nintendo Switch?
+description: Kaufmärz — 88 Metacritic, FR-Tief €5,66 (Feb 2026), GameGulf.
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: DUSK
 platform: Nintendo Switch
@@ -10,67 +10,80 @@ primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 7 Min. Lesezeit
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+readingTime: 8 Min. Lesezeit
+decision: Pflicht für Boomer-Shooter-Fans zum fairen Tile — sonst Alarm auf GameGulf.
+priceSignal: Indexiertes Tief €5,66 FR (2026-02-23) — viele EU-Zeilen jetzt ~€16,66.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price
 gameHref: https://www.gamegulf.com/detail/2DnaPGYGeNp
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: 88 Metacritic
-heroNote: DUSK：Action, Adventure, First-person, Shooter；David Szymanski。
-badge: Geschmackssache
+heroNote: Drei Retro-Episoden — Rad, Gyro, HD Rumble, Extra-Endlos.
+badge: Für passende Spieler
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: DUSK：Action, Adventure, First-person, Shooter；2026年4月价格分区差值得先对照 GameGulf。
-whatItIs: Action, Adventure, First-person, Shooter — DUSK on Nintendo Switch.
-bestFor: 想要Action, Adventure, First-person, Shooter且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, First-person, Shooter气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；88 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
+listingTakeaway: DUSK 88 Metacritic; GameGulf €5,66 FR vs ~€16,66 EU heute.
+whatItIs: Boomer-Shooter — drei Acts, Survival, Switch-60fps-Pflege.
+bestFor: Fans von Quake-Tempo und Kult-Horror.
+avoidIf: Du willst modernes Deckungs-Fehlen — skip.
+consensusPraise: Kritik ~88 Metacritic; Level straff.
+mainFriction: Standard-Gyro nervt — vorher in Optionen fixen.
+timeFit: Episoden über Abende, keine 90-Sek-Snacks.
+fitLabel: Käufer, die FR-Sales auf GameGulf gesehen haben.
+timingNote: Nur zwei tiefe Drops/Jahr.
+communityVibe: Switch-Port mit knackigen 60 fps
 reviewSignal: 88 Metacritic
-takeaway: DUSK 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Action, Adventure, First-person, Shooter
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 2 次促销波动——折扣是常态。
+takeaway: Qualität klar — Preis kommt von GameGulf.
+playStyle: Action, Adventure, Ego-Shooter
+timeCommitment: Mehrstündige Acts + Endlos-Score.
+playMode: Solo-Kampagne + Wellenmodus.
+whyNow: Retro-Hype triggert — GameGulf liefert Daten.
+currentDeal: Tabellenkopf = günstigste Region.
+nearHistoricalLow: Nein — über dem €5,66-Druck.
+salePattern: Zwei starke Rabatte in 12 Monaten.
 priceRecommendation: watch
 quickFilters:
-  - great_on_sale
   - short_sessions
+  - great_on_sale
 playerNeeds:
-  - value_for_money
   - wait_for_sale
+  - value_for_money
 tags:
-  - dusk nintendo switch
-  - dusk worth it
-  - dusk price
-  - gamegulf deals
+  - dusk switch
+  - boomer shooter
+  - gamegulf preise
+playtime: Erste Acts dauern jeweils Stunden.
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Rad + Gyro rettet Handheld.
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Wartet auf EU-Sales.
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: "Quake-Nostalgiker: zugreifen."
     sentiment: positive
 communityMemes:
-  - DUSK sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: DUSK — 88 Metacritic；看个人口味与价格是否同时成立。
+  - Scheunen-Jumpscare
+tldr: >-
+  DUSK — 88 Metacritic; GameGulf steht oft über FR-Tiefstständen — kaufen nur
+  bei Bedarf, sonst warten.
+faq:
+  - question: Lohnt sich DUSK 2026 auf Switch?
+    answer: >-
+      DUSK lohnt sich für Boomer-Shooter-Fans — aber GameGulf belegt
+      französische €5,66-Promos; vergleiche die aktuelle Zeile.
+  - question: Was bringt Switch?
+    answer: >-
+      DUSK — 60 fps, Waffenrad, HD Rumble, Gyro, UI-Pflege, extra Endlos-Karte
+      laut Nintendo; Gyro abschaltbar.
+  - question: Wo Preise?
+    answer: >-
+      DUSK — https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price auf
+      GameGulf.
+heroTheme: brand
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg
 priceRows:
   - regionCode: DE
     eurPrice: 16.66
@@ -110,35 +123,18 @@ cardPriceRegion: Deutschland
 cardPrice: EUR 16.66
 cardPriceNative: €16.66
 cardPriceNativeCurrency: EUR
-faq:
-  - question: Lohnt sich DUSK auf NS2026?
-    answer: >-
-      DUSK 是否值得买取决于你是否喜欢Action, Adventure, First-person, Shooter，以及你在 GameGulf
-      上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is DUSK?
-    answer: >-
-      DUSK — treat runtime as store-listed scope; verify patch notes if you need
-      exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      DUSK — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg
 ---
-## Kurzurteil
+## Kurzfazit
 
-**DUSK** reads as **88 Metacritic**  — **Action, Adventure, First-person** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**DUSK** bleibt **88 Metacritic** auf Switch: **drei Episoden**, Kult-Horror-Action, massives Arsenal plus **Rad/Gyro/Rumble/Endlos-Map** als Switch-Extras.
 
-**Rabatt**-Historie: **historischer Tiefstpreis** um **€5.66** (FR), **2** Bewegungen im Jahr, **Ø Sale-Preis** **€6.16**, letzte größere Bewegung vor **58** Tagen (**2026-02-23 (France, €5.66)**, **2026**). [GameGulf-Livepreis](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price) prüfen.
+**Rabatt**: **€5,66** (**Frankreich**, **2026-02-23**) und **€6,66** (**2025-12-22**), **zwei** große Bewegungen/Jahr, **Promo-Schnitt ~€6,16**, **65** Tage seit dem Tief. Viele **€16,66**-Zeilen schmerzen — **[GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** checken.
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price) so you can sanity-check the **discount** story before checkout.
+Mehr Kontext auf **[gamegulf.com](https://www.gamegulf.com)** und im [Raster](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price).
 
-## Wie viel kostet DUSK auf Nintendo Switch gerade? (Preis)
+## Wie viel kostet DUSK aktuell auf der Switch?
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+Tabelle **GameGulf** folgt — Absatz deckt **Preis**-Checks vs. dein Konto.
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
@@ -152,40 +148,22 @@ coverImage: >-
 | Vereinigte Staaten | EUR 17.10 | $19.99 |
 | Vereinigtes Königreich | EUR 17.12 | £14.89 |
 
-## Was ist DUSK wirklich für ein Spiel?
+## Was für ein Spiel?
 
-**DUSK** is a **Action, Adventure, First-person** package from **David Szymanski** — treat the long store blurb as marketing, but the **genre mix** and **88 Metacritic** signal are the real buying compass.
+**Boomer-Shooter** à la **New Blood**: episodische Kampagne + **Survival**-Score-Jagd. Tempo wie **Quake**, nicht Deckungsshooter.
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+## Technik
 
-## Wie läuft DUSK auf Nintendo Switch?
+**60 fps** Ziel; Gyro optional; Waffenrad Pflichttraining.
 
-**DUSK** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## Kaufen wenn
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+- Du **Retro-FPS** + **88 Metacritic** willst und **GameGulf** gefällt.
 
-## Kaufen, wenn
+## Warten wenn
 
-- You want **Action, Adventure, First-person** pacing and the **88 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- Nur **€5–7** — **€5,66** war **2026-02-23** real.
 
-## Warten, wenn
+## Abschluss
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, First-person) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
-
-## DUSK auf Nintendo Switch — Fazit
-
-**DUSK** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+**DUSK** + **[GameGulf-Preise](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** = saubere Entscheidung.

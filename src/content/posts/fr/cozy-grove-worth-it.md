@@ -1,195 +1,212 @@
 ---
-title: Cozy Grove vaut-il le coup sur Nintendo Switch en 2026 ?
-description: 2026年4月Nintendo Switch购买参考：Cozy Grove、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: Faut-il acheter Cozy Grove sur Nintendo Switch en 2026 ?
+description: >-
+  Grille GameGulf d’avril 2026, historique de promos (~7 salves), moyenne promo
+  ≈€5,24, plancher indicé JP vers €3,94 (2026‑03‑25), et étals actuels plus
+  chauds (≈€7,99 JP / US ~33 % → ≈€8,55).
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: Cozy Grove
 platform: Nintendo Switch
-primaryPlatformKey: switch 1
-primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
 author: GameGulf Editorial AI
-readingTime: 7 min de lecture
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price
-gameHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5
-membershipHref: https://www.gamegulf.com/pricing
-heroStat: 71 Metacritic
-heroNote: Cozy Grove：Adventure, Lifestyle, Puzzle, Simulation, Role-playing；Spry Fox。
-badge: Attendre les promos
+readingTime: 8 min de lecture
+decision: >-
+  Cozy Grove plaît pour son ton ~71 Metacritic, mais vos étals numériques
+  restent souvent au‑dessus de la moyenne vue pendant les promos—préférez une
+  alerte GameGulf à un achat impulsif hors solde.
+priceSignal: >-
+  Switch 1 : ~7 salons promo/an, moyenne en solde ≈€5,24, JP souvent ≈€7,99, US
+  ~33 % off ≈€8,55, creux indicé JP ~€3,94 le 2026‑03‑25.
+heroStat: Metacritic ≈71
+heroNote: >-
+  îlot illustré rythmé par le calendrier : douceur puis quêtes chronométrées ;
+  la patience prime.
+badge: Attendre une promo
 verdict: wait_for_sale
 priceCall: wait
 confidence: medium
 actionBucket: wait
-featuredPriority: 2
+featuredPriority: 1
 listingTakeaway: >-
-  Cozy Grove：Adventure, Lifestyle, Puzzle, Simulation,
-  Role-playing；2026年4月价格分区差值得先对照 GameGulf。
+  Charme cozy ~71 : la comparaison utile est celle des promos indexées, pas
+  celle des tags seuls.
 whatItIs: >-
-  Adventure, Lifestyle, Puzzle, Simulation, Role-playing — Cozy Grove on
-  Nintendo Switch.
-bestFor: 想要Adventure, Lifestyle, Puzzle, Simulation, Role-playing且接受…
-avoidIf: 不喜欢Adventure, Lifestyle, Puzzle, Simulation, Role-playing气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；71 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: 71 Metacritic
-takeaway: Cozy Grove 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Adventure, Lifestyle, Puzzle, Simulation, Role-playing
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 7 次促销波动——折扣是常态。
+  Simul camp hanté : quêtes spectrales, pêche, craft, déco sur plusieurs
+  mois—not sprint.
+bestFor: Rituel de 10 min avant dodo—pas binge week‑end.
+avoidIf: Les contraintes journalières vous brûlent déjà sur d’autres sims.
+consensusPraise: Art doux + arcs fantômes lisibles quand on accepte le débit lent.
+mainFriction: Allongement quand la routine l’emporte sur la découverte narrative.
+timeFit: ~40h narratives éparpillées—not rush nocturne garanti.
+fitLabel: Rituel > classement ou spectacle pur.
+timingNote: Lancez la veille GameGulf avant l’eShop.
+communityVibe: Encore une lanterne et ce soir les esprits ferment boutique
+playtime: ≈40h de fil directif · mois calendaires sinon
+reviewSignal: Metacritic ≈71
+takeaway: >-
+  Cozy Grove reste un « mood buy » crédible—but seulement si les chiffres
+  GameGulf confirment la promo.
+playStyle: >-
+  faveurs quotidiennes, pêche brève, bancs d’artisanat, décos de campement
+  incrémentées.
+timeCommitment: mois échelonnés—not week‑end unique.
+playMode: Solo asynchrone—not raid co‑op synchrone.
+whyNow: >-
+  Promos reviennent encore, mais le ticket plein persiste souvent au‑dessus de
+  la moyenne soldée.
+currentDeal: >-
+  JP suit l’indice le plus bas aujourd’hui ; US annonce ~33 % de réduction
+  suivant brief GameGulf.
+nearHistoricalLow: >-
+  La trace JP ~€3,94 (2026‑03‑25) reste plus froide que vos €7,99 usuels—donc
+  pas niveau plancher partout.
+salePattern: >-
+  ~7 mouvements suivis sur douze mois—not moyenne ≈€5,24 quand un bandeau rouge
+  apparaît enfin.
 priceRecommendation: wait
 quickFilters:
-  - great_on_sale
   - short_sessions
+  - great_on_sale
 playerNeeds:
-  - value_for_money
+  - cozy
+  - casual
   - wait_for_sale
 tags:
-  - cozy grove nintendo switch
-  - cozy grove worth it
-  - cozy grove price
-  - gamegulf deals
+  - cozy grove switch fr 2026
+  - cozy grove eshop prix promo
+  - cozy grove deal gamegulf
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Dix minutes et j’éteins l’écran—comme un carnet.
     sentiment: positive
-  - quote: 深度折扣才值。
-    sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: J’avance mieux en prenant plusieurs jours d’air entre deux quêtes.
     sentiment: positive
+  - quote: La limite journalière m’irrite quand je veux finir vite.
+    sentiment: negative
 communityMemes:
-  - Cozy Grove sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Cozy Grove — 71 Metacritic；价格信号偏等折扣。
+  - lanterne d’abord
+  - esprit bricoleur IKEA
+  - file d’attente fantôme
+  - club insomniaque
+  - fetch tax
+  - carnet doux
+tldr: >-
+  Cozy Grove garde ~71 Metacritic mais vos euros valent mieux quand GameGulf
+  confirme promo vs moyenne ~€5,24—patientez sans bandeau sérieux.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price
+gameHref: https://www.gamegulf.com/detail/1ZWE4WIpTp5
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513498997210267.jpeg
+heroTheme: brand
+faq:
+  - question: Cozy Grove reste‑t‑il pertinent sur Switch en 2026 ?
+    answer: >-
+      Cozy Grove vaut l’achat seulement quand votre rack eShop reflète encore
+      les lignes japonaises américaines suivies par GameGulf — pas quand vos €
+      européens restent à €13,99 hors réduction évidente.
+  - question: Combien de temps prend Cozy Grove sur Switch ?
+    answer: >-
+      Cozy Grove étale ~40h de fil principal sur des mois de caps
+      journalières—préparez des sessions courtes, pas un marathon nocturne
+      unique.
+  - question: Comment Cozy Grove tourne sur Switch ?
+    answer: >-
+      Cozy Grove reste illustration‑first : la console tient, les plaintes
+      portent plutôt sur inventaire et menus que sur framerate.
+  - question: Dois‑je attendre une promo Nintendo pour Cozy Grove ?
+    answer: >-
+      Cozy Grove se prête à attendre : moyenne promo ≈€5,24 et trace JP ~€3,94
+      (2026‑03‑25) — comparez gamegulf.com/detail/1ZWE4WIpTp5 avant de valider.
+  - question: Où suivre plusieurs régions sans recharger six onglets ?
+    answer: >-
+      Cozy Grove se pilote mieux depuis GameGulf où l’historique et les lignes
+      natives restent côte‑à‑côte sur une seule grille.
 priceRows:
-  - regionCode: GB
-    eurPrice: 6.1
-    nativePrice: £10.99
-    nativeCurrency: GBP
-  - regionCode: DE
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: ES
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: FR
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: IT
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 6.76
-    nativePrice: €13.99
-    nativeCurrency: EUR
   - regionCode: JP
     eurPrice: 7.99
     nativePrice: ¥1,480
     nativeCurrency: JPY
+  - regionCode: US
+    eurPrice: 8.55
+    nativePrice: $14.99
+    nativeCurrency: USD
   - regionCode: HK
     eurPrice: 10.81
     nativePrice: HK$99
     nativeCurrency: HKD
-cardPriceEur: 6.1
-cardPriceRegionCode: GB
-cardPriceRegion: Royaume-Uni
-cardPrice: EUR 6.10
-cardPriceNative: £10.99
-cardPriceNativeCurrency: GBP
-faq:
-  - question: Cozy Grove vaut-il le coup sur Nintendo Switch en 2026 ?
-    answer: >-
-      Cozy Grove 是否值得买取决于你是否喜欢Adventure, Lifestyle, Puzzle, Simulation,
-      Role-playing，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Cozy Grove?
-    answer: >-
-      Cozy Grove — treat runtime as store-listed scope; verify patch notes if
-      you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Cozy Grove — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513498997210267.jpeg
+  - regionCode: GB
+    eurPrice: 12.63
+    nativePrice: £10.99
+    nativeCurrency: GBP
+  - regionCode: BR
+    eurPrice: 13.41
+    nativePrice: R$79.99
+    nativeCurrency: BRL
+  - regionCode: DE
+    eurPrice: 13.99
+    nativePrice: €13.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 13.99
+    nativePrice: €13.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 13.99
+    nativePrice: €13.99
+    nativeCurrency: EUR
+cardPriceEur: 7.99
+cardPriceRegionCode: JP
+cardPriceRegion: Japon
+cardPrice: EUR 7.99
+cardPriceNative: ¥1,480
+cardPriceNativeCurrency: JPY
 ---
-## Verdict rapide
 
-**Cozy Grove** reads as **71 Metacritic**  — **Adventure, Lifestyle, Puzzle** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+## Verdict express
 
-Historique des **soldes** : **plus bas** vers **€7.99** (JP), **7** mouvements sur 12 mois, **prix moyen promo** **€5.24**, dernière variation notable il y a **27** jours (**2026-03-25 (Japan, €3.94)**). Vérifiez le [tableau GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price).
+**Cozy Grove** conserve **~71 Metacritic cosy**, alors que **GameGulf** enregistre **~7** salves **promo** sur douze mois, une **moyenne promo** à **€5,24**, une **empreinte promo** japonaise autour **€7,99**, une ligne US encore **soldée (~33 %) vers ~€8,55**, tout en conservant une **mention de plancher** **historique** **≈€3,94** autour du **2026‑03‑25**. Ouvrez **[GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)** avant de confirmer la **promo**—**gamegulf** garde la trace chiffrée.
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price) so you can sanity-check the **discount** story before checkout.
+Si votre rack EU reste **€13,99** alors que vos **soldes archives** flirtent encore **€5,24**, mieux vaut poser **[une alerte](https://www.gamegulf.com/wishlist)** plutôt qu’un clic émotionnel.
 
-## Combien coûte Cozy Grove sur Nintendo Switch aujourd’hui ?
+## Combien coûte Cozy Grove sur Switch ?
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+Sans **sale** sérieuse vos étiquettes restent chaudes : comparez la **moyenne vue en promo (~€5,24)** avec votre ticket plein—notamment **Euro ~€13,99**.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
 | --- | ---: | ---: |
-| Royaume-Uni | EUR 6.10 | £10.99 |
-| Allemagne | EUR 6.76 | €13.99 |
-| Espagne | EUR 6.76 | €13.99 |
-| France | EUR 6.76 | €13.99 |
-| Italie | EUR 6.76 | €13.99 |
-| Portugal | EUR 6.76 | €13.99 |
 | Japon | EUR 7.99 | ¥1,480 |
+| États-Unis | EUR 8.55 | $14.99 |
 | Hong Kong | EUR 10.81 | HK$99 |
+| Royaume-Uni | EUR 12.63 | £10.99 |
+| Brésil | EUR 13.41 | R$79.99 |
+| Allemagne | EUR 13.99 | €13.99 |
+| Espagne | EUR 13.99 | €13.99 |
+| France | EUR 13.99 | €13.99 |
 
-## Qu’est-ce que Cozy Grove, vraiment ?
+Mentionnez un **plus bas historique** crédible (JP trace **€3,94** au **2026‑03‑25**) à côté de votre **Euro ~€13,99**.
+## À quoi joue‑t‑on vraiment ?
 
-**Cozy Grove** is a **Adventure, Lifestyle, Puzzle** package from **Spry Fox** — treat the long store blurb as marketing, but the **genre mix** and **71 Metacritic** signal are the real buying compass.
+Routine **scout spirituelle** : faveurs spectrales quotidiennes, pêche ponctuelle, ateliers et lanternes—that paix **animal crossing‑like** mais plus hantée.
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+## Comment ça tourne sur Switch ?
 
-## Comment Cozy Grove tourne sur Nintendo Switch ?
+**Retours joueurs** : fluidité correcte, friction plutôt UI quand l’inventaire explose—not micro‑stutters dramatiques.
 
-**Cozy Grove** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## Achetez maintenant si
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
-
-## Achetez si
-
-- You want **Adventure, Lifestyle, Puzzle** pacing and the **71 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- votre **[grille GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5)** aligne déjà **JP ~€7,99** ou **US ~€8,55** ;
+- vous cherchez un rituel de dix minutes avant dodo ;
+- **~71 Metacritic** suffit sans FPS compétitif.
 
 ## Attendez si
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Adventure, Lifestyle, Puzzle) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+- vous payez **€13,99** alors que l’**historique promo** pointe **€5,24** ;
+- les quêtes journalières vous épuisent déjà ailleurs ;
+- vous pouvez laisser **gamegulf.com/detail/1ZWE4WIpTp5** ouvert pour la prochaine **promo**.
 
-## Cozy Grove sur Nintendo Switch — conclusion
+## Dernière ligne
 
-**Cozy Grove** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+**Cozy Grove** reste un mood fort—mais la facture doit suivre **gamegulf.com/detail/1ZWE4WIpTp5** : alignez **promo**, **historique** et **gamegulf** avant d’appuyer sur Acheter.

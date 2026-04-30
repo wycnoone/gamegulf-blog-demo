@@ -104,7 +104,7 @@ async function main() {
 
       execFileSync('node', cmdArgs, {
         stdio: 'inherit',
-        timeout: 30_000,
+        timeout: 120_000,
       });
 
       results.success.push(url);

@@ -1,91 +1,93 @@
 ---
-title: 2026年、Nintendo Switchで『Celeste』は買い？
-description: 2026年4月Nintendo Switch购买参考：Celeste、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: 2026年、Nintendo Switch版『セレステ』は買うべき？
+description: >-
+  2026年4月時点の購入メモ。『セレステ』はMetacritic約92の精密ピクセルアクション。
+  EU一部のフラッシュセールと、日本／米国のヘッドライン価格差をGameGulfの指数で整理。
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: Celeste
+gameTitle: セレステ
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 読了約7分
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price
-gameHref: https://www.gamegulf.com/detail/83uNBGDNnOl
-membershipHref: https://www.gamegulf.com/pricing
-heroStat: Metacritic 92点台
-heroNote: >-
-  Celeste：Adventure, Platformer, Action；Maddy Makes Games Inc., Extremely OK
-  Games, Ltd.。
-badge: 今が買い時
+readingTime: 8 分
+decision: 好みが合えば名作確定——イタリア／ポルトガル行は指数上€4.99級のセールも、日本や米は高いヘッドラインに留まりやすい。
+priceSignal: 「Switch版の値段」という一言に騙されるな——アカウント地域でテーブルが変わる。
+heroStat: Metacritic 92
+heroNote: セレステ — ジャンプ／空中ダッシュ／壁張り付き／アシストモード／デス回数前提の試練チャプター。
+badge: 今買い
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: Celeste：Adventure, Platformer, Action；2026年4月价格分区差值得先对照 GameGulf。
-whatItIs: Adventure, Platformer, Action — Celeste on Nintendo Switch.
-bestFor: 想要Adventure, Platformer, Action且接受掌机体量的人。
-avoidIf: 不喜欢Adventure, Platformer, Action气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；Metacritic 92点台 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: Metacritic 92点台
-takeaway: Celeste 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Adventure, Platformer, Action
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 0 次促销波动——折扣是常态。
+listingTakeaway: セレステ：MC約92の山登り名作；EUフラッシュ級の行がある一方、リスト価格行は別物というブリーフ。
+whatItIs: ストーリーを軸にした精密プラットフォーマー。収集とB面が別ゲーム級。
+bestFor: 繰り返し死んで学ぶタイプのアクション好き。
+avoidIf: オープンワールド探索だけを求めるなら不向き。
+consensusPraise: アシストで物語だけ見る道も用意されている。
+mainFriction: B面とフェアウェルは容赦がない——覚悟の別カテゴリ。
+timeFit: 主線だけでも一晩以上。フェアウェルを足すと一気に伸びる。
+fitLabel: リトライをプレイとして受け止められる人向け。
+timingNote: EUセール終了は日付で動くので、決済前にGameGulfを開き直せ。
+communityVibe: 「もう一丁」が止まらないジャンプ苦行。
+playtime: おおよそ メイン約8時間 · 追加約15時間+ · 全クリ約39時間帯
+reviewSignal: Metacritic 92
+takeaway: 『セレステ』の良さは揺らがない——2026年の論点は、EUのセール行使か日本／米ヘッドラインを払うかの二択に近い。
+playStyle: 精密プラットフォーム、アシスト調整可能、サイドチャプター収録。
+timeCommitment: 携帯のスキマ運転には向くが、フェアウェルは週末ブロック狙いが現実的。
+playMode: シングルプレイのみ。
+whyNow: Switch版の評判は長期安定している——残るノイズは主に難易度と価格帯。
+currentDeal: GameGulfブリーフではイタリア／ポルトガルが約€4.99、日本は¥クラス、アメリカは$級の並び。
+nearHistoricalLow: メタデータでは「世界安」の棚が薄いが、現在の論点はEUフラッシュ級と日米ヘッドラインの差にある。
+salePattern: 過去12ヶ月のカウント値は0イベントのブリーフもある——生きた価格行を優先せよ。
 priceRecommendation: buy
 quickFilters:
-  - great_on_sale
+  - rarely_discounted
   - short_sessions
+  - great_on_sale
 playerNeeds:
-  - value_for_money
   - buy_now
+  - value_for_money
 tags:
-  - celeste nintendo switch
-  - celeste worth it
-  - celeste price
-  - gamegulf deals
+  - セレステ switch
+  - celeste switch 買い時
+  - gamegulf セール
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: アシストで山の話だけ見られた。
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Farewell が本丸だった。
     sentiment: mixed
-  - quote: 購入前に自分のリージョンの価格を確認してください。
+  - quote: B面で自分の癖が見えた。
     sentiment: positive
 communityMemes:
-  - Celeste sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Celeste — Metacritic 92点台；价格信号偏买入（口味要对）。
+  - メデリン二重設定
+  - ダッシュ癖
+  - いちご地獄
+  - Farewell残業
+tldr: セレステ — MC約92。EUフラッシュ級の行がある一方、日本・米ヘッドラインは高いケースあり。まずはGameGulfで自分のアカウントを照合。
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price
+gameHref: https://www.gamegulf.com/detail/83uNBGDNnOl
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212464511024.jpeg
+heroTheme: brand
 priceRows:
-  - regionCode: BR
-    eurPrice: 2.51
-    nativePrice: R$59.99
-    nativeCurrency: BRL
   - regionCode: IT
     eurPrice: 4.99
-    nativePrice: €19.99
+    nativePrice: €4.99
     nativeCurrency: EUR
   - regionCode: PT
     eurPrice: 4.99
-    nativePrice: €19.99
+    nativePrice: €4.99
     nativeCurrency: EUR
+  - regionCode: BR
+    eurPrice: 10.06
+    nativePrice: R$59.99
+    nativeCurrency: BRL
   - regionCode: JP
     eurPrice: 11.67
     nativePrice: ¥2,160
@@ -98,96 +100,67 @@ priceRows:
     eurPrice: 19.99
     nativePrice: €19.99
     nativeCurrency: EUR
-  - regionCode: ES
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: FR
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-cardPriceEur: 2.51
-cardPriceRegionCode: BR
-cardPriceRegion: ブラジル
-cardPrice: JPY 470
-cardPriceNative: R$59.99
-cardPriceNativeCurrency: BRL
+  - regionCode: GB
+    eurPrice: 20.68
+    nativePrice: £17.99
+    nativeCurrency: GBP
+cardPriceEur: 4.99
+cardPriceRegionCode: IT
+cardPriceRegion: イタリア
+cardPrice: JPY 933
+cardPriceNative: €4.99
+cardPriceNativeCurrency: EUR
 faq:
-  - question: 2026年、Nintendo Switchで『Celeste』は買い？
+  - question: 2026年、Switch版『セレステ』は買うべき？
     answer: >-
-      Celeste 是否值得买取决于你是否喜欢Adventure, Platformer, Action，以及你在 GameGulf
-      上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Celeste?
-    answer: >-
-      Celeste — treat runtime as store-listed scope; verify patch notes if you
-      need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Celeste — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517212464511024.jpeg
+      セレステは精密ジャンプが好きで、Metacritic約92級の名作体験を欲するなら2026年も買い候補——ただしGameGulfの指数は、EUフラッシュ級の値と日本・米ヘッドラインを並べて笑うので、決済は自分のアカウント地域のライブ表示で確定させてください。
+  - question: セレステのプレイ時間は？
+    answer: セレステ — メインだけならひと桁後半〜10時間級を目安に。ベリー収集やB面、Farewell級を足すと一気に倍々。100%視点なら桁が変わる。
+  - question: 『セレステ』でつまずきやすい点は？
+    answer: セレステ —空ダッシュと壁張りの微修正がすべて。アシストを使ってもB面級は別ゲーム。死の回数をストレスとして扱えない人は不向きです。
 ---
-## 結論
 
-**Celeste** reads as **Metacritic 92点台**  — **Adventure, Platformer, Action** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+## クイック判定
 
-**セール**履歴：**最安値**は **€2.51** 付近（表参照）、直近1年で **0** 回の動き、**平均セール価格**は **€2.51**、直近の大きめの動きから **—** 日（**2026 tracker window (cheapest indexed row €2.51)**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)で最新行を確認してください。
+**『セレステ』**が**約Metacritic 92**を維持するのは、**ミス即リトライ前提の部屋構成**が、ナラティブと**ゲームプレイ評価**を同じ山に載せているからだ。**GameGulf**では**EUの一部サーバーが€4.99級**の**フラッシュ値**となりつつ**日本¥2,160前後クラス／米ドルヘッドライン**との**並びが残酷**になる。**gamegulf.com**の **[地域グリッド](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** を自分の環境と突き合わせてほしい——**wishlist は [wishlist](https://www.gamegulf.com/wishlist) 、より長期的な検知には [pricing](https://www.gamegulf.com/pricing)** が役立つ。
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price) so you can sanity-check the **discount** story before checkout.
+## Nintendo Switch版『セレステ』はいくら？
 
-## 『Celeste』はNintendo Switchでいまいくら？
-
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**リスト価格とセール実行価が同一ではない**。下の表は**priceRows**起点だが、**GameGulf**の**[詳細ページ](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** が最終防壁。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ブラジル | JPY 469 | R$59.99 |
-| イタリア | JPY 932 | €19.99 |
-| ポルトガル | JPY 932 | €19.99 |
-| 日本 | JPY 2180 | ¥2,160 |
-| アメリカ合衆国 | JPY 3194 | $19.99 |
-| ドイツ | JPY 3734 | €19.99 |
-| スペイン | JPY 3734 | €19.99 |
-| フランス | JPY 3734 | €19.99 |
+| イタリア | JPY 933 | €4.99 |
+| ポルトガル | JPY 933 | €4.99 |
+| ブラジル | JPY 1882 | R$59.99 |
+| 日本 | JPY 2183 | ¥2,160 |
+| アメリカ合衆国 | JPY 3199 | $19.99 |
+| ドイツ | JPY 3739 | €19.99 |
+| イギリス | JPY 3868 | £17.99 |
 
-## 『Celeste』はどんなゲーム？
+**履歴ウィンドウ（索引・2026年4月現在）:** ブリーフは 12ヶ月の **discount_events_1y = 0** を示唆する一方で、EU では **セール**/**最安値**帯として **約 €4.99（イタリア）** の行があり、対照的に日本は **約 ¥2,160**。口伝より **ゲーム側の行データ** と **discount** メタ読みを両方確認せよ——生の **sale** 価だけがチェックアウトを決める。
 
-**Celeste** is a **Adventure, Platformer, Action** package from **Maddy Makes Games Inc., Extremely OK Games, Ltd.** — treat the long store blurb as marketing, but the **genre mix** and **Metacritic 92点台** signal are the real buying compass.
+## どんなゲーム？
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+**Matt Makes Games / Extremely OK Games**の**高密度ピクセルマウンテニアリング**。**ホロウナイト級のマップ広さ**とは設計哲学が別で、本作は**1画面1ルート問題**への執念がメイン。**Ori系の能力ロック**でもなく**純プラ**。
 
-## 『Celeste』のNintendo Switch動作は？
+1. **マデリン**：装備増殖より読み込み増殖。**空中ダッシュ**の角度が人格。
+2. **アシスト**：速度無敵調整。**物語だけ**読みたい人を排除しないための機能。
+3. **フェアウェル**：**「チャプター」のはずがない長さ**。クリアだけなら許すが、収集視点では覚悟。
 
-**Celeste** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## Switchでの動き
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+**60fps**前提の入力。**Joy-Conでも可**だが、**対角ダッシュ**は**Proコン／携帯**が安定しやすい。**プレイヤー報告ベースでは壊滅的ポーティングとは言われにくい**。**gamegulf.com**で行価だけ先に読むのは、アクション適性とは別次元の問題だとしても妥当。
 
-## いま買うなら
+## 今買い向き
 
-- You want **Adventure, Platformer, Action** pacing and the **Metacritic 92点台** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- **EUセール級の自分アカウントが既にある**。**死にゲー**耐性もある。**GameGulf**の行がそのまま自分のチェックアウトに並ぶとき。
 
-## 待つなら
+## 様子見／お買い得待ち向き
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Adventure, Platformer, Action) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+- **日本／米リスト価だけ**しか取れなくて、**フラッシュ級を待っている**規律派。**GameGulf**のアラームを活用。
 
-## 『Celeste』(Nintendo Switch)の最後に
+## まとめ
 
-**Celeste** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+**『セレステ』は「合う／合わない」が極端に分岐する名作**。**gamegulf.com** と **GameGulf** が示す多国価は、その分岐線をより露骨にするだけ——**自分のタイプと自分の決済ペアだけ**確かめて。

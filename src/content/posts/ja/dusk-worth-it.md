@@ -1,8 +1,8 @@
 ---
-title: 2026年、Nintendo Switchで『DUSK』は買い？
-description: 2026年4月Nintendo Switch购买参考：DUSK、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: 2026年、Switch版『DUSK』は買いか？
+description: 2026年4月末。Metacritic 88帯、GameGulfのフランス深セール履歴。
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: DUSK
 platform: Nintendo Switch
@@ -10,67 +10,74 @@ primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 読了約7分
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+readingTime: 8分で読める
+decision: ブーマーFPS好きなら買い筋。価格はセール待ち推奨。
+priceSignal: GameGulfは€5.66（FR,2026-02-23）。現行EUは€16.66帯が多い。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price
 gameHref: https://www.gamegulf.com/detail/2DnaPGYGeNp
 membershipHref: https://www.gamegulf.com/pricing
-heroStat: Metacritic 88点台
-heroNote: DUSK：Action, Adventure, First-person, Shooter；David Szymanski。
-badge: 好み次第
+heroStat: Metacritic 88前後
+heroNote: 3エピソード復古FPS—ホイール、ジャイロ、HD振動、エンドレス追加。
+badge: 好みが合う人向け
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: DUSK：Action, Adventure, First-person, Shooter；2026年4月价格分区差值得先对照 GameGulf。
-whatItIs: Action, Adventure, First-person, Shooter — DUSK on Nintendo Switch.
-bestFor: 想要Action, Adventure, First-person, Shooter且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, First-person, Shooter气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；Metacritic 88点台 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
-reviewSignal: Metacritic 88点台
-takeaway: DUSK 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Action, Adventure, First-person, Shooter
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 2 次促销波动——折扣是常态。
+listingTakeaway: DUSK Metacritic約88／FRが€5.66(2026-02)の索引最安値対比で現行は高い。
+whatItIs: ブーマーシューター—三幕戦役＋サバイバル、Switch 60fps強化。
+bestFor: Quake系テンポとカルトホラーが好きな人。
+avoidIf: 現代カバー志向なら無理に買わない。
+consensusPraise: Metacritic帯と評価は一致しがち；ステージ設計が軸。
+mainFriction: ジャイロが嫌なら設定オフ推奨。
+timeFit: エピソード制—夜の塊時間向け。
+fitLabel: GameGulfで仏セールを見た人向け。
+timingNote: 深セールは年に数回レベル。
+communityVibe: Switch 60fpsでブーマー快楽
+reviewSignal: Metacritic 88前後
+takeaway: 品質は確定、値段はGameGulf次第。
+playStyle: アクション／FPS
+timeCommitment: 章ごと数時間＋エンドレス。
+playMode: シングル中心＋エンドレス。
+whyNow: まずGameGulfで行況確認。
+currentDeal: 表上位が安いリージョン。
+nearHistoricalLow: いいえ—€5.66仏セールより上。
+salePattern: 直近1年で大きな値下げ2回。
 priceRecommendation: watch
 quickFilters:
-  - great_on_sale
   - short_sessions
+  - great_on_sale
 playerNeeds:
-  - value_for_money
   - wait_for_sale
+  - value_for_money
 tags:
-  - dusk nintendo switch
-  - dusk worth it
-  - dusk price
-  - gamegulf deals
+  - dusk switch
+  - boomer shooter
+  - gamegulf 価格
+playtime: 初見なら章あたり数時間規模。
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: ホイール＋ジャイロが最高。
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: 定価帯は待て。
     sentiment: mixed
-  - quote: 購入前に自分のリージョンの価格を確認してください。
+  - quote: Quake肌には必須。
     sentiment: positive
 communityMemes:
-  - DUSK sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: DUSK — Metacritic 88点台；看个人口味与价格是否同时成立。
+  - 農家ジャンプスケア
+  - 鎌メタ
+  - エンドレス周回
+tldr: DUSK — Metacritic約88。GameGulfでは2026年春の行が仏最安値より高め—今欲しいなら買い、節約ならアラート。
+faq:
+  - question: 2026年、Switch版は買いか？
+    answer: DUSKはブーマーFPSが好きなら買い。ただしGameGulfでフランス€5.66級の事実があるため、最新行を見てから。
+  - question: Switch版の目玉は？
+    answer: DUSK — 60fps、武器ホイール、HD振動、ジャイロ、UI改善、追加エンドレスなどが任天堂表記ベース；ジャイロは設定で。
+  - question: 価格確認は？
+    answer: DUSK — https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price
+heroTheme: brand
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg
 priceRows:
   - regionCode: DE
     eurPrice: 16.66
@@ -107,85 +114,57 @@ priceRows:
 cardPriceEur: 16.66
 cardPriceRegionCode: DE
 cardPriceRegion: ドイツ
-cardPrice: JPY 3112
+cardPrice: JPY 3116
 cardPriceNative: €16.66
 cardPriceNativeCurrency: EUR
-faq:
-  - question: 2026年、Nintendo Switchで『DUSK』は買い？
-    answer: >-
-      DUSK 是否值得买取决于你是否喜欢Action, Adventure, First-person, Shooter，以及你在 GameGulf
-      上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is DUSK?
-    answer: >-
-      DUSK — treat runtime as store-listed scope; verify patch notes if you need
-      exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      DUSK — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg
 ---
-## 結論
+## 結論ファースト
 
-**DUSK** reads as **Metacritic 88点台**  — **Action, Adventure, First-person** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**DUSK**は **Metacritic 88前後**の **ブーマー系シングルFPS** として依然強い：**三章エピソード**、カルト・ホラー演出、**高速撃ち合い**が核。**Switch**版は **60fps** 目標に **武器ホイール**、**ジャイロ**、**HD振動**、**新エンドレス** と改善一式が乗るのがセールスポイントです。
 
-**セール**履歴：**最安値**は **€5.66** 付近（FR）、直近1年で **2** 回の動き、**平均セール価格**は **€6.16**、直近の大きめの動きから **58** 日（**2026-02-23 (France, €5.66)**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)で最新行を確認してください。
+**セール**データ：**索引最安値**は **€5.66（フランス、2026-02-23）**、併せて **€6.66（フランス、2025-12-22）** の記録、直近1年は **2** 回の大きな値下げ、**セール平均** **€6.16**、最後の深 **セール** から **65** 日。多くの **EU** 行は **€16.66** —— **[GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** を再確認してください。
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price) so you can sanity-check the **discount** story before checkout.
+**GameGulf** の[ボード](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)を押さえると、思い出税を減らせます。
 
-## 『DUSK』はNintendo Switchでいまいくら？
+## Switch版の価格は？
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+下表は **GameGulf** 同期です。[gamegulf.com](https://www.gamegulf.com) で最終確認を。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ドイツ | JPY 3112 | €16.66 |
-| スペイン | JPY 3112 | €16.66 |
-| フランス | JPY 3112 | €16.66 |
-| イタリア | JPY 3112 | €16.66 |
-| ポルトガル | JPY 3112 | €16.66 |
-| ブラジル | JPY 3194 | R$101.95 |
-| アメリカ合衆国 | JPY 3194 | $19.99 |
-| イギリス | JPY 3198 | £14.89 |
+| ドイツ | JPY 3116 | €16.66 |
+| スペイン | JPY 3116 | €16.66 |
+| フランス | JPY 3116 | €16.66 |
+| イタリア | JPY 3116 | €16.66 |
+| ポルトガル | JPY 3116 | €16.66 |
+| ブラジル | JPY 3199 | R$101.95 |
+| アメリカ合衆国 | JPY 3199 | $19.99 |
+| イギリス | JPY 3202 | £14.89 |
 
-## 『DUSK』はどんなゲーム？
+## どんなゲーム？
 
-**DUSK** is a **Action, Adventure, First-person** package from **David Szymanski** — treat the long store blurb as marketing, but the **genre mix** and **Metacritic 88点台** signal are the real buying compass.
+**New Blood** 流の90年代型 **シングルFPS**。**Quake** に近い勢いで広いマップを走り、武器ギミック多め。**エンドレス**は波状スコアアタック。
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+1. **戦闘** — カバーより移動。
+2. **Switch差分** — ホイール／ジャイロ／振動／追加ステージは具体リスト。
+3. **雰囲気** — ホラー寄りカルト。
 
-## 『DUSK』のNintendo Switch動作は？
+## 動作・操作
 
-**DUSK** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
-
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+**60fps** 前提。**ジャイロ**が苦手ならオフ。**ホイール**の習熟が快適度を左右。
 
 ## いま買うなら
 
-- You want **Action, Adventure, First-person** pacing and the **Metacritic 88点台** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- **ブーマーFPS** × **88 Metacritic** が一致。
+- **GameGulf** 行が許容ライン — [再チェック](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)。
+- **携帯ジャイロ**をむしろ楽しむ。
 
 ## 待つなら
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, First-person) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+- **€5〜7**帯しか払いたくない（**2026-02-23** の事実あり）。
+- **PC Mod** が本命。
 
-## 『DUSK』(Nintendo Switch)の最後に
+## まとめ
 
-**DUSK** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+作品は明瞭、価格は **GameGulf**。**[価格ページ](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** と **gamegulf.com** で次の **セール**まで見張れます。

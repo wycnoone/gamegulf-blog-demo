@@ -2,7 +2,7 @@
 title: Lohnt sich Figment 2026 auf der Nintendo Switch?
 description: >-
   April 2026: ~75 Metacritic, musikalisches Kopf-Abenteuer, indexierte Preise
-  nahe historischen Tiefen, HLTB, Kaufprofile.
+  nahe historischen Tiefen, , Kaufprofile.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -34,13 +34,13 @@ bestFor: Kurz-Indies, bei denen der Soundtrack die Hauptrolle spielt.
 avoidIf: Du willst Souls-Härte oder 40 h RPG.
 consensusPraise: Kunst, Musik-als-Welt, Boss-Duetts charmant.
 mainFriction: Kampf bleibt simpel — Deckel bei Erkundung/Rätsel.
-timeFit: HLTB ~5/6/7 h.
+timeFit:  ~5/6/7 h.
 fitLabel: Spielbares Konzeptalbum.
 timingNote: >-
   Wenn dein Konto die Japan-Promo trifft, ist es meist Geschmack — Live-Zeile
   prüfen.
 communityVibe: Boss-Ohrwürmer, cozy Albtraum, Piper-Meme
-playtime: 5h · 6h+ · ~7h (HLTB)
+playtime: 5h · 6h+ · ~7h
 reviewSignal: 75 Metacritic
 takeaway: >-
   Figment ist ein leichter Impulskauf, wenn der Index am Boden klebt — bestätige
@@ -93,7 +93,7 @@ faq:
       Abenteuer mit leichtem Kampf willst. April 2026 zeigt weiter aggressive
       Promos — prüfe GameGulf vor dem Kauf.
   - question: Wie lang ist Figment?
-    answer: Figment liegt laut HLTB bei ~5 h Story, ~6 h Extras, ~7 h Completion.
+    answer: Figment liegt laut  bei ~5 h Story, ~6 h Extras, ~7 h Completion.
   - question: Für Kinder?
     answer: >-
       Figment rahmt Albträume metaphorisch mit Cartoon-Kampf — manche Bosse
@@ -146,20 +146,19 @@ cardPrice: EUR 0.54
 cardPriceNative: ¥2,200
 cardPriceNativeCurrency: JPY
 ---
+## Kurzfazit
 
-## Kurzurteil
+**Figment** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **75 Metacritic**.
 
-**Figment ~75 Metacritic** — **Dusty/Piper**, **singende Bosse**, **gemalte Welten**. **HLTB 5/6/7 h**.
+Figment ist ein leichter Impulskauf, wenn der Index am Boden klebt — bestätige deinen eShop.
 
-April 2026: **Japan ~0,54 €**, **sieben** Rabattfenster, **Sale-Schnitt ~0,77 €** — **nahe historischem Tief**. [Live-Tabelle](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
+Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €0.54.
 
-**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) gegen deine Region halten.
 
-## Wie viel kostet Figment auf der Switch — Preis und Rabatt
+## Was kostet Figment auf Nintendo Switch aktuell?
 
-**Rabatt-Historie**: tiefstes Band = aktuelle Promo, **Durchschnitt ~0,77 €**, letzter großer Move **vor 18 Tagen** (**Japan**, **20. März 2026**, **~45 %**). **Warten** riskiert **MSRP**.
-
-
+Figment ist ein leichter Impulskauf, wenn der Index am Boden klebt — bestätige deinen eShop.
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 0.54 | ¥2,200 |
@@ -171,24 +170,34 @@ April 2026: **Japan ~0,54 €**, **sieben** Rabattfenster, **Sale-Schnitt ~0,77 
 | Frankreich | EUR 19.99 | €19.99 |
 | Italien | EUR 19.99 | €19.99 |
 
-## Was für ein Spiel?
+## Was ist Figment fuer ein Spiel?
 
-Iso-Action mit **Musik als Mechanik** — Inseln, Uhrwerk-Stadt, Pfade, **Albträume** mit Song-Angriffen.
+Genre-Kern: **Isometrisch, Rätsel, Musik-Setpieces, Ängste im Gehirn.**. Entscheidend ist weniger Marketingtext, sondern ob diese Struktur zu deinem Geschmack passt.
 
-## Switch?
+## Wie laeuft Figment auf Nintendo Switch?
 
-**Bescheiden stabil** — kein 60-fps-Spektakel nötig.
+In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweisen abgleichen.
 
-## Kaufen wenn
+- Laufverhalten: solide Basis, je nach Version leichte Unterschiede.
+- Steuerung/Lesbarkeit: standardnah, Handheld-Lesbarkeit projektabhaengig.
+- Modus-Hinweis: Singleplayer.
 
-Du **5–7 h** Musikwillst, **Promo-Zeile** sitzt, **Whimsy** passt.
+## Jetzt kaufen, wenn
 
-## Warten wenn
+- du mit **Isometrisch, Rätsel, Musik-Setpieces, Ängste im Gehirn.** grundsaetzlich gut klarkommst
+- dein Regionspreis auf GameGulf im Zielkorridor liegt
+- du zeitnah starten willst statt auf den naechsten Sale zu warten
+- dir der Umfang passt: ~5 h Story, ~6 h Extras, ~7 h Completion.
 
-Tiefer Kampf Pflicht, **19,99 €** ohne Promo, PC-Kopie nur am Tiefstpreis.
+## Warten, wenn
 
-## Fazit
+- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Genre-Fit unsicher ist
+- Budget derzeit fuer andere Titel reserviert ist
+- Du willst Souls-Härte oder 40 h RPG.
 
-**Figment** gewinnt, wenn der **Index** am **Boden** klebt.
+## Abschluss
 
-**Schau auf GameGulf** und sicher dir die **Promo**, wenn die Zeile passt.
+Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Tiefe Promos wiederholt — zuschlagen vor MSRP-Rückkehr.
+
+Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** und entscheide dann Buy-now vs Wait.

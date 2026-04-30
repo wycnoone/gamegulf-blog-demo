@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/70tkQPwVGp",
     "game_id": "70tkQPwVGp",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf"
@@ -63,7 +63,7 @@
       "discount_price": 14.84,
       "discount_rate": 70,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "discount_end": "3 days",
       "release_date": "2022-10-21",
       "categories": [
         "Role-playing"
@@ -92,11 +92,11 @@
       "title": "ウィンドボーンコンクリートジャングル",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505568597416180.jpeg",
       "metacritic": null,
-      "price": 4.54,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "14 days",
       "release_date": "2025-04-10",
       "categories": [
         "Simulation",

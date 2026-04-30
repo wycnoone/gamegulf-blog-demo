@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/5RjBiFrKel",
     "game_id": "5RjBiFrKel",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -162,15 +162,7 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-03-24",
-              "country_code": "JP",
-              "value": 7.99,
-              "currency": "EUR",
-              "country": "Japan"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
@@ -421,10 +413,10 @@
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510764485213018.jpeg",
       "metacritic": null,
       "price": 9.56,
-      "discount_price": null,
-      "discount_rate": null,
+      "discount_price": 1.73,
+      "discount_rate": 81,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "3 days",
       "release_date": "2022-10-14",
       "categories": [
         "Action",
@@ -476,7 +468,7 @@
       "discount_price": 33.87,
       "discount_rate": 34,
       "discount_tag": "NewLowPrice",
-      "discount_end": "7 days",
+      "discount_end": "3 days",
       "release_date": "2025-11-14",
       "categories": [
         "Action",
@@ -510,7 +502,7 @@
       "discount_price": 3.95,
       "discount_rate": 80,
       "discount_tag": "LowPrice",
-      "discount_end": "7 days",
+      "discount_end": "3 days",
       "release_date": "2022-09-02",
       "categories": [
         "Fighting",
@@ -565,7 +557,7 @@
       "discount_price": 7.99,
       "discount_rate": 60,
       "discount_tag": "Normal",
-      "discount_end": "22 days",
+      "discount_end": "18 days",
       "release_date": "2022-08-25",
       "categories": [
         "Action",
@@ -587,7 +579,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+      "priceValidUntil": "2026-05-26T19:41:19+00:00"
     },
     {
       "@type": "Offer",
@@ -600,7 +592,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+      "priceValidUntil": "2026-05-26T19:41:19+00:00"
     },
     {
       "@type": "Offer",
@@ -613,7 +605,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+      "priceValidUntil": "2026-05-26T19:41:19+00:00"
     },
     {
       "@type": "Offer",
@@ -626,7 +618,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+      "priceValidUntil": "2026-05-26T19:41:19+00:00"
     },
     {
       "@type": "Offer",
@@ -639,7 +631,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+      "priceValidUntil": "2026-05-26T19:41:19+00:00"
     },
     {
       "@type": "Offer",
@@ -652,7 +644,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+      "priceValidUntil": "2026-05-26T19:41:19+00:00"
     },
     {
       "@type": "Offer",
@@ -665,7 +657,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:38:53+00:00"
+      "priceValidUntil": "2026-05-26T19:41:19+00:00"
     }
   ],
   "price_analytics": {
@@ -728,7 +720,7 @@
           "end": "2026-03-24"
         }
       ],
-      "days_since_last_discount": 29,
+      "days_since_last_discount": 33,
       "last_discount": {
         "date": "2026-03-24",
         "price_eur": 7.99,
@@ -777,8 +769,8 @@
       "genres": [
         "Action"
       ],
-      "steam_price": "$9.59",
-      "total_recommendations": 54024,
+      "steam_price": "¥ 31.68",
+      "total_recommendations": 54116,
       "short_description": "DRAGON BALL FighterZ is born from what makes the DRAGON BALL series so loved and famous: endless spectacular fights with its all-powerful fighters.",
       "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain, Japanese<strong>*</strong>, Korean, Polish, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Spanish - Latin America<br><strong>*</strong>languages with full audio support",
       "platforms": {
@@ -787,9 +779,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 68304,
-        "total_negative": 7201,
-        "total_reviews": 75505,
+        "total_positive": 68412,
+        "total_negative": 7215,
+        "total_reviews": 75627,
         "score_description": "Very Positive",
         "positive_percent": 90
       }

@@ -37,11 +37,11 @@ bestFor: Quem quer densidade em ~2h, não RPG de 30h.
 avoidIf: Evite se luto e morte forem gatilhos hoje — mesmo com desconto.
 consensusPraise: Roteiro, variedade de cenas e storytelling ambiental — elite indie.
 mainFriction: É breve — você paga por qualidade por minuto, não por horas.
-timeFit: HLTB ~2h história, ~3h extras, ~3h completista (agregados).
+timeFit:  ~2h história, ~3h extras, ~3h completista (agregados).
 fitLabel: Para quem prefere duas horas perfeitas a vinte medianas.
 timingNote: Compare €4,99 ES com o piso histórico ~€2,86 BR antes de esperar.
 communityVibe: Clipe do Lewis primeiro; a casa é uma playlist triste—sempre.
-playtime: 2h história · 3h+ extras · ~3h completista (HLTB)
+playtime: 2h história · 3h+ extras · ~3h completista
 reviewSignal: 88 Metacritic
 takeaway: >-
   What Remains of Edith Finch continua compra fácil em oferta para fãs de
@@ -49,7 +49,7 @@ takeaway: >-
 playStyle: >-
   Exploração em primeira pessoa, interações leves, capítulos que mudam de
   gênero.
-timeCommitment: HLTB sugere ~2h na história e ~3h com extras — ideal numa sessão.
+timeCommitment:  sugere ~2h na história e ~3h com extras — ideal numa sessão.
 playMode: Um jogador.
 whyNow: O jogo já é clássico — só muda o preço da sua loja.
 currentDeal: "Abril 2026: Espanha ~€4,99, depois Brasil/Japão/EUA antes do MSRP europeu."
@@ -73,19 +73,16 @@ tags:
   - edith finch preço
 playerVoices:
   - quote: >-
-      A casa Finch é uma mixtape — cada morte troca o gênero, não o nó na garganta
+      A casa Finch é uma mixtape — cada morte troca o gênero, não o nó na
+      garganta
     sentiment: positive
-  - quote: >-
-      Lewis é o clipe que você manda pro amigo — o hype não é só meme
+  - quote: Lewis é o clipe que você manda pro amigo — o hype não é só meme
     sentiment: positive
-  - quote: >-
-      Lindo e desconfortável: luto como espetáculo, não terapia de consultório
+  - quote: "Lindo e desconfortável: luto como espetáculo, não terapia de consultório"
     sentiment: mixed
-  - quote: >-
-      Duas horas com mais mordida que epílogos de RPG de 60 horas
+  - quote: Duas horas com mais mordida que epílogos de RPG de 60 horas
     sentiment: positive
-  - quote: >-
-      Quem vem por loot e loop vai achar vazio — é canhão narrativo, não farm
+  - quote: Quem vem por loot e loop vai achar vazio — é canhão narrativo, não farm
     sentiment: negative
 communityMemes:
   - Rei das latas
@@ -112,7 +109,7 @@ faq:
   - question: Quanto tempo leva?
     answer: >-
       What Remains of Edith Finch leva cerca de 2h na história e ~3h com extras
-      segundo o HLTB — ideal para uma noite só.
+      segundo o  — ideal para uma noite só.
   - question: Como roda no Switch?
     answer: >-
       What Remains of Edith Finch é pouco exigente — descrições comuns falam
@@ -165,18 +162,19 @@ cardPrice: EUR 4.99
 cardPriceNative: €4.99
 cardPriceNativeCurrency: EUR
 ---
+## Veredito rapido
 
-## Veredito rápido
+**What Remains of Edith Finch** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **88 Metacritic**.
 
-**What Remains of Edith Finch segue sendo referência de narrativa indie curta** — **~88 Metacritic**, **~2h HLTB**. **Abril 2026** indexa **Espanha ~€4,99** numa **promoção** forte **abaixo** do **preço médio em promoção (~€5,58)**, mas **não** atinge o **menor preço histórico** (~**€2,86**, **Brasil**, **14 abril 2025**).
+What Remains of Edith Finch continua compra fácil em oferta para fãs de história — a promo ES é forte mas não é o piso absoluto do tracker.
 
-**Nove descontos** no ano e **quatro dias** desde a última queda — se o alvo é **só absoluto**, você caça **outlier**. Use o [rastreamento multi-região da GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) para **sua** conta.
+Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €4.99.
 
-**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price).
 
-## Quanto custa What Remains of Edith Finch no Switch?
+## Quanto custa What Remains of Edith Finch no Nintendo Switch agora?
 
-**O índice começa em Espanha ~€4,99 e sobe para Brasil, Japão e EUA antes dos MSRP europeus.**
+What Remains of Edith Finch continua compra fácil em oferta para fãs de história — a promo ES é forte mas não é o piso absoluto do tracker.
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |
@@ -190,35 +188,34 @@ cardPriceNativeCurrency: EUR
 | Itália | EUR 19.99 | €19.99 |
 | Reino Unido | EUR 20.65 | £17.99 |
 
-O **menor preço histórico** continua **abaixo** de **€4,99**, mas **hoje** ainda vence a **média** de **promoções** — **oferta** sólida, não **mínimo absoluto**.
+## Que tipo de jogo e What Remains of Edith Finch?
 
-## Que tipo de jogo é?
+Nucleo de genero: **Aventura narrativa em primeira pessoa: casa Finch, vinhetas, ritmo Giant Sparrow**. O ponto principal e se esse loop combina contigo.
 
-**Antologia em primeira pessoa onde cada morte muda o gênero sem perder o fio emocional.**
+## Como What Remains of Edith Finch roda no Nintendo Switch?
 
-1. **A casa como menu** — cada quarto é um capítulo.
-2. **Variedade** — fotografia, fábrica, sonho ilustrado…
-3. **Duração** — **~2h** assumidas: densidade > horas.
+No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 
-## Como roda no Switch?
+- Desempenho: base estavel, com variacoes por build.
+- Controles/leitura: esquema padrao, legibilidade portatil depende do conteudo.
+- Modo: Um jogador.
 
-**Exploração lenta, baixa carga — ótimo para portátil numa noite.**
+## Comprar agora se
 
-- **Portátil:** texto legível, sessão curta.
-- **Dock:** mais detalhe nos interiores.
-- **Desempenho:** costuma ser **estável**, não é jogo de ação.
+- voce curte **Quem quer densidade em ~2h, não RPG de 30h.**
+- teu preco regional no GameGulf ja entrou na faixa-alvo
+- voce quer jogar ja, sem esperar outra janela de desconto
+- o ritmo te atende: HLTB sugere ~2h na história e ~3h com extras — ideal numa sessão.
 
-## Compre agora se
+## Esperar se
 
-- Você quer **88 Metacritic** em **~2h**.
-- **Sua linha** mostra **€4,99** ou **desconto** equivalente.
-- **Temas de luto** cabem no seu momento.
-
-## Espere se
-
-- Só aceita o **piso histórico brasileiro**.
-- O **tema** te afeta — **preço** não resolve.
+- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- teu encaixe com o genero esta incerto
+- teu orcamento do mes esta reservado para outros jogos
+- Evite se luto e morte forem gatilhos hoje — mesmo com desconto.
 
 ## Fechamento
 
-**What Remains of Edith Finch compra duas horas perfeitas** — se **sua** **promoção** bate, **compre**. Se **só** o **mínimo histórico** importa, **alerta** e espere a próxima **promoção**.
+Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao MSRP.
+
+Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)** e decide compra vs espera.

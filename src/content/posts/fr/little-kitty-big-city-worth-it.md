@@ -150,18 +150,19 @@ cardPrice: EUR 14.99
 cardPriceNative: €14.99
 cardPriceNativeCurrency: EUR
 ---
-
 ## Verdict rapide
 
-**Little Kitty, Big City est un oui facile si le profil colle** : signal **78 Metacritic**, contrôles simples, boucle pensée pour des sessions courtes.
+**Little Kitty, Big City** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **78 Metacritic**.
 
-Côté prix, ce n’est **pas** le plancher historique : l’index montre **~14,99 € en Espagne**, alors que le **plus bas tracé** est **~11,35 € (Japon, 18/08/2025)**. Achète si le ton te parle ; attends si ta règle est « uniquement le plancher ».
+Little Kitty, Big City se recommande vite si le ton te parle ; le prix est défendable, mais pas le plancher absolu.
 
-**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €14.99.
 
-## Combien coûte Little Kitty, Big City sur Switch ?
+Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price).
 
-**L’index démarre vers ~14,99 € en Espagne, puis monte selon les régions sur ce snapshot.**
+## Combien coute Little Kitty, Big City sur Nintendo Switch maintenant?
+
+Little Kitty, Big City se recommande vite si le ton te parle ; le prix est défendable, mais pas le plancher absolu.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -175,32 +176,34 @@ Côté prix, ce n’est **pas** le plancher historique : l’index montre **~14,
 | France | EUR 24.99 | €24.99 |
 | Italie | EUR 24.99 | €24.99 |
 
-L’historique est **plutôt occasionnel** : ~**2** promos sur l’année, prix moyen promo ~**17,75 €**, plancher **~11,35 €**. Traduction : défendable pour le plaisir, logique d’attendre si tu es ultra-prudent.
+## Quel type de jeu est Little Kitty, Big City?
 
-**Plus bas historique** indexé autour de **11,35 €** au Japon le **18/08/2025** ; les **promo** récentes restent rares, ce qui cadre avec une logique d’achat au feeling plutôt qu’au rabais maximal.
+Noyau de genre: **Exploration urbaine en chat : quêtes légères, déplacements, chapeaux**. Le point cle reste l'adaptation a tes preferences, pas le texte marketing.
 
-## Quel genre de jeu, vraiment ?
+## Comment tourne Little Kitty, Big City sur Nintendo Switch?
 
-**C’est du traversal + petites bêtises, pas un bac à sable systémique.** Tu lis une ville, tu fais des petites missions, tu récupères des chapeaux, tu improvises toits et ruelles.
+Globalement jouable de facon stable; valide toujours avec la version la plus recente.
 
-Le point fort : une tonalité claire, objectifs nets, peu de punition — la progression vient de la curiosité.
+- Performance: base stable, ecarts possibles selon build.
+- Controle/lisibilite: schema standard, lisibilite portable selon contenu.
+- Mode: Solo.
 
-## Comment ça tourne sur Switch ?
+## Acheter maintenant si
 
-**Aligné avec un jeu « basse pression » : lisibilité + caméra + déplacement.** Les retours joueurs sont globalement bons.
+- tu apprecies **Chill en sessions courtes — pas un RPG long.**
+- ton prix regional sur GameGulf est deja dans ta zone cible
+- tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
+- le format te convient: Campagne compacte ; le temps monte en bricolant les extras et les chapeaux.
 
-Pas besoin de fenêtres de frame parfaites : la stabilité prime.
+## Attendre si
 
-## Acheter maintenant ou attendre ?
+- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ton fit de genre est incertain
+- ton budget du mois est reserve a d'autres titres
+- Tu veux du combat profond ou une courbe de progression longue.
 
-**Achète si :**
-- tu veux du cosy court et ta ligne est proche des leaders indexés ;
-- tu privilégies ambiance et déplacement plutôt que combat profond.
+## Conclusion
 
-**Attends si :**
-- tu n’achètes qu’au plancher historique ;
-- tu hésites avec un jeu plus dense pour le même budget.
+Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. Promos occasionnelles : ~2 événements sur l’année, prix moyen promo ~17,75 €.
 
-## Recommandation finale
-
-**Little Kitty, Big City est un bon choix pour « décompresser maintenant ».** Les alertes GameGulf restent pertinentes, mais le plancher historique a déjà existé en dessous du prix actuel.
+Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price)** puis tranche achat vs attente.

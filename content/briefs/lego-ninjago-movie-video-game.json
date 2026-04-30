@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
     "game_id": "1nZVjVdHDZ1",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -41,61 +41,25 @@
           "country_code": "JP",
           "country": "Japan",
           "price": 30.89,
-          "discount_price": 2.16,
-          "discount_rate": 93,
-          "discount_end": "2026-04-22 14:59:59",
-          "discount_end_timestamp": 1776869999,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 2.16
+          "calculate_value": 30.89
         },
         {
           "country_code": "HK",
           "country": "Hong Kong SAR China",
           "price": 34.08,
-          "discount_price": 2.29,
-          "discount_rate": 93,
-          "discount_end": "2026-04-22 15:59:59",
-          "discount_end_timestamp": 1776873599,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 2.29
-        },
-        {
-          "country_code": "ES",
-          "country": "Spain",
-          "price": 59.99,
-          "discount_price": 4.19,
-          "discount_rate": 93,
-          "discount_end": "2026-04-22 21:59:59",
-          "discount_end_timestamp": 1776895199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 4.19
-        },
-        {
-          "country_code": "IT",
-          "country": "Italy",
-          "price": 59.99,
-          "discount_price": 4.19,
-          "discount_rate": 93,
-          "discount_end": "2026-04-22 21:59:59",
-          "discount_end_timestamp": 1776895199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 4.19
-        },
-        {
-          "country_code": "PT",
-          "country": "Portugal",
-          "price": 59.99,
-          "discount_price": 4.19,
-          "discount_rate": 93,
-          "discount_end": "2026-04-22 22:59:59",
-          "discount_end_timestamp": 1776898799,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 4.19
+          "calculate_value": 34.08
         },
         {
           "country_code": "BR",
@@ -146,8 +110,44 @@
           "calculate_value": 59.99
         },
         {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
           "country_code": "FR",
           "country": "France",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 59.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 59.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
           "price": 59.99,
           "discount_price": null,
           "discount_rate": null,
@@ -162,7 +162,15 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": []
+          "entries": [
+            {
+              "date": "2026-04-29",
+              "country_code": "BR",
+              "value": 41.92,
+              "currency": "EUR",
+              "country": "Brazil"
+            }
+          ]
         },
         {
           "period": "180 D",
@@ -208,6 +216,13 @@
               "value": 59.99,
               "currency": "EUR",
               "country": "Spain"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "BR",
+              "value": 41.92,
+              "currency": "EUR",
+              "country": "Brazil"
             }
           ]
         },
@@ -283,6 +298,13 @@
               "value": 59.99,
               "currency": "EUR",
               "country": "Spain"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "BR",
+              "value": 41.92,
+              "currency": "EUR",
+              "country": "Brazil"
             }
           ]
         }
@@ -296,7 +318,7 @@
         {
           "platform": "Nintendo Switch 1",
           "country_code": "JP",
-          "value": 2.16,
+          "value": 30.89,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -432,11 +454,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -455,7 +477,7 @@
       "discount_price": 3.95,
       "discount_rate": 80,
       "discount_tag": "LowPrice",
-      "discount_end": "8 days",
+      "discount_end": "11 hr",
       "release_date": "2022-09-02",
       "categories": [
         "Fighting",
@@ -469,12 +491,12 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 19.99,
-      "discount_price": 2.99,
-      "discount_rate": 85,
+      "price": 10.8,
+      "discount_price": null,
+      "discount_rate": null,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
-      "release_date": "2020-07-24",
+      "discount_end": "",
+      "release_date": "2020-11-19",
       "categories": [
         "Action",
         "Adventure",
@@ -497,7 +519,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:27:06+00:00"
+      "priceValidUntil": "2026-05-29T19:10:15+00:00"
     },
     {
       "@type": "Offer",
@@ -510,7 +532,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:27:06+00:00"
+      "priceValidUntil": "2026-05-29T19:10:15+00:00"
     },
     {
       "@type": "Offer",
@@ -523,7 +545,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:27:06+00:00"
+      "priceValidUntil": "2026-05-29T19:10:15+00:00"
     },
     {
       "@type": "Offer",
@@ -536,7 +558,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:27:06+00:00"
+      "priceValidUntil": "2026-05-29T19:10:15+00:00"
     },
     {
       "@type": "Offer",
@@ -549,7 +571,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:27:06+00:00"
+      "priceValidUntil": "2026-05-29T19:10:15+00:00"
     },
     {
       "@type": "Offer",
@@ -562,7 +584,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:27:06+00:00"
+      "priceValidUntil": "2026-05-29T19:10:15+00:00"
     },
     {
       "@type": "Offer",
@@ -575,18 +597,18 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:27:06+00:00"
+      "priceValidUntil": "2026-05-29T19:10:15+00:00"
     }
   ],
   "price_analytics": {
     "switch 1": {
       "current_cheapest": {
-        "price_eur": 2.16,
+        "price_eur": 30.89,
         "region": "Japan",
         "country_code": "JP"
       },
       "global_low": {
-        "price_eur": 2.16,
+        "price_eur": 30.89,
         "region": "JP",
         "type": "Digital"
       },
@@ -601,19 +623,36 @@
         "country": "Brazil",
         "date": "2025-09-19"
       },
-      "at_or_near_historical_low": true,
-      "discount_events_1y": 5,
-      "avg_discount_price_eur": 14.28,
-      "sale_periods": [],
-      "days_since_last_discount": 67,
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 6,
+      "avg_discount_price_eur": 18.88,
+      "sale_periods": [
+        {
+          "start": "2025-07-20",
+          "end": "2025-07-20"
+        },
+        {
+          "start": "2025-09-19",
+          "end": "2025-09-19"
+        },
+        {
+          "start": "2025-12-30",
+          "end": "2025-12-30"
+        },
+        {
+          "start": "2026-02-13",
+          "end": "2026-02-13"
+        }
+      ],
+      "days_since_last_discount": 0,
       "last_discount": {
-        "date": "2026-02-13",
-        "price_eur": 2.16,
-        "region": "Japan",
-        "drop_pct": 93
+        "date": "2026-04-29",
+        "price_eur": 41.92,
+        "region": "Brazil",
+        "drop_pct": 30
       },
-      "trend_entries_count": 10,
-      "price_verdict": "at_historical_low"
+      "trend_entries_count": 11,
+      "price_verdict": "regular_discounter"
     }
   },
   "product_links": {
@@ -654,8 +693,8 @@
       "genres": [
         "Action"
       ],
-      "steam_price": "200.000₫",
-      "total_recommendations": 1767,
+      "steam_price": "¥ 70.00",
+      "total_recommendations": 1777,
       "short_description": "Find your inner ninja with the all-new LEGO NINJAGO Movie Video Game! Play as your favorite ninjas to defend Ninjago from the evil Lord Garmadon. Master the art of Ninjagility by wall-running and high-jumping, and battle foes to rank up and upgrade the ninja's combat skills.",
       "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Spanish - Spain<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Arabic, Danish, Dutch, Korean, Polish<strong>*</strong>, Russian, Traditional Chinese<br><strong>*</strong>languages with full audio support",
       "platforms": {
@@ -664,9 +703,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 6689,
-        "total_negative": 1160,
-        "total_reviews": 7849,
+        "total_positive": 6705,
+        "total_negative": 1166,
+        "total_reviews": 7871,
         "score_description": "Very Positive",
         "positive_percent": 85
       }

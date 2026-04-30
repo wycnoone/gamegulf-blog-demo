@@ -1,7 +1,7 @@
 ---
 title: INSIDE auf der Switch — jetzt kaufen oder auf den nächsten Sale warten?
 description: >-
-  April 2026 Kaufberatung: ~91 Metacritic, indexierte eShop-Preisn, häufige
+  April 2026 Kaufberatung: ~91 Metacritic, indexierte eShop-Preise, häufige
   Rabatt-Historie vs Listenpreis, wann kaufen oder nächsten Drop tracken.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -12,7 +12,7 @@ author: GameGulf Editorial AI
 readingTime: 8 Min. Lesezeit
 decision: >-
   Wenn der Preis zählt, warten — Listen liegen weit über der verfolgten
-  durchschnittlichen Sale-Bande. Nur sofort kaufen, wenn du Playdeads
+  durchschnittlichen Sale-Band. Nur sofort kaufen, wenn du Playdeads
   Puzzle-Platformer heute willst und deine Region ein akzeptabler Ausreißer ist.
 priceSignal: >-
   April 2026 führt Brasilien ~12,28 € äquivalent; Historie Japan ~1,25 € in 2025
@@ -30,14 +30,14 @@ featuredPriority: 2
 listingTakeaway: Indie-Klassiker ~91 — Sales häufig; Listenpreis selten der kluge Move.
 whatItIs: Wortloses Puzzle-Platformer — Stealth, Umwelträtsel, Kino-Tempo.
 bestFor: Kurzer Autoren-Thriller ohne Füllmaterial.
-avoidIf: Du brauchst Dialog, RPG-Loops oder Sonnencomfort.
+avoidIf: Du brauchst Dialog, RPG-Progression oder ein deutlich leichteres Spielg…
 consensusPraise: Atmosphäre, Sound, One-Sitting-Pacing sehr sicher.
 mainFriction: Trial-and-Error im Dunkeln, wenn du das nicht magst.
-timeFit: Kompakt — oft ~3–5 h (nicht HLTB).
+timeFit: Kompakt — oft ~3–5 h (nicht ).
 fitLabel: Indie wie Film mit Controller.
 timingNote: Vergleiche mit Brasilien-Anker und Japan-Historie ~1,25 € vor Listenkauf.
 communityVibe: Limbo-DNA, Spoiler-Mauer, Kopfhörer-Kult
-playtime: ~3–5 h (Schätzungen; nicht HLTB)
+playtime: ~3–5 h (Schätzungen; nicht )
 reviewSignal: 91 Metacritic
 takeaway: >-
   INSIDE ist Pflicht für Stimmungs-Fans — zahle keinen Touristen-Listenpreis,
@@ -82,9 +82,7 @@ communityMemes:
   - Limbo-Erwartung
   - Spoiler-Wand
   - Finale-Diskurs
-tldr: >-
-  INSIDE — ~91 Metacritic Playdead; April-2026-Listen >> häufige Sale-Historie —
-  warten außer du brauchst es heute Nacht.
+tldr: "INSIDE — ~91 Metacritic Playdead; April-2026-Listen >> häufige Sale-Historie — warten außer du brauchst es heute Nacht."
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price
 gameHref: https://www.gamegulf.com/detail/2GhXVp3lBzO
@@ -95,7 +93,7 @@ faq:
   - question: INSIDE auf der Switch jetzt oder Sale warten?
     answer: >-
       INSIDE ist meist Warten: April-2026-Listen liegen über der verfolgten
-      Sale-Bande und tieferen Historie — prüfe GameGulf vor dem Listenpreis.
+      Sale-Band und der tieferen Historie — prüfe GameGulf vor dem Listenpreis.
   - question: Wie lang ist INSIDE?
     answer: >-
       INSIDE endet oft in einer Session — ~3 bis 5 Stunden je nach Puzzle-Tempo,
@@ -152,20 +150,19 @@ cardPrice: EUR 12.28
 cardPriceNative: R$72.99
 cardPriceNativeCurrency: BRL
 ---
+## Kurzfazit
 
-## Kurzurteil
+**INSIDE** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **91 Metacritic**.
 
-**INSIDE ist ein Playdead-Puzzle-Thriller ~91 Metacritic** — **wortloser Stealth, Physikrätsel, diskutiertes Finale**. Laufzeit **~3–5 h** : du kaufst **Stimmung und Handwerk**.
+INSIDE ist Pflicht für Stimmungs-Fans — zahle keinen Touristen-Listenpreis, wenn die nächste Sale-Welle ohnehin kommt.
 
-April-2026-Spannung: **Brasilien ~12,28 € äquivalent** führt, doch die Historie zeigt **Japan-Tief ~1,25 € am 17. April 2025**, **sieben** Rabatt-Ereignisse, **Sale-Schnitt ~3,77 €**. Ohne Not **warten**. [Live-Tabelle](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) prüfen.
+Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €12.28.
 
-**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) gegen deine Region halten.
 
-## Wie viel kostet INSIDE auf der Switch — Preis und Rabatt jetzt
+## Was kostet INSIDE auf Nintendo Switch aktuell?
 
-**Der Index April 2026 startet mit Brasilien ~12,28 € äquivalent (R$72,99).**
-
-
+INSIDE ist Pflicht für Stimmungs-Fans — zahle keinen Touristen-Listenpreis, wenn die nächste Sale-Welle ohnehin kommt.
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Brasilien | EUR 12.28 | R$72.99 |
@@ -177,46 +174,34 @@ April-2026-Spannung: **Brasilien ~12,28 € äquivalent** führt, doch die Histo
 | Frankreich | EUR 22.99 | €22.99 |
 | Italien | EUR 22.99 | €22.99 |
 
-**Rabatt-Historie** dominiert: **tiefstes bekanntes ~1,25 €** (**Japan**, **17. April 2025**), **Listen 2026** liegen weit über **Sale-Band ~3,77 €**. Letzter Eintrag **vor 5 Tagen** (**Hongkong**, **2. April 2026**, **~28 %**). **INSIDE** wird **oft reduziert** — **Listenpreis** altert schlecht.
+## Was ist INSIDE fuer ein Spiel?
 
-## Was für ein Spiel?
+Genre-Kern: **Side-Scroller, Physik, Stealth, linear ohne Sprache.**. Entscheidend ist weniger Marketingtext, sondern ob diese Struktur zu deinem Geschmack passt.
 
-**Side-Scroller-Thriller: Rätsel und Verfolgung statt Cutscenes** — Licht, Kisten, Physik.
+## Wie laeuft INSIDE auf Nintendo Switch?
 
-1. **Stealth-Vignetten** — neue Templates ohne Skill-Bloat.
-2. **Umgebungsstory** — Audio-Mix trägt Spannung.
-3. **Kurz & dicht** — jede Szene zählt.
+In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweisen abgleichen.
 
-**LIMBO**-Fans: gleiches **taktiles Gewicht**, klarere SF-Kante.
-
-## Auf der Switch?
-
-**~30 fps** — Silhouetten schlagen UI.
-
-- **Handheld:** Kontrast ok; Helligkeit ehrlich halten.
-- **Dock:** Lichtfeinheiten; Performance wie erwartet.
-- **Steuerung:** simpel, kein Zwangsgyro.
-
-**Museum-Port**, kein Pfusch.
+- Laufverhalten: solide Basis, je nach Version leichte Unterschiede.
+- Steuerung/Lesbarkeit: standardnah, Handheld-Lesbarkeit projektabhaengig.
+- Modus-Hinweis: Singleplayer.
 
 ## Jetzt kaufen, wenn
 
-- Du **Playdead heute Nacht** willst
-- **Deine Zeile** schon ein **Sale** ist, das reicht
-- **91 Metacritic** > Euro-Arbitrage
-- **3–5 h** passen in die Woche
-- **Kopfhörer** sind dabei
+- du mit **Side-Scroller, Physik, Stealth, linear ohne Sprache.** grundsaetzlich gut klarkommst
+- dein Regionspreis auf GameGulf im Zielkorridor liegt
+- du zeitnah starten willst statt auf den naechsten Sale zu warten
+- dir der Umfang passt: Ein Abend oder ein langer Nachmittag für die meisten.
 
 ## Warten, wenn
 
-- **eShop ~22–23 €** trotz **1–4 €** in der **Sale**-Historie
-- Du den nächsten **Rabatt** abwarten kannst
-- Switch-Kopie nur am **Tiefstpreis**
-- Kind-in-Gefahr-Thema ist **Nein**
-- Du **Replay-Systeme** willst — hier **linear**
+- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Genre-Fit unsicher ist
+- Budget derzeit fuer andere Titel reserviert ist
+- Du brauchst Dialog, RPG-Progression oder ein deutlich leichteres Spielgefühl.
 
-## Fazit
+## Abschluss
 
-**INSIDE ist Pflicht für Mood-Pieces** — April-2026-**Listenpreis** ist optionale Eiltax.
+Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Rabattfenster häufig — tiefe Cuts, dann Rebound zu Standardlisten.
 
-**Schau einmal auf GameGulf**, setz ein Ziel und kauf, wenn **deine** Zeile endlich zur **Sale**-Story passt.
+Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)** und entscheide dann Buy-now vs Wait.

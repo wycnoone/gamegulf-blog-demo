@@ -10,21 +10,25 @@
 
 ### 游戏覆盖统计
 
-| 状态 | 游戏数量 | 游戏名称 |
-|------|---------|---------|
+
+| 状态        | 游戏数量 | 游戏名称                                                                                                                                               |
+| --------- | ---- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ✅ 完整 7 语言 | 11 款 | 13 Sentinels, Animal Crossing, Figment, Hades, INSIDE, Mario Kart 8, Metroid Dread, Persona 5 Royal, Pikmin 4, Super Mario Bros Wonder, Zelda TOTK |
-| ❌ 仅 2 语言 | 2 款 | Ori and the Will of the Wisps, Tetris Effect: Connected |
+| ❌ 仅 2 语言  | 2 款  | Ori and the Will of the Wisps, Tetris Effect: Connected                                                                                            |
+
 
 ### 规范符合度（英文版抽样）
 
-| 游戏 | 验证状态 | 主要问题 |
-|------|---------|---------|
-| 13 Sentinels | ✅ PASS | - |
-| Ori | ✅ PASS | - |
-| Figment | ❌ FAIL | 价格表格、字符限制 |
-| Hades | ❌ FAIL | 价格表格、折扣历史分析 |
-| Persona 5 Royal | ❌ FAIL | 价格表格、区域名称 |
-| Tetris Effect | ❌ FAIL | 价格表格、字符限制 |
+
+| 游戏              | 验证状态   | 主要问题        |
+| --------------- | ------ | ----------- |
+| 13 Sentinels    | ✅ PASS | -           |
+| Ori             | ✅ PASS | -           |
+| Figment         | ❌ FAIL | 价格表格、字符限制   |
+| Hades           | ❌ FAIL | 价格表格、折扣历史分析 |
+| Persona 5 Royal | ❌ FAIL | 价格表格、区域名称   |
+| Tetris Effect   | ❌ FAIL | 价格表格、字符限制   |
+
 
 **结论：** 即使有 7 个语言版本，大部分旧文章也不符合新规范。
 
@@ -54,10 +58,12 @@
 ### Phase 1：补充缺失语言（优先级：高）
 
 **目标游戏：** 2 款
+
 - Ori and the Will of the Wisps (9t3j1FNGEAF)
 - Tetris Effect: Connected (6Rq3jqh8KUa)
 
 **任务：**
+
 1. 生成 ja, fr, es, de, pt 五个语言版本
 2. 运行验证器
 3. 修复错误
@@ -71,12 +77,14 @@
 ### Phase 2：修复旧文章规范（优先级：中）
 
 **目标游戏：** 4 款（抽样验证失败的）
+
 - Figment
 - Hades
 - Persona 5 Royal
 - 其他验证失败的游戏
 
 **任务：**
+
 1. 运行 `sync-price-tables.mjs` 修复价格表格
 2. 运行 `auto-fix-char-limits.mjs` 修复字符限制
 3. 手动添加折扣历史分析（如缺失）
@@ -92,6 +100,7 @@
 **目标：** 所有 13 款游戏
 
 **任务：**
+
 1. 运行完整验证：`node scripts/validate-article.mjs src/content/posts/*/*.md`
 2. 生成验证报告
 3. 修复剩余问题
@@ -134,19 +143,19 @@ sessions_spawn --mode session --label "phase3-validation"
 
 ### 每款游戏必须通过
 
-- [ ] 7 个语言版本存在
-- [ ] 验证器 PASS（无 ERROR）
-- [ ] 价格表格正确（与 priceRows 匹配）
-- [ ] 字符限制合规（HARD 字段不超标）
-- [ ] 折扣历史分析完整（≥2 个关键词）
-- [ ] 无阿根廷区域引用
-- [ ] 构建成功
+- 7 个语言版本存在
+- 验证器 PASS（无 ERROR）
+- 价格表格正确（与 priceRows 匹配）
+- 字符限制合规（HARD 字段不超标）
+- 折扣历史分析完整（≥2 个关键词）
+- 无阿根廷区域引用
+- 构建成功
 
 ### 队列同步
 
-- [ ] `game-queue.json` 包含所有游戏
-- [ ] 状态正确（done/in_progress/pending）
-- [ ] 无重复条目
+- `game-queue.json` 包含所有游戏
+- 状态正确（done/in_progress/pending）
+- 无重复条目
 
 ---
 
@@ -155,6 +164,7 @@ sessions_spawn --mode session --label "phase3-validation"
 ### 审核报告
 
 **内容：**
+
 1. 执行摘要（完成的游戏数量、通过率）
 2. 问题汇总（验证错误类型及修复情况）
 3. 性能统计（构建时间、页面数量）
@@ -166,6 +176,7 @@ sessions_spawn --mode session --label "phase3-validation"
 ### 验证报告
 
 **生成命令：**
+
 ```bash
 node scripts/validate-article.mjs src/content/posts/*/*.md > docs/validation-report.json
 ```
@@ -176,23 +187,27 @@ node scripts/validate-article.mjs src/content/posts/*/*.md > docs/validation-rep
 
 ## ⏱️ 时间预估
 
-| Phase | 预计时间 | 最坏情况 |
-|-------|---------|---------|
-| Phase 1 | 30 分钟 | 1 小时 |
-| Phase 2 | 1 小时 | 2 小时 |
-| Phase 3 | 30 分钟 | 1 小时 |
-| **总计** | **2 小时** | **4 小时** |
+
+| Phase   | 预计时间     | 最坏情况     |
+| ------- | -------- | -------- |
+| Phase 1 | 30 分钟    | 1 小时     |
+| Phase 2 | 1 小时     | 2 小时     |
+| Phase 3 | 30 分钟    | 1 小时     |
+| **总计**  | **2 小时** | **4 小时** |
+
 
 ---
 
 ## ⚠️ 风险评估
 
-| 风险 | 概率 | 影响 | 缓解措施 |
-|------|------|------|---------|
-| 验证器误报 | 低 | 中 | 人工复核错误信息 |
-| 并发会话冲突 | 中 | 低 | 限制最大并发数 |
-| 构建失败 | 低 | 高 | 每阶段完成后测试构建 |
-| 数据丢失 | 极低 | 高 | 操作前备份关键文件 |
+
+| 风险     | 概率  | 影响  | 缓解措施       |
+| ------ | --- | --- | ---------- |
+| 验证器误报  | 低   | 中   | 人工复核错误信息   |
+| 并发会话冲突 | 中   | 低   | 限制最大并发数    |
+| 构建失败   | 低   | 高   | 每阶段完成后测试构建 |
+| 数据丢失   | 极低  | 高   | 操作前备份关键文件  |
+
 
 ---
 
@@ -219,4 +234,4 @@ node scripts/validate-article.mjs src/content/posts/*/*.md > docs/validation-rep
 
 ---
 
-_Last updated: 2026-04-07 00:30_
+*Last updated: 2026-04-07 00:30*

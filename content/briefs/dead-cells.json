@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2LVqzRzPbY4",
     "game_id": "2LVqzRzPbY4",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -28,7 +27,7 @@
       "Adventure"
     ],
     "release_date": "2018-08-07",
-    "developer": "Motion Twin",
+    "developer": null,
     "publisher": "Motion Twin",
     "metacritic": 89
   },
@@ -51,18 +50,6 @@
           "calculate_value": 8.38
         },
         {
-          "country_code": "HK",
-          "country": "Hong Kong SAR China",
-          "price": 20.64,
-          "discount_price": 10.27,
-          "discount_rate": 50,
-          "discount_end": "2026-04-22 15:59:59",
-          "discount_end_timestamp": 1776873599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 10.27
-        },
-        {
           "country_code": "JP",
           "country": "Japan",
           "price": 13.39,
@@ -73,6 +60,18 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 13.39
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 20.64,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.64
         },
         {
           "country_code": "US",
@@ -168,13 +167,6 @@
         {
           "period": "180 D",
           "entries": [
-            {
-              "date": "2025-10-28",
-              "country_code": "BR",
-              "value": 16.76,
-              "currency": "EUR",
-              "country": "Brazil"
-            },
             {
               "date": "2025-10-31",
               "country_code": "JP",
@@ -393,6 +385,23 @@
       "url": "https://www.gamegulf.com/detail/euD5mWwSxHi"
     },
     {
+      "id": "gfGJG7ujGgc",
+      "title": "Dead Dust",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513416531210380.jpeg",
+      "metacritic": null,
+      "price": 4.27,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-04-23",
+      "categories": [
+        "Action",
+        "Shooter"
+      ],
+      "url": "https://www.gamegulf.com/detail/gfGJG7ujGgc"
+    },
+    {
       "id": "kBnesYZdAVL",
       "title": "Dead Ground",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513854125016796.jpeg",
@@ -409,25 +418,6 @@
         "Shooter"
       ],
       "url": "https://www.gamegulf.com/detail/kBnesYZdAVL"
-    },
-    {
-      "id": "hGuDm3dncQA",
-      "title": "HALF DEAD",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514713220618773.jpeg",
-      "metacritic": null,
-      "price": 4.27,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2020-06-12",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Other",
-        "Puzzle"
-      ],
-      "url": "https://www.gamegulf.com/detail/hGuDm3dncQA"
     },
     {
       "id": "jOmK3pCLzXJ",
@@ -491,12 +481,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "2 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -518,7 +508,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:22:10+00:00"
+      "priceValidUntil": "2026-05-26T17:20:41+00:00"
     },
     {
       "@type": "Offer",
@@ -531,7 +521,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:22:10+00:00"
+      "priceValidUntil": "2026-05-26T17:20:41+00:00"
     },
     {
       "@type": "Offer",
@@ -544,7 +534,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:22:10+00:00"
+      "priceValidUntil": "2026-05-26T17:20:41+00:00"
     },
     {
       "@type": "Offer",
@@ -557,7 +547,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:22:10+00:00"
+      "priceValidUntil": "2026-05-26T17:20:41+00:00"
     },
     {
       "@type": "Offer",
@@ -570,7 +560,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:22:10+00:00"
+      "priceValidUntil": "2026-05-26T17:20:41+00:00"
     },
     {
       "@type": "Offer",
@@ -583,7 +573,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:22:10+00:00"
+      "priceValidUntil": "2026-05-26T17:20:41+00:00"
     },
     {
       "@type": "Offer",
@@ -596,7 +586,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:22:10+00:00"
+      "priceValidUntil": "2026-05-26T17:20:41+00:00"
     }
   ],
   "price_analytics": {
@@ -639,7 +629,7 @@
           "end": "2026-02-19"
         }
       ],
-      "days_since_last_discount": 61,
+      "days_since_last_discount": 66,
       "last_discount": {
         "date": "2026-02-19",
         "price_eur": 6.7,
@@ -657,51 +647,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 588650,
-      "name": "Dead Cells",
-      "developer": [
-        "Motion Twin"
-      ],
-      "publisher": [
-        "Motion Twin"
-      ],
-      "metacritic_score": 89,
-      "metacritic_url": "https://www.metacritic.com/game/pc/dead-cells?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Workshop",
-        "Steam Cloud",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "steam_price": "$12.49",
-      "total_recommendations": 152805,
-      "short_description": "Dead Cells is a roguelite, metroidvania inspired, action-platformer. You'll explore a sprawling, ever-changing castle... assuming you’re able to fight your way past its keepers in 2D souls-lite combat. No checkpoints. Kill, die, learn, repeat.",
-      "supported_languages": "English<strong>*</strong>, French<strong>*</strong>, Simplified Chinese<strong>*</strong>, Italian<strong>*</strong>, German<strong>*</strong>, Spanish - Spain<strong>*</strong>, Japanese<strong>*</strong>, Portuguese - Portugal<strong>*</strong>, Russian<strong>*</strong>, Turkish<strong>*</strong>, Korean<strong>*</strong>, Traditional Chinese<strong>*</strong>, Portuguese - Brazil<strong>*</strong>, Spanish - Latin America<strong>*</strong>, Polish<strong>*</strong><br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 174001,
-        "total_negative": 5294,
-        "total_reviews": 179295,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 97
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

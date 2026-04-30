@@ -10,8 +10,9 @@ type TopicCardGridProps = {
 };
 
 export function TopicCardGrid({ cards, locale }: TopicCardGridProps) {
-  const featured = cards.slice(0, Math.min(2, cards.length));
-  const grid = cards.slice(featured.length);
+  const featured = cards.filter((card) => card.featuredPriority < 999).slice(0, 2);
+  const featuredIds = new Set(featured.map((card) => card.id));
+  const grid = cards.filter((card) => !featuredIds.has(card.id));
 
   if (cards.length === 0) {
     return (
@@ -23,19 +24,21 @@ export function TopicCardGrid({ cards, locale }: TopicCardGridProps) {
 
   return (
     <>
-      <section className="decision-featured-section section-block">
-        <div className="section-head">
-          <div>
-            <h2>{t(locale, 'topic.topPicks')}</h2>
-            <p>{t(locale, 'topic.topPicksDesc')}</p>
+      {featured.length > 0 && (
+        <section className="decision-featured-section section-block">
+          <div className="section-head">
+            <div>
+              <h2>{t(locale, 'topic.topPicks')}</h2>
+              <p>{t(locale, 'topic.topPicksDesc')}</p>
+            </div>
           </div>
-        </div>
-        <div className="decision-featured-grid-v2">
-          {featured.map((card) => (
-            <DecisionFeaturedCardV2 key={card.id} card={card} />
-          ))}
-        </div>
-      </section>
+          <div className="decision-featured-grid-v2">
+            {featured.map((card) => (
+              <DecisionFeaturedCardV2 key={card.id} card={card} />
+            ))}
+          </div>
+        </section>
+      )}
 
       {grid.length > 0 && (
         <section className="decision-grid-section section-block">

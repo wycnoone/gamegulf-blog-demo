@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/1CCpYjfshVH",
     "game_id": "1CCpYjfshVH",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf"
@@ -85,18 +85,6 @@
           "calculate_value": 1.99
         },
         {
-          "country_code": "BR",
-          "country": "Brazil",
-          "price": 8.54,
-          "discount_price": 2.01,
-          "discount_rate": 76,
-          "discount_end": "2026-04-22 06:59:59",
-          "discount_end_timestamp": 1776841199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 2.01
-        },
-        {
           "country_code": "GB",
           "country": "United Kingdom",
           "price": 10.33,
@@ -107,6 +95,18 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 2.06
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 8.54,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.54
         },
         {
           "country_code": "US",
@@ -138,13 +138,6 @@
         {
           "period": "30 D",
           "entries": [
-            {
-              "date": "2026-03-23",
-              "country_code": "BR",
-              "value": 8.54,
-              "currency": "EUR",
-              "country": "Brazil"
-            },
             {
               "date": "2026-04-02",
               "country_code": "FR",
@@ -346,11 +339,11 @@
       "title": "Morbid: The Seven Acolytes",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513985688914871.jpeg",
       "metacritic": null,
-      "price": 13.88,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 24.99,
+      "discount_price": 3.74,
+      "discount_rate": 85,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2020-12-03",
       "categories": [
         "Action",
@@ -383,11 +376,11 @@
       "title": "Cast of the Seven Godsends",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517066043616901.jpeg",
       "metacritic": 54,
-      "price": 11.11,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 11.48,
+      "discount_price": 1.71,
+      "discount_rate": 85,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2018-05-03",
       "categories": [
         "Adventure",
@@ -417,12 +410,12 @@
       "title": "Romancing SaGa 2: Revenge of the Seven",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613687994019423.jpeg",
       "metacritic": null,
-      "price": 24.67,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2024-10-24",
+      "price": 36.83,
+      "discount_price": 18.42,
+      "discount_rate": 50,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "6 days",
+      "release_date": "2025-07-31",
       "categories": [
         "Role-playing"
       ],
@@ -489,12 +482,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "2 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -516,7 +509,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:26:31+00:00"
+      "priceValidUntil": "2026-05-29T19:07:44+00:00"
     },
     {
       "@type": "Offer",
@@ -529,7 +522,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:26:31+00:00"
+      "priceValidUntil": "2026-05-29T19:07:44+00:00"
     },
     {
       "@type": "Offer",
@@ -542,7 +535,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:26:31+00:00"
+      "priceValidUntil": "2026-05-29T19:07:44+00:00"
     },
     {
       "@type": "Offer",
@@ -555,7 +548,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:26:31+00:00"
+      "priceValidUntil": "2026-05-29T19:07:44+00:00"
     }
   ],
   "price_analytics": {
@@ -602,7 +595,7 @@
           "end": "2025-12-01"
         }
       ],
-      "days_since_last_discount": 19,
+      "days_since_last_discount": 27,
       "last_discount": {
         "date": "2026-04-02",
         "price_eur": 1.99,

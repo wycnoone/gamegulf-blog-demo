@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
     "game_id": "1GAuWdlKwtB",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -27,7 +26,7 @@
       "Puzzle"
     ],
     "release_date": "2019-09-17",
-    "developer": "Spike Chunsoft Co., Ltd.",
+    "developer": null,
     "publisher": "Spike Chunsoft US",
     "metacritic": 86
   },
@@ -41,13 +40,37 @@
           "country_code": "JP",
           "country": "Japan",
           "price": 11.88,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
+          "discount_price": 1.19,
+          "discount_rate": 90,
+          "discount_end": "2026-05-10 14:59:59",
+          "discount_end_timestamp": 1778425199,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 11.88
+          "calculate_value": 1.19
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": 3.41,
+          "discount_rate": 80,
+          "discount_end": "2026-04-30 06:59:59",
+          "discount_end_timestamp": 1777532399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 3.41
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": 4.13,
+          "discount_rate": 80,
+          "discount_end": "2026-04-29 22:59:59",
+          "discount_end_timestamp": 1777503599,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 4.13
         },
         {
           "country_code": "HK",
@@ -60,18 +83,6 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 16.17
-        },
-        {
-          "country_code": "US",
-          "country": "United States",
-          "price": 17.1,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 17.1
         },
         {
           "country_code": "DE",
@@ -132,25 +143,21 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 19.99
-        },
-        {
-          "country_code": "GB",
-          "country": "United Kingdom",
-          "price": 20.68,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 20.68
         }
       ],
       "physical": [],
       "trend": [
         {
           "period": "30 D",
-          "entries": []
+          "entries": [
+            {
+              "date": "2026-04-21",
+              "country_code": "JP",
+              "value": 1.19,
+              "currency": "EUR",
+              "country": "Japan"
+            }
+          ]
         },
         {
           "period": "180 D",
@@ -175,6 +182,13 @@
               "value": 19.99,
               "currency": "EUR",
               "country": "Spain"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "JP",
+              "value": 1.19,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         },
@@ -243,6 +257,13 @@
               "value": 19.99,
               "currency": "EUR",
               "country": "Spain"
+            },
+            {
+              "date": "2026-04-21",
+              "country_code": "JP",
+              "value": 1.19,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         }
@@ -252,7 +273,15 @@
   "lows": [
     {
       "type": "Global Low",
-      "entries": []
+      "entries": [
+        {
+          "platform": "Nintendo Switch 1",
+          "country_code": "JP",
+          "value": 1.19,
+          "currency": "EUR",
+          "price_type": "Digital"
+        }
+      ]
     },
     {
       "type": "Local Low",
@@ -260,7 +289,7 @@
         {
           "platform": "Nintendo Switch 1",
           "country_code": "US",
-          "value": 17.1,
+          "value": 3.41,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -274,10 +303,10 @@
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511338635818551.jpeg",
       "metacritic": 83,
       "price": 23.71,
-      "discount_price": null,
-      "discount_rate": null,
+      "discount_price": 5.93,
+      "discount_rate": 75,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 hr",
       "release_date": "2022-06-24",
       "categories": [
         "Adventure"
@@ -293,7 +322,7 @@
       "discount_price": 16.6,
       "discount_rate": 30,
       "discount_tag": "LowPrice",
-      "discount_end": "7 days",
+      "discount_end": "11 hr",
       "release_date": "2025-07-25",
       "categories": [
         "Adventure",
@@ -362,12 +391,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -385,7 +414,7 @@
       "discount_price": 1.99,
       "discount_rate": 90,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "discount_end": "2 hr",
       "release_date": "2018-08-07",
       "categories": [
         "Adventure",
@@ -442,7 +471,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:12+00:00"
+      "priceValidUntil": "2026-05-29T19:07:00+00:00"
     },
     {
       "@type": "Offer",
@@ -455,7 +484,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:12+00:00"
+      "priceValidUntil": "2026-05-29T19:07:00+00:00"
     },
     {
       "@type": "Offer",
@@ -468,7 +497,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:12+00:00"
+      "priceValidUntil": "2026-05-29T19:07:00+00:00"
     },
     {
       "@type": "Offer",
@@ -481,7 +510,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:12+00:00"
+      "priceValidUntil": "2026-05-29T19:07:00+00:00"
     },
     {
       "@type": "Offer",
@@ -494,7 +523,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:12+00:00"
+      "priceValidUntil": "2026-05-29T19:07:00+00:00"
     },
     {
       "@type": "Offer",
@@ -507,62 +536,45 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:12+00:00"
+      "priceValidUntil": "2026-05-29T19:07:00+00:00"
     }
   ],
   "price_analytics": {
     "switch 1": {
       "current_cheapest": {
-        "price_eur": 11.88,
+        "price_eur": 1.19,
         "region": "Japan",
         "country_code": "JP"
       },
       "global_low": {
-        "price_eur": 2.38,
+        "price_eur": 1.19,
         "region": "JP",
-        "date": "2025-07-12"
+        "type": "Digital"
       },
       "local_low": {
-        "price_eur": 17.1,
+        "price_eur": 3.41,
         "region": "US",
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 2.38,
+        "price_eur": 1.19,
         "region": "JP",
         "country": "Japan",
-        "date": "2025-07-12"
+        "date": "2026-04-21"
       },
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 4,
-      "avg_discount_price_eur": 3.44,
-      "sale_periods": [
-        {
-          "start": "2025-07-12",
-          "end": "2025-07-12"
-        },
-        {
-          "start": "2025-09-24",
-          "end": "2025-09-24"
-        },
-        {
-          "start": "2025-10-21",
-          "end": "2025-10-21"
-        },
-        {
-          "start": "2025-12-21",
-          "end": "2025-12-21"
-        }
-      ],
-      "days_since_last_discount": 122,
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 5,
+      "avg_discount_price_eur": 2.99,
+      "sale_periods": [],
+      "days_since_last_discount": 8,
       "last_discount": {
-        "date": "2025-12-21",
-        "price_eur": 2.38,
+        "date": "2026-04-21",
+        "price_eur": 1.19,
         "region": "Japan",
-        "drop_pct": 80
+        "drop_pct": 94
       },
-      "trend_entries_count": 9,
-      "price_verdict": "sale_likely_soon"
+      "trend_entries_count": 10,
+      "price_verdict": "at_historical_low"
     }
   },
   "product_links": {
@@ -572,47 +584,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 948740,
-      "name": "AI: The Somnium Files",
-      "developer": [
-        "Spike Chunsoft Co., Ltd."
-      ],
-      "publisher": [
-        "Spike Chunsoft Co., Ltd."
-      ],
-      "metacritic_score": null,
-      "metacritic_url": null,
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Steam Trading Cards",
-        "Partial Controller Support",
-        "Steam Cloud",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Adventure"
-      ],
-      "steam_price": "$4.99",
-      "total_recommendations": 8639,
-      "short_description": "Play as detective Kaname Date on the case of an elusive serial killer in this thrilling, sci-fi murder mystery.",
-      "supported_languages": "English<strong>*</strong>, Japanese<strong>*</strong>, Traditional Chinese<br><strong>*</strong>languages with full audio support",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 8369,
-        "total_negative": 770,
-        "total_reviews": 9139,
-        "score_description": "Very Positive",
-        "positive_percent": 92
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

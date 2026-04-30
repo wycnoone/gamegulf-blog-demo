@@ -2,7 +2,7 @@
 title: Figment no Switch vale a pena em 2026?
 description: >-
   Abril de 2026: ~75 Metacritic, aventura musical na mente, preços indexados
-  perto de mínimos, HLTB.
+  perto de mínimos, .
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -28,11 +28,11 @@ bestFor: Indies curtos com banda sonora protagonista.
 avoidIf: Queres combate estilo Souls ou 40 h RPG.
 consensusPraise: Arte, música-mundo, duetos de chefes encantadores.
 mainFriction: Combate simples — teto em exploração/puzzle.
-timeFit: HLTB ~5/6/7 h.
+timeFit:  ~5/6/7 h.
 fitLabel: Álbum conceptual jogável.
 timingNote: Se a tua conta apanha promo Japão, falta só gosto — confirma linha ao vivo.
 communityVibe: Earworms, pesadelo cozy, Piper
-playtime: 5h · 6h+ · ~7h (HLTB)
+playtime: 5h · 6h+ · ~7h
 reviewSignal: 75 Metacritic
 takeaway: Figment é compra fácil quando o index toca o chão — confirma o teu eShop.
 playStyle: Iso, puzzles, música, medos literalizados.
@@ -81,7 +81,7 @@ faq:
       Figment vale se queres aventura curta musical pintada e combate leve.
       Abril de 2026 ainda traz promos agressivas — vê GameGulf antes de pagar.
   - question: Quanto tempo leva Figment?
-    answer: Figment ronda 5 h história, 6 h extras, 7 h completion segundo HLTB.
+    answer: Figment ronda 5 h história, 6 h extras, 7 h completion segundo .
   - question: Crianças?
     answer: >-
       Figment metaforiza pesadelos com combate cartoon — alguns chefes assustam;
@@ -134,18 +134,19 @@ cardPrice: EUR 0.54
 cardPriceNative: ¥2,200
 cardPriceNativeCurrency: JPY
 ---
+## Veredito rapido
 
-## Veredito rápido
+**Figment** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **75 Metacritic**.
 
-**Figment ~75 Metacritic**, **Dusty/Piper**, **chefes cantados**. **HLTB 5/6/7 h**.
+Figment é compra fácil quando o index toca o chão — confirma o teu eShop.
 
-Abril 2026: **Japão ~0,54 €**, **sete** descontos, **média ~0,77 €**. [Grelha](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
+Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €0.54.
 
-**GameGulf:** Confere a tua região na [grelha multirregional](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) antes de pagar — **GameGulf** acompanha este SKU para comparares com os mínimos históricos abaixo.
+Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
 
-## Quanto custa Figment — preço e promoção
+## Quanto custa Figment no Nintendo Switch agora?
 
-**Histórico**: **mínimo** alinha com promo atual; **média ~0,77 €**; último grande há **18 dias** (**Japão**, **20 mar 2026**, **~45%**).
+Japão ~0,54 € eq. em promo forte; MSRP UE ~19,99 € — fosso enorme.
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |
@@ -159,24 +160,34 @@ Abril 2026: **Japão ~0,54 €**, **sete** descontos, **média ~0,77 €**. [Gre
 | França | EUR 19.99 | €19.99 |
 | Itália | EUR 19.99 | €19.99 |
 
-## Que jogo
+## Que tipo de jogo e Figment?
 
-Aventura iso musical — puzzles, chefes com áudio.
+Nucleo de genero: **Iso, puzzles, música, medos literalizados.**. O ponto principal e se esse loop combina contigo.
 
-## Switch
+## Como Figment roda no Nintendo Switch?
 
-Estável e modesta.
+No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 
-## Compra se
+- Desempenho: base estavel, com variacoes por build.
+- Controles/leitura: esquema padrao, legibilidade portatil depende do conteudo.
+- Modo: Um jogador.
 
-Queres **fim de semana musical**, **linha promo**.
+## Comprar agora se
 
-## Espera se
+- voce curte **Iso, puzzles, música, medos literalizados.**
+- teu preco regional no GameGulf ja entrou na faixa-alvo
+- voce quer jogar ja, sem esperar outra janela de desconto
+- o ritmo te atende: ~5 h história, 6 extras, 7 completion.
 
-Combate profundo, **19,99 €** sem promo.
+## Esperar se
 
-## Fecho
+- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- teu encaixe com o genero esta incerto
+- teu orcamento do mes esta reservado para outros jogos
+- Queres combate estilo Souls ou 40 h RPG.
 
-**Figment** com **index** nos **mínimos** é vitória.
+## Fechamento
 
-**Vê GameGulf** e fecha **promo**.
+Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Promos profundas repetidas — fecha antes do MSRP.
+
+Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** e decide compra vs espera.

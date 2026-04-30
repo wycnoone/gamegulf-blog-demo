@@ -2,7 +2,7 @@
 title: Is Hades worth buying on Nintendo Switch in 2026?
 description: >-
   A Switch buying guide for Hades — April 2026 indexed eShop rows, tracked
-  discount history vs today’s Japan-led pricing, HLTB runtimes, performance, and
+  discount history vs today’s Japan-led pricing, runtimes, performance, and
   who should buy now versus set an alert.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -37,13 +37,13 @@ bestFor: Fans of short sessions with a long narrative payoff.
 avoidIf: Skip if roguelike repetition frustrates you or you need a hard stop.
 consensusPraise: Combat feel, writing, art direction, and OST rank among Switch’s best indies.
 mainFriction: Room templates and enemy pools feel thinner after the story arc resolves.
-timeFit: HLTB aggregates land near 23h main, 49h with extras, 95h completionist.
+timeFit: Typical bands near 23h main, 49h with extras, 95h completionist.
 fitLabel: Players who treat repeated runs as story fuel, not wasted time.
 timingNote: >-
   If you only care about price, compare your eShop row to Japan and the 2025
   Brazil historic print before you checkout.
 communityVibe: No-escape meme energy — OST lives in your head rent-free
-playtime: 23h main · 49h+ extras · ~95h completionist (HLTB)
+playtime: 23h main · 49h+ extras · ~95h completionist
 reviewSignal: 93 Metacritic
 takeaway: >-
   Hades is still an easy cultural recommendation — just treat April 2026 pricing
@@ -52,7 +52,7 @@ playStyle: >-
   Isometric hack-and-slash runs, six weapons with aspects, Olympian boon builds,
   Mirror of Night meta upgrades, and hub dialogue that advances every death.
 timeCommitment: >-
-  HLTB community aggregates point to about 23 hours for a focused main path,
+  Community reports typically point to about 23 hours for a focused main path,
   roughly 49 with extras, and near 95 for completionist goals across thousands
   of submissions.
 playMode: Single-player.
@@ -124,7 +124,7 @@ faq:
     answer: >-
       Hades averages about 23 hours for a main-story focus, roughly 49 hours
       with substantial extras, and near 95 hours for completionist goals
-      according to HLTB community aggregates — individual escape attempts
+      in typical community hour spreads — individual escape attempts
       usually land between 20 and 40 minutes.
   - question: How does Hades run on Nintendo Switch?
     answer: >-
@@ -179,75 +179,62 @@ priceRows:
 cardPriceEur: 15.22
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 17.82
+cardPrice: USD 17.83
 cardPriceNative: ¥2,800
 cardPriceNativeCurrency: JPY
 ---
-
 ## Quick verdict
 
-**Hades remains one of the cleanest “yes, it really is that good” purchases on Switch** — a **93 Metacritic** roguelike where **combat readability, voice performances, and music** still set the genre bar years after release. **HLTB aggregates** land near **23h / 49h / 95h** depending on how obsessive you get with relationships and completion goals.
+**Hades** on **Nintendo Switch** is primarily a fit-and-price decision. Quality anchor: **93 Metacritic**.
 
-The 2026 question is less about quality and more about **indexed math**: today’s feed still puts **Japan near €15.22 equivalent (¥2,800)** at the top of the table, while **tracked history** shows a **much lower Brazil point around €4.66 on 18 December 2025** — roughly **110 days** before April 2026 — with **only one clear discount event** captured in the past year. If you love the loop, **buy when your regional row looks sane**; if you only care about **historic lows**, **default to alerts**.
+Hades is still an easy cultural recommendation — just treat April 2026 pricing as “fair Japan-led retail,” not the deepest tracked sale.
 
-**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+Discount history signal: in 2026, the sale posture still points to a historical low band around €15.22.
 
-## How much does Hades cost on Switch right now?
+Before checkout, compare your actual account region on [GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price).
 
-**Japan still leads the indexed digital stack near €15.22 equivalent (¥2,800), with Brazil and the United States stepping up from there in the same April 2026 snapshot.**
+## How much does Hades cost on Nintendo Switch right now?
+
+If you only care about price, compare your eShop row to Japan and the 2025 Brazil historic print before you checkout.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 17.86 | ¥2,800 |
-| Brazil | USD 18.24 | R$92.46 |
-| United States | USD 25.45 | $24.99 |
-| Germany | USD 29.32 | €24.99 |
-| Spain | USD 29.32 | €24.99 |
-| France | USD 29.32 | €24.99 |
-| Italy | USD 29.32 | €24.99 |
-| Portugal | USD 29.32 | €24.99 |
+| Japan | USD 17.82 | ¥2,800 |
+| Brazil | USD 18.20 | R$92.46 |
+| United States | USD 25.39 | $24.99 |
+| Germany | USD 29.25 | €24.99 |
+| Spain | USD 29.25 | €24.99 |
+| France | USD 29.25 | €24.99 |
+| Italy | USD 29.25 | €24.99 |
+| Portugal | USD 29.25 | €24.99 |
 
-Tracked sale history tells a sharper story than list price alone: the **deepest recorded point** in this feed sits near **€4.66 on the Brazil eShop (18 December 2025)**, while **average discount-level prints** in the same window hug that **€4.66** anchor. That means **today’s Japan-led pricing is fair for a masterpiece**, but **not** the same beast as those **rare, aggressive lows**. Use the [live multi-region grid](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) to confirm **your** account’s row before you checkout.
+## What kind of game is Hades?
 
-## What kind of game is Hades, really?
-
-**A narrative roguelike where dying is pacing, not punishment** — you sprint through shifting Underworld rooms, collect Olympian boons that rewrite your kit, then return to the House of Hades for fully voiced scenes that move relationships forward even when a run fails.
-
-1. **Weapon mastery loop** — Six base weapons with four aspect variants each reward distinct cadences; swapping weapons refreshes the combat puzzle faster than bumping raw numbers.
-2. **Boon-driven builds** — Gods offer percentage tweaks and rule-bending effects, so two consecutive runs rarely play like the same character sheet.
-3. **Hub story engine** — Persistent upgrades (Mirror of Night, contractor work, keepsakes) pair with character arcs that reward repeated visits, which is why session length stays friendly while total hours balloon.
-
-**Hades II** is on the horizon as a sequel, but the first game is a **complete arc** — buy it for what ships today, not as a mandatory appetizer.
+Core genre mix: **Roguelike action RPG: Greek Underworld runs, voiced hub story, Supergiant polish.**. The key question is whether this loop fits your taste, not whether store copy sounds good.
 
 ## How does Hades run on Nintendo Switch?
 
-**Hades targets a fluid 60 fps read on Switch hardware**, which matters because attack animations and hit flashes communicate telegraphs clearly — critical for a game this fast.
+Generally stable enough to play; always verify with the current patch/build context.
 
-- **Handheld:** Short runs feel natural; UI scale and color contrast hold up on smaller panels without turning into mush.
-- **Docked:** Bigger screens highlight the hand-painted environments; performance generally stays in line with handheld outside of the busiest overlaps.
-- **Content parity:** You are getting the same Supergiant-authored campaign regardless of digital storefront — pick the eShop tied to the account you actually use.
-
-This is **not** a compromised port begging for a remaster; it is **one of the better-performing indie action titles** on the system.
+- Performance: stable baseline, with build-to-build variance.
+- Controls/readability: mostly standard mappings; handheld readability depends on content density.
+- Mode info: Single-player.
 
 ## Buy now if
 
-- You want **tight, readable combat** in **20–40 minute** chunks with **meaningful narrative payoff** between attempts
-- **Your regional indexed row** already looks acceptable next to the **Japan anchor** you can actually purchase from
-- You value **voice direction, music, and writing** as much as raw systems depth
-- You are comparing it to other **action games you finish**, not ultra-short arcade titles
-- **Roguelike repetition** sounds like **progress fuel**, not insult
-
+- you already like **Fans of short sessions with a long narrative payoff.**
+- your regional price on GameGulf is in your target band
+- you want to start now instead of waiting for another sale window
+- the time profile fits: 23h main · 49h+ extras · ~95h completionist
 ## Wait if
 
-- **Your storefront** is still priced like a full MSRP outlier compared with **Japan’s indexed row**
-- You dislike **dying to advance** and want a **linear campaign** with minimal looping structure
-- You already own **Hades elsewhere** and only want a second copy at a **historic-sale** price
-- You are juggling **multiple big purchases** this month and prefer **alerts** over impulse
-- You mainly want **open-world exploration** — see [our Tears of the Kingdom guide](/blog/en/the-legend-of-zelda-tears-of-the-kingdom-worth-it) for that scale of sandbox
+- your storefront is still near MSRP while other regions are lower
+- your genre fit is uncertain
+- your monthly budget is reserved for other games
+- Skip if roguelike repetition frustrates you or you need a hard stop.
 
-## Hades still earns its reputation
+## Closing take
 
-**Hades is less about “beating the game once” and more about mastering how you want each escape to feel** — the story gives you reasons to care, the boons give you reasons to experiment, and the soundtrack gives you reasons to linger in menus.
-
-**Check your regional row once.** If the number matches your comfort zone, stop stalling and play. If it does not, **set a target** and let the next **deep sale** do the convincing.
+Price first, taste second is the most reliable order here. just treat April 2026 pricing as “fair Japan-led retail,” not the deepest tracked sale.
+Do one final check on **[GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price)** and decide buy-now vs wait.

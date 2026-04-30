@@ -12,7 +12,12 @@ const structuredPriceRow = z.object({
 });
 
 const posts = defineCollection({
-  loader: glob({ base: './src/content/posts', pattern: '**/*.md' }),
+  loader: glob({
+    base: './src/content/posts',
+    pattern: '**/*.md',
+    // Force stable, path-based IDs to avoid accidental duplicate IDs from data-level slug collisions.
+    generateId: ({ entry }) => String(entry).replace(/\\/g, '/').replace(/\.md$/i, ''),
+  }),
   schema: z.object({
     title: z.string(),
     description: z.string(),

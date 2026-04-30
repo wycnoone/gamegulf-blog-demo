@@ -39,13 +39,13 @@ bestFor: Players who want a short authored thriller with zero filler.
 avoidIf: You need dialogue, RPG loops, or sunny comfort food vibes.
 consensusPraise: Atmosphere, sound design, and one-shot pacing land with rare confidence.
 mainFriction: Puzzle clarity dips if you dislike trial-and-error darkness.
-timeFit: Compact runtime — commonly cited ~3–5h depending on pace (not HLTB).
+timeFit: Compact runtime — commonly cited ~3–5h depending on pace (not ).
 fitLabel: Players who treat indies like films with controller in hand.
 timingNote: >-
   Compare your row to the Brazil anchor and the €1.25 Japan historical print
   before paying full list.
 communityVibe: Limbo DNA, spoiler-blackout culture, headphone cult following
-playtime: ~3–5h typical playthroughs (community estimates; not HLTB)
+playtime: ~3–5h typical playthroughs (community estimates; not )
 reviewSignal: 91 Metacritic
 takeaway: >-
   INSIDE is essential craft — just don’t pay tourist list if your region still
@@ -174,75 +174,62 @@ priceRows:
 cardPriceEur: 12.28
 cardPriceRegionCode: BR
 cardPriceRegion: Brazil
-cardPrice: USD 14.15
+cardPrice: USD 14.38
 cardPriceNative: R$72.99
 cardPriceNativeCurrency: BRL
 ---
-
 ## Quick verdict
 
-**INSIDE is a ~91 Metacritic Playdead puzzle-thriller** — **wordless stealth beats, physics riddles, and a finale** people still dissect years later. Runtime stays **compact (commonly ~3–5 hours)**, so you are buying **tone and craft**, not a 40-hour RPG.
+**INSIDE** on **Nintendo Switch** is primarily a fit-and-price decision. Quality anchor: **91 Metacritic**.
 
-April 2026 **pricing** is the tension: **Brazil still leads indexed rows near €12.28 equivalent**, but tracked **sale** history shows a **Japan historical low near €1.25 on 17 April 2025** with **seven discount events** in the past year and **average sale prints around €3.77**. Unless you need it tonight, **waiting** for the next **discount** is the rational default — watch your row on the live tracker.
+INSIDE is essential craft — just don’t pay tourist list if your region still floats above the next inevitable sale band.
 
-**GameGulf:** Cross-check your region on the [live multi-region grid](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) before checkout — **GameGulf** tracks this SKU so you can compare against the historical lows below.
+Discount history signal: in 2026, the sale posture still points to a historical low band around €12.28.
 
-## How much does INSIDE cost on Switch right now?
+Before checkout, compare your actual account region on [GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
 
-**Indexed April 2026 digital pricing still opens with Brazil near €12.28 equivalent (R$72.99) before Japan, Hong Kong, and the United States climb the stack.**
+## How much does INSIDE cost on Nintendo Switch right now?
+
+Compare your row to the Brazil anchor and the €1.25 Japan historical print before paying full list.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 14.41 | R$72.99 |
-| Japan | USD 17.86 | ¥2,800 |
-| Hong Kong | USD 19.49 | HK$150 |
-| United States | USD 25.45 | $24.99 |
-| Germany | USD 26.97 | €22.99 |
-| Spain | USD 26.97 | €22.99 |
-| France | USD 26.97 | €22.99 |
-| Italy | USD 26.97 | €22.99 |
+| Brazil | USD 14.37 | R$72.99 |
+| Japan | USD 17.82 | ¥2,800 |
+| Hong Kong | USD 19.44 | HK$150 |
+| United States | USD 25.39 | $24.99 |
+| Germany | USD 26.91 | €22.99 |
+| Spain | USD 26.91 | €22.99 |
+| France | USD 26.91 | €22.99 |
+| Italy | USD 26.91 | €22.99 |
 
-The **discount** story dominates: the feed’s **deepest historical low** lands near **€1.25 in Japan on 17 April 2025**, while **list prices** in **April 2026** remain multiple times higher than the **average sale-era band (~€3.77)**. The last captured **discount** move was **5 days** ago (**Hong Kong SAR China**, **2 April 2026**, **~28% drop** in the tracker). Translation: **INSIDE goes on sale a lot** — paying tourist **price** rarely ages well. Confirm your account on the [live grid](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) before checkout.
+## What kind of game is INSIDE?
 
-## What kind of game is INSIDE, really?
-
-**A side-scrolling thriller where puzzles and chase beats replace cutscenes** — you guide a boy through industrial horror spaces, manipulating lights, boxes, and physics props to slip past threats.
-
-1. **Stealth vignettes** — Each area introduces a new hazard template, so the game refreshes itself without skill trees or crafting bloat.
-2. **Environmental storytelling** — Background details imply the plot; no VO means the audio mix carries tension.
-3. **Pacing discipline** — Because runtime is short, every set-piece gets premium animation work — compare it to padded open-world filler and the value proposition clicks.
-
-If you loved **LIMBO**, expect the same **tactile weight** with a more overt sci-fi conspiracy edge.
+Core genre mix: **Wordless puzzle-platformer — stealth beats, environmental riddles, cinematic pacing.**. The key question is whether this loop fits your taste, not whether store copy sounds good.
 
 ## How does INSIDE run on Nintendo Switch?
 
-**INSIDE targets a stable 30 fps read on Switch** — important because darkness and silhouettes communicate threats more than UI prompts.
+Generally stable enough to play; always verify with the current patch/build context.
 
-- **Handheld:** Contrast holds up on smaller OLED panels; keep brightness honest or some puzzle cues hide in crushed blacks.
-- **Docked:** Larger screens highlight subtle lighting shifts; performance stays in line with handheld expectations.
-- **Controls:** Analog movement and simple interactions map cleanly — no gyro gimmicks required.
-
-This is **not** a compromised port; it is a **museum-grade indie** that happens to live on Switch.
+- Performance: stable baseline, with build-to-build variance.
+- Controls/readability: mostly standard mappings; handheld readability depends on content density.
+- Mode info: Single-player.
 
 ## Buy now if
 
-- You want **Playdead’s authored thriller tonight** and refuse to wait weeks
-- **Your regional row** already matches a **sale** you consider “good enough” versus **historic lows**
-- You value **91 Metacritic craft** over squeezing every euro of arbitrage
-- **~3–5 hour** experiences fit your week better than another 60-hour backlog guilt
-- You will play **with headphones** — half the hook is audio
-
+- you already like **Players who want a short authored thriller with zero filler.**
+- your regional price on GameGulf is in your target band
+- you want to start now instead of waiting for another sale window
+- the time profile fits: ~3–5h typical playthroughs (community estimates; not )
 ## Wait if
 
-- **Your eShop** still lists near **€21–23** Eurozone **prices** while trackers show **€1–4** **sale** history exists
-- You are price-first and can tolerate **waiting** for the next **discount** cycle
-- You already own **INSIDE** on PC/console and only want a **historic-low** Switch duplicate
-- Dark, helpless-child tension is a **hard skip** — no **sale** fixes that mismatch
-- You need **replayable systems** — this is a **linear one-and-done** ride
+- your storefront is still near MSRP while other regions are lower
+- your genre fit is uncertain
+- your monthly budget is reserved for other games
+- You need dialogue, RPG loops, or sunny comfort food vibes.
 
-## INSIDE on Switch — closing take
+## Closing take
 
-**INSIDE is essential playing for mood-piece fans** — just treat April 2026 **list pricing** as optional speed tax.
-
-**Check GameGulf once**, set a target if you are patient, and buy when **your** row finally matches the **sale** story everyone else already knows.
+Price first, taste second is the most reliable order here. just don’t pay tourist list if your region still floats above the next inevitable sale band.
+Do one final check on **[GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)** and decide buy-now vs wait.

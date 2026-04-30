@@ -524,6 +524,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
   const genres = (brief.game.genres || []).join(', ');
   const dev = brief.game.developer || '';
 
+  const today = new Date().toISOString().slice(0, 10);
+
   const fm = {
     title: titleForLocale(locale, gameTitle, platformLabel),
     description: clip(
@@ -532,8 +534,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, h
         : `2026年4月${platformLabel}购买参考：${gameTitle}、GameGulf 价格信号与买/等建议。`,
       300,
     ),
-    publishedAt: '2026-04-22',
-    updatedAt: '2026-04-22',
+    publishedAt: today,
+    updatedAt: today,
     category: 'worth-it',
     gameTitle,
     platform: platformField,

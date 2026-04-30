@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/1PBv755th4U",
     "game_id": "1PBv755th4U",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -54,78 +54,6 @@
           "calculate_value": 8.32
         },
         {
-          "country_code": "US",
-          "country": "United States",
-          "price": 17.1,
-          "discount_price": 11.11,
-          "discount_rate": 35,
-          "discount_end": "2026-04-23 06:59:59",
-          "discount_end_timestamp": 1776927599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 11.11
-        },
-        {
-          "country_code": "DE",
-          "country": "Germany",
-          "price": 19.99,
-          "discount_price": 12.99,
-          "discount_rate": 35,
-          "discount_end": "2026-04-22 21:59:59",
-          "discount_end_timestamp": 1776895199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 12.99
-        },
-        {
-          "country_code": "IT",
-          "country": "Italy",
-          "price": 19.99,
-          "discount_price": 12.99,
-          "discount_rate": 35,
-          "discount_end": "2026-04-22 21:59:59",
-          "discount_end_timestamp": 1776895199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 12.99
-        },
-        {
-          "country_code": "PT",
-          "country": "Portugal",
-          "price": 19.99,
-          "discount_price": 12.99,
-          "discount_rate": 35,
-          "discount_end": "2026-04-22 22:59:59",
-          "discount_end_timestamp": 1776898799,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 12.99
-        },
-        {
-          "country_code": "BR",
-          "country": "Brazil",
-          "price": 20.12,
-          "discount_price": 13.07,
-          "discount_rate": 35,
-          "discount_end": "2026-04-23 06:59:59",
-          "discount_end_timestamp": 1776927599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 13.07
-        },
-        {
-          "country_code": "GB",
-          "country": "United Kingdom",
-          "price": 20.68,
-          "discount_price": 13.44,
-          "discount_rate": 35,
-          "discount_end": "2026-04-22 22:59:59",
-          "discount_end_timestamp": 1776898799,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 13.44
-        },
-        {
           "country_code": "HK",
           "country": "Hong Kong SAR China",
           "price": 15.29,
@@ -136,6 +64,78 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 15.29
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.1,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.1
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 19.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 19.99
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 20.12,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.12
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 20.68,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 20.68
         }
       ],
       "physical": [],
@@ -225,18 +225,6 @@
       "languages": [],
       "digital": [
         {
-          "country_code": "US",
-          "country": "United States",
-          "price": 17.96,
-          "discount_price": 11.67,
-          "discount_rate": 35,
-          "discount_end": "2026-04-23 06:59:59",
-          "discount_end_timestamp": 1776927599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 11.67
-        },
-        {
           "country_code": "HK",
           "country": "Hong Kong SAR China",
           "price": 16.38,
@@ -247,6 +235,18 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 16.38
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 17.96,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.96
         }
       ],
       "physical": [],
@@ -277,14 +277,14 @@
         {
           "platform": "Nintendo Switch 1",
           "country_code": "US",
-          "value": 11.11,
+          "value": 17.1,
           "currency": "EUR",
           "price_type": "Digital"
         },
         {
           "platform": "Nintendo Switch 2",
           "country_code": "US",
-          "value": 11.67,
+          "value": 17.96,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -313,40 +313,22 @@
       "url": "https://www.gamegulf.com/detail/jEWblIF0H7u"
     },
     {
-      "id": "k3Rw9FKy3nO",
-      "title": "Rogue Wizards",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513083178716183.jpeg",
+      "id": "8MaYqcVjnQD",
+      "title": "Rogue Explorer",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512788908317479.jpeg",
       "metacritic": null,
-      "price": 11.99,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2021-07-15",
-      "categories": [
-        "Adventure",
-        "Role-playing",
-        "Strategy"
-      ],
-      "url": "https://www.gamegulf.com/detail/k3Rw9FKy3nO"
-    },
-    {
-      "id": "4KiS7nP8hVL",
-      "title": "Rogue Singularity",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515758924710436.jpeg",
-      "metacritic": null,
-      "price": 12.82,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2019-08-15",
+      "price": 7.99,
+      "discount_price": 1.99,
+      "discount_rate": 75,
+      "discount_tag": "LowPrice",
+      "discount_end": "8 days",
+      "release_date": "2021-08-18",
       "categories": [
         "Action",
-        "Arcade",
+        "Adventure",
         "Platformer"
       ],
-      "url": "https://www.gamegulf.com/detail/4KiS7nP8hVL"
+      "url": "https://www.gamegulf.com/detail/8MaYqcVjnQD"
     },
     {
       "id": "7nfMGfGhUzM",
@@ -371,12 +353,12 @@
       "title": "Skull Rogue",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515104044719931.jpeg",
       "metacritic": null,
-      "price": 2.99,
-      "discount_price": 0.99,
-      "discount_rate": 66,
-      "discount_tag": "LowPrice",
-      "discount_end": "6 days",
-      "release_date": "2020-02-28",
+      "price": 0.2,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-06-02",
       "categories": [
         "Action",
         "Adventure",
@@ -384,6 +366,24 @@
         "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/jc3MsHcrHTW"
+    },
+    {
+      "id": "4KiS7nP8hVL",
+      "title": "Rogue Singularity",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515758924710436.jpeg",
+      "metacritic": null,
+      "price": 12.82,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-08-15",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Platformer"
+      ],
+      "url": "https://www.gamegulf.com/detail/4KiS7nP8hVL"
     },
     {
       "id": "iPvpPFiBKca",
@@ -419,7 +419,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+      "priceValidUntil": "2026-05-29T18:43:28+00:00"
     },
     {
       "@type": "Offer",
@@ -432,7 +432,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+      "priceValidUntil": "2026-05-29T18:43:28+00:00"
     },
     {
       "@type": "Offer",
@@ -445,7 +445,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+      "priceValidUntil": "2026-05-29T18:43:28+00:00"
     },
     {
       "@type": "Offer",
@@ -458,7 +458,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+      "priceValidUntil": "2026-05-29T18:43:28+00:00"
     },
     {
       "@type": "Offer",
@@ -471,7 +471,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+      "priceValidUntil": "2026-05-29T18:43:28+00:00"
     },
     {
       "@type": "Offer",
@@ -484,7 +484,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+      "priceValidUntil": "2026-05-29T18:43:28+00:00"
     },
     {
       "@type": "Offer",
@@ -497,7 +497,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:17:16+00:00"
+      "priceValidUntil": "2026-05-29T18:43:28+00:00"
     }
   ],
   "price_analytics": {
@@ -513,7 +513,7 @@
         "date": "2026-01-14"
       },
       "local_low": {
-        "price_eur": 11.11,
+        "price_eur": 17.1,
         "region": "US",
         "type": "Digital"
       },
@@ -532,7 +532,7 @@
           "end": "2026-01-14"
         }
       ],
-      "days_since_last_discount": 35,
+      "days_since_last_discount": 43,
       "last_discount": {
         "date": "2026-03-17",
         "price_eur": 17.1,
@@ -544,13 +544,13 @@
     },
     "switch 2": {
       "current_cheapest": {
-        "price_eur": 11.67,
-        "region": "United States",
-        "country_code": "US"
+        "price_eur": 16.38,
+        "region": "Hong Kong SAR China",
+        "country_code": "HK"
       },
       "global_low": null,
       "local_low": {
-        "price_eur": 11.67,
+        "price_eur": 17.96,
         "region": "US",
         "type": "Digital"
       },
@@ -595,7 +595,7 @@
         "RPG",
         "Strategy"
       ],
-      "steam_price": "$19.99",
+      "steam_price": "¥ 1,540",
       "total_recommendations": 0,
       "short_description": "Turn the page and shape destiny in a card deck-building roguelite JRPG!",
       "supported_languages": "Japanese, English",

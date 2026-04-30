@@ -1,7 +1,7 @@
 ---
-title: "¿Merece la pena Persona 5 Royal en Nintendo Switch en 2026?"
+title: ¿Merece la pena Persona 5 Royal en Nintendo Switch en 2026?
 description: >-
-  Guía abril 2026 — filas indexadas, ofertas, HLTB, rendimiento en Switch y si
+  Guía abril 2026 — filas indexadas, ofertas, , rendimiento en Switch y si
   comprar ya o crear alerta de precio.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -9,7 +9,7 @@ category: worth-it
 gameTitle: Persona 5 Royal
 platform: Nintendo Switch
 author: GameGulf Editorial AI
-readingTime: "9 min de lectura"
+readingTime: 9 min de lectura
 decision: >-
   Espera oferta si solo compras mínimos históricos — el histórico muestra picos
   JP/UE muy por debajo del PVP de abril 2026. Compra ya si empiezas hoy y no
@@ -17,45 +17,42 @@ decision: >-
 priceSignal: >-
   Japón lidera el índice ~41,75 € (¥7.678); nueve ventanas de descuento al año,
   media ~20,01 €, mínimo JP ~12,52 € el 10 mar 2026.
-heroStat: "94 Metacritic"
+heroStat: 94 Metacritic
 heroNote: >-
   JRPG de calendario ATLUS — palacios, Press Turn, vínculos, tercer semestre,
   DLC incluido.
-badge: "Esperar oferta"
+badge: Esperar oferta
 verdict: wait_for_sale
 priceCall: wait
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  JRPG 94 Metacritic — Japón lidera; ofertas ~20 € frente a ~42 € PVP.
+listingTakeaway: JRPG 94 Metacritic — Japón lidera; ofertas ~20 € frente a ~42 € PVP.
 whatItIs: "JRPG por turnos: palacios, Personas, arco Royal, DLC incluido."
-bestFor: "Fans de JRPG largos y ritmo calendario."
+bestFor: Fans de JRPG largos y ritmo calendario.
 avoidIf: Evita si el calendario apretado o el melodrama anime te agota rápido.
 consensusPraise: UI, música, guión y ritmo de combate siguen siendo referencia.
 mainFriction: Mementos y palacios largos si buscas 40 h ajustadas.
-timeFit: HLTB ~101 h historia, ~123 h extras, ~141 h completion.
+timeFit:  ~101 h historia, ~123 h extras, ~141 h completion.
 fitLabel: Preparar vínculos, puzzles de palacio y arcos largos.
-timingNote: >-
-  Compara tu fila eShop con Japón y la media ~20 € rastreada antes de pagar.
+timingNote: Compara tu fila eShop con Japón y la media ~20 € rastreada antes de pagar.
 communityVibe: Memes ladrón — café, exámenes, robar corazones
-playtime: ~101 h hist. · ~123 h+ extras · ~141 h completion (HLTB)
-reviewSignal: "94 Metacritic"
+playtime: ~101 h hist. · ~123 h+ extras · ~141 h completion
+reviewSignal: 94 Metacritic
 takeaway: >-
-  Royal sigue siendo la edición a comprar — abril 2026 es «entre ofertas», no el suelo rastreado.
+  Royal sigue siendo la edición a comprar — abril 2026 es «entre ofertas», no el
+  suelo rastreado.
 playStyle: >-
-  Debilidades Press Turn, relevos, puzzles de palacio, Mementos, arco tercer semestre.
-timeCommitment: >-
-  HLTB ~101 h historia, ~123 h con extras, ~141 h completion.
+  Debilidades Press Turn, relevos, puzzles de palacio, Mementos, arco tercer
+  semestre.
+timeCommitment:  ~101 h historia, ~123 h con extras, ~141 h completion.
 playMode: Un jugador.
 whyNow: >-
-  La calidad está cerrada; la duda es si tu precio paga antes del próximo gran bajón.
-currentDeal: >-
-  Japón ~41,75 € (¥7.678) arriba, EE. UU. ~52,07 € ($59,99).
-nearHistoricalLow: >-
-  No — JP ~12,52 € el 10 mar 2026, lejos del PVP.
-salePattern: >-
-  Nueve ventanas al año, media ~20,01 € — bajadas fuertes y luego vuelta al PVP.
+  La calidad está cerrada; la duda es si tu precio paga antes del próximo gran
+  bajón.
+currentDeal: Japón ~41,75 € (¥7.678) arriba, EE. UU. ~52,07 € ($59,99).
+nearHistoricalLow: No — JP ~12,52 € el 10 mar 2026, lejos del PVP.
+salePattern: Nueve ventanas al año, media ~20,01 € — bajadas fuertes y luego vuelta al PVP.
 priceRecommendation: wait
 quickFilters:
   - long_rpg
@@ -104,7 +101,7 @@ faq:
       Persona 5 Royal vale para el pack Royal ~94 Metacritic. En abril 2026
       GameGulf indexa Japón ~41,75 € (¥7.678) — revisa tu cuenta.
   - question: ¿Duración ?
-    answer: Persona 5 Royal ~101 h / 123 h / 141 h según HLTB.
+    answer: Persona 5 Royal ~101 h / 123 h / 141 h según .
   - question: ¿Switch ?
     answer: >-
       Persona 5 Royal es un port portable: combate estable, cargas peores que
@@ -157,19 +154,19 @@ cardPrice: EUR 41.75
 cardPriceNative: ¥7,678
 cardPriceNativeCurrency: JPY
 ---
-## Veredicto rápido
+## Veredicto rapido
 
-**Persona 5 Royal sigue siendo un JRPG denso** — **94 Metacritic**, **HLTB ~101h / 123h / 141h**.
+**Persona 5 Royal** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **94 Metacritic**.
 
-**Japón ~41,75 € (¥7.678)** ; **nueve ofertas** / año ; **media ~20,01 €** ; **10 marzo 2026** **~12,52 €** en Japón (**mínimo histórico**). **Oferta** y **descuento** marcan el hueco frente al list.
+Royal sigue siendo la edición a comprar — abril 2026 es «entre ofertas», no el suelo rastreado.
 
-**GameGulf:** Cruza tu región en la [rejilla multirregión](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) antes de pagar — **GameGulf** sigue este SKU para compararlo con los mínimos históricos de abajo.
+Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €41.75.
 
-## ¿Cuánto cuesta Persona 5 Royal en Switch actualmente?
+Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price).
 
-**Japón lidera el índice.**
+## Cuanto cuesta Persona 5 Royal en Nintendo Switch ahora?
 
-
+Royal sigue siendo la edición a comprar — abril 2026 es «entre ofertas», no el suelo rastreado.
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
 | Japón | EUR 41.75 | ¥7,678 |
@@ -181,24 +178,32 @@ cardPriceNativeCurrency: JPY
 | Francia | EUR 59.99 | €59.99 |
 | Italia | EUR 59.99 | €59.99 |
 
-**12,52 €** JP el **10.03.2026**, **17,99 €** FR el **01.01.2026**. **GameGulf** [tabla](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price).
+## Que tipo de juego es Persona 5 Royal?
 
-## Qué juego
+Nucleo de genero: **JRPG por turnos: palacios, Personas, arco Royal, DLC incluido**. Lo importante es si ese bucle te encaja, no el texto de marketing.
 
-**JRPG calendario** — palacios, **Press Turn**, Royal.
+## Como rinde Persona 5 Royal en Nintendo Switch?
 
-## Switch
+Suele ser jugable con estabilidad razonable; confirma siempre con la version actual.
 
-**Port** — cargas largas, combate estable.
+- Rendimiento: base estable con variaciones segun build.
+- Control/lectura: esquema estandar, legibilidad portatil segun contenido.
+- Modo de juego: Un jugador.
 
-## Compra ya si
+## Comprar ahora si
 
-Tu fila está cerca del **Japón** y quieres el **arco largo**.
+- te gusta **Fans de JRPG largos y ritmo calendario.**
+- tu precio regional en GameGulf ya esta en rango objetivo
+- prefieres jugar ya en vez de esperar otra ventana de oferta
+- te cuadra el ritmo: ~101 h hist. · ~123 h+ extras · ~141 h completion
+## Esperar si
 
-## Espera si
+- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- no tienes claro el encaje de genero
+- este mes priorizas otros juegos
+- Evita si el calendario apretado o el melodrama anime te agota rápido.
 
-Solo persigues **12,52 €** — o prioridad [Mario Wonder](/blog/es/super-mario-bros-wonder-worth-it).
+## Cierre
 
-## Royal sigue siendo rey
-
-**Mira tu fila.**
+Primero precio, luego gusto: aqui funciona mejor ese orden. abril 2026 es «entre ofertas», no el suelo rastreado.
+Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price)** y decide comprar o esperar.

@@ -1,76 +1,134 @@
 ---
-title: Super Mario Odyssey vale a pena no Nintendo Switch em 2026?
-description: 2026年4月Nintendo Switch购买参考：Super Mario Odyssey、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: Super Mario Odyssey ainda vale a pena no Switch em 2026?
+description: >-
+  Grelha GameGulf abril 2026 — Mario 3D sandbox com 97 Metacritic, Cappy, co-op
+  local, três eventos de desconto seguidos em 12 meses e média ~€40,93 no feed
+  Switch 1.
+publishedAt: "2026-04-26"
+updatedAt: "2026-04-26"
 category: worth-it
 gameTitle: Super Mario Odyssey
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
-primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+primaryPlatformLabel: Nintendo Switch (modelo original)
 author: GameGulf Editorial AI
-readingTime: 7 min de leitura
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price
-gameHref: https://www.gamegulf.com/detail/4MvMiSCTpzk
-membershipHref: https://www.gamegulf.com/pricing
+readingTime: Leitura 8 min
+decision: >-
+  Compra recomendada quando tua regiao esta perto de EUR 35.53 (Japão); acima
+  disso, esperar e melhor.
+priceSignal: A diferenca regional e de cerca de EUR 24.46, principal gatilho de decisao.
 heroStat: 97 Metacritic
-heroNote: Super Mario Odyssey：Action, Adventure, Platformer。
+heroNote: >-
+  Mario 3D sandbox da Nintendo — lançar Cappy, capturas, luas por reino, ajuda
+  opcional a dois jogadores, exploração antes de corredores.
 badge: Comprar agora
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: Super Mario Odyssey：Action, Adventure, Platformer；2026年4月价格分区差值得先对照 GameGulf。
-whatItIs: Action, Adventure, Platformer — Super Mario Odyssey on Nintendo Switch.
-bestFor: 想要Action, Adventure, Platformer且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, Platformer气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；97 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
+listingTakeaway: Bom negocio perto de EUR 35.53 (Japão); acima disso, melhor esperar.
+whatItIs: "Mario 3D sandbox: capturas Cappy, luas, co-op local Mario + chapéu."
+bestFor: Exploração leve, família e acabamento Nintendo.
+avoidIf: Odeias caçar luas ou só compras muito abaixo do índice.
+consensusPraise: Capturas e mudança de reinos sustentam o boca a boca.
+mainFriction: Todas as luas exigem muitas horas de retorno.
+timeFit: Cerca de 12–18 h para luas da história, 40 h+ ao completar.
+fitLabel: Para curiosos que partilham o sofá e repetem movimento.
+timingNote: Confere primeiro as linhas ao vivo no GameGulf.
+communityVibe: Memes do Cappy, corda ND, vergonha do fato Luigi
+playtime: ~12–18 h luas história · 40 h+ completar
 reviewSignal: 97 Metacritic
-takeaway: Super Mario Odyssey 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
-playStyle: Action, Adventure, Platformer
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Yes — data tracks near historic lows.
-salePattern: 过去一年约 3 次促销波动——折扣是常态。
+takeaway: >-
+  Odyssey continua o sandbox carro-chefe — compra pelo fit; o índice já é amigo
+  de mínimos.
+playStyle: >-
+  Lançar/capturar Cappy, hubs por reino, fatos, motion opcional, duo Joy-Con,
+  desafios pós-jogo duros.
+timeCommitment: >-
+  O feedback aponta muitas vezes para uma dúzia a vinte horas no caminho
+  principal de luas, e muito mais se quiseres tudo.
+playMode: Co-op local — Mario + Cappy num segundo Joy-Con.
+whyNow: >-
+  A qualidade está fixada em 97 Metacritic — o preço Switch 1 lê-se perto do
+  chão histórico neste feed.
+currentDeal: >-
+  Instantâneo abril 2026: Japão lidera ~€35,53 indexados; Hong Kong, EUA e Reino
+  Unido sobem na grelha.
+nearHistoricalLow: "O valor depende da regiao; referencia atual: EUR 35.53 (Japão)."
+salePattern: >-
+  Mario first-party não faz saldos profundos como terceiros — aqui três janelas
+  seguidas num ano, média ~€40,93.
 priceRecommendation: buy
 quickFilters:
-  - great_on_sale
+  - family_friendly
+  - nintendo_first_party
   - short_sessions
 playerNeeds:
-  - value_for_money
+  - beginner_friendly
   - buy_now
 tags:
-  - super mario odyssey nintendo switch
-  - super mario odyssey worth it
-  - super mario odyssey price
-  - gamegulf deals
+  - super mario odyssey switch
+  - mario odyssey vale a pena 2026
+  - melhores plataformas switch
+  - mario odyssey coop
+  - nintendo first party switch
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Capturar o T-Rex nunca envelhece
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Luas por todo o lado — ótimo se gostas de vasculhar
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: Deixar o miúdo no chapéu salvou a viagem
+    sentiment: positive
+  - quote: O movimento é tão bom que ignorei a história
+    sentiment: positive
+  - quote: A dificuldade pós-jogo não perdoa
+    sentiment: mixed
+  - quote: Continua uma das melhores compras de plataformas na Switch
     sentiment: positive
 communityMemes:
-  - Super Mario Odyssey sale bingo
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Super Mario Odyssey — 97 Metacritic；价格信号偏买入（口味要对）。
+  - Jump Up Super Star em loop
+  - Pauline autarca icónica
+  - Memória muscular do chapéu
+  - Lua atrás da caixa óbvia
+  - Turistas em modo assistido
+tldr: >-
+  Super Mario Odyssey vale perto de EUR 35.53 (Japão); se tua regiao estiver
+  acima, espera.
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price
+gameHref: https://www.gamegulf.com/detail/4MvMiSCTpzk
+membershipHref: https://www.gamegulf.com/pricing
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517350526415935.jpeg
+heroTheme: brand
+faq:
+  - question: Super Mario Odyssey ainda vale a pena no Switch em 2026?
+    answer: >-
+      Super Mario Odyssey vale a pena se queres Mario 3D sandbox com capturas
+      Cappy e co-op no sofá. Em abril de 2026 o índice Switch 1 da GameGulf
+      ainda lidera com o Japão perto de €35,53 — confirma a tua região em
+      gamegulf.com antes de pagar.
+  - question: Quanto tempo leva Super Mario Odyssey?
+    answer: >-
+      Super Mario Odyssey costuma ficar entre uma dúzia e vinte horas para o fio
+      principal de luas, e muito mais se fores a tudo — planeia se vais ao 100
+      %.
+  - question: Como corre Super Mario Odyssey na Switch?
+    answer: >-
+      Super Mario Odyssey mira plataformas 3D fluidas na Switch original —
+      prioridade de estabilidade first-party em vez de demo técnica, segundo
+      relatos comuns.
+  - question: Costuma estar em promoção?
+    answer: >-
+      Super Mario Odyssey mostra três eventos de desconto seguidos em doze meses
+      aqui, média ~€40,93 — menos agressivo que terceiros, mas não está preso ao
+      MSRP.
+  - question: Odyssey ou um indie curto primeiro?
+    answer: >-
+      Super Mario Odyssey ganha se queres um carro-chefe Nintendo com luas a
+      longo prazo — se queres menos de dez horas primeiro, vê os guias de
+      sessões curtas na GameGulf antes de gastar.
 priceRows:
   - regionCode: JP
     eurPrice: 35.53
@@ -110,35 +168,18 @@ cardPriceRegion: Japão
 cardPrice: EUR 35.53
 cardPriceNative: ¥7,980
 cardPriceNativeCurrency: JPY
-faq:
-  - question: Super Mario Odyssey vale a pena no Nintendo Switch em 2026?
-    answer: >-
-      Super Mario Odyssey 是否值得买取决于你是否喜欢Action, Adventure, Platformer，以及你在
-      GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Super Mario Odyssey?
-    answer: >-
-      Super Mario Odyssey — treat runtime as store-listed scope; verify patch
-      notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      Super Mario Odyssey — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price to compare
-      regions without guessing conversions.
-heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517350526415935.jpeg
 ---
-## Veredito rápido
 
-**Super Mario Odyssey** reads as **97 Metacritic**  — **Action, Adventure, Platformer** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
 
-Histórico de **descontos**: **menor preço histórico** perto de **€35.53** (JP), **3** movimentos em 12 meses, **média em promoção** **€40.93**, último movimento há **3** dias (**2026-04-19 (Japan, €35.53)**, **2026**). Confirme no [GameGulf](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price).
+## Veredito rapido
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price) so you can sanity-check the **discount** story before checkout.
+**Super Mario Odyssey** vale compra quando teu preco regional fica perto de **EUR 35.53 (Japão)**; acima disso, esperar e melhor. Referencia: **97 Metacritic**.
 
-## Quanto custa Super Mario Odyssey no Nintendo Switch agora?
+Primeiro confere **GameGulf**.
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+## Preço atual no Switch (price)
+
+A diferenca rastreada e de **EUR 24.46**.
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |
@@ -152,40 +193,25 @@ Histórico de **descontos**: **menor preço histórico** perto de **€35.53** (
 | Espanha | EUR 59.99 | €59.99 |
 | França | EUR 59.99 | €59.99 |
 
-## O que é Super Mario Odyssey, na prática?
+Ancora historica: em 2026, sinais **sale / historical low** perto de **EUR 35.53 (Japão)**. Mario first-party não faz saldos profundos como terceiros — aqui três janelas seguidas num ano, média ~€40,93.
 
-**Super Mario Odyssey** is a **Action, Adventure, Platformer** package — treat the long store blurb as marketing, but the **genre mix** and **97 Metacritic** signal are the real buying compass.
+## Que tipo de jogo e
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+Mario 3D sandbox: capturas Cappy, luas, co-op local Mario + chapéu.
 
-## Como Super Mario Odyssey roda no Nintendo Switch?
+## Como roda no Nintendo Switch (modelo original)
 
-**Super Mario Odyssey** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+Co-op local — Mario + Cappy num segundo Joy-Con. O feedback aponta muitas vezes para uma dúzia a vinte horas no caminho principal de luas, e muito mais se quiseres tudo.
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+## Comprar / Esperar
 
-## Compre se
+- **Comprar** se teu preco esta perto de **EUR 35.53 (Japão)** e o fit esta claro.
+- **Comprar** se vai jogar agora e preco em faixa-alvo.
+- **Esperar** se tua regiao esta bem acima.
+- **Esperar** se o fit ainda e incerto.
 
-- You want **Action, Adventure, Platformer** pacing and the **97 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+## Fechamento
 
-## Espere se
+Ordem: **fit -> preco regional -> urgencia**.
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, Platformer) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
-
-## Super Mario Odyssey no Nintendo Switch — fecho
-
-**Super Mario Odyssey** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Ultima checagem no **GameGulf** e gamegulf.com.

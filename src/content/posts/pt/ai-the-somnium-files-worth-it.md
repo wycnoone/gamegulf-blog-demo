@@ -1,8 +1,10 @@
 ---
-title: "AI: THE SOMNIUM FILES vale a pena no Nintendo Switch em 2026?"
-description: "2026年4月Nintendo Switch购买参考：AI: THE SOMNIUM FILES、GameGulf 价格信号与买/等建议。"
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: "AI: THE SOMNIUM FILES no Switch em 2026 — ainda vale a pena?"
+description: >-
+  Guia abril 2026: AI: THE SOMNIUM FILES, Metacritic 86, JP €1,19 vs EU €19,99
+  no GameGulf.
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: "AI: THE SOMNIUM FILES"
 platform: Nintendo Switch
@@ -10,80 +12,88 @@ primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
-readingTime: 7 min de leitura
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+readingTime: 8 min de leitura
+decision: >-
+  Vale comprar se GameGulf mostrar JP ~€1,19 ; espere se só aparecer €19,99 na
+  sua conta UE.
+priceSignal: Índices JP ~€1,19 versus €19,99 EU — região da conta manda.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price
 gameHref: https://www.gamegulf.com/detail/1GAuWdlKwtB
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: 86 Metacritic
-heroNote: "AI: THE SOMNIUM FILES：Adventure, Puzzle；Spike Chunsoft Co., Ltd.。"
-badge: Esperar promoção
-verdict: wait_for_sale
-priceCall: wait
-confidence: medium
-actionBucket: wait
+heroNote: "Spike Chunsoft sci-fi: investigação real + Somniums cronometrados."
+badge: Comprar agora
+verdict: buy_now
+priceCall: buy
+confidence: high
+actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: "AI: THE SOMNIUM FILES：Adventure, Puzzle；2026年4月价格分区差值得先对照 GameGulf。"
-whatItIs: "Adventure, Puzzle — AI: THE SOMNIUM FILES on Nintendo Switch."
-bestFor: 想要Adventure, Puzzle且接受掌机体量的人。
-avoidIf: 不喜欢Adventure, Puzzle气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；86 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
+listingTakeaway: AI Somnium 86 Meta ; abril 2026 JP €1,19 vs EU €19,99 no GameGulf.
+whatItIs: "Adventure/Puzzle : noir dublado + Somniums contra o relógio."
+bestFor: Fãs de mystery japonês com tolerância anime + timers.
+avoidIf: Contagem regressiva incomoda — não é pra você.
+consensusPraise: Roteiro ousado + Somniums criativos acima de filler.
+mainFriction: Somniums iniciais punem sem rotina de save.
+timeFit: Várias noites — não é walking sim curto.
+fitLabel: Quem compara linha JP antes do impulso EU.
+timingNote: Com preço já baixo, só falta encaixar backlog.
+communityVibe: Ordem de rotas, sal Somnium, spoilers
 reviewSignal: 86 Metacritic
-takeaway: "AI: THE SOMNIUM FILES 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。"
+takeaway: "AI: THE SOMNIUM FILES mantém nota alta — GameGulf mostra o ticket regional."
 playStyle: Adventure, Puzzle
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 4 次促销波动——折扣是常态。
-priceRecommendation: wait
+timeCommitment: Multi-evening mystery pacing.
+playMode: Um jogador salvo nota na loja.
+whyNow: Índices frequentemente no menor histórico JP rastreado.
+currentDeal: Confira moeda nativa antes do checkout.
+nearHistoricalLow: Sim — €1,19 JP alinha com o piso digital rastreado.
+salePattern: Cinco movimentos fortes em um ano — promo JP recorrente.
+priceRecommendation: buy
 quickFilters:
   - great_on_sale
   - short_sessions
 playerNeeds:
   - value_for_money
-  - wait_for_sale
+  - buy_now
 tags:
-  - "ai: the somnium files nintendo switch"
-  - "ai: the somnium files worth it"
-  - "ai: the somnium files price"
+  - ai the somnium files switch
+  - ai the somnium files vale a pena
+  - ai the somnium files preço
   - gamegulf deals
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Pagamento alto se o tom encaixa.
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: Somniums punindo no começo.
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: Compare JP antes do EU cheio.
     sentiment: positive
 communityMemes:
-  - "AI: THE SOMNIUM FILES sale bingo"
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: "AI: THE SOMNIUM FILES — 86 Metacritic；价格信号偏等折扣。"
+  - cope Somnium
+  - bingo twist
+  - backlog Spike
+  - inveja JP
+  - spoiler rota
+  - meme AI
+tldr: >-
+  AI: THE SOMNIUM FILES — 86 Metacritic ; JP €1,19 em menor histórico facilita
+  comprar.
 priceRows:
   - regionCode: JP
-    eurPrice: 11.88
-    nativePrice: ¥2,200
-    nativeCurrency: JPY
+    eurPrice: 1.19
+    nativePrice: €1.19
+    nativeCurrency: EUR
+  - regionCode: US
+    eurPrice: 3.41
+    nativePrice: $3.41
+    nativeCurrency: USD
+  - regionCode: GB
+    eurPrice: 4.13
+    nativePrice: £4.13
+    nativeCurrency: GBP
   - regionCode: HK
     eurPrice: 16.17
     nativePrice: HK$148
     nativeCurrency: HKD
-  - regionCode: US
-    eurPrice: 17.1
-    nativePrice: $19.99
-    nativeCurrency: USD
   - regionCode: DE
     eurPrice: 19.99
     nativePrice: €19.99
@@ -100,92 +110,72 @@ priceRows:
     eurPrice: 19.99
     nativePrice: €19.99
     nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-cardPriceEur: 11.88
+cardPriceEur: 1.19
 cardPriceRegionCode: JP
 cardPriceRegion: Japão
-cardPrice: EUR 11.88
-cardPriceNative: ¥2,200
-cardPriceNativeCurrency: JPY
+cardPrice: EUR 1.19
+cardPriceNative: €1.19
+cardPriceNativeCurrency: EUR
 faq:
-  - question: "AI: THE SOMNIUM FILES vale a pena no Nintendo Switch em 2026?"
+  - question: "AI: THE SOMNIUM FILES ainda vale no Switch em 2026?"
     answer: >-
-      AI: THE SOMNIUM FILES 是否值得买取决于你是否喜欢Adventure, Puzzle，以及你在 GameGulf
-      上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: "How long is AI: THE SOMNIUM FILES?"
+      AI: THE SOMNIUM FILES ainda vale se você quer o mistério sci-fi da Spike
+      Chunsoft — investigação mais Somniums cronometrados — com críticos
+      alinhados; evite se dublagem densa ou fases contra o relógio são motivo de
+      desistência.
+  - question: "Quanto tempo leva AI: THE SOMNIUM FILES?"
+    answer: "AI: THE SOMNIUM FILES ocupa várias noites salvo rush com guias Somnium."
+  - question: E se os temporizadores do Somnium me irritarem?
     answer: >-
-      AI: THE SOMNIUM FILES — treat runtime as store-listed scope; verify patch
-      notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
-    answer: >-
-      AI: THE SOMNIUM FILES — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price to compare
-      regions without guessing conversions.
+      AI: THE SOMNIUM FILES compensa salvar em série e ensaiar encadeamentos —
+      guias reduzem a curva — mas se countdown é um não absoluto, o gancho
+      narrativo raramente compensa.
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515669520512845.jpeg
 ---
 ## Veredito rápido
 
-**AI: THE SOMNIUM FILES** reads as **86 Metacritic**  — **Adventure, Puzzle** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**AI: THE SOMNIUM FILES** fica em **86 Metacritic** — mistura Spike Chunsoft com **Somniums**.
 
-Histórico de **descontos**: **menor preço histórico** perto de **€2.38** (JP), **4** movimentos em 12 meses, **média em promoção** **€3.44**, último movimento há **122** dias (**2025-12-21 (Japan, €2.38)**, **2026**). Confirme no [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price).
+**menor preço histórico** indexado ~**€1,19** no Japão (**2026-04-21**), **cinco** movimentos **promoção** fortes em um ano, **preço médio promo ~€2,99**, último golpe há **8** dias (**2026-04-21**, Japão **€1,19**). Veja [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price).
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price) so you can sanity-check the **discount** story before checkout.
+**GameGulf** mantém [grade multi-região](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price).
 
-## Quanto custa AI: THE SOMNIUM FILES no Nintendo Switch agora?
+## Quanto custa agora no Switch — preço tabela?
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+`priceRows` abaixo.
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |
 | --- | ---: | ---: |
-| Japão | EUR 11.88 | ¥2,200 |
+| Japão | EUR 1.19 | €1.19 |
+| Estados Unidos | EUR 3.41 | $3.41 |
+| Reino Unido | EUR 4.13 | £4.13 |
 | Hong Kong | EUR 16.17 | HK$148 |
-| Estados Unidos | EUR 17.10 | $19.99 |
 | Alemanha | EUR 19.99 | €19.99 |
 | Espanha | EUR 19.99 | €19.99 |
 | França | EUR 19.99 | €19.99 |
 | Itália | EUR 19.99 | €19.99 |
-| Portugal | EUR 19.99 | €19.99 |
 
-## O que é AI: THE SOMNIUM FILES, na prática?
+## Que jogo é?
 
-**AI: THE SOMNIUM FILES** is a **Adventure, Puzzle** package from **Spike Chunsoft Co., Ltd.** — treat the long store blurb as marketing, but the **genre mix** and **86 Metacritic** signal are the real buying compass.
+Investigação + Somniums encadeados — comparável à série sem exigir já **nirvanA Initiative**.
 
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+## Como roda?
 
-## Como AI: THE SOMNIUM FILES roda no Nintendo Switch?
+Texto/menu primeiro — Switch aguenta bem.
 
-**AI: THE SOMNIUM FILES** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
+## Compre se…
 
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+- Linhas **€1,19–€4** — [grade](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
 
-## Compre se
+## Espere se…
 
-- You want **Adventure, Puzzle** pacing and the **86 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- Só **€19,99** local quando JP mostra **€1,19**
 
-## Espere se
+## Fechamento
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Adventure, Puzzle) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+Com **histórico baixo**, comprar faz sentido.
 
-## AI: THE SOMNIUM FILES no Nintendo Switch — fecho
-
-**AI: THE SOMNIUM FILES** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Use **[gamegulf.com](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)** para a próxima **promoção**.

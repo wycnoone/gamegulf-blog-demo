@@ -131,7 +131,8 @@ function loadBrief(filePath, slug) {
   return null;
 }
 
-async function syncFile(filePath, rates) {
+async function syncFile(filePath, rates, opts = {}) {
+  const { forcePriceRowsFromBrief = false } = opts;
   const absolutePath = resolve(filePath);
   const locale = inferLocaleFromFilePath(absolutePath);
   if (!locale) {
@@ -150,7 +151,7 @@ async function syncFile(filePath, rates) {
   const brief = loadBrief(absolutePath, slug);
 
   let priceRows = normalizePriceRows(frontmatter.priceRows || []);
-  if (priceRows.length === 0 && brief) {
+  if (brief && (forcePriceRowsFromBrief || priceRows.length === 0)) {
     priceRows = normalizePriceRows(buildPriceRowsFromBrief(brief, locale));
     if (priceRows.length < 4 && briefQualifiesForZeroPricePlaceholderGrid(brief)) {
       priceRows = normalizePriceRows(buildZeroPricePlaceholderRows());
@@ -197,9 +198,13 @@ async function syncFile(filePath, rates) {
 }
 
 async function main() {
-  const files = process.argv.slice(2);
+  const argv = process.argv.slice(2);
+  const forceFromBrief = argv.includes('--from-brief');
+  const files = argv.filter((a) => a !== '--from-brief');
   if (files.length === 0) {
-    console.error('Usage: node scripts/sync-article-pricing.mjs <file1.md> [file2.md ...]');
+    console.error(
+      'Usage: node scripts/sync-article-pricing.mjs [--from-brief] <file1.md> [file2.md ...]\n  --from-brief  Rebuild priceRows from content/briefs/{slug}.json when a brief exists.',
+    );
     process.exit(2);
   }
 
@@ -207,7 +212,7 @@ async function main() {
   const results = [];
 
   for (const file of files) {
-    results.push(await syncFile(file, rates));
+    results.push(await syncFile(file, rates, { forcePriceRowsFromBrief: forceFromBrief }));
   }
 
   console.log(JSON.stringify(results, null, 2));

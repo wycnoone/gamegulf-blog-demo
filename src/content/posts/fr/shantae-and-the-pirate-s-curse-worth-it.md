@@ -1,197 +1,137 @@
 ---
-title: Shantae and the Pirate's Curse vaut-il le coup sur Nintendo Switch en 2026 ?
-description: 2026年4月Nintendo Switch购买参考：Shantae and the Pirate's Curse、GameGulf 价格信号与买/等建议。
-publishedAt: "2026-04-22"
-updatedAt: "2026-04-22"
+title: Shantae and the Pirate's Curse sur Switch en 2026 — pour qui ?
+description: >-
+  Mémo avril 2026 : plateforme WayForward ~86 Metacritic, boucle Pirate Gear,
+  et historique GameGulf (bas ~8,11 € en ES, 2025-11-17).
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
 category: worth-it
 gameTitle: Shantae and the Pirate's Curse
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: false
+hasOtherPlatforms: true
 author: GameGulf Editorial AI
 readingTime: 7 min de lecture
-decision: 若口味匹配且 GameGulf 行价在促销带可买；若你只能买到 MSRP 主导区服就更适合等等。
-priceSignal: 索引价差常很明显：低价行与 MSRP 行可能差一档。
+decision: >-
+  Très bon pour les fans WayForward ; la ligne ~16,22 € actuelle mérite alerte
+  ou patience versus anciennes promos.
+priceSignal: Creux indexés ~8,11 € (ES) contre étiquettes euro ~16,22 € aujourd'hui.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price
 gameHref: https://www.gamegulf.com/detail/2FXuQLdeecV
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: 86 Metacritic
-heroNote: Shantae and the Pirate's Curse：Action, Adventure, Platformer；WayForward。
-badge: Acheter maintenant
-verdict: buy_now
-priceCall: buy
-confidence: high
-actionBucket: buy_now
+heroNote: >-
+  Action/plates-formes WayForward ; gadgets pirates ; ~86 Metacritic Switch.
+badge: Bon pour le bon joueur
+verdict: right_player
+priceCall: watch
+confidence: medium
+actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: >-
-  Shantae and the Pirate's Curse：Action, Adventure, Platformer；2026年4月价格分区差值得先对照
-  GameGulf。
-whatItIs: >-
-  Action, Adventure, Platformer — Shantae and the Pirate's Curse on Nintendo
-  Switch.
-bestFor: 想要Action, Adventure, Platformer且接受掌机体量的人。
-avoidIf: 不喜欢Action, Adventure, Platformer气质就别硬买。
-consensusPraise: 口碑集中在玩法与完成度；86 Metacritic 可作质量锚点。
-mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
-timeFit: 体量偏碎片化，不适合当长线主菜。
-fitLabel: 会先对照两个区服再下单的人。
-timingNote: 若你的行价已在促销带，犹豫多半只剩口味；但仍要核对实时行。
-communityVibe: 折扣讨论、掌机体验、补丁话题
+  Chapitre pirate Shantae ; GameGulf ~16,22 € vs bas ~8,11 € (ES).
+whatItIs: "Plateforme 2D : fouet cheveux + pistolet, sabre, chapeau, saut canon."
+bestFor: "Fans de plateformes colorées et animation soignée."
+avoidIf: Vous haïssez le retour arrière pour calamars cœur.
+consensusPraise: ~86 Metacritic ; Steam très positif mais échantillon plus petit.
+mainFriction: Oublis de collecte = allers-retours plus tard.
+timeFit: Un week-end pour finir ; 100 % plus long.
+fitLabel: Comparez étiquette euro à l'historique promo GameGulf.
+timingNote: Si déjà proche d'un bon palier, le goût tranche.
+communityVibe: Série culte WayForward — animation et OST souvent louées
 reviewSignal: 86 Metacritic
-takeaway: Shantae and the Pirate's Curse 更像“价格优先”的决策：用 GameGulf 行价判断紧迫性。
+takeaway: >-
+  Qualité évidente pour les bons goûts ; timing = courbe GameGulf.
 playStyle: Action, Adventure, Platformer
-timeCommitment: Session-friendly.
-playMode: 以商店页多人信息为准；默认偏单机体验。
-whyNow: 今日特惠叠加 GameGulf 追踪，让价差更直观。
-currentDeal: 索引最低价通常在表头几行；请在 GameGulf 对照原生货币。
-nearHistoricalLow: Mixed — compare the live cheapest row to the tracked average.
-salePattern: 过去一年约 3 次促销波动——折扣是常态。
-priceRecommendation: buy
+timeCommitment: Sessions courtes possibles entre donjons.
+playMode: Solo aventure (coop selon fiche).
+whyNow: Trois baisses suivies sur 1 an — courbe lisible.
+currentDeal: Tête de tableau souvent en euros — vérifiez la devise native.
+nearHistoricalLow: Loin du bas ~8,11 € espagnol ; prix catalogue probable.
+salePattern: >-
+  Trois baisses / an indexées ; bas global ~8,11 € (ES, 2025-11-17) ; promo
+  moy. ~10,45 € ; dernière forte baisse ~9,73 € (FR, 2025-12-31).
+priceRecommendation: watch
 quickFilters:
-  - great_on_sale
   - short_sessions
+  - great_on_sale
 playerNeeds:
   - value_for_money
-  - buy_now
+  - wait_for_sale
 tags:
-  - shantae and the pirate's curse nintendo…
-  - shantae and the pirate's curse worth it
-  - shantae and the pirate's curse price
-  - gamegulf deals
+  - shantae pirate curse switch
+  - wayforward switch
+  - nintendo switch prix
+  - gamegulf promos
 playerVoices:
-  - quote: 掌机模式整体可玩。
+  - quote: Mes gadgets pirates préférés de la série.
     sentiment: positive
-  - quote: 深度折扣才值。
+  - quote: J'attends une vraie promo eShop.
     sentiment: mixed
-  - quote: 先看清自己区服行价。
+  - quote: Manque la magie mais le pacing est top.
     sentiment: positive
 communityMemes:
-  - Shantae and the Pirate's Curse sale bin…
-  - patch notes copium
-  - handheld pixel peeping
-  - wishlist graveyard
-  - region hopper
-  - MSRP sticker shock
-tldr: Shantae and the Pirate's Curse — 86 Metacritic；价格信号偏买入（口味要对）。
-priceRows:
-  - regionCode: BR
-    eurPrice: 8.8
-    nativePrice: R$104.99
-    nativeCurrency: BRL
-  - regionCode: DE
-    eurPrice: 16.22
-    nativePrice: €16.22
-    nativeCurrency: EUR
-  - regionCode: ES
-    eurPrice: 16.22
-    nativePrice: €16.22
-    nativeCurrency: EUR
-  - regionCode: FR
-    eurPrice: 16.22
-    nativePrice: €16.22
-    nativeCurrency: EUR
-  - regionCode: IT
-    eurPrice: 16.22
-    nativePrice: €16.22
-    nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 16.22
-    nativePrice: €16.22
-    nativeCurrency: EUR
-  - regionCode: GB
-    eurPrice: 16.77
-    nativePrice: £14.59
-    nativeCurrency: GBP
-  - regionCode: US
-    eurPrice: 17.1
-    nativePrice: $19.99
-    nativeCurrency: USD
-cardPriceEur: 8.8
-cardPriceRegionCode: BR
-cardPriceRegion: Brésil
-cardPrice: EUR 8.80
-cardPriceNative: R$104.99
-cardPriceNativeCurrency: BRL
+  - confiance Risky
+  - FOMO calamars
+  - checklist îles
+  - danse flex
+  - minuteur promo
+tldr: >-
+  Shantae and the Pirate's Curse — ~86 Metacritic ; GameGulf dit de surveiller les promos.
 faq:
-  - question: >-
-      Shantae and the Pirate's Curse vaut-il le coup sur Nintendo Switch en 2026
-      ?
+  - question: Shantae and the Pirate's Curse vaut-il le coup en 2026 ?
     answer: >-
-      Shantae and the Pirate's Curse 是否值得买取决于你是否喜欢Action, Adventure,
-      Platformer，以及你在 GameGulf 上看到的行价是否落在预期促销带；下单前请再核对一次实时价格。
-  - question: How long is Shantae and the Pirate's Curse?
+      Shantae and the Pirate's Curse vaut encore le coup en 2026 si vous voulez
+      du WayForward platformer avec gadgets pirates et ~86 Metacritic — mais
+      GameGulf montre des bas ~8,11 € passés face à des lignes ~16,22 € aujourd'hui.
+  - question: Quelle durée ?
     answer: >-
-      Shantae and the Pirate's Curse — treat runtime as store-listed scope;
-      verify patch notes if you need exact parity.
-  - question: 在哪里核对 Nintendo Switch 价格？
+      Shantae and the Pirate's Curse — un week-end pour l'histoire ; cartes et
+      calamars allongent si vous visez 100 %.
+  - question: Où comparer les prix ?
     answer: >-
-      Shantae and the Pirate's Curse — use the GameGulf detail grid at
-      https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price to compare
-      regions without guessing conversions.
+      Shantae and the Pirate's Curse — grille GameGulf
+      https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price .
 heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
 ---
 ## Verdict rapide
 
-**Shantae and the Pirate's Curse** reads as **86 Metacritic**  — **Action, Adventure, Platformer** beats match what the eShop card promises. **session-friendly runtime** frames how much game you are buying.
+**Shantae and the Pirate's Curse** enlève la **magie génie** et file à **Shantae** un kit **pirate** (pistolet, sabre, chapeau, saut canon) pour débloquer des **îles maudites** en **2D** hyper animée.**~86 Metacritic** sur Switch colle à l'accord commun : **hitboxes** lisibles, **fouet** satisfaisant.**GameGulf** : **trois** baisses suivies l'année passée, **plus bas historique ~8,11 €** en **Espagne (2025-11-17)**, **promo moyenne ~10,45 €**, pendant que beaucoup d'eShop **européens restent ~16,22 €** — ce n'est **pas** un **historical low** sans ligne promo.
 
-Historique des **soldes** : **plus bas historique** vers **€8.11** (ES), **3** mouvements sur 12 mois, **prix moyen promo** **€10.45**, dernière variation notable il y a **112** jours (**2025-12-31 (France, €9.73)**, **2026**). Vérifiez le [tableau GameGulf](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price).
+**[Lignes GameGulf](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** clarifient **promo** vs catalogue.
 
-**GameGulf** keeps this SKU on a [live multi-region grid](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price) so you can sanity-check the **discount** story before checkout.
+## Combien coûte Shantae and the Pirate's Curse sur Switch ?
 
-## Combien coûte Shantae and the Pirate's Curse sur Nintendo Switch aujourd’hui ?
+Les **écarts euro / USD / BRL** restent nets ; le tableau suit **gamegulf.com**.
 
-**Regional pricing moves fast** — the table below is generated from the same **GameGulf** rows we ship in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+## Quel jeu est-ce ?
 
+**WayForward** livre exploration **semi-linéaire**, **donjons**, **calamars cœur** pour upgrades — moins **forme swapping** qu'Half-Genie, plus **gadget gates**. Versus **Metroid Dread**, ton plus **cartoon** et punitions plus douces.
 
-| Région | Prix (équivalent EUR) | Prix natif |
-| --- | ---: | ---: |
-| Brésil | EUR 8.80 | R$104.99 |
-| Allemagne | EUR 16.22 | €16.22 |
-| Espagne | EUR 16.22 | €16.22 |
-| France | EUR 16.22 | €16.22 |
-| Italie | EUR 16.22 | €16.22 |
-| Portugal | EUR 16.22 | €16.22 |
-| Royaume-Uni | EUR 16.77 | £14.59 |
-| États-Unis | EUR 17.10 | $19.99 |
+1. **Combat** — fouet + armes pirates.
+2. **Exploration** — cartes, coffres, labyrinthes optionnels.
+3. **Scope** — arc unique dense.
 
-## Qu’est-ce que Shantae and the Pirate's Curse, vraiment ?
+## Switch : exécution
 
-**Shantae and the Pirate's Curse** is a **Action, Adventure, Platformer** package from **WayForward** — treat the long store blurb as marketing, but the **genre mix** and **86 Metacritic** signal are the real buying compass.
-
-1. **Core loop** — matches what Nintendo Switch buyers usually expect from this category.
-2. **Scope** — **session-friendly runtime** so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
-
-## Comment Shantae and the Pirate's Curse tourne sur Nintendo Switch ?
-
-**Shantae and the Pirate's Curse** targets a **stable, mainstream** read on Nintendo Switch: reasonable loads, controller-first layout, and art that still reads in handheld.
-
-- **Handheld:** UI scale and motion clarity are the main variables — expect modest compromises, not a broken port.
-- **Docked:** If the title is not a particle showcase, docked mode mostly buys you comfort, not miracles.
-- **Controls:** Standard mappings; no exotic gyro requirement unless the store page calls it out.
+Visée **60 fps** pour plateforme précise ; **portable** lisible.**Ralentissements** rares signalés, pas un port cassé généralisé.
 
 ## Achetez si
 
-- You want **Action, Adventure, Platformer** pacing and the **86 Metacritic** band matches your expectations
-- **Your regional row** already sits in the **sale** band **GameGulf** highlights — [double-check here](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)
-- You value **pick-up-and-play** sessions — **session-friendly runtime**
-- You already liked **trailers / demos** and only needed a **price** nudge
-- You prefer **digital convenience** on Nintendo Switch over hunting physical deals
+- Votre **eShop** aligne un **palier ~10 €** vu sur **GameGulf**.
+- Vous voulez du **WayForward** et acceptez **~86** comme repère.
+- Vous enchaîne **la série** chronologiquement.
 
-## Attendez si
+## Attendez / surveillez si
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
-- You dislike the **genre mix** (Action, Adventure, Platformer) regardless of **sale**
-- You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
-- You already own the title elsewhere and only want a **duplicate** at a historic **low**
-- You want **proof of patch parity** — skim forums, then revisit **GameGulf** pricing
+- Étiquette **~16,22 €** alors que **GameGulf** montre **~8,11 €** en **2025**.
+- Vous ne voulez que le **plus bas historique**.
+- **Backtrack calamars** vous fatigue.
 
-## Shantae and the Pirate's Curse sur Nintendo Switch — conclusion
+## Dernier mot
 
-**Shantae and the Pirate's Curse** is a **receipt-driven** decision on Nintendo Switch: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** once, lock the **deal** if your row cooperates, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+Goût **oui** pour les fans ; **gamegulf.com** sur **[cette fiche](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** évite de valider **16,22 €** sans **promo**.

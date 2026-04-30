@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/iG1qRTPsPfn",
     "game_id": "iG1qRTPsPfn",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -28,7 +28,7 @@
       "Action"
     ],
     "release_date": "2023-08-29",
-    "developer": "Sabotage Studio",
+    "developer": null,
     "publisher": "Sabotage Studio",
     "metacritic": 90
   },
@@ -163,22 +163,7 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-03-24",
-              "country_code": "GB",
-              "value": 33.91,
-              "currency": "EUR",
-              "country": "United Kingdom"
-            },
-            {
-              "date": "2026-03-26",
-              "country_code": "BR",
-              "value": 16.77,
-              "currency": "EUR",
-              "country": "Brazil"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
@@ -320,10 +305,10 @@
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581072243019156.octet-stream",
       "metacritic": null,
       "price": 7.4,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_price": 5.18,
+      "discount_rate": 30,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "11 hr",
       "release_date": "2025-09-09",
       "categories": [
         "Adventure",
@@ -331,6 +316,24 @@
         "Puzzle"
       ],
       "url": "https://www.gamegulf.com/detail/liuGmOSDwcr"
+    },
+    {
+      "id": "b6Jh5diag",
+      "title": "Raiders of the North Sea",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515805634719363.jpeg",
+      "metacritic": null,
+      "price": 17.1,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2019-07-30",
+      "categories": [
+        "Board game",
+        "Puzzle",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/b6Jh5diag"
     },
     {
       "id": "iItU2iK3sch",
@@ -352,34 +355,16 @@
       "url": "https://www.gamegulf.com/detail/iItU2iK3sch"
     },
     {
-      "id": "b6Jh5diag",
-      "title": "Raiders of the North Sea",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515805634719363.jpeg",
-      "metacritic": null,
-      "price": 17.1,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2019-07-30",
-      "categories": [
-        "Board game",
-        "Puzzle",
-        "Strategy"
-      ],
-      "url": "https://www.gamegulf.com/detail/b6Jh5diag"
-    },
-    {
       "id": "iAM2LgLaeCo",
       "title": "Tales of the Neon Sea",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/8/177562906662319565.jpeg",
       "metacritic": null,
-      "price": 26,
-      "discount_price": 5.13,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "6 days",
-      "release_date": "2023-03-30",
+      "price": 19.99,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-04-21",
       "categories": [
         "Adventure",
         "Arcade",
@@ -394,12 +379,12 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 19.99,
-      "discount_price": 2.99,
-      "discount_rate": 85,
+      "price": 10.8,
+      "discount_price": null,
+      "discount_rate": null,
       "discount_tag": "Normal",
-      "discount_end": "6 days",
-      "release_date": "2020-07-24",
+      "discount_end": "",
+      "release_date": "2020-11-19",
       "categories": [
         "Action",
         "Adventure",
@@ -432,12 +417,12 @@
       "title": "Dreamscaper",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
       "metacritic": 82,
-      "price": 12.41,
-      "discount_price": 2.48,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2021-08-05",
+      "price": 6.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-08",
       "categories": [
         "Action",
         "Adventure",
@@ -478,7 +463,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:14+00:00"
+      "priceValidUntil": "2026-05-29T19:45:06+00:00"
     },
     {
       "@type": "Offer",
@@ -491,7 +476,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:14+00:00"
+      "priceValidUntil": "2026-05-29T19:45:06+00:00"
     },
     {
       "@type": "Offer",
@@ -504,7 +489,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:14+00:00"
+      "priceValidUntil": "2026-05-29T19:45:06+00:00"
     },
     {
       "@type": "Offer",
@@ -517,7 +502,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:14+00:00"
+      "priceValidUntil": "2026-05-29T19:45:06+00:00"
     },
     {
       "@type": "Offer",
@@ -530,7 +515,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:14+00:00"
+      "priceValidUntil": "2026-05-29T19:45:06+00:00"
     },
     {
       "@type": "Offer",
@@ -543,7 +528,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:14+00:00"
+      "priceValidUntil": "2026-05-29T19:45:06+00:00"
     },
     {
       "@type": "Offer",
@@ -556,7 +541,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:33:14+00:00"
+      "priceValidUntil": "2026-05-29T19:45:06+00:00"
     }
   ],
   "price_analytics": {
@@ -586,7 +571,7 @@
       "discount_events_1y": 4,
       "avg_discount_price_eur": 23.69,
       "sale_periods": [],
-      "days_since_last_discount": 27,
+      "days_since_last_discount": 34,
       "last_discount": {
         "date": "2026-03-26",
         "price_eur": 16.77,
@@ -604,51 +589,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 1244090,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 76454,
       "name": "Sea of Stars",
-      "developer": [
-        "Sabotage Studio"
-      ],
-      "publisher": [
-        "Sabotage Studio"
-      ],
-      "metacritic_score": 87,
-      "metacritic_url": "https://www.metacritic.com/game/pc/sea-of-stars?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Multi-player",
-        "Co-op",
-        "Shared/Split Screen Co-op",
-        "Shared/Split Screen",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Cloud",
-        "Remote Play Together",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Adventure",
-        "Indie",
-        "RPG"
-      ],
-      "steam_price": "$34.99",
-      "total_recommendations": 11307,
-      "short_description": "Sea of Stars is a turn-based RPG inspired by the classics. It tells the story of two Children of the Solstice who will combine the powers of the sun and moon to perform Eclipse Magic, the only force capable of fending off the monstrous creations of the evil alchemist known as The Fleshmancer.",
-      "supported_languages": "English, French, German, Spanish - Spain, Japanese, Korean, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Italian",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 12811,
-        "total_negative": 1562,
-        "total_reviews": 14373,
-        "score_description": "Very Positive",
-        "positive_percent": 89
-      }
-    },
-    "hltb": null
+      "main_story_hours": 28,
+      "main_extra_hours": 35,
+      "completionist_hours": 44,
+      "all_styles_hours": 36,
+      "review_score": 84,
+      "total_submissions": 1995
+    }
   }
 }

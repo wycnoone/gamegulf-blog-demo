@@ -2,7 +2,7 @@
 title: Switch版『ピクミン4』は今買う？セール待ち？
 description: >-
   2026年4月の購入タイミング：インデックス化されたeShop行、日本基準からの差、
-  割引履歴（2025年12月25日の安値）、HLTB、オッチとダンドリ、買い時か価格アラートか。
+  割引履歴（2025年12月25日の安値）、、オッチとダンドリ、買い時か価格アラートか。
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: buy-now-or-wait
@@ -17,43 +17,33 @@ priceSignal: >-
   2026年4月もインデックスは日本が約€35.34換算（¥6,500）付近が先行。履歴では2025年12月25日に
   日本で約€28.27の低め——たまに割引、常時90%オフではない。
 heroStat: 87 Metacritic
-heroNote: >-
-  ファーストパーティのピクミン：オッチ、氷/ヒカリピクミン、巻き戻し前提のミッション、同一機ダンドリ。
+heroNote: ファーストパーティのピクミン：オッチ、氷/ヒカリピクミン、巻き戻し前提のミッション、同一機ダンドリ。
 badge: 向き不向き
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  任天堂系タクティクス——日本が指数をリード。セールは助かるが2025年12月安値の再現は稀。
+listingTakeaway: 任天堂系タクティクス——日本が指数をリード。セールは助かるが2025年12月安値の再現は稀。
 whatItIs: 分隊タクティクス——色ピクミン、オッチ、夜マップ、ダンドリ。
 bestFor: 反射よりルート最適化が好きな人。
 avoidIf: ノンストップアクションがいい、または繊細な隊の世話が苦手。
 consensusPraise: 愛らしい美術、読みやすい目標、ルートが決まると片付けが気持ちいい。
 mainFriction: テンポは落ち着き損失が痛い——巻き戻しが癖になるまで。
-timeFit: HLTB 約18h本筋、29hエクストラ、40hコンプ（コミュニティ）。
+timeFit:  約18h本筋、29hエクストラ、40hコンプ（コミュニティ）。
 fitLabel: 運搬ルートを詰めたい人向け。廊下ダッシュではない。
-timingNote: >-
-  衝動買い前に、自分のeShop行を日本アンカーと2025年12月の安値と比較。
+timingNote: 衝動買い前に、自分のeShop行を日本アンカーと2025年12月の安値と比較。
 communityVibe: オッチ推し、ピクミン損失ミーム、癒し系戦略クリップ
-playtime: 18h本編 · 29h+追加 · 約40hコンプ（HLTB）
+playtime: 18h本編 · 29h+追加 · 約40hコンプ（）
 reviewSignal: 87 Metacritic
-takeaway: >-
-  ピクミン4は「合う人向け」がはっきり——2026年4月価格は日本主導の小売に時々割引、常時バーゲンではない。
-playStyle: >-
-  見下ろし探索、タイプ別分隊、オッチで跳び・運搬、ヒカリ夜ルート、2Pヘルプ、ローカルダンドリ。
-timeCommitment: >-
-  HLTB集計は直通レスキュー約18時間、追加込み約29時間、回収重視で約40時間。
+takeaway: ピクミン4は「合う人向け」がはっきり——2026年4月価格は日本主導の小売に時々割引、常時バーゲンではない。
+playStyle: 見下ろし探索、タイプ別分隊、オッチで跳び・運搬、ヒカリ夜ルート、2Pヘルプ、ローカルダンドリ。
+timeCommitment: 集計は直通レスキュー約18時間、追加込み約29時間、回収重視で約40時間。
 playMode: 1人用＋任意2Pヘルプ。ローカルダンドリ。
-whyNow: >-
-  設計は固定。問いは自分のリージョンが日本アンカーに沿うか、観光地価格か。
-currentDeal: >-
-  インデックスのデジタル積みは日本が約€35.34換算（¥6,500）で先行、同スナップで香港・米・ブラジルが上乗せ。
-nearHistoricalLow: >-
-  いいえ——履歴は2025年12月25日に日本約€28.27。2026年4月リストはその底ではない。
-salePattern: >-
-  第一方セールは来るがすぐ戻る。深い常時カットより穏やかな下落が現実的。
+whyNow: 設計は固定。問いは自分のリージョンが日本アンカーに沿うか、観光地価格か。
+currentDeal: インデックスのデジタル積みは日本が約€35.34換算（¥6,500）で先行、同スナップで香港・米・ブラジルが上乗せ。
+nearHistoricalLow: いいえ——履歴は2025年12月25日に日本約€28.27。2026年4月リストはその底ではない。
+salePattern: 第一方セールは来るがすぐ戻る。深い常時カットより穏やかな下落が現実的。
 priceRecommendation: watch
 quickFilters:
   - nintendo_first_party
@@ -88,8 +78,7 @@ communityMemes:
   - 氷橋ワザ
   - ダンドリ終盤パニック
   - ヒカリ懐中電灯分隊
-tldr: >-
-  ピクミン4 — 約87点の任天堂タクティクス。2026年4月も日本が指数の目安でたまに割引——合うなら買い、底値ならアラート。
+tldr: "Pikmin 4 ピクミン4 — 約87点の任天堂タクティクス。2026年4月も日本が指数の目安でたまに割引——合うなら買い、底値ならアラート。"
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price
 gameHref: https://www.gamegulf.com/detail/c0V9fA7j5D0
@@ -99,20 +88,16 @@ heroTheme: brand
 faq:
   - question: Switch版ピクミン4は今買うべき？
     answer: >-
-      オッチ・夜マップ・ダンドリが欲しく、自分のeShop行がインデックス上の日本アンカーに近いなら今買いで問題ない。
-      2026年4月も日本は約€35.34換算が目安——GameGulfでアカウントを確認。
+      Pikmin 4 オッチ・夜マップ・ダンドリが欲しく、自分のeShop行がインデックス上の日本アンカーに近いなら今買いで問題ない。 2026年4月も日本は約€35.34換算が目安——GameGulfでアカウントを確認。
+
   - question: クリア時間は？
-    answer: >-
-      HLTB集計で本線レスキュー約18時間、追加多めで約29時間、回収重視で約40時間。
+    answer: Pikmin 4 集計で本線レスキュー約18時間、追加多めで約29時間、回収重視で約40時間。
   - question: 協力は？
-    answer: >-
-      2Pは石投げとアイテム補助、同機ダンドリ——RPG共有進行ではないがペア向き。
+    answer: Pikmin 4 2Pは石投げとアイテム補助、同機ダンドリ——RPG共有進行ではないがペア向き。
   - question: Switchでの動きは？
-    answer: >-
-      第一方らしい安定と携帯HUDの可読性。混雑シーンは軽く落ちる程度でスライドショーではない。
+    answer: Pikmin 4 第一方らしい安定と携帯HUDの可読性。混雑シーンは軽く落ちる程度でスライドショーではない。
   - question: 待つ人は？
-    answer: >-
-      eShopが日本指数のだいぶ上にいる、または年末級の安値だけ欲しい——GameGulfで目標価格を設定し次のセールを待つ。
+    answer: Pikmin 4 eShopが日本指数のだいぶ上にいる、または年末級の安値だけ欲しい——GameGulfで目標価格を設定し次のセールを待つ。
 priceRows:
   - regionCode: JP
     eurPrice: 35.34
@@ -133,7 +118,7 @@ priceRows:
 cardPriceEur: 35.34
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 6,500
+cardPrice: JPY 6598
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
 ---
@@ -150,15 +135,16 @@ cardPriceNativeCurrency: JPY
 
 **2026年4月のデジタルスナップショットも日本が約€35.34換算（¥6,500）で先行。**
 
-
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 6602 | ¥6,500 |
-| 香港 | JPY 6807 | HK$329 |
-| アメリカ合衆国 | JPY 9727 | $59.99 |
-| ブラジル | JPY 10966 | R$349 |
+| 日本 | JPY 6610 | ¥6,500 |
+| 香港 | JPY 6816 | HK$329 |
+| アメリカ合衆国 | JPY 9740 | $59.99 |
+| ブラジル | JPY 10980 | R$349 |
 
 **割引履歴**がリスト単体より雄弁：**2025年12月25日**の日本**約€28.27**、同ウィンドウ平均**約€35.89**。今の日本先行は**健全な小売**で、常時バーゲンではない。[ライブ多地域表](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price)で**自分の**アカウントを確認。
+
+Discount history補足：historical low は **€28.27**、直近 sale 帯は **€35.89** を目安に比較すると判断しやすい。
 
 ## どんなゲーム？
 

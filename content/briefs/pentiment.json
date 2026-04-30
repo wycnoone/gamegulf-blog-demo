@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/a4rTYMFl9zT",
     "game_id": "a4rTYMFl9zT",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -26,7 +25,7 @@
       "Puzzle"
     ],
     "release_date": "2024-02-22",
-    "developer": "Obsidian Entertainment",
+    "developer": null,
     "publisher": "Microsoft Studios",
     "metacritic": 90
   },
@@ -36,6 +35,18 @@
       "enabled": true,
       "languages": [],
       "digital": [
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 16.6,
+          "discount_price": 8.3,
+          "discount_rate": 50,
+          "discount_end": "2026-04-30 06:59:59",
+          "discount_end_timestamp": 1777532399,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 8.3
+        },
         {
           "country_code": "US",
           "country": "United States",
@@ -59,18 +70,6 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 11.29
-        },
-        {
-          "country_code": "BR",
-          "country": "Brazil",
-          "price": 16.6,
-          "discount_price": null,
-          "discount_rate": null,
-          "discount_end": null,
-          "discount_end_timestamp": null,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 16.6
         },
         {
           "country_code": "GB",
@@ -205,13 +204,6 @@
               "country": "Spain"
             },
             {
-              "date": "2026-03-20",
-              "country_code": "GB",
-              "value": 17.23,
-              "currency": "EUR",
-              "country": "United Kingdom"
-            },
-            {
               "date": "2026-03-31",
               "country_code": "JP",
               "value": 5.64,
@@ -322,13 +314,6 @@
               "country": "Spain"
             },
             {
-              "date": "2026-03-20",
-              "country_code": "GB",
-              "value": 17.23,
-              "currency": "EUR",
-              "country": "United Kingdom"
-            },
-            {
               "date": "2026-03-31",
               "country_code": "JP",
               "value": 5.64,
@@ -420,12 +405,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -443,7 +428,7 @@
       "discount_price": 1.99,
       "discount_rate": 90,
       "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "discount_end": "2 hr",
       "release_date": "2018-08-07",
       "categories": [
         "Adventure",
@@ -538,7 +523,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:52+00:00"
     },
     {
       "@type": "Offer",
@@ -551,7 +536,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:52+00:00"
     },
     {
       "@type": "Offer",
@@ -564,7 +549,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:52+00:00"
     },
     {
       "@type": "Offer",
@@ -577,7 +562,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:52+00:00"
     },
     {
       "@type": "Offer",
@@ -590,7 +575,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:52+00:00"
     },
     {
       "@type": "Offer",
@@ -603,15 +588,15 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:52+00:00"
     }
   ],
   "price_analytics": {
     "switch 1": {
       "current_cheapest": {
-        "price_eur": 8.55,
-        "region": "United States",
-        "country_code": "US"
+        "price_eur": 8.3,
+        "region": "Brazil",
+        "country_code": "BR"
       },
       "global_low": {
         "price_eur": 5.64,
@@ -630,8 +615,8 @@
         "date": "2025-06-25"
       },
       "at_or_near_historical_low": false,
-      "discount_events_1y": 10,
-      "avg_discount_price_eur": 9.64,
+      "discount_events_1y": 9,
+      "avg_discount_price_eur": 8.8,
       "sale_periods": [
         {
           "start": "2025-06-25",
@@ -642,14 +627,14 @@
           "end": "2026-03-31"
         }
       ],
-      "days_since_last_discount": 22,
+      "days_since_last_discount": 29,
       "last_discount": {
         "date": "2026-03-31",
         "price_eur": 5.64,
         "region": "Japan",
-        "drop_pct": 67
+        "drop_pct": 72
       },
-      "trend_entries_count": 16,
+      "trend_entries_count": 15,
       "price_verdict": "regular_discounter"
     }
   },
@@ -660,44 +645,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 1205520,
-      "name": "Pentiment",
-      "developer": [
-        "Obsidian Entertainment"
-      ],
-      "publisher": [
-        "Xbox Game Studios"
-      ],
-      "metacritic_score": 88,
-      "metacritic_url": "https://www.metacritic.com/game/pc/pentiment?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Adventure",
-        "Casual"
-      ],
-      "steam_price": "$9.99",
-      "total_recommendations": 8678,
-      "short_description": "Step into a living illustrated world in a time when Europe is at a crossroads of great religious and political change. Walk in the footsteps of Andreas Maler, a master artist who finds himself in the middle of murders, scandals, and intrigue in the Bavarian Alps.",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain, Polish, Portuguese - Brazil, Japanese, Korean, Russian, Simplified Chinese",
-      "platforms": {
-        "windows": true,
-        "mac": false,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 8697,
-        "total_negative": 438,
-        "total_reviews": 9135,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 95
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/4mIisPNpCWM",
     "game_id": "4mIisPNpCWM",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-26",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf"
@@ -273,12 +273,12 @@
       "title": "Alvastia Chronicles",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516287784613034.jpeg",
       "metacritic": null,
-      "price": 7.13,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2019-02-07",
+      "price": 12.78,
+      "discount_price": 5.68,
+      "discount_rate": 55,
+      "discount_tag": "LowPrice",
+      "discount_end": "13 days",
+      "release_date": "2022-11-17",
       "categories": [
         "Adventure",
         "Role-playing",
@@ -291,12 +291,12 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 19.99,
-      "discount_price": 2.99,
-      "discount_rate": 85,
+      "price": 10.8,
+      "discount_price": 0.95,
+      "discount_rate": 91,
       "discount_tag": "Normal",
-      "discount_end": "6 days",
-      "release_date": "2020-07-24",
+      "discount_end": "2 days",
+      "release_date": "2020-11-19",
       "categories": [
         "Action",
         "Adventure",
@@ -326,6 +326,25 @@
       "url": "https://www.gamegulf.com/detail/76s5sRMJv1y"
     },
     {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 6.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-08",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
       "id": "kYo4NRMWRCG",
       "title": "Ultra Pixel Survive",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509832319710446.jpeg",
@@ -342,25 +361,6 @@
         "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
-    },
-    {
-      "id": "1e3hgKilc1O",
-      "title": "Dreamscaper",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
-      "metacritic": 82,
-      "price": 12.41,
-      "discount_price": 2.48,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2021-08-05",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Role-playing",
-        "Simulation"
-      ],
-      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
     }
   ],
   "schema_offers": [
@@ -375,7 +375,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:43+00:00"
+      "priceValidUntil": "2026-05-26T19:36:25+00:00"
     },
     {
       "@type": "Offer",
@@ -388,7 +388,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:43+00:00"
+      "priceValidUntil": "2026-05-26T19:36:25+00:00"
     },
     {
       "@type": "Offer",
@@ -401,7 +401,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:43+00:00"
+      "priceValidUntil": "2026-05-26T19:36:25+00:00"
     },
     {
       "@type": "Offer",
@@ -414,7 +414,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:43+00:00"
+      "priceValidUntil": "2026-05-26T19:36:25+00:00"
     },
     {
       "@type": "Offer",
@@ -427,7 +427,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:43+00:00"
+      "priceValidUntil": "2026-05-26T19:36:25+00:00"
     },
     {
       "@type": "Offer",
@@ -440,7 +440,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:43+00:00"
+      "priceValidUntil": "2026-05-26T19:36:25+00:00"
     },
     {
       "@type": "Offer",
@@ -453,7 +453,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:35:43+00:00"
+      "priceValidUntil": "2026-05-26T19:36:25+00:00"
     }
   ],
   "price_analytics": {

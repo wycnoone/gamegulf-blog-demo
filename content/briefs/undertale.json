@@ -2,11 +2,12 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/dvI6J2brEaR",
     "game_id": "dvI6J2brEaR",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "steam",
+      "hltb"
     ]
   },
   "game": {
@@ -49,42 +50,6 @@
           "calculate_value": 5.77
         },
         {
-          "country_code": "GB",
-          "country": "United Kingdom",
-          "price": 13.78,
-          "discount_price": 9.09,
-          "discount_rate": 34,
-          "discount_end": "2026-04-23 22:59:59",
-          "discount_end_timestamp": 1776985199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 9.09
-        },
-        {
-          "country_code": "DE",
-          "country": "Germany",
-          "price": 14.99,
-          "discount_price": 9.89,
-          "discount_rate": 34,
-          "discount_end": "2026-04-23 21:59:59",
-          "discount_end_timestamp": 1776981599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 9.89
-        },
-        {
-          "country_code": "IT",
-          "country": "Italy",
-          "price": 14.99,
-          "discount_price": 9.89,
-          "discount_rate": 34,
-          "discount_end": "2026-04-23 21:59:59",
-          "discount_end_timestamp": 1776981599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 9.89
-        },
-        {
           "country_code": "US",
           "country": "United States",
           "price": 12.82,
@@ -109,6 +74,30 @@
           "calculate_value": 13.25
         },
         {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 13.78,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 13.78
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
           "country_code": "ES",
           "country": "Spain",
           "price": 14.99,
@@ -123,6 +112,18 @@
         {
           "country_code": "FR",
           "country": "France",
+          "price": 14.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 14.99
+        },
+        {
+          "country_code": "IT",
+          "country": "Italy",
           "price": 14.99,
           "discount_price": null,
           "discount_rate": null,
@@ -151,31 +152,17 @@
           "period": "30 D",
           "entries": [
             {
-              "date": "2026-03-24",
-              "country_code": "BR",
-              "value": 13.25,
+              "date": "2026-04-05",
+              "country_code": "JP",
+              "value": 5.77,
               "currency": "EUR",
-              "country": "Brazil"
+              "country": "Japan"
             }
           ]
         },
         {
           "period": "180 D",
           "entries": [
-            {
-              "date": "2025-10-28",
-              "country_code": "JP",
-              "value": 8.75,
-              "currency": "EUR",
-              "country": "Japan"
-            },
-            {
-              "date": "2025-10-31",
-              "country_code": "US",
-              "value": 8.46,
-              "currency": "EUR",
-              "country": "United States"
-            },
             {
               "date": "2025-11-03",
               "country_code": "JP",
@@ -259,26 +246,40 @@
               "value": 13.25,
               "currency": "EUR",
               "country": "Brazil"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-26",
+              "country_code": "GB",
+              "value": 9.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-29",
+              "country_code": "US",
+              "value": 8.46,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-05",
+              "country_code": "JP",
+              "value": 5.77,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         },
         {
           "period": "1 Y",
           "entries": [
-            {
-              "date": "2025-05-01",
-              "country_code": "JP",
-              "value": 8.75,
-              "currency": "EUR",
-              "country": "Japan"
-            },
-            {
-              "date": "2025-05-02",
-              "country_code": "JP",
-              "value": 5.25,
-              "currency": "EUR",
-              "country": "Japan"
-            },
             {
               "date": "2025-09-03",
               "country_code": "GB",
@@ -390,6 +391,34 @@
               "value": 13.25,
               "currency": "EUR",
               "country": "Brazil"
+            },
+            {
+              "date": "2026-03-25",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-03-26",
+              "country_code": "GB",
+              "value": 9.09,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-03-29",
+              "country_code": "US",
+              "value": 8.46,
+              "currency": "EUR",
+              "country": "United States"
+            },
+            {
+              "date": "2026-04-05",
+              "country_code": "JP",
+              "value": 5.77,
+              "currency": "EUR",
+              "country": "Japan"
             }
           ]
         }
@@ -420,11 +449,11 @@
       "title": "Persona 5 Royal",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613886744511224.jpeg",
       "metacritic": 94,
-      "price": 49.47,
-      "discount_price": 14.84,
-      "discount_rate": 70,
-      "discount_tag": "Normal",
-      "discount_end": "7 days",
+      "price": 41.47,
+      "discount_price": 8.29,
+      "discount_rate": 80,
+      "discount_tag": "NewLowPrice",
+      "discount_end": "18 days",
       "release_date": "2022-10-21",
       "categories": [
         "Role-playing"
@@ -474,12 +503,12 @@
       "title": "Alvastia Chronicles",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516287784613034.jpeg",
       "metacritic": null,
-      "price": 7.13,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2019-02-07",
+      "price": 12.78,
+      "discount_price": 5.68,
+      "discount_rate": 55,
+      "discount_tag": "LowPrice",
+      "discount_end": "10 days",
+      "release_date": "2022-11-17",
       "categories": [
         "Adventure",
         "Role-playing",
@@ -492,12 +521,12 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 19.99,
-      "discount_price": 2.99,
-      "discount_rate": 85,
+      "price": 10.8,
+      "discount_price": null,
+      "discount_rate": null,
       "discount_tag": "Normal",
-      "discount_end": "6 days",
-      "release_date": "2020-07-24",
+      "discount_end": "",
+      "release_date": "2020-11-19",
       "categories": [
         "Action",
         "Adventure",
@@ -545,6 +574,25 @@
       "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
     },
     {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 6.17,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-08",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
+    },
+    {
       "id": "fqKZ1EmTKab",
       "title": "Pokémon™: Let’s Go, Pikachu!",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516564778218342.jpeg",
@@ -559,25 +607,6 @@
         "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/fqKZ1EmTKab"
-    },
-    {
-      "id": "1e3hgKilc1O",
-      "title": "Dreamscaper",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
-      "metacritic": 82,
-      "price": 12.41,
-      "discount_price": 2.48,
-      "discount_rate": 80,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2021-08-05",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Role-playing",
-        "Simulation"
-      ],
-      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
     }
   ],
   "schema_offers": [
@@ -592,7 +621,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:13+00:00"
+      "priceValidUntil": "2026-05-29T19:16:27+00:00"
     },
     {
       "@type": "Offer",
@@ -605,7 +634,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:13+00:00"
+      "priceValidUntil": "2026-05-29T19:16:27+00:00"
     },
     {
       "@type": "Offer",
@@ -618,7 +647,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:13+00:00"
+      "priceValidUntil": "2026-05-29T19:16:27+00:00"
     },
     {
       "@type": "Offer",
@@ -631,7 +660,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:13+00:00"
+      "priceValidUntil": "2026-05-29T19:16:27+00:00"
     },
     {
       "@type": "Offer",
@@ -644,7 +673,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:13+00:00"
+      "priceValidUntil": "2026-05-29T19:16:27+00:00"
     },
     {
       "@type": "Offer",
@@ -657,7 +686,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:32:13+00:00"
+      "priceValidUntil": "2026-05-29T19:16:27+00:00"
     }
   ],
   "price_analytics": {
@@ -668,9 +697,9 @@
         "country_code": "JP"
       },
       "global_low": {
-        "price_eur": 5.25,
+        "price_eur": 5.77,
         "region": "JP",
-        "date": "2025-05-02"
+        "date": "2025-11-03"
       },
       "local_low": {
         "price_eur": 12.82,
@@ -678,24 +707,24 @@
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 5.25,
+        "price_eur": 5.77,
         "region": "JP",
         "country": "Japan",
-        "date": "2025-05-02"
+        "date": "2025-11-03"
       },
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 13,
-      "avg_discount_price_eur": 8.56,
+      "at_or_near_historical_low": true,
+      "discount_events_1y": 16,
+      "avg_discount_price_eur": 8.89,
       "sale_periods": [],
-      "days_since_last_discount": 29,
+      "days_since_last_discount": 24,
       "last_discount": {
-        "date": "2026-03-24",
-        "price_eur": 13.25,
-        "region": "Brazil",
-        "drop_pct": 4
+        "date": "2026-04-05",
+        "price_eur": 5.77,
+        "region": "Japan",
+        "drop_pct": 32
       },
-      "trend_entries_count": 18,
-      "price_verdict": "near_historical_low"
+      "trend_entries_count": 20,
+      "price_verdict": "at_historical_low"
     }
   },
   "product_links": {
@@ -727,8 +756,8 @@
         "Indie",
         "RPG"
       ],
-      "steam_price": "$2.49",
-      "total_recommendations": 288506,
+      "steam_price": "¥ 36.00",
+      "total_recommendations": 289085,
       "short_description": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
       "supported_languages": "English, Japanese",
       "platforms": {
@@ -737,13 +766,22 @@
         "linux": true
       },
       "reviews": {
-        "total_positive": 309771,
-        "total_negative": 11223,
-        "total_reviews": 320994,
+        "total_positive": 310365,
+        "total_negative": 11247,
+        "total_reviews": 321612,
         "score_description": "Overwhelmingly Positive",
         "positive_percent": 97
       }
     },
-    "hltb": null
+    "hltb": {
+      "hltb_id": 30385,
+      "name": "Undertale",
+      "main_story_hours": 7,
+      "main_extra_hours": 11,
+      "completionist_hours": 21,
+      "all_styles_hours": 10,
+      "review_score": 87,
+      "total_submissions": 5422
+    }
   }
 }

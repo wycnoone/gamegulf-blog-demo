@@ -2,11 +2,10 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/6QsTv19f45u",
     "game_id": "6QsTv19f45u",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf",
-      "steam"
+      "gamegulf"
     ]
   },
   "game": {
@@ -27,7 +26,7 @@
       "Simulation"
     ],
     "release_date": "2024-02-20",
-    "developer": "LocalThunk",
+    "developer": null,
     "publisher": "Playstack",
     "metacritic": 90
   },
@@ -183,13 +182,6 @@
               "value": 7.54,
               "currency": "EUR",
               "country": "Brazil"
-            },
-            {
-              "date": "2026-04-21",
-              "country_code": "ES",
-              "value": 13.99,
-              "currency": "EUR",
-              "country": "Spain"
             }
           ]
         },
@@ -230,13 +222,6 @@
               "value": 7.54,
               "currency": "EUR",
               "country": "Brazil"
-            },
-            {
-              "date": "2026-04-21",
-              "country_code": "ES",
-              "value": 13.99,
-              "currency": "EUR",
-              "country": "Spain"
             }
           ]
         },
@@ -305,13 +290,6 @@
               "value": 7.54,
               "currency": "EUR",
               "country": "Brazil"
-            },
-            {
-              "date": "2026-04-21",
-              "country_code": "ES",
-              "value": 13.99,
-              "currency": "EUR",
-              "country": "Spain"
             }
           ]
         }
@@ -377,11 +355,18 @@
           "period": "30 D",
           "entries": [
             {
-              "date": "2026-04-02",
-              "country_code": "BR",
-              "value": 7.54,
+              "date": "2026-04-04",
+              "country_code": "DE",
+              "value": 13.99,
               "currency": "EUR",
-              "country": "Brazil"
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
             }
           ]
         },
@@ -389,11 +374,18 @@
           "period": "180 D",
           "entries": [
             {
-              "date": "2026-04-02",
-              "country_code": "BR",
-              "value": 7.54,
+              "date": "2026-04-04",
+              "country_code": "DE",
+              "value": 13.99,
               "currency": "EUR",
-              "country": "Brazil"
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
             }
           ]
         },
@@ -401,11 +393,18 @@
           "period": "1 Y",
           "entries": [
             {
-              "date": "2026-04-02",
-              "country_code": "BR",
-              "value": 7.54,
+              "date": "2026-04-04",
+              "country_code": "DE",
+              "value": 13.99,
               "currency": "EUR",
-              "country": "Brazil"
+              "country": "Germany"
+            },
+            {
+              "date": "2026-04-29",
+              "country_code": "US",
+              "value": 12.82,
+              "currency": "EUR",
+              "country": "United States"
             }
           ]
         }
@@ -480,12 +479,12 @@
       "title": "Overcooked! 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516860867215327.jpeg",
       "metacritic": 81,
-      "price": 22.45,
-      "discount_price": 5.61,
-      "discount_rate": 75,
+      "price": 26.83,
+      "discount_price": 18.78,
+      "discount_rate": 30,
       "discount_tag": "Normal",
-      "discount_end": "1 days",
-      "release_date": "2021-04-27",
+      "discount_end": "14 days",
+      "release_date": "2025-11-06",
       "categories": [
         "Party",
         "Strategy",
@@ -518,12 +517,12 @@
       "title": "Overcooked! All You Can Eat",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513564135811401.jpeg",
       "metacritic": 87,
-      "price": 22.14,
-      "discount_price": 6.64,
+      "price": 34.47,
+      "discount_price": 10.33,
       "discount_rate": 70,
       "discount_tag": "Normal",
-      "discount_end": "4 days",
-      "release_date": "2021-07-21",
+      "discount_end": "6 days",
+      "release_date": "2021-03-23",
       "categories": [
         "Simulation",
         "Strategy",
@@ -620,7 +619,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T16:35:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:29+00:00"
     },
     {
       "@type": "Offer",
@@ -633,7 +632,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T16:35:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:29+00:00"
     },
     {
       "@type": "Offer",
@@ -646,7 +645,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T16:35:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:29+00:00"
     },
     {
       "@type": "Offer",
@@ -659,7 +658,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T16:35:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:29+00:00"
     },
     {
       "@type": "Offer",
@@ -672,7 +671,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T16:35:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:29+00:00"
     },
     {
       "@type": "Offer",
@@ -685,7 +684,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T16:35:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:29+00:00"
     },
     {
       "@type": "Offer",
@@ -698,7 +697,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T16:35:54+00:00"
+      "priceValidUntil": "2026-05-29T19:36:29+00:00"
     }
   ],
   "price_analytics": {
@@ -728,14 +727,14 @@
       "discount_events_1y": 5,
       "avg_discount_price_eur": 9.94,
       "sale_periods": [],
-      "days_since_last_discount": 3,
+      "days_since_last_discount": 11,
       "last_discount": {
         "date": "2026-04-18",
         "price_eur": 7.54,
         "region": "Brazil",
         "drop_pct": 18
       },
-      "trend_entries_count": 10,
+      "trend_entries_count": 9,
       "price_verdict": "at_historical_low"
     },
     "switch 2": {
@@ -745,9 +744,9 @@
         "country_code": "BR"
       },
       "global_low": {
-        "price_eur": 7.54,
-        "region": "BR",
-        "date": "2026-04-02"
+        "price_eur": 12.82,
+        "region": "US",
+        "date": "2026-04-29"
       },
       "local_low": {
         "price_eur": 12.82,
@@ -755,18 +754,23 @@
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 7.54,
-        "region": "BR",
-        "country": "Brazil",
-        "date": "2026-04-02"
+        "price_eur": 12.82,
+        "region": "US",
+        "country": "United States",
+        "date": "2026-04-29"
       },
       "at_or_near_historical_low": true,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 12.82,
       "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 1,
+      "days_since_last_discount": 0,
+      "last_discount": {
+        "date": "2026-04-29",
+        "price_eur": 12.82,
+        "region": "United States",
+        "drop_pct": 8
+      },
+      "trend_entries_count": 2,
       "price_verdict": "at_historical_low"
     }
   },
@@ -777,52 +781,7 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 2379780,
-      "name": "Balatro",
-      "developer": [
-        "LocalThunk"
-      ],
-      "publisher": [
-        "Playstack"
-      ],
-      "metacritic_score": 90,
-      "metacritic_url": "https://www.metacritic.com/game/pc/balatro?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Color Alternatives",
-        "Custom Volume Controls",
-        "Mouse Only Option",
-        "Playable without Timed Input",
-        "Touch Only Option",
-        "Steam Cloud",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Casual",
-        "Indie",
-        "Strategy"
-      ],
-      "steam_price": "13,99€",
-      "total_recommendations": 152825,
-      "short_description": "The poker roguelike. Balatro is a hypnotically satisfying deckbuilder where you play illegal poker hands, discover game-changing jokers, and trigger adrenaline-pumping, outrageous combos.",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain, Dutch, Japanese, Polish, Portuguese - Brazil, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": false
-      },
-      "reviews": {
-        "total_positive": 185177,
-        "total_negative": 3965,
-        "total_reviews": 189142,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 98
-      }
-    },
+    "steam": null,
     "hltb": null
   }
 }

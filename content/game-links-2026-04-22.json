@@ -1,0 +1,37 @@
+{
+  "date": "2026-04-22",
+  "source_note": "Items 6–10 in file order from content/popular-batch-urls.txt (lines 8–12). The export script export-game-links-by-published-date.mjs targets publishedAt===date and returns empty for 2026-04-22 in this repo.",
+  "count": 5,
+  "games": [
+    {
+      "index": 6,
+      "gameHref": "https://www.gamegulf.com/detail/3GVaaSqOXnv",
+      "expectedSlug": "hades-worth-it",
+      "article_status": "EXISTS_7_LOCALES"
+    },
+    {
+      "index": 7,
+      "gameHref": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "expectedSlug": "super-smash-bros-ultimate-worth-it",
+      "article_status": "EXISTS_7_LOCALES"
+    },
+    {
+      "index": 8,
+      "gameHref": "https://www.gamegulf.com/detail/dvI6J2brEaR",
+      "slug": "undertale-worth-it",
+      "article_status": "GENERATED_THIS_SESSION"
+    },
+    {
+      "index": 9,
+      "gameHref": "https://www.gamegulf.com/detail/hOtepbk2uh2",
+      "expectedSlug": "mario-kart-8-deluxe",
+      "article_status": "EXISTS_7_LOCALES"
+    },
+    {
+      "index": 10,
+      "gameHref": "https://www.gamegulf.com/detail/7eOWUfu8QJS",
+      "slug": "bayonetta-2-worth-it",
+      "article_status": "GENERATED_THIS_SESSION"
+    }
+  ]
+}

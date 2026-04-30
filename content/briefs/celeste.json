@@ -2,11 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/83uNBGDNnOl",
     "game_id": "83uNBGDNnOl",
-    "extracted_at": "2026-04-21",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
-      "steam"
+      "hltb"
     ]
   },
   "game": {
@@ -28,7 +28,7 @@
       "Action"
     ],
     "release_date": "2018-01-25",
-    "developer": "Maddy Makes Games Inc., Extremely OK Games, Ltd.",
+    "developer": null,
     "publisher": "Maddy Makes Games",
     "metacritic": 92
   },
@@ -38,18 +38,6 @@
       "enabled": true,
       "languages": [],
       "digital": [
-        {
-          "country_code": "BR",
-          "country": "Brazil",
-          "price": 10.06,
-          "discount_price": 2.51,
-          "discount_rate": 75,
-          "discount_end": "2026-04-22 15:59:59",
-          "discount_end_timestamp": 1776873599,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 2.51
-        },
         {
           "country_code": "IT",
           "country": "Italy",
@@ -73,6 +61,18 @@
           "currency": "EUR",
           "currency_symbol": "€",
           "calculate_value": 4.99
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 10.06,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 10.06
         },
         {
           "country_code": "JP",
@@ -226,11 +226,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -245,12 +245,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "2 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -319,6 +319,25 @@
       "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
     },
     {
+      "id": "i8HmgHBnC2u",
+      "title": "Slime-san",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517438380218823.jpeg",
+      "metacritic": 82,
+      "price": 6.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2017-10-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/i8HmgHBnC2u"
+    },
+    {
       "id": "23lHeDBgYEs",
       "title": "S.O.L Search of Light",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507840333618122.jpeg",
@@ -338,25 +357,6 @@
         "Strategy"
       ],
       "url": "https://www.gamegulf.com/detail/23lHeDBgYEs"
-    },
-    {
-      "id": "i8HmgHBnC2u",
-      "title": "Slime-san",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517438380218823.jpeg",
-      "metacritic": 82,
-      "price": 11.5,
-      "discount_price": 2.3,
-      "discount_rate": 80,
-      "discount_tag": "Normal",
-      "discount_end": "2 days",
-      "release_date": "2017-08-03",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Other"
-      ],
-      "url": "https://www.gamegulf.com/detail/i8HmgHBnC2u"
     }
   ],
   "schema_offers": [
@@ -371,7 +371,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+      "priceValidUntil": "2026-05-29T19:25:08+00:00"
     },
     {
       "@type": "Offer",
@@ -384,7 +384,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+      "priceValidUntil": "2026-05-29T19:25:08+00:00"
     },
     {
       "@type": "Offer",
@@ -397,7 +397,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+      "priceValidUntil": "2026-05-29T19:25:08+00:00"
     },
     {
       "@type": "Offer",
@@ -410,7 +410,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+      "priceValidUntil": "2026-05-29T19:25:08+00:00"
     },
     {
       "@type": "Offer",
@@ -423,7 +423,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+      "priceValidUntil": "2026-05-29T19:25:08+00:00"
     },
     {
       "@type": "Offer",
@@ -436,15 +436,15 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-21T19:21:50+00:00"
+      "priceValidUntil": "2026-05-29T19:25:08+00:00"
     }
   ],
   "price_analytics": {
     "switch 1": {
       "current_cheapest": {
-        "price_eur": 2.51,
-        "region": "Brazil",
-        "country_code": "BR"
+        "price_eur": 4.99,
+        "region": "Italy",
+        "country_code": "IT"
       },
       "global_low": null,
       "local_low": {
@@ -470,51 +470,16 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": {
-      "steam_app_id": 504230,
+    "steam": null,
+    "hltb": {
+      "hltb_id": 42818,
       "name": "Celeste",
-      "developer": [
-        "Maddy Makes Games Inc.",
-        "Extremely OK Games, Ltd."
-      ],
-      "publisher": [
-        "Maddy Makes Games Inc."
-      ],
-      "metacritic_score": 88,
-      "metacritic_url": "https://www.metacritic.com/game/pc/celeste?ftag=MCD-06-10aaa1f",
-      "categories": [
-        "Single-player",
-        "Steam Achievements",
-        "Full controller support",
-        "Steam Trading Cards",
-        "Steam Cloud",
-        "Remote Play on Phone",
-        "Remote Play on Tablet",
-        "Remote Play on TV",
-        "Family Sharing"
-      ],
-      "genres": [
-        "Action",
-        "Adventure",
-        "Indie"
-      ],
-      "steam_price": "62.500₫",
-      "total_recommendations": 124931,
-      "short_description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
-      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Portuguese - Brazil, Russian, Simplified Chinese",
-      "platforms": {
-        "windows": true,
-        "mac": true,
-        "linux": true
-      },
-      "reviews": {
-        "total_positive": 135700,
-        "total_negative": 3572,
-        "total_reviews": 139272,
-        "score_description": "Overwhelmingly Positive",
-        "positive_percent": 97
-      }
-    },
-    "hltb": null
+      "main_story_hours": 8,
+      "main_extra_hours": 15,
+      "completionist_hours": 39,
+      "all_styles_hours": 13,
+      "review_score": 88,
+      "total_submissions": 6355
+    }
   }
 }

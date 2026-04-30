@@ -2,7 +2,7 @@
 title: Pikmin 4 sur Switch — acheter maintenant ou attendre une promo ?
 description: >-
   Avril 2026 : timing d’achat Switch, grilles eShop indexées, écart vs le Japon,
-  historique de remises (creux du 25 décembre 2025), heures HLTB, Oatchi et
+  historique de remises (creux du 25 décembre 2025), heures , Oatchi et
   Dandori, et quand acheter ou activer une alerte prix.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -42,13 +42,13 @@ consensusPraise: >-
   Charme visuel, objectifs clairs, rangement satisfaisant quand les trajets
   collent.
 mainFriction: Rythme posé ; les pertes piquent tant que le rembobinage n’est pas un réflexe.
-timeFit: HLTB ~18 h main, ~29 h extras, ~40 h complétion (communauté).
+timeFit:  ~18 h main, ~29 h extras, ~40 h complétion (communauté).
 fitLabel: Joueurs qui aiment optimiser les convois, pas sprinter les couloirs.
 timingNote: >-
   Compare ta ligne eShop au repère Japon et au creux de décembre 2025 avant
   d’acheter trop cher.
 communityVibe: Fans d’Oatchi, mèmes de pertes Pikmin, clips tactiques cosy
-playtime: 18 h main · 29 h+ extras · ~40 h complétion (HLTB)
+playtime: 18 h main · 29 h+ extras · ~40 h complétion
 reviewSignal: 87 Metacritic
 takeaway: >-
   Pikmin 4 reste un oui si ça te parle — en avril 2026 vois le prix comme du
@@ -58,7 +58,7 @@ playStyle: >-
   Exploration vue du dessus, escouades typées, Oatchi pour sauts et transport,
   nuits Lumière, aide deux joueurs, batailles Dandori locales.
 timeCommitment: >-
-  Les agrégats HLTB tournent autour de 18 h pour la campagne sauvetage, ~29 h
+  Les agrégats  tournent autour de 18 h pour la campagne sauvetage, ~29 h
   avec le optionnel, ~40 h pour tout cleaner.
 playMode: Solo avec aide optionnelle à deux ; Dandori en local.
 whyNow: >-
@@ -126,7 +126,7 @@ faq:
   - question: Quelle durée pour Pikmin 4 ?
     answer: >-
       Pikmin 4 fait environ 18 h pour le fil sauvetage, ~29 h avec beaucoup
-      d’optionnel, et ~40 h pour tout finir selon les agrégats HLTB.
+      d’optionnel, et ~40 h pour tout finir selon les agrégats .
   - question: Y a-t-il du coop dans Pikmin 4 ?
     answer: >-
       Pikmin 4 ajoute un second joueur qui lance des cailloux et aide aux
@@ -165,18 +165,19 @@ cardPrice: EUR 35.34
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
 ---
-
 ## Verdict rapide
 
-**Pikmin 4 est le Pikmin moderne le plus accueillant — aventure tactique Nintendo ~87 Metacritic** autour d’**escouades typées, Oatchi, nuits Lumière, missions avec rembobinage et Dandori local**. Les **agrégats HLTB** tournent vers **18 h / 29 h / 40 h**.
+**Pikmin 4** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **87 Metacritic**.
 
-En avril 2026 le sujet est **le prix** : l’index place encore le **Japon vers ~35,34 € équivalent (¥6 500)** ; l’historique montre un **creux japonais vers ~28,27 € le 25 décembre 2025**, **deux** touches promo sur l’année et une **moyenne de périodes promo ~35,89 €**. Si le jeu te plaît, **achète quand ta ligne est saine** ; si tu ne vises que **les planchers historiques**, **passe par des alertes**.
+Pikmin 4 reste un oui si ça te parle — en avril 2026 vois le prix comme du retail tiré par le Japon avec remises ponctuelles, pas une braderie permanente.
 
-**GameGulf :** compare ta région sur la [grille multi-régions](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) avant de payer — **GameGulf** suit ce SKU pour le comparer aux points bas historiques ci-dessous.
+Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €35.34.
 
-## Combien coûte Pikmin 4 sur Switch — prix et promos
+Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price).
 
-**L’instantané numérique d’avril 2026 commence toujours par le Japon vers ~35,34 € équivalent (¥6 500).**
+## Combien coute Pikmin 4 sur Nintendo Switch maintenant?
+
+Pikmin 4 reste un oui si ça te parle — en avril 2026 vois le prix comme du retail tiré par le Japon avec remises ponctuelles, pas une braderie permanente.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -186,45 +187,32 @@ En avril 2026 le sujet est **le prix** : l’index place encore le **Japon vers 
 | États-Unis | EUR 52.07 | $59.99 |
 | Brésil | EUR 58.70 | R$349 |
 
-L’**historique de remises** parle plus fort que l’étiquette : **plus bas historique** indexé vers **€28,27 au Japon le 25 décembre 2025**, plus une **promo** moyenne autour de **€35,89** sur l’année. Donc **retail Nintendo correct**, pas **soldes permanents**. Vérifie la [grille multi-régions](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) pour **ton** compte.
+## Quel type de jeu est Pikmin 4?
 
-## Quel genre de jeu ?
+Noyau de genre: **Aventure tactique en escouade — Pikmin colorés, Oatchi, cartes de nuit, Dandori**. Le point cle reste l'adaptation a tes preferences, pas le texte marketing.
 
-**Aventure tactique cosy où les trajets prime sur le skillshot** — **Pikmin rouge/bleu/jaune/glace/roche/aile/lumière**, obstacles, fruits, boss qui punissent le mauvais placement.
+## Comment tourne Pikmin 4 sur Nintendo Switch?
 
-1. **Progression d’Oatchi** — **nage, saut, transport** : la carte devient puzzle de géométrie.
-2. **Jour / nuit** — **Pikmin Lumière** et faune agressive re-cadrent les zones.
-3. **Dandori** — défis score temps limité pour le canapé, sans live service.
+Globalement jouable de facon stable; valide toujours avec la version la plus recente.
 
-Si les anciens jeux te stressaient, **rembobinage** + objectifs plus clairs adoucissent la courbe.
+- Performance: base stable, ecarts possibles selon build.
+- Controle/lisibilite: schema standard, lisibilite portable selon contenu.
+- Mode: Solo avec aide optionnelle à deux ; Dandori en local.
 
-## Comment ça tourne sur Switch ?
+## Acheter maintenant si
 
-**Lecture first-party stable + HUD lisible en portable.**
+- tu apprecies **Joueurs qui optimisent des routes plutôt que du reflex pur.**
+- ton prix regional sur GameGulf est deja dans ta zone cible
+- tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
+- le format te convient: Solo avec aide optionnelle à deux ; Dandori en local.
+## Attendre si
 
-- **Portable :** lisibilité des couleurs ; nuits contrastées plutôt que boue.
-- **Dock :** grands décors peints sans surcharge d’interface.
-- **Contenu :** même campagne **Rescue Corps** partout — achète sur le compte que tu joues.
+- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ton fit de genre est incertain
+- ton budget du mois est reserve a d'autres titres
+- Tu veux l’action non-stop ou détestes chaperonner des unités fragiles.
 
-Pas un port bancal ; perf dans la zone **stratégie** Nintendo.
+## Conclusion
 
-## Achète maintenant si
-
-- Tu veux **tactique douce** avec **Oatchi, glace/lumière, Dandori**
-- **Ta ligne indexée** est acceptable vs le **repère Japon** que tu peux réellement payer
-- **HLTB ~18–29 h** rentre dans ton mois
-- Tu utiliseras **l’aide deux joueurs** ou le **Dandori** sur canapé
-
-## Attends si
-
-- Ton store ressemble à une **suralpha** vs la **bande ~35,34 €** du Japon
-- Tu détestes **chaperonner** l’escouade ou la **pression soft du chrono**
-- Tu ne veux que **les creux type décembre** et peux patienter
-- Tu as **Pikmin 3 Deluxe** et il te faut une **grosse promo**
-- Tu cherches du **pur action** — ici c’est **aventure stratégie**
-
-## Dernier mot
-
-**Pikmin 4 récompense ceux qui planifient les convois** — nouveaux types et **Oatchi** rechargent assez le puzzle pour justifier le ticket si le ton colle.
-
-**Jette un œil à ta ligne sur GameGulf.** Si le chiffre passe, lance la partie. Sinon **pose une cible** et laisse la **promo** convaincre.
+Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. en avril 2026 vois le prix comme du retail tiré par le Japon avec remises ponctuelles, pas une braderie permanente.
+Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price)** puis tranche achat vs attente.

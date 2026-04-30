@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2FXuQLdeecV",
     "game_id": "2FXuQLdeecV",
-    "extracted_at": "2026-04-22",
+    "extracted_at": "2026-04-29",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -38,18 +38,6 @@
       "enabled": true,
       "languages": [],
       "digital": [
-        {
-          "country_code": "BR",
-          "country": "Brazil",
-          "price": 17.61,
-          "discount_price": 8.8,
-          "discount_rate": 50,
-          "discount_end": "2026-04-27 06:59:59",
-          "discount_end_timestamp": 1777273199,
-          "currency": "EUR",
-          "currency_symbol": "€",
-          "calculate_value": 8.8
-        },
         {
           "country_code": "DE",
           "country": "Germany",
@@ -135,6 +123,18 @@
           "calculate_value": 17.1
         },
         {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 17.61,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 17.61
+        },
+        {
           "country_code": "JP",
           "country": "Japan",
           "price": 21.6,
@@ -151,26 +151,11 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-04-22",
-              "country_code": "IT",
-              "value": 16.22,
-              "currency": "EUR",
-              "country": "Italy"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
           "entries": [
-            {
-              "date": "2025-10-26",
-              "country_code": "JP",
-              "value": 13.5,
-              "currency": "EUR",
-              "country": "Japan"
-            },
             {
               "date": "2025-11-17",
               "country_code": "ES",
@@ -198,13 +183,6 @@
               "value": 10.56,
               "currency": "EUR",
               "country": "Brazil"
-            },
-            {
-              "date": "2026-04-22",
-              "country_code": "IT",
-              "value": 16.22,
-              "currency": "EUR",
-              "country": "Italy"
             }
           ]
         },
@@ -252,13 +230,6 @@
               "value": 10.56,
               "currency": "EUR",
               "country": "Brazil"
-            },
-            {
-              "date": "2026-04-22",
-              "country_code": "IT",
-              "value": 16.22,
-              "currency": "EUR",
-              "country": "Italy"
             }
           ]
         }
@@ -327,11 +298,11 @@
       "title": "From Heaven To Earth",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177511877711415408.jpeg",
       "metacritic": null,
-      "price": 0.62,
-      "discount_price": null,
-      "discount_rate": null,
+      "price": 6.99,
+      "discount_price": 3.49,
+      "discount_rate": 50,
       "discount_tag": "Normal",
-      "discount_end": "",
+      "discount_end": "11 days",
       "release_date": "2022-02-17",
       "categories": [
         "Action",
@@ -346,12 +317,12 @@
       "title": "SteamWorld Dig 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 10.8,
-      "discount_price": 1.08,
-      "discount_rate": 90,
-      "discount_tag": "LowPrice",
-      "discount_end": "1 days",
-      "release_date": "2017-11-23",
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
       "categories": [
         "Action",
         "Adventure",
@@ -420,6 +391,25 @@
       "url": "https://www.gamegulf.com/detail/ari1ZXrPQFN"
     },
     {
+      "id": "i8HmgHBnC2u",
+      "title": "Slime-san",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517438380218823.jpeg",
+      "metacritic": 82,
+      "price": 6.37,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2017-10-12",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/i8HmgHBnC2u"
+    },
+    {
       "id": "23lHeDBgYEs",
       "title": "S.O.L Search of Light",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507840333618122.jpeg",
@@ -439,25 +429,6 @@
         "Strategy"
       ],
       "url": "https://www.gamegulf.com/detail/23lHeDBgYEs"
-    },
-    {
-      "id": "i8HmgHBnC2u",
-      "title": "Slime-san",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517438380218823.jpeg",
-      "metacritic": 82,
-      "price": 11.5,
-      "discount_price": 2.3,
-      "discount_rate": 80,
-      "discount_tag": "Normal",
-      "discount_end": "1 days",
-      "release_date": "2017-08-03",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Platformer",
-        "Other"
-      ],
-      "url": "https://www.gamegulf.com/detail/i8HmgHBnC2u"
     }
   ],
   "schema_offers": [
@@ -472,7 +443,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:43+00:00"
+      "priceValidUntil": "2026-05-29T18:55:59+00:00"
     },
     {
       "@type": "Offer",
@@ -485,7 +456,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:43+00:00"
+      "priceValidUntil": "2026-05-29T18:55:59+00:00"
     },
     {
       "@type": "Offer",
@@ -498,7 +469,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:43+00:00"
+      "priceValidUntil": "2026-05-29T18:55:59+00:00"
     },
     {
       "@type": "Offer",
@@ -511,7 +482,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:43+00:00"
+      "priceValidUntil": "2026-05-29T18:55:59+00:00"
     },
     {
       "@type": "Offer",
@@ -524,7 +495,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:43+00:00"
+      "priceValidUntil": "2026-05-29T18:55:59+00:00"
     },
     {
       "@type": "Offer",
@@ -537,15 +508,15 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-22T19:40:43+00:00"
+      "priceValidUntil": "2026-05-29T18:55:59+00:00"
     }
   ],
   "price_analytics": {
     "switch 1": {
       "current_cheapest": {
-        "price_eur": 8.8,
-        "region": "Brazil",
-        "country_code": "BR"
+        "price_eur": 16.22,
+        "region": "Germany",
+        "country_code": "DE"
       },
       "global_low": {
         "price_eur": 8.11,
@@ -566,16 +537,25 @@
       "at_or_near_historical_low": false,
       "discount_events_1y": 3,
       "avg_discount_price_eur": 10.45,
-      "sale_periods": [],
-      "days_since_last_discount": 112,
+      "sale_periods": [
+        {
+          "start": "2025-10-26",
+          "end": "2025-11-17"
+        },
+        {
+          "start": "2025-12-31",
+          "end": "2026-01-12"
+        }
+      ],
+      "days_since_last_discount": 119,
       "last_discount": {
         "date": "2025-12-31",
         "price_eur": 9.73,
         "region": "France",
         "drop_pct": 40
       },
-      "trend_entries_count": 7,
-      "price_verdict": "near_historical_low"
+      "trend_entries_count": 6,
+      "price_verdict": "occasional_discounter"
     }
   },
   "product_links": {
@@ -611,8 +591,8 @@
         "Indie",
         "RPG"
       ],
-      "steam_price": "$9.99",
-      "total_recommendations": 1789,
+      "steam_price": "¥ 1,980",
+      "total_recommendations": 1793,
       "short_description": "Embark on an all-new adventure with Shantae, the hair-whipping belly dancing genie. After losing her magic, Shantae teams up with the nefarious pirate Risky Boots in order to save Sequin Land from a curse.",
       "supported_languages": "English<strong>*</strong>, French, Italian, German, Spanish - Spain<br><strong>*</strong>languages with full audio support",
       "platforms": {
@@ -621,9 +601,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 2794,
+        "total_positive": 2800,
         "total_negative": 216,
-        "total_reviews": 3010,
+        "total_reviews": 3016,
         "score_description": "Very Positive",
         "positive_percent": 93
       }

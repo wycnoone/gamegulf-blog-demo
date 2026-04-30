@@ -2,7 +2,7 @@
 title: Lohnt sich Hades 2026 noch auf der Nintendo Switch?
 description: >-
   Kaufberatung: indexierte eShop-Preise April 2026, Abstand zu einem
-  nachvollziehbaren Brasilien-Tief Ende 2025, HLTB-Zeiten, 60-fps-Ziel und wann
+  nachvollziehbaren Brasilien-Tief Ende 2025, -Zeiten, 60-fps-Ziel und wann
   kaufen vs. Preisalarm.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -39,13 +39,13 @@ bestFor: Kurze Runs mit langem Story-Fortschritt.
 avoidIf: Meiden, wenn Roguelite-Loops dich ermüden oder du Linearität brauchst.
 consensusPraise: Gameplay, Schreiben, Art und Musik bleiben Switch-Indie-Spitze.
 mainFriction: Raumvorlagen und Gegner wirken nach dem Hauptstrang weniger frisch.
-timeFit: HLTB ~23 h Hauptstory, ~49 h Extras, ~95 h Completion.
+timeFit:  ~23 h Hauptstory, ~49 h Extras, ~95 h Completion.
 fitLabel: Spieler, die Scheitern als Story-Treibstoff sehen.
 timingNote: >-
   Preisfokus? Vergleiche dein eShop-Preis mit Japan-Index und Brasilien-Anker
   2025.
 communityVibe: „Kein Entkommen“-Meme + OST auf Dauerschleife
-playtime: 23 h Story · 49 h+ Extras · ~95 h Completion (HLTB)
+playtime: 23 h Story · 49 h+ Extras · ~95 h Completion
 reviewSignal: 93 Metacritic
 takeaway: >-
   Hades bleibt leicht zu empfehlen — April-2026-Preis ist Japan-geführter
@@ -54,7 +54,7 @@ playStyle: >-
   Isometrischer Hack-and-Slash, sechs Waffen mit Aspekten, olympische Segen,
   Spiegel der Nacht für Meta-Fortschritt.
 timeCommitment: >-
-  HLTB-Daten: ~23 h Fokus auf Hauptstory, ~49 h mit Extras, ~95 h für
+  -Daten: ~23 h Fokus auf Hauptstory, ~49 h mit Extras, ~95 h für
   Completion; ein Run dauert oft 20–40 Minuten.
 playMode: Singleplayer.
 whyNow: Qualität steht; offen ist nur, ob deine Regionalzeile zum Japan-Anker passt.
@@ -122,7 +122,7 @@ faq:
       bevor du kaufst.
   - question: Wie lange dauert Hades?
     answer: >-
-      Hades liegt laut HLTB bei etwa 23 h Hauptstory, ~49 h mit Extras und ~95 h
+      Hades liegt laut  bei etwa 23 h Hauptstory, ~49 h mit Extras und ~95 h
       für Completion-Ziele; einzelne Runs dauern oft 20 bis 40 Minuten.
   - question: Wie läuft Hades auf der Switch?
     answer: >-
@@ -180,20 +180,19 @@ cardPrice: EUR 15.22
 cardPriceNative: ¥2,800
 cardPriceNativeCurrency: JPY
 ---
+## Kurzfazit
 
-## Kurzurteil
+**Hades** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **93 Metacritic**.
 
-**Hades bleibt eine der sichersten Indie-Empfehlungen auf der Switch** — **93 Metacritic**, **präziser Kampf**, **Hub-Story** und **Soundtrack mit Kultstatus**. HLTB-Lagen liegen grob bei **23 h / 49 h / 95 h**.
+Hades bleibt leicht zu empfehlen — April-2026-Preis ist Japan-geführter Retail, nicht das getrackte historische Tief.
 
-2026 geht es um **Indexpreis vs. historisches Tief**: Im Snapshot führt **Japan ~15,22 € äquivalent (¥2.800)**, während der **Verlauf** ein **historisches Tief** um **~4,66 € in Brasilien am 18. Dezember 2025** behält — etwa **110 Tage** vor April — mit **wenigen klaren Sale-Events** im Jahresfenster. Magst du die Schleife, **kaufe bei gesunder Zeile**; jagst du nur den Boden, **Alarm aktivieren**.
+Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €15.22.
 
-**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) gegen deine Region halten.
 
-## Wie viel kostet Hades auf der Switch jetzt?
+## Was kostet Hades auf Nintendo Switch aktuell?
 
-**Japan bleibt im indexierten Digitalraster vorn bei ~15,22 € äquivalent (¥2.800); Brasilien und die USA liegen im gleichen Snapshot höher.**
-
-
+Hades bleibt leicht zu empfehlen — April-2026-Preis ist Japan-geführter Retail, nicht das getrackte historische Tief.
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 15.22 | ¥2,800 |
@@ -205,44 +204,32 @@ cardPriceNativeCurrency: JPY
 | Italien | EUR 24.99 | €24.99 |
 | Portugal | EUR 24.99 | €24.99 |
 
-Der **Rabatt**-Kontext schlägt den Listenpreis: Das **historische Tief** liegt bei **~4,66 € im brasilianischen eShop (18. Dezember 2025)**, mit **Durchschnitts-Sale-Preisen** nahe **4,66 €** im gleichen Fenster — **aktuell solider Retail**, nicht jenes **Tief**. Checke **deine** Zeile in der [Live-Grid](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price).
+## Was ist Hades fuer ein Spiel?
 
-## Was für ein Spiel ist das wirklich?
+Genre-Kern: **Roguelite-Action-RPG: Unterwelt-Runs, Hub-Erzählung, Supergiant-Polish und OST**. Entscheidend ist weniger Marketingtext, sondern ob diese Struktur zu deinem Geschmack passt.
 
-**Narratives Roguelite, bei dem Sterben die Story voranbringt** : zufällige Unterwelt-Räume, olympische Segen, die Builds umbauen, dann zurück in den voll vertonten Hub, wo Beziehungen auch nach Fehlschlägen wachsen.
+## Wie laeuft Hades auf Nintendo Switch?
 
-1. **Sechs Waffen mit Aspekten** — Tempo ändert sich schneller als reines Stat-Wachstum.
-2. **Segen-Builds** — zwei Runs fühlen sich selten gleich an.
-3. **Meta-Fortschritt** — Spiegel, Aufträge, Andenken halten lange Motivation außerhalb der Runs.
+In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweisen abgleichen.
 
-**Hades II** kommt später; **Teil eins ist ein kompletter Bogen**.
-
-## Wie läuft es auf der Switch?
-
-**Hades zielt auf ~60 fps-Gefühl** — wichtig für lesbare Angriffstelegrafien.
-
-- **Handheld:** 20–40 Minuten-Runs ideal; UI bleibt kontrastreich.
-- **TV:** zeigt Kunst besser; Performance vergleichbar bis auf Chaos-Spitzen.
-- **Inhalt:** digitale Versionen sind gleich — nimm den Store **deines** Accounts.
-
-Das ist **ein gepflegter Port**, kein Notfall-Downgrade.
+- Laufverhalten: solide Basis, je nach Version leichte Unterschiede.
+- Steuerung/Lesbarkeit: standardnah, Handheld-Lesbarkeit projektabhaengig.
+- Modus-Hinweis: Singleplayer.
 
 ## Jetzt kaufen, wenn
 
-- du **kurze Runs** mit **echter Story zwischen Versuchen** willst
-- **dein eShop-Preis** nah am **japanischen Index** liegt
-- **Sprache und Musik** für dich so zählen wie Gameplay
-- **Roguelite-Wiederholung** **Treibstoff** statt Strafe ist
-- du mit **anderen Action-Titeln vergleichst, die du beendest**
-
+- du mit **Kurze Runs mit langem Story-Fortschritt.** grundsaetzlich gut klarkommst
+- dein Regionspreis auf GameGulf im Zielkorridor liegt
+- du zeitnah starten willst statt auf den naechsten Sale zu warten
+- dir der Umfang passt: Singleplayer.
 ## Warten, wenn
 
-- **dein Store** deutlich über **Japan indexiert** liegt
-- du **Sterben als Kernmechanik** nicht abkannst und **Linearität** willst
-- du **Hades woanders schon hast** und auf Switch nur ein **Historien-Tief** willst
-- **das Budget knapp** ist — **Alarm** schlägt Impuls
-- du vor allem **riesige Open Worlds** willst — siehe [unser TOTK-Guide](/blog/de/the-legend-of-zelda-tears-of-the-kingdom-worth-it)
+- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Genre-Fit unsicher ist
+- Budget derzeit fuer andere Titel reserviert ist
+- Meiden, wenn Roguelite-Loops dich ermüden oder du Linearität brauchst.
 
-## Warum der Ruf hält
+## Abschluss
 
-**Hades lebt von „noch eine Waffe, noch ein Build“**, nicht nur von einem Häkchen. **Sieh deine Preiszeile einmal an** — passt die Zahl, leg los. Passt sie nicht, **setze ein Ziel** und lass den nächsten **Sale** überzeugen.
+Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. April-2026-Preis ist Japan-geführter Retail, nicht das getrackte historische Tief.
+Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price)** und entscheide dann Buy-now vs Wait.

@@ -1,0 +1,475 @@
+{
+  "cutoff": "2026-04-22",
+  "count": 67,
+  "rows": [
+    {
+      "file": "src/content/posts/de/ai-the-somnium-files-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "AI: THE SOMNIUM FILES",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/daemon-x-machina-titanic-scion-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Daemon X Machina: Titanic Scion",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/dusk-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "DUSK",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/monster-boy-and-the-cursed-kingdom-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Monster Boy and the Cursed Kingdom",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/novel-rogue-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Novel Rogue",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/sonic-mania-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Sonic Mania",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/star-wars-pinball-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Star Wars Pinball",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/super-mario-odyssey-worth-it.md",
+      "publishedAt": "2026-04-26",
+      "gameTitle": "Super Mario Odyssey",
+      "gameHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priceTrackHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price"
+    },
+    {
+      "file": "src/content/posts/de/the-seven-chambers-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "The Seven Chambers",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/ai-the-somnium-files-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "AI: THE SOMNIUM FILES",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/daemon-x-machina-titanic-scion-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Daemon X Machina: Titanic Scion",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/dusk-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "DUSK",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/monster-boy-and-the-cursed-kingdom-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Monster Boy and the Cursed Kingdom",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/novel-rogue-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Novel Rogue",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/shantae-and-the-pirate-s-curse-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Shantae and the Pirate's Curse",
+      "gameHref": "https://www.gamegulf.com/detail/2FXuQLdeecV",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/sonic-mania-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Sonic Mania",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/star-wars-pinball-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Star Wars Pinball",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/super-mario-odyssey-worth-it.md",
+      "publishedAt": "2026-04-26",
+      "gameTitle": "Super Mario Odyssey",
+      "gameHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priceTrackHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price"
+    },
+    {
+      "file": "src/content/posts/en/the-seven-chambers-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "The Seven Chambers",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/ai-the-somnium-files-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "AI: THE SOMNIUM FILES",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/daemon-x-machina-titanic-scion-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Daemon X Machina: Titanic Scion",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/dusk-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "DUSK",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/monster-boy-and-the-cursed-kingdom-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Monster Boy and the Cursed Kingdom",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/novel-rogue-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Novel Rogue",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/sonic-mania-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Sonic Mania",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/star-wars-pinball-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Star Wars Pinball",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/super-mario-odyssey-worth-it.md",
+      "publishedAt": "2026-04-26",
+      "gameTitle": "Super Mario Odyssey",
+      "gameHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priceTrackHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price"
+    },
+    {
+      "file": "src/content/posts/es/the-seven-chambers-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "The Seven Chambers",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/ai-the-somnium-files-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "AI: THE SOMNIUM FILES",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/daemon-x-machina-titanic-scion-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Daemon X Machina : Titanic Scion",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/dusk-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "DUSK",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/monster-boy-and-the-cursed-kingdom-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Monster Boy and the Cursed Kingdom",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/novel-rogue-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Novel Rogue",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/shantae-and-the-pirate-s-curse-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Shantae and the Pirate's Curse",
+      "gameHref": "https://www.gamegulf.com/detail/2FXuQLdeecV",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/sonic-mania-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Sonic Mania",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/star-wars-pinball-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Star Wars Pinball",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/super-mario-odyssey-worth-it.md",
+      "publishedAt": "2026-04-26",
+      "gameTitle": "Super Mario Odyssey",
+      "gameHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priceTrackHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price"
+    },
+    {
+      "file": "src/content/posts/fr/the-seven-chambers-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "The Seven Chambers",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/ai-the-somnium-files-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "AI：ソムニウムファイル",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/daemon-x-machina-titanic-scion-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "デモンエクスマキナ タイタニックサイオン",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/dusk-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "DUSK",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/monster-boy-and-the-cursed-kingdom-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "モンスターボーイ 呪われた王国",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/novel-rogue-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Novel Rogue",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/shantae-and-the-pirate-s-curse-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "シャンティと海賊の呪い",
+      "gameHref": "https://www.gamegulf.com/detail/2FXuQLdeecV",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/sonic-mania-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "ソニックマニア",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/star-wars-pinball-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "スター・ウォーズ ピンボール",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/super-mario-odyssey-worth-it.md",
+      "publishedAt": "2026-04-26",
+      "gameTitle": "スーパーマリオ オデッセイ",
+      "gameHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priceTrackHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price"
+    },
+    {
+      "file": "src/content/posts/ja/the-seven-chambers-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "The Seven Chambers",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/ai-the-somnium-files-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "AI: THE SOMNIUM FILES",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/daemon-x-machina-titanic-scion-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Daemon X Machina: Titanic Scion",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/dusk-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "DUSK",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/monster-boy-and-the-cursed-kingdom-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Monster Boy and the Cursed Kingdom",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/novel-rogue-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Novel Rogue",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/sonic-mania-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Sonic Mania",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/star-wars-pinball-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "Star Wars Pinball",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/super-mario-odyssey-worth-it.md",
+      "publishedAt": "2026-04-26",
+      "gameTitle": "Super Mario Odyssey",
+      "gameHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priceTrackHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price"
+    },
+    {
+      "file": "src/content/posts/pt/the-seven-chambers-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "The Seven Chambers",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/ai-the-somnium-files-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "AI：梦境档案（AI: THE SOMNIUM FILES）",
+      "gameHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/daemon-x-machina-titanic-scion-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "《机甲战魔 神话之裔》",
+      "gameHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/dusk-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "DUSK",
+      "gameHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/monster-boy-and-the-cursed-kingdom-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "怪物男孩与被诅咒的王国",
+      "gameHref": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1vs5joujuwt#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/novel-rogue-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "《Novel Rogue》",
+      "gameHref": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1PBv755th4U#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/shantae-and-the-pirate-s-curse-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "桑塔与海盗的诅咒",
+      "gameHref": "https://www.gamegulf.com/detail/2FXuQLdeecV",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/sonic-mania-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "索尼克 狂欢",
+      "gameHref": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priceTrackHref": "https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/star-wars-pinball-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "星球大战弹球",
+      "gameHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/super-mario-odyssey-worth-it.md",
+      "publishedAt": "2026-04-26",
+      "gameTitle": "超级马力欧 奥德赛",
+      "gameHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priceTrackHref": "https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price"
+    },
+    {
+      "file": "src/content/posts/zh-hans/the-seven-chambers-worth-it.md",
+      "publishedAt": "2026-04-30",
+      "gameTitle": "七个密室（The Seven Chambers）",
+      "gameHref": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priceTrackHref": "https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price"
+    }
+  ]
+}

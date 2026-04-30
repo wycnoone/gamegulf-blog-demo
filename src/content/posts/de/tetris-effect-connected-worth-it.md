@@ -34,11 +34,11 @@ bestFor: Fans von flüssigem Puzzle, Show und echtem Multiplayer.
 avoidIf: Nur nacktes Tetris ohne Effekte — dann nicht.
 consensusPraise: Zone macht aus Panik Planung; Präsentation feiert jede Line.
 mainFriction: UVP schmerzt neben Billig-Tetris; Online je nach Uhrzeit dünn.
-timeFit: HLTB ~3 h Story, ~8 h Extras, ~57 h Completion.
+timeFit: ~3 h Story, ~8 h Extras, ~57 h Completion.
 fitLabel: Wer Tetris als Stimmungserlebnis statt Tabelle spielt.
 timingNote: Schon halber Preis? Dann passt Fit. Sonst HK-Zeile vergleichen vor Impulskauf.
 communityVibe: Noch eine Zone — plötzlich 2 Uhr, Konsole noch warm.
-playtime: ~3 h · ~8 h+ · ~57 h (HLTB)
+playtime: ~3 h · ~8 h+ · ~57 h
 reviewSignal: 94 Metacritic
 takeaway: >-
   Tetris® Effect: Connected bleibt Referenz — April-2026-Preis ist
@@ -46,7 +46,7 @@ takeaway: >-
 playStyle: >-
   Klassische Regeln + Zone, Journey, Score-Attack-Varianten,
   Connected-Dreier-Koop, Friend Matches mit Zuschauern.
-timeCommitment: Kurze Journey laut HLTB; Ranked, Multi und Sammlerziele strecken es stark.
+timeCommitment: Kurze Journey laut ; Ranked, Multi und Sammlerziele strecken es stark.
 playMode: Solo, lokal mehrere, Online-Koop/Versus.
 whyNow: >-
   Bis Mitte April 2026 kann -50 % auf Euro-Konten hängen; HK bleibt oft
@@ -113,8 +113,8 @@ faq:
       eigene eShop-Preis vor dem Kauf.
   - question: "Wie lang dauert Tetris® Effect: Connected?"
     answer: >-
-      Tetris® Effect: Connected hat laut HLTB eine kurze Journey; Extras,
-      Ranglisten und Sammlerziele ziehen es auf viele Stunden.
+      Tetris® Effect: Connected hat laut  eine kurze Journey; Extras, Ranglisten
+      und Sammlerziele ziehen es auf viele Stunden.
   - question: "Wie läuft Tetris® Effect: Connected auf der Switch?"
     answer: >-
       Tetris® Effect: Connected zielt auf ~60 fps auf der Switch für saubere
@@ -131,109 +131,97 @@ faq:
       und lass den nächsten tiefen Rabatt entscheiden.
 priceRows:
   - regionCode: HK
-    eurPrice: 19.49
+    eurPrice: 19.22
     nativePrice: HK$176
     nativeCurrency: HKD
-  - regionCode: DE
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: ES
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: FR
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: IT
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: PT
-    eurPrice: 19.99
-    nativePrice: €19.99
-    nativeCurrency: EUR
-  - regionCode: GB
-    eurPrice: 20.65
-    nativePrice: £17.99
-    nativeCurrency: GBP
   - regionCode: JP
-    eurPrice: 24.47
+    eurPrice: 24.3
     nativePrice: ¥4,500
     nativeCurrency: JPY
-cardPriceEur: 19.49
+  - regionCode: BR
+    eurPrice: 34.2
+    nativePrice: R$203.95
+    nativeCurrency: BRL
+  - regionCode: US
+    eurPrice: 34.21
+    nativePrice: $39.99
+    nativeCurrency: USD
+  - regionCode: DE
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 39.99
+    nativePrice: €39.99
+    nativeCurrency: EUR
+cardPriceEur: 19.22
 cardPriceRegionCode: HK
 cardPriceRegion: Hongkong
-cardPrice: EUR 19.49
+cardPrice: EUR 19.22
 cardPriceNative: HK$176
 cardPriceNativeCurrency: HKD
 ---
+## Kurzfazit
 
-## Kurzurteil
+**Tetris® Effect: Connected** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **94 Metacritic**.
 
-**Tetris® Effect: Connected bleibt das Premium-Tetris, aber April 2026 = Fit plus Region.** **94 Metacritic**-Puzzle mit **musikreaktiven Stages**, **Zone** und **Connected** als echtes Paket.
+Tetris® Effect: Connected bleibt Referenz — April-2026-Preis ist „Qualitäts-UVP“, nicht automatisch Historientief, außer du bist schon im Sale.
 
-Zahlen: **Hongkong führt (~19,49 € äquivalent, 176 HK$)**; die **Historie** zeigt **~9,75 € in Hongkong am 9. Juni 2025**, **drei** klare **Rabatt**-Phasen im indexierten Jahr, **durchschnittlicher Sale-Preis ~16,58 €**, letzter starker Eintrag **17. Dezember 2025** wieder nahe **~9,75 €** (**~51 %** Rabatt-Kontext), **111 Tage** vor diesem Snapshot. Wenn du das Setting liebst, **kauf im Sale**; wenn nur **Historientief** zählt, **Alarm**.
+Discount/Sale-Hinweis: historische Tiefs liegen laut Feed weiter bei **€9,61** in Hongkong (**2025-06-09**, erneut **2025-12-17**); der aktuelle Index startet eher bei **€19,22** auf HK$176, während US/EU oft **39,99**-MSRP zeigen.
 
-**GameGulf:** Vergleiche deine Region im [Live-Preisraster](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price) vor dem Kauf — **GameGulf** trackt dieses SKU, damit du es mit den historischen Tiefpreisen unten abgleichen kannst.
+Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price) gegen deine Region halten.
 
-## Wie viel kostet Tetris® Effect: Connected aktuell auf der Switch?
+## Wie viel kostet Tetris® Effect: Connected auf Nintendo Switch aktuell?
 
-**Hongkong bleibt vorn im digitalen Index (~19,49 € äquivalent, 176 HK$), mehrere EU-Zeilen zeigen 19,99 € im gleichen April-2026-Schnappschuss.**
+Tetris® Effect: Connected bleibt Referenz — April-2026-Preis ist „Qualitäts-UVP“, nicht automatisch Historientief, außer du bist schon im Sale.
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
-| Hongkong | EUR 19.49 | HK$176 |
-| Deutschland | EUR 19.99 | €19.99 |
-| Spanien | EUR 19.99 | €19.99 |
-| Frankreich | EUR 19.99 | €19.99 |
-| Italien | EUR 19.99 | €19.99 |
-| Portugal | EUR 19.99 | €19.99 |
-| Vereinigtes Königreich | EUR 20.65 | £17.99 |
-| Japan | EUR 24.47 | ¥4,500 |
+| Hongkong | EUR 19.22 | HK$176 |
+| Japan | EUR 24.30 | ¥4,500 |
+| Brasilien | EUR 34.20 | R$203.95 |
+| Vereinigte Staaten | EUR 34.21 | $39.99 |
+| Deutschland | EUR 39.99 | €39.99 |
+| Spanien | EUR 39.99 | €39.99 |
+| Frankreich | EUR 39.99 | €39.99 |
+| Italien | EUR 39.99 | €39.99 |
 
-Die **Rabatt**-Historie wiegt schwerer als die Rangliste: **tiefstes globales Signal ~9,75 € am 9. Juni 2025** in Hongkong, **mittlerer Sale-Druck ~16,58 €**. Profil **gelegentlicher Discounter** — **Sales** selten, aber tief. Prüfe deine Zeile in der [Multi-Regionen-Tabelle](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price).
+## Was ist Tetris® Effect: Connected fuer ein Spiel?
 
-## Was für ein Spiel ist das wirklich?
+Genre-Kern: **Rhythmus-Tetris: 30+ Journey-Levels, Zone, Online/Lokal versus und Koop**. Entscheidend ist weniger Marketingtext, sondern ob diese Struktur zu deinem Geschmack passt.
 
-**Klassische Regeln als Konzert, kurze Journey, ernstes Multiplayer-Menü.** **Lumines**-DNA, kein Tutorial-RPG.
+## Wie laeuft Tetris® Effect: Connected auf Nintendo Switch?
 
-1. **Journey** — 30+ Boards, die mit Lines weiterkomponieren.
-2. **Zone** — Fall stoppen zum Überleben oder für Monster-Clears.
-3. **Connected / Zone Battle** — Dreier-Koop-Bosse und asymmetrisches Versus für Sofa und Headset.
+In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweisen abgleichen.
 
-Minimal-Tetris gibt es günstiger — nicht dieselbe Sensorik.
-
-## Wie läuft es auf der Switch?
-
-**Ziel ~60 fps — Pflicht für Hard Drops.** Handheld und Dock bleiben lesbar.
-
-- **Handheld:** kurze Effect-Runden, HUD trotz Neon ok.
-- **Dock:** mehr Bild, gelegentliche Partikel-Hänger.
-- **Multi:** Friend Rooms + Zuschauer stabilisieren Matchmaking.
-
-Präzisions-Puzzle mit Show, kein narrative Port-Bettler.
+- Laufverhalten: solide Basis, je nach Version leichte Unterschiede.
+- Steuerung/Lesbarkeit: standardnah, Handheld-Lesbarkeit projektabhaengig.
+- Modus-Hinweis: Solo, lokal mehrere, Online-Koop/Versus.
 
 ## Jetzt kaufen, wenn
 
-- Du **Zone + Journey + Connected** nativ auf der Switch willst
-- Deine **eShop-Preis** schon bei **19,99 €** oder nah am **HK-Anker** liegt
-- **Show + Sound** genauso zählen wie Speed
-- **Freundesliste** für **Connected / Zone Battle** bereitsteht
-- **HLTB ~3 h / ~8 h / ~57 h** zu deinem Zeitbudget passt
+- du mit **Fans von flüssigem Puzzle, Show und echtem Multiplayer.** grundsaetzlich gut klarkommst
+- dein Regionspreis auf GameGulf im Zielkorridor liegt
+- du zeitnah starten willst statt auf den naechsten Sale zu warten
+- dir der Umfang passt: Kurze Journey laut HLTB; Ranked, Multi und Sammlerziele strecken es stark.
 
 ## Warten, wenn
 
-- Dein **Store** noch **UVP** zeigt, der Index aber **-50 %** woanders — **Alarm**
-- Du nur **nacktes Marathon-Tetris** ohne Effekte willst
-- **Reizüberflutung** beim Sprint-Training stört
-- Du es **anderswo** hast und ohne **~9,75 €**-Niveau nicht nachkaufst
-- Budget diesen Monat knapp — nächster **tiefer Sale** soll entscheiden
+- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Genre-Fit unsicher ist
+- Budget derzeit fuer andere Titel reserviert ist
+- Nur nacktes Tetris ohne Effekte — dann nicht.
 
-## Kopfhörer-Test besteht
+## Abschluss
 
-**Tetris als Instrument oder Werkzeug.** Wenn es passt, lädt Effect zum Repeat ein; sonst wirkt jede Line wie Büroarbeit.
-
-**Sieh deine Regionalzeile einmal.** Zahl ok und **Zone + Connected** gewünscht — zugreifen. Zahl sticht — **Zielpreis** setzen und nächsten **Hongkong-Taucher** abwarten.
+Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. April-2026-Preis ist „Qualitäts-UVP“, nicht automatisch Historientief, außer du bist schon im Sale.
+Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price)** und entscheide dann Buy-now vs Wait.

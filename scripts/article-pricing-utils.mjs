@@ -414,19 +414,28 @@ export function getPreferredSwitchPlatformKey(brief) {
   if (!platforms || typeof platforms !== 'object') return null;
 
   const preferredKeys = ['switch 1', 'switch', 'switch 2'];
+  let fallbackKey = null;
   for (const key of preferredKeys) {
     const platform = platforms[key];
-    if (platform?.enabled !== false && Array.isArray(platform?.digital) && platform.digital.length > 0) {
-      return key;
-    }
+    if (platform?.enabled === false) continue;
+    const digital = platform?.digital;
+    if (!Array.isArray(digital) || digital.length === 0) continue;
+    if (digital.length >= 4) return key;
+    if (!fallbackKey) fallbackKey = key;
   }
 
-  return Object.entries(platforms).find(([key, platform]) => (
+  const anyEntry = Object.entries(platforms).find(([key, platform]) => (
     key.startsWith('switch') &&
     platform?.enabled !== false &&
     Array.isArray(platform?.digital) &&
     platform.digital.length > 0
-  ))?.[0] || null;
+  ));
+  if (anyEntry) {
+    const [anyKey, anyPlatform] = anyEntry;
+    if (anyPlatform.digital.length >= 4) return anyKey;
+  }
+
+  return fallbackKey ?? anyEntry?.[0] ?? null;
 }
 
 export function getPreferredSwitchPlatform(brief) {

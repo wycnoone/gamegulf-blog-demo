@@ -82,6 +82,14 @@ node scripts/extract-game-brief.mjs <GAMEGULF_URL>
 
 Output: `content/briefs/{slug}.json`
 
+**When HLTB / Metacritic are missing:** `extract-game-brief.mjs` runs a surrogate
+pass after Steam + mapped HLTB: (1) `content/enrichment-fallback.json` by slug,
+(2) OpenCritic search for a critic score if Metacritic is still empty,
+(3) optional `RAWG_API_KEY` for RAWG Metacritic + rough playtime hints.
+Re-check `brief.enrichment.hltb` and `brief.meta.surrogate` in the JSON. To
+fill `playtime` on existing posts from briefs, run
+`npm run backfill:playtime -- <slug> [<slug>...]` (omit slugs to process all briefs).
+
 If the game has a HowLongToBeat entry not yet mapped, add it to
 `content/hltb-mapping.json` first:
 
@@ -104,10 +112,12 @@ may genuinely lack that source and you should research the gap manually.
 
 ## Phase 2 — Synthesize Articles (EN master first)
 
-Read the full synthesis prompt and template:
+Read the full synthesis prompt and templates **before** drafting:
 
-1. Read `content/templates/synthesis-prompt.md` — the complete prompt
-2. Read `content/templates/game-guide-template.md` — field reference
+1. **`content/templates/synthesis-prompt.md`** — complete Phase 2 prompt (pricing rules, body structure, self-review checklist).
+2. **`content/templates/game-guide-template.md`** — quick **frontmatter + `faq`** reference: validator expectations (`gameTitle` lead-ins), and **FAQ must not duplicate** the article’s price section — use the worth-buying / length / gameplay-friction angles documented there.
+
+Optional (browse-only / alternate GEO framing): `content/templates/article-generation-prompt.md`.
 
 Then generate one **English master draft first**, and only then
 rewrite it into each target locale with idiomatic local phrasing
@@ -237,6 +247,11 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 - Every section opens with a definitive quotable statement
 - Every FAQ answer starts with the game name
 
+**FAQ (`faq`) — avoid redundant pricing copy:**
+- The Markdown body already includes the **price section**, **discount-history paragraph**, and **GameGulf** links — do **not** duplicate that material in FAQ answers (no extra € tiers, MSRP vs JP comparisons, `#currency-price` URLs, or “where do I see Switch prices?” unless the rest of the article truly lacks pricing).
+- Aim for **three distinct angles**: (1) **worth buying / not** framed by **game fit**, genre, and review signals — **not** re-stating buy timing from the price blocks; (2) **length / runtime**; (3) a **gameplay-friction** question tailored to the title (e.g. timed puzzle tolerance, hidden-object pacing, deck RNG/Ink grind) — **not** a third pricing FAQ.
+- FAQ answers must still **lead with `gameTitle`** where `validate-article.mjs` requires it.
+
 **Multilingual (EN-master workflow):**
 - Same slug across all 7 locales
 - All text fields in the target language; URLs/dates/category unchanged
@@ -244,6 +259,11 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 - **Idiom over literal translation:** never line-by-line calque from EN. Convey the same decisions and data using **idiomatic** phrasing a native editor would use for that language.
 - Titles match how users in that language actually search
 - Card copy and body must read like **native editorial**, not machine translation or translationese
+- **`title` + `gameTitle` + FAQ lead-ins:** Each locale must use that market’s **normal game name** (not the English product string) in `title`, `gameTitle`, and the start of every `faq[].answer` (validator expects answers to lead with `gameTitle`). After **pricing-only** automation, manually verify these three surfaces for zh-hans, ja, fr, es, de, pt — price sync does not localize names.
+
+**“Game intro feels thin” — where depth lives:**
+- List/card fields like `whatItIs` are **short by schema** (see character limits table — e.g. 90 chars). They are teasers, not the encyclopedia.
+- The **buying memo** depth is mandatory in the **Markdown body** under the fixed H2s (especially “what kind of game” / performance): ≥2 **named anchors** per those sections per `AGENTS.md`. If the body still feels empty, the brief probably lacks systems/modes — **re-run** `node scripts/extract-game-brief.mjs <url>` (no `--no-enrich`), confirm Steam/HLTB/OpenCritic in JSON, and extend the brief or prose from **checkable** public facts (store page modes, patch notes, **widely repeated** player complaints phrased as “common player reports” — no fabricated forum browsing or private playtests).
 
 ### Output files
 
@@ -308,6 +328,7 @@ Verify for at least EN and one non-EN locale:
 - [ ] Discount history paragraph references real data
 - [ ] tldr starts with game name, ≤160 chars
 - [ ] FAQ answers start with game name
+- [ ] FAQ does not repeat pricing grids, promo tiers, or `#currency-price` links already covered in the body
 - [ ] No fabricated prices or statistics
 
 ## Quality reference

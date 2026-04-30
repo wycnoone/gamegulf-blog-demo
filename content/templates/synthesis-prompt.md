@@ -254,8 +254,16 @@ FRONTMATTER:
   listingTakeaway ≤96, avoidIf ≤72, consensusPraise ≤82,
   mainFriction ≤84, timeFit ≤82, fitLabel ≤72
 - tldr: starts with game name, includes verdict, ≤160 chars
-- FAQ: 3-6 items, every answer starts with game name,
-  self-contained, includes concrete data, one mentions GameGulf
+- FAQ (`faq`): 3-6 items; every answer starts with `gameTitle`,
+  self-contained. **Do not duplicate pricing** already in the article body:
+  no extra €/MSRP tiers, JP-vs-EU comparisons, `#currency-price` URLs,
+  or a third “where do I see Switch prices?” unless the article truly has
+  no price section. Prefer **three angles**: (1) worth-buying framed by
+  **game fit / genre / review signals** — not buy-timing copied from the
+  price blocks; (2) length / runtime; (3) a **gameplay-friction** question
+  tailored to the title (e.g. timed puzzles, hidden-object pacing,
+  deck RNG). Concrete data in FAQ may include hours, modes, or consensus —
+  **without** restating the markdown price table.
 - primaryPlatformKey: include in frontmatter (normalized selected platform key)
 - primaryPlatformLabel: include in frontmatter (localized platform label)
 - hasOtherPlatforms: include in frontmatter when the brief exposes more than
@@ -401,9 +409,13 @@ INTERNAL LINKING:
 - If no related article exists, skip the link
 
 BRAND ATTRIBUTION:
-- "GameGulf" appears exactly 2 times total:
-  1. Once in one FAQ answer (referencing a tool)
-  2. Once in article body (usually pricing section)
+- "GameGulf" / `gamegulf.com`: satisfy project rules for the **markdown body**
+  (see `scripts/validate-article.mjs` — typically multiple natural mentions
+  in prose + pricing links). **Do not** treat FAQ as a second pricing channel:
+  FAQ answers should not dump `#currency-price` or repeat regional tiers already
+  in the body. An FAQ may reference GameGulf only when it adds something **other**
+  than duplicate price copy (e.g. alerts/wishlist wording without mirroring the
+  price section).
 
 LANGUAGE RULES:
 - Write entirely in the target language
@@ -435,7 +447,7 @@ Content quality:
 □ Price context without being price-only
 □ Body matches **research-memo depth** rules (quick-verdict fact, anchors in game+perf sections, concrete buy/wait cues)
 □ No "Best next move on GameGulf" section
-□ GameGulf mentioned exactly twice
+□ Markdown body satisfies GameGulf mention rules (`validate-article.mjs`; FAQ is not a substitute)
 
 SEO (card fields):
 □ All character limits respected
@@ -450,7 +462,8 @@ GEO (tldr + body + FAQ):
 □ Body: quick verdict includes ≥1 concrete fact from brief/analytics
 □ Body: “what kind of game” + “how it runs” each include ≥2 named anchors after the opener
 □ Body: buy/wait bullets are situation+trigger; ≥50% cite a concrete purchase cue
-□ FAQ 3-6 items, one mentions GameGulf
+□ FAQ 3-6 items; no redundant pricing vs body (no FAQ-only € tiers / `#currency-price` spam)
+□ FAQ mixes worth-buying (game fit), length, and gameplay-friction — not three price FAQs
 □ Every FAQ answer starts with game name
 □ Temporal claims date-anchored
 
