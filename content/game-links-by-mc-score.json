@@ -1,0 +1,630 @@
+{
+  "generatedAt": "2026-04-30T05:08:03.400Z",
+  "source": "src/content/posts/**/*.md frontmatter heroStat/reviewSignal + gameHref",
+  "sort": "mcScore desc, gameTitle asc",
+  "count": 44,
+  "items": [
+    {
+      "no": 1,
+      "gameTitle": "Super Mario Odyssey",
+      "mcScore": 97,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "sourceArticles": [
+        "src/content/posts/de/super-mario-odyssey-worth-it.md",
+        "src/content/posts/en/super-mario-odyssey-worth-it.md",
+        "src/content/posts/es/super-mario-odyssey-worth-it.md",
+        "src/content/posts/fr/super-mario-odyssey-worth-it.md",
+        "src/content/posts/ja/super-mario-odyssey-worth-it.md",
+        "src/content/posts/pt/super-mario-odyssey-worth-it.md",
+        "src/content/posts/zh-hans/super-mario-odyssey-worth-it.md"
+      ]
+    },
+    {
+      "no": 2,
+      "gameTitle": "The Legend of Zelda: Tears of the Kingdom",
+      "mcScore": 96,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/h14iXKeQ0PR",
+      "sourceArticles": [
+        "src/content/posts/de/the-legend-of-zelda-tears-of-the-kingdom-worth-it.md",
+        "src/content/posts/en/the-legend-of-zelda-tears-of-the-kingdom-worth-it.md",
+        "src/content/posts/es/the-legend-of-zelda-tears-of-the-kingdom-worth-it.md",
+        "src/content/posts/fr/the-legend-of-zelda-tears-of-the-kingdom-worth-it.md",
+        "src/content/posts/ja/the-legend-of-zelda-tears-of-the-kingdom-worth-it.md",
+        "src/content/posts/pt/the-legend-of-zelda-tears-of-the-kingdom-worth-it.md",
+        "src/content/posts/zh-hans/the-legend-of-zelda-tears-of-the-kingdom-worth-it.md"
+      ]
+    },
+    {
+      "no": 3,
+      "gameTitle": "Metroid Prime Remastered",
+      "mcScore": 94,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/dm86GCKPzG2",
+      "sourceArticles": [
+        "src/content/posts/de/metroid-prime-remastered-worth-it.md",
+        "src/content/posts/en/metroid-prime-remastered-worth-it.md",
+        "src/content/posts/es/metroid-prime-remastered-worth-it.md",
+        "src/content/posts/fr/metroid-prime-remastered-worth-it.md",
+        "src/content/posts/ja/metroid-prime-remastered-worth-it.md",
+        "src/content/posts/pt/metroid-prime-remastered-worth-it.md",
+        "src/content/posts/zh-hans/metroid-prime-remastered-worth-it.md"
+      ]
+    },
+    {
+      "no": 4,
+      "gameTitle": "Persona 5 Royal",
+      "mcScore": 94,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/INlLdFP5Q9",
+      "sourceArticles": [
+        "src/content/posts/de/persona-5-royal-worth-it.md",
+        "src/content/posts/en/persona-5-royal-worth-it.md",
+        "src/content/posts/es/persona-5-royal-worth-it.md",
+        "src/content/posts/fr/persona-5-royal-worth-it.md",
+        "src/content/posts/ja/persona-5-royal-worth-it.md",
+        "src/content/posts/pt/persona-5-royal-worth-it.md",
+        "src/content/posts/zh-hans/persona-5-royal-worth-it.md"
+      ]
+    },
+    {
+      "no": 5,
+      "gameTitle": "Tetris® Effect: Connected",
+      "mcScore": 94,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/6Rq3jqh8KUa",
+      "sourceArticles": [
+        "src/content/posts/de/tetris-effect-connected-worth-it.md",
+        "src/content/posts/en/tetris-effect-connected-worth-it.md",
+        "src/content/posts/es/tetris-effect-connected-worth-it.md",
+        "src/content/posts/fr/tetris-effect-connected-worth-it.md",
+        "src/content/posts/ja/tetris-effect-connected-worth-it.md",
+        "src/content/posts/pt/tetris-effect-connected-worth-it.md",
+        "src/content/posts/zh-hans/tetris-effect-connected-worth-it.md"
+      ]
+    },
+    {
+      "no": 6,
+      "gameTitle": "Hades",
+      "mcScore": 93,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/3GVaaSqOXnv",
+      "sourceArticles": [
+        "src/content/posts/de/hades-worth-it.md",
+        "src/content/posts/en/hades-worth-it.md",
+        "src/content/posts/es/hades-worth-it.md",
+        "src/content/posts/fr/hades-worth-it.md",
+        "src/content/posts/ja/hades-worth-it.md",
+        "src/content/posts/pt/hades-worth-it.md",
+        "src/content/posts/zh-hans/hades-worth-it.md"
+      ]
+    },
+    {
+      "no": 7,
+      "gameTitle": "Ori and the Will of the Wisps",
+      "mcScore": 93,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/9t3j1FNGEAF",
+      "sourceArticles": [
+        "src/content/posts/de/ori-and-the-will-of-the-wisps-worth-it.md",
+        "src/content/posts/en/ori-and-the-will-of-the-wisps-worth-it.md",
+        "src/content/posts/es/ori-and-the-will-of-the-wisps-worth-it.md",
+        "src/content/posts/fr/ori-and-the-will-of-the-wisps-worth-it.md",
+        "src/content/posts/ja/ori-and-the-will-of-the-wisps-worth-it.md",
+        "src/content/posts/pt/ori-and-the-will-of-the-wisps-worth-it.md",
+        "src/content/posts/zh-hans/ori-and-the-will-of-the-wisps-worth-it.md"
+      ]
+    },
+    {
+      "no": 8,
+      "gameTitle": "Super Smash Bros. Ultimate",
+      "mcScore": 93,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "sourceArticles": [
+        "src/content/posts/de/super-smash-bros-ultimate-worth-it.md",
+        "src/content/posts/en/super-smash-bros-ultimate-worth-it.md",
+        "src/content/posts/es/super-smash-bros-ultimate-worth-it.md",
+        "src/content/posts/fr/super-smash-bros-ultimate-worth-it.md",
+        "src/content/posts/ja/super-smash-bros-ultimate-worth-it.md",
+        "src/content/posts/pt/super-smash-bros-ultimate-worth-it.md",
+        "src/content/posts/zh-hans/super-smash-bros-ultimate-worth-it.md"
+      ]
+    },
+    {
+      "no": 9,
+      "gameTitle": "Undertale",
+      "mcScore": 93,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/dvI6J2brEaR",
+      "sourceArticles": [
+        "src/content/posts/de/undertale-worth-it.md",
+        "src/content/posts/en/undertale-worth-it.md",
+        "src/content/posts/es/undertale-worth-it.md",
+        "src/content/posts/fr/undertale-worth-it.md",
+        "src/content/posts/ja/undertale-worth-it.md",
+        "src/content/posts/pt/undertale-worth-it.md",
+        "src/content/posts/zh-hans/undertale-worth-it.md"
+      ]
+    },
+    {
+      "no": 10,
+      "gameTitle": "Bayonetta 2",
+      "mcScore": 92,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/7eOWUfu8QJS",
+      "sourceArticles": [
+        "src/content/posts/de/bayonetta-2-worth-it.md",
+        "src/content/posts/en/bayonetta-2-worth-it.md",
+        "src/content/posts/es/bayonetta-2-worth-it.md",
+        "src/content/posts/fr/bayonetta-2-worth-it.md",
+        "src/content/posts/ja/bayonetta-2-worth-it.md",
+        "src/content/posts/pt/bayonetta-2-worth-it.md",
+        "src/content/posts/zh-hans/bayonetta-2-worth-it.md"
+      ]
+    },
+    {
+      "no": 11,
+      "gameTitle": "Celeste",
+      "mcScore": 92,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/83uNBGDNnOl",
+      "sourceArticles": [
+        "src/content/posts/de/celeste-worth-it.md",
+        "src/content/posts/en/celeste-worth-it.md",
+        "src/content/posts/es/celeste-worth-it.md",
+        "src/content/posts/fr/celeste-worth-it.md",
+        "src/content/posts/ja/celeste-worth-it.md",
+        "src/content/posts/pt/celeste-worth-it.md",
+        "src/content/posts/zh-hans/celeste-worth-it.md"
+      ]
+    },
+    {
+      "no": 12,
+      "gameTitle": "Mario Kart 8 Deluxe",
+      "mcScore": 92,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/hOtepbk2uh2",
+      "sourceArticles": [
+        "src/content/posts/de/mario-kart-8-deluxe.md",
+        "src/content/posts/en/mario-kart-8-deluxe.md",
+        "src/content/posts/es/mario-kart-8-deluxe.md",
+        "src/content/posts/fr/mario-kart-8-deluxe.md",
+        "src/content/posts/ja/mario-kart-8-deluxe.md",
+        "src/content/posts/pt/mario-kart-8-deluxe.md",
+        "src/content/posts/zh-hans/mario-kart-8-deluxe.md"
+      ]
+    },
+    {
+      "no": 13,
+      "gameTitle": "Super Mario Bros. Wonder",
+      "mcScore": 92,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/byr07mi5hyW",
+      "sourceArticles": [
+        "src/content/posts/de/super-mario-bros-wonder-worth-it.md",
+        "src/content/posts/en/super-mario-bros-wonder-worth-it.md",
+        "src/content/posts/es/super-mario-bros-wonder-worth-it.md",
+        "src/content/posts/fr/super-mario-bros-wonder-worth-it.md",
+        "src/content/posts/ja/super-mario-bros-wonder-worth-it.md",
+        "src/content/posts/pt/super-mario-bros-wonder-worth-it.md",
+        "src/content/posts/zh-hans/super-mario-bros-wonder-worth-it.md"
+      ]
+    },
+    {
+      "no": 14,
+      "gameTitle": "INSIDE",
+      "mcScore": 91,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/2GhXVp3lBzO",
+      "sourceArticles": [
+        "src/content/posts/de/inside-switch-sale-guide.md",
+        "src/content/posts/en/inside-switch-sale-guide.md",
+        "src/content/posts/es/inside-switch-sale-guide.md",
+        "src/content/posts/fr/inside-switch-sale-guide.md",
+        "src/content/posts/ja/inside-switch-sale-guide.md",
+        "src/content/posts/pt/inside-switch-sale-guide.md",
+        "src/content/posts/zh-hans/inside-switch-sale-guide.md"
+      ]
+    },
+    {
+      "no": 15,
+      "gameTitle": "Shovel Knight Treasure Trove",
+      "mcScore": 91,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/fppDS0HCLd8",
+      "sourceArticles": [
+        "src/content/posts/de/shovel-knight-treasure-trove-worth-it.md",
+        "src/content/posts/en/shovel-knight-treasure-trove-worth-it.md",
+        "src/content/posts/es/shovel-knight-treasure-trove-worth-it.md",
+        "src/content/posts/fr/shovel-knight-treasure-trove-worth-it.md",
+        "src/content/posts/ja/shovel-knight-treasure-trove-worth-it.md",
+        "src/content/posts/pt/shovel-knight-treasure-trove-worth-it.md",
+        "src/content/posts/zh-hans/shovel-knight-treasure-trove-worth-it.md"
+      ]
+    },
+    {
+      "no": 16,
+      "gameTitle": "Unavowed",
+      "mcScore": 91,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/kxyrmTE8vZE",
+      "sourceArticles": [
+        "src/content/posts/de/unavowed-worth-it.md",
+        "src/content/posts/en/unavowed-worth-it.md",
+        "src/content/posts/es/unavowed-worth-it.md",
+        "src/content/posts/fr/unavowed-worth-it.md",
+        "src/content/posts/ja/unavowed-worth-it.md",
+        "src/content/posts/pt/unavowed-worth-it.md",
+        "src/content/posts/zh-hans/unavowed-worth-it.md"
+      ]
+    },
+    {
+      "no": 17,
+      "gameTitle": "Animal Well",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+      "sourceArticles": [
+        "src/content/posts/de/animal-well-worth-it.md",
+        "src/content/posts/en/animal-well-worth-it.md",
+        "src/content/posts/es/animal-well-worth-it.md",
+        "src/content/posts/fr/animal-well-worth-it.md",
+        "src/content/posts/ja/animal-well-worth-it.md",
+        "src/content/posts/pt/animal-well-worth-it.md",
+        "src/content/posts/zh-hans/animal-well-worth-it.md"
+      ]
+    },
+    {
+      "no": 18,
+      "gameTitle": "Balatro",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/6QsTv19f45u",
+      "sourceArticles": [
+        "src/content/posts/en/balatro-worth-it.md"
+      ]
+    },
+    {
+      "no": 19,
+      "gameTitle": "Chained Echoes",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/iapEa7sttwo",
+      "sourceArticles": [
+        "src/content/posts/de/chained-echoes-worth-it.md",
+        "src/content/posts/en/chained-echoes-worth-it.md",
+        "src/content/posts/es/chained-echoes-worth-it.md",
+        "src/content/posts/fr/chained-echoes-worth-it.md",
+        "src/content/posts/ja/chained-echoes-worth-it.md",
+        "src/content/posts/pt/chained-echoes-worth-it.md",
+        "src/content/posts/zh-hans/chained-echoes-worth-it.md"
+      ]
+    },
+    {
+      "no": 20,
+      "gameTitle": "Chicory: A Colorful Tale",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/kKfeWM8ImWj",
+      "sourceArticles": [
+        "src/content/posts/en/chicory-a-colorful-tale-worth-it.md",
+        "src/content/posts/es/chicory-a-colorful-tale-worth-it.md",
+        "src/content/posts/fr/chicory-a-colorful-tale-worth-it.md",
+        "src/content/posts/ja/chicory-a-colorful-tale-worth-it.md",
+        "src/content/posts/zh-hans/chicory-a-colorful-tale-worth-it.md"
+      ]
+    },
+    {
+      "no": 21,
+      "gameTitle": "Jack Jeanne",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/cLQgELwmAee",
+      "sourceArticles": [
+        "src/content/posts/en/jack-jeanne-worth-it.md"
+      ]
+    },
+    {
+      "no": 22,
+      "gameTitle": "Ori and the Blind Forest: Definitive Edition",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/e64l6e8kvjr",
+      "sourceArticles": [
+        "src/content/posts/en/ori-and-the-blind-forest-definitive-edition-worth-it.md",
+        "src/content/posts/zh-hans/ori-and-the-blind-forest-definitive-edition-worth-it.md"
+      ]
+    },
+    {
+      "no": 23,
+      "gameTitle": "Sea of Stars",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/iG1qRTPsPfn",
+      "sourceArticles": [
+        "src/content/posts/en/sea-of-stars-worth-it.md",
+        "src/content/posts/fr/sea-of-stars-worth-it.md",
+        "src/content/posts/ja/sea-of-stars-worth-it.md",
+        "src/content/posts/zh-hans/sea-of-stars-worth-it.md"
+      ]
+    },
+    {
+      "no": 24,
+      "gameTitle": "The Making of Karateka",
+      "mcScore": 90,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/wuV7tcmPMD",
+      "sourceArticles": [
+        "src/content/posts/en/the-making-of-karateka-worth-it.md",
+        "src/content/posts/zh-hans/the-making-of-karateka-worth-it.md"
+      ]
+    },
+    {
+      "no": 25,
+      "gameTitle": "Atari 50：The Anniversary Celebration",
+      "mcScore": 89,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/31CqSWiuTPi",
+      "sourceArticles": [
+        "src/content/posts/de/atari-50-the-anniversary-celebration-worth-it.md",
+        "src/content/posts/en/atari-50-the-anniversary-celebration-worth-it.md",
+        "src/content/posts/es/atari-50-the-anniversary-celebration-worth-it.md",
+        "src/content/posts/fr/atari-50-the-anniversary-celebration-worth-it.md",
+        "src/content/posts/ja/atari-50-the-anniversary-celebration-worth-it.md",
+        "src/content/posts/pt/atari-50-the-anniversary-celebration-worth-it.md",
+        "src/content/posts/zh-hans/atari-50-the-anniversary-celebration-worth-it.md"
+      ]
+    },
+    {
+      "no": 26,
+      "gameTitle": "Unicorn Overlord",
+      "mcScore": 89,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/7kmNBh2R4gE",
+      "sourceArticles": [
+        "src/content/posts/de/unicorn-overlord-worth-it.md",
+        "src/content/posts/en/unicorn-overlord-worth-it.md",
+        "src/content/posts/es/unicorn-overlord-worth-it.md",
+        "src/content/posts/fr/unicorn-overlord-worth-it.md",
+        "src/content/posts/ja/unicorn-overlord-worth-it.md",
+        "src/content/posts/pt/unicorn-overlord-worth-it.md",
+        "src/content/posts/zh-hans/unicorn-overlord-worth-it.md"
+      ]
+    },
+    {
+      "no": 27,
+      "gameTitle": "13 Sentinels: Aegis Rim",
+      "mcScore": 88,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/eLGzpo7MZsV",
+      "sourceArticles": [
+        "src/content/posts/de/13-sentinels-aegis-rim-worth-it.md",
+        "src/content/posts/en/13-sentinels-aegis-rim-worth-it.md",
+        "src/content/posts/es/13-sentinels-aegis-rim-worth-it.md",
+        "src/content/posts/fr/13-sentinels-aegis-rim-worth-it.md",
+        "src/content/posts/ja/13-sentinels-aegis-rim-worth-it.md",
+        "src/content/posts/pt/13-sentinels-aegis-rim-worth-it.md",
+        "src/content/posts/zh-hans/13-sentinels-aegis-rim-worth-it.md"
+      ]
+    },
+    {
+      "no": 28,
+      "gameTitle": "DUSK",
+      "mcScore": 88,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "sourceArticles": [
+        "src/content/posts/de/dusk-worth-it.md",
+        "src/content/posts/en/dusk-worth-it.md",
+        "src/content/posts/es/dusk-worth-it.md",
+        "src/content/posts/fr/dusk-worth-it.md",
+        "src/content/posts/ja/dusk-worth-it.md",
+        "src/content/posts/pt/dusk-worth-it.md",
+        "src/content/posts/zh-hans/dusk-worth-it.md"
+      ]
+    },
+    {
+      "no": 29,
+      "gameTitle": "Metroid Dread",
+      "mcScore": 88,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1HNILYERbn5",
+      "sourceArticles": [
+        "src/content/posts/de/metroid-dread.md",
+        "src/content/posts/en/metroid-dread.md",
+        "src/content/posts/es/metroid-dread.md",
+        "src/content/posts/fr/metroid-dread.md",
+        "src/content/posts/ja/metroid-dread.md",
+        "src/content/posts/pt/metroid-dread.md",
+        "src/content/posts/zh-hans/metroid-dread.md"
+      ]
+    },
+    {
+      "no": 30,
+      "gameTitle": "Monster Hunter Rise",
+      "mcScore": 88,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/lqa9TJHCgVE",
+      "sourceArticles": [
+        "src/content/posts/de/monster-hunter-rise-worth-it.md",
+        "src/content/posts/en/monster-hunter-rise-worth-it.md",
+        "src/content/posts/es/monster-hunter-rise-worth-it.md",
+        "src/content/posts/fr/monster-hunter-rise-worth-it.md",
+        "src/content/posts/ja/monster-hunter-rise-worth-it.md",
+        "src/content/posts/pt/monster-hunter-rise-worth-it.md",
+        "src/content/posts/zh-hans/monster-hunter-rise-worth-it.md"
+      ]
+    },
+    {
+      "no": 31,
+      "gameTitle": "What Remains of Edith Finch",
+      "mcScore": 88,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/FMn7HJlmf8",
+      "sourceArticles": [
+        "src/content/posts/de/what-remains-of-edith-finch-worth-it.md",
+        "src/content/posts/en/what-remains-of-edith-finch-worth-it.md",
+        "src/content/posts/es/what-remains-of-edith-finch-worth-it.md",
+        "src/content/posts/fr/what-remains-of-edith-finch-worth-it.md",
+        "src/content/posts/ja/what-remains-of-edith-finch-worth-it.md",
+        "src/content/posts/pt/what-remains-of-edith-finch-worth-it.md",
+        "src/content/posts/zh-hans/what-remains-of-edith-finch-worth-it.md"
+      ]
+    },
+    {
+      "no": 32,
+      "gameTitle": "Pikmin 4",
+      "mcScore": 87,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/c0V9fA7j5D0",
+      "sourceArticles": [
+        "src/content/posts/de/pikmin-4.md",
+        "src/content/posts/en/pikmin-4.md",
+        "src/content/posts/es/pikmin-4.md",
+        "src/content/posts/fr/pikmin-4.md",
+        "src/content/posts/ja/pikmin-4.md",
+        "src/content/posts/pt/pikmin-4.md",
+        "src/content/posts/zh-hans/pikmin-4.md"
+      ]
+    },
+    {
+      "no": 33,
+      "gameTitle": "AI: THE SOMNIUM FILES",
+      "mcScore": 86,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "sourceArticles": [
+        "src/content/posts/de/ai-the-somnium-files-worth-it.md",
+        "src/content/posts/en/ai-the-somnium-files-worth-it.md",
+        "src/content/posts/es/ai-the-somnium-files-worth-it.md",
+        "src/content/posts/fr/ai-the-somnium-files-worth-it.md",
+        "src/content/posts/ja/ai-the-somnium-files-worth-it.md",
+        "src/content/posts/pt/ai-the-somnium-files-worth-it.md",
+        "src/content/posts/zh-hans/ai-the-somnium-files-worth-it.md"
+      ]
+    },
+    {
+      "no": 34,
+      "gameTitle": "Monster Boy and the Cursed Kingdom",
+      "mcScore": 86,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "sourceArticles": [
+        "src/content/posts/de/monster-boy-and-the-cursed-kingdom-worth-it.md",
+        "src/content/posts/en/monster-boy-and-the-cursed-kingdom-worth-it.md",
+        "src/content/posts/es/monster-boy-and-the-cursed-kingdom-worth-it.md",
+        "src/content/posts/fr/monster-boy-and-the-cursed-kingdom-worth-it.md",
+        "src/content/posts/ja/monster-boy-and-the-cursed-kingdom-worth-it.md",
+        "src/content/posts/pt/monster-boy-and-the-cursed-kingdom-worth-it.md",
+        "src/content/posts/zh-hans/monster-boy-and-the-cursed-kingdom-worth-it.md"
+      ]
+    },
+    {
+      "no": 35,
+      "gameTitle": "Shantae and the Pirate's Curse",
+      "mcScore": 86,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/2FXuQLdeecV",
+      "sourceArticles": [
+        "src/content/posts/en/shantae-and-the-pirate-s-curse-worth-it.md",
+        "src/content/posts/fr/shantae-and-the-pirate-s-curse-worth-it.md",
+        "src/content/posts/ja/shantae-and-the-pirate-s-curse-worth-it.md",
+        "src/content/posts/zh-hans/shantae-and-the-pirate-s-curse-worth-it.md"
+      ]
+    },
+    {
+      "no": 36,
+      "gameTitle": "Sonic Mania",
+      "mcScore": 86,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "sourceArticles": [
+        "src/content/posts/de/sonic-mania-worth-it.md",
+        "src/content/posts/en/sonic-mania-worth-it.md",
+        "src/content/posts/es/sonic-mania-worth-it.md",
+        "src/content/posts/fr/sonic-mania-worth-it.md",
+        "src/content/posts/ja/sonic-mania-worth-it.md",
+        "src/content/posts/pt/sonic-mania-worth-it.md",
+        "src/content/posts/zh-hans/sonic-mania-worth-it.md"
+      ]
+    },
+    {
+      "no": 37,
+      "gameTitle": "Star Wars Pinball",
+      "mcScore": 86,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "sourceArticles": [
+        "src/content/posts/de/star-wars-pinball-worth-it.md",
+        "src/content/posts/en/star-wars-pinball-worth-it.md",
+        "src/content/posts/es/star-wars-pinball-worth-it.md",
+        "src/content/posts/fr/star-wars-pinball-worth-it.md",
+        "src/content/posts/ja/star-wars-pinball-worth-it.md",
+        "src/content/posts/pt/star-wars-pinball-worth-it.md",
+        "src/content/posts/zh-hans/star-wars-pinball-worth-it.md"
+      ]
+    },
+    {
+      "no": 38,
+      "gameTitle": "No Man's Sky",
+      "mcScore": 83,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/jOx3ZV1olfz",
+      "sourceArticles": [
+        "src/content/posts/de/no-man-s-sky-worth-it.md",
+        "src/content/posts/en/no-man-s-sky-worth-it.md",
+        "src/content/posts/es/no-man-s-sky-worth-it.md",
+        "src/content/posts/fr/no-man-s-sky-worth-it.md",
+        "src/content/posts/ja/no-man-s-sky-worth-it.md",
+        "src/content/posts/pt/no-man-s-sky-worth-it.md",
+        "src/content/posts/zh-hans/no-man-s-sky-worth-it.md"
+      ]
+    },
+    {
+      "no": 39,
+      "gameTitle": "Daemon X Machina: Titanic Scion",
+      "mcScore": 79,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "sourceArticles": [
+        "src/content/posts/de/daemon-x-machina-titanic-scion-worth-it.md",
+        "src/content/posts/en/daemon-x-machina-titanic-scion-worth-it.md",
+        "src/content/posts/es/daemon-x-machina-titanic-scion-worth-it.md",
+        "src/content/posts/fr/daemon-x-machina-titanic-scion-worth-it.md",
+        "src/content/posts/ja/daemon-x-machina-titanic-scion-worth-it.md",
+        "src/content/posts/pt/daemon-x-machina-titanic-scion-worth-it.md",
+        "src/content/posts/zh-hans/daemon-x-machina-titanic-scion-worth-it.md"
+      ]
+    },
+    {
+      "no": 40,
+      "gameTitle": "Little Kitty, Big City",
+      "mcScore": 78,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/7W5fsHROeLo",
+      "sourceArticles": [
+        "src/content/posts/de/little-kitty-big-city-worth-it.md",
+        "src/content/posts/en/little-kitty-big-city-worth-it.md",
+        "src/content/posts/es/little-kitty-big-city-worth-it.md",
+        "src/content/posts/fr/little-kitty-big-city-worth-it.md",
+        "src/content/posts/ja/little-kitty-big-city-worth-it.md",
+        "src/content/posts/pt/little-kitty-big-city-worth-it.md",
+        "src/content/posts/zh-hans/little-kitty-big-city-worth-it.md"
+      ]
+    },
+    {
+      "no": 41,
+      "gameTitle": "Figment",
+      "mcScore": 75,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/hZKMhNbPlWw",
+      "sourceArticles": [
+        "src/content/posts/de/figment-worth-it.md",
+        "src/content/posts/en/figment-worth-it.md",
+        "src/content/posts/es/figment-worth-it.md",
+        "src/content/posts/fr/figment-worth-it.md",
+        "src/content/posts/ja/figment-worth-it.md",
+        "src/content/posts/pt/figment-worth-it.md",
+        "src/content/posts/zh-hans/figment-worth-it.md"
+      ]
+    },
+    {
+      "no": 42,
+      "gameTitle": "Cozy Grove",
+      "mcScore": 71,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1ZWE4WIpTp5",
+      "sourceArticles": [
+        "src/content/posts/de/cozy-grove-worth-it.md",
+        "src/content/posts/en/cozy-grove-worth-it.md",
+        "src/content/posts/es/cozy-grove-worth-it.md",
+        "src/content/posts/fr/cozy-grove-worth-it.md",
+        "src/content/posts/ja/cozy-grove-worth-it.md",
+        "src/content/posts/pt/cozy-grove-worth-it.md",
+        "src/content/posts/zh-hans/cozy-grove-worth-it.md"
+      ]
+    },
+    {
+      "no": 43,
+      "gameTitle": "Novel Rogue",
+      "mcScore": 8,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "sourceArticles": [
+        "src/content/posts/de/novel-rogue-worth-it.md",
+        "src/content/posts/es/novel-rogue-worth-it.md",
+        "src/content/posts/fr/novel-rogue-worth-it.md",
+        "src/content/posts/ja/novel-rogue-worth-it.md",
+        "src/content/posts/pt/novel-rogue-worth-it.md"
+      ]
+    },
+    {
+      "no": 44,
+      "gameTitle": "The Seven Chambers",
+      "mcScore": 2,
+      "gamegulfDetailUrl": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "sourceArticles": [
+        "src/content/posts/ja/the-seven-chambers-worth-it.md"
+      ]
+    }
+  ]
+}

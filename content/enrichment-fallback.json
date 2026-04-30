@@ -1,14 +1,36 @@
 {
-  "daemon-x-machina-titanic-scion": {
-    "metacritic": 69,
-    "main_story_hours": 25,
-    "main_extra_hours": 40,
-    "completionist_hours": 55
+  "celeste": {
+    "main_story_hours": 8,
+    "main_extra_hours": 14,
+    "completionist_hours": 38,
+    "all_styles_hours": 13
   },
-  "cozy-grove": {
-    "metacritic": 71,
-    "main_story_hours": 40,
-    "main_extra_hours": 60,
-    "completionist_hours": 90
+  "super-mario-bros-wonder": {
+    "metacritic": 92,
+    "main_story_hours": 10,
+    "main_extra_hours": 18,
+    "completionist_hours": 27,
+    "all_styles_hours": 16
+  },
+  "inside": {
+    "metacritic": 91,
+    "main_story_hours": 4,
+    "main_extra_hours": 4,
+    "completionist_hours": 5,
+    "all_styles_hours": 4
+  },
+  "shovel-knight-treasure-trove": {
+    "metacritic": 91,
+    "main_story_hours": 25,
+    "main_extra_hours": 36,
+    "completionist_hours": 74,
+    "all_styles_hours": 34
+  },
+  "unavowed": {
+    "metacritic": 91,
+    "main_story_hours": 9,
+    "main_extra_hours": 12,
+    "completionist_hours": 17,
+    "all_styles_hours": 11
   }
 }

@@ -72,7 +72,7 @@ export type BlogPost = {
   timeCommitment?: string;
   playMode?: string;
   communityVibe?: string;
-  playtime?: string;
+  playtime: string;
   whyNow?: string;
   currentDeal?: string;
   nearHistoricalLow?: string;
@@ -643,7 +643,64 @@ function getDisplayTimeFit(post: BlogPost) {
     : post.playerNeeds?.includes('casual') || post.playerNeeds?.includes('cozy')
       ? fallbackTimeFit.casual[l]
       : fallbackTimeFit.default[l];
-  return shortenText(post.timeFit || post.timeCommitment || fallback, 82);
+  return shortenText(post.timeFit || post.timeCommitment || post.playtime || fallback, 82);
+}
+
+function getCardPlaytimeText(post: BlogPost) {
+  const raw = (post.playtime || post.timeCommitment || post.timeFit || getDisplayTimeFit(post)).replace(/\s+/g, ' ').trim();
+  const locale = post.locale;
+
+  const localePatterns: Partial<Record<BlogLocale, Array<{ pattern: RegExp; format: (match: RegExpMatchArray) => string }>>> = {
+    en: [
+      { pattern: /^(\d+)h main\b/iu, format: (m) => `~${m[1]}h main` },
+      { pattern: /^Estimated scope:\s*(\d+–\d+)h main\b/iu, format: (m) => `${m[1]}h main` },
+      { pattern: /^Estimated:\s*~?(\d+–\d+) min runs\b/iu, format: (m) => `${m[1]} min runs` },
+      { pattern: /^No fixed ending;\s*~?(\d+–\d+) min sessions\b/iu, format: (m) => `${m[1]} min sessions` },
+    ],
+    'zh-hans': [
+      { pattern: /^约(\d+)小时主线/u, format: (m) => `主线约${m[1]}小时` },
+      { pattern: /^预估体量：主线约(\d+–\d+)小时/u, format: (m) => `主线约${m[1]}小时` },
+      { pattern: /^预估：单局约(\d+–\d+)分钟/u, format: (m) => `单局约${m[1]}分钟` },
+      { pattern: /^无固定通关线；单次约(\d+–\d+)分钟/u, format: (m) => `单次约${m[1]}分钟` },
+    ],
+    ja: [
+      { pattern: /^メイン約(\d+)時間/u, format: (m) => `メイン約${m[1]}時間` },
+      { pattern: /^目安:\s*メイン約(\d+–\d+)時間/u, format: (m) => `メイン約${m[1]}時間` },
+      { pattern: /^目安:\s*1ラン約(\d+–\d+)分/u, format: (m) => `1ラン約${m[1]}分` },
+      { pattern: /^固定クリアなし。1回約(\d+–\d+)分/u, format: (m) => `1回約${m[1]}分` },
+    ],
+    fr: [
+      { pattern: /^~(\d+) h histoire/iu, format: (m) => `~${m[1]} h histoire` },
+      { pattern: /^Estimation\s*:\s*~(\d+–\d+) h histoire/iu, format: (m) => `~${m[1]} h histoire` },
+      { pattern: /^Estimation\s*:\s*runs de ~(\d+–\d+) min/iu, format: (m) => `runs ~${m[1]} min` },
+    ],
+    es: [
+      { pattern: /^~(\d+) h historia/iu, format: (m) => `~${m[1]} h historia` },
+      { pattern: /^Estimación:\s*~(\d+–\d+) h historia/iu, format: (m) => `~${m[1]} h historia` },
+      { pattern: /^Estimación:\s*partidas de ~(\d+–\d+) min/iu, format: (m) => `partidas ~${m[1]} min` },
+    ],
+    de: [
+      { pattern: /^~(\d+) Std\. Story/iu, format: (m) => `~${m[1]} Std. Story` },
+      { pattern: /^Schätzung:\s*~(\d+–\d+) Std\. Story/iu, format: (m) => `~${m[1]} Std. Story` },
+      { pattern: /^Schätzung:\s*~(\d+–\d+) Min\. pro Run/iu, format: (m) => `~${m[1]} Min./Run` },
+    ],
+    pt: [
+      { pattern: /^~(\d+) h campanha/iu, format: (m) => `~${m[1]} h campanha` },
+      { pattern: /^Estimativa:\s*~(\d+–\d+) h campanha/iu, format: (m) => `~${m[1]} h campanha` },
+      { pattern: /^Estimativa:\s*partidas de ~(\d+–\d+) min/iu, format: (m) => `partidas ~${m[1]} min` },
+    ],
+  };
+
+  for (const { pattern, format } of localePatterns[locale] || localePatterns.en || []) {
+    const match = raw.match(pattern);
+    if (match) return format(match);
+  }
+
+  return raw.split(/[、,，;；·]/u)[0] || raw;
+}
+
+function getDisplayPlaytime(post: BlogPost) {
+  return shortenText(getCardPlaytimeText(post), 24);
 }
 function getDisplayWhyNow(post: BlogPost) { return shortenText(post.whyNow || post.priceSignal, 76); }
 function getDisplayCurrentDeal(post: BlogPost) { return shortenText(post.currentDeal || post.priceSignal, 72); }
@@ -680,7 +737,7 @@ function getSearchIndex(post: BlogPost): DecisionSearchIndex {
     quickFilters: qf,
     listingTakeaway: getDisplayListingTakeaway(post).toLowerCase(),
     communityVibe: post.communityVibe?.toLowerCase(),
-    playtime: post.playtime?.toLowerCase(),
+    playtime: getDisplayPlaytime(post).toLowerCase(),
   };
 }
 
@@ -722,7 +779,7 @@ export async function prepareDecisionEntryCard(post: BlogPost): Promise<Decision
     mainFriction: getDisplayMainFriction(post),
     timeFit: getDisplayTimeFit(post),
     communityVibe: post.communityVibe ? shortenText(post.communityVibe, 64) : undefined,
-    playtime: post.playtime ? shortenText(post.playtime, 32) : undefined,
+    playtime: getDisplayPlaytime(post),
     priceCall,
     priceCallLabel: getPriceRecommendationLabel(priceCall, post.locale),
     confidence,

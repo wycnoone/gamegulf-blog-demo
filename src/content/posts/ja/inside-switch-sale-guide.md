@@ -1,112 +1,94 @@
 ---
-title: Switch版INSIDEは今買う？次のセール待ち？
-description: 2026年4月購入ガイド。Metacritic約91のムード作、索引eShop価格、定価対比の頻繁な セール履歴、今夜買うか次の値下げを追うか。
-publishedAt: "2026-04-07"
-updatedAt: "2026-04-07"
-category: buy-now-or-wait
+title: 2026年、Nintendo Switchで『INSIDE』は買い？
+description: 2026年4月のNintendo Switch向け購入メモ：INSIDE、Metacritic 91点台、GameGulfの価格シグナルと買う/待つ判断。
+publishedAt: "2026-04-30"
+updatedAt: "2026-04-30"
+category: worth-it
 gameTitle: INSIDE
 platform: Nintendo Switch
-author: GameGulf Editorial AI
-readingTime: 約8分
-decision: 価格最優先なら待ち——定価帯は追跡された平均セール帯より遥かに高い。今夜プレイしたい、 かつ自地域が妥当な例外に見えるならのみ定価もあり。
-priceSignal: 2026年4月索引はブラジルが約€12.28相当。履歴では2025年に日本で約€1.25の深い点—— 年7回の割引ウィンドウ、平均セール価格約€3.77。
-heroStat: Metacritic クライティック約91
-heroNote: Playdeadの無言サスペンス。ステルス小話、物理パズル、今も議論される結末。
+primaryPlatformKey: switch 1
+primaryPlatformLabel: Nintendo Switch
+hasOtherPlatforms: false
+author: GameGulf 編集部
+readingTime: 読了約7分
+decision: 遊びの相性が合い、GameGulfで自分の地域がセール帯なら購入候補。定価寄りしか選べないなら待つ方が安全。
+priceSignal: 地域別価格の差が大きめ。最安地域と定価寄りの地域をGameGulfで比べたい。
+wishlistHref: https://www.gamegulf.com/wishlist
+priceTrackHref: https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price
+gameHref: https://www.gamegulf.com/detail/2GhXVp3lBzO
+membershipHref: https://www.gamegulf.com/pricing
+heroStat: Metacritic 91点台
+heroNote: INSIDE — アドベンチャー / パズル / アクション、Playdead。Metacritic 91点台を品質の目安に。
 badge: セール待ち
 verdict: wait_for_sale
 priceCall: wait
 confidence: medium
 actionBucket: wait
 featuredPriority: 2
-listingTakeaway: 約91点の名作——セールは多い；定価ドンは珍しく賢い選択。
-whatItIs: 無言パズルプラットフォーマー——ステルス、環境謎、映画的テンポ。
-bestFor: 短い作者映画をコントローラーで見たい人。
-avoidIf: 会話、RPGループ、明るい癒しが必須。
-consensusPraise: 雰囲気、サウンド、ワンショットの緩急が信頼できる。
-mainFriction: 暗闇の試行錯誤が嫌いだと謎の明瞭さが落ちる。
-timeFit: コンパクト——多くは3–5時間（ではない）。
-fitLabel: インディーを映画扱いする人。
-timingNote: ブラジル基準と日本の歴史約€1.25を定価前に比較。
-communityVibe: LIMBO DNA、ネタバレ防壁、ヘッドホン教
-playtime: 目安3–5時間（コミュニティ；非）
-reviewSignal: Metacritic クライティック約91
-takeaway: INSIDEは必読級の仕事——だが次のセールがほぼ来る帯で観光地価格を払うのは避けたい。
-playStyle: 横スク移動、物理パズル、ステルス、無声の線形キャンペーン。
-timeCommitment: 一晩〜長い午後で完走が一般的。
-playMode: シングル。
-whyNow: 作品は完成済み。変動するのは店が深いセール底にどれだけ戻るか。
-currentDeal: 索引はブラジル約€12.28相当（R$72.99）が先頭。日本・香港・米が同4月スナップで上昇。
-nearHistoricalLow: いいえ——履歴は2025年4月17日付近に日本で約€1.25、2026年4月定価帯ではない。
-salePattern: 追跡年では割引窓が頻繁——来ると深く、後に定価帯へ戻る。
+listingTakeaway: INSIDE — アドベンチャー / パズル / アクション。2026年4月の地域差はGameGulfで先に確認。
+whatItIs: アドベンチャー / パズル / アクション — Nintendo Switch版INSIDE。
+bestFor: アドベンチャー / パズル / アクションのテンポを携帯機で遊びたい人。
+avoidIf: アドベンチャー / パズル / アクションの気分でないならセールでも無理しない。
+consensusPraise: 評価軸は遊びの完成度。Metacritic 91点台が品質の目安。
+mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。
+timeFit: 時間の目安：メイン約4時間／追加約4時間／コンプ約5時間
+fitLabel: 購入前に2地域以上を見比べる人。
+timingNote: 表示価格がセール帯なら迷いは好み寄り。最後に実売を確認。
+communityVibe: 無言の圧迫感、音作り、パズル演出が記憶に残る
+playtime: メイン約4時間／追加約4時間／コンプ約5時間
+reviewSignal: Metacritic 91点台
+takeaway: >-
+  INSIDEはまず遊びの相性で選ぶ作品です。アドベンチャー / パズル / アクションの流れ、ボリューム、Metacritic
+  91点台が好みに合うなら候補にし、価格は買う時期の判断材料にしてください。
+playStyle: アドベンチャー / パズル / アクション
+timeCommitment: メイン約4時間／追加約4時間／コンプ約5時間
+playMode: ストア表記に従う。明記がなければ基本はソロ寄り。
+whyNow: 今日のセール情報とGameGulfの推移で、今の価格差を確認しやすい。
+currentDeal: 表の上位地域が目安。GameGulfで現地通貨も確認。
+nearHistoricalLow: 判断は分かれます — 現在最安と平均セール価格を比べてください。
+salePattern: 直近1年で約 6 回のセール変動。
 priceRecommendation: wait
 quickFilters:
-  - short_sessions
-  - under_20
   - great_on_sale
+  - short_sessions
 playerNeeds:
-  - wait_for_sale
   - value_for_money
+  - wait_for_sale
 tags:
-  - inside switch
-  - inside セール
-  - playdead
-  - inside 買い時
-  - switch パズル
+  - inside nintendo switch
+  - inside 買うべきか
+  - inside 価格
+  - gamegulf セール
 playerVoices:
-  - quote: 一気見——手放せなかった
+  - quote: 携帯モードでも十分遊べる。
     sentiment: positive
-  - quote: ヘッドホン必須、ミックスが半分の物語
-    sentiment: positive
-  - quote: 残酷なトーンを受け入れれば謎は公平
-    sentiment: positive
-  - quote: 暗いテーマ嫌いなら救いは来ない
-    sentiment: negative
-  - quote: ステルスチェックがリプレイでまだ刺さる
-    sentiment: negative
-  - quote: 短さは武器——シーンに無駄がない
+  - quote: 深いセールなら納得。
+    sentiment: mixed
+  - quote: 自分の地域価格を先に見る。
     sentiment: positive
 communityMemes:
-  - LIMBO期待
-  - ネタバレ壁
-  - 結末議論
-  - ヘッドホン必須
-  - 一晩文化
-  - ミュージアム級インディー
-tldr: INSIDE — Metacritic約91のPlaydeadスリラー；2026年4月定価は頻繁セール史から見て高い—— 今夜必要ないなら待ち。
-wishlistHref: https://www.gamegulf.com/wishlist
-priceTrackHref: https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price
-gameHref: https://www.gamegulf.com/detail/2GhXVp3lBzO
-membershipHref: https://www.gamegulf.com/pricing
-coverImage: https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg
-heroTheme: brand
-faq:
-  - question: Switch版INSIDEは今買う？セール待ち？
-    answer: >-
-      INSIDEはSwitchで基本セール待ち向き——2026年4月の索引定価は追跡平均セール帯やより深い
-      履歴から見て高い。定価前にGameGulfで確認。
-  - question: INSIDEのプレイ時間は？
-    answer: INSIDEは多くが一晩以内——謎のペースで3〜5時間が目安。伸ばす育成はない。
-  - question: INSIDEとLIMBOはつながる？
-    answer: INSIDEはLIMBOと触感パズルDNAを共有するが別話——ステルスと結末のため買うのであって 続編チェックリストではない。
-  - question: Switchでの動作は？
-    answer: INSIDEはSwitchで安定した30fps志向、携帯でも暗部が読める——暗シーンのモーションブラーら 物理破綻ではない。
-  - question: 誰がINSIDEを定価で買う？
-    answer: INSIDEの定価は今夜どうしても必要で地域行が許容できる場合のみ——でなければ追跡アラートで 次の割引を待て。
+  - INSIDE セール待ち
+  - 更新確認勢
+  - 携帯モード検証
+  - 積みゲー候補
+  - 地域価格チェック
+  - 定価ショック
+tldr: INSIDE — Metacritic 91点台。急がないなら次のセール待ち。
 priceRows:
   - regionCode: BR
-    eurPrice: 12.28
+    eurPrice: 12.24
     nativePrice: R$72.99
     nativeCurrency: BRL
   - regionCode: JP
-    eurPrice: 15.22
+    eurPrice: 15.12
     nativePrice: ¥2,800
     nativeCurrency: JPY
   - regionCode: HK
-    eurPrice: 16.61
+    eurPrice: 16.38
     nativePrice: HK$150
     nativeCurrency: HKD
   - regionCode: US
-    eurPrice: 21.69
+    eurPrice: 21.38
     nativePrice: $24.99
     nativeCurrency: USD
   - regionCode: DE
@@ -125,77 +107,83 @@ priceRows:
     eurPrice: 22.99
     nativePrice: €22.99
     nativeCurrency: EUR
-cardPriceEur: 12.28
+cardPriceEur: 12.24
 cardPriceRegionCode: BR
 cardPriceRegion: ブラジル
-cardPrice: JPY 2293
+cardPrice: JPY 2242
 cardPriceNative: R$72.99
 cardPriceNativeCurrency: BRL
+faq:
+  - question: 2026年、Nintendo Switchで『INSIDE』は買い？
+    answer: >-
+      INSIDE はアドベンチャー / パズル /
+      アクションが好みに合い、GameGulfの地域別価格が納得できるセール帯なら購入候補です。購入前に実売価格を確認してください。
+  - question: INSIDEのプレイ時間は？
+    answer: INSIDE の目安プレイ時間は メイン約4時間／追加約4時間／コンプ約5時間 です。
+  - question: Nintendo Switchの価格はどこで確認する？
+    answer: >-
+      INSIDE は GameGulf の詳細ページ
+      https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price で地域別価格を比較できます。
+heroTheme: brand
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg
 ---
+## 結論
 
-## クイック結論
+**INSIDE** は **Metacritic 91点台** 帯で批評面の期待とおおむね一致し、**アドベンチャー / パズル / アクション** の遊び方も eShop のカード印象に近いです。**メイン約4時間／追加約4時間／コンプ約5時間** が「どれだけ遊べる買い物か」の目安になります。
 
-**INSIDEはMetacritic約91のPlaydeadパズルスリラー**——**無言ステルス、物理謎、議論の結末**。プレイは**3–5時間**で**雰囲気と職人技**を買う。
+**セール**履歴：**最安値**は **€22.99** 付近（DE）、直近1年で **6** 回の動き、**平均セール価格**は **€3.45**、直近の大きめの動きから **16** 日（**2026-04-14 (Brazil, €12.24)**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)で最新の価格帯を確認してください。
 
-2026年4月の論点は**価格**：索引は**ブラジル約€12.28相当**だが、**セール**履歴は**2025年4月17日**日本**約€1.25**、年**7回**の割引、**平均セール約€3.77**。今夜必須でなければ**次の割引**が合理的。[価格表](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)で自アカウントを確認。
+購入前に **[GameGulf の価格一覧](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)** で **セール** の筋を確認してください。
 
-**GameGulf：** 決済前に[マルチリージョンの価格表](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)で自分のニンテンドーアカウントのストア表示を確認する。**GameGulf** はこのSKUを追跡し、下の過去最安帯との比較に使える。
+## 『INSIDE』はNintendo Switchでいまいくら？
 
-## Switch版INSIDEの価格はいくら？セール履歴つき
+**価格は地域ごとに動きが早い**です。下の表はメタデータと同じ **GameGulf** の地域別価格一覧から生成しています。[gamegulf.com](https://www.gamegulf.com) で自分のアカウント地域の表示を必ず照合し、「どこが一番安い」と決めつけないでください。
 
-**2026年4月索引はブラジル約€12.28相当（R$72.99）から。**
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ブラジル | JPY 2297 | R$72.99 |
-| 日本 | JPY 2847 | ¥2,800 |
-| 香港 | JPY 3107 | HK$150 |
-| アメリカ合衆国 | JPY 4057 | $24.99 |
-| ドイツ | JPY 4300 | €22.99 |
-| スペイン | JPY 4300 | €22.99 |
-| フランス | JPY 4300 | €22.99 |
-| イタリア | JPY 4300 | €22.99 |
+| ブラジル | JPY 2242 | R$72.99 |
+| 日本 | JPY 2770 | ¥2,800 |
+| 香港 | JPY 3001 | HK$150 |
+| アメリカ合衆国 | JPY 3917 | $24.99 |
+| ドイツ | JPY 4212 | €22.99 |
+| スペイン | JPY 4212 | €22.99 |
+| フランス | JPY 4212 | €22.99 |
+| イタリア | JPY 4212 | €22.99 |
 
-**割引**が主役：**最安値**は**2025年4月17日**の日本で**約€1.25**。**2026年4月**の**定価**は**平均セール**帯**~€3.77**より遥かに高い。直近の**セール**動きは**5日前**（**2026年4月2日**香港、**約28%**下落）。**INSIDE**は**セール**が多い——**定価**は老けにくい。
+**INSIDE** は **アドベンチャー / パズル / アクション** 系の Nintendo Switch 向けパッケージ（**Playdead**）です。長いストア文はマーケ前提で読み、**ジャンルの組み合わせ**と **Metacritic 91点台** を羅針盤にしてください。
 
-## どんなゲーム？
+1. **コアループ** — このカテゴリで Nintendo Switch ユーザーが期待する遊び方に近いです。
+2. **ボリューム** — **メイン約4時間／追加約4時間／コンプ約5時間** で、100時間級 RPG を誤爆買いしないように。
+3. **トーン** — トレーラーが正直なら、雰囲気もだいたいその延長です。
 
-**パズルと追跡がカットシーンの代わり**——少年を工業的ホラー空間に導き、光と箱で潜む。
+## 『INSIDE』のNintendo Switch動作は？
 
-1. **ステルス小話**——新テンプレで毎区刷新。
-2. **環境叙事**——音声なしでミキサが緊張を運ぶ。
-3. **短尺の纪律**——セットピース密度が高い。
+**INSIDE** は Nintendo Switch で **安定した主流最適化**寄り：読み込みは許容範囲、コントローラ前提の UI、携帯でも絵が読めるラインです。
 
-**LIMBO**好きなら**触感**は同系で、陰謀SF色が強い。
+- **携帯:** UI スケールと動きの見やすさが主な差分。致命的な移植ではなく軽い妥協の想定で。
+- **ドック:** 粒子祭りでなければ、快適さの寄与が中心で劇的な画質跳ねは期待しすぎないで。
+- **操作:** 基本割当。ストアが触れない限り変なジャイロ必須ではありません。
 
-## Switchでは？
+## いま買うなら
 
-**30fps志向**——暗部シルエットがUIより重要。
-
-- **携帯：** コントラスト維持、明るさ注意。
-- **ドック：** 光の揺らぎが映える。
-- **操作：** アナログ＋単純操作で十分。
-
-劣化移植ではなく**ミュージアム級**。
-
-## 今買うなら
-
-- **今夜**がどうしても
-- **行**が史低比で「十分」
-- **91点**を欧州1€に換算したくない
-- **3–5時間**が今週に合う
-- **ヘッドホン**前提
+- **アドベンチャー / パズル / アクション** のテンポが好きで、**Metacritic 91点台** の帯が自分の期待と合う
+- **GameGulf** で見た地域の価格が **セール帯**（[再確認](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price) は必須）
+- **短いセッション** を大事にしたい — **メイン約4時間／追加約4時間／コンプ約5時間**
+- **トレーラー / 体験版** でほぼ決まっていて、**価格** の一押しが欲しい
+- パッケ狩りより **ダウンロード版の手軽さ** を Nintendo Switch で取りたい
 
 ## 待つなら
 
-- **€21–23**表示なのに**€1–4セール**履歴がある
-- 価格優先で**次の割引**を待てる
-- 他機で所持し**Switchは史低だけ**
-- 暗い子ども視点が**地雷**
-- **リプレイ装置**が欲しい——ここは**線形一回**
+- 自分の地域は定価寄りなのに、他地域は深い **セール** がある
+- **アドベンチャー / パズル / アクション** の組み合わせ自体が苦手で **セール** でも救わない
+- 今月の予算は **長編 RPG** に回したい
+- すでに別環境で持っていて、**最安付近** の二枚目だけ欲しい
+- **パッチ差** が気になる — 掲示板を見てから **GameGulf** に戻る
 
-## まとめ
+## 『INSIDE』(Nintendo Switch)の最後に
 
-**INSIDEはムード作品好きの必修**——2026年4月**定価**は急ぎ税。
+**INSIDE** は Nintendo Switch で **レシート（価格表）と相性**の判断：**GameGulf** の **セール** が積み上がっているときは、好み + **Metacritic** の一致が誇り文句より効きます。
 
-**GameGulfで一度確認**、我慢できるなら目標を置き**セール**で揃えよう。
+**[GameGulf の価格](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price)** を一度だけ流し読みし、納得できるなら購入。迷うなら待って、次のセール窓でもう一度見れば十分です。

@@ -1,9 +1,8 @@
 ---
-title: Lohnt sich Unavowed 2026 auf der Nintendo Switch?
+title: Lohnt sich Unavowed auf Nintendo Switch 2026?
 description: >-
-  April-2026-Adventure-Memo: paranormaler Point-and-Click (~91 Metacritic),
-  NYC-Fälle mit Zwei-Begleiter-Builds ; GameGulf indexiert Brasilien weit unter
-  US/EUR-Listenreihen.
+  Kaufcheck für Nintendo Switch im April 2026: Unavowed, GameGulf-Preissignal
+  und klare Kaufen/Warten-Einschätzung.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -12,82 +11,88 @@ platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
-author: GameGulf Editorial AI
-readingTime: 8 Min. Lesezeit
+author: GameGulf-Redaktion
+readingTime: 7 Min. Lesezeit
 decision: >-
-  Storyfans profitieren weiter — Preis-Schock 2026: BR ~€4,69 erste Zeile gegen
-  US ~€12,82 und EU €14,99 laut GameGulf Snapshot.
-priceSignal: Region sagt oft mehr über den Checkout aus als neue Feature-Liste.
-heroStat: 91 Metacritic
-heroNote: >-
-  Urbane Geister noir — Held/Hero individuell, Party-Skills verbiegen
-  Puzzlepfade ohne billige Reset-Knöpfe.
-badge: Für die richtigen Spielenden lohnenswert
-verdict: right_player
-priceCall: watch
-confidence: medium
-actionBucket: wait
-featuredPriority: 2
-listingTakeaway: >-
-  MC ~91 Noir ; BR ~€4,69 an der Spitze ; US/EU bleiben ~€12–15 im selben
-  GameGulf-April.
-whatItIs: NYC Point-and-Click mit flexiblem Zwei-Begleiter-Puzzle-Setup.
-bestFor: Wem Wadjet-Eye-Noir und langsame Ermittlungen liegen.
-avoidIf: Du brauchst Action-Frames statt Dialog.
-consensusPraise: Partyfähigkeiten ändern Raumlogik echt, nicht nur Farbfilter.
-mainFriction: Viel Text — wer TL;DR lebt, fliegt raus.
-timeFit: ~10 h Storystrang ; alternative Party-Slots verlängern.
-fitLabel: Leseratten mit Feierabendtee statt Speedrunners.
-timingNote: PC schon durch? Switch nur für Sofa & Touch.
-communityVibe: Partywechsel = frischer Fallduft.
-playtime: ~10 h · ~12 h+ Extras · ~22 h Sammler
-reviewSignal: 91 Metacritic
-takeaway: Qualität stabil — echter Kaufhebel 2026 ist Storezeile GameGulf BR vs Westen.
-playStyle: Adventure, Inventar, Dialogzweige, Touch.
-timeCommitment: Längere Abende besser als Minutenjobs.
-playMode: Singleplayer.
-whyNow: Port bekannt — Preis + Lesegeduld bestimmen.
-currentDeal: >-
-  Brasilien günstigster Index ~€4,69 ; USA ~$14,99 ; EU-Großraum ~€14,99 im
-  selben Datensatz.
-nearHistoricalLow: >-
-  Früherer BR-Boden ~€3,75 (Mai 2025) — heutige Zeile ~€4,69 Referenz also nicht
-  automatisch ATL.
-salePattern: >-
-  Ein Rabattimpuls im Jahresfenster gezählt ; letzter BR-Drop ~36 Tage vor
-  Snapshot laut Analytics.
-priceRecommendation: watch
-quickFilters:
-  - short_sessions
-  - under_20
-  - great_on_sale
-playerNeeds:
-  - value_for_money
-tags:
-  - unavowed switch deutsch
-  - wadjet eye adventure
-  - point and click switch 2026
-  - gamegulf preis april
-playerVoices:
-  - quote: Partnerwechsel veränderte Räume echter als erwartet.
-    sentiment: positive
-  - quote: Zu viele Zeilen wenn man müde pendelt.
-    sentiment: mixed
-  - quote: Touch jagt lästige Hotspots weniger häufig.
-    sentiment: positive
-communityMemes:
-  - regen noir audio
-  - pixel hunt zoom
-tldr: >-
-  Unavowed (~91 MC) Storykracher — aber GameGulf zeigt Brasilien weit unter
-  EU/US Liste ; Geschmack + Region entscheiden.
+  Kaufen, wenn dich das Spiel anspricht und deine Region bei GameGulf im
+  Rabattbereich liegt; warten, wenn nur Vollpreis sichtbar ist.
+priceSignal: >-
+  Die indexierten Preise zeigen oft eine große Spanne zwischen günstigen
+  Regionen und Listenpreis-Stufen.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price
 gameHref: https://www.gamegulf.com/detail/kxyrmTE8vZE
 membershipHref: https://www.gamegulf.com/pricing
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
-heroTheme: brand
+heroStat: 91 Metacritic
+heroNote: >-
+  Unavowed — Abenteuer, Puzzle und Rollenspiel; Wadjet Eye Games. 91 Metacritic
+  dient als Qualitätsanker.
+badge: Geschmackssache
+verdict: right_player
+priceCall: watch
+confidence: medium
+actionBucket: set_alert
+featuredPriority: 2
+listingTakeaway: >-
+  Unavowed — Abenteuer, Puzzle und Rollenspiel; im April 2026 lohnt vor dem Kauf
+  der Regionenverg…
+whatItIs: Abenteuer, Puzzle und Rollenspiel — Unavowed auf Nintendo Switch.
+bestFor: Spieler, die Abenteuer, Puzzle und Rollenspiel im Mobilform…
+avoidIf: Auslassen, wenn dich der Mix Abenteuer, Puzzle und Rollenspiel nicht re…
+consensusPraise: Das Kritikerband (91 Metacritic) passt zu Stärken, die Spieler oft nennen.
+mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte.
+timeFit: "Zeitbedarf: ~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %"
+fitLabel: Käufer, die vor dem Kauf zwei Regionen vergleichen.
+timingNote: >-
+  Wenn dein Shop schon reduziert ist, ist die Frage eher Geschmack; Livepreis
+  trotzdem prüfen.
+communityVibe: Begleiterwahl, Vertonung und Urban Fantasy tragen das Lob
+playtime: ~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %
+reviewSignal: 91 Metacritic
+takeaway: >-
+  Unavowed ist zuerst eine Frage des Spielgeschmacks: Abenteuer, Puzzle und
+  Rollenspiel, Umfang und 91 Metacritic müssen passen; der Preis entscheidet nur
+  das Timing.
+playStyle: Abenteuer, Puzzle und Rollenspiel
+timeCommitment: ~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %
+playMode: Solo, sofern die Shopseite keinen Mehrspieler nennt.
+whyNow: >-
+  Tagesangebote und der GameGulf-Preisverlauf machen die Preisspanne
+  nachvollziehbar.
+currentDeal: >-
+  Die günstigsten Regionen stehen vorn in der Tabelle; native Währung auf
+  GameGulf prüfen.
+nearHistoricalLow: Gemischt — vergleiche Live-Tiefpreis und Sale-Durchschnitt.
+salePattern: 1 verfolgte Rabattbewegungen in 12 Monaten.
+priceRecommendation: watch
+quickFilters:
+  - great_on_sale
+  - short_sessions
+playerNeeds:
+  - value_for_money
+  - wait_for_sale
+tags:
+  - unavowed nintendo switch
+  - unavowed lohnt sich
+  - unavowed preis
+  - gamegulf rabatte
+playerVoices:
+  - quote: Im Mobilmodus gut spielbar.
+    sentiment: positive
+  - quote: Am stärksten mit deutlichem Rabatt.
+    sentiment: mixed
+  - quote: Erst den eigenen Regionspreis prüfen.
+    sentiment: positive
+communityMemes:
+  - Unavowed Rabattcheck
+  - Update-Hoffnung
+  - Mobilmodus-Prüfung
+  - vergessene Wunschliste
+  - Regionspreis-Jagd
+  - Listenpreis-Schock
+tldr: >-
+  Unavowed — 91 Metacritic; lohnt sich vor allem, wenn dich die Spielidee schon
+  überzeugt.
 priceRows:
   - regionCode: BR
     eurPrice: 4.69
@@ -128,34 +133,35 @@ cardPrice: EUR 4.69
 cardPriceNative: R$27.99
 cardPriceNativeCurrency: BRL
 faq:
-  - question: Lohnt sich Unavowed 2026 auf der Nintendo Switch?
+  - question: Lohnt sich Unavowed auf Nintendo Switch 2026?
     answer: >-
-      Unavowed bleibt sinnvoll für Liebhaber sehr textlastiger noir Adventures
-      (~91 MC) aber Unavowed verlangt erst den Abgleich zwischen
-      GameGulf-Brasilienreihe (~€4,69 Äquivalent) und teuren US/EUR-Feldern
-      bevor nur die Storyemotion kauft — sonst wirkt sogar beste Schreibkunst
-      wie teuerer Softcover statt Digitalschnäppchen.
-  - question: Wie lang dauert Unavowed grob?
+      Unavowed lohnt sich auf Nintendo Switch, wenn Abenteuer, Puzzle und
+      Rollenspiel zu deinem Geschmack passt und der GameGulf-Regionspreis im
+      erwarteten Rabattbereich liegt.
+  - question: Wie lang ist Unavowed?
     answer: >-
-      Unavowed — rund zehn Stunden erste Ermittlungsschleife ; neue Partnerwahl
-      streckt Szenario spürbar ohne lineares Duplikat pur.
-  - question: Was kotzt neue Spielenden bei Unavowed am ehesten an?
+      Unavowed hat eine geschätzte Spielzeit von ~9 Std. Story, 12 Std. Extras,
+      ~17 Std. 100 %.
+  - question: Wo prüfe ich den Nintendo Switch-Preis?
     answer: >-
-      Unavowed besteht mehr aus Lesen/Ermitteln als aus Reflexkampf ; Touch
-      entschärft aber keinen Textüberfluss wenn du sowieso Forensik hasst oder
-      Twitter Länge bevorzugst — dann bleib beim PDF statt beim GamePurchase.
+      Unavowed lässt sich in der GameGulf-Tabelle
+      https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price
+      regionsübergreifend vergleichen, ohne Wechselkurse zu raten.
+heroTheme: brand
+coverImage: >-
+  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
 ---
+## Kurzurteil
 
+**Unavowed** ist zuerst eine **Abenteuer, Puzzle und Rollenspiel**-Entscheidung mit **91 Metacritic** als Qualitätsanker: eShop-Versprechen und Kritikerband zeigen in dieselbe Richtung. **~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %** steckt ab, wie viel Spielzeit du kaufst.
 
-## Kurzfazit
+**Rabatt**-Historie: **historischer Tiefstpreis** um **€4.69** (BR), **1** Bewegungen im Jahr, **Ø-Rabattpreis** **€4.69**, letzte größere Bewegung vor **37** Tagen (**2026-03-24 (Brazil, €4.69)**, **2026**). [GameGulf-Livepreis](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price) prüfen.
 
-**Unavowed (~91 Metacritic)** bleibt **Wadjet-Eye-Spitzenarbeit** für **Urban-Fantasy-Detektoren** mit **skillsplitting zweier Partner**.**GameGulf Abr/2026** indexiert Brasilien rund **EUR 4,69** wenn die USA bereits **EUR 12,82** Equivalent zahlen— **GameGulf** macht diese Schere sichtbar, nicht tragischer.
+Vor dem Kauf solltest du die **[GameGulf-Preistabelle](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)** öffnen und prüfen, ob der **Rabatt** in deiner Region wirklich passt.
 
-Siehe **[detail](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)** , Liste **[wishlist](https://www.gamegulf.com/wishlist)** , Hinweise Alerts **[pricing](https://www.gamegulf.com/pricing)**.
+## Wie viel kostet Unavowed auf Nintendo Switch gerade? (Preis)
 
-## Wie viel kostet es aktuell?
-
-Tabelle entspricht **`priceRows`** — finale Zahlen immer auf **[dieser Detailseite](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)**.
+**Regionale Preise bewegen sich schnell**: Die Tabelle unten nutzt dieselben **GameGulf**-Regionseinträge wie die Metadaten. Vergleiche deine Kontoregion auf [gamegulf.com](https://www.gamegulf.com), bevor du ein einzelnes „bestes“ Land annimmst.
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
@@ -169,20 +175,38 @@ Tabelle entspricht **`priceRows`** — finale Zahlen immer auf **[dieser Details
 | Portugal | EUR 14.99 | €14.99 |
 | Vereinigtes Königreich | EUR 15.51 | £13.49 |
 
-**Discount/Sale-Analyse April 2026:** der Daten-Snapshot kombiniert **discount**\-Events (letzter **discount** März **2026** in **Brasilien ~EUR 4,69**) mit dem älteren **historical low** nahe **EUR 3,75** (**Mai 2025**) — gegenüber **EUR 14,99** Großraumreihen entscheide, ob diese **sale**\-Bandbreite dich zufriedenstellt.
+**Unavowed** ist ein **Abenteuer, Puzzle und Rollenspiel**-Paket für Nintendo Switch von **Wadjet Eye Games**. Wichtiger als der lange Shoptext sind Systemmix, Sitzungsformat und der **91 Metacritic**-Anker.
 
-## Genre / Port
+1. **Kernschleife** — trifft, was Nintendo Switch-Käufer in dieser Kategorie meist erwarten.
+2. **Umfang** — **~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %**, damit du nicht aus Versehen ein anderes Zeitprofil kaufst.
+3. **Ton** — wenn die Trailer ehrlich wirkten, landest du wahrscheinlich in derselben Stimmung.
 
-Klassisches Adventure mit branching emotional payoff — Switch Touch hilft ohne AAA Render Budget.**GameGulf**/ **gamegulf.com**: Finanzieller Kompass ohne Text tempo zu heilen.
+## Wie läuft Unavowed auf Nintendo Switch?
 
-## Kaufen wenn
+**Unavowed** zielt auf Nintendo Switch auf eine stabile Lesbarkeit: vertretbare Ladezeiten, für Steuerung ausgelegte Menüs und im Mobilmodus noch lesbare Grafik.
 
-Billige BR Reihe bereits / du liebst Wortlawinen.
+- **Mobilmodus:** UI-Skalierung und Bewegungsklarheit sind die Hauptvariablen; erwarte moderate Abstriche, keine kaputte Umsetzung.
+- **TV-Modus:** Wenn es kein Partikel-Schaufenster ist, bringt der Fernseher vor allem Komfort.
+- **Steuerung:** Standardbelegung; kein exotischer Gyro-Zwang, solange die Shopseite nichts anderes sagt.
 
-## Warten wenn
+## Kaufen, wenn
 
-Nur EUR/US Feld teuer ohne Sale Disziplin.
+- Du magst **Abenteuer, Puzzle und Rollenspiel**-Tempo und die **91 Metacritic**-Spanne passt zu deinem Qualitätsanspruch
+- Deine Region liegt bereits im **Rabattbereich**, den **GameGulf** zeigt — [hier gegenprüfen](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)
+- Du willst ein Zeitprofil, das zu deinen Spielrunden passt — **~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %**
+- Trailer oder Demo haben dich schon überzeugt; es fehlte nur der **Preis**
+- Du bevorzugst digitale Bequemlichkeit auf Nintendo Switch
 
-## Schlusswort
+## Warten, wenn
 
-Story stark — immer GameGulf data check **gamegulf.com**.
+- Dein Shop zeigt noch Vollpreisnähe, während andere Regionen deutlichen **Rabatt** haben
+- Der **Abenteuer, Puzzle und Rollenspiel**-Mix spricht dich nicht an, auch nicht mit **Rabatt**
+- Du sparst das Monatsbudget eher für ein längeres RPG
+- Du besitzt es schon anderswo und willst nur ein Duplikat nahe historischem Tief
+- Du willst Patch-Parität prüfen und dann zu **GameGulf** zurückkehren
+
+## Unavowed auf Nintendo Switch — Fazit
+
+**Unavowed** auf Nintendo Switch ist eine Entscheidung aus Geschmack und Beleg: Wenn **GameGulf** einen freundlichen **Rabatt**-Stack zeigt, zählen Passung + **Metacritic** mehr als Werbewörter.
+
+Prüfe **[GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)** einmal, kaufe bei passender Region und nutze gamegulf.com als Kontrollpunkt für das nächste **Rabattfenster**.

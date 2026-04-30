@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2GhXVp3lBzO",
     "game_id": "2GhXVp3lBzO",
-    "extracted_at": "2026-04-07",
+    "extracted_at": "2026-04-30",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf",
@@ -12,15 +12,15 @@
   "game": {
     "title": "INSIDE",
     "description": "Hunted and alone, a boy finds himself drawn into the center of a dark project.\n\nINSIDE is a dark, narrative-driven platformer combining intense action with challenging puzzles. It has been critically acclaimed for its moody art style, ambient soundtrack and unsettling atmosphere.\n\n\nWinner of more than 100 awards, including:\n- Artistic Achievement (BAFTA)\n- Game Design (BAFTA)\n- Narrative (BAFTA)\n- Original Property (BAFTA)\n- Best Independent Game (Game Critics Awards 2016)\n- Best Independent Game (The Game Awards 2016)\n- Best Art Direction (The Game Awards 2016)\n- Spite Award (D.I.C.E. Awards 2016)\n- Outstanding Achievement in Art Direction (D.I.C.E. Awards 2016)\n- Outstanding Achievement in Game Direction (D.I.C.E. \nAwards 2016)\n- Best Audio (Game Developers Choice Awards)\n- Best Visual Art (Game Developers Choice Awards)",
-    "cover_image": "https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
     "all_images": [
-      "https://cdn.gamegulf.com/upload/17409875757441475912357.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875761391728312357.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875764671877312357.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875768661797812357.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875773131055612357.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875777511860812357.jpeg",
-      "https://cdn.gamegulf.com/upload/17409875782391767912357.jpeg"
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516958116713442.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516958115014136.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516958120217691.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516958117418152.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516958124511693.jpeg",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516958353910974.jpeg"
     ],
     "genres": [
       "Adventure",
@@ -33,70 +33,58 @@
     "metacritic": 91
   },
   "platforms": {
-    "switch": {
-      "name": "Nintendo Switch",
+    "switch 1": {
+      "name": "Nintendo Switch 1",
       "enabled": true,
-      "languages": [
-        "Japanese",
-        "French",
-        "German",
-        "Italian",
-        "Spanish",
-        "Portuguese",
-        "Russian",
-        "English",
-        "Korean",
-        "Simplified Chinese",
-        "Traditional Chinese"
-      ],
+      "languages": [],
       "digital": [
         {
           "country_code": "BR",
           "country": "Brazil",
-          "price": 12.28,
+          "price": 12.24,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 12.28
+          "calculate_value": 12.24
         },
         {
           "country_code": "JP",
           "country": "Japan",
-          "price": 15.22,
+          "price": 15.12,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 15.22
+          "calculate_value": 15.12
         },
         {
           "country_code": "HK",
           "country": "Hong Kong SAR China",
-          "price": 16.61,
+          "price": 16.38,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 16.61
+          "calculate_value": 16.38
         },
         {
           "country_code": "US",
           "country": "United States",
-          "price": 21.69,
+          "price": 21.38,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 21.69
+          "calculate_value": 21.38
         },
         {
           "country_code": "DE",
@@ -161,14 +149,14 @@
         {
           "country_code": "GB",
           "country": "United Kingdom",
-          "price": 24.09,
+          "price": 24.13,
           "discount_price": null,
           "discount_rate": null,
           "discount_end": null,
           "discount_end_timestamp": null,
           "currency": "EUR",
           "currency_symbol": "€",
-          "calculate_value": 24.09
+          "calculate_value": 24.13
         }
       ],
       "physical": [],
@@ -177,18 +165,18 @@
           "period": "30 D",
           "entries": [
             {
-              "date": "2026-03-31",
-              "country_code": "ES",
-              "value": 22.99,
-              "currency": "EUR",
-              "country": "Spain"
-            },
-            {
               "date": "2026-04-02",
               "country_code": "HK",
-              "value": 16.61,
+              "value": 16.38,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "BR",
+              "value": 12.24,
+              "currency": "EUR",
+              "country": "Brazil"
             }
           ]
         },
@@ -196,16 +184,9 @@
           "period": "180 D",
           "entries": [
             {
-              "date": "2025-10-10",
-              "country_code": "GB",
-              "value": 1.94,
-              "currency": "EUR",
-              "country": "United Kingdom"
-            },
-            {
               "date": "2025-11-16",
               "country_code": "GB",
-              "value": 19.5,
+              "value": 19.53,
               "currency": "EUR",
               "country": "United Kingdom"
             },
@@ -219,44 +200,44 @@
             {
               "date": "2025-12-20",
               "country_code": "US",
-              "value": 1.73,
+              "value": 1.7,
               "currency": "EUR",
               "country": "United States"
             },
             {
               "date": "2025-12-23",
               "country_code": "JP",
-              "value": 1.25,
+              "value": 1.24,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-01-20",
               "country_code": "JP",
-              "value": 12.51,
+              "value": 12.42,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-03-08",
               "country_code": "HK",
-              "value": 1.66,
+              "value": 1.64,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
-            },
-            {
-              "date": "2026-03-31",
-              "country_code": "ES",
-              "value": 22.99,
-              "currency": "EUR",
-              "country": "Spain"
             },
             {
               "date": "2026-04-02",
               "country_code": "HK",
-              "value": 16.61,
+              "value": 16.38,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "BR",
+              "value": 12.24,
+              "currency": "EUR",
+              "country": "Brazil"
             }
           ]
         },
@@ -264,44 +245,30 @@
           "period": "1 Y",
           "entries": [
             {
-              "date": "2025-04-15",
-              "country_code": "GB",
-              "value": 1.94,
-              "currency": "EUR",
-              "country": "United Kingdom"
-            },
-            {
-              "date": "2025-04-17",
-              "country_code": "JP",
-              "value": 1.25,
-              "currency": "EUR",
-              "country": "Japan"
-            },
-            {
               "date": "2025-06-05",
               "country_code": "JP",
-              "value": 1.25,
+              "value": 1.24,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-07-25",
               "country_code": "JP",
-              "value": 1.25,
+              "value": 1.24,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-09-14",
               "country_code": "JP",
-              "value": 1.25,
+              "value": 1.24,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2025-10-06",
               "country_code": "US",
-              "value": 17.35,
+              "value": 17.1,
               "currency": "EUR",
               "country": "United States"
             },
@@ -315,7 +282,7 @@
             {
               "date": "2025-11-16",
               "country_code": "GB",
-              "value": 19.5,
+              "value": 19.53,
               "currency": "EUR",
               "country": "United Kingdom"
             },
@@ -329,72 +296,48 @@
             {
               "date": "2025-12-20",
               "country_code": "US",
-              "value": 1.73,
+              "value": 1.7,
               "currency": "EUR",
               "country": "United States"
             },
             {
               "date": "2025-12-23",
               "country_code": "JP",
-              "value": 1.25,
+              "value": 1.24,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-01-20",
               "country_code": "JP",
-              "value": 12.51,
+              "value": 12.42,
               "currency": "EUR",
               "country": "Japan"
             },
             {
               "date": "2026-03-08",
               "country_code": "HK",
-              "value": 1.66,
+              "value": 1.64,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
-            },
-            {
-              "date": "2026-03-31",
-              "country_code": "ES",
-              "value": 22.99,
-              "currency": "EUR",
-              "country": "Spain"
             },
             {
               "date": "2026-04-02",
               "country_code": "HK",
-              "value": 16.61,
+              "value": 16.38,
               "currency": "EUR",
               "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-04-14",
+              "country_code": "BR",
+              "value": 12.24,
+              "currency": "EUR",
+              "country": "Brazil"
             }
           ]
         }
       ]
-    },
-    "xbox": {
-      "name": "Xbox",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
-    },
-    "psn": {
-      "name": "PlayStation Network",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
-    },
-    "steam": {
-      "name": "Steam",
-      "enabled": false,
-      "languages": [],
-      "digital": [],
-      "physical": [],
-      "trend": []
     }
   },
   "lows": [
@@ -402,9 +345,9 @@
       "type": "Global Low",
       "entries": [
         {
-          "platform": "Nintendo Switch",
-          "country_code": "BR",
-          "value": 12.28,
+          "platform": "Nintendo Switch 1",
+          "country_code": "DE",
+          "value": 22.99,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -414,9 +357,9 @@
       "type": "Local Low",
       "entries": [
         {
-          "platform": "Nintendo Switch",
+          "platform": "Nintendo Switch 1",
           "country_code": "US",
-          "value": 21.69,
+          "value": 21.38,
           "currency": "EUR",
           "price_type": "Digital"
         }
@@ -427,14 +370,14 @@
     {
       "id": "d26rbhlYsYk",
       "title": "Evil Inside",
-      "image": "https://cdn.gamegulf.com/upload/1740987977714152068085.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513557589912431.jpeg",
       "metacritic": null,
-      "price": 12.27,
-      "discount_price": 3.07,
-      "discount_rate": 75,
-      "discount_tag": "LowPrice",
-      "discount_end": "17 days",
-      "release_date": "2021-03-25",
+      "price": 6.91,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-06-03",
       "categories": [
         "Action",
         "Adventure",
@@ -445,11 +388,30 @@
       "url": "https://www.gamegulf.com/detail/d26rbhlYsYk"
     },
     {
+      "id": "kDfzqi53QZP",
+      "title": "Ink Inside",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177503728059513028.jpeg",
+      "metacritic": null,
+      "price": 5.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-12-11",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Party",
+        "Role-playing"
+      ],
+      "url": "https://www.gamegulf.com/detail/kDfzqi53QZP"
+    },
+    {
       "id": "fl2LwPYTSWK",
       "title": "Inside Her (bedroom)",
-      "image": "https://cdn.gamegulf.com/upload/1740987810262113636270.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177613935398516849.jpeg",
       "metacritic": null,
-      "price": 0.2,
+      "price": 0.19,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -463,28 +425,28 @@
     {
       "id": "j8ds9KMkk1c",
       "title": "Inside My Radio",
-      "image": "https://cdn.gamegulf.com/upload/17409881711161422611655.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516420547514421.jpeg",
       "metacritic": null,
-      "price": 8.66,
+      "price": 8.55,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
       "release_date": "2019-01-10",
       "categories": [
-        "Music",
-        "Platformer",
+        "Adventure",
         "Arcade",
-        "Adventure"
+        "Music",
+        "Platformer"
       ],
       "url": "https://www.gamegulf.com/detail/j8ds9KMkk1c"
     },
     {
       "id": "c643nVPgfmp",
       "title": "The Beast Inside",
-      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/10/174160596817611421.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506629966614951.jpeg",
       "metacritic": null,
-      "price": 15.22,
+      "price": 15.02,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -493,73 +455,36 @@
       "categories": [
         "Action",
         "Adventure",
-        "Role-playing",
-        "Other"
+        "Other",
+        "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/c643nVPgfmp"
     },
     {
-      "id": "7whOY8RyJil",
-      "title": "Inside The Crystal Mountain",
-      "image": "https://cdn.gamegulf.com/upload/ns/2025/3/10/174160619666912684.jpeg",
-      "metacritic": null,
-      "price": 9.99,
-      "discount_price": 0.99,
-      "discount_rate": 90,
-      "discount_tag": "NewLowPrice",
-      "discount_end": "5 days",
-      "release_date": "2024-10-10",
-      "categories": [
-        "Action",
-        "Adventure"
-      ],
-      "url": "https://www.gamegulf.com/detail/7whOY8RyJil"
-    },
-    {
       "id": "bzB8Ejvh6BQ",
       "title": "Snake Pass",
-      "image": "https://cdn.gamegulf.com/upload/17409878104801598813085.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
       "metacritic": 72,
-      "price": 18.33,
-      "discount_price": 3.66,
-      "discount_rate": 80,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
       "discount_tag": "Normal",
-      "discount_end": "2 days",
-      "release_date": "2017-03-29",
+      "discount_end": "",
+      "release_date": "2022-08-01",
       "categories": [
-        "Adventure",
         "Action",
+        "Adventure",
         "Platformer",
-        "Arcade",
         "Puzzle"
       ],
       "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
     },
     {
-      "id": "h61NRMbokGw",
-      "title": "LIMBO",
-      "image": "https://cdn.gamegulf.com/upload/17409875786441575112358.jpeg",
-      "metacritic": 83,
-      "price": 4.35,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2023-01-26",
-      "categories": [
-        "Adventure",
-        "Puzzle",
-        "Action",
-        "Platformer"
-      ],
-      "url": "https://www.gamegulf.com/detail/h61NRMbokGw"
-    },
-    {
       "id": "hqQRkZZKjRu",
       "title": "SteamWorld Dig 2",
-      "image": "https://cdn.gamegulf.com/upload/17409874572471307612981.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
       "metacritic": 88,
-      "price": 0.89,
+      "price": 0.87,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -567,8 +492,8 @@
       "release_date": "2023-09-28",
       "categories": [
         "Action",
-        "Platformer",
         "Adventure",
+        "Platformer",
         "Puzzle"
       ],
       "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
@@ -576,21 +501,40 @@
     {
       "id": "4ih1kLyZLm8",
       "title": "Panda Jump",
-      "image": "https://cdn.gamegulf.com/upload/1740987780037150809119.jpeg",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514371523417472.jpeg",
       "metacritic": null,
-      "price": 5.19,
+      "price": 5.12,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
       "discount_end": "",
       "release_date": "2020-09-04",
       "categories": [
-        "Platformer",
         "Action",
         "Adventure",
+        "Platformer",
         "Puzzle"
       ],
       "url": "https://www.gamegulf.com/detail/4ih1kLyZLm8"
+    },
+    {
+      "id": "hw6Rmf74cEn",
+      "title": "Toki Tori 2+: Nintendo Switch Edition",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517164029610937.jpeg",
+      "metacritic": 84,
+      "price": 4.32,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2018-08-30",
+      "categories": [
+        "Adventure",
+        "Platformer",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/hw6Rmf74cEn"
     }
   ],
   "schema_offers": [
@@ -605,7 +549,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:32:35+00:00"
+      "priceValidUntil": "2026-05-30T18:08:06+00:00"
     },
     {
       "@type": "Offer",
@@ -618,7 +562,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:32:35+00:00"
+      "priceValidUntil": "2026-05-30T18:08:06+00:00"
     },
     {
       "@type": "Offer",
@@ -631,7 +575,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:32:35+00:00"
+      "priceValidUntil": "2026-05-30T18:08:06+00:00"
     },
     {
       "@type": "Offer",
@@ -644,7 +588,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:32:35+00:00"
+      "priceValidUntil": "2026-05-30T18:08:06+00:00"
     },
     {
       "@type": "Offer",
@@ -657,7 +601,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:32:35+00:00"
+      "priceValidUntil": "2026-05-30T18:08:06+00:00"
     },
     {
       "@type": "Offer",
@@ -670,7 +614,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:32:35+00:00"
+      "priceValidUntil": "2026-05-30T18:08:06+00:00"
     },
     {
       "@type": "Offer",
@@ -683,38 +627,38 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-07T04:32:35+00:00"
+      "priceValidUntil": "2026-05-30T18:08:06+00:00"
     }
   ],
   "price_analytics": {
-    "switch": {
+    "switch 1": {
       "current_cheapest": {
-        "price_eur": 12.28,
+        "price_eur": 12.24,
         "region": "Brazil",
         "country_code": "BR"
       },
       "global_low": {
-        "price_eur": 12.28,
-        "region": "BR",
+        "price_eur": 22.99,
+        "region": "DE",
         "type": "Digital"
       },
       "local_low": {
-        "price_eur": 21.69,
+        "price_eur": 21.38,
         "region": "US",
         "type": "Digital"
       },
       "trend_from_lowest": {
-        "price_eur": 1.25,
+        "price_eur": 1.24,
         "region": "JP",
         "country": "Japan",
-        "date": "2025-04-17"
+        "date": "2025-06-05"
       },
       "at_or_near_historical_low": false,
-      "discount_events_1y": 7,
-      "avg_discount_price_eur": 3.77,
+      "discount_events_1y": 6,
+      "avg_discount_price_eur": 3.45,
       "sale_periods": [
         {
-          "start": "2025-04-15",
+          "start": "2025-06-05",
           "end": "2025-09-14"
         },
         {
@@ -730,57 +674,15 @@
           "end": "2026-03-08"
         }
       ],
-      "days_since_last_discount": 5,
+      "days_since_last_discount": 16,
       "last_discount": {
-        "date": "2026-04-02",
-        "price_eur": 16.61,
-        "region": "Hong Kong SAR China",
-        "drop_pct": 28
+        "date": "2026-04-14",
+        "price_eur": 12.24,
+        "region": "Brazil",
+        "drop_pct": 25
       },
-      "trend_entries_count": 15,
+      "trend_entries_count": 13,
       "price_verdict": "regular_discounter"
-    },
-    "xbox": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
-    },
-    "psn": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
-    },
-    "steam": {
-      "current_cheapest": null,
-      "global_low": null,
-      "local_low": null,
-      "trend_from_lowest": null,
-      "at_or_near_historical_low": false,
-      "discount_events_1y": 0,
-      "avg_discount_price_eur": null,
-      "sale_periods": [],
-      "days_since_last_discount": null,
-      "last_discount": null,
-      "trend_entries_count": 0,
-      "price_verdict": "unknown"
     }
   },
   "product_links": {
@@ -818,8 +720,8 @@
         "Adventure",
         "Indie"
       ],
-      "steam_price": "$24.99",
-      "total_recommendations": 67516,
+      "steam_price": "HK$ 15.00",
+      "total_recommendations": 67825,
       "short_description": "Hunted and alone, a boy finds himself drawn into the center of a dark project. INSIDE is a dark, narrative-driven platformer combining intense action with challenging puzzles. It has been critically acclaimed for its moody art style, ambient soundtrack and unsettling atmosphere.",
       "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Portugal, Portuguese - Brazil, Russian, Simplified Chinese, Traditional Chinese, Turkish",
       "platforms": {
@@ -828,9 +730,9 @@
         "linux": false
       },
       "reviews": {
-        "total_positive": 71376,
-        "total_negative": 2218,
-        "total_reviews": 73594,
+        "total_positive": 71692,
+        "total_negative": 2227,
+        "total_reviews": 73919,
         "score_description": "Overwhelmingly Positive",
         "positive_percent": 97
       }
