@@ -3,11 +3,7 @@ import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 
 function resolveBase() {
-  if (process.env.GITHUB_ACTIONS === 'true') {
-    const repo = process.env.GITHUB_REPOSITORY?.split('/')[1]?.trim();
-    if (repo) return `/${repo}`;
-  }
-  return '/blog';
+  return process.env.ASTRO_BASE?.trim() || '/blog';
 }
 
 export default defineConfig({
