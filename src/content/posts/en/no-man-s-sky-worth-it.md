@@ -41,7 +41,7 @@ bestFor: Explorers who want a portable forever sandbox.
 avoidIf: You need tight pacing, fast onboarding, or co-op on Nintendo Switch.
 consensusPraise: Discovery freedom, huge update cadence, and the sheer scale still carry it.
 mainFriction: Menus, inventory juggling, and grind can bury the wonder before it clicks.
-timeFit:  ~32h main, 77h extras, 156h completionist — long-haul sandbox.
+timeFit: ~32h main, 77h extras, 156h completionist — long-haul sandbox.
 fitLabel: Players who want a portable forever game.
 timingNote: >-
   This guide is about the Nintendo Switch version. If NS2 pricing matters more
@@ -57,8 +57,8 @@ playStyle: >-
   suit and ship, build bases, run trade loops, follow quest chains, or ignore
   them and just wander.
 timeCommitment: >-
-  aggregates land around 32 hours for the main path, 77 for main-plus, and
-  156 for completionists. This is a months-long sandbox if it hooks you.
+  aggregates land around 32 hours for the main path, 77 for main-plus, and 156
+  for completionists. This is a months-long sandbox if it hooks you.
 playMode: Single-player on Nintendo Switch.
 whyNow: >-
   Nintendo Switch is back in the cheapest range GameGulf has tracked, which
@@ -116,8 +116,7 @@ communityMemes:
   - Hello Games redemption arc
 tldr: >-
   No Man's Sky is worth buying on Nintendo Switch if Japan's €13.07 row is
-  available — Metacritic 83,  32h main, and the price matches the tracked
-  low.
+  available — Metacritic 83,  32h main, and the price matches the tracked low.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price
 gameHref: https://www.gamegulf.com/detail/jOx3ZV1olfz
@@ -134,7 +133,8 @@ faq:
   - question: How long does No Man's Sky take?
     answer: >-
       No Man's Sky lands around 32 hours for the main path, 77 hours for
-      main-plus, and 156 hours for completionist play in typical community hour spreads.
+      main-plus, and 156 hours for completionist play in typical community hour
+      spreads.
   - question: Where should I check other platform prices?
     answer: >-
       No Man's Sky other versions are easiest to compare on the GameGulf detail
@@ -187,7 +187,7 @@ priceRows:
 cardPriceEur: 13.07
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 15.31
+cardPrice: USD 15.29
 cardPriceNative: ¥6,050
 cardPriceNativeCurrency: JPY
 ---
@@ -208,14 +208,14 @@ This guide is about the Nintendo Switch version. If NS2 pricing matters more to 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 15.30 | ¥6,050 |
-| United Kingdom | USD 53.81 | £39.99 |
-| Germany | USD 58.52 | €49.99 |
-| Spain | USD 58.52 | €49.99 |
-| France | USD 58.52 | €49.99 |
-| Italy | USD 58.52 | €49.99 |
-| Portugal | USD 58.52 | €49.99 |
-| Brazil | USD 58.87 | R$299.9 |
+| Japan | USD 15.29 | ¥6,050 |
+| United Kingdom | USD 53.79 | £39.99 |
+| Germany | USD 58.50 | €49.99 |
+| Spain | USD 58.50 | €49.99 |
+| France | USD 58.50 | €49.99 |
+| Italy | USD 58.50 | €49.99 |
+| Portugal | USD 58.50 | €49.99 |
+| Brazil | USD 58.85 | R$299.9 |
 
 ## What kind of game is No Man's Sky?
 

@@ -67,7 +67,7 @@ playerVoices:
     sentiment: positive
   - quote: Somniums castigan al inicio.
     sentiment: mixed
-  - quote: Compara JP antes que EU MSRP.
+  - quote: Compara JP antes que EU precio de lista.
     sentiment: positive
 communityMemes:
   - cope Somnium
@@ -147,7 +147,7 @@ playtime: "Estimación: ~3–8 h historia, 8–15 h extras"
 
 ## ¿Cuánto cuesta hoy en Switch — tabla de precios?
 
-Tabla alineada con `priceRows`.
+Tabla alineada con captura de precios.
 
 
 | Región | Precio (equivalente en EUR) | Precio nativo |
@@ -171,7 +171,7 @@ Prioriza texto y menús — pocas exigencias gráficas fuera de cinemáticas.
 
 ## Compra si…
 
-- Tu fila GameGulf marca **€1,19–€4** frente a EU MSRP — [tabla](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
+- Tu fila GameGulf marca **€1,19–€4** frente a EU precio de lista — [tabla](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
 
 ## Espera si…
 

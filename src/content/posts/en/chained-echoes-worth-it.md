@@ -3,7 +3,7 @@ title: Is Chained Echoes worth buying on Nintendo Switch in 2026?
 description: >-
   April 2026 Switch buying memo for Chained Echoes — indexed BR-led eShop tiers
   vs a deeper tracked Hong Kong dip, JRPG pacing, mech/airship hooks, Metacritic
-  90, and HLTB-shaped runtimes next to occasional discount swings.
+  90, and Runtime guide: -shaped runtimes next to occasional discount swings.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -33,9 +33,11 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: >-
-  Meta ~90 JRPG: BR leads snapshots; HK dove lower winter 2025—fit beats price twitching.
+  Meta ~90 JRPG: BR leads snapshots; HK dove lower winter 2025—fit beats price
+  twitching.
 whatItIs: >-
-  JRPG saga: visible foes, mech beats, airship hops, chunky skill grids (~35–45h).
+  JRPG saga: visible foes, mech beats, airship hops, chunky skill grids
+  (~35–45h).
 bestFor: PS1-style JRPG pacing with modern QoL comforts baked in.
 avoidIf: You want Souls friction, live-service cadence, or sub-15h completions.
 consensusPraise: Systems depth, pacing respect, soundtrack, and “one more chapter” inertia.
@@ -105,8 +107,8 @@ playerVoices:
   - quote: If you despise scripted grinding, pacing may still drag your mood.
     sentiment: negative
 tldr: >-
-  Chained Echoes — 90 Metacritic JRPG—BR leads indexes; HK holds deeper dips from
-  GameGulf history—prioritize taste, compare rows on GameGulf.
+  Chained Echoes — 90 Metacritic JRPG—BR leads indexes; HK holds deeper dips
+  from GameGulf history—prioritize taste, compare rows on GameGulf.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/iapEa7sttwo#currency-price
 gameHref: https://www.gamegulf.com/detail/iapEa7sttwo
@@ -190,12 +192,12 @@ Regional spread swings from **Brazil’s indexed lead** toward **north-of-€21 
 | --- | ---: | ---: |
 | Brazil | USD 9.42 | R$47.99 |
 | Hong Kong | USD 13.94 | HK$109 |
-| Japan | USD 17.70 | ¥2800 |
-| United States | USD 25.03 | $24.99 |
-| Germany | USD 29.25 | €24.99 |
-| Spain | USD 29.25 | €24.99 |
-| France | USD 29.25 | €24.99 |
-| United Kingdom | USD 30.94 | £22.99 |
+| Japan | USD 17.69 | ¥2800 |
+| United States | USD 25.02 | $24.99 |
+| Germany | USD 29.24 | €24.99 |
+| Spain | USD 29.24 | €24.99 |
+| France | USD 29.24 | €24.99 |
+| United Kingdom | USD 30.93 | £22.99 |
 
 Tracked fingerprints from GameGulf mix **sale** bursts with repeating **discount** arcs inside twelve months clustering near **€8.9 average** when markdowns surfaced, with the boldest datapoint pinning **Hong Kong near €5.9 on 17 December 2025 (~50 % haircut)** versus list-class pricing. Roughly **133** days drifted since that last aggressive row, reinforcing “occasional splashes, calm baseline” pacing — sensible for watchers who crave fit-first commits.
 

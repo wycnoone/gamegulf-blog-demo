@@ -119,7 +119,7 @@ priceRows:
 cardPriceEur: 25.66
 cardPriceRegionCode: US
 cardPriceRegion: 美国
-cardPrice: CNY 205.26
+cardPrice: CNY 205.05
 cardPriceNative: $29.99
 cardPriceNativeCurrency: USD
 ---
@@ -133,19 +133,19 @@ cardPriceNativeCurrency: USD
 
 ## 《星球大战弹球》在 Switch 上现在大概多少钱？
 
-**数字版波动快** — 下表与 **GameGulf** / frontmatter 同步。请再到 [gamegulf.com](https://www.gamegulf.com) 核对你的账号区。
+**数字版波动快** — 下表与 **GameGulf** / 价格快照 同步。请再到 [gamegulf.com](https://www.gamegulf.com) 核对你的账号区。
 
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 美国 | CNY 205.26 | $29.99 |
-| 香港 | CNY 207.98 | HK$238 |
-| 日本 | CNY 208.14 | ¥4,818 |
-| 德国 | CNY 239.90 | €29.99 |
-| 西班牙 | CNY 239.90 | €29.99 |
-| 法国 | CNY 239.90 | €29.99 |
-| 意大利 | CNY 239.90 | €29.99 |
-| 葡萄牙 | CNY 239.90 | €29.99 |
+| 美国 | CNY 205.05 | $29.99 |
+| 香港 | CNY 207.77 | HK$238 |
+| 日本 | CNY 207.93 | ¥4,818 |
+| 德国 | CNY 239.65 | €29.99 |
+| 西班牙 | CNY 239.65 | €29.99 |
+| 法国 | CNY 239.65 | €29.99 |
+| 意大利 | CNY 239.65 | €29.99 |
+| 葡萄牙 | CNY 239.65 | €29.99 |
 
 ## 《星球大战弹球》到底是什么游戏？
 

@@ -107,7 +107,7 @@ priceRows:
 cardPriceEur: 1.19
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 223
+cardPrice: JPY 218
 cardPriceNative: €1.19
 cardPriceNativeCurrency: EUR
 faq:
@@ -134,19 +134,19 @@ playtime: "目安: メイン約3–8時間、追加約8–15時間"
 
 ## Switch版の価格は？
 
-表は `priceRows` と同期済み。**gamegulf.com** で実売を確認して。
+表は 価格スナップショット と同期済み。**gamegulf.com** で実売を確認して。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 223 | €1.19 |
-| アメリカ合衆国 | JPY 638 | $3.41 |
-| イギリス | JPY 773 | £4.13 |
-| 香港 | JPY 3025 | HK$148 |
-| ドイツ | JPY 3739 | €19.99 |
-| スペイン | JPY 3739 | €19.99 |
-| フランス | JPY 3739 | €19.99 |
-| イタリア | JPY 3739 | €19.99 |
+| 日本 | JPY 218 | €1.19 |
+| アメリカ合衆国 | JPY 625 | $3.41 |
+| イギリス | JPY 757 | £4.13 |
+| 香港 | JPY 2963 | HK$148 |
+| ドイツ | JPY 3662 | €19.99 |
+| スペイン | JPY 3662 | €19.99 |
+| フランス | JPY 3662 | €19.99 |
+| イタリア | JPY 3662 | €19.99 |
 
 ## どんなゲーム？
 

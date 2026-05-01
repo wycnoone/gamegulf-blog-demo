@@ -54,9 +54,9 @@ communityVibe: Sauts-pelle, campagnes multiples et boss 8-bit font le lot
 playtime: ~25 h histoire, 36 h extras, ~74 h complétion
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Shovel Knight: Treasure Trove se juge d’abord sur l’envie de jouer : boucle
-  action, aventure et plates-formes, ampleur et repère 91 Metacritic; le prix
-  sert surtout à choisir le bon moment.
+  Shovel Knight: Treasure Trove convient surtout si vous cherchez action,
+  aventure et plates-formes — Shovel Knight: Tre; Les régions les moins chères
+  mènent le tableau, puis tranchez achat ou attente.
 playStyle: action, aventure et plates-formes
 timeCommitment: ~25 h histoire, 36 h extras, ~74 h complétion
 playMode: Solo par défaut sauf mention multijoueur sur la boutique.

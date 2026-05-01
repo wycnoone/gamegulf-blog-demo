@@ -181,7 +181,7 @@ Typisch **~9 €** Spanne zwischen Japan-Tief und EU-Listenpreisen.
 | Frankreich | EUR 14.99 | €14.99 |
 | Italien | EUR 14.99 | €14.99 |
 
-Sale-Rhythmus: **16** erkannte Senkungen im Jahr, Mittel **~8,89 €** im Sale; **5,77 €** Japan kehrt zurück (Marken **2025-11-03** / **2026-04-05**). Letzte relevante Bewegung vor **~24** Tagen — Profil «aktiver Indie-Discounter», kein Nintendo-MSRP-Frost.
+Sale-Rhythmus: **16** erkannte Senkungen im Jahr, Mittel **~8,89 €** im Sale; **5,77 €** Japan kehrt zurück (Marken **2025-11-03** / **2026-04-05**). Letzte relevante Bewegung vor **~24** Tagen — Profil «aktiver Indie-Discounter», kein Nintendo-Listenpreis-Frost.
 
 ## Was für ein Spiel?
 

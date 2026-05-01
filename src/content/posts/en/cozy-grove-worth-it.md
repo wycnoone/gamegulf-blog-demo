@@ -188,10 +188,10 @@ Shelf truth still screams patience: prevailing digital rows flirt above archived
 | United States | USD 10.01 | $14.99 |
 | Hong Kong | USD 12.65 | HK$99 |
 | United Kingdom | USD 14.78 | £10.99 |
-| Brazil | USD 15.70 | R$79.99 |
-| Germany | USD 16.38 | €13.99 |
-| Spain | USD 16.38 | €13.99 |
-| France | USD 16.38 | €13.99 |
+| Brazil | USD 15.69 | R$79.99 |
+| Germany | USD 16.37 | €13.99 |
+| Spain | USD 16.37 | €13.99 |
+| France | USD 16.37 | €13.99 |
 
 ## What kind of game is Cozy Grove?
 

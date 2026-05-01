@@ -74,8 +74,7 @@ playerVoices:
     sentiment: positive
   - quote: 讨厌长菜单就别硬扛 —— 这作信息密度不低。
     sentiment: negative
-tldr: >-
-  锁链回声：约 Metacritic 90 分的 Switch JRPG；4 月索引巴西领衔，香港有更低价历史样本——先在 GameGulf 上对行再买。
+tldr: 锁链回声：约 Metacritic 90 分的 Switch JRPG；4 月索引巴西领衔，香港有更低价历史样本——先在 GameGulf 上对行再买。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/iapEa7sttwo#currency-price
 gameHref: https://www.gamegulf.com/detail/iapEa7sttwo
@@ -128,7 +127,7 @@ priceRows:
 cardPriceEur: 8.05
 cardPriceRegionCode: BR
 cardPriceRegion: 巴西
-cardPrice: CNY 64.39
+cardPrice: CNY 64.33
 cardPriceNative: R$47.99
 cardPriceNativeCurrency: BRL
 ---
@@ -146,16 +145,16 @@ cardPriceNativeCurrency: BRL
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 巴西 | CNY 64.39 | R$47.99 |
-| 香港 | CNY 95.27 | HK$109 |
-| 日本 | CNY 120.95 | ¥2800 |
-| 美国 | CNY 171.03 | $24.99 |
-| 德国 | CNY 199.90 | €24.99 |
-| 西班牙 | CNY 199.90 | €24.99 |
-| 法国 | CNY 199.90 | €24.99 |
-| 英国 | CNY 211.42 | £22.99 |
+| 巴西 | CNY 64.33 | R$47.99 |
+| 香港 | CNY 95.17 | HK$109 |
+| 日本 | CNY 120.82 | ¥2800 |
+| 美国 | CNY 170.85 | $24.99 |
+| 德国 | CNY 199.70 | €24.99 |
+| 西班牙 | CNY 199.70 | €24.99 |
+| 法国 | CNY 199.70 | €24.99 |
+| 英国 | CNY 211.20 | £22.99 |
 
-折扣画像：GameGulf 追踪里**折扣**波段与**打折**节奏交替出现，也出现贴近**历史低价**带的香港样本——过去 **12** 个月里约 **2** 次「像样」下探，折扣期 **均价约 €8.9**；更极端一针来自 **2025-12-17 附近香港服约 €5.9**（约 **50%** 降幅叙事 vs 常见列表价）。距那次深折约 **133** 天——整体像「偶尔狠促、平时偏稳」的 indie JRPG，而不是任天堂第一方死咬 MSRP。
+折扣画像：GameGulf 追踪里**折扣**波段与**打折**节奏交替出现，也出现贴近**历史低价**带的香港样本——过去 **12** 个月里约 **2** 次「像样」下探，折扣期 **均价约 €8.9**；更极端一针来自 **2025-12-17 附近香港服约 €5.9**（约 **50%** 降幅叙事 vs 常见列表价）。距那次深折约 **133** 天——整体像「偶尔狠促、平时偏稳」的 indie JRPG，而不是任天堂第一方死咬 标价。
 
 ## 《锁链回声》到底是什么类型的游戏？
 

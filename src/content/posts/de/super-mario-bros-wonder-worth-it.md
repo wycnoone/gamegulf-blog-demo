@@ -34,7 +34,7 @@ bestFor: Familien mit kurzen Levels und Koop.
 avoidIf: Überspringen bei nur Tiefpreis-Jagd oder Abneigung gegen 2D-Mario.
 consensusPraise: Starke Wonder-Setpieces, klare Level, niedrige Koop-Hürde.
 mainFriction: Kürzer als JRPG zum Listenpreis — Wert liegt in Dichte und Wiederspielbarkeit.
-timeFit:  ~10 h Hauptstory, ~14 h Extras, ~20 h Completion.
+timeFit: ~10 h Hauptstory, ~14 h Extras, ~20 h Completion.
 fitLabel: Für kurze Sessions, Sofa-Koop und Nintendo-Polish.
 timingNote: Japan-Anker als Wertreferenz — tiefe Sale-Historie ist hier dünn.
 communityVibe: Wonder-Flower-Memes, Elefanten-Mario, Rettungs-Standees
@@ -47,7 +47,7 @@ playStyle: >-
   Wonder-Flower-Setpieces, Abzeichen-Builds, Yoshi/Nabbit-freundliche Modi,
   lokales Vier-Spieler-Sofa-Koop, Online-Silhouetten und Standees,
   Blumen-Königreich-Flow.
-timeCommitment:  ~10 h Fokus-Main, ~14 h mit Extras, ~20 h Completion.
+timeCommitment: ~10 h Fokus-Main, ~14 h mit Extras, ~20 h Completion.
 playMode: Solo-Modus mit bis zu vier Spielern lokal; Online-Helfer und Rennen.
 whyNow: >-
   Qualität bei 92 Metacritic — die Frage ist, ob du Nintendos typische
@@ -154,13 +154,15 @@ cardPriceNativeCurrency: JPY
 
 Wonder ist der moderne 2D-Mario-Maßstab — Listenpreis zahlen, wenn das Format passt; Alarm nur bei strikter Ablehnung von First-Party-Preisen.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €35.34.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €35.34.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price) gegen deine Region halten.
 
 ## Was kostet Super Mario Bros. Wonder auf Nintendo Switch aktuell?
 
 Wonder ist der moderne 2D-Mario-Maßstab — Listenpreis zahlen, wenn das Format passt; Alarm nur bei strikter Ablehnung von First-Party-Preisen.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 35.34 | ¥6,500 |
@@ -188,7 +190,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Solo-Modus mit bis zu vier Spielern lokal; Online-Helfer und Rennen.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Überspringen bei nur Tiefpreis-Jagd oder Abneigung gegen 2D-Mario.

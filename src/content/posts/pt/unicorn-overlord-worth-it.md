@@ -35,7 +35,7 @@ bestFor: Quem curte tática profunda, mapa e arte memorável.
 avoidIf: Evite se você quer sessões curtas ou odeia fantasia política lenta.
 consensusPraise: Clareza tática, trilha e UI — entre os melhores SRPGs no Switch.
 mainFriction: "Ritmo pausado: muita história e mapa entre os picos de batalha."
-timeFit:  ~46h história, ~63h extras, ~76h completista (agregados).
+timeFit: ~46h história, ~63h extras, ~76h completista (agregados).
 fitLabel: Para quem curte otimizar esquadrões e liberar territórios.
 timingNote: Compare sua linha da eShop com a âncora de promo ~€20,99 antes de pagar.
 communityVibe: Tiers de dia, festa Vanillaware à noite—mesmo loop da madrugada.
@@ -45,7 +45,7 @@ takeaway: >-
   Unicorn Overlord continua compra sólida em 2026 para fãs de SRPG — as promos
   EU atuais igualam o menor preço histórico rastreado.
 playStyle: Exploração de mapa, missões, batalhas em tempo real com pausa e grande elenco.
-timeCommitment:  sugere ~46h na história, ~63h com extras, ~76h para completar tudo.
+timeCommitment: sugere ~46h na história, ~63h com extras, ~76h para completar tudo.
 playMode: Um jogador.
 whyNow: >-
   A qualidade está provada; o que muda é se a sua loja ainda está na faixa
@@ -56,7 +56,7 @@ currentDeal: >-
 nearHistoricalLow: >-
   Sim — o tracker marca €20,99 (França, dez. 2025) como referência de menor
   preço histórico.
-salePattern: 11 quedas no ano; preço médio em desconto ~€29,64 antes de voltar ao MSRP.
+salePattern: 11 quedas no ano; preço médio em desconto ~€29,64 antes de voltar ao preço cheio.
 priceRecommendation: buy
 quickFilters:
   - long_rpg
@@ -108,8 +108,8 @@ faq:
   - question: Quanto tempo leva Unicorn Overlord?
     answer: >-
       Unicorn Overlord leva cerca de 46h na história, ~63h com extras e ~76h
-      como completista segundo o  — missões longas, não é jogo de
-      deslocamento curto.
+      como completista segundo o  — missões longas, não é jogo de deslocamento
+      curto.
   - question: Como roda no Switch?
     answer: >-
       Unicorn Overlord aposta no 2D e numa câmera tática legível; o pessoal
@@ -170,7 +170,7 @@ cardPriceNativeCurrency: EUR
 
 Unicorn Overlord continua compra sólida em 2026 para fãs de SRPG — as promos EU atuais igualam o menor preço histórico rastreado.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €20.99.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €20.99.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price).
 
@@ -207,17 +207,17 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - voce curte **Exploração de mapa, missões, batalhas em tempo real com pausa e grande elenco.**
 - teu preco regional no GameGulf ja entrou na faixa-alvo
 - voce quer jogar ja, sem esperar outra janela de desconto
-- o ritmo te atende: HLTB sugere ~46h na história, ~63h com extras, ~76h para completar tudo.
+- o ritmo te atende: Duração estimada: sugere ~46h na história, ~63h com extras, ~76h para completar tudo.
 
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se você quer sessões curtas ou odeia fantasia política lenta.
 
 ## Fechamento
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. 11 quedas no ano; preço médio em desconto ~€29,64 antes de voltar ao MSRP.
+Primeiro preco, depois gosto: aqui essa ordem e a mais segura. 11 quedas no ano; preço médio em desconto ~€29,64 antes de voltar ao preço cheio.
 
 Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price)** e decide compra vs espera.

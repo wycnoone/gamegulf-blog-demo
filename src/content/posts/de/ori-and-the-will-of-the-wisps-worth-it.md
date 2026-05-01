@@ -180,7 +180,7 @@ cardPriceNativeCurrency: JPY
 
 Ori and the Will of the Wisps bleibt Switch-Spitze, aber April-2026-Listenpreis liegt klar über dem indexierten Sale-Schnitt — warten, außer du startest heute Nacht.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €19.14.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €19.14.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price) gegen deine Region halten.
 
@@ -220,7 +220,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Singleplayer.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Meide Verfolgung, Backtracking oder sentimentalen Ton.

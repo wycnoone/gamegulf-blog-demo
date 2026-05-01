@@ -9,7 +9,7 @@ gameTitle: ソニックマニア
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 分
 decision: 日アカウントで指数上の最安帯を狙う場合を除き、もう一段安いセール帯を待つ方がデータ上は有利。クオリティ自体は高い。
@@ -120,7 +120,7 @@ priceRows:
 cardPriceEur: 10.69
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 2000
+cardPrice: JPY 1959
 cardPriceNative: ¥1,980
 cardPriceNativeCurrency: JPY
 playtime: メイン約6時間／追加約10時間／コンプ約19時間
@@ -133,19 +133,19 @@ playtime: メイン約6時間／追加約10時間／コンプ約19時間
 
 ## Nintendo Switch版『ソニックマニア』の価格はいくら？
 
-**欧州などでは€19.99級の定価帯**が残りやすい一方、**日本**が今の**指数ヘッドライン**を押さえている。**gamegulf.com**と同じ**priceRows**から表を差し込む——**最終的には自分のニンテンドーアカウント地域のeShop表示**が正。
+**欧州などでは€19.99級の定価帯**が残りやすい一方、**日本**が今の**指数ヘッドライン**を押さえている。**gamegulf.com**と同じ**価格スナップショット**から表を差し込む——**最終的には自分のニンテンドーアカウント地域のeShop表示**が正。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 2000 | ¥1,980 |
-| ブラジル | JPY 2980 | R$95 |
-| 香港 | JPY 3025 | HK$148 |
-| アメリカ合衆国 | JPY 3199 | $19.99 |
-| イギリス | JPY 3438 | £15.99 |
-| ドイツ | JPY 3739 | €19.99 |
-| スペイン | JPY 3739 | €19.99 |
-| フランス | JPY 3739 | €19.99 |
+| 日本 | JPY 1959 | ¥1,980 |
+| ブラジル | JPY 2919 | R$95 |
+| 香港 | JPY 2963 | HK$148 |
+| アメリカ合衆国 | JPY 3133 | $19.99 |
+| イギリス | JPY 3367 | £15.99 |
+| ドイツ | JPY 3662 | €19.99 |
+| スペイン | JPY 3662 | €19.99 |
+| フランス | JPY 3662 | €19.99 |
 
 ## どんなゲームか
 
@@ -175,4 +175,4 @@ playtime: メイン約6時間／追加約10時間／コンプ約19時間
 
 ## まとめ
 
-**ソニックマニア**は復古ソニックファンには**味の確信賞**；財布は**MSRP級の焦り**と相性が悪い。**[このGameGulfページ](https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price)**をブックマークし、**gamegulf.com**の通知で**衝動€19.99**を防ぐ。
+**ソニックマニア**は復古ソニックファンには**味の確信賞**；財布は**定価級の焦り**と相性が悪い。**[このGameGulfページ](https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price)**をブックマークし、**gamegulf.com**の通知で**衝動€19.99**を防ぐ。

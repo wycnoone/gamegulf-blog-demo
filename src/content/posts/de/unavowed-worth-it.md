@@ -50,9 +50,9 @@ communityVibe: Begleiterwahl, Vertonung und Urban Fantasy tragen das Lob
 playtime: ~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Unavowed ist zuerst eine Frage des Spielgeschmacks: Abenteuer, Puzzle und
-  Rollenspiel, Umfang und 91 Metacritic müssen passen; der Preis entscheidet nur
-  das Timing.
+  Unavowed passt, wenn du Abenteuer, Puzzle und Rollenspiel — Unavowed auf Ninte
+  suchst; Die günstigsten Regionen stehen vorn in der Tabelle, dann Kaufen oder
+  Warten wählen.
 playStyle: Abenteuer, Puzzle und Rollenspiel
 timeCommitment: ~9 Std. Story, 12 Std. Extras, ~17 Std. 100 %
 playMode: Solo, sofern die Shopseite keinen Mehrspieler nennt.

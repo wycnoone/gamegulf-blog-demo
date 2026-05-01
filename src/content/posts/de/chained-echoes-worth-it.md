@@ -31,8 +31,7 @@ priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  Meta ~90: BR führt den Index, HK war günstiger — erst Passung, dann Alarme.
+listingTakeaway: "Meta ~90: BR führt den Index, HK war günstiger — erst Passung, dann Alarme."
 whatItIs: Rund 35 h Kern plus optionale Routen ohne Live‑Service‑Zwangspflicht.
 bestFor: Kampagnenbögen ohne End grind, aber mit taktischen Menüs.
 avoidIf: Ihr besteht unter 25 h aufs gesamte Ending ohne Abstriche.

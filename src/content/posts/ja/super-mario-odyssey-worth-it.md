@@ -132,7 +132,7 @@ priceRows:
 cardPriceEur: 35.53
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 6646
+cardPrice: JPY 6509
 cardPriceNative: ¥7,980
 cardPriceNativeCurrency: JPY
 ---
@@ -151,14 +151,14 @@ cardPriceNativeCurrency: JPY
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 6646 | ¥7,980 |
-| 香港 | JPY 6723 | HK$449 |
-| アメリカ合衆国 | JPY 9599 | $69.99 |
-| イギリス | JPY 10750 | £49.99 |
-| ブラジル | JPY 10948 | R$389.9 |
-| ドイツ | JPY 11221 | €59.99 |
-| スペイン | JPY 11221 | €59.99 |
-| フランス | JPY 11221 | €59.99 |
+| 日本 | JPY 6509 | ¥7,980 |
+| 香港 | JPY 6585 | HK$449 |
+| アメリカ合衆国 | JPY 9402 | $69.99 |
+| イギリス | JPY 10529 | £49.99 |
+| ブラジル | JPY 10723 | R$389.9 |
+| ドイツ | JPY 10991 | €59.99 |
+| スペイン | JPY 10991 | €59.99 |
+| フランス | JPY 10991 | €59.99 |
 
 割引履歴の基準: 2026年の **sale / historical low** で **JPY 6646 (日本)** 付近の記録。第一方マリオは深い常時セールになりにくい——ここでは年3回の追跡イベント、平均~€40.93。
 

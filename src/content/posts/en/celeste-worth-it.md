@@ -32,14 +32,15 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  MC ~92 Celeste; IT/PT ~€4.99 indexed; brief still reads rarely_discounted at list tiers.
+  MC ~92 Celeste; IT/PT ~€4.99 indexed; brief still reads rarely_discounted at
+  list tiers.
 whatItIs: >-
-  Pixel platform gauntlet: chapter mountain, Assist Mode tuneables, Farewell encore chapter.
+  Pixel platform gauntlet: chapter mountain, Assist Mode tuneables, Farewell
+  encore chapter.
 bestFor: Pixel masochists who still want an emotional safety net.
 avoidIf: You want open worlds or combat arcs — Celeste stays room-by-room.
 consensusPraise: Assist sliders keep narrative readable without nuking mastery ceiling.
-mainFriction: >-
-  B-sides and goldens are meant to sting — retries are the onboarding tax.
+mainFriction: B-sides and goldens are meant to sting — retries are the onboarding tax.
 timeFit: Roughly eight hours competent main climbs; Farewell blows up timelines.
 fitLabel: Fits if retries feel like tuning, not sabotage from the game.
 timingNote: Promo end dates on EU rows move fast — reopen GameGulf before Checkout.
@@ -104,7 +105,8 @@ communityMemes:
   - farewell trauma
   - mountain air speedrun
 tldr: >-
-  Celeste — ~92 Metacritic; GameGulf Apr 2026 puts IT/PT near €4.99 vs higher JP/US — match account row first.
+  Celeste — ~92 Metacritic; GameGulf Apr 2026 puts IT/PT near €4.99 vs higher
+  JP/US — match account row first.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price
 gameHref: https://www.gamegulf.com/detail/83uNBGDNnOl
@@ -176,18 +178,18 @@ faq:
 
 ## How much does Celeste cost on Nintendo Switch right now?
 
-**Regional digital tiers still fork hard** — the same SKU can show **75% storefront markdown language** on select **EU shelves** alongside **JP / US‑style headline prices** elsewhere. Treat the markdown table generated from **`priceRows`** as the briefing deck, then reopen **[live rows on gamegulf.com](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** before you pay.
+**Regional digital tiers still fork hard** — the same SKU can show **75% storefront markdown language** on select **EU shelves** alongside **JP / US‑style headline prices** elsewhere. Treat the markdown table generated from **price snapshot** as the briefing deck, then reopen **[live rows on gamegulf.com](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** before you pay.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Italy | USD 5.84 | €4.99 |
 | Portugal | USD 5.84 | €4.99 |
-| Brazil | USD 11.78 | R$59.99 |
+| Brazil | USD 11.77 | R$59.99 |
 | Japan | USD 13.66 | ¥2,160 |
-| United States | USD 20.02 | $19.99 |
-| Germany | USD 23.40 | €19.99 |
-| United Kingdom | USD 24.21 | £17.99 |
+| United States | USD 20.01 | $19.99 |
+| Germany | USD 23.39 | €19.99 |
+| United Kingdom | USD 24.20 | £17.99 |
 
 *(Snapshot pricing — storefront promos expire; cross-check **`gameHref`** tier before purchase.)*
 

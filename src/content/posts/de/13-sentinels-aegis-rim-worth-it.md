@@ -29,15 +29,15 @@ bestFor: Lange SF mit Mecha-Snacks.
 avoidIf: Lesen hassen oder nur Action.
 consensusPraise: Struktur, Kunst, VO schwer.
 mainFriction: Wechsel Lesen/Kampf.
-timeFit:  ~31/36/38 h.
+timeFit: ~31/36/38 h.
 fitLabel: Kapitel = SF-Folge.
-timingNote: US-Promo vs EU-MSRP 59,99 €.
+timingNote: US-Promo vs EU-Listenpreis 59,99 €.
 communityVibe: Timeline-Pinnwände
 playtime: 31h · 36h+ · ~38h
 reviewSignal: 88 Metacritic
 takeaway: >-
   13 Sentinels: Aegis Rim ist im April 2026 in Promo-Regionen ein klarer Kauf —
-  EU-MSRP parallel prüfen.
+  EU-Listenpreis parallel prüfen.
 playStyle: 2D-Ermittlung, Routen, Mecha.
 timeCommitment: ~31/36/38 h.
 playMode: Singleplayer.
@@ -77,8 +77,8 @@ faq:
       — prüfe GameGulf.
   - question: Spieldauer?
     answer: >-
-      13 Sentinels: Aegis Rim liegt laut  bei ~31 h Story, ~36 h Extras, ~38
-      h Completion.
+      13 Sentinels: Aegis Rim liegt laut  bei ~31 h Story, ~36 h Extras, ~38 h
+      Completion.
   - question: RTS schwer?
     answer: >-
       13 Sentinels: Aegis Rim verlangt Mecha-Kämpfe, aber als schlanke
@@ -90,7 +90,7 @@ faq:
   - question: Länger warten?
     answer: >-
       13 Sentinels: Aegis Rim ist in Promo-Regionen schon tief — warten lohnt
-      vor allem bei MSRP.
+      vor allem bei Listenpreis.
 priceRows:
   - regionCode: US
     eurPrice: 13.01
@@ -135,15 +135,16 @@ cardPriceNativeCurrency: USD
 
 **13 Sentinels: Aegis Rim** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **88 Metacritic**.
 
-13 Sentinels: Aegis Rim ist im April 2026 in Promo-Regionen ein klarer Kauf — EU-MSRP parallel prüfen.
+13 Sentinels: Aegis Rim ist im April 2026 in Promo-Regionen ein klarer Kauf — EU-Listenpreis parallel prüfen.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €13.01.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €13.01.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price) gegen deine Region halten.
 
 ## Was kostet 13 Sentinels: Aegis Rim auf Nintendo Switch aktuell?
 
 USA ~13,01 € eq.; globales Tief ~14,33 € (GB, 5. Juni 2025).
+
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
@@ -177,7 +178,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Lesen hassen oder nur Action.

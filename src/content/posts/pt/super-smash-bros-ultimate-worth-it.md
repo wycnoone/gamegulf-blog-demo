@@ -159,7 +159,7 @@ cardPriceNativeCurrency: HKD
 
 Super Smash Bros. Ultimate continua a ser compra fácil em 2026 se fores mesmo jogar — especialmente com a tua região perto das melhores linhas indexadas.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €36.44.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €36.44.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price).
 
@@ -199,7 +199,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: ~25 h aventura; versus/local/online sem teto fixo.
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evitas aprender matchups e queres sobretudo campanha solo longa.

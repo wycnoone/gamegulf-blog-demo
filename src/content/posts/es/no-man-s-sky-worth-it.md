@@ -38,7 +38,7 @@ bestFor: Quien quiera un sandbox portátil de larguísimo recorrido.
 avoidIf: Si necesitas ritmo guiado, poco menú o cooperativo como base.
 consensusPraise: Libertad de exploración, años de updates y una escala que sigue sorprendiendo.
 mainFriction: Menús, inventario y farmeo pueden comerse el asombro inicial.
-timeFit:  ~32 h historia, 77 h extras, 156 h completion.
+timeFit: ~32 h historia, 77 h extras, 156 h completion.
 fitLabel: Para quien disfruta marcándose sus propios objetivos.
 timingNote: >-
   Este artículo juzga solo Nintendo Switch; las demás plataformas se comparan
@@ -53,8 +53,8 @@ playStyle: >-
   Explorar planetas, extraer recursos, mejorar nave y traje, montar bases,
   comerciar, seguir misiones o ignorarlas y vagar.
 timeCommitment: >-
-  sitúa la historia en unas 32 h, el main-plus en 77 h y la completion en
-  156 h. Es juego de residencia, no de fin de semana.
+  sitúa la historia en unas 32 h, el main-plus en 77 h y la completion en 156 h.
+  Es juego de residencia, no de fin de semana.
 playMode: Un jugador en Nintendo Switch.
 whyNow: >-
   La fila Nintendo Switch ha vuelto al suelo rastreado y eso borra gran parte
@@ -183,7 +183,7 @@ cardPriceNativeCurrency: JPY
 
 No Man's Sky es fácil de recomendar en Nintendo Switch a 13,07 €; las demás filas puedes mirarlas después en GameGulf.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €13.07.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €13.07.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price).
 
@@ -221,7 +221,7 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te cuadra el ritmo: 32 h historia · 77 h+ extras · ~156 h completion
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Si necesitas ritmo guiado, poco menú o cooperativo como base.

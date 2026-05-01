@@ -28,15 +28,15 @@ bestFor: Tramas SF longas com snacks mecha.
 avoidIf: Odeias ler ou só queres ação.
 consensusPraise: Estrutura, arte, dobragem pesados.
 mainFriction: Ritmo leitura/combate variável.
-timeFit:  ~31/36/38 h.
+timeFit: ~31/36/38 h.
 fitLabel: Capítulo = episódio SF.
-timingNote: Compara promo EUA e MSRP UE.
+timingNote: Compara promo EUA e preço cheio UE.
 communityVibe: Quadros de timeline
 playtime: 31h · 36h+ · ~38h
 reviewSignal: 88 Metacritic
 takeaway: >-
   13 Sentinels: Aegis Rim é compra fácil em abril de 2026 nas regiões promo —
-  confirma a tua linha pelo MSRP UE.
+  confirma a tua linha pelo preço cheio UE.
 playStyle: 2D investigação, rotas, mecha top-down.
 timeCommitment: ~31/36/38 h.
 playMode: Um jogador.
@@ -88,7 +88,7 @@ faq:
   - question: Esperar mais?
     answer: >-
       13 Sentinels: Aegis Rim já alinha mínimos em promo — espera sobretudo se
-      estás no MSRP.
+      estás no preço cheio.
 priceRows:
   - regionCode: US
     eurPrice: 13.01
@@ -133,9 +133,9 @@ cardPriceNativeCurrency: USD
 
 **13 Sentinels: Aegis Rim** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **88 Metacritic**.
 
-13 Sentinels: Aegis Rim é compra fácil em abril de 2026 nas regiões promo — confirma a tua linha pelo MSRP UE.
+13 Sentinels: Aegis Rim é compra fácil em abril de 2026 nas regiões promo — confirma a tua linha pelo preço cheio UE.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €13.01.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €13.01.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 
@@ -176,7 +176,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Odeias ler ou só queres ação.

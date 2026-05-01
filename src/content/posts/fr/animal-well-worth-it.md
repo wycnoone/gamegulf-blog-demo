@@ -33,7 +33,7 @@ whatItIs: "Puzzle exploration : carte par bougies, synergies objets et tension
 bestFor: Joueurs curieux préférant déchiffrer l’ombre aux listes
 avoidIf: Tu veux combats spectacle, narration linéaire doublée ou loops RPG.
 consensusPraise: Audio, mise en page et restraint éditoriale encore salués par la critique.
-mainFriction: Périodes floues quand aucun fil rouge apparent — frustrations possibles sans
+mainFriction: Périodes floues sans fil rouge clair; frustration possible sans aide.
 timeFit: "~8–12\_h trajet premiers tours ; poursuite secrète >15\_h vite atteinte."
 fitLabel: Quand perdre ton chemin fait partie du jeu, pas bug.
 timingNote: Pris au prix catalogue européen ? Compare les lignes région GameGulf d’abord.
@@ -50,7 +50,7 @@ timeCommitment: >-
   peut dépasser quinze heures suivant votre discipline anti-spoiler.
 playMode: Solo hors-ligne.
 whyNow: "L’effet «\_nouvelle sortie\_» est passé — acheter = ambiance + valeur actuelle réelle plus que FOMO."
-currentDeal: "Avril\_2026 : Brésil mène encore ~12,58 € contre MSRP européenne ~24,49 € suivant lignes suivies."
+currentDeal: "Avril\_2026 : Brésil mène encore ~12,58 € contre prix catalogue européenne ~24,49 € suivant lignes suivies."
 nearHistoricalLow: "Pas totalement\_: la ligne LATAM du jour n’est pas la copie japonaise **2025‑10‑15** à €11,95, mais elle reste proche histoire « near historical low »."
 salePattern: "Quatre vagues suivies cette année, moyenne promo ~€16.60 lorsque ça coupe ; dernier signal notable **2026‑03‑19** aux États-Unis soit ~41\_j avant ce snapshot."
 priceRecommendation: buy
@@ -153,7 +153,7 @@ cardPriceNativeCurrency: BRL
 
 ## Combien coûte Animal Well sur Switch ?
 
-Écart géographique massif avant d’atteindre le MSRP européen standard.
+Écart géographique massif avant d’atteindre le prix catalogue européen standard.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |

@@ -18,7 +18,7 @@ decision: >-
   ocultos; pásalo si exiges Metacritic estable o pulido AAA.
 priceSignal: >-
   Los mínimos indexados se agrupan cerca de ~2 € en Europa mientras algunas
-  tiendas americanas siguen más cerca del MSRP — la brecha importa más que un
+  tiendas americanas siguen más cerca del precio de lista — la brecha importa más que un
   único titular.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price
@@ -162,7 +162,7 @@ Histórico indexado : **mínimo histórico** cercano a **0,99 €** en Francia (
 
 ## ¿Cuánto cuesta ahora en Switch?
 
-La tabla replica los `priceRows` ; los EUR equivalentes siguen la lógica GameGulf.
+La tabla replica los captura de precios ; los EUR equivalentes siguen la lógica GameGulf.
 
 
 | Región | Precio (equivalente en EUR) | Precio nativo |

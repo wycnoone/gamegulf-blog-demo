@@ -2,8 +2,8 @@
 title: Metroid Dread sur Switch en vaut-il encore la peine en 2026 ?
 description: >-
   Guide d'achat Switch — grilles eShop indexées en avril 2026, cadence de promos
-  Nintendo, durées , tension EMMI et combat au parry, achat immédiat ou
-  alerte prix.
+  Nintendo, durées , tension EMMI et combat au parry, achat immédiat ou alerte
+  prix.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,7 +37,7 @@ bestFor: Profils action qui assument tension EMMI et boss techniques.
 avoidIf: Évitez si chasses EMMI et wipes boss vous épuisent.
 consensusPraise: Maniabilité, lisibilité anim et menace EMMI restent un repère Switch.
 mainFriction: Pics de difficulté et EMMI fatiguent les profils "aventure cool".
-timeFit:  ~9h main, ~12h extras, ~14h complétion (moyennes communauté).
+timeFit: ~9h main, ~12h extras, ~14h complétion (moyennes communauté).
 fitLabel: Joueurs qui aiment maîtriser un rythme, pas le farming chill.
 timingNote: Comparez votre ligne eShop aux ancres HK/JP avant de valider le plein tarif.
 communityVibe: Bruits de pas EMMI — toujours dans la tête
@@ -50,8 +50,8 @@ playStyle: >-
   Metroidvania abilities, phases EMMI, fenêtres de parade, collectibles, modes
   Rookie/Dread et Boss Rush.
 timeCommitment: >-
-  Agrégats  ~9–12h pour une première boucle ; le cleanup et le hard ajoutent
-  — courtes sessions, courbe raide.
+  Agrégats  ~9–12h pour une première boucle ; le cleanup et le hard ajoutent —
+  courtes sessions, courbe raide.
 playMode: Solo.
 whyNow: >-
   En 2026, c'est surtout un arbitrage de boutique, pas une chasse au coupon
@@ -117,8 +117,8 @@ faq:
   - question: Combien de temps pour finir Metroid Dread ?
     answer: >-
       Metroid Dread dure environ 9 h pour le fil principal, ~12 h avec extras et
-      ~14 h en complétion selon les moyennes  — les EMMI et boss allongent
-      la sensation de durée.
+      ~14 h en complétion selon les moyennes  — les EMMI et boss allongent la
+      sensation de durée.
   - question: Comment ça tourne sur Switch ?
     answer: >-
       Metroid Dread vise ~60 fps lisibles en action sur Switch, y compris en
@@ -181,7 +181,7 @@ cardPriceNativeCurrency: HKD
 
 Metroid Dread reste un achat qualité pour les bons profils — le vrai risque est régional.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €36.44.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €36.44.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price).
 
@@ -221,7 +221,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Évitez si chasses EMMI et wipes boss vous épuisent.

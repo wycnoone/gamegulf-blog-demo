@@ -35,7 +35,7 @@ bestFor: Taktik-Fans mit Liebe zu Kunst, Musik und Map-Fortschritt.
 avoidIf: Du willst kurze Sessions oder hassest langsame Fantasy-Politik.
 consensusPraise: Lesbare Taktik-UI, Soundtrack und Klarheit — oben auf der Switch-SRPG-Liste.
 mainFriction: "Langsames Tempo: viel Dialog und Map zwischen den Höhepunkten."
-timeFit:  ~46h Hauptstory, ~63h Extras, ~76h Completion (Community).
+timeFit: ~46h Hauptstory, ~63h Extras, ~76h Completion (Community).
 fitLabel: Für Spieler, die Truppen und Eroberung lieber optimieren.
 timingNote: Vergleiche dein eShop-Preis mit der ~20,99-€-Promo, bevor du kaufst.
 communityVibe: Tags Tier-Listen, nachts Vanillaware-Fest—dasselbe 4-Uhr-Loop.
@@ -45,14 +45,14 @@ takeaway: >-
   Unicorn Overlord bleibt 2026 ein starker SRPG-Kauf — EU-Promos spiegeln den
   historischen Tiefstpreis aus dem Tracker.
 playStyle: Map-Erkundung, Quest-Knoten, Echtzeit-Gefechte mit Pause, großer Roster.
-timeCommitment:  nennt ~46h Hauptweg, ~63h mit Extras, ~76h für Sammler-Ziele.
+timeCommitment: nennt ~46h Hauptweg, ~63h mit Extras, ~76h für Sammler-Ziele.
 playMode: Singleplayer.
 whyNow: Qualität steht; variabel ist nur deine regionale Preiszeile.
 currentDeal: "April 2026: DE/ES/FR/IT ~20,99 € (-65 %), danach HK/JP/US höher im Index."
 nearHistoricalLow: >-
   Ja — Tracker-Tiefstpreis 20,99 € (Frankreich, Dez. 2025), passend zur
   EU-Promo.
-salePattern: 11 Rabatt-Events im Jahr; Ø Sale ~29,64 € vor Rückkehr zum MSRP.
+salePattern: 11 Rabatt-Events im Jahr; Ø Sale ~29,64 € vor Rückkehr zum Listenpreis.
 priceRecommendation: buy
 quickFilters:
   - long_rpg
@@ -169,13 +169,15 @@ cardPriceNativeCurrency: EUR
 
 Unicorn Overlord bleibt 2026 ein starker SRPG-Kauf — EU-Promos spiegeln den historischen Tiefstpreis aus dem Tracker.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €20.99.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €20.99.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) gegen deine Region halten.
 
 ## Was kostet Unicorn Overlord auf Nintendo Switch aktuell?
 
 Unicorn Overlord bleibt 2026 ein starker SRPG-Kauf — EU-Promos spiegeln den historischen Tiefstpreis aus dem Tracker.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Deutschland | EUR 20.99 | €20.99 |
@@ -204,17 +206,17 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - du mit **Map-Erkundung, Quest-Knoten, Echtzeit-Gefechte mit Pause, großer Roster.** grundsaetzlich gut klarkommst
 - dein Regionspreis auf GameGulf im Zielkorridor liegt
 - du zeitnah starten willst statt auf den naechsten Sale zu warten
-- dir der Umfang passt: HLTB nennt ~46h Hauptweg, ~63h mit Extras, ~76h für Sammler-Ziele.
+- dir der Umfang passt: Spielzeit-Richtwert: ~46h Hauptweg, ~63h mit Extras, ~76h für Sammler-Ziele.
 
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Du willst kurze Sessions oder hassest langsame Fantasy-Politik.
 
 ## Abschluss
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. 11 Rabatt-Events im Jahr; Ø Sale ~29,64 € vor Rückkehr zum MSRP.
+Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. 11 Rabatt-Events im Jahr; Ø Sale ~29,64 € vor Rückkehr zum Listenpreis.
 
 Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price)** und entscheide dann Buy-now vs Wait.

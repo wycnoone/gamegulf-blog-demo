@@ -35,7 +35,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  Monster Boy — 86 Metacritic; GameGulf shows Japan near indexed historic-low (Apr 2026).
+  Monster Boy — 86 Metacritic; GameGulf shows Japan near indexed historic-low
+  (Apr 2026).
 whatItIs: Hand-drawn Metroidvania — six forms, gear gates, 60fps TV/handheld on Switch.
 bestFor: Fans of polished 2D exploration and form-switch puzzles.
 avoidIf: You want open-ended roguelikes or dislike ability-gated map revisit.
@@ -93,7 +94,8 @@ communityMemes:
   - sale region hopper
   - backtrack copium
 tldr: >-
-  Monster Boy and the Cursed Kingdom — 86 Metacritic; GameGulf flags Japan near indexed all-time low — buy if you want this Metroidvania.
+  Monster Boy and the Cursed Kingdom — 86 Metacritic; GameGulf flags Japan near
+  indexed all-time low — buy if you want this Metroidvania.
 faq:
   - question: >-
       Is Monster Boy and the Cursed Kingdom worth buying on Nintendo Switch in
@@ -152,7 +154,7 @@ priceRows:
 cardPriceEur: 5.37
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 6.29
+cardPrice: USD 6.28
 cardPriceNative: ¥3,980
 cardPriceNativeCurrency: JPY
 ---
@@ -166,19 +168,19 @@ Use **GameGulf** to keep this SKU on a [tracked multi-region board](https://www.
 
 ## How much does Monster Boy and the Cursed Kingdom cost on Nintendo Switch right now?
 
-**Regional pricing moves fast** — the markdown table below is generated from the same **GameGulf** rows we keep in frontmatter. Compare your **account region** on [gamegulf.com](https://www.gamegulf.com) before treating any blog snippet as checkout truth.
+**Regional pricing moves fast** — the markdown table below is generated from the same **GameGulf** rows we keep in price snapshot. Compare your **account region** on [gamegulf.com](https://www.gamegulf.com) before treating any blog snippet as checkout truth.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 6.29 | ¥3,980 |
+| Japan | USD 6.28 | ¥3,980 |
 | Germany | USD 11.69 | €39.99 |
 | Spain | USD 11.69 | €39.99 |
 | France | USD 11.69 | €39.99 |
 | Portugal | USD 11.69 | €39.99 |
-| United States | USD 40.05 | $39.99 |
-| Hong Kong | USD 40.78 | HK$319 |
-| Italy | USD 46.81 | €39.99 |
+| United States | USD 40.03 | $39.99 |
+| Hong Kong | USD 40.77 | HK$319 |
+| Italy | USD 46.80 | €39.99 |
 
 ## What kind of game is Monster Boy and the Cursed Kingdom, really?
 

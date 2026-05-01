@@ -16,7 +16,7 @@ decision: >-
   dichtem Tallon IV willst. Alerts, wenn nur dein teures Regionskonto blockt.
 priceSignal: >-
   April 2026 startet das Raster bei ~23,22 € in Japan, steigt über Hongkong zu
-  USA/Brasilien und EU/UK-MSRP — typisch selten stark reduzierte Nintendo-Lagen.
+  USA/Brasilien und EU/UK-Listenpreis — typisch selten stark reduzierte Nintendo-Lagen.
 heroStat: 94 Metacritic
 heroNote: >-
   Samus’ 3D-Prime: Tallon-IV-Biome, Scan-Logbuch, Morph Ball, Strahl-Upgrades
@@ -37,7 +37,7 @@ consensusPraise: Stimmung, Lesbarkeit der Levels, moderne Steueroptionen.
 mainFriction: Scan- und Revisit-Schleifen plus Boss-ReRuns nerven Tempo-Fans.
 timeFit: ~13 h Hauptstory, ~17 h+ Extras, ~22 h Komplett (Community-Bänder).
 fitLabel: Spieler, die Beobachten und Routenplanen zur Machtfantasie zählen.
-timingNote: Vergleiche deinen Store mit dem Japan-Cluster vor teurem MSRP.
+timingNote: Vergleiche deinen Store mit dem Japan-Cluster vor teurem Listenpreis.
 communityVibe: Scan-Rhythmus —Fans lieben’s, Touristen springen ab
 playtime: ~13 h Story · ~17 h+ Extras · ~22 h Completion
 reviewSignal: 94 Metacritic
@@ -219,7 +219,7 @@ Solides First-Party-Remaster — Patch beachten.
 
 ## Warte, wenn
 
-- dein Land MSRP hält, Japan/Hongkong aber klar tiefer sind (und du sauber einkaufen kannst)
+- dein Land Listenpreis hält, Japan/Hongkong aber klar tiefer sind (und du sauber einkaufen kannst)
 - FPS-Retreads dich sofort kosten — die Note ändert das nicht
 - Budget limitiert: **[GameGulf-Wunschliste](https://www.gamegulf.com/wishlist)** nutzen
 

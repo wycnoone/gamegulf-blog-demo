@@ -18,7 +18,7 @@ decision: >-
   montre déjà votre région dans la fourchette promo profonde.
 priceSignal: >-
   Les plus bas indexés se regroupent souvent au Japon en promo ; l'Europe peut
-  rester plus proche du MSRP.
+  rester plus proche du prix catalogue.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1vs5joujuwt#currency-price
 gameHref: https://www.gamegulf.com/detail/1vs5joujuwt
@@ -48,7 +48,7 @@ mainFriction: Chaque pouvoir rouvre d'anciennes zones — rythme volontairement 
 timeFit: Aventure intermédiaire (~15 h annoncées), pas RPG à centaines d'heures.
 fitLabel: Acheteurs qui comparent deux pays sur GameGulf avant le checkout.
 timingNote: >-
-  Les promos tournent ; si votre eShop reste au MSRP, attendre le prochain tour
+  Les promos tournent ; si votre eShop reste au prix catalogue, attendre le prochain tour
   est sain.
 communityVibe: Animation magnifique, six formes, exploration fluide
 reviewSignal: 86 Metacritic
@@ -88,7 +88,7 @@ communityMemes:
   - rush de formes
   - débats Wonder Boy
   - flex OST
-  - sticker MSRP
+  - sticker prix catalogue
   - nomade eShop
   - backtrack mème
 tldr: >-
@@ -162,7 +162,7 @@ Côté **promo** / **historique** : **plus bas indexé** vers **€5,37** (**Jap
 
 ## Combien coûte Monster Boy and the Cursed Kingdom sur Nintendo Switch ?
 
-**Les étiquettes bougent vite** — le tableau ci-dessous reflète exactement les lignes **GameGulf** synchronisées avec notre frontmatter. Comparez toujours [gamegulf.com](https://www.gamegulf.com) à votre compte.
+**Les étiquettes bougent vite** — le tableau ci-dessous reflète exactement les lignes **GameGulf** synchronisées avec notre instantané de prix. Comparez toujours [gamegulf.com](https://www.gamegulf.com) à votre compte.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -202,7 +202,7 @@ La version Switch est **soignée** : **Full HD / 60 fps** annoncé en dock, **72
 
 ## Attendez plutôt si
 
-- Votre eShop reste **MSRP** alors que d'autres **promos** apparaissent sur **GameGulf**.
+- Votre eShop reste **prix catalogue** alors que d'autres **promos** apparaissent sur **GameGulf**.
 - Le **retour arrière** après chaque pouvoir vous épuise — c'est le design.
 - Vous avez besoin de **multi en ligne** permanent : ici c'est **solo narratif**.
 - Vous espériez du **roguelike** ou du **soulslike** : c'est du **plateformer d'antan**.

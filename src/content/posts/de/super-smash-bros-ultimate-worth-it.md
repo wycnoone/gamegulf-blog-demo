@@ -154,13 +154,15 @@ cardPriceNativeCurrency: HKD
 
 Super Smash Bros. Ultimate bleibt 2026 ein klarer Kauf, wenn du wirklich spielst — besonders wenn deine Region nah an den Index-Spitzen liegt.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €36.44.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €36.44.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price) gegen deine Region halten.
 
 ## Was kostet Super Smash Bros. Ultimate auf Nintendo Switch aktuell?
 
 Super Smash Bros. Ultimate bleibt 2026 ein klarer Kauf, wenn du wirklich spielst — besonders wenn deine Region nah an den Index-Spitzen liegt.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Hongkong | EUR 36.44 | HK$329 |
@@ -192,7 +194,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Singleplayer und Multiplayer.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Du meidest Matchup-Lernen und spielst fast nur Solo — schwächer.

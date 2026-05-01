@@ -169,7 +169,7 @@ priceRows:
 cardPriceEur: 12.58
 cardPriceRegionCode: BR
 cardPriceRegion: Brazil
-cardPrice: USD 14.73
+cardPrice: USD 14.72
 cardPriceNative: R$74.99
 cardPriceNativeCurrency: BRL
 ---
@@ -187,14 +187,14 @@ Indexed gap is chunky: cheapest converted rows drift from tweens-of-euros to **m
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 14.73 | R$74.99 |
-| Japan | USD 18.65 | ¥2950 |
-| United States | USD 25.03 | $24.99 |
-| United Kingdom | USD 28.25 | £20.99 |
-| Germany | USD 28.67 | €24.49 |
-| Spain | USD 28.67 | €24.49 |
-| France | USD 28.67 | €24.49 |
-| Italy | USD 28.67 | €24.49 |
+| Brazil | USD 14.72 | R$74.99 |
+| Japan | USD 18.64 | ¥2950 |
+| United States | USD 25.02 | $24.99 |
+| United Kingdom | USD 28.24 | £20.99 |
+| Germany | USD 28.66 | €24.49 |
+| Spain | USD 28.66 | €24.49 |
+| France | USD 28.66 | €24.49 |
+| Italy | USD 28.66 | €24.49 |
 
 Discount history signal: **four** distinct sale waves inside the trailing year average near **€16.60** whenever promos fire, while the furthest-back tracked **historical low** print remains **€11.95** in **Japan (2025‑10‑15)**—not the same as today’s Brazil row, but close enough that analytics label the window “near historical low.” Last logged movement hit the **United States** account on **2026‑03‑19** roughly **41** days before April’s snapshot, so you are not staring at a frozen launch-day artifact.
 

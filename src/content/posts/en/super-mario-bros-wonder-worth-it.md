@@ -2,8 +2,8 @@
 title: Is Super Mario Bros. Wonder worth buying on Nintendo Switch in 2026?
 description: >-
   A Switch buying guide for Super Mario Bros. Wonder — April 2026 indexed eShop
-  rows, first-party discount rarity,  session length, co-op and badges, and
-  when list price is still a fair buy.
+  rows, first-party discount rarity,  session length, co-op and badges, and when
+  list price is still a fair buy.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -115,20 +115,29 @@ heroTheme: brand
 faq:
   - question: Is Super Mario Bros. Wonder worth buying on Nintendo Switch in 2026?
     answer: >-
-      Super Mario Bros. Wonder Super Mario Bros.™ Wonder is worth buying in 2026 if you want polished 2D Mario with Wonder effects, badge customization, and couch or online helpers. As of April 2026, GameGulf’s indexed grid still starts near €35.34 equivalent on the Japan eShop — compare your account region before checkout.
-
+      Super Mario Bros. Wonder Super Mario Bros.™ Wonder is worth buying in 2026
+      if you want polished 2D Mario with Wonder effects, badge customization,
+      and couch or online helpers. As of April 2026, GameGulf’s indexed grid
+      still starts near €35.34 equivalent on the Japan eShop — compare your
+      account region before checkout.
   - question: How long does Super Mario Bros. Wonder take to beat?
     answer: >-
-      Super Mario Bros. Wonder Super Mario Bros.™ Wonder averages about 10 hours for a main path, roughly 14 with extras, and near 20 for completionist goals according to  aggregates — levels stay short even when the campaign is finite.
-
+      Super Mario Bros. Wonder Super Mario Bros.™ Wonder averages about 10 hours
+      for a main path, roughly 14 with extras, and near 20 for completionist
+      goals according to  aggregates — levels stay short even when the campaign
+      is finite.
   - question: How does Super Mario Bros. Wonder run on Nintendo Switch?
     answer: >-
-      Super Mario Bros. Wonder Super Mario Bros.™ Wonder targets smooth 2D platforming on Switch hardware with readable effects even when Wonder Flowers rewrite the rules — expect Nintendo-first-party stability rather than technical experiments, per common player reports.
-
+      Super Mario Bros. Wonder Super Mario Bros.™ Wonder targets smooth 2D
+      platforming on Switch hardware with readable effects even when Wonder
+      Flowers rewrite the rules — expect Nintendo-first-party stability rather
+      than technical experiments, per common player reports.
   - question: Does Super Mario Bros. Wonder go on sale often?
     answer: >-
-      Super Mario Bros. Wonder Super Mario Bros.™ Wonder shows zero captured discount events in the past year on this indexed feed — treat list pricing as the practical baseline until a platform-wide Nintendo promotion appears.
-
+      Super Mario Bros. Wonder Super Mario Bros.™ Wonder shows zero captured
+      discount events in the past year on this indexed feed — treat list pricing
+      as the practical baseline until a platform-wide Nintendo promotion
+      appears.
   - question: Should I buy Wonder or a long JRPG first?
     answer: >-
       Super Mario Bros.™ Wonder wins if you want co-op sessions under an hour;
@@ -154,7 +163,7 @@ priceRows:
 cardPriceEur: 35.34
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 41.39
+cardPrice: USD 41.35
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
 ---
@@ -175,10 +184,10 @@ Treat Japan’s indexed anchor as your value reference — deep sale history is 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.37 | ¥6,500 |
-| Hong Kong | USD 42.66 | HK$329 |
-| United States | USD 60.95 | $59.99 |
-| Brazil | USD 68.71 | R$349 |
+| Japan | USD 41.35 | ¥6,500 |
+| Hong Kong | USD 42.64 | HK$329 |
+| United States | USD 60.93 | $59.99 |
+| Brazil | USD 68.69 | R$349 |
 
 ## What kind of game is Super Mario Bros. Wonder?
 

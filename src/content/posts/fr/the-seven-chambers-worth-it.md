@@ -161,7 +161,7 @@ Historique indexé : plus bas relevé vers **0,99 €** en France (**04/06/2025*
 
 ## Quel prix sur Switch aujourd’hui ?
 
-Le tableau reflète les `priceRows` frontmatter — les montants convertis suivent la logique GameGulf.
+Le tableau reflète les instantané de prix instantané de prix — les montants convertis suivent la logique GameGulf.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |

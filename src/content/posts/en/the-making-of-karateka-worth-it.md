@@ -1,15 +1,15 @@
 ---
-title: "Is The Making of Karateka worth buying on Switch in 2026?"
-seoTitle: "The Making of Karateka Switch — worth it? (2026)"
+title: Is The Making of Karateka worth buying on Switch in 2026?
+seoTitle: The Making of Karateka Switch — worth it? (2026)
 locale: en
 description: >-
   April 2026 Switch memo for The Making of Karateka — Digital Eclipse
-  documentary, Karateka remaster stack, 90 Metacritic signal, and whether to wait
-  on the next sale versus paying list on GameGulf’s indexed eShop grid.
+  documentary, Karateka remaster stack, 90 Metacritic signal, and whether to
+  wait on the next sale versus paying list on GameGulf’s indexed eShop grid.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: "The Making of Karateka"
+gameTitle: The Making of Karateka
 platform: Nintendo Switch
 primaryPlatformKey: switch-1
 primaryPlatformLabel: Nintendo Switch
@@ -40,15 +40,12 @@ listingTakeaway: >-
   sale-tier.
 whatItIs: >-
   Digital Eclipse doc: interactive timelines, Karateka originals, remaster, and
-  prototype twin-stick bonus.
-bestFor: History-first players who want docs plus bite-sized playable extras.
+  prototype
+bestFor: History-first players who want docs plus bite-sized
 avoidIf: You only want one modern campaign—not a museum-and-ports binge.
-consensusPraise: >-
-  Curated artifacts and director commentary sell context beyond a ROM bundle.
-mainFriction: >-
-  Library-style grazing wins; shoppers wanting a single glossy arc may bounce.
-timeFit: >-
-  ~4h story-led doc pace; ~6h extras; ~9h if you chase every archive branch.
+consensusPraise: Curated artifacts and director commentary sell context beyond a ROM bundle.
+mainFriction: Library-style grazing wins; shoppers wanting a single glossy arc may bounce.
+timeFit: ~4h story-led doc pace; ~6h extras; ~9h if you chase every archive branch.
 fitLabel: Best when you read “how it was made” between play sessions.
 timingNote: >-
   Last deep cut sits ~72 days back on indexed telemetry—watch GameGulf before
@@ -64,8 +61,8 @@ playStyle: >-
   Interactive timelines, archive browsers, playable Karateka editions plus
   Deathbounce — solo documentary binge with emulator-grade QoL on Switch.
 timeCommitment: >-
-  A few evenings for the narrative spine; weekends if you sample every
-  prototype branch.
+  A few evenings for the narrative spine; weekends if you sample every prototype
+  branch.
 playMode: Single-player.
 whyNow: >-
   Portable timelines suit bedtime “one more interview” loops — ideal if you
@@ -106,14 +103,11 @@ playerVoices:
       You read and watch as much as you platform — wrong expectations kill the
       vibe.
     sentiment: mixed
-  - quote: >-
-      Commentary answered production questions wiki pages never spell out.
+  - quote: Commentary answered production questions wiki pages never spell out.
     sentiment: positive
-  - quote: >-
-      If you dislike menu-heavy archives, the Gold Master pacing drags.
+  - quote: If you dislike menu-heavy archives, the Gold Master pacing drags.
     sentiment: negative
-  - quote: >-
-      Handheld documentary grazing beats booting a PC folder of PDF scans.
+  - quote: Handheld documentary grazing beats booting a PC folder of PDF scans.
     sentiment: positive
 tldr: >-
   The Making of Karateka — 90 Metacritic doc kit; April 2026 pricing favors
@@ -137,13 +131,53 @@ faq:
       The Making of Karateka averages about four hours if you stay with the
       documentary spine first, roughly six if you chase more lateral extras, and
       near nine if you completionist-style poke every archive branch.
-  - question: What gameplay friction should I expect before buying The Making of Karateka?
+  - question: >-
+      What gameplay friction should I expect before buying The Making of
+      Karateka?
     answer: >-
       The Making of Karateka keeps classic Karateka friction in the playable
       stack — timing-heavy combat and trial-and-error loops — even with rewind;
       common player reports say to treat Deathbounce as a palate cleanser, not
       the main course, if you dislike strict old-school reads.
-priceRows: []
+priceRows:
+  - regionCode: BR
+    eurPrice: 10.06
+    nativePrice: R$59.99
+    nativeCurrency: BRL
+  - regionCode: JP
+    eurPrice: 12.42
+    nativePrice: ¥2,300
+    nativeCurrency: JPY
+  - regionCode: HK
+    eurPrice: 13.65
+    nativePrice: HK$125
+    nativeCurrency: HKD
+  - regionCode: US
+    eurPrice: 17.1
+    nativePrice: $19.99
+    nativeCurrency: USD
+  - regionCode: DE
+    eurPrice: 19.49
+    nativePrice: €19.49
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 19.49
+    nativePrice: €19.49
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 19.49
+    nativePrice: €19.49
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 19.49
+    nativePrice: €19.49
+    nativeCurrency: EUR
+cardPriceEur: 10.06
+cardPriceRegionCode: BR
+cardPriceRegion: Brazil
+cardPrice: USD 11.77
+cardPriceNative: R$59.99
+cardPriceNativeCurrency: BRL
 ---
 
 
@@ -156,6 +190,18 @@ Start on the **[GameGulf price grid](https://www.gamegulf.com/detail/wuV7tcmPMD#
 ## Current price on Switch
 
 Indexed spread is wide: cheapest rows cluster in **Brazil**, while **US dollars** and **euro** list bands sit much closer to MSRP — cross-account routing still matters as much as timing the next promo.
+
+
+| Region | Price (USD equivalent) | Native price |
+| --- | ---: | ---: |
+| Brazil | USD 11.77 | R$59.99 |
+| Japan | USD 14.53 | ¥2,300 |
+| Hong Kong | USD 15.97 | HK$125 |
+| United States | USD 20.01 | $19.99 |
+| Germany | USD 22.81 | €19.49 |
+| Spain | USD 22.81 | €19.49 |
+| France | USD 22.81 | €19.49 |
+| Italy | USD 22.81 | €19.49 |
 
 Tracked **discount** cadence shows **eight** sale-class touches in the past year averaging near **€9.23**, with an indexed all-time **sale** trough around **€4.02** on the **Brazil** row (**2026-02-16**) — roughly **60%** off the indexed list impulse. The **United States** lane often hovers near **$19.99** equivalents while **France** briefly printed **€8.77** on **2026-01-01** and **Japan** saw **€6.21** on **2025-09-03**. With **72** days since that last deep cut, patience usually beats paying full **dollar**/**euro** list unless you are deliberately buying a documentary night tonight.
 

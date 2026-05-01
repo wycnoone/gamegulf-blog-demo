@@ -11,7 +11,7 @@ gameTitle: Balatro
 platform: Nintendo Switch
 primaryPlatformKey: switch-1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min read
 decision: >-
@@ -161,7 +161,7 @@ priceRows:
 cardPriceEur: 7.54
 cardPriceRegionCode: BR
 cardPriceRegion: Brazil
-cardPrice: USD 8.83
+cardPrice: USD 8.82
 cardPriceNative: R$44.99
 cardPriceNativeCurrency: BRL
 ---
@@ -176,16 +176,17 @@ If busted runs still sound funnier than heartbreaking, skim **[Balatro pricing o
 
 LATAM anchors keep this SKU cheaper than most EU storefronts—even without converting mental math currencies yourself.
 
+
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 8.83 | R$44.99 |
-| Japan | USD 10.75 | ¥1700 |
+| Brazil | USD 8.82 | R$44.99 |
+| Japan | USD 10.74 | ¥1700 |
 | Hong Kong | USD 12.15 | HK$95.00 |
-| United States | USD 15.01 | $14.99 |
-| Germany | USD 16.38 | €13.99 |
-| France | USD 16.38 | €13.99 |
-| Spain | USD 16.38 | €13.99 |
-| United Kingdom | USD 17.21 | £12.79 |
+| United States | USD 15.00 | $14.99 |
+| Germany | USD 16.37 | €13.99 |
+| France | USD 16.37 | €13.99 |
+| Spain | USD 16.37 | €13.99 |
+| United Kingdom | USD 17.20 | £12.79 |
 
 Discount history shorthand: **five** recognizable sale touches inside the sampled year gravitate toward **€9.94** averages when dips happen, Brazil’s freshest recorded move sits roughly **eleven days** back on the **€7.54** anchor (**2026-04‑18**), aligning with extractor **historical-low** stamping. Separate one-year datapoints previously printed **Japan** near **€7.80** (**2025-12‑25**) before spring repricing—still useful context comparing Asia-friendly accounts versus EU MSRP inertia.
 

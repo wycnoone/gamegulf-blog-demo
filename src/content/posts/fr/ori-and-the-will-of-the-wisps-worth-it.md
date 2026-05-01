@@ -184,7 +184,7 @@ cardPriceNativeCurrency: JPY
 
 Ori and the Will of the Wisps reste un sommet Switch, mais le list avril 2026 dépasse largement la moyenne promo indexée — attendez sauf urgence de jeu.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €19.14.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €19.14.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price).
 
@@ -224,7 +224,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Passez si poursuites, backtracking ou ton sentimental vous épuisent.

@@ -5,8 +5,8 @@
  * Buckets: AF (0-9, a-f), GM (g-m), NS (n-s), TZ (t-z) — case-insensitive on first char.
  *
  * Usage:
- *   node scripts/list-human-read-batch.mjs <locale> <AF|GM|NS|TZ> [--json]
- *   node scripts/list-human-read-batch.mjs --validate <locale> <AF|GM|NS|TZ>
+ *   node scripts/one-off/list-human-read-batch.mjs <locale> <AF|GM|NS|TZ> [--json]
+ *   node scripts/one-off/list-human-read-batch.mjs --validate <locale> <AF|GM|NS|TZ>
  */
 import { readdir } from "node:fs/promises";
 import { join } from "node:path";
@@ -34,8 +34,8 @@ function help() {
   console.log(`list-human-read-batch.mjs
 
 Usage:
-  node scripts/list-human-read-batch.mjs <locale> <AF|GM|NS|TZ> [--json]
-  node scripts/list-human-read-batch.mjs --validate <locale> <AF|GM|NS|TZ> [--json]
+  node scripts/one-off/list-human-read-batch.mjs <locale> <AF|GM|NS|TZ> [--json]
+  node scripts/one-off/list-human-read-batch.mjs --validate <locale> <AF|GM|NS|TZ> [--json]
 
 Locales: en, de, es, fr, ja, pt, zh-hans
 `);

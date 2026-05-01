@@ -181,7 +181,7 @@ La separación típica es **~9 €** entre el mínimo japonés y las etiquetas U
 | Francia | EUR 14.99 | €14.99 |
 | Italia | EUR 14.99 | €14.99 |
 
-Historial de **oferta** con **discount** medio: **16** bajadas en un año hacia **~8,89 €**; **5,77 €** vuelve en Japón (**sale** rastreada **2025-11-03** / **2026-04-05**). Útil movimiento hace **~24** días — indie con **promo** repetida, no MSRP congelado.
+Historial de **oferta** con **discount** medio: **16** bajadas en un año hacia **~8,89 €**; **5,77 €** vuelve en Japón (**sale** rastreada **2025-11-03** / **2026-04-05**). Útil movimiento hace **~24** días — indie con **promo** repetida, no precio de lista congelado.
 
 ## ¿Qué tipo de juego es?
 

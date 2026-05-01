@@ -39,7 +39,9 @@ bestFor: SRPG fans who want long campaigns and Vanillaware art.
 avoidIf: Skip if you dislike grid tactics or 40+ hour fantasy war epics.
 consensusPraise: Art, music, and battle clarity rank among Switch’s strongest tactics picks.
 mainFriction: Pace is slow-burn — expect long stretches between story beats and battles.
-timeFit: Typical bands near 46h main, 63h extras, 76h completionist (community aggregates).
+timeFit: >-
+  Typical bands near 46h main, 63h extras, 76h completionist (community
+  aggregates).
 fitLabel: Players who treat army-building and map control as the main reward loop.
 timingNote: >-
   Compare your account’s row to the €20.99 EU promo anchor before you assume a
@@ -54,8 +56,8 @@ playStyle: >-
   Overworld exploration, quest hubs, formation-based real-time-with-pause
   battles, and a large recruitable roster across five nations.
 timeCommitment: >-
-  Typical player reports land near 46 hours for a main path, about 63 with extras, and
-  near 76 for completionist goals across hundreds of submissions.
+  Typical player reports land near 46 hours for a main path, about 63 with
+  extras, and near 76 for completionist goals across hundreds of submissions.
 playMode: Single-player.
 whyNow: >-
   Quality and scope are settled; the open question is whether your regional row
@@ -183,7 +185,7 @@ priceRows:
 cardPriceEur: 20.99
 cardPriceRegionCode: DE
 cardPriceRegion: Germany
-cardPrice: USD 24.58
+cardPrice: USD 24.56
 cardPriceNative: €20.99
 cardPriceNativeCurrency: EUR
 ---
@@ -204,14 +206,14 @@ Compare your account’s row to the €20.99 EU promo anchor before you assume a
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Germany | USD 24.57 | €20.99 |
-| Spain | USD 24.57 | €20.99 |
-| France | USD 24.57 | €20.99 |
-| Italy | USD 24.57 | €20.99 |
-| Hong Kong | USD 29.04 | HK$224 |
-| Japan | USD 55.87 | ¥8,778 |
-| Brazil | USD 59.05 | R$299.90 |
-| United States | USD 60.95 | $59.99 |
+| Germany | USD 24.56 | €20.99 |
+| Spain | USD 24.56 | €20.99 |
+| France | USD 24.56 | €20.99 |
+| Italy | USD 24.56 | €20.99 |
+| Hong Kong | USD 29.03 | HK$224 |
+| Japan | USD 55.85 | ¥8,778 |
+| Brazil | USD 59.02 | R$299.90 |
+| United States | USD 60.93 | $59.99 |
 
 ## What kind of game is Unicorn Overlord?
 

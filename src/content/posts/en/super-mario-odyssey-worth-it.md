@@ -169,7 +169,7 @@ priceRows:
 cardPriceEur: 35.53
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 41.59
+cardPrice: USD 41.58
 cardPriceNative: ¥7,980
 cardPriceNativeCurrency: JPY
 ---
@@ -188,14 +188,14 @@ Tracked spread is **USD 28.63**.
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.59 | ¥7,980 |
-| Hong Kong | USD 42.07 | HK$449 |
-| United States | USD 60.08 | $69.99 |
-| United Kingdom | USD 67.27 | £49.99 |
-| Brazil | USD 68.52 | R$389.9 |
-| Germany | USD 70.22 | €59.99 |
-| Spain | USD 70.22 | €59.99 |
-| France | USD 70.22 | €59.99 |
+| Japan | USD 41.58 | ¥7,980 |
+| Hong Kong | USD 42.06 | HK$449 |
+| United States | USD 60.05 | $69.99 |
+| United Kingdom | USD 67.25 | £49.99 |
+| Brazil | USD 68.49 | R$389.9 |
+| Germany | USD 70.20 | €59.99 |
+| Spain | USD 70.20 | €59.99 |
+| France | USD 70.20 | €59.99 |
 
 Discount history anchor: 2026 **sale / historical low** references around **USD 41.59 (Japan)**. First-party Mario on Switch rarely deep-discounts like third-party blowouts — expect short windows and modest drops, roughly three tracked events in the past year here.
 

@@ -176,7 +176,7 @@ Consulte **[GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price
 | Espagne | EUR 49.99 | €49.99 |
 | France | EUR 49.99 | €49.99 |
 
-Historique **promo** / **discount** : **0** chute suivie en un an — seuls **2025**/**2026** montrent la ligne **Japon ~35,53 €** alignée sur le **historical low** déclaré. Pas de **sale** en cascade dans ce brief : logique **MSRP** Nintendo jusqu'à ce que ta boutique diverge.
+Historique **promo** / **discount** : **0** chute suivie en un an — seuls **2025**/**2026** montrent la ligne **Japon ~35,53 €** alignée sur le **historical low** déclaré. Pas de **sale** en cascade dans ce brief : logique **prix catalogue** Nintendo jusqu'à ce que ta boutique diverge.
 
 ## Quel jeu ?
 

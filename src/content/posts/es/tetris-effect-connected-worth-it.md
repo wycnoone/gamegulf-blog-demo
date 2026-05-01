@@ -180,7 +180,7 @@ cardPriceNativeCurrency: HKD
 
 Tetris® Effect: Connected sigue siendo referencia — precio abril 2026 = retail de calidad, no el suelo histórico salvo que ya estés en promo.
 
-Nota de descuento: los **mínimos históricos** indexados siguen en **€9,61** en Hong Kong (**2025-06-09**, repetido **2025-12-17**); el índice actual arranca más cerca de **€19,22** sobre HK$176, mientras EE. UU./UE suelen estar en **MSRP (~$39,99 / €39,99)**.
+Nota de descuento: los **mínimos históricos** indexados siguen en **€9,61** en Hong Kong (**2025-06-09**, repetido **2025-12-17**); el índice actual arranca más cerca de **€19,22** sobre HK$176, mientras EE. UU./UE suelen estar en **precio de lista (~$39,99 / €39,99)**.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price).
 
@@ -220,7 +220,7 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te cuadra el ritmo: ~3 h · ~8 h+ · ~57 h
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Solo Tetris minimalista sin efectos — pasa.

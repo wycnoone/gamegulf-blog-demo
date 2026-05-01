@@ -123,7 +123,7 @@ faq:
     answer: >-
       Super Mario Odyssey mostra três eventos de desconto seguidos em doze meses
       aqui, média ~€40,93 — menos agressivo que terceiros, mas não está preso ao
-      MSRP.
+      preço cheio.
   - question: Odyssey ou um indie curto primeiro?
     answer: >-
       Super Mario Odyssey ganha se queres um carro-chefe Nintendo com luas a

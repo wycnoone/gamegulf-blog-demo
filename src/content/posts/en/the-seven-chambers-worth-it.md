@@ -168,7 +168,7 @@ Sale telemetry from GameGulf’s index: **historical dip** near **€0.99** (Fra
 
 ## How much does The Seven Chambers cost on Nintendo Switch right now?
 
-**Regional pricing moves fast** — the table below mirrors the same GameGulf regional price entries we store in frontmatter. Compare your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single best territory.
+**Regional pricing moves fast** — the table below mirrors the same GameGulf regional price entries we store in price snapshot. Compare your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single best territory.
 
 
 | Region | Price (USD equivalent) | Native price |
@@ -178,7 +178,7 @@ Sale telemetry from GameGulf’s index: **historical dip** near **€0.99** (Fra
 | Italy | USD 2.33 | €9.99 |
 | Portugal | USD 2.33 | €9.99 |
 | United Kingdom | USD 2.41 | £8.99 |
-| Brazil | USD 10.00 | R$50.95 |
+| Brazil | USD 9.99 | R$50.95 |
 | United States | USD 10.01 | $9.99 |
 | Spain | USD 11.69 | €9.99 |
 

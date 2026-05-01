@@ -35,7 +35,7 @@ consensusPraise: Grandes set-pieces Wonder, niveles claros, coop accesible.
 mainFriction: >-
   Menos horas que un JRPG al mismo precio — el valor es densidad y
   rejugabilidad.
-timeFit:  ~10 h historia, ~14 h extras, ~20 h completion.
+timeFit: ~10 h historia, ~14 h extras, ~20 h completion.
 fitLabel: Sesiones cortas, coop en sofá y acabado Nintendo.
 timingNote: >-
   Usa el ancla Japón como referencia — el historial de grandes rebajas es
@@ -49,7 +49,7 @@ takeaway: >-
 playStyle: >-
   Set-pieces Wonder, builds de chapas, modos Yoshi/Nabbit, coop cuatro jugadores
   en local, siluetas y standees online, flujo del Reino Flor.
-timeCommitment:  ~10 h ruta principal, ~14 h con extras, ~20 h completion.
+timeCommitment: ~10 h ruta principal, ~14 h con extras, ~20 h completion.
 playMode: Hasta cuatro en local; ayudas online y carreras.
 whyNow: >-
   Calidad fijada en 92 Metacritic — la duda es aceptar las listas digitales
@@ -153,7 +153,7 @@ cardPriceNativeCurrency: JPY
 
 Compra a precio lista si quieres un 2D Mario pulido con efectos Wonder y coop en el sofá — el first-party casi nunca se desploma fuerte aquí. Pásalo si solo persigues mínimos históricos u odias el 2D Mario.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €35.34.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €35.34.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price).
 
@@ -185,11 +185,11 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te gusta **Set-pieces Wonder, builds de chapas, modos Yoshi/Nabbit, coop cuatro jugadores en local, siluetas y standees online, flujo del Reino Flor.**
 - tu precio regional en GameGulf ya esta en rango objetivo
 - prefieres jugar ya en vez de esperar otra ventana de oferta
-- te cuadra el ritmo: HLTB ~10 h ruta principal, ~14 h con extras, ~20 h completion.
+- te cuadra el ritmo: Duración orientativa: ~10 h ruta principal, ~14 h con extras, ~20 h completion.
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Evítalo si solo compras en mínimos históricos profundos o detestas el

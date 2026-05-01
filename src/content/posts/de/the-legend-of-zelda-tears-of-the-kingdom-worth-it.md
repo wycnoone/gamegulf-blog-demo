@@ -40,7 +40,7 @@ mainFriction: ~30 fps mit Einbrüchen; Größe kann ohne klare Ziele überforder
 timeFit: ~59h Story, 117h+ Extras, ~248h Completion (-Durchschnitt).
 fitLabel: System-Spieler mit Zeit für wochenlange Solo-Trips.
 timingNote: >-
-  Kein Sale-Taktplan — Japan-Preis ist realistischer Tiefpreis-Anker; bei MSRP
+  Kein Sale-Taktplan — Japan-Preis ist realistischer Tiefpreis-Anker; bei Listenpreis
   Alert setzen.
 communityVibe: Ultrahand-Clips, Schrein-Skips, Tiefen-Routen bleiben aktiv.
 playtime: 59h Story · 117h+ Extras · ~248h Completion
@@ -108,11 +108,11 @@ faq:
       The Legend of Zelda: Tears of the Kingdom lohnt sich 2026, wenn du offene
       Welten, Physik-Basteln und lange Solo-Kampagnen magst. Stand April 2026
       starten indexierte Digitalpreise bei ~€42,95-Äquivalent (Japan) gegenüber
-      höherem US-MSRP — prüfe dein Konto im GameGulf-Live-Grid vor dem Kauf.
+      höherem US-Listenpreis — prüfe dein Konto im GameGulf-Live-Grid vor dem Kauf.
   - question: Wie lang dauert das Spiel?
     answer: >-
-      The Legend of Zelda: Tears of the Kingdom dauert laut  ~59h
-      Hauptstory, ~117h mit viel Extra, ~248h für Vollständige.
+      The Legend of Zelda: Tears of the Kingdom dauert laut  ~59h Hauptstory,
+      ~117h mit viel Extra, ~248h für Vollständige.
   - question: Wie läuft es auf der Switch?
     answer: >-
       The Legend of Zelda: Tears of the Kingdom zielt wie Breath auf ~30 fps mit
@@ -158,13 +158,15 @@ cardPriceNativeCurrency: JPY
 
 Bleibt ein Top-Grund für die Switch — kaufen wenn dein Preis passt, sonst Sale tracken.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €42.95.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €42.95.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price) gegen deine Region halten.
 
 ## Was kostet The Legend of Zelda: Tears of the Kingdom auf Nintendo Switch aktuell?
 
 Bleibt ein Top-Grund für die Switch — kaufen wenn dein Preis passt, sonst Sale tracken.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 42.95 | ¥7,900 |
@@ -192,7 +194,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Singleplayer.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Kurze lineare Kampagne oder offene To-dos nerven — dann eher nicht.

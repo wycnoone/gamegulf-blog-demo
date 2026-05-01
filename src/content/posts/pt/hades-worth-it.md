@@ -2,8 +2,8 @@
 title: Vale a pena comprar Hades no Nintendo Switch em 2026?
 description: >-
   Guia de compra — preços indexados em abril de 2026, distância de um mínimo
-  histórico rastreado no Brasil no fim de 2025, tempos , alvo de 60 fps e
-  quando comprar ou criar alerta de preço.
+  histórico rastreado no Brasil no fim de 2025, tempos , alvo de 60 fps e quando
+  comprar ou criar alerta de preço.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,7 +37,7 @@ bestFor: Sessões curtas com arco narrativo longo.
 avoidIf: Evite se repetição roguelite cansa ou precisa de campanha linear.
 consensusPraise: Jogabilidade, roteiro, arte e música seguem no topo indie do Switch.
 mainFriction: Modelos de sala e inimigos parecem mais repetidos depois do arco principal.
-timeFit:  ~23 h história, ~49 h extras, ~95 h completo.
+timeFit: ~23 h história, ~49 h extras, ~95 h completo.
 fitLabel: Jogadores que veem falha como combustível narrativo.
 timingNote: >-
   Se só importa preço, compare a sua linha da eShop com o Japão indexado e a
@@ -52,8 +52,8 @@ playStyle: >-
   Hack and slash isométrico, seis armas com aspectos, bênçãos olímpicas, espelho
   noturno de meta-progressão.
 timeCommitment: >-
-  Agregados : ~23 h foco na história, ~49 h com extras, ~95 h
-  complecionista; cada tentativa costuma levar 20–40 minutos.
+  Agregados : ~23 h foco na história, ~49 h com extras, ~95 h complecionista;
+  cada tentativa costuma levar 20–40 minutos.
 playMode: Um jogador.
 whyNow: >-
   Qualidade está dada; falta ver se a sua linha regional encaixa na âncora
@@ -185,7 +185,7 @@ cardPriceNativeCurrency: JPY
 
 Hades continua fácil de recomendar — trate o preço de abril de 2026 como varejo puxado pelo Japão, não como o mínimo histórico rastreado.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €15.22.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €15.22.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price).
 
@@ -225,7 +225,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: 23 h história · 49 h+ extras · ~95 h completo
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se repetição roguelite cansa ou precisa de campanha linear.

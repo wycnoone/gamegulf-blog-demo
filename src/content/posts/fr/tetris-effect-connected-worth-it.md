@@ -181,7 +181,7 @@ cardPriceNativeCurrency: HKD
 
 Tetris® Effect: Connected garde son statut — prix d’avril 2026 = « retail quali », pas le plancher historique, sauf si vous êtes déjà en promo.
 
-Signal discount/sale: les creux historiques indexés restent vers **€9.61** à Hong Kong (**2025-06-09** et rappel **2025-12-17**) — l’index actuel démarre plutôt vers **€19.22** sur HK$176.
+Signal promo: les creux historiques indexés restent vers **€9.61** à Hong Kong (**2025-06-09** et rappel **2025-12-17**) — l’index actuel démarre plutôt vers **€19.22** sur HK$176, donc la remise n’est pas encore au niveau du plus bas historique.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price).
 
@@ -221,7 +221,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo, multijoueur local, coop/versus en ligne.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Tetris minimaliste sans effets — passez votre chemin.

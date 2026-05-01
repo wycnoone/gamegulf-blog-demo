@@ -141,7 +141,7 @@ priceRows:
 cardPriceEur: 25.66
 cardPriceRegionCode: US
 cardPriceRegion: United States
-cardPrice: USD 30.04
+cardPrice: USD 30.03
 cardPriceNative: $29.99
 cardPriceNativeCurrency: USD
 ---
@@ -155,19 +155,19 @@ Keep **GameGulf** open on [this SKU's board](https://www.gamegulf.com/detail/1wH
 
 ## How much does Star Wars Pinball cost on Nintendo Switch right now?
 
-**Storefront math changes** — the regional table below mirrors **GameGulf** rows stored in frontmatter. Always line it up with [gamegulf.com](https://www.gamegulf.com) for the account you actually use.
+**Storefront math changes** — the regional table below mirrors **GameGulf** rows stored in price snapshot. Always line it up with [gamegulf.com](https://www.gamegulf.com) for the account you actually use.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| United States | USD 30.04 | $29.99 |
-| Hong Kong | USD 30.44 | HK$238 |
-| Japan | USD 30.46 | ¥4,818 |
-| Germany | USD 35.11 | €29.99 |
-| Spain | USD 35.11 | €29.99 |
-| France | USD 35.11 | €29.99 |
-| Italy | USD 35.11 | €29.99 |
-| Portugal | USD 35.11 | €29.99 |
+| United States | USD 30.03 | $29.99 |
+| Hong Kong | USD 30.43 | HK$238 |
+| Japan | USD 30.45 | ¥4,818 |
+| Germany | USD 35.09 | €29.99 |
+| Spain | USD 35.09 | €29.99 |
+| France | USD 35.09 | €29.99 |
+| Italy | USD 35.09 | €29.99 |
+| Portugal | USD 35.09 | €29.99 |
 
 ## What kind of game is Star Wars Pinball, really?
 

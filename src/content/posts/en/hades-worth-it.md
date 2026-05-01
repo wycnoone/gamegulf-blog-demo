@@ -2,8 +2,8 @@
 title: Is Hades worth buying on Nintendo Switch in 2026?
 description: >-
   A Switch buying guide for Hades — April 2026 indexed eShop rows, tracked
-  discount history vs today’s Japan-led pricing, runtimes, performance, and
-  who should buy now versus set an alert.
+  discount history vs today’s Japan-led pricing, runtimes, performance, and who
+  should buy now versus set an alert.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -123,9 +123,9 @@ faq:
   - question: How long does Hades take to beat?
     answer: >-
       Hades averages about 23 hours for a main-story focus, roughly 49 hours
-      with substantial extras, and near 95 hours for completionist goals
-      in typical community hour spreads — individual escape attempts
-      usually land between 20 and 40 minutes.
+      with substantial extras, and near 95 hours for completionist goals in
+      typical community hour spreads — individual escape attempts usually land
+      between 20 and 40 minutes.
   - question: How does Hades run on Nintendo Switch?
     answer: >-
       Hades targets 60 fps on Switch in both docked and handheld modes with a
@@ -179,7 +179,7 @@ priceRows:
 cardPriceEur: 15.22
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 17.83
+cardPrice: USD 17.81
 cardPriceNative: ¥2,800
 cardPriceNativeCurrency: JPY
 ---
@@ -200,14 +200,14 @@ If you only care about price, compare your eShop row to Japan and the 2025 Brazi
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 17.82 | ¥2,800 |
+| Japan | USD 17.81 | ¥2,800 |
 | Brazil | USD 18.20 | R$92.46 |
-| United States | USD 25.39 | $24.99 |
-| Germany | USD 29.25 | €24.99 |
-| Spain | USD 29.25 | €24.99 |
-| France | USD 29.25 | €24.99 |
-| Italy | USD 29.25 | €24.99 |
-| Portugal | USD 29.25 | €24.99 |
+| United States | USD 25.38 | $24.99 |
+| Germany | USD 29.24 | €24.99 |
+| Spain | USD 29.24 | €24.99 |
+| France | USD 29.24 | €24.99 |
+| Italy | USD 29.24 | €24.99 |
+| Portugal | USD 29.24 | €24.99 |
 
 ## What kind of game is Hades?
 

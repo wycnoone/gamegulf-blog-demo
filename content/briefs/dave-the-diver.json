@@ -2,10 +2,11 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/2G7jYyj3ED2",
     "game_id": "2G7jYyj3ED2",
-    "extracted_at": "2026-04-26",
+    "extracted_at": "2026-05-01",
     "extractor_version": "2.0.0",
     "sources": [
-      "gamegulf"
+      "gamegulf",
+      "steam"
     ]
   },
   "game": {
@@ -28,7 +29,7 @@
       "Action"
     ],
     "release_date": "2023-10-26",
-    "developer": null,
+    "developer": "MINTROCKET",
     "publisher": "Mintrocket",
     "metacritic": 88
   },
@@ -163,15 +164,7 @@
       "trend": [
         {
           "period": "30 D",
-          "entries": [
-            {
-              "date": "2026-03-31",
-              "country_code": "HK",
-              "value": 9.17,
-              "currency": "EUR",
-              "country": "Hong Kong SAR China"
-            }
-          ]
+          "entries": []
         },
         {
           "period": "180 D",
@@ -443,7 +436,7 @@
       "title": "Dreamscaper",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
       "metacritic": 82,
-      "price": 6.17,
+      "price": 6.12,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -462,11 +455,11 @@
       "title": "Moonlighter",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516616208918895.jpeg",
       "metacritic": 83,
-      "price": 11.91,
-      "discount_price": 1.75,
+      "price": 11.83,
+      "discount_price": 1.74,
       "discount_rate": 85,
       "discount_tag": "LowPrice",
-      "discount_end": "19 days",
+      "discount_end": "14 days",
       "release_date": "2021-02-04",
       "categories": [
         "Action",
@@ -485,7 +478,7 @@
       "discount_price": 4.99,
       "discount_rate": 75,
       "discount_tag": "LowPrice",
-      "discount_end": "7 days",
+      "discount_end": "2 days",
       "release_date": "2021-04-15",
       "categories": [
         "Adventure",
@@ -502,7 +495,7 @@
       "title": "Magical Bakery",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506592116315606.jpeg",
       "metacritic": null,
-      "price": 2.47,
+      "price": 2.45,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -523,7 +516,7 @@
       "title": "The Alpha Wolf",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507449870010903.jpeg",
       "metacritic": null,
-      "price": 4.01,
+      "price": 3.98,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -542,7 +535,7 @@
       "title": "Alba: A Wildlife Adventure",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513225778215423.jpeg",
       "metacritic": 80,
-      "price": 1.36,
+      "price": 1.35,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -565,7 +558,7 @@
       "discount_price": 4.99,
       "discount_rate": 80,
       "discount_tag": "Normal",
-      "discount_end": "9 days",
+      "discount_end": "4 days",
       "release_date": "2020-10-09",
       "categories": [
         "Action",
@@ -582,7 +575,7 @@
       "title": "Garden Story",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512850314116319.jpeg",
       "metacritic": 73,
-      "price": 1.11,
+      "price": 1.1,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -601,7 +594,7 @@
       "title": "Wolf Simulator: RPG Survival Animal Battle",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509488093411940.jpeg",
       "metacritic": null,
-      "price": 1.23,
+      "price": 1.22,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -628,7 +621,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T17:11:48+00:00"
+      "priceValidUntil": "2026-06-01T17:14:40+00:00"
     },
     {
       "@type": "Offer",
@@ -641,7 +634,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T17:11:48+00:00"
+      "priceValidUntil": "2026-06-01T17:14:40+00:00"
     },
     {
       "@type": "Offer",
@@ -654,7 +647,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T17:11:48+00:00"
+      "priceValidUntil": "2026-06-01T17:14:40+00:00"
     },
     {
       "@type": "Offer",
@@ -667,7 +660,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T17:11:48+00:00"
+      "priceValidUntil": "2026-06-01T17:14:40+00:00"
     },
     {
       "@type": "Offer",
@@ -680,7 +673,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T17:11:48+00:00"
+      "priceValidUntil": "2026-06-01T17:14:40+00:00"
     },
     {
       "@type": "Offer",
@@ -693,7 +686,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T17:11:48+00:00"
+      "priceValidUntil": "2026-06-01T17:14:40+00:00"
     },
     {
       "@type": "Offer",
@@ -706,7 +699,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T17:11:48+00:00"
+      "priceValidUntil": "2026-06-01T17:14:40+00:00"
     }
   ],
   "price_analytics": {
@@ -753,7 +746,7 @@
           "end": "2026-03-31"
         }
       ],
-      "days_since_last_discount": 26,
+      "days_since_last_discount": 31,
       "last_discount": {
         "date": "2026-03-31",
         "price_eur": 9.17,
@@ -802,7 +795,48 @@
     "membership": "https://www.gamegulf.com/pricing"
   },
   "enrichment": {
-    "steam": null,
+    "steam": {
+      "steam_app_id": 1868140,
+      "name": "DAVE THE DIVER",
+      "developer": [
+        "MINTROCKET"
+      ],
+      "publisher": [
+        "MINTROCKET"
+      ],
+      "metacritic_score": 90,
+      "metacritic_url": "https://www.metacritic.com/game/pc/dave-the-diver?ftag=MCD-06-10aaa1f",
+      "categories": [
+        "Single-player",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Trading Cards",
+        "Steam Cloud",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual",
+        "RPG",
+        "Simulation"
+      ],
+      "steam_price": "$10.99",
+      "total_recommendations": 132092,
+      "short_description": "DAVE THE DIVER is a casual, singleplayer adventure RPG featuring deep-sea exploration and fishing during the day and sushi restaurant management at night. Join Dave and his quirky friends as they seek to uncover the secrets of the mysterious Blue Hole.",
+      "supported_languages": "English, Korean, Japanese, Simplified Chinese, German, Spanish - Spain, Traditional Chinese, French, Portuguese - Brazil, Italian, Russian",
+      "platforms": {
+        "windows": true,
+        "mac": true,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 144406,
+        "total_negative": 4837,
+        "total_reviews": 149243,
+        "score_description": "Overwhelmingly Positive",
+        "positive_percent": 97
+      }
+    },
     "hltb": null
   }
 }

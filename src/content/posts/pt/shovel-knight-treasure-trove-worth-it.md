@@ -52,9 +52,9 @@ communityVibe: Pogo com pá, campanhas e chefes 8-bit vendem o pacote
 playtime: ~25 h campanha, 36 h extras, ~74 h 100%
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Shovel Knight: Treasure Trove é antes uma decisão de gosto: ciclo ação,
-  aventura e plataforma, escopo e sinal 91 Metacritic; o preço só define o
-  melhor momento de compra.
+  Shovel Knight: Treasure Trove combina com quem quer ação, aventura e
+  plataforma — Shovel Knight: Treasure; As regiões mais baratas lideram a tabela
+  e então decida comprar agora ou esperar.
 playStyle: ação, aventura e plataforma
 timeCommitment: ~25 h campanha, 36 h extras, ~74 h 100%
 playMode: Solo por padrão, salvo se a loja indicar multijogador.

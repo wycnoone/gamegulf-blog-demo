@@ -158,7 +158,7 @@ cardPriceNativeCurrency: JPY
 
 ## Wie viel kostet Monster Boy and the Cursed Kingdom aktuell auf der Switch?
 
-**Preise springen** — die Tabelle spiegelt die synchronisierten **GameGulf**-Zeilen aus dem Frontmatter. Abgleich mit [gamegulf.com](https://www.gamegulf.com) nicht vergessen.
+**Preise springen** — die Tabelle spiegelt die synchronisierten **GameGulf**-Zeilen aus dem Preissnapshot. Abgleich mit [gamegulf.com](https://www.gamegulf.com) nicht vergessen.
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |

@@ -54,8 +54,8 @@ playStyle: >-
   First-person exploration, light interaction puzzles, genre-shifting vignettes,
   and diegetic stories tied to each Finch room.
 timeCommitment: >-
-  Typical player reports land near two hours for a straight path, about three with
-  extras, and three for completionists hunting every interactable.
+  Typical player reports land near two hours for a straight path, about three
+  with extras, and three for completionists hunting every interactable.
 playMode: Single-player.
 whyNow: >-
   The game is a finished classic — the only volatile piece is whether your
@@ -210,11 +210,11 @@ Compare your row to the €4.99 Spain anchor and the €2.86 Brazil historic pri
 | Spain | USD 5.84 | €4.99 |
 | Brazil | USD 13.59 | R$69.00 |
 | Japan | USD 14.00 | ¥2,200 |
-| United States | USD 20.31 | $19.99 |
-| Germany | USD 23.40 | €19.99 |
-| France | USD 23.40 | €19.99 |
-| Italy | USD 23.40 | €19.99 |
-| United Kingdom | USD 24.17 | £17.99 |
+| United States | USD 20.30 | $19.99 |
+| Germany | USD 23.39 | €19.99 |
+| France | USD 23.39 | €19.99 |
+| Italy | USD 23.39 | €19.99 |
+| United Kingdom | USD 24.16 | £17.99 |
 
 ## What kind of game is What Remains of Edith Finch?
 

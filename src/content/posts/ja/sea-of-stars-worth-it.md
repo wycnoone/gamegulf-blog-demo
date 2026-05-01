@@ -1,8 +1,8 @@
 ---
 title: 2026年、Switch版『シー・オブ・スターズ』は買いか？
 description: >-
-  2026年4月の購入メモ：Metacritic 90点帯のターン制＋ジャスト入力JRPG、ブラジル行が
-  指数上ほぼ史安、GameGulf の表で欧州MSRP級行との差を確認してから決める。
+  2026年4月の購入メモ：Metacritic 90点帯のターン制＋ジャスト入力JRPG、ブラジル行が 指数上ほぼ史安、GameGulf
+  の表で欧州定価級行との差を確認してから決める。
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -14,53 +14,37 @@ hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8分で読める
 decision: >-
-  好みとアカウント次第：シー・オブ・スターズは Metacritic 90点帯のジャスト入力寄り
-  ターン制JRPGで、ブリーフの Switch 分析は at_historical_low。ブラジル行は指数
-  €16.77級のグローバル安値近傍、EU主要ストアは €33.99級のまま並ぶ。
-priceSignal: >-
-  ブラジル指数安値帯と欧州ヘッドライン価格の差は巨大。実際に課金する eShop を先に確定。
+  好みとアカウント次第：シー・オブ・スターズは Metacritic 90点帯のジャスト入力寄り ターン制JRPGで、ブリーフの Switch 分析は
+  at_historical_low。ブラジル行は指数 €16.77級のグローバル安値近傍、EU主要ストアは €33.99級のまま並ぶ。
+priceSignal: ブラジル指数安値帯と欧州ヘッドライン価格の差は巨大。実際に課金する eShop を先に確定。
 heroStat: Metacritic 90
-heroNote: >-
-  シー・オブ・スターズ——ソルスティスの子と蝕魔法、ジャスト増幅とコンボ、泳ぎ登攀の探索、
-  船旅・釣り・料理の癒しパート。
+heroNote: シー・オブ・スターズ——ソルスティスの子と蝕魔法、ジャスト増幅とコンボ、泳ぎ登攀の探索、 船旅・釣り・料理の癒しパート。
 badge: いま買い
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: >-
-  MC90 シー・オブ・スターズ; BR ~€16.77; ブリーフ at_historical_lowで欧州は高行。
-whatItIs: >-
-  ドット絵ターンRPG：ジャスト、コンボ、船移動、二人協力も選択可。
-bestFor: >-
-  スナキザ級探索と16bit演出が欲しいが、ガチャ日課は嫌な人。
+listingTakeaway: MC90 シー・オブ・スターズ; BR ~€16.77; ブリーフ at_historical_lowで欧州は高行。
+whatItIs: ドット絵ターンRPG：ジャスト、コンボ、船移動、二人協力も選択可。
+bestFor: スナキザ級探索と16bit演出が欲しいが、ガチャ日課は嫌な人。
 avoidIf: 常時アクション主体の戦闘しか受け付けない——ここはターン進行。
 consensusPraise: ジャスト入力で雑魚戦が眠らず、リズム練習になる。
-mainFriction: >-
-  ギミック部屋や戻り道が中盤のテンポを削りやすい。
+mainFriction: ギミック部屋や戻り道が中盤のテンポを削りやすい。
 timeFit: 本編約28時間、寄り道込み35時間超、回収想定は40時間超。
 fitLabel: パズルゲートを許容し、深さ優先ならハマる。
 timingNote: セール周期は更新される——決済前に GameGulf を再読込。
 communityVibe: ジャスト快適JRPG——ギミックで足止めされるまで。
 playtime: 約28時間メイン・約35時間＋エクストラ・約44時間コンプ寄り
 reviewSignal: Metacritic 90
-takeaway: >-
-  好みが合えば高品質即決級。2026年春はブラジル行が異常に甘く、欧州定価級は待ち合わせ。
-playStyle: >-
-  ターン制パーティ戦、ダンジョンギミック、マップ探索に船パート。
-timeCommitment: >-
-  本編は長めの週末数回、寄り道まで抱えると中ボリューム級。
-playMode: >-
-  シングル中心、協力プレイで操作を分担して探索も可。
-whyNow: >-
-  ローンチ後パッチとDLC議論は落ち着き、「完成パッケージ」評価に向く。
-currentDeal: >-
-  指数ではブラジル行が 2026-03-26 メモの €16.77級安値に張り付き、複数EU店は €33.99 ネイティブ。
-nearHistoricalLow: >-
-  アナリティクスは現在のブラジル行を史安扱い。「近いだけ」ではない。
-salePattern: >-
-  直近1年で4回のセールを記録、平均ディスカウント価格は指数 ~€23.69。
+takeaway: 好みが合えば高品質即決級。2026年春はブラジル行が異常に甘く、欧州定価級は待ち合わせ。
+playStyle: ターン制パーティ戦、ダンジョンギミック、マップ探索に船パート。
+timeCommitment: 本編は長めの週末数回、寄り道まで抱えると中ボリューム級。
+playMode: シングル中心、協力プレイで操作を分担して探索も可。
+whyNow: ローンチ後パッチとDLC議論は落ち着き、「完成パッケージ」評価に向く。
+currentDeal: 指数ではブラジル行が 2026-03-26 メモの €16.77級安値に張り付き、複数EU店は €33.99 ネイティブ。
+nearHistoricalLow: アナリティクスは現在のブラジル行を史安扱い。「近いだけ」ではない。
+salePattern: 直近1年で4回のセールを記録、平均ディスカウント価格は指数 ~€23.69。
 priceRecommendation: buy
 quickFilters:
   - great_on_sale
@@ -87,8 +71,7 @@ communityMemes:
   - ソルスティス兄妹
   - ジャスト不安
   - 釣り脱線
-tldr: >-
-  シー・オブ・スターズ——Metacritic 90のJRPG; GameGulf 2026年4月はブラジルが史安圏、欧州は高止まり。
+tldr: シー・オブ・スターズ——Metacritic 90のJRPG; GameGulf 2026年4月はブラジルが史安圏、欧州は高止まり。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price
 gameHref: https://www.gamegulf.com/detail/iG1qRTPsPfn
@@ -102,13 +85,48 @@ faq:
       シー・オブ・スターズは買いになりやすい。Metacritic 90点帯のジャスト入りターン制JRPGで、
       探索ギミックや船パートも許容できるなら。メニュー戦闘が地雷ならスキップ検討。
   - question: シー・オブ・スターズのプレイ時間は？
-    answer: >-
-      シー・オブ・スターズ——本線だけなら約28時間、重要寄り道込みで35時間超、回収ルートは40時間超
-      を見ておくと安心。
+    answer: シー・オブ・スターズ——本線だけなら約28時間、重要寄り道込みで35時間超、回収ルートは40時間超 を見ておくと安心。
   - question: シー・オブ・スターズでつまずきやすいのは？
-    answer: >-
-      シー・オブ・スターズ——環境パズルと戻り込みがテンポを削りやすい。戦闘は慣れれば軽めで、
-      停滞の主因はマップ設計側になりがち。
+    answer: シー・オブ・スターズ——環境パズルと戻り込みがテンポを削りやすい。戦闘は慣れれば軽めで、 停滞の主因はマップ設計側になりがち。
+priceRows:
+  - regionCode: BR
+    eurPrice: 16.77
+    nativePrice: R$99.99
+    nativeCurrency: BRL
+  - regionCode: JP
+    eurPrice: 23.76
+    nativePrice: ¥4,400
+    nativeCurrency: JPY
+  - regionCode: HK
+    eurPrice: 25.12
+    nativePrice: HK$230
+    nativeCurrency: HKD
+  - regionCode: US
+    eurPrice: 29.93
+    nativePrice: $34.99
+    nativeCurrency: USD
+  - regionCode: GB
+    eurPrice: 33.91
+    nativePrice: £29.5
+    nativeCurrency: GBP
+  - regionCode: DE
+    eurPrice: 33.99
+    nativePrice: €33.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 33.99
+    nativePrice: €33.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 33.99
+    nativePrice: €33.99
+    nativeCurrency: EUR
+cardPriceEur: 16.77
+cardPriceRegionCode: BR
+cardPriceRegion: ブラジル
+cardPrice: JPY 3072
+cardPriceNative: R$99.99
+cardPriceNativeCurrency: BRL
 ---
 
 ## クイック結論
@@ -119,7 +137,19 @@ faq:
 
 ## Nintendo Switch版の価格はいま幾ら？
 
-**このSKUは地域差が極端**：本文の **`priceRows`** 由来の表が **南米安値帯** と **欧州ヘッドライン** を並べる。**最後の確認**は **[GameGulfのグリッド](https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price)** 。為替・税・**セール**旬で実質は揺れる。
+**このSKUは地域差が極端**：本文の **価格スナップショット** 由来の表が **南米安値帯** と **欧州ヘッドライン** を並べる。**最後の確認**は **[GameGulfのグリッド](https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price)** 。為替・税・**セール**旬で実質は揺れる。
+
+
+| 地域 | 価格（円換算） | 現地価格 |
+| --- | ---: | ---: |
+| ブラジル | JPY 3072 | R$99.99 |
+| 日本 | JPY 4353 | ¥4,400 |
+| 香港 | JPY 4602 | HK$230 |
+| アメリカ合衆国 | JPY 5483 | $34.99 |
+| イギリス | JPY 6213 | £29.5 |
+| ドイツ | JPY 6227 | €33.99 |
+| スペイン | JPY 6227 | €33.99 |
+| フランス | JPY 6227 | €33.99 |
 
 **ディスカウント履歴（指数ベース）：** 直近1年に **4回**の **セール** を記録し、**2026-03-26** の **ブラジル** 行は **51%** の **値下げ** で **€16.77 換算帯**まで沈み、ここがモデルが認める **最安値**。**平均ディスカウント価格**は **€23.69** 付近、前回の **プロモ** から **約34日**。**いま表示** がその **ブラジル安値** にいまだ接触なら **即買い合理的**；**欧州 €33.99級** しか許せないなら **アラート**で待て。**GameGulf** を使うのはその差を数字で見せるため。
 

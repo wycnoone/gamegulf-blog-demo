@@ -11,7 +11,7 @@ gameTitle: Shantae and the Pirate's Curse
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 min read
 decision: >-
@@ -144,7 +144,7 @@ priceRows:
 cardPriceEur: 16.22
 cardPriceRegionCode: DE
 cardPriceRegion: Germany
-cardPrice: USD 18.99
+cardPrice: USD 18.98
 cardPriceNative: €16.22
 cardPriceNativeCurrency: EUR
 playtime: "Estimated: ~5–15 min runs; replay-driven"
@@ -157,18 +157,18 @@ Track **[GameGulf live rows](https://www.gamegulf.com/detail/2FXuQLdeecV#currenc
 
 ## How much does Shantae and the Pirate's Curse cost on Nintendo Switch right now?
 
-**Digital still cleaves by territory** — the indexed **cheapest band** clusters in **€16.22-class euro markets** on **GameGulf**, while **North America** and **Brazil** step higher in converted terms and **Japan** is the pricing outlier on this snapshot. The markdown table mirrors **`priceRows`** we sync from the same brief powering **gamegulf.com** — **confirm native currency** before you click buy.
+**Digital still cleaves by territory** — the indexed **cheapest band** clusters in **€16.22-class euro markets** on **GameGulf**, while **North America** and **Brazil** step higher in converted terms and **Japan** is the pricing outlier on this snapshot. The markdown table mirrors **price snapshot** we sync from the same brief powering **gamegulf.com** — **confirm native currency** before you click buy.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Germany | USD 18.99 | €16.22 |
-| Spain | USD 18.99 | €16.22 |
-| France | USD 18.99 | €16.22 |
-| Italy | USD 18.99 | €16.22 |
-| Portugal | USD 18.99 | €16.22 |
-| United Kingdom | USD 19.63 | £14.59 |
-| United States | USD 20.02 | $19.99 |
+| Germany | USD 18.98 | €16.22 |
+| Spain | USD 18.98 | €16.22 |
+| France | USD 18.98 | €16.22 |
+| Italy | USD 18.98 | €16.22 |
+| Portugal | USD 18.98 | €16.22 |
+| United Kingdom | USD 19.62 | £14.59 |
+| United States | USD 20.01 | $19.99 |
 | Brazil | USD 20.61 | R$104.99 |
 
 ## What kind of game is Shantae and the Pirate's Curse, really?

@@ -2,8 +2,8 @@
 title: Lohnt sich Metroid Dread 2026 noch auf der Nintendo Switch?
 description: >-
   Kaufberater Switch — indexierte eShop-Preise April 2026,
-  Nintendo-First-Party-Rabatt-Rhythmus, -Zeiten, EMMI-Spannung und
-  Parry-Kampf, jetzt kaufen oder Preisalarm.
+  Nintendo-First-Party-Rabatt-Rhythmus, -Zeiten, EMMI-Spannung und Parry-Kampf,
+  jetzt kaufen oder Preisalarm.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -35,7 +35,7 @@ bestFor: Spieler mit knackiger Exploration und Pattern-Lernen.
 avoidIf: Meiden, wenn EMMI-Jagden und Boss-Wipes dich stressen.
 consensusPraise: Steuerung, Lesbarkeit und EMMI-Drohung bleiben Switch-Maßstab.
 mainFriction: Schwierigkeitsspitzen und EMMI ermüden „chill exploration“-Typen.
-timeFit:  ~9h Story, ~12h Extras, ~14h Completion (Community-Durchschnitt).
+timeFit: ~9h Story, ~12h Extras, ~14h Completion (Community-Durchschnitt).
 fitLabel: Für Spieler, die Rhythmus trainieren wollen, nicht gemütlich farmen.
 timingNote: Vergleiche dein eShop-Preis mit HK/JP-Ankern vor dem Vollzahlen.
 communityVibe: EMMI-Schritte — dauerhafter Ohrwurm
@@ -112,8 +112,8 @@ faq:
       — prüfe die Zeile deines Nintendo-Kontos vor dem Kauf.
   - question: Wie lange dauert Metroid Dread?
     answer: >-
-      Metroid Dread liegt laut -Durchschnitt bei ~9h Hauptstory, ~12h mit
-      Extras und ~14h Completion — EMMI und Bosse strecken das subjektive Tempo.
+      Metroid Dread liegt laut -Durchschnitt bei ~9h Hauptstory, ~12h mit Extras
+      und ~14h Completion — EMMI und Bosse strecken das subjektive Tempo.
   - question: Wie läuft Metroid Dread auf der Switch?
     answer: >-
       Metroid Dread zielt auf lesbare ~60 fps in Actionsequenzen, auch handheld
@@ -173,13 +173,15 @@ cardPriceNativeCurrency: HKD
 
 Metroid Dread bleibt eine Qualitätskauf für passende Spieler — Risiko ist regional.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €36.44.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €36.44.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) gegen deine Region halten.
 
 ## Was kostet Metroid Dread auf Nintendo Switch aktuell?
 
 Metroid Dread bleibt eine Qualitätskauf für passende Spieler — Risiko ist regional.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Hongkong | EUR 36.44 | HK$329 |
@@ -211,7 +213,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Singleplayer.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Meiden, wenn EMMI-Jagden und Boss-Wipes dich stressen.

@@ -185,13 +185,15 @@ cardPriceNativeCurrency: JPY
 
 Monster Hunter Rise lohnt sich 2026 weiterhin, und der aktuelle Preis stuetzt die Kaufempfehlung klar.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €4.33.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €4.33.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/lqa9TJHCgVE#currency-price) gegen deine Region halten.
 
 ## Was kostet Monster Hunter Rise auf Nintendo Switch aktuell?
 
 Monster Hunter Rise lohnt sich 2026 weiterhin, und der aktuelle Preis stuetzt die Kaufempfehlung klar.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 4.33 | ¥3,990 |
@@ -223,7 +225,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Einzelspieler und Online-Koop.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Nicht ideal fuer alle, die Grind und wiederholte Jagden hassen.

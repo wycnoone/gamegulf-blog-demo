@@ -37,7 +37,7 @@ bestFor: Quem quer um sandbox portátil para ficar meses jogando.
 avoidIf: Evite se você precisa de ritmo guiado, pouco menu ou coop como base.
 consensusPraise: Liberdade de exploração, volume pós-updates e escala ainda impressionam.
 mainFriction: Menus, inventário e grind podem esfriar o encanto no começo.
-timeFit:  ~32h história, 77h extras, 156h completista.
+timeFit: ~32h história, 77h extras, 156h completista.
 fitLabel: Para quem gosta de criar os próprios objetivos.
 timingNote: >-
   Este artigo julga apenas Nintendo Switch; outras plataformas ficam para a
@@ -52,8 +52,8 @@ playStyle: >-
   Explorar planetas, minerar recursos, melhorar nave e traje, erguer bases,
   negociar, seguir quests ou simplesmente vagar.
 timeCommitment: >-
-  coloca a campanha em ~32h, o main-plus em 77h e a completista em ~156h. É
-  jogo de residência, não de fim de semana.
+  coloca a campanha em ~32h, o main-plus em 77h e a completista em ~156h. É jogo
+  de residência, não de fim de semana.
 playMode: Um jogador no Nintendo Switch.
 whyNow: >-
   A linha Nintendo Switch voltou ao piso rastreado e isso tira boa parte do
@@ -181,7 +181,7 @@ cardPriceNativeCurrency: JPY
 
 No Man's Sky fica fácil de recomendar em Nintendo Switch a €13,07; outras plataformas você compara depois no GameGulf.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €13.07.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €13.07.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price).
 
@@ -221,7 +221,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: 32h história · 77h+ extras · ~156h completista
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se você precisa de ritmo guiado, pouco menu ou coop como base.

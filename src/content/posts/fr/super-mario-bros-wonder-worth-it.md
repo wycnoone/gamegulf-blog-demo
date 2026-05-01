@@ -34,7 +34,7 @@ bestFor: Familles et plateforme courte avec coop.
 avoidIf: À éviter si tu ne vise que les soldes historiques ou si tu détestes le
 consensusPraise: Set-pieces Wonder solides, niveaux lisibles, coop accessible.
 mainFriction: Moins long qu’un JRPG au même prix — la valeur est la densité et le replay.
-timeFit:  ~10 h main, ~14 h extras, ~20 h complétion.
+timeFit: ~10 h main, ~14 h extras, ~20 h complétion.
 fitLabel: Sessions courtes, coop canapé et finition Nintendo.
 timingNote: >-
   Utilise l’ancre Japon comme repère — l’historique de grosses promos est mince
@@ -48,7 +48,7 @@ takeaway: >-
 playStyle: >-
   Set-pieces Wonder, builds de badges, modes Yoshi/Nabbit, coop quatre joueurs
   en local, silhouettes et standees en ligne, flow du Royaume Fleuri.
-timeCommitment:  ~10 h fil principal, ~14 h avec extras, ~20 h complétion.
+timeCommitment: ~10 h fil principal, ~14 h avec extras, ~20 h complétion.
 playMode: Jusqu’à quatre en local ; aides en ligne et courses.
 whyNow: >-
   Qualité verrouillée à 92 Metacritic — la question est d’accepter les listes
@@ -155,7 +155,7 @@ cardPriceNativeCurrency: JPY
 
 Achat au prix catalogue logique si tu veux du 2D Mario soigné avec effets Wonder et du coop canapé — le first-party se rabaisse rarement fort ici. Passe ton tour si tu ne chasses que les minima historiques ou si le 2D Mario te lasse.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €35.34.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €35.34.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price).
 
@@ -188,11 +188,11 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - tu apprecies **Set-pieces Wonder, builds de badges, modes Yoshi/Nabbit, coop quatre joueurs en local, silhouettes et standees en ligne, flow du Royaume Fleuri.**
 - ton prix regional sur GameGulf est deja dans ta zone cible
 - tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
-- le format te convient: HLTB ~10 h fil principal, ~14 h avec extras, ~20 h complétion.
+- le format te convient: Durée indicative : ~10 h fil principal, ~14 h avec extras, ~20 h complétion.
 
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - À éviter si tu ne vise que les soldes historiques ou si tu détestes le

@@ -80,11 +80,12 @@ communityMemes:
   - speedrun de formas
   - debate Wonder Boy
   - flex da OST
-  - choque do MSRP
+  - choque do preço cheio
   - salto de região
   - meme do backtrack
 tldr: >-
-  Monster Boy and the Cursed Kingdom — 86 Metacritic; GameGulf mostra JP no menor indexado com promoções ativas — compre se combina com você.
+  Monster Boy and the Cursed Kingdom — 86 Metacritic; GameGulf mostra JP no
+  menor indexado com promoções ativas — compre se combina com você.
 faq:
   - question: Vale a pena Monster Boy and the Cursed Kingdom no Switch em 2026?
     answer: >-
@@ -153,7 +154,7 @@ A **GameGulf** mantém este SKU num [painel multi-região](https://www.gamegulf.
 
 ## Quanto custa Monster Boy and the Cursed Kingdom no Nintendo Switch agora?
 
-**Números mudam rápido** — a tabela reflete as linhas **GameGulf** do frontmatter. Cruze sempre com [gamegulf.com](https://www.gamegulf.com).
+**Números mudam rápido** — a tabela reflete as linhas **GameGulf** do recorte de preços. Cruze sempre com [gamegulf.com](https://www.gamegulf.com).
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |

@@ -14,7 +14,7 @@ readingTime: 8 min de lectura
 decision: >-
   Compra si quieres el estándar kart con Metacritic ~92 y noches de sofá u
   online estables; compara tu eShop con el ancla Japón / Hong Kong antes de
-  pagar MSRP alto.
+  pagar precio de lista alto.
 priceSignal: >-
   Abril 2026 deja Japón cerca de ~€35,76 equivalentes (¥6.578) y Hong Kong un
   poco por encima — brecha típica de un hit multijugador evergreen.
@@ -36,7 +36,7 @@ bestFor: Hogares y grupos que quieren sofá u online sin complicarse.
 avoidIf: Pásalo si solo buscas carreras narrativas en solitario.
 consensusPraise: Remix de circuitos, tensión de ítems y 60 fps siguen marcando el género.
 mainFriction: El progreso es maestría, no historia — cansa si odias repetir.
-timeFit:  ~6 h main, ~23 h extras, ~54 h completionist (agregados).
+timeFit: ~6 h main, ~23 h extras, ~54 h completionist (agregados).
 fitLabel: Jugadores de “una copa más” que quieren un instal permanente.
 timingNote: Si tu fila eShop iguala Japón, compra; si no, abre la tabla multi-región.
 communityVibe: Diplomacia del caparazón azul — la amistad a prueba semanal
@@ -48,7 +48,7 @@ takeaway: >-
 playStyle: >-
   Copas GP, VS, batallas globo, doble objeto, asistencias para niños y
   matchmaking online.
-timeCommitment:  corto en “historia”, largo si persigues oros y temporadas online.
+timeCommitment: corto en “historia”, largo si persigues oros y temporadas online.
 playMode: Multijugador local (split / inalámbrico) y online; solo vs CPU.
 whyNow: En 2026 el valor es social — mira si tu gente aún corre.
 currentDeal: >-
@@ -173,7 +173,7 @@ cardPriceNativeCurrency: JPY
 
 Mario Kart 8 Deluxe sigue siendo el valor seguro multijugador en Switch — compra cuando tu región muestre un precio razonable.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €35.76.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €35.76.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price).
 
@@ -208,11 +208,11 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te gusta **Hogares y grupos que quieren sofá u online sin complicarse.**
 - tu precio regional en GameGulf ya esta en rango objetivo
 - prefieres jugar ya en vez de esperar otra ventana de oferta
-- te cuadra el ritmo: HLTB corto en “historia”, largo si persigues oros y temporadas online.
+- te cuadra el ritmo: Duración orientativa: corto en “historia”, largo si persigues oros y temporadas online.
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Pásalo si solo buscas carreras narrativas en solitario.

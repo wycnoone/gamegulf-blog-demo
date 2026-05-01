@@ -154,7 +154,7 @@ Index-Historie : Tiefststand rund **0,99 €** in Frankreich (**04.06.2025**), *
 
 ## Was kostet The Seven Chambers — aktueller Switch-Preis?
 
-Die Tabelle spiegelt die `priceRows` ; EUR-Äquivalente folgen GameGulf-Logik.
+Die Tabelle spiegelt die Preissnapshot ; EUR-Äquivalente folgen GameGulf-Logik.
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |

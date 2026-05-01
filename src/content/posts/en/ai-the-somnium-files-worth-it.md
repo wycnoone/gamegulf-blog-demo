@@ -161,7 +161,7 @@ Tracked **sale** math from GameGulf: **historical low** **€1.19** (Japan, digi
 
 ## How much does AI: THE SOMNIUM FILES cost on Nintendo Switch right now?
 
-**Regional pricing swings wildly** — the markdown table mirrors `priceRows` and highlights why JP accounts dominate chatter versus €19.99 EU shelves.
+**Regional pricing swings wildly** — the markdown table mirrors price snapshot and highlights why JP accounts dominate chatter versus €19.99 EU shelves.
 
 
 | Region | Price (USD equivalent) | Native price |
@@ -169,11 +169,11 @@ Tracked **sale** math from GameGulf: **historical low** **€1.19** (Japan, digi
 | Japan | USD 1.39 | €1.19 |
 | United States | USD 3.99 | $3.41 |
 | United Kingdom | USD 4.83 | £4.13 |
-| Hong Kong | USD 18.93 | HK$148 |
-| Germany | USD 23.40 | €19.99 |
-| Spain | USD 23.40 | €19.99 |
-| France | USD 23.40 | €19.99 |
-| Italy | USD 23.40 | €19.99 |
+| Hong Kong | USD 18.92 | HK$148 |
+| Germany | USD 23.39 | €19.99 |
+| Spain | USD 23.39 | €19.99 |
+| France | USD 23.39 | €19.99 |
+| Italy | USD 23.39 | €19.99 |
 
 ## What kind of game is AI: THE SOMNIUM FILES, really?
 

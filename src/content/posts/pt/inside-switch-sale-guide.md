@@ -50,8 +50,9 @@ communityVibe: Clima sem falas, som e puzzles tensos são o destaque
 playtime: ~4 h campanha, 4 h extras, ~5 h 100%
 reviewSignal: 91 Metacritic
 takeaway: >-
-  INSIDE é antes uma decisão de gosto: ciclo aventura, quebra-cabeça e ação,
-  escopo e sinal 91 Metacritic; o preço só define o melhor momento de compra.
+  INSIDE combina com quem quer aventura, quebra-cabeça e ação — INSIDE no
+  Nintendo Sw; As regiões mais baratas lideram a tabela e então decida comprar
+  agora ou esperar.
 playStyle: aventura, quebra-cabeça e ação
 timeCommitment: ~4 h campanha, 4 h extras, ~5 h 100%
 playMode: Solo por padrão, salvo se a loja indicar multijogador.

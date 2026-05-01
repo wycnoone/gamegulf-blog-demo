@@ -10,7 +10,7 @@ gameTitle: Shantae and the Pirate's Curse
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 min de lecture
 decision: >-
@@ -97,6 +97,45 @@ heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
 playtime: "Estimation : runs de ~5–15 min, rejouabilité élevée"
+priceRows:
+  - regionCode: DE
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 16.77
+    nativePrice: £14.59
+    nativeCurrency: GBP
+  - regionCode: US
+    eurPrice: 17.1
+    nativePrice: $19.99
+    nativeCurrency: USD
+  - regionCode: BR
+    eurPrice: 17.61
+    nativePrice: R$104.99
+    nativeCurrency: BRL
+cardPriceEur: 16.22
+cardPriceRegionCode: DE
+cardPriceRegion: Allemagne
+cardPrice: EUR 16.22
+cardPriceNative: €16.22
+cardPriceNativeCurrency: EUR
 ---
 ## Verdict rapide
 
@@ -107,6 +146,18 @@ playtime: "Estimation : runs de ~5–15 min, rejouabilité élevée"
 ## Combien coûte Shantae and the Pirate's Curse sur Switch ?
 
 Les **écarts euro / USD / BRL** restent nets ; le tableau suit **gamegulf.com**.
+
+
+| Région | Prix (équivalent EUR) | Prix natif |
+| --- | ---: | ---: |
+| Allemagne | EUR 16.22 | €16.22 |
+| Espagne | EUR 16.22 | €16.22 |
+| France | EUR 16.22 | €16.22 |
+| Italie | EUR 16.22 | €16.22 |
+| Portugal | EUR 16.22 | €16.22 |
+| Royaume-Uni | EUR 16.77 | £14.59 |
+| États-Unis | EUR 17.10 | $19.99 |
+| Brésil | EUR 17.61 | R$104.99 |
 
 ## Quel jeu est-ce ?
 

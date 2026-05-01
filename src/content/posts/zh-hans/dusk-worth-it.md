@@ -117,7 +117,7 @@ priceRows:
 cardPriceEur: 16.66
 cardPriceRegionCode: DE
 cardPriceRegion: 德国
-cardPrice: CNY 133.27
+cardPrice: CNY 133.13
 cardPriceNative: €16.66
 cardPriceNativeCurrency: EUR
 ---
@@ -136,14 +136,14 @@ cardPriceNativeCurrency: EUR
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 德国 | CNY 133.27 | €16.66 |
-| 西班牙 | CNY 133.27 | €16.66 |
-| 法国 | CNY 133.27 | €16.66 |
-| 意大利 | CNY 133.27 | €16.66 |
-| 葡萄牙 | CNY 133.27 | €16.66 |
-| 巴西 | CNY 136.79 | R$101.95 |
-| 美国 | CNY 136.79 | $19.99 |
-| 英国 | CNY 136.95 | £14.89 |
+| 德国 | CNY 133.13 | €16.66 |
+| 西班牙 | CNY 133.13 | €16.66 |
+| 法国 | CNY 133.13 | €16.66 |
+| 意大利 | CNY 133.13 | €16.66 |
+| 葡萄牙 | CNY 133.13 | €16.66 |
+| 巴西 | CNY 136.65 | R$101.95 |
+| 美国 | CNY 136.65 | $19.99 |
+| 英国 | CNY 136.81 | £14.89 |
 
 ## 《DUSK》到底是什么游戏？
 

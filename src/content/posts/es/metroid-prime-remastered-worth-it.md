@@ -16,7 +16,7 @@ decision: >-
   Tallon IV densa. Activa alertas si solo te frena el precio de tu región.
 priceSignal: >-
   En abril de 2026 la rejilla abre cerca de 23,22 € en Japón, sube por Hong Kong
-  y llega a EE. UU./Brasil y MSRP €/£ típico de Nintendo.
+  y llega a EE. UU./Brasil y precio de lista €/£ típico de Nintendo.
 heroStat: 94 Metacritic
 heroNote: >-
   El Prime 3D de Samus: biomas de Tallon IV, diario del escáner, Morph Ball,
@@ -37,7 +37,7 @@ consensusPraise: Ambiente, claridad de escenarios y controles modernos destacan.
 mainFriction: Escanear y rehacer caminos/muertes de jefe cansa si buscas ritmo continuo.
 timeFit: ~13 h historia, ~17 h+ extras, ~22 h completo (bandas habituales).
 fitLabel: Jugadores que convierten observar y rutear en parte del poder.
-timingNote: Alinea tu eShop con el cluster de Japón antes de pagar un MSRP alto.
+timingNote: Alinea tu eShop con el cluster de Japón antes de pagar un precio de lista alto.
 communityVibe: Ritmo de escáner — fans en modo detective, turistas se bajan
 playtime: ~13 h historia · ~17 h+ extras · ~22 h al 100 %
 reviewSignal: 94 Metacritic
@@ -221,7 +221,7 @@ Remaster Nintendo sólido — confirma parche vigente.
 
 ## Espera si
 
-- tu región está en MSRP alto mientras Japón/HK están claramente abajo (y puedes comprar legalmente allí)
+- tu región está en precio de lista alto mientras Japón/HK están claramente abajo (y puedes comprar legalmente allí)
 - el backtracking te produce rechazo instantáneo
 - el presupuesto ajustado: **[lista GameGulf](https://www.gamegulf.com/wishlist)**
 

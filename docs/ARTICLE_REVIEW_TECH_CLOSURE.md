@@ -11,7 +11,7 @@
 
 | 脚本 | 作用 |
 |------|------|
-| [`scripts/normalize-timecommitment-blocks.mjs`](../scripts/normalize-timecommitment-blocks.mjs) | 归一化 `timeCommitment` 折叠块（按需；幂等）。 |
+| [`scripts/one-off/normalize-timecommitment-blocks.mjs`](../scripts/one-off/normalize-timecommitment-blocks.mjs) | 归一化 `timeCommitment` 折叠块（按需；幂等）。 |
 | [`scripts/sync-price-tables.mjs`](../scripts/sync-price-tables.mjs) | 与 `priceRows` 对齐区域价表（`npm run pricing:sync`）。 |
 | [`scripts/auto-fix-char-limits.mjs`](../scripts/auto-fix-char-limits.mjs) | 构建前字段长度裁剪（`npm run fix:limits`）。 |
 
@@ -19,7 +19,7 @@
 
 ## 建议复跑顺序
 
-1. 按需：`node scripts/normalize-timecommitment-blocks.mjs`（YAML 异常时）。
+1. 按需：`node scripts/one-off/normalize-timecommitment-blocks.mjs`（YAML 异常时）。
 2. `node scripts/validate-article.mjs --all`（或 `npm run validate:all`）→ 须 **0 FAIL**。
 3. `npm run build`（含 prebuild：`pricing:sync` + `fix:limits`）→ **exit 0**。
 

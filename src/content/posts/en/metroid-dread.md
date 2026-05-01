@@ -2,8 +2,8 @@
 title: Is Metroid Dread worth buying on Nintendo Switch in 2026?
 description: >-
   A Switch buying guide for Metroid Dread — April 2026 indexed eShop rows,
-  first-party discount cadence, runtimes, EMMI-loop difficulty, and when to
-  buy versus track pricing.
+  first-party discount cadence, runtimes, EMMI-loop difficulty, and when to buy
+  versus track pricing.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,7 +37,7 @@ bestFor: Fans of tense exploration with skill-checked combat loops.
 avoidIf: Skip if chase pressure, retries, or hard bosses sound exhausting.
 consensusPraise: Controls, animation clarity, and EMMI threat land as modern high bar.
 mainFriction: Difficulty spikes and EMMI gauntlets frustrate chill-adventure seekers.
-timeFit:  ~9h main, ~12h extras, ~14h completionist (community aggregates).
+timeFit: ~9h main, ~12h extras, ~14h completionist (community aggregates).
 fitLabel: Action players who treat pattern learning as part of the fantasy.
 timingNote: >-
   Compare your eShop row to the Hong Kong anchor before paying a high-region
@@ -53,8 +53,8 @@ playStyle: >-
   sequence-break-friendly pickups, and unlockable Dread Mode / Rookie Mode
   toggles.
 timeCommitment: >-
-  aggregates cluster near 9–12 hours for a first clear with exploration,
-  plus optional cleanup and Boss Rush pacing for veterans.
+  aggregates cluster near 9–12 hours for a first clear with exploration, plus
+  optional cleanup and Boss Rush pacing for veterans.
 playMode: Single-player.
 whyNow: >-
   2026 pricing is less about surprise sales and more about whether your
@@ -123,8 +123,8 @@ faq:
     answer: >-
       Metroid Dread averages about 9 hours for a focused main path, roughly 12
       hours with meaningful extras, and near 14 hours for completionist goals
-      per  community aggregates — session length stays friendly, difficulty
-      does not.
+      per  community aggregates — session length stays friendly, difficulty does
+      not.
   - question: How does Metroid Dread run on Nintendo Switch?
     answer: >-
       Metroid Dread targets 60 fps in action stretches on Switch with art
@@ -178,7 +178,7 @@ priceRows:
 cardPriceEur: 36.44
 cardPriceRegionCode: HK
 cardPriceRegion: Hong Kong
-cardPrice: USD 42.68
+cardPrice: USD 42.64
 cardPriceNative: HK$329
 cardPriceNativeCurrency: HKD
 ---
@@ -199,14 +199,14 @@ Compare your eShop row to the Hong Kong anchor before paying a high-region MSRP.
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 42.66 | HK$329 |
-| Japan | USD 48.37 | ¥7,600 |
-| United States | USD 60.95 | $59.99 |
-| United Kingdom | USD 67.16 | £49.99 |
-| Brazil | USD 68.71 | R$349 |
-| Germany | USD 70.22 | €59.99 |
-| Spain | USD 70.22 | €59.99 |
-| France | USD 70.22 | €59.99 |
+| Hong Kong | USD 42.64 | HK$329 |
+| Japan | USD 48.35 | ¥7,600 |
+| United States | USD 60.93 | $59.99 |
+| United Kingdom | USD 67.13 | £49.99 |
+| Brazil | USD 68.69 | R$349 |
+| Germany | USD 70.20 | €59.99 |
+| Spain | USD 70.20 | €59.99 |
+| France | USD 70.20 | €59.99 |
 
 ## What kind of game is Metroid Dread?
 

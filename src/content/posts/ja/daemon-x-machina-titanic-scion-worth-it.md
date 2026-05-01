@@ -131,7 +131,7 @@ priceRows:
 cardPriceEur: 46.75
 cardPriceRegionCode: HK
 cardPriceRegion: 香港
-cardPrice: JPY 8745
+cardPrice: JPY 8565
 cardPriceNative: HK$428
 cardPriceNativeCurrency: HKD
 ---
@@ -151,14 +151,14 @@ cardPriceNativeCurrency: HKD
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 香港 | JPY 8745 | HK$428 |
-| ブラジル | JPY 8782 | R$279.99 |
-| 日本 | JPY 8890 | ¥8,800 |
-| アメリカ合衆国 | JPY 11201 | $69.99 |
-| ドイツ | JPY 13092 | €69.99 |
-| スペイン | JPY 13092 | €69.99 |
-| フランス | JPY 13092 | €69.99 |
-| ポルトガル | JPY 13092 | €69.99 |
+| 香港 | JPY 8565 | HK$428 |
+| ブラジル | JPY 8602 | R$279.99 |
+| 日本 | JPY 8708 | ¥8,800 |
+| アメリカ合衆国 | JPY 10971 | $69.99 |
+| ドイツ | JPY 12823 | €69.99 |
+| スペイン | JPY 12823 | €69.99 |
+| フランス | JPY 12823 | €69.99 |
+| ポルトガル | JPY 12823 | €69.99 |
 
 **セール**：四半期並みで **4イベント** と読める動き。**最安値**の **€23.37**（香港ログ）とも比較すると、いま見えている行はむしろ「等価定価」に近く、タイミングだけで評価が変わります。**[GameGulf](https://www.gamegulf.com/detail/1YTurw0ZwV5)** を定期的に確認し、`gamegulf.com/detail/1YTurw0ZwV5`
 をブックマークすると判断がぶれません。

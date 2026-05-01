@@ -6,8 +6,8 @@
  * titles that are legitimately shared across locales.
  *
  * Usage:
- *   node scripts/scan-localized-english-residuals.mjs <path-to-md-file> [...]
- *   node scripts/scan-localized-english-residuals.mjs --all
+ *   node scripts/one-off/scan-localized-english-residuals.mjs <path-to-md-file> [...]
+ *   node scripts/one-off/scan-localized-english-residuals.mjs --all
  */
 
 import { existsSync, readdirSync, readFileSync, statSync } from 'node:fs';
@@ -16,7 +16,7 @@ import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const repoRoot = join(__dirname, '..');
+const repoRoot = join(__dirname, '..', '..');
 const postsRoot = join(repoRoot, 'src/content/posts');
 
 const LOCALE_ALLOWLIST = new Set(['zh-hans', 'ja', 'fr', 'es', 'de', 'pt']);
@@ -285,7 +285,7 @@ if (args.includes('--all')) {
 } else if (args.length) {
   files = args;
 } else {
-  console.error('Usage: node scripts/scan-localized-english-residuals.mjs <path-to-md-file> [...] | --all');
+  console.error('Usage: node scripts/one-off/scan-localized-english-residuals.mjs <path-to-md-file> [...] | --all');
   process.exit(2);
 }
 

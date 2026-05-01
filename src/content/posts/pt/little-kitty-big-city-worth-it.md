@@ -154,7 +154,7 @@ cardPriceNativeCurrency: EUR
 
 Little Kitty, Big City recomenda-se rápido se o tom encaixa; o preço é defensível, mas não é o piso histórico.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €14.99.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €14.99.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price).
 
@@ -195,7 +195,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Queres combate profundo ou progressão longa — passa à frente.

@@ -37,7 +37,7 @@ bestFor: Amateurs de routines douces et de gros projets déco.
 avoidIf: Passez si vous exigez objectifs, combat ou narration rapide.
 consensusPraise: Liberté déco, rythme saisonnier, charme des villageois.
 mainFriction: Fin de jeu auto-dirigée — ennui si vous voulez des quêtes constantes.
-timeFit:  ~61 h « main », ~152 h extras, ~413 h complétion (agrégats).
+timeFit: ~61 h « main », ~152 h extras, ~413 h complétion (agrégats).
 fitLabel: Créateurs qui traitent l’île comme un projet long.
 timingNote: >-
   Si votre ligne colle au cluster japonais bas, attendre un méga solde est peu
@@ -120,8 +120,7 @@ faq:
     answer: >-
       Animal Crossing: New Horizons affiche ~61 h pour une progression île
       principale, ~152 h avec déco et événements, et plus de 400 h pour
-      objectifs complétionnistes selon  — souvent étalé sur de vraies
-      saisons.
+      objectifs complétionnistes selon  — souvent étalé sur de vraies saisons.
   - question: Faut-il Nintendo Switch Online ?
     answer: >-
       Animal Crossing: New Horizons fonctionne hors ligne sur votre île ; Switch
@@ -182,7 +181,7 @@ cardPriceNativeCurrency: JPY
 **Animal Crossing: New Horizons** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **Long-tail cozy sim**.
 
 Animal Crossing: New Horizons est un achat logique quand l’index est proche du bas suivi — validez d’abord que la boucle cozy vous convient.
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €35.76.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €35.76.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price).
 
@@ -222,7 +221,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo île + visites locales / online ; jouable hors ligne sur votre île.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Passez si vous exigez objectifs, combat ou narration rapide.

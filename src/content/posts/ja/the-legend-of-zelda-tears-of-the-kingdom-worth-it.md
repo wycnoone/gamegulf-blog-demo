@@ -28,9 +28,9 @@ consensusPraise: 祠の論理、ウルトラハンド遊び、三層マップが
 mainFriction: 目標30fpsだが密集エリアで落ちる。広さで次の一手が迷子になりやすい。
 timeFit: メイン約59h、追加117h+、完走248h目安（コミュニティ平均）。
 fitLabel: システム志向で長期キャンプできるソロ向け。
-timingNote: 定時セールは期待薄 — インデックス上の日本の価格が現実的な低価格アンカー。MSRPならアラート推奨。
+timingNote: 定時セールは期待薄 — インデックス上の日本の価格が現実的な低価格アンカー。定価ならアラート推奨。
 communityVibe: ウルトラハンド動画、祠ショートカット、地底ルート探しがまだ活発。
-playtime: 本編約59h・追加117h+・コンプ約248h（）
+playtime: 本編約59h・追加117h+・コンプ約248h
 reviewSignal: 96 Metacritic
 takeaway: 依然トップクラスのSwitch体験 — リージョン価格が許容なら即プレイ、嫌なら目標価格を決めて待つ。
 playStyle: 探索、祠パズル、ウルトラハンド載具、戦闘、天空・地底の進行。
@@ -66,7 +66,9 @@ communityMemes:
   - コログの“引っ越し”実験
   - ロケット盾ムービー
   - 「あと一祠だけ」で夜が明ける
-tldr: "ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom は Metacritic 96点帯。インデックスでは日本が最安。ウルトラハンド系が好きなら購入、定価が厳しければセール待ち。"
+tldr: >-
+  ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom は Metacritic
+  96点帯。インデックスでは日本が最安。ウルトラハンド系が好きなら購入、定価が厳しければセール待ち。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price
 gameHref: https://www.gamegulf.com/detail/h14iXKeQ0PR
@@ -76,24 +78,26 @@ heroTheme: brand
 faq:
   - question: 2026年、Switchで『ティアーズ オブ ザ キングダム』は買うべき？
     answer: >-
-      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom は、オープンワールド探索・物理建造・長いソロ体験が好きなら2026年も買い。 2026年4月時点のインデックスでは日本のデジタルが€42.95相当から、米はMSRP帯が高め — GameGulfのライブグリッドで自分のリージョンを確認してから決めて。
-
+      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom
+      は、オープンワールド探索・物理建造・長いソロ体験が好きなら2026年も買い。
+      2026年4月時点のインデックスでは日本のデジタルが€42.95相当から、米は定価帯が高め —
+      GameGulfのライブグリッドで自分のリージョンを確認してから決めて。
   - question: クリア時間の目安は？
     answer: >-
-      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom は平均で本編約59時間、追加込み約117時間、完走で約248時間。
-
+      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom
+      は平均で本編約59時間、追加込み約117時間、完走で約248時間。
   - question: Switchではどう動く？
     answer: >-
-      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom はブレス同様30fps目安で、TV/携帯で動的解像度 — 混雑エリアや巨大ウルトラハンドで落ち込みあり。PC移植の固定fpsではない。
-
+      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom
+      はブレス同様30fps目安で、TV/携帯で動的解像度 — 混雑エリアや巨大ウルトラハンドで落ち込みあり。PC移植の固定fpsではない。
   - question: ブレスを先にやるべき？
     answer: >-
-      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom はストーリー続編。前作後の方が伏線が刺さる。建造だけなら単体も可だが参照が薄まる。
-
+      ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom
+      はストーリー続編。前作後の方が伏線が刺さる。建造だけなら単体も可だが参照が薄まる。
   - question: 誰が待つべき？
     answer: >-
       ゼルダの伝説 ティアーズ オブ ザ キングダム The Legend of Zelda: Tears of the Kingdom
-      は、オープン目標が苦手・短時間しか取れない・MSRPを払いたくない人には不向き。ウィッシュリストと価格追跡で任天堂セール待ちが無難。
+      は、オープン目標が苦手・短時間しか取れない・定価を払いたくない人には不向き。ウィッシュリストと価格追跡で任天堂セール待ちが無難。
 priceRows:
   - regionCode: JP
     eurPrice: 42.95
@@ -114,14 +118,14 @@ priceRows:
 cardPriceEur: 42.95
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 8019
+cardPrice: JPY 7869
 cardPriceNative: ¥7,900
 cardPriceNativeCurrency: JPY
 ---
 
 ## クイック結論
 
-**The Legend of Zelda: Tears of the Kingdom は2026年もSwitchの買い理由の一角** — **Metacritic 96点帯**の続編で、**ウルトラハンド・天空・地底**がブレスのループを拡張。HLTB集計はおおむね **59h / 117h / 248h**。
+**The Legend of Zelda: Tears of the Kingdom は2026年もSwitchの買い理由の一角** — **Metacritic 96点帯**の続編で、**ウルトラハンド・天空・地底**がブレスのループを拡張。プレイ時間の目安：集計はおおむね **59h / 117h / 248h**。
 
 購入判断の中心は **リージョン価格**：インデックスでは **日本が€42.95相当（¥7,900）**、**米が€60.75（$79.99）** 付近、**過去1年ディスカウント0**。他人のスクショではなく **自分のアカウントの価格** をライブ追跡で確認してから買うかアラートか決めて。
 
@@ -129,14 +133,15 @@ cardPriceNativeCurrency: JPY
 
 ## Switch版の価格はいくら？
 
-**追跡テーブルでは日本のデジタルが€42.95相当が最安、アメリカは$79.99のMSRP帯 — 中身は同じでもレシートは違う。**
+**追跡テーブルでは日本のデジタルが€42.95相当が最安、アメリカは$79.99の定価帯 — 中身は同じでもレシートは違う。**
+
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 8034 | ¥7,900 |
-| 香港 | JPY 8266 | HK$449 |
-| アメリカ合衆国 | JPY 11363 | $79.99 |
-| ブラジル | JPY 12553 | R$499.90 |
+| 日本 | JPY 7869 | ¥7,900 |
+| 香港 | JPY 8096 | HK$449 |
+| アメリカ合衆国 | JPY 11130 | $79.99 |
+| ブラジル | JPY 12295 | R$499.90 |
 
 **ユーロ/英国行がない理由：** この商品IDのSwitchデジタルインデックスは上表のリージョンのみで、**同一フィードにEU/英国eShop行はまだ含まれない**。€/£の店舗では販売されているので、[ライブのマルチリージョン表](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price)かローカル任天堂ストアで確認して。
 
@@ -172,7 +177,7 @@ cardPriceNativeCurrency: JPY
 
 ## 待ち向き
 
-- **まだフルMSRP**で、**第一方定価を割引なしでは払いたくない**
+- **まだフル定価**で、**第一方定価を割引なしでは払いたくない**
 - **目標が散らばる**のが苦手で、**ゲームに次を急かしてほしい**
 - 今四半期 **高価なSwitch新作が複数**で予算が厳しい
 - プレイが **短いループ**中心なら、[Hadesガイド](/blog/ja/hades-worth-it)の方が合うかも

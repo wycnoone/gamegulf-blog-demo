@@ -6,7 +6,7 @@ description: >-
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: buy-now-or-wait
-gameTitle: Pikmin 4
+gameTitle: ピクミン4
 platform: Nintendo Switch
 author: GameGulf Editorial AI
 readingTime: 8分で読める
@@ -30,11 +30,11 @@ bestFor: 反射よりルート最適化が好きな人。
 avoidIf: ノンストップアクションがいい、または繊細な隊の世話が苦手。
 consensusPraise: 愛らしい美術、読みやすい目標、ルートが決まると片付けが気持ちいい。
 mainFriction: テンポは落ち着き損失が痛い——巻き戻しが癖になるまで。
-timeFit:  約18h本筋、29hエクストラ、40hコンプ（コミュニティ）。
+timeFit: 約18h本筋、29hエクストラ、40hコンプ（コミュニティ）。
 fitLabel: 運搬ルートを詰めたい人向け。廊下ダッシュではない。
 timingNote: 衝動買い前に、自分のeShop行を日本アンカーと2025年12月の安値と比較。
 communityVibe: オッチ推し、ピクミン損失ミーム、癒し系戦略クリップ
-playtime: 18h本編 · 29h+追加 · 約40hコンプ（）
+playtime: 18h本編 · 29h+追加 · 約40hコンプ
 reviewSignal: 87 Metacritic
 takeaway: ピクミン4は「合う人向け」がはっきり——2026年4月価格は日本主導の小売に時々割引、常時バーゲンではない。
 playStyle: 見下ろし探索、タイプ別分隊、オッチで跳び・運搬、ヒカリ夜ルート、2Pヘルプ、ローカルダンドリ。
@@ -78,7 +78,7 @@ communityMemes:
   - 氷橋ワザ
   - ダンドリ終盤パニック
   - ヒカリ懐中電灯分隊
-tldr: "Pikmin 4 ピクミン4 — 約87点の任天堂タクティクス。2026年4月も日本が指数の目安でたまに割引——合うなら買い、底値ならアラート。"
+tldr: ピクミン4 ピクミン4 — 約87点の任天堂タクティクス。2026年4月も日本が指数の目安でたまに割引——合うなら買い、底値ならアラート。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price
 gameHref: https://www.gamegulf.com/detail/c0V9fA7j5D0
@@ -88,16 +88,16 @@ heroTheme: brand
 faq:
   - question: Switch版ピクミン4は今買うべき？
     answer: >-
-      Pikmin 4 オッチ・夜マップ・ダンドリが欲しく、自分のeShop行がインデックス上の日本アンカーに近いなら今買いで問題ない。 2026年4月も日本は約€35.34換算が目安——GameGulfでアカウントを確認。
-
+      ピクミン4 オッチ・夜マップ・ダンドリが欲しく、自分のeShop行がインデックス上の日本アンカーに近いなら今買いで問題ない。
+      2026年4月も日本は約€35.34換算が目安——GameGulfでアカウントを確認。
   - question: クリア時間は？
-    answer: Pikmin 4 集計で本線レスキュー約18時間、追加多めで約29時間、回収重視で約40時間。
+    answer: ピクミン4 集計で本線レスキュー約18時間、追加多めで約29時間、回収重視で約40時間。
   - question: 協力は？
-    answer: Pikmin 4 2Pは石投げとアイテム補助、同機ダンドリ——RPG共有進行ではないがペア向き。
+    answer: ピクミン4 2Pは石投げとアイテム補助、同機ダンドリ——RPG共有進行ではないがペア向き。
   - question: Switchでの動きは？
-    answer: Pikmin 4 第一方らしい安定と携帯HUDの可読性。混雑シーンは軽く落ちる程度でスライドショーではない。
+    answer: ピクミン4 第一方らしい安定と携帯HUDの可読性。混雑シーンは軽く落ちる程度でスライドショーではない。
   - question: 待つ人は？
-    answer: Pikmin 4 eShopが日本指数のだいぶ上にいる、または年末級の安値だけ欲しい——GameGulfで目標価格を設定し次のセールを待つ。
+    answer: ピクミン4 eShopが日本指数のだいぶ上にいる、または年末級の安値だけ欲しい——GameGulfで目標価格を設定し次のセールを待つ。
 priceRows:
   - regionCode: JP
     eurPrice: 35.34
@@ -118,14 +118,14 @@ priceRows:
 cardPriceEur: 35.34
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 6598
+cardPrice: JPY 6475
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
 ---
 
 ## クイック結論
 
-**ピクミン4は最も入りやすい現代ピクミン——約87 Metacriticの任天堂タクティクス**。**分隊・オッチ・ヒカリ夜ルート・巻き戻し・同機ダンドリ**が核。**HLTB**はだいたい **18h / 29h / 40h**。
+**ピクミン4は最も入りやすい現代ピクミン——約87 Metacriticの任天堂タクティクス**。**分隊・オッチ・ヒカリ夜ルート・巻き戻し・同機ダンドリ**が核。**プレイ時間の目安：**はだいたい **18h / 29h / 40h**。
 
 2026年4月の論点は**価格**：インデックスは**日本が約€35.34換算（¥6,500）**、履歴では**2025年12月25日に日本約€28.27**の深い点。**年2回前後**の割引接触、割引期の平均は約**€35.89**。好きなら**行が健全なとき**に買い、**最安だけ**なら**アラート**。
 
@@ -135,12 +135,13 @@ cardPriceNativeCurrency: JPY
 
 **2026年4月のデジタルスナップショットも日本が約€35.34換算（¥6,500）で先行。**
 
+
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 6610 | ¥6,500 |
-| 香港 | JPY 6816 | HK$329 |
-| アメリカ合衆国 | JPY 9740 | $59.99 |
-| ブラジル | JPY 10980 | R$349 |
+| 日本 | JPY 6475 | ¥6,500 |
+| 香港 | JPY 6676 | HK$329 |
+| アメリカ合衆国 | JPY 9540 | $59.99 |
+| ブラジル | JPY 10754 | R$349 |
 
 **割引履歴**がリスト単体より雄弁：**2025年12月25日**の日本**約€28.27**、同ウィンドウ平均**約€35.89**。今の日本先行は**健全な小売**で、常時バーゲンではない。[ライブ多地域表](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price)で**自分の**アカウントを確認。
 
@@ -170,7 +171,7 @@ Discount history補足：historical low は **€28.27**、直近 sale 帯は **
 
 - **オッチ・氷/ヒカリ・ダンドリ**が主目的
 - **インデックス行**が買える**日本アンカー**に近い
-- **HLTB 18–29h**が月の予定に合う
+- **プレイ時間の目安：18–29h**が月の予定に合う
 - **2Pヘルプ**や**ダンドリ**を実際に使う
 
 ## 待つなら

@@ -126,7 +126,7 @@ faq:
     answer: >-
       Super Mario Odyssey zeigt hier drei Rabatt-Events in zwölf Monaten,
       Durchschnitt ~€40,93 — weniger aggressiv als Third-Party, aber nicht
-      MSRP-fest.
+      Listenpreis-fest.
   - question: Odyssey oder zuerst ein kurzes Indie?
     answer: >-
       Super Mario Odyssey gewinnt, wenn du ein Nintendo-Flaggschiff mit langem

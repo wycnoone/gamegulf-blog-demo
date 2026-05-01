@@ -143,7 +143,7 @@ priceRows:
 cardPriceEur: 15.88
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 18.59
+cardPrice: USD 18.58
 cardPriceNative: ¥2940
 cardPriceNativeCurrency: JPY
 faq:
@@ -180,19 +180,19 @@ Treat **gamegulf.com** analytics as guardrails: skim the **[regional pricing gri
 
 ## How much does Chicory: A Colorful Tale cost on Nintendo Switch right now?
 
-Regional **MSRP tiers** stick near **€18.99** across major PAL territories while **Japan** still anchors GameGulf’s **cheapest indexed band** ahead of Brazil and Hong Kong trims — the markdown table mirrors the **`priceRows` payload** powering **gamegulf.com** sync handlers.
+Regional **MSRP tiers** stick near **€18.99** across major PAL territories while **Japan** still anchors GameGulf’s **cheapest indexed band** ahead of Brazil and Hong Kong trims — the markdown table mirrors the **price snapshot payload** powering **gamegulf.com** sync handlers.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 18.59 | ¥2940 |
+| Japan | USD 18.58 | ¥2940 |
 | Brazil | USD 18.81 | R$95.83 |
-| Hong Kong | USD 19.95 | HK$156 |
-| United States | USD 20.02 | $19.99 |
-| Germany | USD 22.23 | €18.99 |
-| Spain | USD 22.23 | €18.99 |
-| France | USD 22.23 | €18.99 |
-| United Kingdom | USD 23.00 | £17.09 |
+| Hong Kong | USD 19.94 | HK$156 |
+| United States | USD 20.01 | $19.99 |
+| Germany | USD 22.22 | €18.99 |
+| Spain | USD 22.22 | €18.99 |
+| France | USD 22.22 | €18.99 |
+| United Kingdom | USD 22.99 | £17.09 |
 
 Historical **discount signal:** GameGulf’s rolling data shows **five** discount fingerprints in twelve months clustering around **€10.20** on average — with a **tracked Japan trough near €7.94 (18 August 2025)** and a **Brazil print near €8.03 (22 December 2025)** under today’s **€15.88-class Japan headline**, so patience usually beats storefront pride **unless** today’s sticker already matches another sale watcher’s target.
 

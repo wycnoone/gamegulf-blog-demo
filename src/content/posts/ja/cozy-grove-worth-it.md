@@ -134,7 +134,7 @@ priceRows:
 cardPriceEur: 7.99
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 1495
+cardPrice: JPY 1464
 cardPriceNative: ¥1,480
 cardPriceNativeCurrency: JPY
 ---
@@ -152,14 +152,14 @@ cardPriceNativeCurrency: JPY
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 1495 | ¥1,480 |
-| アメリカ合衆国 | JPY 1599 | $14.99 |
-| 香港 | JPY 2022 | HK$99 |
-| イギリス | JPY 2362 | £10.99 |
-| ブラジル | JPY 2508 | R$79.99 |
-| ドイツ | JPY 2617 | €13.99 |
-| スペイン | JPY 2617 | €13.99 |
-| フランス | JPY 2617 | €13.99 |
+| 日本 | JPY 1464 | ¥1,480 |
+| アメリカ合衆国 | JPY 1566 | $14.99 |
+| 香港 | JPY 1981 | HK$99 |
+| イギリス | JPY 2314 | £10.99 |
+| ブラジル | JPY 2457 | R$79.99 |
+| ドイツ | JPY 2563 | €13.99 |
+| スペイン | JPY 2563 | €13.99 |
+| フランス | JPY 2563 | €13.99 |
 
 ## 「Cozy Grove」ってどんなゲーム？
 

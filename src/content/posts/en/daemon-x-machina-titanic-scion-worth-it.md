@@ -176,7 +176,7 @@ priceRows:
 cardPriceEur: 46.75
 cardPriceRegionCode: HK
 cardPriceRegion: Hong Kong
-cardPrice: USD 54.73
+cardPrice: USD 54.71
 cardPriceNative: HK$428
 cardPriceNativeCurrency: HKD
 ---
@@ -196,14 +196,14 @@ Patience earns leverage when average sale telemetry hovers roughly **€35.16**,
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 54.73 | HK$428 |
-| Brazil | USD 54.96 | R$279.99 |
-| Japan | USD 55.64 | ¥8,800 |
-| United States | USD 70.10 | $69.99 |
-| Germany | USD 81.93 | €69.99 |
-| Spain | USD 81.93 | €69.99 |
-| France | USD 81.93 | €69.99 |
-| Portugal | USD 81.93 | €69.99 |
+| Hong Kong | USD 54.71 | HK$428 |
+| Brazil | USD 54.94 | R$279.99 |
+| Japan | USD 55.62 | ¥8,800 |
+| United States | USD 70.07 | $69.99 |
+| Germany | USD 81.90 | €69.99 |
+| Spain | USD 81.90 | €69.99 |
+| France | USD 81.90 | €69.99 |
+| Portugal | USD 81.90 | €69.99 |
 
 Historical math matters: archived **sale** ladders bottomed toward a **historical low** fingerprint near €23.37 in Hong Kong on 2026-03-24, GameGulf logged four discount-heavy windows inside the tracked year averaging ≈€35.16 whenever red tags appear, yet living shelves still flirt with HK ≈€46.75 while Euro slots stick at €69.99—meaning patience plus alerts beat gut-feel guesses. Re-check anytime on **[GameGulf](https://www.gamegulf.com/detail/1YTurw0ZwV5#currency-price)**.
 

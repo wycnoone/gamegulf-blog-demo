@@ -10,7 +10,7 @@ gameTitle: 索尼克 狂欢
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 分钟阅读
 decision: 除非你本来就打算用日区等低价区下单，否则更适合等一等指数里更便宜的折扣带；品质过硬，但历史低价低得多。
@@ -122,7 +122,7 @@ priceRows:
 cardPriceEur: 10.69
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 85.51
+cardPrice: CNY 85.42
 cardPriceNative: ¥1,980
 cardPriceNativeCurrency: JPY
 playtime: 约6小时主线、10小时附加、约19小时完美
@@ -135,19 +135,19 @@ playtime: 约6小时主线、10小时附加、约19小时完美
 
 ## 《索尼克 狂欢》在 Nintendo Switch 上现在卖多少钱？
 
-**数字版区服差价依旧夸张**：欧服等主流区仍常见 **€19.99 档 MSRP**，而 **日本区**目前把 **GameGulf** 指数里的**低价带**钉在表头。下表与站点 **gamegulf.com** 同源字段对齐——**务必以你账号所在 eShop 的实时价为准**。
+**数字版区服差价依旧夸张**：欧服等主流区仍常见 **€19.99 档 标价**，而 **日本区**目前把 **GameGulf** 指数里的**低价带**钉在表头。下表与站点 **gamegulf.com** 同源字段对齐——**务必以你账号所在 eShop 的实时价为准**。
 
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 85.51 | ¥1,980 |
-| 巴西 | CNY 127.43 | R$95 |
-| 香港 | CNY 129.35 | HK$148 |
-| 美国 | CNY 136.79 | $19.99 |
-| 英国 | CNY 147.03 | £15.99 |
-| 德国 | CNY 159.91 | €19.99 |
-| 西班牙 | CNY 159.91 | €19.99 |
-| 法国 | CNY 159.91 | €19.99 |
+| 日本 | CNY 85.42 | ¥1,980 |
+| 巴西 | CNY 127.30 | R$95 |
+| 香港 | CNY 129.21 | HK$148 |
+| 美国 | CNY 136.65 | $19.99 |
+| 英国 | CNY 146.87 | £15.99 |
+| 德国 | CNY 159.74 | €19.99 |
+| 西班牙 | CNY 159.74 | €19.99 |
+| 法国 | CNY 159.74 | €19.99 |
 
 ## 它到底是一款怎样的游戏？
 

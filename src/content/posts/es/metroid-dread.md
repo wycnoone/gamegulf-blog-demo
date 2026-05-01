@@ -2,8 +2,8 @@
 title: ¿Merece la pena comprar Metroid Dread en Nintendo Switch en 2026?
 description: >-
   Guía de compra Switch — precios eShop indexados en abril de 2026, ritmo de
-  ofertas Nintendo, tiempos , tensión EMMI y combate con contraataque,
-  comprar ya o alerta.
+  ofertas Nintendo, tiempos , tensión EMMI y combate con contraataque, comprar
+  ya o alerta.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,9 +37,9 @@ bestFor: Quienes disfrutan exploración tensa y aprender patrones.
 avoidIf: Evítalo si los EMMI y wipes de jefe te agotan.
 consensusPraise: Control, claridad visual y amenaza EMMI siguen siendo referencia en Switch.
 mainFriction: Picos de dificultad y EMMI cansan si buscas aventura relajada.
-timeFit:  ~9h historia, ~12h extras, ~14h completionist (medias comunidad).
+timeFit: ~9h historia, ~12h extras, ~14h completionist (medias comunidad).
 fitLabel: Jugadores que disfrutan dominar ritmo, no farm chill.
-timingNote: Compara tu fila eShop con anclas HK/JP antes de pagar MSRP alto.
+timingNote: Compara tu fila eShop con anclas HK/JP antes de pagar precio de lista alto.
 communityVibe: Pasos EMMI — eco permanente
 playtime: ~9h historia · ~12h+ extras · ~14h completionist
 reviewSignal: 88 Metacritic
@@ -50,8 +50,8 @@ playStyle: >-
   Metroidvania de habilidades, fases EMMI, ventanas de contra, coleccionables,
   modos Rookie/Dread y Boss Rush.
 timeCommitment: >-
-  ~9–12h primera vuelta; coleccionismo y alto nivel añaden — sesiones
-  cortas, curva dura.
+  ~9–12h primera vuelta; coleccionismo y alto nivel añaden — sesiones cortas,
+  curva dura.
 playMode: Un jugador.
 whyNow: En 2026 manda comparar tienda, no esperar cupones semanales.
 currentDeal: >-
@@ -177,7 +177,7 @@ cardPriceNativeCurrency: HKD
 
 Metroid Dread sigue siendo compra de calidad para el perfil adecuado — el riesgo es regional.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €36.44.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €36.44.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price).
 
@@ -215,7 +215,7 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te cuadra el ritmo: ~9h historia · ~12h+ extras · ~14h completionist
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Evítalo si los EMMI y wipes de jefe te agotan.

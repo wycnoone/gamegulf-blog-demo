@@ -52,9 +52,9 @@ communityVibe: Party choices, voice work, and urban fantasy carry the praise
 playtime: 9h main · 12h+ extras · ~17h completionist
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Unavowed is a gameplay-fit call first: choose it if the adventure, puzzle,
-  role-playing loop, scope, and 91 Metacritic quality band match your taste; use
-  price only to decide timing.
+  Unavowed works best if you want adventure, puzzle, role-playing — Unavowed on
+  Nintendo; The cheapest tracked territories lead the table — comp, then choose
+  buy-now or wait.
 playStyle: adventure, puzzle, role-playing
 timeCommitment: 9h main · 12h+ extras · ~17h completionist
 playMode: Single-player unless store lists multiplayer.
@@ -161,7 +161,7 @@ Tracked **discount** history: **all-time low** around **€4.69** (BR), **1** **
 
 ## How much does Unavowed cost on Nintendo Switch right now?
 
-**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in price snapshot. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
 
 
 | Region | Price (USD equivalent) | Native price |

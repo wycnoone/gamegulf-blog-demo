@@ -54,9 +54,9 @@ communityVibe: Tight pogo jumps, campaigns, and 8-bit bosses sell the bundle
 playtime: 25h main · 36h+ extras · ~74h completionist
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Shovel Knight: Treasure Trove is a gameplay-fit call first: choose it if the
-  action, adventure, platformer loop, scope, and 91 Metacritic quality band
-  match your taste; use price only to decide timin…
+  Shovel Knight: Treasure Trove works best if you want action, adventure,
+  platformer — Shovel Knight: Treasur; The cheapest tracked territories lead the
+  table — comp, then choose buy-now or wait.
 playStyle: action, adventure, platformer
 timeCommitment: 25h main · 36h+ extras · ~74h completionist
 playMode: Single-player unless store lists multiplayer.
@@ -165,7 +165,7 @@ Tracked **discount** history: **all-time low** around **€11.67** (JP), **2** *
 
 ## How much does Shovel Knight: Treasure Trove cost on Nintendo Switch right now?
 
-**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in price snapshot. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
 
 
 | Region | Price (USD equivalent) | Native price |

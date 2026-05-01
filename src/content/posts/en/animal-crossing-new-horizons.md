@@ -2,8 +2,8 @@
 title: "Is Animal Crossing: New Horizons worth buying on Nintendo Switch in 2026?"
 description: >-
   A Switch buying guide for Animal Crossing: New Horizons — April 2026 indexed
-  eShop rows, long-tail cozy play, island customization loop,  hour bands,
-  and buy timing when pricing sits at a tracked low.
+  eShop rows, long-tail cozy play, island customization loop,  hour bands, and
+  buy timing when pricing sits at a tracked low.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,7 +37,7 @@ bestFor: Players who enjoy calm dailies and long decorating projects.
 avoidIf: Skip if you need objectives, combat, or fast narrative payoffs.
 consensusPraise: Decorating freedom, seasonal rhythm, and villager charm age well.
 mainFriction: Late-game goals are self-directed — boredom if you crave structure.
-timeFit:  ~61h main, ~152h extras, ~413h completionist (community aggregates).
+timeFit: ~61h main, ~152h extras, ~413h completionist (community aggregates).
 fitLabel: Creators who treat islands like long-running art projects.
 timingNote: >-
   If your row matches the low cluster, buying beats waiting for a mythical
@@ -182,7 +182,7 @@ priceRows:
 cardPriceEur: 35.76
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 41.88
+cardPrice: USD 41.85
 cardPriceNative: ¥6,578
 cardPriceNativeCurrency: JPY
 ---
@@ -203,14 +203,14 @@ If your row matches the low cluster, buying beats waiting for a mythical deeper 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.86 | ¥6,578 |
-| Hong Kong | USD 42.66 | HK$354 |
-| United States | USD 60.95 | $64.99 |
-| United Kingdom | USD 67.16 | £49.99 |
-| Brazil | USD 68.71 | R$359.9 |
-| Germany | USD 70.22 | €59.99 |
-| Spain | USD 70.22 | €59.99 |
-| France | USD 70.22 | €59.99 |
+| Japan | USD 41.85 | ¥6,578 |
+| Hong Kong | USD 42.64 | HK$354 |
+| United States | USD 60.93 | $64.99 |
+| United Kingdom | USD 67.13 | £49.99 |
+| Brazil | USD 68.69 | R$359.9 |
+| Germany | USD 70.20 | €59.99 |
+| Spain | USD 70.20 | €59.99 |
+| France | USD 70.20 | €59.99 |
 
 ## What kind of game is Animal Crossing: New Horizons?
 

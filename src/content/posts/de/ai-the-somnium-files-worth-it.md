@@ -145,7 +145,7 @@ playtime: "Schätzung: ~3–8 Std. Story, 8–15 Std. Extras"
 
 ## Was kostet AI: THE SOMNIUM FILES — aktueller Switch-Preis?
 
-Tabelle folgt `priceRows`.
+Tabelle folgt Preissnapshot.
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
@@ -169,7 +169,7 @@ Menü- und Textlastig — keine FPS-Show.
 
 ## Kaufen, wenn…
 
-- Zeilen **€1,19–€4** statt EU-MSRP — [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
+- Zeilen **€1,19–€4** statt EU-Listenpreis — [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
 
 ## Warten, wenn…
 

@@ -58,7 +58,7 @@ nearHistoricalLow: >-
   Sem degrau mais baixo na janela seguida — Japão bate o global low ~35,53 €
   citado.
 salePattern: >-
-  **0** quedas contadas em um ano — trate como MSRP Nintendo até divergência
+  **0** quedas contadas em um ano — trate como preço cheio Nintendo até divergência
   real.
 priceRecommendation: buy
 quickFilters:

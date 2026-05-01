@@ -145,7 +145,7 @@ playtime: "Estimativa: ~3–8 h campanha, 8–15 h extras"
 
 ## Quanto custa agora no Switch — preço tabela?
 
-`priceRows` abaixo.
+recorte de preços abaixo.
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |

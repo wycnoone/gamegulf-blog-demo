@@ -13,7 +13,7 @@ readingTime: 8 min de lectura
 decision: >-
   Compra si quieres una aventura corta musical — abril 2026 indexa Japón cerca
   de promo histórica.
-priceSignal: Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € MSRP — brecha enorme.
+priceSignal: Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € precio de lista — brecha enorme.
 heroStat: 75 Metacritic
 heroNote: Bedtime Digital — Dusty, Piper, jefes cantando, pintura a mano.
 badge: Comprar ahora
@@ -28,7 +28,7 @@ bestFor: Indies cortos con banda sonora protagonista.
 avoidIf: Quieres combate Souls o 40 h RPG.
 consensusPraise: Arte, música-mundo, duetos de jefes con encanto.
 mainFriction: Combate simple — techo en exploración/puzzle.
-timeFit:  ~5/6/7 h.
+timeFit: ~5/6/7 h.
 fitLabel: Álbum conceptual jugable.
 timingNote: Si tu cuenta toca promo Japón, solo queda el gusto — revisa fila en vivo.
 communityVibe: Earworms, pesadilla cozy, Piper
@@ -39,9 +39,9 @@ playStyle: Iso brawler, puzzles, música, miedos literalizados.
 timeCommitment: ~5 h historia, 6 extras, 7 completion.
 playMode: Un jugador.
 whyNow: El precio manda — encanto mid-70s, no obra perfecta.
-currentDeal: Japón ~0,54 €, US/BR promo, UE MSRP.
+currentDeal: Japón ~0,54 €, US/BR promo, UE precio de lista.
 nearHistoricalLow: Sí — index abril 2026 alinea con postura de mínimo.
-salePattern: Promos profundas repetidas — cierra antes del MSRP.
+salePattern: Promos profundas repetidas — cierra antes del precio de lista.
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -143,13 +143,13 @@ cardPriceNativeCurrency: JPY
 
 Figment es compra fácil cuando el index toca suelo — confirma tu eShop.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €0.54.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €0.54.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
 
 ## Cuanto cuesta Figment en Nintendo Switch ahora?
 
-Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € MSRP — brecha enorme.
+Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € precio de lista — brecha enorme.
 
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
@@ -183,13 +183,13 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Quieres combate Souls o 40 h RPG.
 
 ## Cierre
 
-Primero precio, luego gusto: aqui funciona mejor ese orden. Promos profundas repetidas — cierra antes del MSRP.
+Primero precio, luego gusto: aqui funciona mejor ese orden. Promos profundas repetidas — cierra antes del precio de lista.
 
 Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** y decide comprar o esperar.

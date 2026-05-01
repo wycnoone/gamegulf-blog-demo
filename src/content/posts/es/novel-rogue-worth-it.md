@@ -8,7 +8,7 @@ gameTitle: Novel Rogue
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min de lectura
 decision: >-
@@ -34,7 +34,7 @@ avoidIf: Metacritic obligatorio u odio RNG — no es para ti.
 consensusPraise: Steam con pocas reseñas — ruido bajo.
 mainFriction: Sin críticos agregados quedan trailer/demo.
 timeFit: Varias noches en runs.
-fitLabel: Compara JP antes del MSRP EU.
+fitLabel: Compara JP antes del precio de lista EU.
 timingNote: Precio ya bajo — backlog decide.
 communityVibe: Chistes KEMCO, RNG mazo, envidia JP
 reviewSignal: Metacritic — sin nota crítica agregada (deck roguelite KEMCO)
@@ -140,7 +140,7 @@ playtime: "Estimación: partidas de ~20–60 min, rejugable"
 
 ## ¿Cuánto cuesta hoy en Switch — precio tabla?
 
-`priceRows` abajo.
+captura de precios abajo.
 
 
 | Región | Precio (equivalente en EUR) | Precio nativo |

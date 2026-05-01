@@ -185,13 +185,13 @@ Indexed spread is about **€9** from the Japan-led low to standard EU list pric
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Japan | USD 6.75 | ¥1,069 |
-| United States | USD 15.01 | $14.99 |
+| United States | USD 15.00 | $14.99 |
 | Brazil | USD 15.51 | R$79 |
 | United Kingdom | USD 16.13 | £11.99 |
-| Germany | USD 17.55 | €14.99 |
-| Spain | USD 17.55 | €14.99 |
-| France | USD 17.55 | €14.99 |
-| Italy | USD 17.55 | €14.99 |
+| Germany | USD 17.54 | €14.99 |
+| Spain | USD 17.54 | €14.99 |
+| France | USD 17.54 | €14.99 |
+| Italy | USD 17.54 | €14.99 |
 
 Tracked discount cadence: **16** identifiable sale windows inside the past year land around **€8.89** on average, while the **€5.77** anchor keeps reappearing on the Japan row (history prints include **2025-11-03** and **2026-04-05**). Last meaningful movement sits **~24** days back, so the window still behaves like an active discounter — not a frozen first-party MSRP line.
 

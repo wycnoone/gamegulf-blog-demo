@@ -12,7 +12,7 @@ decision: >-
   Oui si vous voulez un Prime à la première personne noté ~94 Metacritic, visées
   modernes et Tallon IV dense. Alertes si seul le ticket plein tarif de votre
   compte bloque.
-priceSignal: "En avril 2026 la grille ouvre vers ~23,22 € côté Japon, puis Hong Kong, puis US/Brésil et MSRP €/£ — profil classique «\_peu promo\_» Nintendo."
+priceSignal: "En avril 2026 la grille ouvre vers ~23,22 € côté Japon, puis Hong Kong, puis US/Brésil et prix catalogue €/£ — profil classique «\_peu promo\_» Nintendo."
 heroStat: 94 Metacritic
 heroNote: >-
   Le Prime 3D de Samus : biomes de Tallon IV, journal de scan, Morph Ball,
@@ -35,7 +35,7 @@ mainFriction: >-
   friction.
 timeFit: ~13 h main, ~17 h+ extras, ~22 h finisseur (bandes horaires fréquentes).
 fitLabel: Ceux qui aiment cartographier mentalement pendant qu’ils progressent.
-timingNote: Comparez votre ligne eShop au cluster Japon avant de payer un MSRP haut.
+timingNote: Comparez votre ligne eShop au cluster Japon avant de payer un prix catalogue haut.
 communityVibe: Rythme scan — les fans adorent, les touristes lâchent vite
 playtime: ~13 h main · ~17 h+ extras · ~22 h complétion
 reviewSignal: 94 Metacritic
@@ -55,7 +55,7 @@ whyNow: >-
   panier global.
 currentDeal: >-
   Le numérique indexé place le Japon le plus bas, puis Hong Kong, puis US/Brésil
-  puis MSRP € courant.
+  puis prix catalogue € courant.
 nearHistoricalLow: >-
   Aucune promo captée sur un an dans ce flux — lisez le prix comme discipline de
   liste.
@@ -217,7 +217,7 @@ Solide pour un remaster FP Nintendo — vérifiez le patch du moment.
 
 ## Attendez si
 
-- votre pays reste MSRP alors que Japon/Hong Kong sont nettement bas (et que vous pouvez acheter proprement ailleurs)
+- votre pays reste prix catalogue alors que Japon/Hong Kong sont nettement bas (et que vous pouvez acheter proprement ailleurs)
 - vous détestez retours et scan — la note ne changera pas le ressenti
 - budget verrouillé : mettez l’alerte sur **[GameGulf](https://www.gamegulf.com/wishlist)**
 

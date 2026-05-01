@@ -49,8 +49,8 @@ playStyle: >-
   Isometric brawling, light puzzles, musical set-pieces, and narrative beats
   about facing fears inside a stylized brainscape.
 timeCommitment: >-
-  Typical player reports land near five hours for a straight story, about six with
-  extras, and seven for completionists chasing every secret.
+  Typical player reports land near five hours for a straight story, about six
+  with extras, and seven for completionists chasing every secret.
 playMode: Single-player.
 whyNow: >-
   Pricing is doing the heavy lifting — quality is mid-70s Metacritic charming,
@@ -117,7 +117,8 @@ faq:
   - question: How long does Figment take?
     answer: >-
       Figment averages about five hours for the main story, six hours with
-      extras, and seven hours for completionist goals in typical community hour spreads — perfect weekend scale.
+      extras, and seven hours for completionist goals in typical community hour
+      spreads — perfect weekend scale.
   - question: Is Figment okay for kids?
     answer: >-
       Figment frames nightmares metaphorically with cartoon combat — it is mild
@@ -190,13 +191,13 @@ If your account can access the Japan promo band, hesitation is mostly taste — 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Japan | USD 0.63 | ¥2,200 |
-| United States | USD 2.03 | $19.99 |
+| United States | USD 2.02 | $19.99 |
 | Brazil | USD 2.36 | R$99.99 |
 | Hong Kong | USD 19.31 | HK$149 |
-| Germany | USD 23.40 | €19.99 |
-| Spain | USD 23.40 | €19.99 |
-| France | USD 23.40 | €19.99 |
-| Italy | USD 23.40 | €19.99 |
+| Germany | USD 23.39 | €19.99 |
+| Spain | USD 23.39 | €19.99 |
+| France | USD 23.39 | €19.99 |
+| Italy | USD 23.39 | €19.99 |
 
 ## What kind of game is Figment?
 

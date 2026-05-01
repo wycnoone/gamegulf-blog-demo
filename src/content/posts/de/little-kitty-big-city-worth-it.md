@@ -149,13 +149,15 @@ cardPriceNativeCurrency: EUR
 
 Little Kitty, Big City ist schnell empfehlbar, wenn der Vibe passt; der Preis ist okay, aber nicht der historische Boden.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €14.99.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €14.99.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) gegen deine Region halten.
 
 ## Was kostet Little Kitty, Big City auf Nintendo Switch aktuell?
 
 Little Kitty, Big City ist schnell empfehlbar, wenn der Vibe passt; der Preis ist okay, aber nicht der historische Boden.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Spanien | EUR 14.99 | €14.99 |
@@ -188,7 +190,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Du willst lange RPG-Mechanik oder harte Action — dann eher nicht.

@@ -180,7 +180,7 @@ Ouvre d'abord **[GameGulf](https://www.gamegulf.com/detail/dvI6J2brEaR#currency-
 | France | EUR 14.99 | €14.99 |
 | Italie | EUR 14.99 | €14.99 |
 
-Indices **promo** / **discount** : **16** baisses repérées sur un an vers **~8,89 €** en moyenne ; **5,77 €** réapparaît côté Japon (**historical low** suivie, repères **2025-11-03** et **2026-04-05**). Dernière secousse utile il y a **~24** jours — profil indie qui remet souvent en **sale**, pas MSRP bloqué.
+Indices **promo** / **discount** : **16** baisses repérées sur un an vers **~8,89 €** en moyenne ; **5,77 €** réapparaît côté Japon (**historical low** suivie, repères **2025-11-03** et **2026-04-05**). Dernière secousse utile il y a **~24** jours — profil indie qui remet souvent en **sale**, pas prix catalogue bloqué.
 
 ## Quel genre de jeu ?
 

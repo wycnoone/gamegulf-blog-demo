@@ -1,5 +1,4 @@
 ---
-
 title: "Is 13 Sentinels: Aegis Rim worth buying on Nintendo Switch in 2026?"
 description: >-
   April 2026 Switch buying guide for 13 Sentinels — 88 Metacritic Vanillaware
@@ -51,8 +50,8 @@ playStyle: >-
   2D adventure investigation scenes, branching character routes, and top-down
   real-time mech engagements against kaiju waves.
 timeCommitment: >-
-  Typical player reports land near 31 hours for story focus, about 36 with extras, and
-  38 for completionists chasing every archive entry.
+  Typical player reports land near 31 hours for story focus, about 36 with
+  extras, and 38 for completionists chasing every archive entry.
 playMode: Single-player.
 whyNow: >-
   The narrative package is complete; the volatile piece is whether your account
@@ -172,10 +171,9 @@ priceRows:
 cardPriceEur: 13.01
 cardPriceRegionCode: US
 cardPriceRegion: United States
-cardPrice: USD 15.24
+cardPrice: USD 15.22
 cardPriceNative: $59.99
 cardPriceNativeCurrency: USD
-
 ---
 
 ## Quick verdict
@@ -195,14 +193,14 @@ Compare your eShop to the US promo anchor and the €59.99 EU MSRP before you as
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| United States | USD 15.23 | $59.99 |
+| United States | USD 15.22 | $59.99 |
 | United Kingdom | USD 20.13 | £49.99 |
-| Hong Kong | USD 22.69 | HK$438 |
-| Japan | USD 48.87 | ¥7,678 |
-| Brazil | USD 58.09 | R$295 |
-| Germany | USD 70.22 | €59.99 |
-| Spain | USD 70.22 | €59.99 |
-| France | USD 70.22 | €59.99 |
+| Hong Kong | USD 22.68 | HK$438 |
+| Japan | USD 48.86 | ¥7,678 |
+| Brazil | USD 58.07 | R$295 |
+| Germany | USD 70.20 | €59.99 |
+| Spain | USD 70.20 | €59.99 |
+| France | USD 70.20 | €59.99 |
 
 ## What kind of game is 13 Sentinels: Aegis Rim?
 

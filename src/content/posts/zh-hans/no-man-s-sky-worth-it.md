@@ -33,15 +33,15 @@ bestFor: 想要一款能随身长期投入的沙盒，而不是线性剧情。
 avoidIf: 你要强叙事节奏、快速上手，或必须在 Nintendo Switch 上联机。
 consensusPraise: 探索自由度、持续更新后的内容体量，以及“这居然能跑在掌机上”。
 mainFriction: 菜单、背包整理与资源磨法很重，没进状态前会先觉得累。
-timeFit:  约 32h 主线、77h 附加、156h 完美——典型长线坑。
+timeFit: 约 32h 主线、77h 附加、156h 完美——典型长线坑。
 fitLabel: 想要“便携常驻游戏”，不是只打一轮剧情的玩家。
 timingNote: 本文只对 Nintendo Switch 给结论；想比较其他平台，直接去 GameGulf 主站详情页。
 communityVibe: 再跳一个星系、背包俄罗斯方块、救赎神话
-playtime: 主线约 32h · 附加 77h+ · 完美约 156h（）
+playtime: 主线约 32h · 附加 77h+ · 完美约 156h
 reviewSignal: Metacritic 约 83 分
-takeaway: 《无人深空》在 Nintendo Switch 版这个价位上已经很好下手——GameGulf 给出的价格和历史数据足够支持现在买。
+takeaway: 《无人深空》适合想把扫描、采矿、基地建造和飞船探索长期放进掌机的人；当前 Switch 日本行 €13.07 贴住史低，能买到这档价就很适合入手。
 playStyle: 开放式生存探索：扫星球、挖资源、升级外骨骼与飞船、盖基地、跑贸易、跟任务线，或者什么都不管只顾乱逛。
-timeCommitment:  汇总约 32 小时主线、77 小时主线加附加、156 小时偏全收集。要是真上头，它不是周末作，而是长线驻场作。
+timeCommitment: 汇总约 32 小时主线、77 小时主线加附加、156 小时偏全收集。要是真上头，它不是周末作，而是长线驻场作。
 playMode: Nintendo Switch 以单人为主。
 whyNow: 现在的 Nintendo Switch 行已经完成最重要的任务：回到追踪史低，基本拿掉了“再等等看”的理由。
 currentDeal: >-
@@ -84,9 +84,7 @@ communityMemes:
   - 活体飞船执念
   - Expedition 错过焦虑
   - Hello Games 救赎线
-tldr: >-
-  无人深空在 Nintendo Switch 上这一轮就可以买——日本区 €13.07 已贴住史低，Metacritic 约 83， 主线约 32
-  小时。
+tldr: 无人深空在 Nintendo Switch 上这一轮就可以买——日本区 €13.07 已贴住史低，Metacritic 约 83，主线约 32 小时。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price
 gameHref: https://www.gamegulf.com/detail/jOx3ZV1olfz
@@ -96,14 +94,14 @@ coverImage: >-
 heroTheme: brand
 cardPriceNative: ¥6,050
 cardPriceNativeCurrency: JPY
-cardPrice: CNY 104.65
+cardPrice: CNY 104.44
 faq:
   - question: 2026 年还值得在 Switch 上买《无人深空》吗？
     answer: >-
       无人深空在 2026 年依然值得买，前提是你想买的是 Nintendo Switch 版。GameGulf 截至 2026 年 4 月 21
       日把日本区压到 €13.07，并且与追踪史低重合，这就是当前最强的购买理由。
   - question: 《无人深空》流程多长？
-    answer: 无人深空按  社区汇总约 32 小时主线、77 小时主线加附加、156 小时偏完美收集——它更像长期驻场作，不是短流程体验。
+    answer: 无人深空约 32 小时主线、77 小时主线加附加、156 小时偏完美收集——它更像长期驻场作，不是短流程体验。
   - question: 想看其他平台价格该去哪里？
     answer: 无人深空如果你想看其他平台价格，直接去 GameGulf 主站详情页更合适；这篇文章刻意只围绕 Nintendo Switch 做购买判断。
   - question: 《无人深空》在 Switch 上跑得怎么样？
@@ -153,10 +151,10 @@ cardPriceRegion: 日本
 
 **无人深空** 在 **Switch** 上是否值得买，核心看两件事：你是否吃这类玩法，以及你区服价格是否进入可接受区间。当前可参考口碑锚点：**Metacritic 约 83 分**。
 
-结合现有信息看， 《无人深空》在 Nintendo Switch 版这个价位上已经很好下手——GameGulf 给出的价格和历史数据足够支持现在买。
+结合现有信息看，《无人深空》适合想把扫描、采矿、基地建造和飞船探索长期放进掌机的人；当前 Switch 日本行 €13.07 贴住史低，能买到这档价就很适合入手。
 你可以先在 [GameGulf 实时价格页](https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price) 对照区服后再下单；这比只看单一区服或手动汇率更稳。
 
-折扣历史提示：以 2026 年窗口看，historical low / sale / discount 线索仍有效，当前可对照到约 €13.07 的参考区间。
+折扣历史提示：以 2026 年窗口看，历史低价 / 促销 / 折扣 线索仍有效，当前可对照到约 €13.07 的参考区间。
 
 ## 《无人深空》在 Switch 上现在大概多少钱？
 
@@ -165,14 +163,14 @@ cardPriceRegion: 日本
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 104.55 | ¥6,050 |
-| 英国 | CNY 367.73 | £39.99 |
-| 德国 | CNY 399.89 | €49.99 |
-| 西班牙 | CNY 399.89 | €49.99 |
-| 法国 | CNY 399.89 | €49.99 |
-| 意大利 | CNY 399.89 | €49.99 |
-| 葡萄牙 | CNY 399.89 | €49.99 |
-| 巴西 | CNY 402.28 | R$299.9 |
+| 日本 | CNY 104.44 | ¥6,050 |
+| 英国 | CNY 367.35 | £39.99 |
+| 德国 | CNY 399.47 | €49.99 |
+| 西班牙 | CNY 399.47 | €49.99 |
+| 法国 | CNY 399.47 | €49.99 |
+| 意大利 | CNY 399.47 | €49.99 |
+| 葡萄牙 | CNY 399.47 | €49.99 |
+| 巴西 | CNY 401.87 | R$299.9 |
 
 建议下单前再打开 [gamegulf.com](https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price) 做一次实时复核，避免“表格快照”和你账号显示不同步。
 
@@ -181,7 +179,7 @@ cardPriceRegion: 日本
 这作主要是 **开放式生存探索：扫星球、挖资源、升级外骨骼与飞船、盖基地、跑贸易、跟任务线，或者什么都不管只顾乱逛。** 向体验。是否适合你，重点不在宣传文案，而在于玩法循环和你平时偏好的匹配度。
 
 - **玩法重心**：更偏向该类型的常规核心循环，上手门槛整体可控。
-- **内容体量**：HLTB 汇总约 32 小时主线、77 小时主线加附加、156 小时偏全收集。要是真上头，它不是周末作，而是长线驻场作。
+- **内容体量**：约 32 小时主线、77 小时主线加附加、156 小时偏全收集。要是真上头，它不是周末作，而是长线驻场作。
 - **适配人群**：想要一款能随身长期投入的沙盒，而不是线性剧情。
 
 ## 《无人深空》在 Switch 上跑得怎么样？
@@ -198,7 +196,7 @@ cardPriceRegion: 日本
 - 你在 [GameGulf](https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price) 看到的区服价格已经进入你的目标带
 - 你希望近期就开玩，不想继续等待下一轮促销窗口
 - 时机提醒：本文只对 Switch 给结论；想比较其他平台，直接去 GameGulf 主站详情页。
-- 你能接受这作的体量与节奏：HLTB 汇总约 32 小时主线、77 小时主线加附加、156 小时偏全收集。要是真上头，它不是周末作，而是长线驻场作。
+- 你能接受这作的体量与节奏：约 32 小时主线、77 小时主线加附加、156 小时偏全收集。要是真上头，它不是周末作，而是长线驻场作。
 
 ## 更适合等等，如果
 

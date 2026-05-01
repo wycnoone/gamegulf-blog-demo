@@ -36,7 +36,7 @@ bestFor: Jogadores de rotinas suaves e projetos de decoração longos.
 avoidIf: Precisa de metas rígidas, combate ou história rápida.
 consensusPraise: Liberdade de decoração, ritmo sazonal, charme dos vizinhos.
 mainFriction: Final autodirigido — entedia se quiser missões constantes.
-timeFit:  ~61 h principal, ~152 h extras, ~413 h completionist (agregados).
+timeFit: ~61 h principal, ~152 h extras, ~413 h completionist (agregados).
 fitLabel: Criadores que tratam a ilha como projeto longo.
 timingNote: >-
   Se a sua linha segue o cluster baixo japonês, esperar mega promoção é pouco
@@ -50,9 +50,7 @@ takeaway: >-
 playStyle: >-
   Relógio real, milhas Nook, receitas DIY, terraformação, visitas multijogador,
   partilha de designs.
-timeCommitment: >-
-  de dezenas de horas para uma visão de ilha até centenas para museu
-  completo.
+timeCommitment: de dezenas de horas para uma visão de ilha até centenas para museu completo.
 playMode: Ilha a solo + visitas locais/online; offline na sua ilha.
 whyNow: Primavera 2026 — preços indexados perto do observado; não adie sem motivo.
 currentDeal: >-
@@ -174,7 +172,7 @@ cardPriceNativeCurrency: JPY
 **Animal Crossing: New Horizons** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **Long-tail cozy sim**.
 
 Animal Crossing: New Horizons encaixa quando o índice está perto do mínimo rastreado — valide primeiro se o ciclo cozy agrada.
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €35.76.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €35.76.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price).
 
@@ -214,7 +212,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: ~61 h principal · 152 h+ extras · ~413 h completionist
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Precisa de metas rígidas, combate ou história rápida.

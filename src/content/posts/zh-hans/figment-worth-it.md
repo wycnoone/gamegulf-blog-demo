@@ -9,7 +9,7 @@ platform: Nintendo Switch
 author: GameGulf Editorial AI
 readingTime: 8 分钟阅读
 decision: 若你想要短流程、歌曲驱动的动作冒险——2026 年 4 月索引把日本行放在接近历史低价的促销带， 平均促销价也很低，适合下手。
-priceSignal: 索引显示日本约 €0.54 等值的大促，而多个欧区 eShop 仍贴 €19.99 档 MSRP——价差极大。
+priceSignal: 索引显示日本约 €0.54 等值的大促，而多个欧区 eShop 仍贴 €19.99 档 标价——价差极大。
 heroStat: Metacritic 约 75 分
 heroNote: Bedtime Digital 的音乐脑洞：Dusty 与 Piper、会唱歌的 Boss、手绘怪诞与轻量战斗节奏。
 badge: 现在就买
@@ -24,20 +24,20 @@ bestFor: 喜欢短流程独立游戏、把原声当主菜的人。
 avoidIf: 你要魂系硬核战斗或 40 小时 RPG 体量。
 consensusPraise: 美术、音乐即世界、Boss 对唱都很有魅力。
 mainFriction: 战斗偏简单——上限在探索与谜题，不在完美弹反。
-timeFit:  约 5h 主线、6h 附加、7h 完美（社区）。
+timeFit: 约 5h 主线、6h 附加、7h 完美（社区）。
 fitLabel: 把游戏当「可玩概念专辑」的人。
 timingNote: 若能买到日本促销带，犹豫多半只剩口味问题——结账前仍要核对商店实时价。
 communityVibe: Boss 耳虫、温柔噩梦气质、Piper 正能量梗
-playtime: 主线 5h · 附加 6h+ · 完美约 7h（）
+playtime: 主线 5h · 附加 6h+ · 完美约 7h
 reviewSignal: Metacritic 约 75 分
 takeaway: Figment 在索引价贴近史低时很容易冲动下单——但别默认全球同价，先对照自己的 eShop 行。
 playStyle: 俯视角轻战斗、谜题、音乐段落，以及在风格化脑内世界里面对恐惧的叙事节拍。
-timeCommitment:  汇总约 5 小时主线、6 小时含附加、7 小时清秘密。
+timeCommitment: 汇总约 5 小时主线、6 小时含附加、7 小时清秘密。
 playMode: 单人。
 whyNow: 价格在扛大旗——素质是 mid-70s 的魅力作而非完美神作，所以性价比很关键。
-currentDeal: 索引栈以日本约 €0.54 等值（¥2,200 语境）领先，随后是美国、巴西促销行，再上欧区 MSRP。
+currentDeal: 索引栈以日本约 €0.54 等值（¥2,200 语境）领先，随后是美国、巴西促销行，再上欧区 标价。
 nearHistoricalLow: 是——2026 年 4 月索引把当前日本主导的促销带视为与追踪到的历史低价姿态一致。
-salePattern: 追踪窗口里深促反复出现——碰到就锁，别等全面回到 MSRP。
+salePattern: 追踪窗口里深促反复出现——碰到就锁，别等全面回到 标价。
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -140,23 +140,23 @@ cardPriceRegion: 日本
 
 你可以先在 [GameGulf 实时价格页](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) 对照区服后再下单；这比只看单一区服或手动汇率更稳。
 
-折扣历史提示：以 2026 年窗口看，historical low / sale / discount 线索仍有效，当前可对照到约 €0.54 的参考区间。
+折扣历史提示：以 2026 年窗口看，历史低价 / 促销 / 折扣 线索仍有效，当前可对照到约 €0.54 的参考区间。
 
 ## 《Figment》在 Switch 上现在大概多少钱？
 
-价格判断先看区服差：索引显示日本约 €0.54 等值的大促，而多个欧区 eShop 仍贴 €19.99 档 MSRP——价差极大。
+价格判断先看区服差：索引显示日本约 €0.54 等值的大促，而多个欧区 eShop 仍贴 €19.99 档 标价——价差极大。
 
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
 | 日本 | CNY 4.32 | ¥2,200 |
-| 美国 | CNY 13.84 | $19.99 |
-| 巴西 | CNY 16.16 | R$99.99 |
-| 香港 | CNY 131.99 | HK$149 |
-| 德国 | CNY 159.91 | €19.99 |
-| 西班牙 | CNY 159.91 | €19.99 |
-| 法国 | CNY 159.91 | €19.99 |
-| 意大利 | CNY 159.91 | €19.99 |
+| 美国 | CNY 13.82 | $19.99 |
+| 巴西 | CNY 16.14 | R$99.99 |
+| 香港 | CNY 131.85 | HK$149 |
+| 德国 | CNY 159.74 | €19.99 |
+| 西班牙 | CNY 159.74 | €19.99 |
+| 法国 | CNY 159.74 | €19.99 |
+| 意大利 | CNY 159.74 | €19.99 |
 
 建议下单前再打开 [gamegulf.com](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) 做一次实时复核，避免“表格快照”和你账号显示不同步。
 
@@ -165,7 +165,7 @@ cardPriceRegion: 日本
 这作主要是 **俯视角轻战斗、谜题、音乐段落，以及在风格化脑内世界里面对恐惧的叙事节拍。** 向体验。是否适合你，重点不在宣传文案，而在于玩法循环和你平时偏好的匹配度。
 
 - **玩法重心**：更偏向该类型的常规核心循环，上手门槛整体可控。
-- **内容体量**：HLTB 汇总约 5 小时主线、6 小时含附加、7 小时清秘密。
+- **内容体量**：时长参考：约 5 小时主线、6 小时含附加、7 小时清秘密。
 - **适配人群**：喜欢短流程独立游戏、把原声当主菜的人。
 
 ## 《Figment》在 Switch 上跑得怎么样？
@@ -182,7 +182,7 @@ cardPriceRegion: 日本
 - 你在 [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) 看到的区服价格已经进入你的目标带
 - 你希望近期就开玩，不想继续等待下一轮促销窗口
 - 时机提醒：若能买到日本促销带，犹豫多半只剩口味问题——结账前仍要核对商店实时价。
-- 你能接受这作的体量与节奏：HLTB 汇总约 5 小时主线、6 小时含附加、7 小时清秘密。
+- 你能接受这作的体量与节奏：时长参考：约 5 小时主线、6 小时含附加、7 小时清秘密。
 
 ## 更适合等等，如果
 
@@ -193,6 +193,6 @@ cardPriceRegion: 日本
 
 ## 《Figment》在 Switch — 收尾建议
 
-把这篇当作“先看口味、再看区服价格”的决策卡更合适。追踪窗口里深促反复出现——碰到就锁，别等全面回到 MSRP。
+把这篇当作“先看口味、再看区服价格”的决策卡更合适。追踪窗口里深促反复出现——碰到就锁，别等全面回到 标价。
 
 最后一步：打开 **[GameGulf 价格页](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** 看你账号的实时价格；到位就买，不到位就挂愿望单等下一窗。

@@ -37,7 +37,7 @@ bestFor: Gruppen mit kurzen Sofa- oder Online-Sessions ohne Umstände.
 avoidIf: Nur Solo-CPU ohne Multi-Bedarf — dann passt der Flaggschiff-Preis nicht.
 consensusPraise: Strecken-Remix, Item-Spannung und 60-fps-Lesbarkeit bleiben Maßstab.
 mainFriction: Fortschritt ist Skill, keine Handlung — nervt bei Hass auf Wiederholung.
-timeFit:  ~6 h Haupt, ~23 h Extra, ~54 h Completionist (Community).
+timeFit: ~6 h Haupt, ~23 h Extra, ~54 h Completionist (Community).
 fitLabel: Party-Spieler, die „noch eine Cup“ dauerhaft installiert haben wollen.
 timingNote: >-
   Passt deine Zeile zum Japan-Preis, ist der Kauf einfach — sonst Tabelle
@@ -51,7 +51,7 @@ takeaway: >-
 playStyle: >-
   GP-Cups, VS-Rennen, Ballon-Battles, zwei Items, Lenkhilfe für Kinder,
   regionales/weltweites Online-Matchmaking.
-timeCommitment:  kurz im „Story“-Sinn, lang bei Medaillen und Online-Saisons.
+timeCommitment: kurz im „Story“-Sinn, lang bei Medaillen und Online-Saisons.
 playMode: Lokal (Split / Wireless) und online; Solo gegen CPU.
 whyNow: 2026 dreht sich der Wert ums Soziale — fährt dein Umfeld noch mit?
 currentDeal: >-
@@ -109,9 +109,8 @@ faq:
       deinem Nintendo-Konto.
   - question: Wie lang dauert Mario Kart 8 Deluxe?
     answer: >-
-      Mario Kart 8 Deluxe liegt laut  bei ~6 h für Haupt-Cups, ~23 h mit
-      Extras und ~54 h Completionist — Wohnzimmer-Spieler strecken das über
-      Monate.
+      Mario Kart 8 Deluxe liegt laut  bei ~6 h für Haupt-Cups, ~23 h mit Extras
+      und ~54 h Completionist — Wohnzimmer-Spieler strecken das über Monate.
   - question: Lebt Online noch?
     answer: >-
       Mario Kart 8 Deluxe füllt 2026 dank Installbasis Lobbies; Tour-Rotation
@@ -171,13 +170,15 @@ cardPriceNativeCurrency: JPY
 
 Mario Kart 8 Deluxe bleibt der sichere Switch-Mehrspieler-Standard — kaufen, wenn die Regionalzeile fair wirkt.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €35.76.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €35.76.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/hOtepbk2uh2#currency-price) gegen deine Region halten.
 
 ## Was kostet Mario Kart 8 Deluxe auf Nintendo Switch aktuell?
 
 Mario Kart 8 Deluxe bleibt der sichere Switch-Mehrspieler-Standard — kaufen, wenn die Regionalzeile fair wirkt.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 35.76 | ¥6,578 |
@@ -206,11 +207,11 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - du mit **Gruppen mit kurzen Sofa- oder Online-Sessions ohne Umstände.** grundsaetzlich gut klarkommst
 - dein Regionspreis auf GameGulf im Zielkorridor liegt
 - du zeitnah starten willst statt auf den naechsten Sale zu warten
-- dir der Umfang passt: HLTB kurz im „Story“-Sinn, lang bei Medaillen und Online-Saisons.
+- dir der Umfang passt: Spielzeit-Richtwert: kurz im „Story“-Sinn, lang bei Medaillen und Online-Saisons.
 
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Nur Solo-CPU ohne Multi-Bedarf — dann passt der Flaggschiff-Preis nicht.

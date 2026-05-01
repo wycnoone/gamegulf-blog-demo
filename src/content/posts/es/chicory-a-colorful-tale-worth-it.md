@@ -36,16 +36,14 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: >-
-  Chicory (~MC90) — Japón lidera filas pero promos registradas están más limpias
-  vs precio etiqueta abril.
+  Chicory (~MC90): Japón lidera, pero las promos registradas vencen al precio
+  etiqueta de abril.
 whatItIs: >-
   Viaje cosy con brocha; cierra rutas, ropa opcional y minijuegos postales con
-  co‑op local sólo física.
-bestFor: Si quieren ritmo tranquilizante con cabeza, no ranking online.
+  co‑op local
+bestFor: Si quieren ritmo tranquilizante con cabeza, no ranking
 avoidIf: Necesitan solo coop online competitiva sin backtracking tardío.
-consensusPraise: >-
-  Banda sonora íntima, modos ayuda opcionales, tono bien medido contra ansiedad
-  creativa.
+consensusPraise: Banda sonora íntima, modos ayuda opcionales, tono bien medido contra ansiedad
 mainFriction: Reabrir mapas cuando nuevas tintas aparecen atrasa ritmo ansiosos.
 timeFit: 9 h ruta línea recta · ~13 h side mail · ~21 h coleccionarlos todos.
 fitLabel: Importa si ves el lienzo antes que el marcador rápido.
@@ -62,7 +60,7 @@ timeCommitment: >-
 playMode: Historia uno; segundo player local coop brocha sólo física.
 whyNow: El debate técnico ya enfrió; bloque típico hoy sólo presupuesto.
 currentDeal: >-
-  Instantáneas abril muestran Japón encabezando tabla digital MSRP zonas UE
+  Instantáneas abril muestran Japón encabezando tabla digital precio de lista zonas UE
   ~€18,99 todavía alta.
 nearHistoricalLow: >-
   Indices GameGulf marcan menor ~€7,94 JP (2025‑08‑18) y Brasil ~€8,03
@@ -157,6 +155,7 @@ cardPriceNative: ¥2940
 cardPriceNativeCurrency: JPY
 playtime: ~9 h historia, 13 h extras, ~21 h al 100%
 ---
+
 ## Verdict rápido
 
 **Chicory: A Colorful Tale** se mantiene cerca **~90 Metacritic** porque entrega pintura cerebral + narrativa delicada (**Lena Raine**, tramas correo/foto locales) igual que tabla GameGulf — **primer paso revisar [lista regional](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)** porque **gamegulf.com** muestra dispersiones grandes.
@@ -167,7 +166,19 @@ Consultad **gamegulf.com**/GameGulf juntos porque la URL **precio tabla** mismo 
 
 ## ¿Cuánto cuesta Chicory en Switch ya mismo?
 
-Mercados grandes Europa sitúan etiqueta habitual ~ €18,99 mientras Japón conduce zona barata indizada — después sync script llena valores convertidos igual que **gamegulf.com** payload **priceRows**.
+Mercados grandes Europa sitúan etiqueta habitual ~ €18,99 mientras Japón conduce zona barata indizada — después sync script llena valores convertidos igual que **gamegulf.com** payload **captura de precios**.
+
+
+| Región | Precio (equivalente en EUR) | Precio nativo |
+| --- | ---: | ---: |
+| Japón | EUR 15.88 | ¥2940 |
+| Brasil | EUR 16.07 | R$95.83 |
+| Hong Kong | EUR 17.04 | HK$156 |
+| Estados Unidos | EUR 17.10 | $19.99 |
+| Alemania | EUR 18.99 | €18.99 |
+| España | EUR 18.99 | €18.99 |
+| Francia | EUR 18.99 | €18.99 |
+| Reino Unido | EUR 19.65 | £17.09 |
 
 **Analyzing discount history**, comparad **sale** medio ~€10,20 contra **discount** marcado abril y recordad **historical deep band** japones/brasil fechas mencionadas; **mínimo histórico** real dista de precio Japón tabla actual — ese gap importa backlog impaciente menos que sensaciones musica/emocional trabajo artísticos.
 

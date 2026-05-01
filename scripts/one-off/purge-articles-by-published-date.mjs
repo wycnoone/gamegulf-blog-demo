@@ -1,6 +1,6 @@
 /**
  * Remove all posts with a given publishedAt, matching briefs, and clear Astro + dist caches.
- * Usage: node scripts/purge-articles-by-published-date.mjs [YYYY-MM-DD]
+ * Usage: node scripts/one-off/purge-articles-by-published-date.mjs [YYYY-MM-DD]
  */
 import fs from "fs";
 import path from "path";

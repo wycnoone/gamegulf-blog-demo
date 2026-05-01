@@ -1,6 +1,6 @@
 /**
  * Removes NS2 TodaysDeals queue entries (same batch whose articles were purged).
- * Usage: node scripts/prune-ns2-queue-batch.mjs
+ * Usage: node scripts/one-off/prune-ns2-queue-batch.mjs
  */
 import fs from "fs";
 import path from "path";

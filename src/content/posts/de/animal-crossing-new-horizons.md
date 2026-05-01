@@ -37,7 +37,7 @@ bestFor: Spieler mit sanften Routinen und langen Dekoprojekten.
 avoidIf: Harte Ziele, Kampf oder schnelle Story sind Pflicht.
 consensusPraise: Dekofreiheit, saisonaler Rhythmus, Nachbarn-Charme.
 mainFriction: Spätspiel selbstgesteuert — langweilig, wenn du ständige Quests willst.
-timeFit:  ~61 h Haupt, ~152 h Extra, ~413 h Completionist (Community).
+timeFit: ~61 h Haupt, ~152 h Extra, ~413 h Completionist (Community).
 fitLabel: Kreative, die die Insel als Langzeitprojekt sehen.
 timingNote: Passt deine Zeile zum japanischen Tiefcluster, ist Wunder-Sale selten.
 communityVibe: Rüben-Ökonomie trifft wholesome Landschaft
@@ -49,9 +49,7 @@ takeaway: >-
 playStyle: >-
   Echtzeituhr, Meilen, DIY-Rezepte, Terraforming, Multiplayer-Besuche, Designs
   teilen.
-timeCommitment: >-
-  von einigen Dutzend Stunden für eine Inselvision bis zu hunderten fürs
-  Museum.
+timeCommitment: von einigen Dutzend Stunden für eine Inselvision bis zu hunderten fürs Museum.
 playMode: Solo-Insel + lokale/Online-Besuche; offline auf der eigenen Insel spielbar.
 whyNow: >-
   Frühling 2026 — indexierte Preise nah am beobachteten Tief; nicht grundlos
@@ -175,13 +173,15 @@ cardPriceNativeCurrency: JPY
 **Animal Crossing: New Horizons** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **Long-tail cozy sim**.
 
 Animal Crossing: New Horizons passt, wenn der Index nah am erfassten Tief liegt — prüfe zuerst, ob dir die cozy-Schleife zusagt.
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €35.76.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €35.76.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price) gegen deine Region halten.
 
 ## Was kostet Animal Crossing: New Horizons auf Nintendo Switch aktuell?
 
 Animal Crossing: New Horizons passt, wenn der Index nah am erfassten Tief liegt — prüfe zuerst, ob dir die cozy-Schleife zusagt.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 35.76 | ¥6,578 |
@@ -213,7 +213,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Solo-Insel + lokale/Online-Besuche; offline auf der eigenen Insel spielbar.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Harte Ziele, Kampf oder schnelle Story sind Pflicht.

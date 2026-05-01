@@ -47,7 +47,7 @@ timeFit: 9 h fil → ~13 h quêtes annexes → ~21 h si tout fermer costumes & p
 fitLabel: Pour tracer sans crainte des retours arrière ludiques tardifs.
 timingNote: >-
   relisez la grille régionale GameGulf avant paiement même si votre store
-  affiche encore du MSRP européen.
+  affiche encore du prix catalogue européen.
 communityVibe: Peindre tous les arbres puis repartir cuisiner tranquillement
 reviewSignal: Metacritic 90
 takeaway: >-
@@ -159,13 +159,13 @@ playtime: ~9 h principale, 13 h extras, ~21 h complétion
 
 **Chicory&nbsp;: A Colorful Tale** (≈&nbsp;**90&nbsp;Metacritic**) conjugue narration sur la création nerveuse avec une base **paint‑Traversal** très lisible hors boss rush brut — parcourir **[la grille prix](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)** évite fantasmer un « meilleur universel » alors que vos soldes reflètent seulement un autre storefront.
 
-April&nbsp;2026 aligne encore un **axe Japon&nbsp;€15,88** indexée quand plusieurs **promotion** saisonnières descendant **historiquement** vers **€7,94 JP (2025‑08‑18)** puis **€8,03 BR (2025‑12‑22)** — soit plus bas que vos paniers spontanés. **gamegulf.com** aide à suivre cet écart ; même page GameGulf rappelle le contexte **`priceRows`**.
+April&nbsp;2026 aligne encore un **axe Japon&nbsp;€15,88** indexée quand plusieurs **promotion** saisonnières descendant **historiquement** vers **€7,94 JP (2025‑08‑18)** puis **€8,03 BR (2025‑12‑22)** — soit plus bas que vos paniers spontanés. **gamegulf.com** aide à suivre cet écart ; même page GameGulf rappelle le contexte **instantané de prix**.
 
 Résumé prudent&nbsp;: mieux comparer vos paliers européens listés (**~€18,99 hors promo**) à ce tableau GameGulf plutôt qu’imaginer prix homogènes.
 
 ## Combien coûte Chicory sur Nintendo Switch maintenant&nbsp;?
 
-Les lignes zonales suivent encore le grand écart : **`priceRows`** alimentée par **gamegulf.com** — base identique carte article — doit être recalée au moment paiement après sync.
+Les lignes zonales suivent encore le grand écart : **instantané de prix** alimentée par **gamegulf.com** — base identique carte article — doit être recalée au moment paiement après sync.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |

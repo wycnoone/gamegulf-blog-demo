@@ -31,8 +31,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 1
 listingTakeaway: >-
-  Sandbox mecha con sello Metacritic 79, pero el precio aún huele más a MSRP
-  europeo que a oferta.
+  Sandbox mecha con Metacritic 79; el precio aún parece más lista europea que
+  oferta real.
 whatItIs: "Acción TPS Arsenal: zonas grandes, combos aéreos, loot coopera hasta tres."
 bestFor: Jugadores mecha que aman coop nocturno con builds complejas.
 avoidIf: Te fatigan menús HUD apretados antes de llegar al choque inicial.

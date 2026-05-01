@@ -26,15 +26,15 @@ bestFor: 短いコースと家族協力が欲しい人。
 avoidIf: 深い史低しか買わない／2Dマリオが嫌いなら見送り。
 consensusPraise: ワンダー演出が強く、ステージが読みやすく、協力の敷居が低い。
 mainFriction: 同価格のJRPGより短い——価値は密度と再プレイ。
-timeFit:  約10h本編、14h追加、20hコンプ。
+timeFit: 約10h本編、14h追加、20hコンプ。
 fitLabel: サクッと遊びたい、ソファ協力、任天堂品質志向。
 timingNote: 価値の基準は日本の価格——このデータでは深いセール履歴が薄い。
 communityVibe: ワンダーフラワー梗、ゾウマリオ、スタンド救難隊
-playtime: 約10h本編 · 14h+追加 · ~20hコンプ（）
+playtime: 約10h本編 · 14h+追加 · ~20hコンプ
 reviewSignal: Metacritic 92
 takeaway: ワンダーは現代2Dマリオの基準作——合うなら定価で、第一方価格が無理ならアラート。
 playStyle: ワンダーフラワー、バッジ構成、ヨッシー/ナビット向け、ローカル4人協力、オンライン影とスタンド、フラワー王国の流れ。
-timeCommitment:  約10時間本線、追加込み約14時間、コンプ約20時間。
+timeCommitment: 約10時間本線、追加込み約14時間、コンプ約20時間。
 playMode: 同一機で最大4人協力、オンライン手伝いとレース。
 whyNow: 品質はMetacritic 92で固定——問いは任天堂の定番デジタル価格帯を受け入れるか。
 currentDeal: 2026年4月スナップショットで日本が約€35.34換算（¥6,500）先行、香港・米・ブラジルが上乗せ。
@@ -115,14 +115,14 @@ priceRows:
 cardPriceEur: 35.34
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 6598
+cardPrice: JPY 6475
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
 ---
 
 ## クイック結論
 
-**『スーパーマリオブラザーズ ワンダー』は現行2Dマリオの基準** — **Metacritic 92**、**HLTB ~10h / 14h / 20h**。**日本 ~€35.34（¥6,500）**、**米 ~$59.99**；**0** 件の**セール**捕捉。**割引**履歴が薄い。
+**『スーパーマリオブラザーズ ワンダー』は現行2Dマリオの基準** — **Metacritic 92**、**プレイ時間の目安：~10h / 14h / 20h**。**日本 ~€35.34（¥6,500）**、**米 ~$59.99**；**0** 件の**セール**捕捉。**割引**履歴が薄い。
 
 **GameGulf：** 決済前に[マルチリージョンの価格表](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price)で自分のニンテンドーアカウントのストア表示を確認する。**GameGulf** はこのSKUを追跡し、下の過去最安帯との比較に使える。
 
@@ -130,12 +130,13 @@ cardPriceNativeCurrency: JPY
 
 **日本が先行。**
 
+
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 6610 | ¥6,500 |
-| 香港 | JPY 6816 | HK$329 |
-| アメリカ合衆国 | JPY 9740 | $59.99 |
-| ブラジル | JPY 10980 | R$349 |
+| 日本 | JPY 6475 | ¥6,500 |
+| 香港 | JPY 6676 | HK$329 |
+| アメリカ合衆国 | JPY 9540 | $59.99 |
+| ブラジル | JPY 10754 | R$349 |
 
 **2026** 年の**価格**帯は実質**フロア**。**セール**は年間でも稀で、**最安値**は日本の価格の **¥6,500** 付近と索引が重なりやすい。**GameGulf** [表](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price)。
 

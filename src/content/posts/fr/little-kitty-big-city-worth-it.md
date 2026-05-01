@@ -156,7 +156,7 @@ cardPriceNativeCurrency: EUR
 
 Little Kitty, Big City se recommande vite si le ton te parle ; le prix est défendable, mais pas le plancher absolu.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €14.99.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €14.99.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price).
 
@@ -197,7 +197,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Tu veux du combat profond ou une courbe de progression longue.

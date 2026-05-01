@@ -1,7 +1,7 @@
 ---
 title: 2026年、Switch版『チェインド・エコーズ』は買いか？
 description: >-
-  2026年4月購入メモ。インデックス上ブラジル主導と、過去に香港トラッキングで観測された深い谷底、約90点帯の批評評価、HLTB体感に近い35〜56時間級の規模感。
+  2026年4月購入メモ。インデックス上ブラジル主導と、過去に香港トラッキングで観測された深い谷底、約90点帯の批評評価、プレイ時間の目安：体感に近い35〜56時間級の規模感。
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -71,7 +71,8 @@ playerVoices:
   - quote: メニュー詰め苦手だと読み応えにも壁が出る。
     sentiment: negative
 tldr: >-
-  チェインド・エコーズ — Metacritic約90のSwitch向けJRPG。4月はブラジル索引が先手、ログ上の香港深底は過去イベント——gamegulf.comで行確認してから決める。
+  チェインド・エコーズ —
+  Metacritic約90のSwitch向けJRPG。4月はブラジル索引が先手、ログ上の香港深底は過去イベント——gamegulf.comで行確認してから決める。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/iapEa7sttwo#currency-price
 gameHref: https://www.gamegulf.com/detail/iapEa7sttwo
@@ -124,7 +125,7 @@ priceRows:
 cardPriceEur: 8.05
 cardPriceRegionCode: BR
 cardPriceRegion: ブラジル
-cardPrice: JPY 1506
+cardPrice: JPY 1475
 cardPriceNative: R$47.99
 cardPriceNativeCurrency: BRL
 ---
@@ -142,14 +143,14 @@ cardPriceNativeCurrency: BRL
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ブラジル | JPY 1506 | R$47.99 |
-| 香港 | JPY 2228 | HK$109 |
-| 日本 | JPY 2828 | ¥2800 |
-| アメリカ合衆国 | JPY 3999 | $24.99 |
-| ドイツ | JPY 4674 | €24.99 |
-| スペイン | JPY 4674 | €24.99 |
-| フランス | JPY 4674 | €24.99 |
-| イギリス | JPY 4944 | £22.99 |
+| ブラジル | JPY 1475 | R$47.99 |
+| 香港 | JPY 2182 | HK$109 |
+| 日本 | JPY 2770 | ¥2800 |
+| アメリカ合衆国 | JPY 3917 | $24.99 |
+| ドイツ | JPY 4578 | €24.99 |
+| スペイン | JPY 4578 | €24.99 |
+| フランス | JPY 4578 | €24.99 |
+| イギリス | JPY 4842 | £22.99 |
 
 トラッキングの一年では**セール**局面と深い瞬間が交錯し、**最安値**級の香港ログ（**2025-12-17**付近 **~€5.9**、リスト比約−50％相当）が観測される一方、平均しきい値は**€8.9**前後——最終アクセスから**およそ133日**で、常時セールではなくウィッシュリスト向きのカーブです。
 

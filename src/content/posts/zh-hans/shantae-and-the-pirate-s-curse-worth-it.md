@@ -10,7 +10,7 @@ gameTitle: 桑塔与海盗的诅咒
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 分钟阅读
 decision: 喜欢 WayForward 手感与明快地图的玩家很合适；但今日多区欧元牌价约 €16.22，史低窗口更深， 建议结合 GameGulf 设提醒。
@@ -90,6 +90,45 @@ heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
 playtime: 预估：单局约5–15分钟，靠反复游玩延长
+priceRows:
+  - regionCode: DE
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 16.77
+    nativePrice: £14.59
+    nativeCurrency: GBP
+  - regionCode: US
+    eurPrice: 17.1
+    nativePrice: $19.99
+    nativeCurrency: USD
+  - regionCode: BR
+    eurPrice: 17.61
+    nativePrice: R$104.99
+    nativeCurrency: BRL
+cardPriceEur: 16.22
+cardPriceRegionCode: DE
+cardPriceRegion: 德国
+cardPrice: CNY 129.61
+cardPriceNative: €16.22
+cardPriceNativeCurrency: EUR
 ---
 ## 快速结论
 
@@ -99,7 +138,19 @@ playtime: 预估：单局约5–15分钟，靠反复游玩延长
 
 ## 《桑塔与海盗的诅咒》在 Nintendo Switch 上现在卖多少钱？
 
-**数字版区服差依旧硬**：指数里**欧元区**常见 **~€16.22** 档，**美区 / 巴西**在换算列里再抬一档，**日本**在这次快照里偏贵。**下表**与 **gamegulf.com** 同源 **priceRows**；结账请看 **本币标价**。
+**数字版区服差依旧硬**：指数里**欧元区**常见 **~€16.22** 档，**美区 / 巴西**在换算列里再抬一档，**日本**在这次快照里偏贵。**下表**与 **gamegulf.com** 同源 **价格快照**；结账请看 **本币标价**。
+
+
+| 地区 | 价格（人民币折算） | 原生价格 |
+| --- | ---: | ---: |
+| 德国 | CNY 129.61 | €16.22 |
+| 西班牙 | CNY 129.61 | €16.22 |
+| 法国 | CNY 129.61 | €16.22 |
+| 意大利 | CNY 129.61 | €16.22 |
+| 葡萄牙 | CNY 129.61 | €16.22 |
+| 英国 | CNY 134.01 | £14.59 |
+| 美国 | CNY 136.65 | $19.99 |
+| 巴西 | CNY 140.72 | R$104.99 |
 
 ## 它到底是哪款游戏？
 

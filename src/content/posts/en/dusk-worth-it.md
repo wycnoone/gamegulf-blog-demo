@@ -159,9 +159,9 @@ Regional numbers below are synced **GameGulf** rows. Always reconcile with [game
 | France | USD 19.50 | €16.66 |
 | Italy | USD 19.50 | €16.66 |
 | Portugal | USD 19.50 | €16.66 |
-| Brazil | USD 20.02 | R$101.95 |
-| United States | USD 20.02 | $19.99 |
-| United Kingdom | USD 20.04 | £14.89 |
+| Brazil | USD 20.01 | R$101.95 |
+| United States | USD 20.01 | $19.99 |
+| United Kingdom | USD 20.03 | £14.89 |
 
 ## What kind of game is DUSK, really?
 

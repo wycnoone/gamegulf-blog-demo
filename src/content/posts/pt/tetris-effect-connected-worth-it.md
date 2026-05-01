@@ -176,7 +176,7 @@ cardPriceNativeCurrency: HKD
 
 Tetris® Effect: Connected mantém o posto — preço abril 2026 é “varejo de qualidade”, não o piso histórico, salvo se já estiver em promo.
 
-Sinal de histórico de desconto: os fundos indexados continuam perto de **€9,61** em Hong Kong (**2025-06-09**, novo corte **2025-12-17**); o índice atual começa mais perto de **€19,22** em HK$176, enquanto EUA/UE frequentemente mostram **MSRP (~$39,99 / €39,99)**. No feed GameGulf, o **menor preço histórico** útil segue ancorado em **€9,61**, com **promoção** rara porém profunda e média de **€16,53** nas quedas estudadas.
+Sinal de histórico de desconto: os fundos indexados continuam perto de **€9,61** em Hong Kong (**2025-06-09**, novo corte **2025-12-17**); o índice atual começa mais perto de **€19,22** em HK$176, enquanto EUA/UE frequentemente mostram **preço cheio (~$39,99 / €39,99)**. No feed GameGulf, o **menor preço histórico** útil segue ancorado em **€9,61**, com **promoção** rara porém profunda e média de **€16,53** nas quedas estudadas.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price).
 
@@ -213,11 +213,11 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - voce curte **Quem quer puzzle ágil, espetáculo e multi a sério.**
 - teu preco regional no GameGulf ja entrou na faixa-alvo
 - voce quer jogar ja, sem esperar outra janela de desconto
-- o ritmo te atende: Journey curta no HLTB; ranques, multi e coleção esticam muito.
+- o ritmo te atende: Journey curta no Duração estimada: ; ranques, multi e coleção esticam muito.
 
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Só Tetris minimalista sem efeitos — passe.

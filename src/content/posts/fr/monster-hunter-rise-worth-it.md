@@ -180,7 +180,7 @@ cardPriceNativeCurrency: JPY
 
 Monster Hunter Rise reste un bon achat en 2026, surtout avec la ligne Japon au plancher.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €4.33.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €4.33.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/lqa9TJHCgVE#currency-price).
 
@@ -220,7 +220,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo et multijoueur en ligne.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Passez votre chemin si vous detestez le farm de materiaux.

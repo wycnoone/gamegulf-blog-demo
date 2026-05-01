@@ -120,7 +120,7 @@ priceRows:
 cardPriceEur: 5.37
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 42.96
+cardPrice: CNY 42.91
 cardPriceNative: ¥3,980
 cardPriceNativeCurrency: JPY
 ---
@@ -134,19 +134,19 @@ cardPriceNativeCurrency: JPY
 
 ## 《怪物男孩与被诅咒的王国》在 Switch 上现在大概多少钱？
 
-**数字版各区价格变动很快** — 下表与 frontmatter 同源，均来自 **GameGulf**。请到 [gamegulf.com](https://www.gamegulf.com) 对照你账号区服的真实标价。
+**数字版各区价格变动很快** — 下表与 价格快照 同源，均来自 **GameGulf**。请到 [gamegulf.com](https://www.gamegulf.com) 对照你账号区服的真实标价。
 
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 42.96 | ¥3,980 |
-| 德国 | CNY 79.91 | €39.99 |
-| 西班牙 | CNY 79.91 | €39.99 |
-| 法国 | CNY 79.91 | €39.99 |
-| 葡萄牙 | CNY 79.91 | €39.99 |
-| 美国 | CNY 273.66 | $39.99 |
-| 香港 | CNY 278.70 | HK$319 |
-| 意大利 | CNY 319.89 | €39.99 |
+| 日本 | CNY 42.91 | ¥3,980 |
+| 德国 | CNY 79.83 | €39.99 |
+| 西班牙 | CNY 79.83 | €39.99 |
+| 法国 | CNY 79.83 | €39.99 |
+| 葡萄牙 | CNY 79.83 | €39.99 |
+| 美国 | CNY 273.37 | $39.99 |
+| 香港 | CNY 278.41 | HK$319 |
+| 意大利 | CNY 319.56 | €39.99 |
 
 ## 《怪物男孩与被诅咒的王国》到底是什么类型的游戏？
 

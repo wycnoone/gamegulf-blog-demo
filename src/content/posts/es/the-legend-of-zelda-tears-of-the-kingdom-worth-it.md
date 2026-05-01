@@ -29,7 +29,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  Zelda top en Switch — Japón es lo más barato rastreado; mira tu eShop vs MSRP
+  Zelda top en Switch — Japón es lo más barato rastreado; mira tu eShop vs precio de lista
   USA.
 whatItIs: >-
   Switch open world: superficie/cielo/Profundidades — Ultrahand/Fuse/Ascend
@@ -42,7 +42,7 @@ timeFit: ~59h historia, 117h+ extras, ~248h al 100% (promedio ).
 fitLabel: Jugadores de sistemas con tiempo para campañas largas en solitario.
 timingNote: >-
   Sin calendario de rebajas fiable — la fila Japón es ancla de precio bajo; con
-  MSRP, alerta.
+  precio de lista, alerta.
 communityVibe: Clips Ultrahand, atajos de santuario y rutas en Profundidades.
 playtime: 59h historia · 117h+ extras · ~248h al 100%
 reviewSignal: 96 Metacritic
@@ -52,9 +52,7 @@ takeaway: >-
 playStyle: >-
   Exploración, santuarios, vehículos Ultrahand, combate, cielo/Profundidades
   opcionales.
-timeCommitment: >-
-  : ~59h historia, ~117h con extras, ~248h completista — muchas
-  aportaciones.
+timeCommitment: ": ~59h historia, ~117h con extras, ~248h completista — muchas aportaciones."
 playMode: Un jugador.
 whyNow: >-
   Calidad justifica precio retail para el perfil adecuado; brecha Japón/EE. UU.
@@ -100,7 +98,7 @@ communityMemes:
   - Un santuario más y duermo
 tldr: >-
   The Legend of Zelda: Tears of the Kingdom — 96 Metacritic; Japón lidera el
-  índice; compra si te va Ultrahand, o alerta de oferta si el MSRP duele.
+  índice; compra si te va Ultrahand, o alerta de oferta si el precio de lista duele.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price
 gameHref: https://www.gamegulf.com/detail/h14iXKeQ0PR
@@ -113,7 +111,7 @@ faq:
       The Legend of Zelda: Tears of the Kingdom vale la pena en 2026 si te
       gustan mundos abiertos, construcción física y campañas largas en
       solitario. En abril de 2026 el índice digital arranca ~€42,95 equivalente
-      en Japón frente a MSRP más alto en EE. UU. — revisa tu región en la
+      en Japón frente a precio de lista más alto en EE. UU. — revisa tu región en la
       cuadrícula en vivo de GameGulf.
   - question: ¿Cuánto dura?
     answer: >-
@@ -132,7 +130,7 @@ faq:
   - question: ¿Quién debería esperar?
     answer: >-
       The Legend of Zelda: Tears of the Kingdom encaja peor si odias metas
-      abiertas, no tienes decenas de horas o evitas MSRP — lista de deseos y
+      abiertas, no tienes decenas de horas o evitas precio de lista — lista de deseos y
       alerta a la próxima promo Nintendo.
 priceRows:
   - regionCode: JP
@@ -164,7 +162,7 @@ cardPriceNativeCurrency: JPY
 
 Sigue siendo un motivo top para tener Switch — compra si tu precio encaja; si no, vigila la próxima promo Nintendo.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €42.95.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €42.95.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price).
 
@@ -198,7 +196,7 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te cuadra el ritmo: 59h historia · 117h+ extras · ~248h al 100%
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Campañas cortas lineales u odias objetivos abiertos — pasa.

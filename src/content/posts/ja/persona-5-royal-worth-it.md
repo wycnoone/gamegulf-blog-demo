@@ -26,15 +26,15 @@ bestFor: 長編JRPGとカレンダー圧が好きな人。
 avoidIf: カレンダー圧やアニメ調ドラマが苦手なら避けた方がいい。
 consensusPraise: UI・音楽・脚本・戦闘テンポはジャンル参照級。
 mainFriction: 40時間で畳みたいとメメントスや長パレスが重い。
-timeFit:  約101h本編、123h追加、141hコンプ。
+timeFit: 約101h本編、123h追加、141hコンプ。
 fitLabel: コープ準備・パレス謎解き・長尺アークが好きな人。
 timingNote: 決済前に自分のeShopの価格を日本価格と追跡平均~€20と照合。
 communityVibe: 怪盗梗——コーヒー、試験、とにかく心を盗む
-playtime: 約101h本編 · 123h+追加 · ~141hコンプ（）
+playtime: 約101h本編 · 123h+追加 · ~141hコンプ
 reviewSignal: Metacritic 94
 takeaway: ロイヤルが買う版のまま——2026年4月は「セールの合間」で追跡底ではない。
 playStyle: Press Turn弱点、バトンタッチ、パレス謎、メメントス、第三学期。
-timeCommitment:  約101時間本線、123時間追加込み、141時間コンプ。
+timeCommitment: 約101時間本線、123時間追加込み、141時間コンプ。
 playMode: シングル。
 whyNow: 品質は確定——問いは次の深い下落前に今の価格が払えるか。
 currentDeal: 日本が約€41.75換算（¥7,678）先行、米は約€52.07（$59.99）。
@@ -132,13 +132,13 @@ priceRows:
 cardPriceEur: 41.75
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 7795
+cardPrice: JPY 7649
 cardPriceNative: ¥7,678
 cardPriceNativeCurrency: JPY
 ---
 ## クイック結論
 
-**『ペルソナ5 ザ・ロイヤル』は重厚JRPGの代表格** — **Metacritic 94**。**HLTB** 約 **101h / 123h / 141h**。
+**『ペルソナ5 ザ・ロイヤル』は重厚JRPGの代表格** — **Metacritic 94**。**プレイ時間の目安：** 約 **101h / 123h / 141h**。
 
 **日本索引 ~€41.75（¥7,678）**、年間**9回のセール**、平均**~€20.01**、**2026年3月10日**に**日本 ~€12.52**の**最安値**級。**割引**と**セール**がリストより低い帯を示す。
 
@@ -148,16 +148,17 @@ cardPriceNativeCurrency: JPY
 
 **日本が索引で先行。**
 
+
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 7809 | ¥7,678 |
-| 香港 | JPY 9074 | HK$438 |
-| ブラジル | JPY 9281 | R$295 |
-| アメリカ合衆国 | JPY 9740 | $59.99 |
-| ドイツ | JPY 11221 | €59.99 |
-| スペイン | JPY 11221 | €59.99 |
-| フランス | JPY 11221 | €59.99 |
-| イタリア | JPY 11221 | €59.99 |
+| 日本 | JPY 7649 | ¥7,678 |
+| 香港 | JPY 8888 | HK$438 |
+| ブラジル | JPY 9091 | R$295 |
+| アメリカ合衆国 | JPY 9540 | $59.99 |
+| ドイツ | JPY 10991 | €59.99 |
+| スペイン | JPY 10991 | €59.99 |
+| フランス | JPY 10991 | €59.99 |
+| イタリア | JPY 10991 | €59.99 |
 
 **2026年3月10日 ~€12.52**、**2026年1月1日 フランス €17.99**。**GameGulf** [表](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) で確認。
 

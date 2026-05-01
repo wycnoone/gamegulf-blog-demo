@@ -52,8 +52,8 @@ communityVibe: Compañeros, voces y fantasía urbana sostienen el elogio
 playtime: ~9 h historia, 12 h extras, ~17 h al 100%
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Unavowed se decide primero por encaje de juego: bucle aventura, puzle y rol,
-  alcance y referencia 91 Metacritic; el precio solo marca cuándo comprar.
+  Unavowed encaja si buscas aventura, puzle y rol — Unavowed en Nintendo Switch;
+  Las regiones más baratas lideran la tabla y decide comprar ahora o esperar.
 playStyle: aventura, puzle y rol
 timeCommitment: ~9 h historia, 12 h extras, ~17 h al 100%
 playMode: Solo por defecto salvo que la tienda indique multijugador.

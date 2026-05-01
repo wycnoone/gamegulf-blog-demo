@@ -135,7 +135,7 @@ priceRows:
 cardPriceEur: 23.22
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 4343
+cardPrice: JPY 4254
 cardPriceNative: ¥4,300
 cardPriceNativeCurrency: JPY
 ---
@@ -156,14 +156,14 @@ cardPriceNativeCurrency: JPY
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 4343 | ¥4,300 |
-| 香港 | JPY 4474 | HK$219 |
-| アメリカ合衆国 | JPY 6399 | $39.99 |
-| ブラジル | JPY 6898 | R$219.9 |
-| ドイツ | JPY 7480 | €39.99 |
-| スペイン | JPY 7480 | €39.99 |
-| フランス | JPY 7480 | €39.99 |
-| イタリア | JPY 7480 | €39.99 |
+| 日本 | JPY 4254 | ¥4,300 |
+| 香港 | JPY 4382 | HK$219 |
+| アメリカ合衆国 | JPY 6268 | $39.99 |
+| ブラジル | JPY 6757 | R$219.9 |
+| ドイツ | JPY 7327 | €39.99 |
+| スペイン | JPY 7327 | €39.99 |
+| フランス | JPY 7327 | €39.99 |
+| イタリア | JPY 7327 | €39.99 |
 
 ## どんなゲームか
 
@@ -188,7 +188,7 @@ cardPriceNativeCurrency: JPY
 
 ## 待つなら
 
-- 自区がMSRP張り付きで、日本・香港の行が明らかに下に見え、かつ合法的に買い回れるなら再考
+- 自区が定価張り付きで、日本・香港の行が明らかに下に見え、かつ合法的に買い回れるなら再考
 - 一人称往復は即ギブなら点数以外救わない
 - 今月の予算が他ジャンルで埋まっている — [GameGulf wishlist](https://www.gamegulf.com/wishlist) を活用
 

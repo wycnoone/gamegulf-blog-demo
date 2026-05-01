@@ -2,8 +2,8 @@
 title: Is Persona 5 Royal worth buying on Nintendo Switch in 2026?
 description: >-
   Switch buying guide for Persona 5 Royal — April 2026 indexed eShop rows,
-  tracked discount history versus list MSRP, runtimes, handheld
-  performance, and who should buy now versus set a price alert.
+  tracked discount history versus list MSRP, runtimes, handheld performance, and
+  who should buy now versus set a price alert.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,7 +37,7 @@ bestFor: JRPG fans who want style, music, and calendar pressure.
 avoidIf: Skip if calendar cram or anime melodrama drains you fast.
 consensusPraise: UI clarity, music, writing, and combat flow stay genre reference.
 mainFriction: Mementos and long palaces drag if you want a tight 40-hour pace.
-timeFit:  lands near 101h main, 123h extras, 141h completionist.
+timeFit: lands near 101h main, 123h extras, 141h completionist.
 fitLabel: Players who enjoy confidant prep, palace puzzles, and long arcs.
 timingNote: >-
   Compare your eShop row to Japan and the ~€20 tracked average before you
@@ -171,7 +171,7 @@ priceRows:
 cardPriceEur: 41.75
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 48.90
+cardPrice: USD 48.86
 cardPriceNative: ¥7,678
 cardPriceNativeCurrency: JPY
 ---
@@ -192,14 +192,14 @@ Compare your eShop row to Japan and the ~€20 tracked average before you checko
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 48.87 | ¥7,678 |
-| Hong Kong | USD 56.79 | HK$438 |
-| Brazil | USD 58.09 | R$295 |
-| United States | USD 60.95 | $59.99 |
-| Germany | USD 70.22 | €59.99 |
-| Spain | USD 70.22 | €59.99 |
-| France | USD 70.22 | €59.99 |
-| Italy | USD 70.22 | €59.99 |
+| Japan | USD 48.86 | ¥7,678 |
+| Hong Kong | USD 56.77 | HK$438 |
+| Brazil | USD 58.07 | R$295 |
+| United States | USD 60.93 | $59.99 |
+| Germany | USD 70.20 | €59.99 |
+| Spain | USD 70.20 | €59.99 |
+| France | USD 70.20 | €59.99 |
+| Italy | USD 70.20 | €59.99 |
 
 ## What kind of game is Persona 5 Royal?
 

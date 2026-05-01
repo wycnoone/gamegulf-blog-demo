@@ -2,8 +2,8 @@
 title: Pikmin 4 sur Switch — acheter maintenant ou attendre une promo ?
 description: >-
   Avril 2026 : timing d’achat Switch, grilles eShop indexées, écart vs le Japon,
-  historique de remises (creux du 25 décembre 2025), heures , Oatchi et
-  Dandori, et quand acheter ou activer une alerte prix.
+  historique de remises (creux du 25 décembre 2025), heures , Oatchi et Dandori,
+  et quand acheter ou activer une alerte prix.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: buy-now-or-wait
@@ -42,7 +42,7 @@ consensusPraise: >-
   Charme visuel, objectifs clairs, rangement satisfaisant quand les trajets
   collent.
 mainFriction: Rythme posé ; les pertes piquent tant que le rembobinage n’est pas un réflexe.
-timeFit:  ~18 h main, ~29 h extras, ~40 h complétion (communauté).
+timeFit: ~18 h main, ~29 h extras, ~40 h complétion (communauté).
 fitLabel: Joueurs qui aiment optimiser les convois, pas sprinter les couloirs.
 timingNote: >-
   Compare ta ligne eShop au repère Japon et au creux de décembre 2025 avant
@@ -58,8 +58,8 @@ playStyle: >-
   Exploration vue du dessus, escouades typées, Oatchi pour sauts et transport,
   nuits Lumière, aide deux joueurs, batailles Dandori locales.
 timeCommitment: >-
-  Les agrégats  tournent autour de 18 h pour la campagne sauvetage, ~29 h
-  avec le optionnel, ~40 h pour tout cleaner.
+  Les agrégats  tournent autour de 18 h pour la campagne sauvetage, ~29 h avec
+  le optionnel, ~40 h pour tout cleaner.
 playMode: Solo avec aide optionnelle à deux ; Dandori en local.
 whyNow: >-
   Le design est figé ; la variable, c’est si ton eShop colle au repère Japon ou
@@ -171,7 +171,7 @@ cardPriceNativeCurrency: JPY
 
 Pikmin 4 reste un oui si ça te parle — en avril 2026 vois le prix comme du retail tiré par le Japon avec remises ponctuelles, pas une braderie permanente.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €35.34.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €35.34.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price).
 
@@ -207,7 +207,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo avec aide optionnelle à deux ; Dandori en local.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Tu veux l’action non-stop ou détestes chaperonner des unités fragiles.

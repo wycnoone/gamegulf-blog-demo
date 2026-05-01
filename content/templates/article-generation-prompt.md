@@ -98,10 +98,11 @@ find them, flag the gap and do not fabricate.
 - Content scope: what is included in the Switch version
   (DLC, updates, content parity with other platforms)
 
-Confidence rule: cite a specific source (review site,
-wiki, HLTB, performance analysis). If the only source
-is old (>2 years) or a single unverified claim, note
-the uncertainty in the article.
+Confidence rule: use a specific source internally (review site,
+wiki, runtime database, performance analysis). If the only source
+is old (>2 years) or a single unverified claim, note uncertainty in
+reader-facing language. Do not name HLTB/HowLongToBeat in the article;
+convert it to plain hour bands.
 
 P1 — GROUNDED CONSENSUS (use hedging if thin)
 These should be cross-referenced across 2+ sources.
@@ -328,7 +329,7 @@ DEPTH — research-memo body (same H2 modules, richer paragraphs):
 - Read like a **compact experience research memo**: findings → evidence →
   implication for purchase — not a trailer script or adjective stack.
 - **Quick verdict:** Include **≥1 checkable fact** from brief or analytics
-  after the direct answer (price stance, Metacritic, HLTB if in brief,
+  after the direct answer (price stance, Metacritic, runtime band if in brief,
   discount frequency, co-op format).
 - **“What kind of game” + “How does it run”:** After the bold opener,
   each section needs **≥2 named anchors** (mechanics/modes/UI systems,
@@ -336,7 +337,7 @@ DEPTH — research-memo body (same H2 modules, richer paragraphs):
   Do not write paragraphs that only say “polish / spectacle” without naming
   *what* in the product delivers it.
 - **Buy / Wait bullets:** **Situation + trigger**; at least **half** the
-  bullets must mention a concrete cue (eShop row, MSRP, runtime, sale
+  bullets must mention a concrete cue (eShop row, list price, runtime, sale
   signal, roster/online constraint).
 - **Honesty:** No fabricated first-person playtests. Ground claims in
   brief data, indexed pricing, or **common player reports**; make the
@@ -439,12 +440,19 @@ LANGUAGE RULES
 - heroStat: **Metacritic critic score** for the detail page cover badge — same
   meaning as list-card `reviewSignal` (e.g. "94 Metacritic", zh-hans:
   "Metacritic 约 94 分"). Do **not** put HLTB, Steam reviews, or other scores
-  here; use `playtime` and body for HLTB.
+  here; use `playtime` and body for plain runtime bands without naming HLTB.
 - `playtime`: optional. Never use “no HLTB / not mapped in pipeline” filler. If
   HLTB is missing, omit the field **or** give short verifiable bands from a
   public catalog (e.g. under `https://www.ign.com/games/` — Main Story / Story +
   Sides / Everything-style lines). **Do not** name or cite the source in copy;
   state hours only.
+- Reader-facing hard bans: never output empty parentheses, `priceRows`,
+  `frontmatter`, `pipeline`, `schema`, `HLTB`, `HowLongToBeat`, or untranslated
+  fragments such as `historical low / sale / discount`. Translate analytics into
+  normal target-language buying words.
+- `takeaway` must be game-specific: combine one concrete game feature/scope cue
+  with one current price or sale-timing cue. Do not use generic templates like
+  “gameplay-fit call first” / “先看玩法是否对味”.
 - reviewSignal: must also name **Metacritic** when you include a numeric
   score (validator + UI assume this for the “Metacritic” chip).
 - Use the same slug across all languages

@@ -30,7 +30,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
   Zelda top no Switch — Japão é o mais barato rastreado; confira sua eShop vs
-  MSRP EUA.
+  preço cheio EUA.
 whatItIs: >-
   Open world no Switch: superfície, céu, Profundezas — Ultrahand/Fusão guiam o
   jogo.
@@ -41,7 +41,7 @@ mainFriction: ~30 fps com quedas; escala pode perder quem quer roteiro fechado.
 timeFit: ~59h história, 117h+ extras, ~248h completo (média ).
 fitLabel: Jogadores de sistemas com tempo para campanhas longas solo.
 timingNote: >-
-  Sem calendário de promo fiel — linha Japão é âncora de preço baixo; com MSRP,
+  Sem calendário de promo fiel — linha Japão é âncora de preço baixo; com preço cheio,
   alerta.
 communityVibe: Clips Ultrahand, atalhos de santuário, rotas nas Profundezas.
 playtime: 59h história · 117h+ extras · ~248h completo
@@ -52,9 +52,7 @@ takeaway: >-
 playStyle: >-
   Exploração, santuários, veículos Ultrahand, combate, céu/Profundezas
   opcionais.
-timeCommitment: >-
-  : ~59h história, ~117h com extras, ~248h complecionista — muitas
-  submissões.
+timeCommitment: ": ~59h história, ~117h com extras, ~248h complecionista — muitas submissões."
 playMode: Um jogador.
 whyNow: >-
   Qualidade justifica varejo para o perfil certo; diferença Japão/EUA segue
@@ -96,7 +94,7 @@ communityMemes:
   - Mais um santuário antes de dormir
 tldr: >-
   The Legend of Zelda: Tears of the Kingdom — 96 Metacritic; Japão lidera o
-  índice; compre pela profundidade Ultrahand ou alerte se o MSRP doer.
+  índice; compre pela profundidade Ultrahand ou alerte se o preço cheio doer.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price
 gameHref: https://www.gamegulf.com/detail/h14iXKeQ0PR
@@ -109,7 +107,7 @@ faq:
       The Legend of Zelda: Tears of the Kingdom vale a pena em 2026 se você
       curte exploração aberta, construção física e campanhas longas solo. Em
       abril de 2026 o índice digital começa ~€42,95 equivalente no Japão versus
-      MSRP mais alto nos EUA — verifique sua regão na grade ao vivo da GameGulf.
+      preço cheio mais alto nos EUA — verifique sua regão na grade ao vivo da GameGulf.
   - question: Quanto tempo leva?
     answer: >-
       The Legend of Zelda: Tears of the Kingdom leva ~59h na história, ~117h com
@@ -127,7 +125,7 @@ faq:
   - question: Quem deve esperar?
     answer: >-
       The Legend of Zelda: Tears of the Kingdom encaixa pior se você odeia metas
-      abertas, não tem dezenas de horas ou recusa MSRP — lista de desejos e
+      abertas, não tem dezenas de horas ou recusa preço cheio — lista de desejos e
       alerta para a próxima promo Nintendo.
 priceRows:
   - regionCode: JP
@@ -159,7 +157,7 @@ cardPriceNativeCurrency: JPY
 
 Continua um motivo forte para ter Switch — compre se o preço regional couber; senão acompanhe a próxima promo Nintendo.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €42.95.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €42.95.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price).
 
@@ -195,7 +193,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: 59h história · 117h+ extras · ~248h completo
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Campanhas curtas ou aversão a metas muito abertas.

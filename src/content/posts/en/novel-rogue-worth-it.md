@@ -11,7 +11,7 @@ gameTitle: Novel Rogue
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min read
 decision: >-
@@ -180,13 +180,13 @@ Tracked **sale** story: **historical low** near **€5.82** (Japan, **2026-01-14
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Japan | USD 9.74 | ¥1540 |
-| Hong Kong | USD 17.90 | HK$150 |
-| United States | USD 20.02 | $17.10 |
-| Germany | USD 23.40 | €19.99 |
-| Italy | USD 23.40 | €19.99 |
-| Portugal | USD 23.40 | €19.99 |
-| Brazil | USD 23.55 | R$119.95 |
-| United Kingdom | USD 24.21 | £17.99 |
+| Hong Kong | USD 17.89 | HK$150 |
+| United States | USD 20.01 | $17.10 |
+| Germany | USD 23.39 | €19.99 |
+| Italy | USD 23.39 | €19.99 |
+| Portugal | USD 23.39 | €19.99 |
+| Brazil | USD 23.54 | R$119.95 |
+| United Kingdom | USD 24.20 | £17.99 |
 
 ## What kind of game is Novel Rogue, really?
 

@@ -39,7 +39,7 @@ bestFor: A quien le gustan los puzzles de rutas más que la acción
 avoidIf: Quieres acción sin pausa u odias microgestionar equipos frágiles.
 consensusPraise: Arte encantador, objetivos claros, bucles de limpieza satisfactorios cuando
 mainFriction: Ritmo pausado; las pérdidas duelen hasta que el rebobinado es hábito.
-timeFit:  ~18 h historia, ~29 h extras, ~40 h completion (comunidad).
+timeFit: ~18 h historia, ~29 h extras, ~40 h completion (comunidad).
 fitLabel: Jugadores que optimizan cadenas de transporte, no esprintan pasillos.
 timingNote: >-
   Compara tu fila eShop con el ancla Japón y el mínimo de diciembre de 2025
@@ -103,7 +103,10 @@ communityMemes:
   - Trucos de puentes de hielo
   - Pánico Dandori al límite
   - Escuadra linterna Glow
-tldr: "Pikmin 4 — ~87 Metacritic, táctica Nintendo; abril de 2026 sigue liderado por Japón con descuentos puntuales — compra si encaja, alerta si persigues mínimos."
+tldr: >-
+  Pikmin 4 — ~87 Metacritic, táctica Nintendo; abril de 2026 sigue liderado por
+  Japón con descuentos puntuales — compra si encaja, alerta si persigues
+  mínimos.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price
 gameHref: https://www.gamegulf.com/detail/c0V9fA7j5D0
@@ -119,16 +122,17 @@ faq:
       GameGulf.
   - question: ¿Cuánto dura Pikmin 4?
     answer: >-
-      Pikmin 4  sugiere ~18 h de historia de rescate, ~29 h con mucho extra y ~40 h para completionistas.
-
+      Pikmin 4  sugiere ~18 h de historia de rescate, ~29 h con mucho extra y
+      ~40 h para completionistas.
   - question: ¿Hay cooperativo?
     answer: >-
-      Pikmin 4 Hay segundo jugador con piedras y ayuda de objetos, más Dandori en la misma consola — no es coop RPG con progreso compartido, pero va bien en pareja.
-
+      Pikmin 4 Hay segundo jugador con piedras y ayuda de objetos, más Dandori
+      en la misma consola — no es coop RPG con progreso compartido, pero va bien
+      en pareja.
   - question: ¿Cómo va en Switch?
     answer: >-
-      Pikmin 4 Objetivo first-party estable con HUD legible en portátil; escenas cargas pueden bajar un poco, no un slideshow constante.
-
+      Pikmin 4 Objetivo first-party estable con HUD legible en portátil; escenas
+      cargas pueden bajar un poco, no un slideshow constante.
   - question: ¿Quién debería esperar?
     answer: >-
       Pikmin 4 si tu tienda va muy por encima del índice de Japón o solo quieres
@@ -164,7 +168,7 @@ cardPriceNativeCurrency: JPY
 
 Cómpralo si ya te gustan las aventuras de estrategia más tranquilas de Nintendo y quieres Oatchi, expediciones nocturnas y Dandori ya. Vigila el precio si tu región va muy por encima de la fila indexada de Japón o solo persigues mínimos históricos.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €35.34.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €35.34.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price).
 
@@ -196,11 +200,11 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te gusta **Exploración cenital, escuadras tipadas, Oatchi para saltos y transporte, rutas nocturnas Luz, ayuda de segundo jugador, Dandori local.**
 - tu precio regional en GameGulf ya esta en rango objetivo
 - prefieres jugar ya en vez de esperar otra ventana de oferta
-- te cuadra el ritmo: Los agregados HLTB rondan 18 h de campaña de rescate, ~29 h con extras y ~40 h para coleccionistas.
+- te cuadra el ritmo: Los agregados Duración orientativa: rondan 18 h de campaña de rescate, ~29 h con extras y ~40 h para coleccionistas.
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Quieres acción sin pausa u odias microgestionar equipos frágiles.

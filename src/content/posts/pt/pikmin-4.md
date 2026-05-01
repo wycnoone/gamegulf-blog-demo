@@ -39,7 +39,7 @@ bestFor: Quem otimiza rotas de transporte em vez de reflexos puros.
 avoidIf: Queres ação sem pausa ou odeias gerir unidades frágeis.
 consensusPraise: Arte cativante, objetivos claros, arrumação forte quando as rotas encaixam.
 mainFriction: Ritmo pausado; perdas doem até o rebobinar vir hábito.
-timeFit:  ~18 h história, ~29 h extras, ~40 h completion (comunidade).
+timeFit: ~18 h história, ~29 h extras, ~40 h completion (comunidade).
 fitLabel: Jogadores que gostam de otimizar comboios, não sprintar mapas.
 timingNote: >-
   Compara a tua fila eShop com a âncora Japão e o fundo de dezembro de 2025
@@ -168,7 +168,7 @@ cardPriceNativeCurrency: JPY
 
 Pikmin 4 continua a ser “sim se combina contigo” — em abril de 2026 trata o preço como retalho puxado pelo Japão com descontos pontuais, não liquidação permanente.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €35.34.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €35.34.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price).
 
@@ -204,7 +204,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: 18 h história · 29 h+ extras · ~40 h completion
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Queres ação sem pausa ou odeias gerir unidades frágeis.

@@ -181,7 +181,7 @@ priceRows:
 cardPriceEur: 23.22
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 27.18
+cardPrice: USD 27.17
 cardPriceNative: ¥4,300
 cardPriceNativeCurrency: JPY
 ---
@@ -202,14 +202,14 @@ Anchor to the indexed table below before you assume any screenshot price is “y
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 27.18 | ¥4,300 |
-| Hong Kong | USD 28.00 | HK$219 |
-| United States | USD 40.05 | $39.99 |
-| Brazil | USD 43.17 | R$219.9 |
-| Germany | USD 46.81 | €39.99 |
-| Spain | USD 46.81 | €39.99 |
-| France | USD 46.81 | €39.99 |
-| Italy | USD 46.81 | €39.99 |
+| Japan | USD 27.17 | ¥4,300 |
+| Hong Kong | USD 27.99 | HK$219 |
+| United States | USD 40.03 | $39.99 |
+| Brazil | USD 43.16 | R$219.9 |
+| Germany | USD 46.80 | €39.99 |
+| Spain | USD 46.80 | €39.99 |
+| France | USD 46.80 | €39.99 |
+| Italy | USD 46.80 | €39.99 |
 
 ## What kind of game is Metroid Prime Remastered?
 

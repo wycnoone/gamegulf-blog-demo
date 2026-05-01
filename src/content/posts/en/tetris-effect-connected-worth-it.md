@@ -38,7 +38,8 @@ listingTakeaway: >-
   94 Metacritic Tetris spectacle; HK leads April 2026 rows; 2025 ATL ~€9.61
   there.
 whatItIs: >-
-  Sensory Tetris: Journey stages, Zone freezes, online/local vs & Connected co-op.
+  Sensory Tetris: Journey stages, Zone freezes, online/local vs & Connected
+  co-op.
 bestFor: Fans of puzzle flow, AV spectacle, music sync & multiplayer.
 avoidIf: You only tolerate minimal Tetris kits or dislike reactive stage effects.
 consensusPraise: Zone turns panic into a scoring tool; stages feel like playable tracks.
@@ -108,8 +109,8 @@ communityMemes:
   - Headphones on, lights off
   - Tetris as light show
 tldr: >-
-  Tetris Effect: Connected — MC 94; HK leads GameGulf rows vs US/EU MSRP; 2025 HK
-  ATL ~€9.61—buy if fit, alert if you need deeper dips.
+  Tetris Effect: Connected — MC 94; HK leads GameGulf rows vs US/EU MSRP; 2025
+  HK ATL ~€9.61—buy if fit, alert if you need deeper dips.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price
 gameHref: https://www.gamegulf.com/detail/6Rq3jqh8KUa
@@ -153,7 +154,7 @@ priceRows:
 cardPriceEur: 19.22
 cardPriceRegionCode: HK
 cardPriceRegion: Hong Kong
-cardPrice: USD 22.50
+cardPrice: USD 22.49
 cardPriceNative: HK$176
 cardPriceNativeCurrency: HKD
 faq:
@@ -192,14 +193,14 @@ Shelf story splits hard: **Hong Kong** still tops the indexed stack, while **US*
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 22.50 | HK$176 |
-| Japan | USD 28.45 | ¥4,500 |
-| Brazil | USD 40.03 | R$203.95 |
-| United States | USD 40.05 | $39.99 |
-| Germany | USD 46.81 | €39.99 |
-| Spain | USD 46.81 | €39.99 |
-| France | USD 46.81 | €39.99 |
-| Italy | USD 46.81 | €39.99 |
+| Hong Kong | USD 22.49 | HK$176 |
+| Japan | USD 28.44 | ¥4,500 |
+| Brazil | USD 40.02 | R$203.95 |
+| United States | USD 40.03 | $39.99 |
+| Germany | USD 46.80 | €39.99 |
+| Spain | USD 46.80 | €39.99 |
+| France | USD 46.80 | €39.99 |
+| Italy | USD 46.80 | €39.99 |
 
 ## What kind of game is Tetris Effect: Connected, really?
 

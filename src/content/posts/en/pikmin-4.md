@@ -2,8 +2,8 @@
 title: Should you buy Pikmin 4 on Nintendo Switch now or wait for a sale?
 description: >-
   April 2026 Switch buying timing for Pikmin 4 — indexed eShop rows, discount
-  history vs Japan-led pricing,  hours, co-op and Oatchi systems, and when
-  to buy versus set a tracked price alert.
+  history vs Japan-led pricing,  hours, co-op and Oatchi systems, and when to
+  buy versus set a tracked price alert.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: buy-now-or-wait
@@ -38,7 +38,7 @@ bestFor: Fans of Pikmin routing puzzles over twitch action.
 avoidIf: You want nonstop action or dislike micromanaging fragile squads.
 consensusPraise: Charming art, readable objectives, satisfying cleanup loops once routes click.
 mainFriction: Pacing stays deliberate; losses sting until rewind habits form.
-timeFit:  lands near 18h main, 29h extras, 40h completionist (community).
+timeFit: lands near 18h main, 29h extras, 40h completionist (community).
 fitLabel: Players who enjoy optimizing carries, not sprinting corridors.
 timingNote: >-
   Compare your eShop row to the Japan anchor and the December 2025 dip before
@@ -53,8 +53,8 @@ playStyle: >-
   Overhead exploration with typed Pikmin squads, Oatchi for jumps and hauls,
   night Glow routes, two-player helper pebbles, and Dandori score battles.
 timeCommitment: >-
-  aggregates cluster near 18 hours for a straight rescue campaign, about 29
-  with extras, and near 40 for completion-minded cleanup.
+  aggregates cluster near 18 hours for a straight rescue campaign, about 29 with
+  extras, and near 40 for completion-minded cleanup.
 playMode: >-
   Single-player campaign with optional two-player assist; Dandori versus
   locally.
@@ -161,7 +161,7 @@ priceRows:
 cardPriceEur: 35.34
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 41.39
+cardPrice: USD 41.35
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
 ---
@@ -182,10 +182,10 @@ Compare your eShop row to the Japan anchor and the December 2025 dip before you 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.37 | ¥6,500 |
-| Hong Kong | USD 42.66 | HK$329 |
-| United States | USD 60.95 | $59.99 |
-| Brazil | USD 68.71 | R$349 |
+| Japan | USD 41.35 | ¥6,500 |
+| Hong Kong | USD 42.64 | HK$329 |
+| United States | USD 60.93 | $59.99 |
+| Brazil | USD 68.69 | R$349 |
 
 ## What kind of game is Pikmin 4?
 

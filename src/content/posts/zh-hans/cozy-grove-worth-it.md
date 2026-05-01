@@ -127,7 +127,7 @@ priceRows:
 cardPriceEur: 7.99
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 63.91
+cardPrice: CNY 63.85
 cardPriceNative: ¥1,480
 cardPriceNativeCurrency: JPY
 ---
@@ -145,14 +145,14 @@ cardPriceNativeCurrency: JPY
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 63.91 | ¥1,480 |
-| 美国 | CNY 68.39 | $14.99 |
-| 香港 | CNY 86.47 | HK$99 |
-| 英国 | CNY 101.03 | £10.99 |
-| 巴西 | CNY 107.27 | R$79.99 |
-| 德国 | CNY 111.91 | €13.99 |
-| 西班牙 | CNY 111.91 | €13.99 |
-| 法国 | CNY 111.91 | €13.99 |
+| 日本 | CNY 63.85 | ¥1,480 |
+| 美国 | CNY 68.32 | $14.99 |
+| 香港 | CNY 86.38 | HK$99 |
+| 英国 | CNY 100.93 | £10.99 |
+| 巴西 | CNY 107.16 | R$79.99 |
+| 德国 | CNY 111.79 | €13.99 |
+| 西班牙 | CNY 111.79 | €13.99 |
+| 法国 | CNY 111.79 | €13.99 |
 
 ## 这是一款什么样的游戏？
 

@@ -1,8 +1,8 @@
 ---
 title: Super Mario Bros. Wonder vale a pena no Nintendo Switch em 2026?
 description: >-
-  Abril de 2026 — índice, promoções first-party raras, , coop e distintivos
-  — o preço de lista ainda faz sentido?
+  Abril de 2026 — índice, promoções first-party raras, , coop e distintivos — o
+  preço de lista ainda faz sentido?
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -33,7 +33,7 @@ bestFor: Famílias com níveis curtos e coop.
 avoidIf: Evita se só compras em mínimos históricos profundos ou odeias 2D Mario.
 consensusPraise: Set-pieces Wonder fortes, níveis claros, coop acessível.
 mainFriction: Menos horas que JRPG ao mesmo preço — valor é densidade e replay.
-timeFit:  ~10 h história, ~14 h extras, ~20 h completion.
+timeFit: ~10 h história, ~14 h extras, ~20 h completion.
 fitLabel: Sessões curtas, coop no sofá e polimento Nintendo.
 timingNote: Usa a âncora Japão como referência — histórico de grandes saldos é raro aqui.
 communityVibe: Memes Wonder Flower, Mario elefante, standees de resgate
@@ -45,7 +45,7 @@ takeaway: >-
 playStyle: >-
   Set-pieces Wonder, builds de distintivos, modos Yoshi/Nabbit, coop quatro
   jogadores local, silhuetas e standees online, fluxo do Reino das Flores.
-timeCommitment:  ~10 h rota principal, ~14 h com extras, ~20 h completion.
+timeCommitment: ~10 h rota principal, ~14 h com extras, ~20 h completion.
 playMode: Até quatro em local; ajudas online e corridas.
 whyNow: >-
   Qualidade travada em 92 Metacritic — a dúvida é aceitar as bandas de lista
@@ -145,7 +145,7 @@ cardPriceNativeCurrency: JPY
 
 Wonder é o referencial 2D Mario moderno — paga lista se o formato encaixa; alerta só se recusas preços first-party.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €35.34.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €35.34.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price).
 
@@ -181,7 +181,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: 10h main · 14h+ extras · ~20h completionist
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evita se só compras em mínimos históricos profundos ou odeias 2D Mario.

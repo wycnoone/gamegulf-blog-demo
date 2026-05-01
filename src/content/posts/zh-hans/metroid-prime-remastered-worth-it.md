@@ -12,8 +12,8 @@ author: GameGulf Editorial AI
 readingTime: 8 分钟阅读
 decision: >-
   想要 Metacritic 约 94 分的第一人称《密特罗德》、现代双摇杆与塔隆 IV 密集冒险，就值得入； 若唯一阻碍是高价区
-  MSRP，再设价提醒或换区思路。
-priceSignal: 2026 年 4 月索引里日本约 €23.22 折算起跳，香港略高，再到美巴与欧元区/英镑 MSRP 档 — 典型「少打折」第一方曲线。
+  标价，再设价提醒或换区思路。
+priceSignal: 2026 年 4 月索引里日本约 €23.22 折算起跳，香港略高，再到美巴与欧元区/英镑 标价 档 — 典型「少打折」第一方曲线。
 heroStat: Metacritic 约 94 分
 heroNote: 萨姆斯首次 3D Prime：塔隆 IV 互联生态、扫描记录解谜、变形球通路、光线与面罩升级、Boss 节奏战 — 现以翻新画面与更顺手的双摇杆操控回归。
 badge: 值得买
@@ -30,7 +30,7 @@ consensusPraise: 氛围、场景可读性、以及现代化操控选项被最常
 mainFriction: 扫完再绕路与 Boss 连败跑路，和追求一气呵成的玩家容易打架。
 timeFit: 约 13h 主线、17h+ 加内容、22h 完美向（社区常见时长带）。
 fitLabel: 把观察和跑路规划当成力量幻想一环的人。
-timingNote: 付款前用日本/香港锚价对齐你的账号区服，别硬吃高价 MSRP。
+timingNote: 付款前用日本/香港锚价对齐你的账号区服，别硬吃高价 标价。
 communityVibe: 扫描节奏 — 铁粉当 ritual，路人嫌拖沓
 playtime: 约 13h 主线 · 17h+ 加内容 · 约 22h 完美向
 reviewSignal: Metacritic 约 94 分
@@ -139,7 +139,7 @@ priceRows:
 cardPriceEur: 23.22
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 185.74
+cardPrice: CNY 185.55
 cardPriceNative: ¥4,300
 cardPriceNativeCurrency: JPY
 ---
@@ -160,14 +160,14 @@ cardPriceNativeCurrency: JPY
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 185.74 | ¥4,300 |
-| 香港 | CNY 191.34 | HK$219 |
-| 美国 | CNY 273.66 | $39.99 |
-| 巴西 | CNY 295.01 | R$219.9 |
-| 德国 | CNY 319.89 | €39.99 |
-| 西班牙 | CNY 319.89 | €39.99 |
-| 法国 | CNY 319.89 | €39.99 |
-| 意大利 | CNY 319.89 | €39.99 |
+| 日本 | CNY 185.55 | ¥4,300 |
+| 香港 | CNY 191.14 | HK$219 |
+| 美国 | CNY 273.37 | $39.99 |
+| 巴西 | CNY 294.71 | R$219.9 |
+| 德国 | CNY 319.56 | €39.99 |
+| 西班牙 | CNY 319.56 | €39.99 |
+| 法国 | CNY 319.56 | €39.99 |
+| 意大利 | CNY 319.56 | €39.99 |
 
 ## 《密特罗德 究极 复刻版》到底是什么类型的游戏？
 
@@ -192,7 +192,7 @@ cardPriceNativeCurrency: JPY
 
 ## 更适合等等，如果
 
-- 你所在服仍贴 MSRP，而日本/香港索引明显更低，且你愿意研究合规购区路径
+- 你所在服仍贴 标价，而日本/香港索引明显更低，且你愿意研究合规购区路径
 - 听「第一人称 + 回图」就 fatigue，再高分也不想付门票
 - 本月预算要留给更长线的坑 — 先在 [GameGulf 愿望单/提醒](https://www.gamegulf.com/wishlist) 挂名等浅促
 

@@ -50,8 +50,9 @@ communityVibe: Escolhas de equipe, vozes e fantasia urbana puxam elogios
 playtime: ~9 h campanha, 12 h extras, ~17 h 100%
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Unavowed é antes uma decisão de gosto: ciclo aventura, quebra-cabeça e RPG,
-  escopo e sinal 91 Metacritic; o preço só define o melhor momento de compra.
+  Unavowed combina com quem quer aventura, quebra-cabeça e RPG — Unavowed no
+  Nintendo S; As regiões mais baratas lideram a tabela e então decida comprar
+  agora ou esperar.
 playStyle: aventura, quebra-cabeça e RPG
 timeCommitment: ~9 h campanha, 12 h extras, ~17 h 100%
 playMode: Solo por padrão, salvo se a loja indicar multijogador.

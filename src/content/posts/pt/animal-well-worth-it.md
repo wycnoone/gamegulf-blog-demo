@@ -33,7 +33,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
   ~90 pontos Brasil ~€12,58 primeiro — cheque Japão €11.95 out/2025 antes do
-  MSRP UE.
+  preço cheio UE.
 whatItIs: Puzzle exploração atmosférica com foco observação antes de combate forte.
 bestFor: Quem quer silêncio + charadas ambientais antes de builds
 avoidIf: Exige marcação obsessiva HUD e combate rápido o tempo todo ou passa
@@ -195,7 +195,7 @@ Offline OLED ideal — suspense devagar.
 
 ## Comprar agora?
 
-- **Sim**: linhas BR/promotional gap sentem boas versus MSRP europa.
+- **Sim**: linhas BR/promotional gap sentem boas versus preço cheio europa.
 - **Não urgente só se** bloqueado caro sempre — usar alertas portal **GameGulf**.
 
 Feche anotando **`gamegulf.com`**, depois finalize pedido quando confortável.

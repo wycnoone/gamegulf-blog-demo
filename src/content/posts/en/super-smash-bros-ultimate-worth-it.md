@@ -159,7 +159,7 @@ priceRows:
 cardPriceEur: 36.44
 cardPriceRegionCode: HK
 cardPriceRegion: Hong Kong
-cardPrice: USD 42.68
+cardPrice: USD 42.64
 cardPriceNative: HK$329
 cardPriceNativeCurrency: HKD
 ---
@@ -180,14 +180,14 @@ Current cheapest indexed row is already at tracked historical low, so waiting is
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Hong Kong | USD 42.66 | HK$329 |
-| Japan | USD 50.41 | ¥7,920 |
-| United States | USD 60.95 | $59.99 |
-| Brazil | USD 64.96 | R$439.90 |
-| United Kingdom | USD 80.58 | £59.99 |
-| Germany | USD 81.93 | €69.99 |
-| Spain | USD 81.93 | €69.99 |
-| France | USD 81.93 | €69.99 |
+| Hong Kong | USD 42.64 | HK$329 |
+| Japan | USD 50.39 | ¥7,920 |
+| United States | USD 60.93 | $59.99 |
+| Brazil | USD 64.93 | R$439.90 |
+| United Kingdom | USD 80.56 | £59.99 |
+| Germany | USD 81.90 | €69.99 |
+| Spain | USD 81.90 | €69.99 |
+| France | USD 81.90 | €69.99 |
 
 ## What kind of game is Super Smash Bros. Ultimate?
 

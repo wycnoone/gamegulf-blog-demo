@@ -54,9 +54,9 @@ communityVibe: Saltos con pala, campañas y jefes 8-bit venden el pack
 playtime: ~25 h historia, 36 h extras, ~74 h al 100%
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Shovel Knight: Treasure Trove se decide primero por encaje de juego: bucle
-  acción, aventura y plataformas, alcance y referencia 91 Metacritic; el precio
-  solo marca cuándo comprar.
+  Shovel Knight: Treasure Trove encaja si buscas acción, aventura y plataformas
+  — Shovel Knight: Treasu; Las regiones más baratas lideran la tabla y decide
+  comprar ahora o esperar.
 playStyle: acción, aventura y plataformas
 timeCommitment: ~25 h historia, 36 h extras, ~74 h al 100%
 playMode: Solo por defecto salvo que la tienda indique multijugador.

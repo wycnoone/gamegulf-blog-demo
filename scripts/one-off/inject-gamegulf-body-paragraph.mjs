@@ -4,7 +4,7 @@
  * substrings (brand text + gamegulf.com links). Inserts a short paragraph before
  * the second H2 if count < 3. Idempotent when re-run after success.
  *
- * Usage: node scripts/inject-gamegulf-body-paragraph.mjs [path.md ...]
+ * Usage: node scripts/one-off/inject-gamegulf-body-paragraph.mjs [path.md ...]
  *        (pass paths from your shell glob, e.g. all files under src/content/posts)
  */
 
@@ -60,7 +60,7 @@ function insertBeforeSecondH2(body, paragraph) {
 
 const files = process.argv.slice(2);
 if (files.length === 0) {
-  console.error('Usage: node scripts/inject-gamegulf-body-paragraph.mjs <file.md> [...]');
+  console.error('Usage: node scripts/one-off/inject-gamegulf-body-paragraph.mjs <file.md> [...]');
   process.exit(2);
 }
 

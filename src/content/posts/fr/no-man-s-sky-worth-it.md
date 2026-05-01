@@ -41,7 +41,7 @@ bestFor: Les joueurs qui veulent un sandbox portable au long cours.
 avoidIf: Tu veux un rythme très guidé, peu de menus ou du coop immédiat.
 consensusPraise: Liberté d'exploration, mises à jour massives et vraie sensation d'échelle.
 mainFriction: Menus, inventaire et farming peuvent tuer l'émerveillement au départ.
-timeFit:  ~32 h histoire, 77 h extras, 156 h complétion.
+timeFit: ~32 h histoire, 77 h extras, 156 h complétion.
 fitLabel: Pour les joueurs qui créent leurs propres objectifs.
 timingNote: >-
   Cet article juge seulement Nintendo Switch ; pour les autres plateformes,
@@ -56,8 +56,8 @@ playStyle: >-
   Exploration libre, minage, amélioration de vaisseau et d'exosuit, bases,
   commerce, quêtes ou simple errance planétaire.
 timeCommitment: >-
-  place la campagne autour de 32 h, le main-plus à 77 h et la complétion
-  vers 156 h. C'est un jeu-résidence, pas un week-end jetable.
+  place la campagne autour de 32 h, le main-plus à 77 h et la complétion vers
+  156 h. C'est un jeu-résidence, pas un week-end jetable.
 playMode: Solo sur Nintendo Switch.
 whyNow: >-
   Le prix a fait le travail : la ligne Nintendo Switch est revenue sur le
@@ -186,7 +186,7 @@ cardPriceNativeCurrency: JPY
 
 No Man's Sky est facile à recommander sur Nintendo Switch à 13,07 € ; les autres plateformes peuvent attendre la fiche principale GameGulf.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €13.07.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €13.07.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price).
 
@@ -226,7 +226,7 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo sur Nintendo Switch.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Tu veux un rythme très guidé, peu de menus ou du coop immédiat.

@@ -114,7 +114,7 @@ priceRows:
 cardPriceEur: 16.66
 cardPriceRegionCode: DE
 cardPriceRegion: ドイツ
-cardPrice: JPY 3116
+cardPrice: JPY 3052
 cardPriceNative: €16.66
 cardPriceNativeCurrency: EUR
 ---
@@ -133,14 +133,14 @@ cardPriceNativeCurrency: EUR
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ドイツ | JPY 3116 | €16.66 |
-| スペイン | JPY 3116 | €16.66 |
-| フランス | JPY 3116 | €16.66 |
-| イタリア | JPY 3116 | €16.66 |
-| ポルトガル | JPY 3116 | €16.66 |
-| ブラジル | JPY 3199 | R$101.95 |
-| アメリカ合衆国 | JPY 3199 | $19.99 |
-| イギリス | JPY 3202 | £14.89 |
+| ドイツ | JPY 3052 | €16.66 |
+| スペイン | JPY 3052 | €16.66 |
+| フランス | JPY 3052 | €16.66 |
+| イタリア | JPY 3052 | €16.66 |
+| ポルトガル | JPY 3052 | €16.66 |
+| ブラジル | JPY 3133 | R$101.95 |
+| アメリカ合衆国 | JPY 3133 | $19.99 |
+| イギリス | JPY 3137 | £14.89 |
 
 ## どんなゲーム？
 

@@ -52,8 +52,8 @@ communityVibe: Atmósfera muda, sonido y puzles tensos son el gancho
 playtime: ~4 h historia, 4 h extras, ~5 h al 100%
 reviewSignal: 91 Metacritic
 takeaway: >-
-  INSIDE se decide primero por encaje de juego: bucle aventura, puzle y acción,
-  alcance y referencia 91 Metacritic; el precio solo marca cuándo comprar.
+  INSIDE encaja si buscas aventura, puzle y acción — INSIDE en Nintendo Switch;
+  Las regiones más baratas lideran la tabla y decide comprar ahora o esperar.
 playStyle: aventura, puzle y acción
 timeCommitment: ~4 h historia, 4 h extras, ~5 h al 100%
 playMode: Solo por defecto salvo que la tienda indique multijugador.

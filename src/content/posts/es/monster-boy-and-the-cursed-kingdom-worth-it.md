@@ -152,7 +152,7 @@ Historia de **ofertas**: **mínimo histórico indexado** ~**€5,37** (**Japón*
 
 ## ¿Cuánto cuesta Monster Boy and the Cursed Kingdom en Nintendo Switch ahora?
 
-**Los números mudan rápido** — la tabla copia las filas **GameGulf** de nuestro frontmatter. Cruza siempre con [gamegulf.com](https://www.gamegulf.com).
+**Los números mudan rápido** — la tabla copia las filas **GameGulf** de nuestro captura de precios. Cruza siempre con [gamegulf.com](https://www.gamegulf.com).
 
 
 | Región | Precio (equivalente en EUR) | Precio nativo |

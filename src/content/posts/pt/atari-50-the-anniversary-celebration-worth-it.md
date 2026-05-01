@@ -1,13 +1,12 @@
 ---
-title: >-
-  Vale a pena Atari 50：The Anniversary Celebration no Switch em 2026?
+title: Vale a pena Atari 50：The Anniversary Celebration no Switch em 2026?
 description: >-
   Guia abr. 2026: linhas do tempo, 100+ clássicos, Metacritic ~89; Japão vs UE,
   média em promoção ~16,74 € e quando esperar saldos na GameGulf.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
-gameTitle: "Atari 50：The Anniversary Celebration"
+gameTitle: Atari 50：The Anniversary Celebration
 platform: Nintendo Switch
 primaryPlatformKey: switch-1
 primaryPlatformLabel: Nintendo Switch
@@ -16,53 +15,40 @@ author: GameGulf Editorial AI
 readingTime: 8 min de leitura
 decision: >-
   Vale pelo museu jogável ; os dados costumem pedir esperar promo ou linha JP
-  antes do MSRP europeu.
-priceSignal: >-
-  ~11 quedas num ano com média ~16,74 € ; etiquetas de abril ficam acima sem JP.
+  antes do preço cheio europeu.
+priceSignal: ~11 quedas num ano com média ~16,74 € ; etiquetas de abril ficam acima sem JP.
 heroStat: 89 Metacritic
 heroNote: >-
-  Linhas do tempo costuram doc e jogáveis — Lynx/Jaguar inclusos — mais novidades
-  tipo Swordquest (Airworld).
+  Linhas do tempo costuram doc e jogáveis — Lynx/Jaguar inclusos — mais
+  novidades tipo Swordquest (Airworld).
 badge: Esperar promoção
 verdict: wait_for_sale
 priceCall: wait
 confidence: medium
 actionBucket: wait
 featuredPriority: 2
-listingTakeaway: >-
-  Antologia ~89 Metacritic ; promoções frequentes — espera salvo linha já baixa.
-whatItIs: >-
-  Antologia museu: timelines, entrevistas, 100+ clássicos em sete plataformas.
+listingTakeaway: Antologia ~89 Metacritic ; promoções frequentes — espera salvo linha já baixa.
+whatItIs: "Antologia museu: timelines, entrevistas, 100+ clássicos em sete plataformas."
 bestFor: História jogável e arcades curtos, não um só AAA linear.
 avoidIf: Você quer tutorial moderno em todo ROM — não é o foco.
-consensusPraise: >-
-  Timelines e entrevistas sustentam curiosidade além do nostalgia puro.
-mainFriction: >-
-  Biblioteca enorme e jogos desiguais — sessões curtas, não maratona única.
-timeFit: >-
-  ~6h foco timeline ; ~12h largo ; ~20h se coleccionar tudo.
+consensusPraise: Timelines e entrevistas sustentam curiosidade além do nostalgia puro.
+mainFriction: Biblioteca enorme e jogos desiguais — sessões curtas, não maratona única.
+timeFit: ~6h foco timeline ; ~12h largo ; ~20h se coleccionar tudo.
 fitLabel: Saltos entre eras melhor que grind uniforme.
-timingNote: >-
-  Último desconto há semanas — confira GameGulf antes do MSRP UE.
+timingNote: Último desconto há semanas — confira GameGulf antes do preço cheio UE.
 communityVibe: Timelines prendem mais que um só cartucho
 playtime: ~6h · ~12h extras · ~20h coleccionador
 reviewSignal: 89 Metacritic
 takeaway: >-
   Atari 50 continua referência ; abril 2026 pede paciência ou rota JP — veja
   GameGulf antes do catálogo cheio.
-playStyle: >-
-  Timelines interactivas e saltos arcade→Jaguar — museu solo offline.
-timeCommitment: >-
-  Fim de semana curto serve ; alonga se varrer cada «balde» de plataforma.
+playStyle: Timelines interactivas e saltos arcade→Jaguar — museu solo offline.
+timeCommitment: Fim de semana curto serve ; alonga se varrer cada «balde» de plataforma.
 playMode: Um jogador offline.
-whyNow: >-
-  Switch alterna sofá e portátil entre clipes e loops arcade curtos.
-currentDeal: >-
-  Abr. 2026 : Japão lidera ~24,30 € equivalente ; UE ~39,99 € na grelha.
-nearHistoricalLow: >-
-  Não — histórico mostra faixas mais baixas (JP ~12,15 € em 2025-09-03).
-salePattern: >-
-  ~11 promoções/ano com média ~16,74 € — não é catálogo congelado.
+whyNow: Switch alterna sofá e portátil entre clipes e loops arcade curtos.
+currentDeal: "Abr. 2026 : Japão lidera ~24,30 € equivalente ; UE ~39,99 € na grelha."
+nearHistoricalLow: Não — histórico mostra faixas mais baixas (JP ~12,15 € em 2025-09-03).
+salePattern: ~11 promoções/ano com média ~16,74 € — não é catálogo congelado.
 priceRecommendation: wait
 quickFilters:
   - short_sessions
@@ -90,8 +76,8 @@ playerVoices:
   - quote: Sessões handheld à noite > prateleiras empoeiradas.
     sentiment: positive
 tldr: >-
-  Atari 50：The Anniversary Celebration — antologia museu ~89 Metacritic ;
-  abril 2026 espere promo ou compare linha JP na GameGulf.
+  Atari 50：The Anniversary Celebration — antologia museu ~89 Metacritic ; abril
+  2026 espere promo ou compare linha JP na GameGulf.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/31CqSWiuTPi#currency-price
 gameHref: https://www.gamegulf.com/detail/31CqSWiuTPi
@@ -102,16 +88,19 @@ heroTheme: brand
 faq:
   - question: Ainda vale comprar Atari 50 no Switch em 2026?
     answer: >-
-      Atari 50：The Anniversary Celebration serve se você quer timelines documentais
-      e saltos arcade→Jaguar ; se quer só um blockbuster linear, não é prioridade.
+      Atari 50：The Anniversary Celebration serve se você quer timelines
+      documentais e saltos arcade→Jaguar ; se quer só um blockbuster linear, não
+      é prioridade.
   - question: Quanto tempo leva Atari 50 no Switch?
     answer: >-
-      Atari 50：The Anniversary Celebration leva umas seis horas focando timelines,
-      umas doze expandindo extras e até umas vinte horas em modo coleccionador profundo.
+      Atari 50：The Anniversary Celebration leva umas seis horas focando
+      timelines, umas doze expandindo extras e até umas vinte horas em modo
+      coleccionador profundo.
   - question: Que atrito devo esperar?
     answer: >-
-      Atari 50：The Anniversary Celebration mistura picos difíceis de época, pouco tutorial
-      e sessões curtas — jogadores costumam alternar timelines em vez de exigir cada ROM igual.
+      Atari 50：The Anniversary Celebration mistura picos difíceis de época,
+      pouco tutorial e sessões curtas — jogadores costumam alternar timelines em
+      vez de exigir cada ROM igual.
 priceRows:
   - regionCode: JP
     eurPrice: 24.3
@@ -164,7 +153,7 @@ Abra **[GameGulf](https://www.gamegulf.com/detail/31CqSWiuTPi#currency-price)** 
 Luz típica **~15 €** entre topo JP e etiquetas UE — conta certa importa mais que «dia mágico».
 
 
-| Região | Preço (equivalente EUR) | Preço nativo |
+| Região | Preço (equivalente em EUR) | Preço nativo |
 | --- | ---: | ---: |
 | Japão | EUR 24.30 | ¥4,500 |
 | Estados Unidos | EUR 34.21 | $39.99 |
@@ -175,7 +164,7 @@ Luz típica **~15 €** entre topo JP e etiquetas UE — conta certa importa mai
 | França | EUR 39.99 | €39.99 |
 | Itália | EUR 39.99 | €39.99 |
 
-Leitura **promoção** / **sale** : **11** quedas seguidas em um ano com média **~16,74 €** ; último movimento forte **2026-04-02** perto de **~15,39 €** nos EUA, **~27** dias antes desta nota — **discount** ativo. Compare sempre em **gamegulf.com** antes do MSRP.
+Leitura **promoção** / **sale** : **11** quedas seguidas em um ano com média **~16,74 €** ; último movimento forte **2026-04-02** perto de **~15,39 €** nos EUA, **~27** dias antes desta nota — **discount** ativo. Compare sempre em **gamegulf.com** antes do preço cheio.
 
 ## Que tipo de jogo é?
 

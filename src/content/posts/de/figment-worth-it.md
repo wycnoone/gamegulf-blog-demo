@@ -14,7 +14,7 @@ decision: >-
   Kaufen, wenn du ein kurzes, song-lastiges Abenteuer willst — April 2026 hält
   Japan im Index nahe historischer Promo-Banden.
 priceSignal: >-
-  Index Japan ~0,54 € äquivalent bei starker Promo, EU-MSRP oft ~19,99 € —
+  Index Japan ~0,54 € äquivalent bei starker Promo, EU-Listenpreis oft ~19,99 € —
   riesige Spreizung.
 heroStat: 75 Metacritic
 heroNote: Bedtime Digital — Dusty & Piper, singende Bosse, Handmalerei, leichter Kampf.
@@ -34,7 +34,7 @@ bestFor: Kurz-Indies, bei denen der Soundtrack die Hauptrolle spielt.
 avoidIf: Du willst Souls-Härte oder 40 h RPG.
 consensusPraise: Kunst, Musik-als-Welt, Boss-Duetts charmant.
 mainFriction: Kampf bleibt simpel — Deckel bei Erkundung/Rätsel.
-timeFit:  ~5/6/7 h.
+timeFit: ~5/6/7 h.
 fitLabel: Spielbares Konzeptalbum.
 timingNote: >-
   Wenn dein Konto die Japan-Promo trifft, ist es meist Geschmack — Live-Zeile
@@ -49,9 +49,9 @@ playStyle: Isometrisch, Rätsel, Musik-Setpieces, Ängste im Gehirn.
 timeCommitment: ~5 h Story, ~6 h Extras, ~7 h Completion.
 playMode: Singleplayer.
 whyNow: Preis trägt — Charme mid-70s, kein perfektes Meisterwerk.
-currentDeal: Japan ~0,54 € eq. (¥2.200 Kontext), US/BR Promo, EU MSRP.
+currentDeal: Japan ~0,54 € eq. (¥2.200 Kontext), US/BR Promo, EU Listenpreis.
 nearHistoricalLow: Ja — April-2026-Index = historische Tiefhaltung.
-salePattern: Tiefe Promos wiederholt — zuschlagen vor MSRP-Rückkehr.
+salePattern: Tiefe Promos wiederholt — zuschlagen vor Listenpreis-Rückkehr.
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -152,13 +152,15 @@ cardPriceNativeCurrency: JPY
 
 Figment ist ein leichter Impulskauf, wenn der Index am Boden klebt — bestätige deinen eShop.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €0.54.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €0.54.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) gegen deine Region halten.
 
 ## Was kostet Figment auf Nintendo Switch aktuell?
 
 Figment ist ein leichter Impulskauf, wenn der Index am Boden klebt — bestätige deinen eShop.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 0.54 | ¥2,200 |
@@ -191,13 +193,13 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Du willst Souls-Härte oder 40 h RPG.
 
 ## Abschluss
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Tiefe Promos wiederholt — zuschlagen vor MSRP-Rückkehr.
+Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Tiefe Promos wiederholt — zuschlagen vor Listenpreis-Rückkehr.
 
 Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** und entscheide dann Buy-now vs Wait.

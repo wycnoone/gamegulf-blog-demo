@@ -2,8 +2,8 @@
 title: Metroid Dread ainda vale a pena no Nintendo Switch em 2026?
 description: >-
   Guia de compra Switch — preços eShop indexados em abril de 2026, ritmo de
-  promoções Nintendo, tempos , tensão EMMI e combate com contra-ataque,
-  comprar agora ou alerta.
+  promoções Nintendo, tempos , tensão EMMI e combate com contra-ataque, comprar
+  agora ou alerta.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,9 +37,9 @@ bestFor: Quem gosta de exploração tensa e aprender padrões.
 avoidIf: Evite se caçadas EMMI e wipes de chefe esgotam.
 consensusPraise: Controlo, clareza visual e ameaça EMMI continuam referência na Switch.
 mainFriction: Picos de dificuldade e EMMI cansam quem quer aventura relaxada.
-timeFit:  ~9h história, ~12h extras, ~14h completionist (médias comunidade).
+timeFit: ~9h história, ~12h extras, ~14h completionist (médias comunidade).
 fitLabel: Jogadores que gostam de dominar ritmo, não farm chill.
-timingNote: Compare a sua linha eShop com âncoras HK/JP antes de pagar MSRP alto.
+timingNote: Compare a sua linha eShop com âncoras HK/JP antes de pagar preço cheio alto.
 communityVibe: Passos EMMI — eco permanente
 playtime: ~9h história · ~12h+ extras · ~14h completionist
 reviewSignal: 88 Metacritic
@@ -176,7 +176,7 @@ cardPriceNativeCurrency: HKD
 
 Metroid Dread continua compra de qualidade para o perfil certo — o risco é regional.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €36.44.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €36.44.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price).
 
@@ -216,7 +216,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: ~9h história · ~12h+ extras · ~14h completionist
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se caçadas EMMI e wipes de chefe esgotam.

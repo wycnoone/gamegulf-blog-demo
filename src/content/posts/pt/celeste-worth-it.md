@@ -30,9 +30,11 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  Celeste ~92 MC ; IT/PT ~€4,99 no GameGulf Abr/2026 ; brief ainda „rarely_discounted“ na lista.
+  Celeste ~92 MC ; IT/PT ~€4,99 no GameGulf Abr/2026 ; brief ainda
+  „rarely_discounted“ na lista.
 whatItIs: >-
-  Plataforma pixel: montanha em capítulos, Modo Assist e capítulo Farewell bruto.
+  Plataforma pixel: montanha em capítulos, Modo Assist e capítulo Farewell
+  bruto.
 bestFor: Quem curte pulos exigentes e trilha emocional dominante.
 avoidIf: Espera apenas mapa grande estilo Hollow Knight exploratória.
 consensusPraise: Assist mantém fluxo casual sem sabotar mestres B-side.
@@ -157,7 +159,7 @@ faq:
 
 ## Qual o preço hoje?
 
-**Grade abaixo = `priceRows`.** Checkout real sempre no **[painel Celeste GameGulf](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** — **gamegulf.com** **não** substitui eShop brasileiro se sua conta Brasil mostra outra linha (mas você compara rápido globalmente).
+**Grade abaixo = recorte de preços.** Checkout real sempre no **[painel Celeste GameGulf](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** — **gamegulf.com** **não** substitui eShop brasileiro se sua conta Brasil mostra outra linha (mas você compara rápido globalmente).
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |

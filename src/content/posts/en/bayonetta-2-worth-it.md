@@ -165,7 +165,7 @@ priceRows:
 cardPriceEur: 35.53
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 41.59
+cardPrice: USD 41.58
 cardPriceNative: ¥6,578
 cardPriceNativeCurrency: JPY
 ---
@@ -183,14 +183,14 @@ Indexed spread is about **€14** from the Japan-led line to **€49.99-class** 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.59 | ¥6,578 |
-| Hong Kong | USD 42.07 | HK$329 |
-| United States | USD 50.07 | $49.99 |
-| United Kingdom | USD 53.81 | £39.99 |
-| Brazil | USD 54.95 | R$279.9 |
-| Germany | USD 58.52 | €49.99 |
-| Spain | USD 58.52 | €49.99 |
-| France | USD 58.52 | €49.99 |
+| Japan | USD 41.58 | ¥6,578 |
+| Hong Kong | USD 42.06 | HK$329 |
+| United States | USD 50.05 | $49.99 |
+| United Kingdom | USD 53.79 | £39.99 |
+| Brazil | USD 54.93 | R$279.9 |
+| Germany | USD 58.50 | €49.99 |
+| Spain | USD 58.50 | €49.99 |
+| France | USD 58.50 | €49.99 |
 
 Discount-history note for this brief: **0** tracked sale windows in the past year, no rolling average sale price, and the **€35.53** Japan anchor aligns with the stated **global-low** reference — if you need a lower number, plan around **account region**, not an imaginary seasonal cascade. This is the kind of SKU where **historical low** language in player chatter often means “Nintendo rarely deep-cuts,” which matches the indexed snapshot.
 

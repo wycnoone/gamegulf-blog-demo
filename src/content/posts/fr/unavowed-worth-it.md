@@ -52,9 +52,9 @@ communityVibe: Choix d’équipe, doublage et fantasy urbaine portent les avis
 playtime: ~9 h histoire, 12 h extras, ~17 h complétion
 reviewSignal: 91 Metacritic
 takeaway: >-
-  Unavowed se juge d’abord sur l’envie de jouer : boucle aventure, puzzle et jeu
-  de rôle, ampleur et repère 91 Metacritic; le prix sert surtout à choisir le
-  bon moment.
+  Unavowed convient surtout si vous cherchez aventure, puzzle et jeu de rôle —
+  Unavowed sur Nintend; Les régions les moins chères mènent le tableau, puis
+  tranchez achat ou attente.
 playStyle: aventure, puzzle et jeu de rôle
 timeCommitment: ~9 h histoire, 12 h extras, ~17 h complétion
 playMode: Solo par défaut sauf mention multijoueur sur la boutique.

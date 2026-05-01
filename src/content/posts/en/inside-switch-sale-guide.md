@@ -52,9 +52,9 @@ communityVibe: Mood, sound, and wordless puzzle dread are the real hook
 playtime: 4h main · 4h+ extras · ~5h completionist
 reviewSignal: 91 Metacritic
 takeaway: >-
-  INSIDE is a gameplay-fit call first: choose it if the adventure, puzzle,
-  action loop, scope, and 91 Metacritic quality band match your taste; use price
-  only to decide timing.
+  INSIDE works best if you want adventure, puzzle, action — INSIDE on Nintendo
+  Switch; The cheapest tracked territories lead the table — comp, then choose
+  buy-now or wait.
 playStyle: adventure, puzzle, action
 timeCommitment: 4h main · 4h+ extras · ~5h completionist
 playMode: Single-player unless store lists multiplayer.
@@ -163,7 +163,7 @@ Tracked **discount** history: **all-time low** around **€22.99** (DE), **6** *
 
 ## How much does INSIDE cost on Nintendo Switch right now?
 
-**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in price snapshot. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
 
 
 | Region | Price (USD equivalent) | Native price |

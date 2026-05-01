@@ -30,9 +30,10 @@ priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: MC ~92; IT/PT ~€4,99 im GameGulf-Snapshot; Brief bleibt „selten rabattiert“ auf Listenbasis.
-whatItIs: >-
-  Pixel-Plattformer: Kapitelberg, Assist-Regler, Farewell-Nachspiel extrem.
+listingTakeaway: >-
+  MC ~92; IT/PT ~€4,99 im GameGulf-Snapshot; Brief bleibt „selten rabattiert“
+  auf Listenbasis.
+whatItIs: "Pixel-Plattformer: Kapitelberg, Assist-Regler, Farewell-Nachspiel extrem."
 bestFor: Präzisionsläufer mit Appetit auf emotionalen Soundtrack.
 avoidIf: Du willst freies Erkunden statt Trial-and-Death-Räume.
 consensusPraise: Assist verschiebt Reibung ohne den Skill-Skyline für Puristinnen zu reißen.
@@ -159,7 +160,7 @@ faq:
 
 ## Wie viel kostet Celeste auf der Switch aktuell?
 
-**Promotionszeilen ≠ Liste.** Tabelle entspricht `priceRows` — echte Daten siehst du auf **[dieser GameGulf-Detailseite](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)**.
+**Promotionszeilen ≠ Liste.** Tabelle entspricht Preissnapshot — echte Daten siehst du auf **[dieser GameGulf-Detailseite](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)**.
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |

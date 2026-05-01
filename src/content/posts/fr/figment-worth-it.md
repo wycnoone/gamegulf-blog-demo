@@ -36,7 +36,7 @@ bestFor: Indés courts où la BO est le plat principal.
 avoidIf: Tu veux du Souls-like ou 40 h de RPG.
 consensusPraise: Art, musique-monde, duos de boss très charmants.
 mainFriction: Combat simple — plafond = exploration/puzzle.
-timeFit:  ~5 h / 6 h / 7 h.
+timeFit: ~5 h / 6 h / 7 h.
 fitLabel: Album concept jouable.
 timingNote: >-
   Si ton compte touche le bandeau Japon, l’hésitation est surtout le goût —
@@ -51,9 +51,9 @@ playStyle: Brawl isométrique, puzzles, séquences musicales, peurs literalisée
 timeCommitment: ~5 h histoire, ~6 h extras, ~7 h complétion.
 playMode: Solo.
 whyNow: Le prix fait le job — charme mid-70s, pas chef-d’œuvre absolu.
-currentDeal: Japon ~0,54 € eq. (contexte ¥2 200), puis US/Brasil promo, puis MSRP UE.
+currentDeal: Japon ~0,54 € eq. (contexte ¥2 200), puis US/Brasil promo, puis prix catalogue UE.
 nearHistoricalLow: Oui — posture index avril 2026 alignée sur plancher suivi.
-salePattern: Grosses promos récurrentes — verrouille avant retour MSRP.
+salePattern: Grosses promos récurrentes — verrouille avant retour prix catalogue.
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -158,7 +158,7 @@ cardPriceNativeCurrency: JPY
 
 Figment est un achat impulsif facile quand l’index colle au plancher — confirme ton eShop avant d’assumer l’ancre Japon.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €0.54.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €0.54.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
 
@@ -199,13 +199,13 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Tu veux du Souls-like ou 40 h de RPG.
 
 ## Conclusion
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. Grosses promos récurrentes — verrouille avant retour MSRP.
+Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. Grosses promos récurrentes — verrouille avant retour prix catalogue.
 
 Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** puis tranche achat vs attente.

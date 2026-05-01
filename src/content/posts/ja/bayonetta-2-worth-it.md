@@ -40,7 +40,7 @@ playMode: 基本シングル、任意協力（周辺機器要件あり）。
 whyNow: 移植の前提が固まり、性能期待が可視化されている。
 currentDeal: 2026年4月——日本~€35.53、香港/米は同グリッドで上。
 nearHistoricalLow: 指数ウィンドウ内に別段の安値ラダーなし——日本行は~€35.53のグローバルロー参照と一致。
-salePattern: 追跡1年で値下げ0件——恒常MSRP理解で見るのが安全。
+salePattern: 追跡1年で値下げ0件——恒常定価理解で見るのが安全。
 priceRecommendation: buy
 quickFilters:
   - rarely_discounted
@@ -117,7 +117,7 @@ priceRows:
 cardPriceEur: 35.53
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 6646
+cardPrice: JPY 6509
 cardPriceNative: ¥6,578
 cardPriceNativeCurrency: JPY
 ---
@@ -135,14 +135,14 @@ cardPriceNativeCurrency: JPY
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 6646 | ¥6,578 |
-| 香港 | JPY 6723 | HK$329 |
-| アメリカ合衆国 | JPY 8000 | $49.99 |
-| イギリス | JPY 8599 | £39.99 |
-| ブラジル | JPY 8780 | R$279.9 |
-| ドイツ | JPY 9351 | €49.99 |
-| スペイン | JPY 9351 | €49.99 |
-| フランス | JPY 9351 | €49.99 |
+| 日本 | JPY 6509 | ¥6,578 |
+| 香港 | JPY 6585 | HK$329 |
+| アメリカ合衆国 | JPY 7836 | $49.99 |
+| イギリス | JPY 8422 | £39.99 |
+| ブラジル | JPY 8600 | R$279.9 |
+| ドイツ | JPY 9159 | €49.99 |
+| スペイン | JPY 9159 | €49.99 |
+| フランス | JPY 9159 | €49.99 |
 
 **セール**履歴（指数）：直近1年 **0** 回の値下げ。**€35.53** は**最安値**参照と一致。**2025**/**2026** スナップも「深いPromo階段なし」読み。
 

@@ -41,7 +41,7 @@ consensusPraise: >-
   Erkundungsfreiheit, Update-Menge und die schiere Größe tragen das Spiel
   weiter.
 mainFriction: Menüs, Inventar und Grind können den Zauber am Anfang bremsen.
-timeFit:  ~32 h Story, 77 h Extras, 156 h Completion.
+timeFit: ~32 h Story, 77 h Extras, 156 h Completion.
 fitLabel: Für Spieler, die sich eigene Ziele setzen wollen.
 timingNote: >-
   Dieser Artikel bewertet nur Nintendo Switch; andere Plattformpreise gehören
@@ -56,8 +56,8 @@ playStyle: >-
   Freie Planeten-Erkundung, Ressourcenabbau, Basen, Handel, Schiff- und
   Suit-Upgrades, Quests oder zielloses Herumziehen.
 timeCommitment: >-
-  verortet die Story bei ca. 32 Stunden, Main-Plus bei 77 und Completion
-  bei 156 Stunden. Das ist ein Dauer-Spiel, kein Wochenendhäppchen.
+  verortet die Story bei ca. 32 Stunden, Main-Plus bei 77 und Completion bei 156
+  Stunden. Das ist ein Dauer-Spiel, kein Wochenendhäppchen.
 playMode: Singleplayer auf Nintendo Switch.
 whyNow: >-
   Die Nintendo-Nintendo-Switch-Preis ist wieder am verfolgten Tief, dadurch
@@ -124,8 +124,8 @@ faq:
       zeigt.
   - question: Wie lang ist No Man's Sky?
     answer: >-
-      No Man's Sky liegt laut  bei rund 32 Stunden Story, 77 Stunden
-      Main-Plus und 156 Stunden Completion.
+      No Man's Sky liegt laut  bei rund 32 Stunden Story, 77 Stunden Main-Plus
+      und 156 Stunden Completion.
   - question: Wo sehe ich andere Plattformen?
     answer: >-
       No Man's Sky vergleichst du für andere Plattformen am besten direkt auf
@@ -185,13 +185,15 @@ cardPriceNativeCurrency: JPY
 
 No Man's Sky ist auf Nintendo Switch für 13,07 € leicht zu empfehlen; andere Plattformen prüfst du danach auf GameGulf.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €13.07.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €13.07.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/jOx3ZV1olfz#currency-price) gegen deine Region halten.
 
 ## Was kostet No Man's Sky auf Nintendo Switch aktuell?
 
 No Man's Sky ist auf Nintendo Switch für 13,07 € leicht zu empfehlen; andere Plattformen prüfst du danach auf GameGulf.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 13.07 | ¥6,050 |
@@ -223,7 +225,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Singleplayer auf Nintendo Switch.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Du willst straffe Führung, wenig Menüs oder direkt Koop als Kern.

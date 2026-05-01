@@ -34,7 +34,7 @@ bestFor: Fans de táctica profunda, mapa y arte memorable.
 avoidIf: Evítalo si buscas partidas cortas u odias fantasía política lenta.
 consensusPraise: Claridad táctica, música y UI — de lo mejor en SRPG en Switch.
 mainFriction: "Ritmo pausado: mucha historia y mapa entre batallas espectaculares."
-timeFit:  ~46h historia, ~63h extras, ~76h completista (agregados).
+timeFit: ~46h historia, ~63h extras, ~76h completista (agregados).
 fitLabel: Para quien disfruta optimizar escuadrones y liberar territorios.
 timingNote: Compara tu fila de eShop con el ancla promo ~€20,99 antes de pagar.
 communityVibe: Tier lists día, Vanillaware noche—mismo bucle madrugada.
@@ -46,7 +46,7 @@ takeaway: >-
 playStyle: >-
   Exploración de mapa, misiones, batallas en tiempo real con pausa y gran
   roster.
-timeCommitment:  sugiere ~46h historia, ~63h con extras, ~76h al completar coleccionables.
+timeCommitment: sugiere ~46h historia, ~63h con extras, ~76h al completar coleccionables.
 playMode: Un jugador.
 whyNow: La calidad está probada; lo variable es si tu tienda sigue en banda promo.
 currentDeal: >-
@@ -57,7 +57,7 @@ nearHistoricalLow: >-
   histórico.
 salePattern: >-
   11 rebajas en el año; precio medio en descuento ~€29,64 antes de volver a
-  MSRP.
+  precio de lista.
 priceRecommendation: buy
 quickFilters:
   - long_rpg
@@ -175,7 +175,7 @@ cardPriceNativeCurrency: EUR
 
 Unicorn Overlord sigue siendo compra sólida en 2026 para fans de SRPG — las promos EU actuales igualan el mínimo histórico rastreado.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €20.99.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €20.99.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price).
 
@@ -210,11 +210,11 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te gusta **Fans de táctica profunda, mapa y arte memorable.**
 - tu precio regional en GameGulf ya esta en rango objetivo
 - prefieres jugar ya en vez de esperar otra ventana de oferta
-- te cuadra el ritmo: HLTB sugiere ~46h historia, ~63h con extras, ~76h al completar coleccionables.
+- te cuadra el ritmo: Duración orientativa: sugiere ~46h historia, ~63h con extras, ~76h al completar coleccionables.
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Evítalo si buscas partidas cortas u odias fantasía política lenta.

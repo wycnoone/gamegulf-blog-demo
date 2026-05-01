@@ -1,7 +1,7 @@
 ---
 title: Persona 5 Royal no Switch em 2026 — vale a pena comprar?
 description: >-
-  Guia Switch (abril 2026): preços indexados, histórico de promoções vs MSRP,
+  Guia Switch (abril 2026): preços indexados, histórico de promoções vs preço cheio,
   tempos , desempenho portátil, comprar já ou criar alerta.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
@@ -35,7 +35,7 @@ bestFor: Quem gosta de JRPG longo com pressão de calendário.
 avoidIf: Evita se drama escolar ou textos longos te cansam.
 consensusPraise: UI, banda sonora, escrita e ritmo de combate continuam referência.
 mainFriction: Mementos e palácios longos se queres fechar em 40 h.
-timeFit:  ~101 h história, ~123 h extras, ~141 h completion.
+timeFit: ~101 h história, ~123 h extras, ~141 h completion.
 fitLabel: Jogadores que preparam vínculos e puzzles de palácio.
 timingNote: Compara a tua linha eShop com o Japão e a média ~20 € em saldo.
 communityVibe: Memes ladrão — café, exames, roubar corações
@@ -45,13 +45,13 @@ takeaway: >-
   Royal continua a edição certa — abril 2026 é “entre promoções”, não o piso
   rastreado.
 playStyle: Fraquezas, relays, puzzles, Mementos, arco do terceiro semestre.
-timeCommitment:  ~101 h história, ~123 h com extras, ~141 h completionista.
+timeCommitment: ~101 h história, ~123 h com extras, ~141 h completionista.
 playMode: Um jogador.
 whyNow: >-
   Qualidade está dada; falta saber se o teu preço justifica saltar o próximo
   saldo.
 currentDeal: Japão lidera ~41,75 € (¥7.678); EUA ~52,07 € ($59,99).
-nearHistoricalLow: Não — JP ~12,52 € em 10/03/2026 fica longe do MSRP.
+nearHistoricalLow: Não — JP ~12,52 € em 10/03/2026 fica longe do preço cheio.
 salePattern: >-
   Nove promoções num ano, média ~20,01 € — quedas voltam e o preço de lista
   regressa.
@@ -101,7 +101,7 @@ faq:
       Persona 5 Royal vale a pena se queres um JRPG de calendário com 94 na
       Metacritic em portátil. Em abril 2026 o índice GameGulf ainda começa no
       Japão — define um preço-alvo se queres o próximo saldo forte em vez do
-      MSRP.
+      preço cheio.
   - question: Quanto tempo demora?
     answer: >-
       Persona 5 Royal leva ~101 h de história, ~123 h com extras e ~141 h no 100
@@ -165,7 +165,7 @@ cardPriceNativeCurrency: JPY
 
 Royal continua a edição certa — abril 2026 é “entre promoções”, não o piso rastreado.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €41.75.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €41.75.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price).
 
@@ -202,11 +202,11 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - voce curte **Fraquezas, relays, puzzles, Mementos, arco do terceiro semestre.**
 - teu preco regional no GameGulf ja entrou na faixa-alvo
 - voce quer jogar ja, sem esperar outra janela de desconto
-- o ritmo te atende: HLTB ~101 h história, ~123 h com extras, ~141 h completionista.
+- o ritmo te atende: Duração estimada: ~101 h história, ~123 h com extras, ~141 h completionista.
 
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evita se drama escolar ou textos longos te cansam.

@@ -10,7 +10,7 @@ gameTitle: Sonic Mania
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 min read
 decision: >-
@@ -162,19 +162,19 @@ playtime: 6h main · 10h+ extras · ~19h completionist
 
 ## How much does Sonic Mania cost on Nintendo Switch right now?
 
-**Regional digital tiers still split hard** — Nintendo lists **~€19.99-class MSRP** in major euro markets while **Japan** currently anchors the **indexed cheap band** on **GameGulf**. The markdown table below mirrors the same **priceRows** we store for **gamegulf.com** sync — **always re-open** your account region before assuming a deal.
+**Regional digital tiers still split hard** — Nintendo lists **~€19.99-class MSRP** in major euro markets while **Japan** currently anchors the **indexed cheap band** on **GameGulf**. The markdown table below mirrors the same **price snapshot** we store for **gamegulf.com** sync — **always re-open** your account region before assuming a deal.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Japan | USD 12.51 | ¥1,980 |
-| Brazil | USD 18.65 | R$95 |
-| Hong Kong | USD 18.93 | HK$148 |
-| United States | USD 20.02 | $19.99 |
-| United Kingdom | USD 21.52 | £15.99 |
-| Germany | USD 23.40 | €19.99 |
-| Spain | USD 23.40 | €19.99 |
-| France | USD 23.40 | €19.99 |
+| Brazil | USD 18.64 | R$95 |
+| Hong Kong | USD 18.92 | HK$148 |
+| United States | USD 20.01 | $19.99 |
+| United Kingdom | USD 21.51 | £15.99 |
+| Germany | USD 23.39 | €19.99 |
+| Spain | USD 23.39 | €19.99 |
+| France | USD 23.39 | €19.99 |
 
 ## What kind of game is Sonic Mania, really?
 

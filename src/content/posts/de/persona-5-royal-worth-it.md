@@ -34,7 +34,7 @@ bestFor: Fans von langen JRPGs mit Stil und Kalender-Rhythmus.
 avoidIf: Meide es bei Kalender-Stress oder Anime-Melodram als schneller Burnout.
 consensusPraise: UI, Musik, Text und Kampf-Flow bleiben Referenz im Genre.
 mainFriction: Mementos und lange Paläste bremsen bei 40h-Zieltempo.
-timeFit:  ~101 h Main, ~123 h Extras, ~141 h Completion.
+timeFit: ~101 h Main, ~123 h Extras, ~141 h Completion.
 fitLabel: Für Vorbereitung auf Vertraute, Palast-Rätsel und lange Bögen.
 timingNote: Vergleiche eShop-Preis mit Japan und ~20 € Tracking-Schnitt vor dem Kauf.
 communityVibe: Phantomdieb-Memes — Kaffee, Prüfungen, Herzen klauen
@@ -44,7 +44,7 @@ takeaway: >-
   Royal bleibt die Kaufversion — April 2026 ist „zwischen Sales“, nicht der
   getrackte Boden.
 playStyle: Press-Turn-Schwächen, Baton Pass, Palast-Rätsel, Mementos, drittes Semester.
-timeCommitment:  ~101 h Main, ~123 h mit Extras, ~141 h Completion.
+timeCommitment: ~101 h Main, ~123 h mit Extras, ~141 h Completion.
 playMode: Singleplayer.
 whyNow: Qualität steht; offen ist, ob deine Zeile vor dem nächsten Tief noch fair ist.
 currentDeal: Japan ~41,75 € (¥7.678) vorn, USA ~52,07 € ($59,99).
@@ -159,13 +159,15 @@ cardPriceNativeCurrency: JPY
 
 Royal bleibt die Kaufversion — April 2026 ist „zwischen Sales“, nicht der getrackte Boden.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €41.75.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €41.75.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) gegen deine Region halten.
 
 ## Was kostet Persona 5 Royal auf Nintendo Switch aktuell?
 
 Royal bleibt die Kaufversion — April 2026 ist „zwischen Sales“, nicht der getrackte Boden.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 41.75 | ¥7,678 |
@@ -197,7 +199,7 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Singleplayer.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Meide es bei Kalender-Stress oder Anime-Melodram als schneller Burnout.

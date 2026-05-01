@@ -1,6 +1,6 @@
 /**
  * Delete markdown posts whose frontmatter publishedAt matches a given YYYY-MM-DD.
- * Usage: node scripts/delete-posts-by-published-date.mjs 2026-04-22
+ * Usage: node scripts/one-off/delete-posts-by-published-date.mjs 2026-04-22
  * Default dry-run: pass --execute to actually delete.
  */
 import { readdir, readFile, unlink } from "node:fs/promises";

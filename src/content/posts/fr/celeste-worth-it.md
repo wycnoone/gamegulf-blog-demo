@@ -32,7 +32,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
-  MC ~92 ; IT/PT ~€4,99 sur GameGulf ; données brutes « rarely_discounted » côté liste.
+  MC ~92 ; IT/PT ~€4,99 sur GameGulf ; données brutes « rarely_discounted » côté
+  liste.
 whatItIs: >-
   Plateforme narrative : chapitres montagne, fraises, cartouches, cœurs, mode
   assistance
@@ -164,7 +165,7 @@ Ouvre **[le pricing live GameGulf](https://www.gamegulf.com/detail/83uNBGDNnOl#c
 
 ## Combien coûte Celeste sur Switch aujourd’hui ?
 
-**Promo UE ≠ liste JP/US.** Le tableau (synchronisé depuis **`priceRows`**) doit être relu **[sur gamegulf.com detail](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** juste avant l’achat.
+**Promo UE ≠ liste JP/US.** Le tableau (synchronisé depuis **instantané de prix**) doit être relu **[sur gamegulf.com detail](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** juste avant l’achat.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |

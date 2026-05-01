@@ -49,7 +49,9 @@ function normalizeField(value) {
   if (text.includes('且接受掌…')) return '';
   return text
     .replace(/Nintendo Switch/g, 'Switch')
-    .replace(/MSRP 行/g, 'MSRP 档位')
+    .replace(/MSRP 行/g, '标价区间')
+    .replace(/MSRP 档位/g, '标价区间')
+    .replace(/\bMSRP\b/g, '标价')
     .replace(/区服不同步/g, '区服价格不同步');
 }
 
@@ -183,7 +185,7 @@ function buildBody(data) {
 
 你可以先在 [GameGulf 实时价格页](${priceUrl}) 对照区服后再下单；这比只看单一区服或手动汇率更稳。
 
-折扣历史提示：以 ${year} 年窗口看，historical low / sale / discount 线索仍有效，当前可对照到约 ${low} 的参考区间。
+折扣历史提示：以 ${year} 年窗口看，历史低价、促销频率和当前区服价差要一起判断；当前可对照到约 ${low} 的参考区间。
 
 ## 《${game}》在 ${platform} 上现在大概多少钱？
 
@@ -195,9 +197,9 @@ ${table}
 
 ## 《${game}》到底是什么类型的游戏？
 
-这作主要是 **${genres}** 向体验。是否适合你，重点不在宣传文案，而在于玩法循环和你平时偏好的匹配度。
+这作可以先按 **${genres}** 来判断口味。是否适合你，重点不在宣传文案，而在于实际循环、内容体量和你平时偏好的匹配度。
 
-- **玩法重心**：更偏向该类型的常规核心循环，上手门槛整体可控。
+- **玩法重心**：围绕 **${genres}** 展开，先看你是否愿意反复投入这套循环。
 - **内容体量**：${timeCommitment}
 - **适配人群**：${bestFor}
 

@@ -15,7 +15,7 @@ author: GameGulf Editorial AI
 readingTime: 8 min de lectura
 decision: >-
   Vale si te va el museo jugable; los datos indexados suelen pedir esperar promo
-  o irte a la fila japonesa antes de pagar MSRP europeo.
+  o irte a la fila japonesa antes de pagar precio de lista europeo.
 priceSignal: >-
   ~11 rebajas en un año con media ~16,74 €; las etiquetas de abril quedan por
   encima si no estás en la fila de Japón.
@@ -37,7 +37,7 @@ consensusPraise: Las timelines dan contexto más allá del simple nostalgia trip
 mainFriction: Biblioteca enorme y calidad desigual — sesiones cortas, no maratón única.
 timeFit: ~6h timelines ; ~12h amplio ; ~20h si coleccionas todo.
 fitLabel: Saltos entre épocas mejor que grind uniforme.
-timingNote: Último descuento hace semanas — revisa GameGulf antes del MSRP UE.
+timingNote: Último descuento hace semanas — revisa GameGulf antes del precio de lista UE.
 communityVibe: Las timelines enganchan más que un solo cartucho
 playtime: ~6h · ~12h extras · ~20h coleccionista
 reviewSignal: 89 Metacritic
@@ -158,6 +158,7 @@ Abre **[GameGulf](https://www.gamegulf.com/detail/31CqSWiuTPi#currency-price)** 
 
 Hueco típico **~15 €** entre la fila japonesa y el catálogo UE — elige cuenta antes de fantasear con «un día mejor».
 
+
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
 | Japón | EUR 24.30 | ¥4,500 |
@@ -169,7 +170,7 @@ Hueco típico **~15 €** entre la fila japonesa y el catálogo UE — elige cue
 | Francia | EUR 39.99 | €39.99 |
 | Italia | EUR 39.99 | €39.99 |
 
-Datos **oferta** / **sale** : **11** rebajas seguidas en un año con media **~16,74 €** ; último golpe útil **2026-04-02** hacia **~15,39 €** en EE. UU., **~27** días antes de esta nota — perfil **discount** activo. Cruza siempre con **gamegulf.com** antes de pagar MSRP.
+Datos **oferta** / **sale** : **11** rebajas seguidas en un año con media **~16,74 €** ; último golpe útil **2026-04-02** hacia **~15,39 €** en EE. UU., **~27** días antes de esta nota — perfil **discount** activo. Cruza siempre con **gamegulf.com** antes de pagar precio de lista.
 
 ## ¿Qué clase de juego es?
 

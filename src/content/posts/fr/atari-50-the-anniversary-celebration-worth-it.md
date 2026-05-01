@@ -2,7 +2,7 @@
 title: "Atari 50 : The Anniversary Celebration sur Switch en 2026 — ça vaut le coup ?"
 description: >-
   Mémo d’achat avril 2026 : chronologies interactives, 100+ jeux, Metacritic ~89
-  ; écart Japon vs UE, moyenne promo ~16,74 € et patience vs MSRP sur GameGulf.
+  ; écart Japon vs UE, moyenne promo ~16,74 € et patience vs prix catalogue sur GameGulf.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -36,15 +36,12 @@ whatItIs: >-
   plateformes.
 bestFor: Anthologie historique plutôt qu’un blockbuster moderne.
 avoidIf: Tu veux tutoriels modernes partout — ce n’est pas l’objectif.
-consensusPraise: >-
-  Timelines et interviews donnent du relief au-delà du simple nostalgique.
-mainFriction: >-
-  Bibliothèque immense — hits inégaux ; sessions courtes plutôt qu’un marathon.
-timeFit: >-
-  ~6h timelines ; ~12h large ; ~20h si tu tout-chipotes.
+consensusPraise: Timelines et interviews donnent du relief au-delà du simple nostalgique.
+mainFriction: Bibliothèque immense — hits inégaux ; sessions courtes plutôt qu’un marathon.
+timeFit: ~6h timelines ; ~12h large ; ~20h si tu tout-chipotes.
 fitLabel: Navigue entre époques plutôt que grinder une courbe unique.
 timingNote: >-
-  Dernière baisse notable il y a quelques semaines — vérifie GameGulf avant MSRP
+  Dernière baisse notable il y a quelques semaines — vérifie GameGulf avant prix catalogue
   UE.
 communityVibe: Les timelines emportent plus qu’une cartouche isolée
 playtime: ~6h · ~12h extras · ~20h collectionneur
@@ -178,6 +175,7 @@ Ouvre **[GameGulf](https://www.gamegulf.com/detail/31CqSWiuTPi#currency-price)**
 
 Écart typique **~15 €** entre la ligne menée par le Japon et les étiquettes UE catalogue — souvent plus décisif qu’un hypothétique « meilleur jour ».
 
+
 | Région | Prix (équivalent EUR) | Prix natif |
 | --- | ---: | ---: |
 | Japon | EUR 24.30 | ¥4,500 |
@@ -189,7 +187,7 @@ Ouvre **[GameGulf](https://www.gamegulf.com/detail/31CqSWiuTPi#currency-price)**
 | France | EUR 39.99 | €39.99 |
 | Italie | EUR 39.99 | €39.99 |
 
-Indices **promo** / **sale** : **11** baisses repérées sur un an vers **~16,74 €** en moyenne ; dernier signal utile **2026-04-02** vers **~15,39 €** aux États-Unis, soit **~27** jours avant cette note — profil **discount** régulier, pas catalogue figé. Compare avant tout achat impulsif MSRP sur **gamegulf.com**.
+Indices **promo** / **sale** : **11** baisses repérées sur un an vers **~16,74 €** en moyenne ; dernier signal utile **2026-04-02** vers **~15,39 €** aux États-Unis, soit **~27** jours avant cette note — profil **discount** régulier, pas catalogue figé. Compare avant tout achat impulsif prix catalogue sur **gamegulf.com**.
 
 ## Quel genre de jeu ?
 

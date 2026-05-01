@@ -10,7 +10,7 @@ gameTitle: シャンティと海賊の呪い
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 分
 decision: WayForward好きなら名作枠。ただし欧州€16.22帯が多く、深いセールまでGameGulfで監視が安全。
@@ -87,6 +87,45 @@ heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
 playtime: "目安: 1ラン約5–15分、反復で伸びる"
+priceRows:
+  - regionCode: DE
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 16.77
+    nativePrice: £14.59
+    nativeCurrency: GBP
+  - regionCode: US
+    eurPrice: 17.1
+    nativePrice: $19.99
+    nativeCurrency: USD
+  - regionCode: BR
+    eurPrice: 17.61
+    nativePrice: R$104.99
+    nativeCurrency: BRL
+cardPriceEur: 16.22
+cardPriceRegionCode: DE
+cardPriceRegion: ドイツ
+cardPrice: JPY 2972
+cardPriceNative: €16.22
+cardPriceNativeCurrency: EUR
 ---
 ## クイック判定
 
@@ -96,7 +135,19 @@ playtime: "目安: 1ラン約5–15分、反復で伸びる"
 
 ## 『シャンティと海賊の呪い』の価格（Switch）
 
-ユーロ区は**~€16.22**クラスタ、米・BRは換算で上振れ、**日本**は今回のスナップで離れた**最安値**。**gamegulf.com**と同じ**priceRows**を下に挿入。
+ユーロ区は**~€16.22**クラスタ、米・BRは換算で上振れ、**日本**は今回のスナップで離れた**最安値**。**gamegulf.com**と同じ**価格スナップショット**を下に挿入。
+
+
+| 地域 | 価格（円換算） | 現地価格 |
+| --- | ---: | ---: |
+| ドイツ | JPY 2972 | €16.22 |
+| スペイン | JPY 2972 | €16.22 |
+| フランス | JPY 2972 | €16.22 |
+| イタリア | JPY 2972 | €16.22 |
+| ポルトガル | JPY 2972 | €16.22 |
+| イギリス | JPY 3072 | £14.59 |
+| アメリカ合衆国 | JPY 3133 | $19.99 |
+| ブラジル | JPY 3226 | R$104.99 |
 
 ## どんなゲーム？
 

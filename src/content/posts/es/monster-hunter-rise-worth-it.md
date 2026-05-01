@@ -176,7 +176,7 @@ cardPriceNativeCurrency: JPY
 **Monster Hunter Rise** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **Metacritic 88**.
 
 Monster Hunter Rise sigue valiendo la pena en 2026, y el precio de Japon refuerza mucho la recomendacion.
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €4.33.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €4.33.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/lqa9TJHCgVE#currency-price).
 
@@ -214,7 +214,7 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - te cuadra el ritmo: 20h historia base · 45h+ con contenido extra · 80h+ para builds profundas
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - No ideal para quien odia grind y estructuras repetitivas.

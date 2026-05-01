@@ -196,13 +196,13 @@ Price timing is favorable now unless you only buy in one expensive storefront.
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Japan | USD 5.07 | ¥3,990 |
-| Brazil | USD 36.22 | R$184.00 |
-| Hong Kong | USD 39.87 | HK$308.00 |
-| United States | USD 40.56 | $39.99 |
-| Germany | USD 46.81 | €39.99 |
-| Spain | USD 46.81 | €39.99 |
-| France | USD 46.81 | €39.99 |
-| Portugal | USD 46.81 | €39.99 |
+| Brazil | USD 36.21 | R$184.00 |
+| Hong Kong | USD 39.86 | HK$308.00 |
+| United States | USD 40.55 | $39.99 |
+| Germany | USD 46.80 | €39.99 |
+| Spain | USD 46.80 | €39.99 |
+| France | USD 46.80 | €39.99 |
+| Portugal | USD 46.80 | €39.99 |
 
 ## What kind of game is Monster Hunter Rise?
 

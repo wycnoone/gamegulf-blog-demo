@@ -5,12 +5,12 @@
  * Default list: scripts/.cache/reextract-seq31-plus-urls.txt (序号>=31 from docs JSON).
  *
  * Usage:
- *   node scripts/reextract-brief-chunk.mjs --chunk 0
- *   node scripts/reextract-brief-chunk.mjs --chunk 1 --list path/to/urls.txt
- *   node scripts/reextract-brief-chunk.mjs --chunk 0 --no-enrich   # faster smoke test
+ *   node scripts/one-off/reextract-brief-chunk.mjs --chunk 0
+ *   node scripts/one-off/reextract-brief-chunk.mjs --chunk 1 --list path/to/urls.txt
+ *   node scripts/one-off/reextract-brief-chunk.mjs --chunk 0 --no-enrich   # faster smoke test
  *
  * Printed blog links default to local dev (Astro default port). Override if needed:
- *   BLOG_ORIGIN=https://www.gamegulf.com node scripts/reextract-brief-chunk.mjs --chunk 0
+ *   BLOG_ORIGIN=https://www.gamegulf.com node scripts/one-off/reextract-brief-chunk.mjs --chunk 0
  */
 
 import { readFileSync, existsSync, readdirSync } from 'node:fs';
@@ -19,8 +19,10 @@ import { fileURLToPath } from 'node:url';
 import { spawnSync } from 'node:child_process';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const DEFAULT_LIST = join(__dirname, '.cache', 'reextract-seq31-plus-urls.txt');
-const EXTRACT = join(__dirname, 'extract-game-brief.mjs');
+const SCRIPTS_DIR = dirname(__dirname);
+const ROOT = dirname(SCRIPTS_DIR);
+const DEFAULT_LIST = join(SCRIPTS_DIR, '.cache', 'reextract-seq31-plus-urls.txt');
+const EXTRACT = join(SCRIPTS_DIR, 'extract-game-brief.mjs');
 const CHUNK = 3;
 
 /** Same order as src/lib/i18n.ts `locales` */
@@ -33,7 +35,7 @@ function normalizeGameHref(href) {
 
 /** Map GameGulf detail URL → English post slug (basename without .md) */
 function buildGameHrefToSlugIndex() {
-  const dir = join(__dirname, '..', 'src', 'content', 'posts', 'en');
+  const dir = join(ROOT, 'src', 'content', 'posts', 'en');
   const map = new Map();
   for (const name of readdirSync(dir)) {
     if (!name.endsWith('.md')) continue;
@@ -87,7 +89,7 @@ function parseArgs() {
     else if (a[i] === '--list' && a[i + 1]) listPath = a[++i];
     else if (a[i] === '--no-enrich') enrich = false;
     else if (a[i] === '--help') {
-      console.log(`Usage: node scripts/reextract-brief-chunk.mjs --chunk <n> [--list <urls.txt>] [--no-enrich]
+      console.log(`Usage: node scripts/one-off/reextract-brief-chunk.mjs --chunk <n> [--list <urls.txt>] [--no-enrich]
 After a successful extract, prints blog article URLs (7 locales) from en post gameHref.
 Printed URLs default to http://127.0.0.1:4321 ; set BLOG_ORIGIN for production links.`);
       process.exit(0);

@@ -180,7 +180,7 @@ cardPriceNativeCurrency: JPY
 
 Ori and the Will of the Wisps continua um pico no Switch, mas a lista de abril de 2026 está acima da média promocional indexada — espere salvo urgência de jogar.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €19.14.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €19.14.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price).
 
@@ -220,7 +220,7 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: ~12 h · ~16 h+ · ~18 h
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite perseguições, voltas ao mapa ou drama sentimental.

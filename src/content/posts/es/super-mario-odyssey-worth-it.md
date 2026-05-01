@@ -121,7 +121,7 @@ faq:
     answer: >-
       Super Mario Odyssey muestra tres eventos de descuento seguidos en doce
       meses aquí, media ~€40,93 — menos agresivo que terceros, pero no está
-      congelado en MSRP.
+      congelado en precio de lista.
   - question: ¿Odyssey o un indie corto primero?
     answer: >-
       Super Mario Odyssey gana si quieres un flagship Nintendo con lunas a largo

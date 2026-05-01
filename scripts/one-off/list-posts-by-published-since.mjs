@@ -1,6 +1,6 @@
 /**
  * List posts with publishedAt >= YYYY-MM-DD and print gameHref / priceTrackHref.
- * Usage: node scripts/list-posts-by-published-since.mjs 2026-04-22
+ * Usage: node scripts/one-off/list-posts-by-published-since.mjs 2026-04-22
  */
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";

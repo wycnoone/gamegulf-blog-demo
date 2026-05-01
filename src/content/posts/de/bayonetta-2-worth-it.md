@@ -172,7 +172,7 @@ Spanne ~**14 €** bis EU-**49,99 €**-Zeilen.
 | Spanien | EUR 49.99 | €49.99 |
 | Frankreich | EUR 49.99 | €49.99 |
 
-**Rabatt**/**sale**-Verlauf: **0** Ereignisse — dennoch **2025**/**2026** Daten mit **Japan ~35,53 €** passend zum genannten **historischen** Tief. Keine **Promo**-Treppe in diesen Daten: Nintendo-**MSRP**-Logik bis zur realen Abweichung.
+**Rabatt**/**sale**-Verlauf: **0** Ereignisse — dennoch **2025**/**2026** Daten mit **Japan ~35,53 €** passend zum genannten **historischen** Tief. Keine **Promo**-Treppe in diesen Daten: Nintendo-**Listenpreis**-Logik bis zur realen Abweichung.
 
 ## Spieltyp
 

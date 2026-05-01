@@ -4,8 +4,8 @@ title: >-
   in 2026?
 description: >-
   A Switch buying guide for Tears of the Kingdom — regional eShop pricing as of
-  April 2026, Ultrahand sky-and-Depths loop, runtime bands, performance,
-  and who should buy now vs wait.
+  April 2026, Ultrahand sky-and-Depths loop, runtime bands, performance, and who
+  should buy now vs wait.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -54,8 +54,8 @@ playStyle: >-
   Open exploration, shrine puzzles, Ultrahand vehicles, combat, optional Depths
   and sky progression.
 timeCommitment: >-
-  aggregates point to ~59 hours for a focused main path, ~117 with extras,
-  and ~248 for completionists across thousands of player submissions.
+  aggregates point to ~59 hours for a focused main path, ~117 with extras, and
+  ~248 for completionists across thousands of player submissions.
 playMode: Single-player.
 whyNow: >-
   Quality and content depth justify retail for the right player; indexed pricing
@@ -164,7 +164,7 @@ priceRows:
 cardPriceEur: 42.95
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 50.30
+cardPrice: USD 50.26
 cardPriceNative: ¥7,900
 cardPriceNativeCurrency: JPY
 ---
@@ -185,10 +185,10 @@ Rarely discounted on schedule — Japan row is the realistic low anchor in index
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 50.28 | ¥7,900 |
-| Hong Kong | USD 51.73 | HK$449 |
-| United States | USD 71.11 | $79.99 |
-| Brazil | USD 78.56 | R$499.90 |
+| Japan | USD 50.26 | ¥7,900 |
+| Hong Kong | USD 51.71 | HK$449 |
+| United States | USD 71.09 | $79.99 |
+| Brazil | USD 78.53 | R$499.90 |
 
 ## What kind of game is The Legend of Zelda: Tears of the Kingdom?
 

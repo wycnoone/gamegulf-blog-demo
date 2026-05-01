@@ -12,7 +12,7 @@ hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 分
 decision: 隠れアイテム系アドベンチャーが好きで欧州インデックスが€2帯なら買い候補。Metacritic必須派やニッチ耐性がないなら見送り。
-priceSignal: 欧州は€1.99前後の安値が並び、アメリカ周辺はMSRPに近い行が残りやすい——一枚岩の相場はない。
+priceSignal: 欧州は€1.99前後の安値が並び、アメリカ周辺は定価に近い行が残りやすい——一枚岩の相場はない。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1CCpYjfshVH#currency-price
 gameHref: https://www.gamegulf.com/detail/1CCpYjfshVH
@@ -107,7 +107,7 @@ priceRows:
 cardPriceEur: 1.99
 cardPriceRegionCode: DE
 cardPriceRegion: ドイツ
-cardPrice: JPY 372
+cardPrice: JPY 365
 cardPriceNative: €9.99
 cardPriceNativeCurrency: EUR
 faq:
@@ -134,19 +134,19 @@ playtime: "目安: メイン約3–8時間、追加約8–15時間"
 
 ## Switch版のいまの価格は？
 
-表はfrontmatterの`priceRows`と一致。**gamegulf.com**で実売を確認して。
+表は価格スナップショットの価格スナップショットと一致。**gamegulf.com**で実売を確認して。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ドイツ | JPY 372 | €9.99 |
-| フランス | JPY 372 | €9.99 |
-| イタリア | JPY 372 | €9.99 |
-| ポルトガル | JPY 372 | €9.99 |
-| イギリス | JPY 385 | £8.99 |
-| ブラジル | JPY 1597 | R$50.95 |
-| アメリカ合衆国 | JPY 1599 | $9.99 |
-| スペイン | JPY 1869 | €9.99 |
+| ドイツ | JPY 365 | €9.99 |
+| フランス | JPY 365 | €9.99 |
+| イタリア | JPY 365 | €9.99 |
+| ポルトガル | JPY 365 | €9.99 |
+| イギリス | JPY 377 | £8.99 |
+| ブラジル | JPY 1565 | R$50.95 |
+| アメリカ合衆国 | JPY 1566 | $9.99 |
+| スペイン | JPY 1830 | €9.99 |
 
 ## どんなゲーム？
 
@@ -172,7 +172,7 @@ playtime: "目安: メイン約3–8時間、追加約8–15時間"
 
 ## 待つなら
 
-- アカウントがまだMSRP付近なら他地域と差が出やすい
+- アカウントがまだ定価付近なら他地域と差が出やすい
 - **€0.99**級のみ狙うなら次のセール待ちも合理的（時期は読めない）
 - 大作級ポリッシュ前提なら別カタログへ
 

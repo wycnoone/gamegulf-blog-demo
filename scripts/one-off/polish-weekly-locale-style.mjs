@@ -95,7 +95,7 @@ function run(locale) {
 
 const locale = process.argv[2];
 if (!locale) {
-  console.error('Usage: node scripts/polish-weekly-locale-style.mjs <locale>');
+  console.error('Usage: node scripts/one-off/polish-weekly-locale-style.mjs <locale>');
   process.exit(2);
 }
 run(locale);

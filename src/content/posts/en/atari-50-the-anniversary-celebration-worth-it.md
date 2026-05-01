@@ -46,8 +46,7 @@ consensusPraise: >-
 mainFriction: >-
   Huge library means uneven hits — you'll graze more than you marathon one
   title.
-timeFit: >-
-  ~6h timeline pace; ~12h extras; ~20h completionist-style library sweeps.
+timeFit: ~6h timeline pace; ~12h extras; ~20h completionist-style library sweeps.
 fitLabel: Best when you enjoy dipping between eras instead of one grind loop.
 timingNote: >-
   Last tracked movement sits weeks back — watch GameGulf before EU MSRP
@@ -115,9 +114,8 @@ playerVoices:
       here.
     sentiment: positive
 tldr: >-
-  Atari 50: The Anniversary Celebration — ~89 Metacritic museum anthology;
-  April rows favor waiting vs EU list or JP-tier routes on GameGulf before
-  checkout.
+  Atari 50: The Anniversary Celebration — ~89 Metacritic museum anthology; April
+  rows favor waiting vs EU list or JP-tier routes on GameGulf before checkout.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/31CqSWiuTPi#currency-price
 gameHref: https://www.gamegulf.com/detail/31CqSWiuTPi
@@ -180,7 +178,7 @@ priceRows:
 cardPriceEur: 24.3
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 28.45
+cardPrice: USD 28.44
 cardPriceNative: ¥4,500
 cardPriceNativeCurrency: JPY
 ---
@@ -199,14 +197,14 @@ Indexed spread lands roughly **€15** between the Japan-led row and standard EU
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 28.45 | ¥4,500 |
-| United States | USD 40.05 | $39.99 |
-| Hong Kong | USD 40.15 | HK$314 |
-| Brazil | USD 40.64 | R$207.02 |
-| Germany | USD 46.81 | €39.99 |
-| Spain | USD 46.81 | €39.99 |
-| France | USD 46.81 | €39.99 |
-| Italy | USD 46.81 | €39.99 |
+| Japan | USD 28.44 | ¥4,500 |
+| United States | USD 40.03 | $39.99 |
+| Hong Kong | USD 40.14 | HK$314 |
+| Brazil | USD 40.63 | R$207.02 |
+| Germany | USD 46.80 | €39.99 |
+| Spain | USD 46.80 | €39.99 |
+| France | USD 46.80 | €39.99 |
+| Italy | USD 46.80 | €39.99 |
 
 Tracked cadence shows **11** identifiable discount touches inside the past year averaging near **€16.74**, with last meaningful movement roughly **27** days before this memo (**2026-04-02** United States row near **€15.39**). That pattern reads **regular discounter**, not a frozen catalog — patience usually beats impulse EU checkout unless you need it tonight.
 

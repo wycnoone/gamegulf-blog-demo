@@ -107,7 +107,7 @@ priceRows:
 cardPriceEur: 4.99
 cardPriceRegionCode: IT
 cardPriceRegion: イタリア
-cardPrice: JPY 933
+cardPrice: JPY 914
 cardPriceNative: €4.99
 cardPriceNativeCurrency: EUR
 faq:
@@ -126,18 +126,18 @@ faq:
 
 ## Nintendo Switch版『セレステ』はいくら？
 
-**リスト価格とセール実行価が同一ではない**。下の表は**priceRows**起点だが、**GameGulf**の**[詳細ページ](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** が最終防壁。
+**リスト価格とセール実行価が同一ではない**。下の表は**価格スナップショット**起点だが、**GameGulf**の**[詳細ページ](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** が最終防壁。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| イタリア | JPY 933 | €4.99 |
-| ポルトガル | JPY 933 | €4.99 |
-| ブラジル | JPY 1882 | R$59.99 |
-| 日本 | JPY 2183 | ¥2,160 |
-| アメリカ合衆国 | JPY 3199 | $19.99 |
-| ドイツ | JPY 3739 | €19.99 |
-| イギリス | JPY 3868 | £17.99 |
+| イタリア | JPY 914 | €4.99 |
+| ポルトガル | JPY 914 | €4.99 |
+| ブラジル | JPY 1843 | R$59.99 |
+| 日本 | JPY 2138 | ¥2,160 |
+| アメリカ合衆国 | JPY 3133 | $19.99 |
+| ドイツ | JPY 3662 | €19.99 |
+| イギリス | JPY 3789 | £17.99 |
 
 **履歴ウィンドウ（索引・2026年4月現在）:** ブリーフは 12ヶ月の **discount_events_1y = 0** を示唆する一方で、EU では **セール**/**最安値**帯として **約 €4.99（イタリア）** の行があり、対照的に日本は **約 ¥2,160**。口伝より **ゲーム側の行データ** と **discount** メタ読みを両方確認せよ——生の **sale** 価だけがチェックアウトを決める。
 

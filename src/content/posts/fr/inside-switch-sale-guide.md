@@ -52,9 +52,9 @@ communityVibe: Ambiance muette, son et énigmes oppressantes marquent surtout
 playtime: ~4 h histoire, 4 h extras, ~5 h complétion
 reviewSignal: 91 Metacritic
 takeaway: >-
-  INSIDE se juge d’abord sur l’envie de jouer : boucle aventure, puzzle et
-  action, ampleur et repère 91 Metacritic; le prix sert surtout à choisir le bon
-  moment.
+  INSIDE convient surtout si vous cherchez aventure, puzzle et action — INSIDE
+  sur Nintendo Switc; Les régions les moins chères mènent le tableau, puis
+  tranchez achat ou attente.
 playStyle: aventure, puzzle et action
 timeCommitment: ~4 h histoire, 4 h extras, ~5 h complétion
 playMode: Solo par défaut sauf mention multijoueur sur la boutique.

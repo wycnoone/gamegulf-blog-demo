@@ -30,15 +30,15 @@ bestFor: 喜欢规划搬运路线、而不是拼反应的玩家。
 avoidIf: 想要全程高强度动作，或讨厌照看脆弱小队。
 consensusPraise: 美术讨喜、目标清晰，路线成型后收拾战场很解压。
 mainFriction: 节奏偏慢；在习惯回溯前，战损会心疼。
-timeFit:  约 18 小时主线、29 小时含追加、40 小时偏全收集（社区）。
+timeFit: 约 18 小时主线、29 小时含追加、40 小时偏全收集（社区）。
 fitLabel: 喜欢优化运输链、而不是一路冲刺的人。
 timingNote: 冲动下单前，把你的 eShop 标价对照日本锚价和 2025 年 12 月低点。
 communityVibe: Oatchi 粉、皮克敏战损梗、治愈系战术短视频
-playtime: 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集（）
+playtime: 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集
 reviewSignal: 87 Metacritic
 takeaway: Pikmin 4 仍是「对味就买」——2026 年 4 月的价格更像日本带头的常规定价加偶尔折扣，不是永久甩卖。
 playStyle: 俯视探索、分类型小队、Oatchi 负责跳跃与搬运、光皮克敏夜图、双人投石协助、本地 Dandori 计分。
-timeCommitment:  聚合约 18 小时直通救援线、约 29 小时含大量支线、约 40 小时清图向。
+timeCommitment: 聚合约 18 小时直通救援线、约 29 小时含大量支线、约 40 小时清图向。
 playMode: 单人战役可带双人协助；本地 Dandori。
 whyNow: 玩法已定；变量在于你的区服价是否贴近索引里的日本锚价，还是像「游客价」。
 currentDeal: 索引数字栈里日本约 €35.34 折算（¥6,500）领先，同一快照下香港、美国、巴西更高。
@@ -87,12 +87,12 @@ coverImage: https://cdn.gamegulf.com/upload/1740987466963111773084.jpeg
 heroTheme: brand
 cardPriceNative: ¥6,500
 cardPriceNativeCurrency: JPY
-cardPrice: CNY 282.96
+cardPrice: CNY 282.40
 faq:
   - question: Pikmin 4 在 Switch 上现在买还是等？
     answer: >-
-      Pikmin 4 若你想要带 Oatchi、夜间图和 Dandori 的现代皮克敏体验，且本区 eShop 接近索引里的日本锚价，就值得现在买。 2026 年 4 月索引仍把日本放在约 €35.34 折算——请在 GameGulf 对照你的账号区服。
-
+      Pikmin 4 若你想要带 Oatchi、夜间图和 Dandori 的现代皮克敏体验，且本区 eShop 接近索引里的日本锚价，就值得现在买。
+      2026 年 4 月索引仍把日本放在约 €35.34 折算——请在 GameGulf 对照你的账号区服。
   - question: Pikmin 4 通关要多久？
     answer: Pikmin 4 按  社区聚合，约 18 小时偏主线救援、约 29 小时含大量额外内容、约 40 小时偏全收集清图。
   - question: Pikmin 4 能合作吗？
@@ -129,7 +129,7 @@ cardPriceRegion: 日本
 结合现有信息看， Pikmin 4 仍是「对味就买」——2026 年 4 月的价格更像日本带头的常规定价加偶尔折扣，不是永久甩卖。
 你可以先在 [GameGulf 实时价格页](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) 对照区服后再下单；这比只看单一区服或手动汇率更稳。
 
-折扣历史提示：以 2026 年窗口看，historical low / sale / discount 线索仍有效，当前可对照到约 €35.34 的参考区间。
+折扣历史提示：以 2026 年窗口看，历史低价 / 促销 / 折扣 线索仍有效，当前可对照到约 €35.34 的参考区间。
 
 ## 《Pikmin 4》在 Switch 上现在大概多少钱？
 
@@ -138,10 +138,10 @@ cardPriceRegion: 日本
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 282.70 | ¥6,500 |
-| 香港 | CNY 291.49 | HK$329 |
-| 美国 | CNY 416.52 | $59.99 |
-| 巴西 | CNY 469.56 | R$349 |
+| 日本 | CNY 282.40 | ¥6,500 |
+| 香港 | CNY 291.19 | HK$329 |
+| 美国 | CNY 416.09 | $59.99 |
+| 巴西 | CNY 469.07 | R$349 |
 
 建议下单前再打开 [gamegulf.com](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) 做一次实时复核，避免“表格快照”和你账号显示不同步。
 
@@ -150,7 +150,7 @@ cardPriceRegion: 日本
 这作主要是 **小队战术冒险——指挥彩色皮克敏、Oatchi、夜间地图、Dandori。** 向体验。是否适合你，重点不在宣传文案，而在于玩法循环和你平时偏好的匹配度。
 
 - **玩法重心**：更偏向该类型的常规核心循环，上手门槛整体可控。
-- **内容体量**： 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集（）
+- **内容体量**： 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集
 - **适配人群**：喜欢规划搬运路线、而不是拼反应的玩家。
 
 ## 《Pikmin 4》在 Switch 上跑得怎么样？
@@ -166,8 +166,8 @@ cardPriceRegion: 日本
 - 你本身就喜欢 **喜欢规划搬运路线、而不是拼反应的玩家。** 这类节奏，且对 **87 Metacritic** 的口碑区间认可
 - 你在 [GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) 看到的区服价格已经进入你的目标带
 - 你希望近期就开玩，不想继续等待下一轮促销窗口
-- 时机提醒： 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集（）
-- 你能接受这作的体量与节奏： 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集（）
+- 时机提醒： 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集
+- 你能接受这作的体量与节奏： 18 小时主线 · 29 小时+ 追加 · 约 40 小时全收集
 ## 更适合等等，如果
 
 - 你当前区服仍接近原价，而其他区服已经出现明显价差

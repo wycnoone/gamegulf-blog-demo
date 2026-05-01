@@ -28,20 +28,20 @@ bestFor: Tramas SF largas con snacks mecha.
 avoidIf: Odias leer o solo acción.
 consensusPraise: Estructura, arte, doblaje pesados.
 mainFriction: Ritmo lectura/combate variable.
-timeFit:  ~31/36/38 h.
+timeFit: ~31/36/38 h.
 fitLabel: Capítulo = episodio SF.
-timingNote: Compara promo US y MSRP UE.
+timingNote: Compara promo US y precio de lista UE.
 communityVibe: Tableros timeline
 playtime: 31h · 36h+ · ~38h
 reviewSignal: 88 Metacritic
 takeaway: >-
   13 Sentinels: Aegis Rim es compra fácil en abril 2026 en regiones promo —
-  verifica tu fila por el MSRP UE.
+  verifica tu fila por el precio de lista UE.
 playStyle: 2D investigación, rutas, mecha top-down.
 timeCommitment: ~31/36/38 h.
 playMode: Un jugador.
 whyNow: Historia cerrada; variable = promo profunda.
-currentDeal: US promo, GB/HK promo, JP/BR más MSRP, DE/ES/FR 59,99 €.
+currentDeal: US promo, GB/HK promo, JP/BR más precio de lista, DE/ES/FR 59,99 €.
 nearHistoricalLow: Sí.
 salePattern: Varias promos profundas al año.
 priceRecommendation: buy
@@ -89,7 +89,7 @@ faq:
   - question: ¿Esperar más?
     answer: >-
       13 Sentinels: Aegis Rim ya alinea mínimos en promo — espera si sigues en
-      MSRP.
+      precio de lista.
 priceRows:
   - regionCode: US
     eurPrice: 13.01
@@ -134,9 +134,9 @@ cardPriceNativeCurrency: USD
 
 **13 Sentinels: Aegis Rim** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **88 Metacritic**.
 
-13 Sentinels: Aegis Rim es compra fácil en abril 2026 en regiones promo — verifica tu fila por el MSRP UE.
+13 Sentinels: Aegis Rim es compra fácil en abril 2026 en regiones promo — verifica tu fila por el precio de lista UE.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €13.01.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €13.01.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 
@@ -176,7 +176,7 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Odias leer o solo acción.

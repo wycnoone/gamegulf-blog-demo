@@ -158,7 +158,7 @@ priceRows:
 cardPriceEur: 14.99
 cardPriceRegionCode: ES
 cardPriceRegion: Spain
-cardPrice: USD 17.56
+cardPrice: USD 17.54
 cardPriceNative: €14.99
 cardPriceNativeCurrency: EUR
 ---
@@ -179,14 +179,14 @@ Buy if your local row is near the Spain lead; wait if you are strictly targeting
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Spain | USD 17.55 | €14.99 |
+| Spain | USD 17.54 | €14.99 |
 | Brazil | USD 18.20 | R$92.45 |
-| Japan | USD 22.15 | ¥3,480 |
-| Hong Kong | USD 23.34 | HK$180 |
-| United States | USD 25.39 | $24.99 |
-| Germany | USD 29.25 | €24.99 |
-| France | USD 29.25 | €24.99 |
-| Italy | USD 29.25 | €24.99 |
+| Japan | USD 22.14 | ¥3,480 |
+| Hong Kong | USD 23.33 | HK$180 |
+| United States | USD 25.38 | $24.99 |
+| Germany | USD 29.24 | €24.99 |
+| France | USD 29.24 | €24.99 |
+| Italy | USD 29.24 | €24.99 |
 
 ## What kind of game is Little Kitty, Big City?
 

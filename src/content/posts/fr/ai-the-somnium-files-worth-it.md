@@ -69,7 +69,7 @@ playerVoices:
     sentiment: positive
   - quote: Somniums trop punishing au début.
     sentiment: mixed
-  - quote: Compare JP avant EU MSRP.
+  - quote: Compare JP avant EU prix catalogue.
     sentiment: positive
 communityMemes:
   - cope Somnium
@@ -150,7 +150,7 @@ Historique indexé : **plus bas historique** ~**€1,19** au Japon (**2026-04-21
 
 ## Quel prix sur Switch aujourd’hui — tableau promo ?
 
-Les lignes suivent `priceRows` ; EUR équivalent selon logique GameGulf.
+Les lignes suivent instantané de prix ; EUR équivalent selon logique GameGulf.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -174,7 +174,7 @@ Interface narration prioritaire — peu d’enjeux d’image sauf cinématiques.
 
 ## Achetez si…
 
-- Votre ligne GameGulf aligne **€1,19–€4** au lieu de MSRP EU — [voir ici](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
+- Votre ligne GameGulf aligne **€1,19–€4** au lieu de prix catalogue EU — [voir ici](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
 
 ## Attendez si…
 

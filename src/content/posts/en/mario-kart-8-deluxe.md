@@ -2,8 +2,8 @@
 title: Is Mario Kart 8 Deluxe worth buying on Nintendo Switch in 2026?
 description: >-
   A Switch buying guide for Mario Kart 8 Deluxe — April 2026 indexed eShop rows,
-  multiplayer value, Booster Course Pass context,  bands, and buy-now logic
-  for a rarely discounted first-party racer.
+  multiplayer value, Booster Course Pass context,  bands, and buy-now logic for
+  a rarely discounted first-party racer.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,7 +37,7 @@ bestFor: Friends & families who want couch or online kart races.
 avoidIf: Skip if solo racers only — you are paying for social scale, not a story.
 consensusPraise: Track remixes, item tension, and 60 fps read still define the genre.
 mainFriction: Progression is mastery, not narrative — burnout if you hate repetition.
-timeFit:  ~6h main, ~23h extras, ~54h completionist (community aggregates).
+timeFit: ~6h main, ~23h extras, ~54h completionist (community aggregates).
 fitLabel: Party-first players who want a forever multiplayer install.
 timingNote: >-
   If your eShop mirrors Japan pricing, this is an easy lock; if not, compare
@@ -176,7 +176,7 @@ priceRows:
 cardPriceEur: 35.76
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 41.88
+cardPrice: USD 41.85
 cardPriceNative: ¥6,578
 cardPriceNativeCurrency: JPY
 ---
@@ -197,14 +197,14 @@ If your eShop mirrors Japan pricing, this is an easy lock; if not, compare rows.
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 41.86 | ¥6,578 |
-| Hong Kong | USD 42.66 | HK$329 |
-| United States | USD 60.95 | $59.99 |
-| Brazil | USD 64.96 | R$329.9 |
-| United Kingdom | USD 67.16 | £49.99 |
-| Germany | USD 70.22 | €59.99 |
-| Spain | USD 70.22 | €59.99 |
-| France | USD 70.22 | €59.99 |
+| Japan | USD 41.85 | ¥6,578 |
+| Hong Kong | USD 42.64 | HK$329 |
+| United States | USD 60.93 | $59.99 |
+| Brazil | USD 64.93 | R$329.9 |
+| United Kingdom | USD 67.13 | £49.99 |
+| Germany | USD 70.20 | €59.99 |
+| Spain | USD 70.20 | €59.99 |
+| France | USD 70.20 | €59.99 |
 
 ## What kind of game is Mario Kart 8 Deluxe?
 

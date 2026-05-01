@@ -37,7 +37,7 @@ bestFor: Quem quer densidade em ~2h, não RPG de 30h.
 avoidIf: Evite se luto e morte forem gatilhos hoje — mesmo com desconto.
 consensusPraise: Roteiro, variedade de cenas e storytelling ambiental — elite indie.
 mainFriction: É breve — você paga por qualidade por minuto, não por horas.
-timeFit:  ~2h história, ~3h extras, ~3h completista (agregados).
+timeFit: ~2h história, ~3h extras, ~3h completista (agregados).
 fitLabel: Para quem prefere duas horas perfeitas a vinte medianas.
 timingNote: Compare €4,99 ES com o piso histórico ~€2,86 BR antes de esperar.
 communityVibe: Clipe do Lewis primeiro; a casa é uma playlist triste—sempre.
@@ -49,14 +49,14 @@ takeaway: >-
 playStyle: >-
   Exploração em primeira pessoa, interações leves, capítulos que mudam de
   gênero.
-timeCommitment:  sugere ~2h na história e ~3h com extras — ideal numa sessão.
+timeCommitment: sugere ~2h na história e ~3h com extras — ideal numa sessão.
 playMode: Um jogador.
 whyNow: O jogo já é clássico — só muda o preço da sua loja.
-currentDeal: "Abril 2026: Espanha ~€4,99, depois Brasil/Japão/EUA antes do MSRP europeu."
+currentDeal: "Abril 2026: Espanha ~€4,99, depois Brasil/Japão/EUA antes do preço cheio europeu."
 nearHistoricalLow: >-
   Não — o tracker ainda mostra ~€2,86 (Brasil, 14 abr. 2025) como referência
   mais baixa.
-salePattern: Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao MSRP.
+salePattern: Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao preço cheio.
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -168,7 +168,7 @@ cardPriceNativeCurrency: EUR
 
 What Remains of Edith Finch continua compra fácil em oferta para fãs de história — a promo ES é forte mas não é o piso absoluto do tracker.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €4.99.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €4.99.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price).
 
@@ -205,17 +205,17 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - voce curte **Quem quer densidade em ~2h, não RPG de 30h.**
 - teu preco regional no GameGulf ja entrou na faixa-alvo
 - voce quer jogar ja, sem esperar outra janela de desconto
-- o ritmo te atende: HLTB sugere ~2h na história e ~3h com extras — ideal numa sessão.
+- o ritmo te atende: Duração estimada: sugere ~2h na história e ~3h com extras — ideal numa sessão.
 
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se luto e morte forem gatilhos hoje — mesmo com desconto.
 
 ## Fechamento
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao MSRP.
+Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao preço cheio.
 
 Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)** e decide compra vs espera.

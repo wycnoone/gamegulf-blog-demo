@@ -8,7 +8,7 @@ gameTitle: Novel Rogue
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 分
 decision: JPインデックスが€8前後なら検討可；評論アグリゲート必須派やRNG嫌いなら慎重に。
@@ -107,7 +107,7 @@ priceRows:
 cardPriceEur: 8.32
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 1556
+cardPrice: JPY 1524
 cardPriceNative: ¥1540
 cardPriceNativeCurrency: JPY
 faq:
@@ -134,19 +134,19 @@ playtime: "目安: 1ラン約20–60分、反復で伸びる"
 
 ## Switch版の価格は？
 
-`priceRows` と同期。
+価格スナップショット と同期。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 1556 | ¥1540 |
-| 香港 | JPY 2860 | HK$150 |
-| アメリカ合衆国 | JPY 3199 | $17.10 |
-| ドイツ | JPY 3739 | €19.99 |
-| イタリア | JPY 3739 | €19.99 |
-| ポルトガル | JPY 3739 | €19.99 |
-| ブラジル | JPY 3763 | R$119.95 |
-| イギリス | JPY 3868 | £17.99 |
+| 日本 | JPY 1524 | ¥1540 |
+| 香港 | JPY 2801 | HK$150 |
+| アメリカ合衆国 | JPY 3133 | $17.10 |
+| ドイツ | JPY 3662 | €19.99 |
+| イタリア | JPY 3662 | €19.99 |
+| ポルトガル | JPY 3662 | €19.99 |
+| ブラジル | JPY 3686 | R$119.95 |
+| イギリス | JPY 3789 | £17.99 |
 
 ## どんなゲーム？
 

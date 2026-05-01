@@ -39,7 +39,7 @@ mainFriction: Routine frisst Neugier, wenn Story-Tropfen langsam tropfen.
 timeFit: ~40h verstreut—nicht ein Zug bis zum Ende.
 fitLabel: Ritual vor Leaderboard.
 timingNote: GameGulf checken, bevor der eShop abschließt.
-communityVibe: Noch eine Laterne, dann schlafen die Geister mit
+communityVibe: Noch eine Laterne, dann ruhen die Geister.
 playtime: ~40h Handlung · Monate im Alltag
 reviewSignal: Metacritic ≈71
 takeaway: Cozy Grove bleibt Mood-Kauf—echte Währung folgt den GameGulf-Sale-Kurven.

@@ -1,8 +1,8 @@
 ---
 title: Is Sea of Stars worth buying on Nintendo Switch in 2026?
 description: >-
-  April 2026 Sea of Stars buying memo — 90 Metacritic turn-based RPG with
-  timed hits, indexed Brazil eShop row near historical low, and GameGulf-backed
+  April 2026 Sea of Stars buying memo — 90 Metacritic turn-based RPG with timed
+  hits, indexed Brazil eShop row near historical low, and GameGulf-backed
   regional spread vs tall EU MSRP-class tiers.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
@@ -15,10 +15,10 @@ hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min read
 decision: >-
-  Buy on fit and row: Sea of Stars is a polished 90 Metacritic-class
-  turn-timed JRPG on Switch, and the brief’s Switch analytics flag
-  at_historical_low with Brazil sitting on the indexed €16.77-class global low
-  print while big EU storefronts still show €33.99 anchors.
+  Buy on fit and row: Sea of Stars is a polished 90 Metacritic-class turn-timed
+  JRPG on Switch, and the brief’s Switch analytics flag at_historical_low with
+  Brazil sitting on the indexed €16.77-class global low print while big EU
+  storefronts still show €33.99 anchors.
 priceSignal: >-
   Spread from Brazil’s indexed low band to €33.99-class EU rows is huge — verify
   which eShop account you are actually charging before locking a verdict.
@@ -32,16 +32,12 @@ priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: >-
-  MC 90 Sea of Stars; BR ~€16.77; brief reads at_historical_low vs tall EU rows.
-whatItIs: >-
-  Pixel turn RPG: timed hits, combo meter, sailing breaks, optional co-op hikes.
-bestFor: >-
-  JRPG fans who want Chrono-era exploration without service-game grind.
+listingTakeaway: MC 90 Sea of Stars; BR ~€16.77; brief reads at_historical_low vs tall EU rows.
+whatItIs: "Pixel turn RPG: timed hits, combo meter, sailing breaks, optional co-op hikes."
+bestFor: JRPG fans who want Chrono-style exploration, less grind.
 avoidIf: You need action-only combat — fights stay menu-turn structured.
 consensusPraise: Timed boosts make random battles readable instead of sleepy.
-mainFriction: >-
-  Puzzle-environment gates and backtracking can stall momentum mid-act.
+mainFriction: Puzzle-environment gates and backtracking can stall momentum mid-act.
 timeFit: Roughly 28h story focus; 35h+ arcs; 40h+ completionist scope.
 fitLabel: Fits if chill traversal beats menu depth over twitch skillchecks.
 timingNote: Discount counts move with new promos — reopen GameGulf before checkout.
@@ -55,16 +51,14 @@ takeaway: >-
 playStyle: >-
   Party turn battles with timed boosts, dungeon puzzles, world-map secrets,
   sailing interludes.
-timeCommitment: >-
-  Main story fits a couple of long weekends; optional hunts stretch toward 40h+.
-playMode: >-
-  Single-player adventure with optional co-op control hand-offs for explorers.
+timeCommitment: Main story fits a couple of long weekends; optional hunts stretch toward 40h+.
+playMode: Single-player adventure with optional co-op control hand-offs for explorers.
 whyNow: >-
   Port maturity is high post-launch patches and the Throat of Winter-scale DLC
   conversation is settled enough to judge complete-package value.
 currentDeal: >-
-  Indexed Brazil digital row matches the €16.77-class global-low field from
-  late March 2026 while multiple EU storefronts still list €33.99-native tiers.
+  Indexed Brazil digital row matches the €16.77-class global-low field from late
+  March 2026 while multiple EU storefronts still list €33.99-native tiers.
 nearHistoricalLow: >-
   Analytics tag today’s Brazil print as the tracked historical low, not merely
   “close enough.”
@@ -98,7 +92,8 @@ communityMemes:
   - timed-hit anxiety
   - fishing detours
 tldr: >-
-  Sea of Stars — 90 Metacritic JRPG; GameGulf Apr 2026 shows BR near historical low vs tall EU rows — pick account first.
+  Sea of Stars — 90 Metacritic JRPG; GameGulf Apr 2026 shows BR near historical
+  low vs tall EU rows — pick account first.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price
 gameHref: https://www.gamegulf.com/detail/iG1qRTPsPfn
@@ -109,11 +104,11 @@ heroTheme: brand
 faq:
   - question: Is Sea of Stars worth buying on Nintendo Switch in 2026?
     answer: >-
-      Sea of Stars is worth buying on Nintendo Switch in 2026 if you want a
-      ~90 Metacritic turn-timed JRPG with exploration puzzles, sailing side
-      beats, and optional co-op — fit matters more than chasing pixel nostalgia
-      alone, so skip if you dislike menu-forward combat even when timing keeps
-      fights kinetic.
+      Sea of Stars is worth buying on Nintendo Switch in 2026 if you want a ~90
+      Metacritic turn-timed JRPG with exploration puzzles, sailing side beats,
+      and optional co-op — fit matters more than chasing pixel nostalgia alone,
+      so skip if you dislike menu-forward combat even when timing keeps fights
+      kinetic.
   - question: How long is Sea of Stars?
     answer: >-
       Sea of Stars — plan roughly 28 hours for a focused story push, mid-30s
@@ -124,7 +119,47 @@ faq:
       Sea of Stars — environmental puzzles and occasional backtracking are the
       main friction; combat stays approachable if timed boosts click, but
       exploration gating can stall players who want pure momentum.
+priceRows:
+  - regionCode: BR
+    eurPrice: 16.77
+    nativePrice: R$99.99
+    nativeCurrency: BRL
+  - regionCode: JP
+    eurPrice: 23.76
+    nativePrice: ¥4,400
+    nativeCurrency: JPY
+  - regionCode: HK
+    eurPrice: 25.12
+    nativePrice: HK$230
+    nativeCurrency: HKD
+  - regionCode: US
+    eurPrice: 29.93
+    nativePrice: $34.99
+    nativeCurrency: USD
+  - regionCode: GB
+    eurPrice: 33.91
+    nativePrice: £29.5
+    nativeCurrency: GBP
+  - regionCode: DE
+    eurPrice: 33.99
+    nativePrice: €33.99
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 33.99
+    nativePrice: €33.99
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 33.99
+    nativePrice: €33.99
+    nativeCurrency: EUR
+cardPriceEur: 16.77
+cardPriceRegionCode: BR
+cardPriceRegion: Brazil
+cardPrice: USD 19.62
+cardPriceNative: R$99.99
+cardPriceNativeCurrency: BRL
 ---
+
 
 ## Quick verdict
 
@@ -134,7 +169,19 @@ Bookmark **[live Sea of Stars tiers on gamegulf.com](https://www.gamegulf.com/de
 
 ## How much does Sea of Stars cost on Nintendo Switch right now?
 
-**Regional forks stay dramatic** on this SKU: the markdown table injected from **`priceRows`** shows **Latin American low bands** sitting far under **EU headline MSRP-class** numbers on the same snapshot. Reopen **[the GameGulf price grid](https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price)** right before you pay — promotional windows and tax quirks move fast.
+**Regional forks stay dramatic** on this SKU: the markdown table injected from **price snapshot** shows **Latin American low bands** sitting far under **EU headline MSRP-class** numbers on the same snapshot. Reopen **[the GameGulf price grid](https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price)** right before you pay — promotional windows and tax quirks move fast.
+
+
+| Region | Price (USD equivalent) | Native price |
+| --- | ---: | ---: |
+| Brazil | USD 19.62 | R$99.99 |
+| Japan | USD 27.80 | ¥4,400 |
+| Hong Kong | USD 29.40 | HK$230 |
+| United States | USD 35.02 | $34.99 |
+| United Kingdom | USD 39.68 | £29.5 |
+| Germany | USD 39.78 | €33.99 |
+| Spain | USD 39.78 | €33.99 |
+| France | USD 39.78 | €33.99 |
 
 **Discount-history read (indexed analytics):** GameGulf’s trailing-year trail logs **four** distinct **sale** events, with a **51% discount** print dated **2026-03-26** on the **Brazil** row that parked near **€16.77** converted — that mark is the **historical low** the model trusts, while the **average discount price** clusters near **€23.69** and the clock shows **~34 days** since the last **discount** event. When **today’s row** still kisses that **Brazil low**, treat it as **buy-now rational** for JRPG-curious owners; if you only purchase on **€33.99-class EU anchors**, queue a **GameGulf alert** instead of forcing an impulse **MSRP-tier** checkout you resent.
 

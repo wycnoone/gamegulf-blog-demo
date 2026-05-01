@@ -1,6 +1,6 @@
 /**
  * Writes unique gameHref per slug for posts matching publishedAt.
- * Usage: node scripts/export-game-links-by-published-date.mjs [YYYY-MM-DD] [outPath]
+ * Usage: node scripts/one-off/export-game-links-by-published-date.mjs [YYYY-MM-DD] [outPath]
  */
 import fs from "fs";
 import path from "path";

@@ -209,13 +209,13 @@ Use **[GameGulf live pricing](https://www.gamegulf.com/detail/9t3j1FNGEAF#curren
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
 | Japan | USD 22.25 | ¥3,520 |
-| Hong Kong | USD 29.15 | HK$228 |
-| United States | USD 30.04 | $29.99 |
-| Brazil | USD 32.98 | R$168 |
-| United Kingdom | USD 33.63 | £24.99 |
-| Germany | USD 35.11 | €29.99 |
-| Spain | USD 35.11 | €29.99 |
-| France | USD 35.11 | €29.99 |
+| Hong Kong | USD 29.14 | HK$228 |
+| United States | USD 30.03 | $29.99 |
+| Brazil | USD 32.96 | R$168 |
+| United Kingdom | USD 33.62 | £24.99 |
+| Germany | USD 35.09 | €29.99 |
+| Spain | USD 35.09 | €29.99 |
+| France | USD 35.09 | €29.99 |
 
 Discount math beats vibes: **historical low** data still points to **€6.41** in the **US**, while typical **sale** windows hover near **€12.87** — so paying **€29.99** without checking **[GameGulf](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price)** is usually a choice, not a requirement.
 

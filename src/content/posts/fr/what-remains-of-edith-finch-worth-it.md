@@ -37,7 +37,7 @@ bestFor: Joueurs qui veulent de la densité en 2h, pas un RPG de 30h.
 avoidIf: Évite si le deuil te fragilise — même une grosse remise ne suffit pas.
 consensusPraise: Écriture, variété de séquences et mise en scène — haut niveau indie.
 mainFriction: C’est court — tu paies pour la qualité minute par minute.
-timeFit:  ~2h main, ~3h extras, ~3h complétion (agrégats).
+timeFit: ~2h main, ~3h extras, ~3h complétion (agrégats).
 fitLabel: Pour ceux qui préfèrent deux heures parfaites à vingt heures moyennes.
 timingNote: Compare 4,99 € côté ES au plancher historique ~2,86 € BR avant d’attendre.
 communityVibe: Clip Lewis d'abord; la maison, playlist triste—à chaque fois.
@@ -49,11 +49,11 @@ takeaway: >-
 playStyle: >-
   Exploration 1ère personne, interactions légères, chapitres qui changent de
   genre.
-timeCommitment:  annonce ~2h pour le fil principal et ~3h si tu chasses tout.
+timeCommitment: annonce ~2h pour le fil principal et ~3h si tu chasses tout.
 playMode: Solo.
 whyNow: Le jeu est un classique figé — seul le prix bouge selon ta boutique.
 currentDeal: >-
-  Avril 2026 : Espagne ~4,99 €, puis Brésil/Japon/États-Unis avant MSRP
+  Avril 2026 : Espagne ~4,99 €, puis Brésil/Japon/États-Unis avant prix catalogue
   européen.
 nearHistoricalLow: Non — le tracker garde un point plus bas ~2,86 € (Brésil, 14 avril 2025).
 salePattern: Neuf mouvements de promo sur l’année ; prix moyen en remise ~5,58 €.
@@ -173,7 +173,7 @@ cardPriceNativeCurrency: EUR
 
 What Remains of Edith Finch reste un achat facile en solde pour les amateurs de récit — la promo ES est forte mais pas le plancher absolu du tracker.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €4.99.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €4.99.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price).
 
@@ -210,11 +210,11 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - tu apprecies **Joueurs qui veulent de la densité en 2h, pas un RPG de 30h.**
 - ton prix regional sur GameGulf est deja dans ta zone cible
 - tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
-- le format te convient: HLTB annonce ~2h pour le fil principal et ~3h si tu chasses tout.
+- le format te convient: Durée indicative : ~2h pour le fil principal et ~3h si tu chasses tout.
 
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Évite si le deuil te fragilise — même une grosse remise ne suffit pas.

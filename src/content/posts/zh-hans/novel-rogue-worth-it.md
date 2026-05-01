@@ -8,7 +8,7 @@ gameTitle: 《Novel Rogue》
 platform: Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 分钟阅读
 decision: GameGulf 显示日本区 €8 一档且你接受 KEMCO 卡组循环就买；若只吃主流评分或讨厌卡组 RNG 就别硬冲。
@@ -107,7 +107,7 @@ priceRows:
 cardPriceEur: 8.32
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 66.55
+cardPrice: CNY 66.49
 cardPriceNative: ¥1540
 cardPriceNativeCurrency: JPY
 faq:
@@ -134,19 +134,19 @@ playtime: 预估：单局约20–60分钟，靠反复游玩延长
 
 ## 《Novel Rogue》在 Switch 上大概多少钱？
 
-下表与 `priceRows` 同步。
+下表与 价格快照 同步。
 
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 66.55 | ¥1540 |
-| 香港 | CNY 122.31 | HK$150 |
-| 美国 | CNY 136.79 | $17.10 |
-| 德国 | CNY 159.91 | €19.99 |
-| 意大利 | CNY 159.91 | €19.99 |
-| 葡萄牙 | CNY 159.91 | €19.99 |
-| 巴西 | CNY 160.95 | R$119.95 |
-| 英国 | CNY 165.43 | £17.99 |
+| 日本 | CNY 66.49 | ¥1540 |
+| 香港 | CNY 122.18 | HK$150 |
+| 美国 | CNY 136.65 | $17.10 |
+| 德国 | CNY 159.74 | €19.99 |
+| 意大利 | CNY 159.74 | €19.99 |
+| 葡萄牙 | CNY 159.74 | €19.99 |
+| 巴西 | CNY 160.78 | R$119.95 |
+| 英国 | CNY 165.25 | £17.99 |
 
 ## 这到底是什么样的游戏？
 

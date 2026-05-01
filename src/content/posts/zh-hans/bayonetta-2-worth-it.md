@@ -40,7 +40,7 @@ playMode: 单人剧情为主，可选双人合作（视配件而定）。
 whyNow: 移植成熟，性能预期清楚，同梯队华丽动作在 Switch 上仍稀少。
 currentDeal: 2026 年 4 月：日本索引约 €35.53；香港与美国在同一网格上更高一档。
 nearHistoricalLow: 简报追踪窗内没有更深的更低的 ladder——当前日本行与声明的全球低价参照 ~€35.53 一致。
-salePattern: 追踪到的一年窗口内 **0** 次降价事件——按 MSRP 粘性理解，直到你所在区行偏离。
+salePattern: 追踪到的一年窗口内 **0** 次降价事件——按 标价 粘性理解，直到你所在区行偏离。
 priceRecommendation: buy
 quickFilters:
   - rarely_discounted
@@ -119,7 +119,7 @@ priceRows:
 cardPriceEur: 35.53
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 284.22
+cardPrice: CNY 283.92
 cardPriceNative: ¥6,578
 cardPriceNativeCurrency: JPY
 ---
@@ -137,14 +137,14 @@ cardPriceNativeCurrency: JPY
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 284.22 | ¥6,578 |
-| 香港 | CNY 287.49 | HK$329 |
-| 美国 | CNY 342.13 | $49.99 |
-| 英国 | CNY 367.73 | £39.99 |
-| 巴西 | CNY 375.49 | R$279.9 |
-| 德国 | CNY 399.89 | €49.99 |
-| 西班牙 | CNY 399.89 | €49.99 |
-| 法国 | CNY 399.89 | €49.99 |
+| 日本 | CNY 283.92 | ¥6,578 |
+| 香港 | CNY 287.20 | HK$329 |
+| 美国 | CNY 341.78 | $49.99 |
+| 英国 | CNY 367.35 | £39.99 |
+| 巴西 | CNY 375.10 | R$279.9 |
+| 德国 | CNY 399.47 | €49.99 |
+| 西班牙 | CNY 399.47 | €49.99 |
+| 法国 | CNY 399.47 | €49.99 |
 
 **折扣**画像（简报追踪）：过去一年 **0** 次可计数的降价窗，没有滚动均价；**€35.53** 日本锚与声明的 **global low** 参照一致。玩家口头说的 **历史低价** 往往等于「任系很少狠折」，与 2026 年这张索引表一致。
 
