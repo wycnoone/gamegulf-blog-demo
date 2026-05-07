@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "rotwood-worth-it",
+  "url": "https://www.gamegulf.com/detail/iRRuS0wBuBs",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-rotwood-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 195349,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":195155,\"duration_api_ms\":191889,\"num_turns\":29,\"result\":\"{\\n  \\\"status\\\": \\\"passed\\\",\\n  \\\"slug\\\": \\\"rotwood-worth-it\\\",\\n  \\\"score\\\": 90,\\n  \\\"revisionAttempts\\\": 2,\\n  \\\"validated\\\": true,\\n  \\\"articlePaths\\\": [\\n    \\\"src/content/posts/en/rotwood-worth-it.md\\\",\\n    \\\"src/content/posts/zh-hans/rotwood-worth-it.md\\\",\\n    \\\"src/content/posts/ja/rotwood-worth-it.md\\\",\\n    \\\"src/content/posts/fr/rotwood-worth-it.md\\\",\\n    \\\"src/content/posts/es/rotwood-worth-it.md\\\",\\n    \\\"src/content/posts/de/rotwood-worth-it.md\\\",\\n    \\\"src/content/posts/pt/rotwood-worth-it.md\\\"\\n  ],\\n  \\\"issues\\\": [\\n    \\\"Initial validation passed, but spot-check found unsupported Metacritic 70 claims because the brief has no Metacritic score.\\\",\\n    \\\"Replaced unsupported score language in prose with brief-backed Steam reception, co-op, weapon-upgrade, and short-run action RPG anchors.\\\",\\n    \\\"Corrected play-mode copy from solo-default language to solo/co-op with up to three friends based on the brief.\\\",\\n    \\\"Validator requires heroStat/reviewSignal to use either a numeric Metacritic score or its configured non-score allowlist label, so those fields use the allowlist label while article prose avoids unsupported Metacritic claims.\\\"\\n  ],\\n  \\\"commandsRun\\\": [\\n    \\\"node scripts/validate-article.mjs \\\\\\\"src/content/posts/en/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/zh-hans/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/ja/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/fr/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/es/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/de/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/pt/rotwood-worth-it.md\\\\\\\"\\\",\\n    \\\"python3 - <<'PY' ... patch Rotwood article claims from brief data ... PY\\\",\\n    \\\"node scripts/validate-article.mjs \\\\\\\"src/content/posts/en/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/zh-hans/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/ja/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/fr/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/es/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/de/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/pt/rotwood-worth-it.md\\\\\\\"\\\",\\n    \\\"python3 - <<'PY' ... apply validator allowlist labels and shorten consensusPraise ... PY\\\",\\n    \\\"node scripts/validate-article.mjs \\\\\\\"src/content/posts/en/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/zh-hans/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/ja/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/fr/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/es/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/de/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/pt/rotwood-worth-it.md\\\\\\\"\\\",\\n    \\\"python3 - <<'PY' ... remove stale consensus continuation lines ... PY\\\",\\n    \\\"node scripts/validate-article.mjs \\\\\\\"src/content/posts/en/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/zh-hans/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/ja/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/fr/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/es/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/de/rotwood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/pt/rotwood-worth-it.md\\\\\\\"\\\"\\n  ],\\n  \\\"notes\\\": \\\"All seven Rotwood locale articles now pass validate-article with zero errors and prose is better aligned to the brief’s actual data: regional GameGulf pricing, recent discount history, Steam reception, and solo/co-op action RPG fit.\\\"\\n}\",\"stop_reason\":\"end_turn\",\"session_id\":\"7627fea0-14b7-4fc2-a311-422d8e97900a\",\"total_cost_usd\":2.5389041999999997,\"usage\":{\"input_tokens\":770426,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":200704,\"output_tokens\":11161,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":770426,\"outputTokens\":11161,\"cacheReadInputTokens\":200704,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.5389041999999997,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"612a20e5-1f20-42ae-9fef-e10d48464cdc\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:35:05.906Z"
+}

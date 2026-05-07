@@ -45,7 +45,7 @@ mainFriction: Skill-check tardio — actos finais castigam rotas desleixadas.
 timeFit: Uma noite longa a um fim‑de‑semana na primeira ida; extras esticam.
 fitLabel: Compradores que cruzam a conta eShop com as linhas GameGulf.
 timingNote: Se a tua loja já espelha a linha barata, só resta vontade imediata.
-communityVibe: Ainda o metro sonoro do Sonic 2D para controlos e banda
+communityVibe: Drop Dash, Studiopolis e física clássica seguram Sonic
 reviewSignal: 86 Metacritic
 takeaway: >-
   Em paladar é quase um sim claro; o «quando pagar» lê-se melhor na curva
@@ -150,7 +150,7 @@ playtime: ~6 h principal, 10 h extras, ~19 h 100%
 ---
 ## Veredito rápido
 
-**Sonic Mania** casa com **~86 Metacritic**: **plataformas 2D de momentum** com **Sonic, Tails e Knuckles**, **zonas clássicas remixadas + novas**, e **60 fps** que devolvem legibilidade aos picos clássicos. **GameGulf** regista **seis** quedas no último ano; o **mínimo global seguido** ronda **4,81 €** em **Hong Kong (2025-06-03)** e a **média de promoções ~8,26 €** — a **linha mais barata hoje (~10,69 €, Japão)** fica **acima** dessa média: **espera** compensa salvo compra deliberada nessa faixa.
+A compra de **Sonic Mania** começa pela pergunta simples: **Drop Dash, Studiopolis e física clássica seguram Sonic** combina com você? Compre agora só se quiser jogar já; se for curiosidade, crie alerta e espere uma promoção mais clara.
 
 **GameGulf** mantém **[linhas regionais em tempo real](https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price)** sem adivinhar câmbio. O **menor preço histórico** indexado (**2025**, HK, ~**€4,81**) e cada **promoção** recente saem na própria curva.
 
@@ -196,6 +196,8 @@ playtime: ~6 h principal, 10 h extras, ~19 h 100%
 - Já tens noutra máquina e só queres **duplicado no fundo histórico**.
 - Odeias **chefes de memória** — o final exige **padrões**, não turismo.
 
-## Fecho
+## Resumo
 
-**Sonic Mania** é **quase garantido no paladar** para fãs retro; a carteira obedece melhor à **curva GameGulf**. Fixa **[esta ficha](https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price)** e usa **gamegulf.com** para evitar o clique impulsivo nos **19,99 €**.
+**Sonic Mania** funciona melhor para quem olha para **Drop Dash, Studiopolis e física clássica seguram Sonic** e já imagina sessões reais, curtas ou longas, no portátil. O conteúdo se apoia em **ação, plataformas**. É uma boa aposta para ritmo Mega Drive, zonas novas e clássicos 2D bem feitos; perde força se skill-check tardio — actos finais castigam rotas desleixadas. O sinal **86 Metacritic** ajuda a calibrar expectativa, mas a decisão continua sendo de encaixe com o estilo. O tempo estimado é **~6 h principal, 10 h extras, ~19 h 100%**, então vale pensar se esse espaço cabe na sua rotina.
+
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/2DumzaIwa0N#currency-price): o menor preço atual indexado aparece perto de **EUR 10.69** em **Japão**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

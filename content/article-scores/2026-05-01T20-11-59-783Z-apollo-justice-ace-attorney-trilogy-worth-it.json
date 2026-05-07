@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "apollo-justice-ace-attorney-trilogy-worth-it",
+  "url": "https://www.gamegulf.com/detail/9oS7lSCwRtv",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/apollo-justice-ace-attorney-trilogy-worth-it.md",
+    "src/content/posts/zh-hans/apollo-justice-ace-attorney-trilogy-worth-it.md",
+    "src/content/posts/ja/apollo-justice-ace-attorney-trilogy-worth-it.md",
+    "src/content/posts/fr/apollo-justice-ace-attorney-trilogy-worth-it.md",
+    "src/content/posts/es/apollo-justice-ace-attorney-trilogy-worth-it.md",
+    "src/content/posts/de/apollo-justice-ace-attorney-trilogy-worth-it.md",
+    "src/content/posts/pt/apollo-justice-ace-attorney-trilogy-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:06:24.071Z"
+}

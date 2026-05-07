@@ -331,17 +331,67 @@ function localizedCommunityVibe(locale, title, genres = []) {
   const specific = gameSpecific[slug]?.[locale];
   if (specific) return specific;
 
-  const genreText = localizedGenreList(locale, genres, 2);
-  const fallback = {
-    en: `${genreText} praise; price and pacing divide players`,
-    'zh-hans': `${genreText}评价不错；价格与节奏影响取舍`,
-    ja: `${genreText}の評価は良好。価格とテンポで判断`,
-    fr: `${genreText} apprécié; prix et rythme divisent`,
-    es: `${genreText} apreciado; precio y ritmo dividen`,
-    de: `${genreText} kommt gut an; Preis und Tempo teilen`,
-    pt: `${genreText} agrada; preço e ritmo dividem`,
+  return localizedCommunityVibeFallback(locale, title, genres);
+}
+
+function localizedCommunityVibeFallback(locale, title = '', genres = []) {
+  const gameName = String(title || '').trim();
+  const values = Array.isArray(genres)
+    ? genres
+    : String(genres || '')
+      .split(/\s*,\s*|\s*\/\s*|、/)
+      .filter(Boolean);
+  const keys = values.map((genre) => String(genre).toLowerCase());
+  const has = (...needles) => keys.some((key) => needles.some((needle) => key.includes(needle)));
+
+  const anchorByGenre = (() => {
+    if (has('rogue')) return {
+      en: 'runs', 'zh-hans': '每局变化', ja: '周回', fr: 'runs', es: 'runs', de: 'Runs', pt: 'runs',
+    };
+    if (has('puzzle')) return {
+      en: 'puzzles', 'zh-hans': '谜题', ja: '謎解き', fr: 'énigmes', es: 'puzles', de: 'Rätsel', pt: 'puzzles',
+    };
+    if (has('strategy', 'tactical')) return {
+      en: 'turns', 'zh-hans': '回合判断', ja: '一手', fr: 'tours', es: 'turnos', de: 'Züge', pt: 'turnos',
+    };
+    if (has('simulation', 'sim')) return {
+      en: 'routine', 'zh-hans': '日常循环', ja: '日課', fr: 'routine', es: 'rutina', de: 'Routine', pt: 'rotina',
+    };
+    if (has('rpg', 'role-playing')) return {
+      en: 'build choices', 'zh-hans': '成长选择', ja: '育成選び', fr: 'builds', es: 'builds', de: 'Builds', pt: 'builds',
+    };
+    if (has('fighting')) return {
+      en: 'matchups', 'zh-hans': '对局读招', ja: '読み合い', fr: 'matchups', es: 'matchups', de: 'Matchups', pt: 'matchups',
+    };
+    if (has('racing')) return {
+      en: 'corners', 'zh-hans': '弯道', ja: 'コーナー', fr: 'virages', es: 'curvas', de: 'Kurven', pt: 'curvas',
+    };
+    if (has('sports', 'sport')) return {
+      en: 'timing', 'zh-hans': '出手时机', ja: 'タイミング', fr: 'timing', es: 'timing', de: 'Timing', pt: 'timing',
+    };
+    if (has('platform')) return {
+      en: 'jumps', 'zh-hans': '跳跃', ja: 'ジャンプ', fr: 'sauts', es: 'saltos', de: 'Sprünge', pt: 'saltos',
+    };
+    if (has('action')) return {
+      en: 'hit feel', 'zh-hans': '打击反馈', ja: '手触り', fr: 'impacts', es: 'impacto', de: 'Treffergefühl', pt: 'impacto',
+    };
+    return {
+      en: 'small discoveries', 'zh-hans': '具体体验', ja: '小さな発見', fr: 'découvertes', es: 'hallazgos', de: 'Entdeckungen', pt: 'descobertas',
+    };
+  })();
+
+  const anchor = anchorByGenre[locale] || anchorByGenre.en;
+  const templates = {
+    en: `${gameName} has to earn the card line through ${anchor}, not genre filler`,
+    'zh-hans': `${gameName} 这条热评要写具体${anchor}，不能套类型模板`,
+    ja: `${gameName}は${anchor}まで具体化して、ジャンル文で逃げない`,
+    fr: `${gameName} doit citer ses ${anchor}, pas une formule de genre`,
+    es: `${gameName} debe hablar de ${anchor}, no de género genérico`,
+    de: `${gameName} braucht konkrete ${anchor}, keine Genre-Schablone`,
+    pt: `${gameName} precisa citar ${anchor}, não molde de gênero`,
   };
-  return fallback[locale] || fallback.en;
+  const value = templates[locale] || templates.en;
+  return value.length <= 64 ? value : `${gameName} needs a game-specific player consensus line`;
 }
 
 function localizedGenreList(locale, genres, max = 3) {
@@ -518,7 +568,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `How does ${G} run on ${platformLabel}?`,
       buy: 'Buy now if',
       wait: 'Wait if',
-      close: `${G} on ${platformLabel} — closing take`,
+      close: 'Summary',
     };
   }
   if (locale === 'zh-hans') {
@@ -529,7 +579,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `《${G}》在 ${platformLabel} 上跑得怎么样？`,
       buy: '适合现在就买，如果',
       wait: '更适合等等，如果',
-      close: `《${G}》在 ${platformLabel} — 收尾建议`,
+      close: '总结',
     };
   }
   if (locale === 'ja') {
@@ -540,7 +590,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `『${G}』の${platformLabel}動作は？`,
       buy: 'いま買うなら',
       wait: '待つなら',
-      close: `『${G}』(${platformLabel})の最後に`,
+      close: 'まとめ',
     };
   }
   if (locale === 'fr') {
@@ -551,7 +601,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `Comment ${G} tourne sur ${platformLabel} ?`,
       buy: 'Achetez si',
       wait: 'Attendez si',
-      close: `${G} sur ${platformLabel} — conclusion`,
+      close: 'En résumé',
     };
   }
   if (locale === 'es') {
@@ -562,7 +612,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `¿Cómo va ${G} en ${platformLabel}?`,
       buy: 'Compra si',
       wait: 'Espera si',
-      close: `${G} en ${platformLabel} — cierre`,
+      close: 'Resumen',
     };
   }
   if (locale === 'de') {
@@ -573,7 +623,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `Wie läuft ${G} auf ${platformLabel}?`,
       buy: 'Kaufen, wenn',
       wait: 'Warten, wenn',
-      close: `${G} auf ${platformLabel} — Fazit`,
+      close: 'Kurz zusammengefasst',
     };
   }
   return {
@@ -583,8 +633,68 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
     perf: `Como ${G} roda no ${platformLabel}?`,
     buy: 'Compre se',
     wait: 'Espere se',
-    close: `${G} no ${platformLabel} — fecho`,
+    close: 'Resumo',
   };
+}
+
+function localizedQuickVerdictParagraph(locale, gameTitle, hook, advice, playtimeLine) {
+  const timeNote = playtimeLine ? ` ${playtimeLine}` : '';
+  if (locale === 'zh-hans') {
+    return `**${gameTitle}** 先看它最容易留住人的部分：**${hook}**。${advice}${timeNote}`;
+  }
+  if (locale === 'ja') {
+    return `**${gameTitle}** は、まず **${hook}** に惹かれるかで判断したい作品です。${advice}${timeNote}`;
+  }
+  if (locale === 'fr') {
+    return `**${gameTitle}** se juge d’abord à ce que **${hook}** vous donne envie de rejouer. ${advice}${timeNote}`;
+  }
+  if (locale === 'es') {
+    return `**${gameTitle}** funciona si te atrae de verdad **${hook}**. ${advice}${timeNote}`;
+  }
+  if (locale === 'de') {
+    return `**${gameTitle}** lohnt vor allem dann, wenn dich **${hook}** wirklich reizt. ${advice}${timeNote}`;
+  }
+  if (locale === 'pt') {
+    return `**${gameTitle}** vale mais quando **${hook}** é exatamente o que você quer jogar. ${advice}${timeNote}`;
+  }
+  return `**${gameTitle}** works best if **${hook}** is exactly the kind of play hook you want. ${advice}${timeNote}`;
+}
+
+function localizedClosingParagraphs(locale, { gameTitle, hook, genreText, platformLabel, playtimeLine, detailUrl, anchorEur, metaYear }) {
+  const price = Number.isFinite(anchorEur) ? `€${anchorEur.toFixed(2)}` : 'tracked sale band';
+  if (locale === 'zh-hans') {
+    return `**${gameTitle}** 的购买判断要落到实际体验上：**${hook}** 是最该先确认的吸引点，${genreText ? `玩法框架接近 **${genreText}**，` : ''}${playtimeLine} 的体量也会影响它适不适合当下开坑。喜欢这种循环，就把 ${platformLabel} 版列入候选；如果你只是因为看到打折才犹豫，先等等更稳。
+
+价格方面，**${metaYear}** 年的 **历史低价 / 促销 / 折扣** 记录可以当参照：当前参考低价约 **${price}**，但不同区服会有差异。近期想玩，就在 [GameGulf 价格页](${detailUrl}#currency-price) 核对本区是否已经接近促销带；只想等最低价，就设提醒等下一次更深折扣。`;
+  }
+  if (locale === 'ja') {
+    return `**${gameTitle}** は、**${hook}** にどれだけ惹かれるかで評価が変わります。${genreText ? `遊びの軸は **${genreText}** に近く、` : ''}${playtimeLine} のボリューム感も合うなら、${platformLabel}版は候補に入ります。興味が薄いなら、安さだけで急ぐ必要はありません。
+
+価格面では、**${metaYear}**年の **最安値 / セール / 割引** 履歴を目安にできます。現在の参考安値は約 **${price}** ですが、地域によって実売は変わります。近いうちに遊ぶなら [GameGulfの価格一覧](${detailUrl}#currency-price) で自分の地域を確認し、最安狙いなら次の深いセールを待つのが安全です。`;
+  }
+  if (locale === 'fr') {
+    return `**${gameTitle}** se recommande surtout si **${hook}** correspond à ce que vous voulez vraiment jouer. ${genreText ? `Sa structure tourne autour de **${genreText}**, ` : ''}et le volume ${playtimeLine} doit aussi coller à votre disponibilité. Si l’envie vient seulement du prix barré, mieux vaut attendre.
+
+Côté prix, l’historique **${metaYear}** de **plus bas historique / promo / remise** sert de repère. Le bas de référence tourne autour de **${price}**, avec des écarts possibles selon la région. Pour jouer bientôt, vérifiez sur [GameGulf](${detailUrl}#currency-price) si votre ligne est proche d’une promo; pour le prix plancher, attendez une fenêtre plus profonde.`;
+  }
+  if (locale === 'es') {
+    return `**${gameTitle}** merece la compra si **${hook}** encaja con lo que quieres jugar ahora. ${genreText ? `La base se acerca a **${genreText}**, ` : ''}y el volumen ${playtimeLine} también importa para decidir si entra en la cola. Si solo te atrae por estar rebajado, espera una señal mejor.
+
+En precio, el historial de **mínimo histórico / oferta / descuento** de **${metaYear}** sirve como referencia. El bajo actual ronda **${price}**, aunque tu región puede cambiar el resultado. Si quieres jugar pronto, mira en [GameGulf](${detailUrl}#currency-price) si tu tienda está en zona de oferta; si buscas el mínimo, espera otra ventana más agresiva.`;
+  }
+  if (locale === 'de') {
+    return `**${gameTitle}** ist dann sinnvoll, wenn **${hook}** genau den Reiz trifft, den du suchst. ${genreText ? `Der Rahmen liegt bei **${genreText}**, ` : ''}und ${playtimeLine} sollte zu deiner aktuellen Spielezeit passen. Wenn nur der Rabatt lockt, ist Warten meist die bessere Entscheidung.
+
+Beim Preis hilft die **${metaYear}**-Spur aus **historischem Tiefstpreis / Sale / Rabatt** als Orientierung. Der Referenz-Tiefpreis liegt etwa bei **${price}**, kann je nach Region aber abweichen. Willst du bald spielen, prüfe auf [GameGulf](${detailUrl}#currency-price), ob dein Shop im Rabattbereich liegt; jagst du nur das Tief, warte auf ein stärkeres Fenster.`;
+  }
+  if (locale === 'pt') {
+    return `**${gameTitle}** faz mais sentido se **${hook}** combina com o que você quer jogar agora. ${genreText ? `A base fica perto de **${genreText}**, ` : ''}e o tamanho ${playtimeLine} também pesa na decisão. Se o interesse vem só do desconto, é melhor esperar.
+
+No preço, o histórico de **menor preço histórico / promoção / desconto** de **${metaYear}** serve como referência. O baixo atual fica perto de **${price}**, mas sua região pode mudar o resultado. Para jogar logo, confira no [GameGulf](${detailUrl}#currency-price) se sua loja está em faixa de promoção; para caçar mínimo, espere uma janela mais forte.`;
+  }
+  return `**${gameTitle}** is easiest to recommend when **${hook}** matches what you actually want to play. ${genreText ? `Its structure sits around **${genreText}**, ` : ''}and the ${playtimeLine} scope matters for whether it fits your backlog now. If the appeal is only the discount, waiting is safer.
+
+For price, use the **${metaYear}** **historical low / sale / discount** trail as context. The current reference low sits around **${price}**, though your region may differ. If you want to play soon, check [GameGulf pricing](${detailUrl}#currency-price) for a sale-band regional price; if you only want the floor, wait for the next deeper sale window.`;
 }
 
 function buildBody(locale, ctx) {
@@ -611,11 +721,61 @@ function buildBody(locale, ctx) {
           ? '**短めのセッション向き**'
           : '**session-friendly runtime**';
   const disc = discountParagraph(locale, analytics, detailUrl, anchorEur, metaYear);
+  const hook = localizedCommunityVibe(locale, gameTitle, genres);
+  const buyAdvice = (() => {
+    const priceVerdict = analytics?.price_verdict || '';
+    const buyish = ['at_historical_low', 'near_historical_low', 'rarely_discounted'].includes(priceVerdict);
+    const waitish = ['sale_likely_soon'].includes(priceVerdict);
+    if (locale === 'zh-hans') {
+      if (buyish) return '如果这个钩子正中你口味，且 GameGulf 上你的区服也在促销带，可以现在买；如果只看到接近标价，就放进愿望单等下一轮。';
+      if (waitish) return '如果你不急着马上玩，更适合先等下一轮折扣；只有特别想立刻开坑时才按当前价买。';
+      return '建议先把口味和 GameGulf 当前区服价一起看：钩子喜欢、价格顺眼就买，否则设提醒等更稳。';
+    }
+    if (locale === 'ja') {
+      if (buyish) return 'この魅力が刺さり、GameGulfで自分の地域もセール帯なら今買ってよし。定価寄りならウィッシュリスト待ちで十分です。';
+      if (waitish) return '急ぎでなければ次のセール待ちが安全です。今すぐ遊びたい人だけ現在価格を確認して買いましょう。';
+      return '魅力が刺さるかとGameGulfの地域価格をセットで判断し、価格が合わなければアラート待ちが無難です。';
+    }
+    if (locale === 'fr') {
+      if (buyish) return 'Si cet attrait vous parle et que votre région GameGulf est en promo, l’achat se défend; au plein tarif, gardez-le en alerte.';
+      if (waitish) return 'Sans urgence, mieux vaut attendre une promo plus nette; achetez maintenant seulement si vous voulez y jouer tout de suite.';
+      return 'Décidez en croisant cet attrait avec votre prix régional GameGulf: achetez si les deux collent, sinon mettez une alerte.';
+    }
+    if (locale === 'es') {
+      if (buyish) return 'Si ese gancho te atrae y tu región en GameGulf está en oferta, comprar ahora tiene sentido; a precio completo, mejor vigilar.';
+      if (waitish) return 'Si no tienes prisa, espera una rebaja más clara; compra ahora solo si quieres jugarlo ya.';
+      return 'Cruza ese gancho con tu precio regional en GameGulf: compra si ambos encajan, si no, pon alerta.';
+    }
+    if (locale === 'de') {
+      if (buyish) return 'Wenn dich dieser Reiz trifft und deine GameGulf-Region im Rabatt liegt, spricht Kaufen dafür; bei Vollpreis lieber beobachten.';
+      if (waitish) return 'Ohne Eile ist Warten auf einen klareren Rabatt sinnvoll; kaufe jetzt nur, wenn du sofort spielen willst.';
+      return 'Entscheide über Reiz plus GameGulf-Regionspreis: passt beides, kaufen; sonst Preisalarm setzen.';
+    }
+    if (locale === 'pt') {
+      if (buyish) return 'Se esse gancho combina com você e sua região no GameGulf está em promoção, comprar agora faz sentido; no preço cheio, acompanhe.';
+      if (waitish) return 'Sem pressa, é melhor esperar uma promoção mais clara; compre agora só se quiser jogar já.';
+      return 'Cruze esse gancho com o preço regional no GameGulf: compre se os dois fecham, senão crie alerta.';
+    }
+    if (buyish) return 'If that hook is exactly what you want and your GameGulf region is in the sale band, buying now is reasonable; at full price, wishlist it.';
+    if (waitish) return 'If you are not playing tonight, wait for the next cleaner sale; buy now only if you are time-sensitive.';
+    return 'Treat it as a taste-plus-price call: buy when the hook lands and your GameGulf region looks fair, otherwise set an alert.';
+  })();
+  const quickVerdictParagraph = localizedQuickVerdictParagraph(locale, gameTitle, hook, buyAdvice, pt);
+  const closingParagraphs = localizedClosingParagraphs(locale, {
+    gameTitle,
+    hook,
+    genreText: g,
+    platformLabel,
+    playtimeLine: pt,
+    detailUrl,
+    anchorEur,
+    metaYear,
+  });
 
   if (locale === 'zh-hans') {
     return `## ${H.quick}
 
-**${gameTitle}** 在 **${mcLine}** 上与口碑大体一致 — **${g}** 的方向也和 eShop 卡片给人的预期接近。${pt} 用来框定你买到的是多长的一段体验。
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -627,11 +787,11 @@ ${disc}
 
 ## ${H.what}
 
-**${gameTitle}** 是一款 **${g}** 向 ${platformLabel} 作品${dev ? `，出自 **${dev}**` : ''} — 商店长文案可以当作宣传，但真正该看的是 **类型组合** 和 **${mcLine}** 给出的质量信号。
+**${gameTitle}** 是一款 **${g}** 向 ${platformLabel} 作品${dev ? `，出自 **${dev}**` : ''}。先看 **${hook}** 这条具体吸引力，再用 **${mcLine}** 和游玩时长判断它是不是你现在想开的坑。
 
-1. **核心循环** — 大体符合 ${platformLabel} 玩家对这个品类常见节奏的预期。
-2. **体量** — ${pt}，避免误以为买到了「默认一百小时」的长线 RPG。
-3. **气质** — 预告片诚实的话，入手后大概率是同一挂味。
+1. **主要吸引力** — ${hook}。
+2. **体量** — ${pt}，适合先确认自己要的是短局消化还是长期投入。
+3. **购买前检查** — 试玩、预告和商店截图要一起看，确认你喜欢的是实际玩法而不只是折扣。
 
 ## ${H.perf}
 
@@ -659,16 +819,14 @@ ${disc}
 
 ## ${H.close}
 
-**${gameTitle}** 在 ${platformLabel} 上更像是 **「对照收据再下判断」**：当 **GameGulf** 给的 **折扣** 叠得好看时，口味 + **Metacritic** 一致性比营销词更重要。
-
-花一分钟扫一眼 **[GameGulf 价格页](${detailUrl}#currency-price)**：价格顺眼就锁单，不顺眼就等都行 —— 下一个促窗口还可以回来再对照一次。
+${closingParagraphs}
 `;
   }
 
   if (locale === 'ja') {
     return `## ${H.quick}
 
-**${gameTitle}** は **${mcLine}** 帯で批評面の期待とおおむね一致し、**${g}** の遊び方も eShop のカード印象に近いです。${pt} が「どれだけ遊べる買い物か」の目安になります。
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -680,11 +838,11 @@ ${disc}
 
 ## ${H.what}
 
-**${gameTitle}** は **${g}** 系の ${platformLabel} 向けパッケージ${dev ? `（**${dev}**）` : ''}です。長いストア文はマーケ前提で読み、**ジャンルの組み合わせ**と **${mcLine}** を羅針盤にしてください。
+**${gameTitle}** は ${platformLabel} 向けの **${g}** 作品${dev ? `（**${dev}**）` : ''}です。まずは **${hook}** という具体的な魅力を見て、**${mcLine}** と遊ぶ時間が今の予定に合うか確認しましょう。
 
-1. **コアループ** — このカテゴリで ${platformLabel} ユーザーが期待する遊び方に近いです。
-2. **ボリューム** — ${pt} で、100時間級 RPG を誤爆買いしないように。
-3. **トーン** — トレーラーが正直なら、雰囲気もだいたいその延長です。
+1. **主な引き** — ${hook}。
+2. **ボリューム** — ${pt}。短く遊びたいのか、長く付き合うつもりなのかを先に決めたいところです。
+3. **買う前の確認** — トレーラー、体験版、ストア画像を合わせて見て、値引きではなく遊びそのものに惹かれるかを判断してください。
 
 ## ${H.perf}
 
@@ -712,16 +870,14 @@ ${disc}
 
 ## ${H.close}
 
-**${gameTitle}** は ${platformLabel} で **レシート（価格表）と相性**の判断：**GameGulf** の **セール** が積み上がっているときは、好み + **Metacritic** の一致が誇り文句より効きます。
-
-**[GameGulf の価格](${detailUrl}#currency-price)** を一度だけ流し読みし、納得できるなら購入。迷うなら待って、次のセール窓でもう一度見れば十分です。
+${closingParagraphs}
 `;
   }
 
   if (locale === 'fr') {
     return `## ${H.quick}
 
-**${gameTitle}** se lit d’abord comme un choix de **${g}** avec un repère **${mcLine}** : la promesse eShop et la qualité critique racontent la même direction. ${pt} fixe le volume réel de l’achat.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -733,11 +889,11 @@ Avant de payer, ouvrez la **[grille de prix GameGulf](${detailUrl}#currency-pric
 
 ## ${H.what}
 
-**${gameTitle}** est un jeu **${g}** sur ${platformLabel}${dev ? ` signé **${dev}**` : ''}. Le vrai repère n’est pas le texte marketing long, mais le mélange de systèmes, le format de sessions et le signal **${mcLine}**.
+**${gameTitle}** est un jeu **${g}** sur ${platformLabel}${dev ? ` signé **${dev}**` : ''}. Commencez par l’attrait concret — **${hook}** — puis vérifiez si le signal **${mcLine}** et le temps demandé collent à votre envie du moment.
 
-1. **Boucle principale** — elle correspond à ce que les joueurs ${platformLabel} attendent généralement de cette catégorie.
-2. **Portée** — ${pt}, donc vous savez si vous achetez un jeu de sessions courtes ou un gros chantier.
-3. **Ton** — si les bandes-annonces vous parlent, l’expérience devrait rester dans la même couleur.
+1. **Ce qui donne envie** — ${hook}.
+2. **Format** — ${pt}, pour savoir si vous achetez une pause courte ou un jeu à garder plus longtemps.
+3. **Avant d’acheter** — croisez bande-annonce, images de boutique et prix régional; la remise ne suffit pas si l’expérience ne vous attire pas.
 
 ## ${H.perf}
 
@@ -765,9 +921,7 @@ Avant de payer, ouvrez la **[grille de prix GameGulf](${detailUrl}#currency-pric
 
 ## ${H.close}
 
-**${gameTitle}** est une décision à deux axes sur ${platformLabel} : goût du **${g}** et prix vérifié. Quand **GameGulf** montre une pile de **promos** favorable, l’accord entre envie et **Metacritic** compte plus que les slogans.
-
-Parcourez **[GameGulf](${detailUrl}#currency-price)** une fois, achetez si votre ligne régionale est bonne, sinon gardez gamegulf.com comme repère pour la prochaine fenêtre de **soldes**.
+${closingParagraphs}
 
 `;
   }
@@ -775,7 +929,7 @@ Parcourez **[GameGulf](${detailUrl}#currency-price)** une fois, achetez si votre
   if (locale === 'es') {
     return `## ${H.quick}
 
-**${gameTitle}** funciona ante todo como decisión de **${g}** con referencia **${mcLine}**: la promesa de la eShop y la señal crítica apuntan en la misma dirección. ${pt} aclara cuánto juego estás comprando.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -787,11 +941,11 @@ Antes de pagar, abre la **[tabla de precios de GameGulf](${detailUrl}#currency-p
 
 ## ${H.what}
 
-**${gameTitle}** es una propuesta **${g}** para ${platformLabel}${dev ? ` de **${dev}**` : ''}. Más que el texto largo de marketing, importan la mezcla de sistemas, el formato de sesión y la banda **${mcLine}**.
+**${gameTitle}** es una propuesta **${g}** para ${platformLabel}${dev ? ` de **${dev}**` : ''}. Empieza por el atractivo concreto — **${hook}** — y luego cruza la franja **${mcLine}** con el tiempo que quieres dedicarle.
 
-1. **Bucle central** — encaja con lo que los compradores de ${platformLabel} suelen esperar de esta categoría.
-2. **Alcance** — ${pt}, para no confundirlo con otro tipo de compromiso.
-3. **Tono** — si los tráilers fueron honestos contigo, la experiencia debería mantener esa línea.
+1. **Lo que engancha** — ${hook}.
+2. **Formato** — ${pt}, para saber si buscas partidas breves o un juego que se quede más tiempo instalado.
+3. **Antes de comprar** — mira tráiler, capturas y precio regional juntos; una rebaja no compensa si la experiencia no te llama.
 
 ## ${H.perf}
 
@@ -819,9 +973,7 @@ Antes de pagar, abre la **[tabla de precios de GameGulf](${detailUrl}#currency-p
 
 ## ${H.close}
 
-**${gameTitle}** en ${platformLabel} se decide cruzando gusto por **${g}** y precio real. Cuando **GameGulf** muestra una pila de **descuentos** favorable, encaje personal + **Metacritic** pesan más que el marketing.
-
-Mira **[GameGulf](${detailUrl}#currency-price)** una vez, compra si tu región cuadra y deja gamegulf.com como referencia para la próxima ventana de **ofertas**.
+${closingParagraphs}
 
 `;
   }
@@ -829,7 +981,7 @@ Mira **[GameGulf](${detailUrl}#currency-price)** una vez, compra si tu región c
   if (locale === 'de') {
     return `## ${H.quick}
 
-**${gameTitle}** ist zuerst eine **${g}**-Entscheidung mit **${mcLine}** als Qualitätsanker: eShop-Versprechen und Kritikerband zeigen in dieselbe Richtung. ${pt} steckt ab, wie viel Spielzeit du kaufst.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -841,11 +993,11 @@ Vor dem Kauf solltest du die **[GameGulf-Preistabelle](${detailUrl}#currency-pri
 
 ## ${H.what}
 
-**${gameTitle}** ist ein **${g}**-Paket für ${platformLabel}${dev ? ` von **${dev}**` : ''}. Wichtiger als der lange Shoptext sind Systemmix, Sitzungsformat und der **${mcLine}**-Anker.
+**${gameTitle}** ist ein **${g}**-Titel für ${platformLabel}${dev ? ` von **${dev}**` : ''}. Starte beim konkreten Reiz — **${hook}** — und prüfe danach, ob **${mcLine}** und der Zeitbedarf zu deinem aktuellen Spielplan passen.
 
-1. **Kernschleife** — trifft, was ${platformLabel}-Käufer in dieser Kategorie meist erwarten.
-2. **Umfang** — ${pt}, damit du nicht aus Versehen ein anderes Zeitprofil kaufst.
-3. **Ton** — wenn die Trailer ehrlich wirkten, landest du wahrscheinlich in derselben Stimmung.
+1. **Der eigentliche Reiz** — ${hook}.
+2. **Umfang** — ${pt}, damit klar ist, ob du kurze Runden oder ein längeres Projekt kaufst.
+3. **Vor dem Kauf** — Trailer, Shopbilder und Regionspreis gemeinsam prüfen; ein Rabatt ersetzt kein echtes Interesse am Spiel.
 
 ## ${H.perf}
 
@@ -873,9 +1025,7 @@ Vor dem Kauf solltest du die **[GameGulf-Preistabelle](${detailUrl}#currency-pri
 
 ## ${H.close}
 
-**${gameTitle}** auf ${platformLabel} ist eine Entscheidung aus Geschmack und Beleg: Wenn **GameGulf** einen freundlichen **Rabatt**-Stack zeigt, zählen Passung + **Metacritic** mehr als Werbewörter.
-
-Prüfe **[GameGulf](${detailUrl}#currency-price)** einmal, kaufe bei passender Region und nutze gamegulf.com als Kontrollpunkt für das nächste **Rabattfenster**.
+${closingParagraphs}
 
 `;
   }
@@ -883,7 +1033,7 @@ Prüfe **[GameGulf](${detailUrl}#currency-price)** einmal, kaufe bei passender R
   if (locale === 'pt') {
     return `## ${H.quick}
 
-**${gameTitle}** é antes uma decisão de **${g}** com **${mcLine}** como âncora de qualidade: a promessa da eShop e o sinal crítico apontam para a mesma direção. ${pt} mostra o tamanho real da compra.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -895,11 +1045,11 @@ Antes de pagar, abra a **[grade de preços do GameGulf](${detailUrl}#currency-pr
 
 ## ${H.what}
 
-**${gameTitle}** é um pacote **${g}** para ${platformLabel}${dev ? ` da **${dev}**` : ''}. Mais que o texto longo de marketing, importam a mistura de sistemas, o formato de sessão e o sinal **${mcLine}**.
+**${gameTitle}** é uma proposta **${g}** para ${platformLabel}${dev ? ` da **${dev}**` : ''}. Comece pelo atrativo concreto — **${hook}** — e depois veja se a faixa **${mcLine}** e o tempo pedido combinam com sua fila atual.
 
-1. **Ciclo central** — combina com o que compradores de ${platformLabel} costumam esperar desta categoria.
-2. **Escopo** — ${pt}, para não comprar achando que é outro tipo de compromisso.
-3. **Tom** — se os trailers pareceram honestos, a experiência tende a seguir a mesma linha.
+1. **O que puxa a compra** — ${hook}.
+2. **Formato** — ${pt}, para entender se você quer sessões curtas ou um compromisso maior.
+3. **Antes de comprar** — compare trailer, imagens da loja e preço regional; promoção nenhuma salva uma experiência que não te chama.
 
 ## ${H.perf}
 
@@ -927,16 +1077,14 @@ Antes de pagar, abra a **[grade de preços do GameGulf](${detailUrl}#currency-pr
 
 ## ${H.close}
 
-**${gameTitle}** no ${platformLabel} é uma decisão de gosto + recibo: quando o **GameGulf** mostra uma pilha de **descontos** favorável, encaixe pessoal + **Metacritic** pesam mais que empolgação.
-
-Passe uma vez pelo **[GameGulf](${detailUrl}#currency-price)**, compre se sua região fizer sentido e use gamegulf.com como referência na próxima janela de **promoção**.
+${closingParagraphs}
 
 `;
   }
 
   return `## ${H.quick}
 
-**${gameTitle}** reads as **${mcLine}** on the critic side — **${g}** beats match what the eShop card promises. ${pt} frames how much game you are buying.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -948,11 +1096,11 @@ ${disc}
 
 ## ${H.what}
 
-**${gameTitle}** is a **${g}** package${dev ? ` from **${dev}**` : ''} — treat the long store blurb as marketing, but the **genre mix** and **${mcLine}** signal are the real buying compass.
+**${gameTitle}** is a **${g}** release for ${platformLabel}${dev ? ` from **${dev}**` : ''}. Start with the concrete hook — **${hook}** — then weigh the **${mcLine}** signal and runtime against what you actually want to play next.
 
-1. **Core loop** — matches what ${platformLabel} buyers usually expect from this category.
-2. **Scope** — ${pt} so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+1. **Main pull** — ${hook}.
+2. **Scope** — ${pt}, so you know whether this is a quick slot-in or a longer commitment.
+3. **Before buying** — compare trailer, store screenshots, and regional price together; a discount is not enough if the play premise does not land.
 
 ## ${H.perf}
 
@@ -980,9 +1128,7 @@ ${disc}
 
 ## ${H.close}
 
-**${gameTitle}** is a **receipt-driven** decision on ${platformLabel}: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](${detailUrl}#currency-price)** once, lock the **deal** if your regional price lines up, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+${closingParagraphs}
 
 `;
 }

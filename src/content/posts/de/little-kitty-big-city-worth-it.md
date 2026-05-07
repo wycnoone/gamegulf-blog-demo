@@ -35,7 +35,7 @@ mainFriction: Hauptstrang kurz; Komplexität bleibt bewusst niedrig.
 timeFit: Länge hängt von Neugier ab; Hauptpfad eher kurz.
 fitLabel: Ideal als Puffer zwischen großen Spielen.
 timingNote: Vergleiche dein eShop-Preis mit Spanien ~14,99 €. Nur Tiefpreis? Alarm setzen.
-communityVibe: "Cozy-Chaos: Hüte auf, Chaos an, Heimweg später."
+communityVibe: Katzenchaos, Hüte und Dinge runterstoßen erfüllen den Traum
 playtime: ~3 h Hauptstory / ~5–7 h Komplett
 reviewSignal: 78 Metacritic
 takeaway: >-
@@ -145,7 +145,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Kurzfazit
 
-**Little Kitty, Big City** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **78 Metacritic**.
+Bei **Little Kitty, Big City** zählt zuerst, ob dich **Katzenchaos, Hüte und Dinge runterstoßen erfüllen den Traum** wirklich reizt. Entscheide nach echter Lust auf diese Schleife plus GameGulf-Regionspreis, nicht nur nach Genre oder Score.
 
 Little Kitty, Big City ist schnell empfehlbar, wenn der Vibe passt; der Preis ist okay, aber nicht der historische Boden.
 
@@ -195,8 +195,8 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - Budget derzeit fuer andere Titel reserviert ist
 - Du willst lange RPG-Mechanik oder harte Action — dann eher nicht.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Eher gelegentliche Rabatte: ~2 Events im Jahr, Ø Rabattpreis ~17,75 €.
+**Little Kitty, Big City** solltest du nach Spielgefühl kaufen, nicht nach Rabattgröße. Der Anker ist **Katzenchaos, Hüte und Dinge runterstoßen erfüllen den Traum**; das passt gut zu kurzen, stressfreien Sessions — kein tiefes Kampfsystem. Wenn du willst lange RPG-Mechanik oder harte Action — dann eher nicht, wird selbst ein niedriger Preis schnell zum Backlog-Kauf. Der Umfang: **~3 h Hauptstory / ~5–7 h Komplett**.
 
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price)** und entscheide dann Buy-now vs Wait.
+Der Preis ist nur dann ein Argument, wenn deine eigene eShop-Zeile passt. Spanien führt mit ~14,99 €; Brasilien und Japan folgen im gleichen Snapshot. Nicht ganz: ~11,35 € in Japan (18.08.2025) liegt tiefer als der beste aktuelle Preis. Eher gelegentliche Rabatte: ~2 Events im Jahr, Ø Rabattpreis ~17,75 €. Halte [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) neben den Checkout, damit du nicht aus Versehen zum schwachen Fenster kaufst. Bei unsicherem Fit ist Beobachten sinnvoller als ein spontaner Checkout. 

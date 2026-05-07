@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "there-is-no-game-wrong-dimension-worth-it",
+  "url": "https://www.gamegulf.com/detail/9wqh0zfY5ag",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-there-is-no-game-wrong-dimension-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 55378,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":55164,\"duration_api_ms\":54051,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"there-is-no-game-wrong-dimension-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/there-is-no-game-wrong-dimension-worth-it.md\\\",\\\"src/content/posts/zh-hans/there-is-no-game-wrong-dimension-worth-it.md\\\",\\\"src/content/posts/ja/there-is-no-game-wrong-dimension-worth-it.md\\\",\\\"src/content/posts/fr/there-is-no-game-wrong-dimension-worth-it.md\\\",\\\"src/content/posts/es/there-is-no-game-wrong-dimension-worth-it.md\\\",\\\"src/content/posts/de/there-is-no-game-wrong-dimension-worth-it.md\\\",\\\"src/content/posts/pt/there-is-no-game-wrong-dimension-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero hard errors in all 7 locales.\\\",\\\"Localized game naming is acceptable but not ideal in zh-hans/ja because the English title is retained rather than a stronger localized display form.\\\",\\\"Body quality is serviceable but still somewhat template-heavy, especially in the 'what kind of game' and 'how it runs' sections versus the brief's more specific comedy point-and-click / voiced-riddle hooks.\\\",\\\"Price logic is concrete and GameGulf-linked, but some copy overstates active 'sale band' language even though current price rows show no explicit discount fields in the brief snapshot.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/there-is-no-game-wrong-dimension-worth-it.md src/content/posts/zh-hans/there-is-no-game-wrong-dimension-worth-it.md src/content/posts/ja/there-is-no-game-wrong-dimension-worth-it.md src/content/posts/fr/there-is-no-game-wrong-dimension-worth-it.md src/content/posts/es/there-is-no-game-wrong-dimension-worth-it.md src/content/posts/de/there-is-no-game-wrong-dimension-worth-it.md src/content/posts/pt/there-is-no-game-wrong-dimension-worth-it.md\\\"],\\\"notes\\\":\\\"No revisions were needed to clear the required threshold. The article set validates cleanly and scores above 85, though future polish could make locale naming and body specificity stronger.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"16ec1ccb-8bb8-41b1-92e2-b021a575fc70\",\"total_cost_usd\":0.7152636,\"usage\":{\"input_tokens\":217726,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":2132,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":217726,\"outputTokens\":2132,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7152636,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"9863145a-9ccc-4e17-8b37-89527b6222a4\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:16:37.434Z"
+}

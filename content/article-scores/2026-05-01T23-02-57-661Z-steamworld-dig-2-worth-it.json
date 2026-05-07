@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "steamworld-dig-2-worth-it",
+  "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/steamworld-dig-2-worth-it.md",
+    "src/content/posts/zh-hans/steamworld-dig-2-worth-it.md",
+    "src/content/posts/ja/steamworld-dig-2-worth-it.md",
+    "src/content/posts/fr/steamworld-dig-2-worth-it.md",
+    "src/content/posts/es/steamworld-dig-2-worth-it.md",
+    "src/content/posts/de/steamworld-dig-2-worth-it.md",
+    "src/content/posts/pt/steamworld-dig-2-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T23:33:56.322Z"
+}

@@ -32,12 +32,12 @@ avoidIf: 不喜欢死后重来——Roguelite 循环就是设计。
 consensusPraise: 战斗手感、构筑多样性和免费更新让它成为 Switch 顶级 Roguelite。
 mainFriction: RNG 决定一局成败；部分玩家在解锁全部武器前就疲劳了。
 timeFit: 时间参考：约 20 小时看结局，重玩驱动
-fitLabel: 会先对照两个区服再下单的人。
+fitLabel: 先被诅咒宝箱、卷轴贪心和路线选择让每局都紧绷吸引的人
 timingNote: 若你看到的参考价已在促销带，犹豫多半只剩口味；但仍要核对商店实时价。
-communityVibe: 再来一把、武器 RNG 和 5 细胞难度让人停不下来
+communityVibe: 诅咒宝箱、卷轴贪心和路线选择让每局都紧绷
 playtime: 20 小时看结局 · 60 小时以上全区域 · 重玩驱动
 reviewSignal: Metacritic 约 89 分
-takeaway: 死亡细胞 适合想要动作、平台跳跃、冒险且认可Metacritic 约 89 分的人；当前追踪低价约为巴西 €8.38，过去一年约 7 次折扣波动。
+takeaway: 诅咒宝箱、卷轴贪心和路线选择让每局都紧绷。价格参考巴西服 R$99.95，接近就买，偏高就等。
 playStyle: 横版 Roguelite：选择随机生态区路线、收集武器和技能、挑战 Boss。永久符文解锁新路径。
 timeCommitment: 约 20 小时到第一个结局，60 小时以上看完全区域和 Boss。
 playMode: 以商店页多人信息为准；默认偏单机体验。
@@ -114,7 +114,7 @@ priceRows:
 cardPriceEur: 8.38
 cardPriceRegionCode: BR
 cardPriceRegion: 巴西
-cardPrice: CNY 66.96
+cardPrice: CNY 67.09
 cardPriceNative: R$99.95
 cardPriceNativeCurrency: BRL
 faq:
@@ -123,16 +123,13 @@ faq:
   - question: 《死亡细胞》大概多长？
     answer: 死亡细胞 的游玩时间参考是 20 小时看结局 · 60 小时以上全区域 · 重玩驱动。
   - question: 在哪里核对 Switch 价格？
-    answer: >-
-      死亡细胞 可以在 GameGulf 详情页
-      https://www.gamegulf.com/detail/2LVqzRzPbY4#currency-price 对照多区价格，避免只按汇率猜。
+    answer: 死亡细胞 可以在 GameGulf 详情页 https://www.gamegulf.com/detail/2LVqzRzPbY4#currency-price 对照多区价格，避免只按汇率猜。
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516860023016094.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516860023016094.jpeg
 ---
 ## 一句话结论
 
-**死亡细胞** 在 **Metacritic 约 89 分** 上与口碑大体一致 — **动作、平台跳跃、冒险** 的方向也和 eShop 卡片给人的预期接近。**20 小时看结局 · 60 小时以上全区域 · 重玩驱动** 用来框定你买到的是多长的一段体验。
+**死亡细胞** 的吸引力集中在 **诅咒宝箱、卷轴贪心和路线选择让每局都紧绷**。如果这个钩子正中你口味，并且 GameGulf 上本区价格也顺眼，可以考虑入；如果只是被折扣吸引，先设提醒更稳。
 
 结合 **折扣** 追踪：**历史低价**约 **€6.70**（JP），过去一年约 **7** 次促销，**平均促销价**约 **€10.67**，距上次明显波动约 **71** 天（**2026-02-19 (Japan, €6.70)**，**2026**）。下单前请再核对 [GameGulf 实时价格](https://www.gamegulf.com/detail/2LVqzRzPbY4#currency-price)。
 
@@ -142,25 +139,20 @@ coverImage: >-
 
 **数字版各区价格变动很快** — 下方表格与元数据同源，均来自 **GameGulf** 的同一张多区表。请到 [gamegulf.com](https://www.gamegulf.com) 对照你账号所在区服的真实标价，不要想当然认定只有一个「全球最好价」。
 
+
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 巴西 | CNY 66.96 | R$99.95 |
-| 日本 | CNY 107.00 | ¥2,480 |
-| 香港 | CNY 164.93 | HK$189 |
-| 美国 | CNY 170.85 | $24.99 |
-| 德国 | CNY 199.70 | €24.99 |
-| 西班牙 | CNY 199.70 | €24.99 |
-| 法国 | CNY 199.70 | €24.99 |
-| 意大利 | CNY 199.70 | €24.99 |
+| 巴西 | CNY 67.09 | R$99.95 |
+| 日本 | CNY 107.20 | ¥2,480 |
+| 香港 | CNY 165.24 | HK$189 |
+| 美国 | CNY 171.16 | $24.99 |
+| 德国 | CNY 200.06 | €24.99 |
+| 西班牙 | CNY 200.06 | €24.99 |
+| 法国 | CNY 200.06 | €24.99 |
+| 意大利 | CNY 200.06 | €24.99 |
 
 ## 《死亡细胞》到底是什么类型的游戏？
-
-**死亡细胞** 是一款 **动作、平台跳跃、冒险** 向 Switch 作品，出自 **Motion Twin** — 商店长文案可以当作宣传，但真正该看的是 **类型组合** 和 **Metacritic 约 89 分** 给出的质量信号。
-
-1. **核心循环** — 大体符合 Switch 玩家对这个品类常见节奏的预期。
-2. **体量** — **20 小时看结局 · 60 小时以上全区域 · 重玩驱动**，避免误以为买到了「默认一百小时」的长线 RPG。
-3. **气质** — 预告片诚实的话，入手后大概率是同一挂味。
-
+**死亡细胞** 可以归到 **横版 Roguelite：选择随机生态区路线、收集武器和技能、挑战 Boss。永久符文解锁新路径。**，但真正决定体验的是 **诅咒宝箱、卷轴贪心和路线选择让每局都紧绷**。再把 Metacritic 约 89 分、20 小时看结局 · 60 小时以上全区域 · 重玩驱动 和商店截图放在一起看，你会更清楚它适合当短期调剂、长期坑，还是只适合等折扣再试。
 ## 《死亡细胞》在 Switch 上跑得怎么样？
 
 **死亡细胞** 在 Switch 上更接近 **稳定的主流优化**：载入可接受、以手柄为主的界面，掌上画面仍可读。
@@ -185,8 +177,8 @@ coverImage: >-
 - 你已在别的平台买过，只想在 **史低带** 入一个「客串」版本
 - 你对 **补丁 / 版本差** 很敏感，还是先论坛探路更合适
 
-## 《死亡细胞》在 Switch — 收尾建议
+## 总结
 
-**死亡细胞** 在 Switch 上更像是 **「对照收据再下判断」**：当 **GameGulf** 给的 **折扣** 叠得好看时，口味 + **Metacritic** 一致性比营销词更重要。
+**死亡细胞** 的优点不是面面俱到，而是把地图推进、手感反馈和失败重试做成主要驱动力。你会接触到横版 Roguelite：选择随机生态区路线、收集武器和技能、挑战 Boss。永久符文解锁新路径，也会反复遇到诅咒宝箱、卷轴贪心和路线选择让每局都紧绷；所以它更适合想要 200+ 武器的 Roguelite 动作玩家。相反，不喜欢死后重来——Roguelite 循环就是设计。时间成本大约是20 小时看结局、60 小时以上全区域、重玩驱动。
 
-花一分钟扫一眼 **[GameGulf 价格页](https://www.gamegulf.com/detail/2LVqzRzPbY4#currency-price)**：价格顺眼就锁单，不顺眼就等都行 —— 下一个促窗口还可以回来再对照一次。
+从价格记录看，重点是索引最低价通常排在表格前几格；请在 GameGulf 对照原生货币；需要按区服判断：请在 GameGulf 对照当前最低价与追踪均价；过去一年约 7 次促销波动，折扣是常态。建议先去 [GameGulf 价格页](https://www.gamegulf.com/detail/2LVqzRzPbY4#currency-price) 对照本区现价、历史低价和折扣轨迹，不急着开玩的话，先在 GameGulf 设提醒更稳，等价格回到更接近历史低点的位置再下手。

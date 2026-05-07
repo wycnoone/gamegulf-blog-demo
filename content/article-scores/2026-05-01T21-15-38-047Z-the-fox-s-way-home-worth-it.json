@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "the-fox-s-way-home-worth-it",
+  "url": "https://www.gamegulf.com/detail/bqnbuz3ln4z",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/the-fox-s-way-home-worth-it.md",
+    "src/content/posts/zh-hans/the-fox-s-way-home-worth-it.md",
+    "src/content/posts/ja/the-fox-s-way-home-worth-it.md",
+    "src/content/posts/fr/the-fox-s-way-home-worth-it.md",
+    "src/content/posts/es/the-fox-s-way-home-worth-it.md",
+    "src/content/posts/de/the-fox-s-way-home-worth-it.md",
+    "src/content/posts/pt/the-fox-s-way-home-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:43:10.480Z"
+}

@@ -53,7 +53,7 @@ fitLabel: Worth it when you treat painting puzzles as the main event, not filler
 timingNote: >-
   If your eShop row mirrors Japan’s indexed low, you are still above GameGulf’s
   logged sale average — double-check before checkout.
-communityVibe: Paint-everywhere zen — OST and co-op duos hit different
+communityVibe: Painting the world makes messy feelings playable
 reviewSignal: 90 Metacritic
 takeaway: >-
   Chicory is a taste-led win — let GameGulf’s sale analytics decide whether
@@ -143,7 +143,7 @@ priceRows:
 cardPriceEur: 15.88
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 18.58
+cardPrice: USD 18.69
 cardPriceNative: ¥2940
 cardPriceNativeCurrency: JPY
 faq:
@@ -172,7 +172,7 @@ playtime: 9h main · 13h+ extras · ~21h completionist
 ---
 ## Quick verdict
 
-**Chicory: A Colorful Tale** earns its **≈90 Metacritic** perch as a **top-down painter adventure** threading **mental-health sincerity**, **Lena Raine music**, **brush-metroidvania gating**, **mail and photo errands**, plus **optional local co-op** where a second painter keeps frustration low ([GameGulf listing](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)).
+For **Chicory: A Colorful Tale**, the buy call starts with whether **Painting the world makes messy feelings playable** sounds like the kind of loop you actually want tonight. Buy now only if you want to play immediately; otherwise set an alert and let the next cleaner sale do the work.
 
 Indexed April 2026 pricing still puts **Japan near a €15.88-equivalent row** — **meaningfully above GameGulf’s logged discount average (~€10.20)** despite **five tracked sale moves** in the last year — so impulse buyers pay a **patience tax** unless holiday pricing returns.
 
@@ -185,14 +185,14 @@ Regional **MSRP tiers** stick near **€18.99** across major PAL territories whi
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 18.58 | ¥2940 |
-| Brazil | USD 18.81 | R$95.83 |
-| Hong Kong | USD 19.94 | HK$156 |
-| United States | USD 20.01 | $19.99 |
-| Germany | USD 22.22 | €18.99 |
-| Spain | USD 22.22 | €18.99 |
-| France | USD 22.22 | €18.99 |
-| United Kingdom | USD 22.99 | £17.09 |
+| Japan | USD 18.69 | ¥2940 |
+| Brazil | USD 18.91 | R$95.83 |
+| Hong Kong | USD 20.06 | HK$156 |
+| United States | USD 20.13 | $19.99 |
+| Germany | USD 22.35 | €18.99 |
+| Spain | USD 22.35 | €18.99 |
+| France | USD 22.35 | €18.99 |
+| United Kingdom | USD 23.13 | £17.09 |
 
 Historical **discount signal:** GameGulf’s rolling data shows **five** discount fingerprints in twelve months clustering around **€10.20** on average — with a **tracked Japan trough near €7.94 (18 August 2025)** and a **Brazil print near €8.03 (22 December 2025)** under today’s **€15.88-class Japan headline**, so patience usually beats storefront pride **unless** today’s sticker already matches another sale watcher’s target.
 
@@ -228,6 +228,8 @@ Expect **speaker limits** versus PC during dense audio layers — not a dealbrea
 - You demand **voice chat online co-op** — Switch keeps this **offline couch** first; skip if buddies can’t couch up.
 - You dislike returning to **prior zones once brush abilities escalate** — backtracking irritation stacks if you binge mainline only before cleanup.
 
-## Chicory on Nintendo Switch — closing take
+## Summary
 
-**Chicory: A Colorful Tale** is the rare **emotion-first puzzle pilgrimage** earning **ninety-ish Metacritic applause** — the April 2026 question is purely **indexed discount rhythm vs today’s storefront pride**. Anchor both decisions on **[GameGulf’s Chicory tracker](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)**, let **gamegulf.com** alerts babysit impatient clicks, and only tap buy when sale history and your backlog calendar align.
+**Chicory: A Colorful Tale** is easiest to recommend to Paint-puzzle fans craving story calm, not twitch gauntlets. In practice, it means top-down adventure with brush powers, light combat checks, outfit/collectible tangents, and local two-player painting. The upside is clear: soundtrack, sincere story, flexible assist options, co-op charm. The catch is some ability locks mean revisiting zones — pacing can sprawl if you rush. Use **9h main · 13h+ extras · ~21h completionist** as the rough time commitment. If you need ranked online multiplayer or pure twitch platform gauntlets, there is no need to force it just because it is discounted.
+
+On price, separate a fair current buy from a true floor. April 2026 snapshot: Japan anchors the cheapest indexed digital row ahead of PAL MSRP tiers on GameGulf. No — tracked history shows a Japan dip near €7.94 on 18 August 2025 and a Brazil print near €8.03 on 22 December 2025 under today’s €15.88-class Japan row. Five tracked discount moves in the past year with a rolling average sale near €10.20 — last meaningful drop logged 22 December 2025 in Brazil (~€8.03). If you want to play soon, check [GameGulf pricing](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price) against your region; if you only want the lowest possible entry, set an alert and wait for a deeper sale.

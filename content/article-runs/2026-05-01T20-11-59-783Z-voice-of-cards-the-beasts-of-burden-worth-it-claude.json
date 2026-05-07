@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "voice-of-cards-the-beasts-of-burden-worth-it",
+  "url": "https://www.gamegulf.com/detail/9OysCALVgQ8",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-voice-of-cards-the-beasts-of-burden-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 75435,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":75252,\"duration_api_ms\":74162,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"voice-of-cards-the-beasts-of-burden-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/voice-of-cards-the-beasts-of-burden-worth-it.md\\\",\\\"src/content/posts/zh-hans/voice-of-cards-the-beasts-of-burden-worth-it.md\\\",\\\"src/content/posts/ja/voice-of-cards-the-beasts-of-burden-worth-it.md\\\",\\\"src/content/posts/fr/voice-of-cards-the-beasts-of-burden-worth-it.md\\\",\\\"src/content/posts/es/voice-of-cards-the-beasts-of-burden-worth-it.md\\\",\\\"src/content/posts/de/voice-of-cards-the-beasts-of-burden-worth-it.md\\\",\\\"src/content/posts/pt/voice-of-cards-the-beasts-of-burden-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero hard errors on all 7 locale files.\\\",\\\"zh-hans and ja spot checks still use the English game name in title/gameTitle/FAQ answer prefixes rather than a localized player-facing name; this did not fail validation but reduced the score.\\\",\\\"Price logic is concrete and uses GameGulf indexed rows/history, but some prose inherits awkward generated claims such as the current-cheapest versus historical-low framing from the source data.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/voice-of-cards-the-beasts-of-burden-worth-it.md src/content/posts/zh-hans/voice-of-cards-the-beasts-of-burden-worth-it.md src/content/posts/ja/voice-of-cards-the-beasts-of-burden-worth-it.md src/content/posts/fr/voice-of-cards-the-beasts-of-burden-worth-it.md src/content/posts/es/voice-of-cards-the-beasts-of-burden-worth-it.md src/content/posts/de/voice-of-cards-the-beasts-of-burden-worth-it.md src/content/posts/pt/voice-of-cards-the-beasts-of-burden-worth-it.md\\\"],\\\"notes\\\":\\\"No edits were needed to satisfy the required workflow because all seven files already validated cleanly. Score reflects solid decision-first copy and GameGulf pricing anchors, with deductions for non-localized zh-hans/ja display naming and a few slightly awkward generated pricing statements.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"5392adda-34d5-40d0-8f51-068c02eb42db\",\"total_cost_usd\":0.7194017999999999,\"usage\":{\"input_tokens\":219894,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2261,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":219894,\"outputTokens\":2261,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7194017999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"eae24aa5-211b-452b-96ec-71eed97194fc\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:10:24.229Z"
+}

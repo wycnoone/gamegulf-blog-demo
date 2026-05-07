@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "poker-club-worth-it",
+  "url": "https://www.gamegulf.com/detail/eDgfEcHHtCI",
+  "promptPath": "content/article-worker-prompts/2026-05-01T22-05-01-973Z-poker-club-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 61842,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":61658,\"duration_api_ms\":60564,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"poker-club-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/poker-club-worth-it.md\\\",\\\"src/content/posts/zh-hans/poker-club-worth-it.md\\\",\\\"src/content/posts/ja/poker-club-worth-it.md\\\",\\\"src/content/posts/fr/poker-club-worth-it.md\\\",\\\"src/content/posts/es/poker-club-worth-it.md\\\",\\\"src/content/posts/de/poker-club-worth-it.md\\\",\\\"src/content/posts/pt/poker-club-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero errors on all 7 locales.\\\",\\\"zh-hans and ja locale naming is acceptable for this title because the brief and storefront data use 'Poker Club'; no leftover English SKU issue detected.\\\",\\\"Quality is passable but not top-tier: the body leans template-heavy in places, especially the gameplay/performance sections, and uses generic phrasing where the brief supports more concrete anchors like PCC Campaign, online clubs, 10 Texas Hold'em modes, and 228-player tournaments.\\\",\\\"Price logic is usable and grounded in GameGulf rows: DE/ES/FR at €8.79 vs IT/PT at €17.59 and GB at £15.99, but some lines overstate sale-history certainty because the brief shows 0 tracked discount events in 1 year plus active regional discounts rather than a rich historical pattern.\\\",\\\"Metacritic is presented as ~70 in the articles, while the brief's game.metacritic is null; this is internally consistent with validation but weaker than a clearly sourced score anchor.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/poker-club-worth-it.md src/content/posts/zh-hans/poker-club-worth-it.md src/content/posts/ja/poker-club-worth-it.md src/content/posts/fr/poker-club-worth-it.md src/content/posts/es/poker-club-worth-it.md src/content/posts/de/poker-club-worth-it.md src/content/posts/pt/poker-club-worth-it.md\\\"],\\\"notes\\\":\\\"No revisions were needed because all seven files validated cleanly and the set scored above the 85 threshold. Main weakness is editorial specificity, not validator compliance.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"e395d91f-741a-4311-a622-47abcc528abc\",\"total_cost_usd\":0.6998658,\"usage\":{\"input_tokens\":212377,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2462,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":212377,\"outputTokens\":2462,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6998658,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"3f77e72c-7364-4d7e-965b-1a5b21929285\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T22:31:12.344Z"
+}

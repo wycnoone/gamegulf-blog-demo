@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "minecraft-worth-it",
+  "url": "https://www.gamegulf.com/detail/5oci92626zT",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/minecraft-worth-it.md",
+    "src/content/posts/zh-hans/minecraft-worth-it.md",
+    "src/content/posts/ja/minecraft-worth-it.md",
+    "src/content/posts/fr/minecraft-worth-it.md",
+    "src/content/posts/es/minecraft-worth-it.md",
+    "src/content/posts/de/minecraft-worth-it.md",
+    "src/content/posts/pt/minecraft-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T20:08:44.810Z"
+}

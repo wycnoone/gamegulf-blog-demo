@@ -37,7 +37,7 @@ mainFriction: Mementos et longs palais si tu vises 40 h serrées.
 timeFit: ~101 h main, ~123 h extras, ~141 h complétion.
 fitLabel: Prépa confidents, puzzles de palais et longs arcs.
 timingNote: Compare ta ligne eShop au Japon et à la moyenne ~20 € suivie avant paiement.
-communityVibe: Mèmes voleurs — café, examens, voler des cœurs
+communityVibe: Calendrier, confidants et palais maintiennent le long braquage
 playtime: ~101 h main · ~123 h+ extras · ~141 h complétion
 reviewSignal: 94 Metacritic
 takeaway: >-
@@ -159,7 +159,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Verdict rapide
 
-**Persona 5 Royal** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **94 Metacritic**.
+**Persona 5 Royal** se décide d’abord sur une envie précise : **Calendrier, confidants et palais maintiennent le long braquage**. Si cette promesse vous parle, Attends les soldes si tu ne chasses que les minima historiques — les données montrent des prints JP/UE bien sous la liste d’avril 2026. Achète maintenant si tu lances ce soir et refuses de mettre en pause 100 h pour des moyennes ~20 €.; si le prix visible tourne autour de ¥7,678, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 Royal reste la version à acheter — avril 2026 est « entre promos », pas le plancher suivi.
 
@@ -208,7 +208,9 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - ton budget du mois est reserve a d'autres titres
 - Évite si calendrier serré ou mélodrame anime te vide vite.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. avril 2026 est « entre promos », pas le plancher suivi.
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price)** puis tranche achat vs attente.
+
+**Persona 5 Royal** s’adresse aux joueurs prêts à investir dans des systèmes, une équipe ou une progression longue. Le crochet est clair : Calendrier, confidants et palais maintiennent le long braquage. Le vrai filtre reste votre envie de gérer menus, combats et rythme parfois dense. Comptez ~101 h histoire · ~123 h+ extras · ~141 h complétion avant de décider si le format colle à vos soirées.
+
+La comparaison régionale donne comme repère bas €41.75 au Japon. Japon ~41,75 € (¥7 678) en tête, États-Unis ~52,07 € ($59,99). JP ~12,52 € le 10 mars 2026, loin sous le catalogue. Neuf fenêtres dans l’année, moyenne ~20,01 € — grosses baisses puis retour prix catalogue. La page [GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) reste le meilleur contrôle final pour le prix actuel et l’historique de remise. À plein tarif, la patience reste préférable; une vraie période de soldes changera davantage le rapport contenu/prix.

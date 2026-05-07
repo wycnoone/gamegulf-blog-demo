@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "ikaruga-worth-it",
+  "url": "https://www.gamegulf.com/detail/c6bSJCmVQxa",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/ikaruga-worth-it.md",
+    "src/content/posts/zh-hans/ikaruga-worth-it.md",
+    "src/content/posts/ja/ikaruga-worth-it.md",
+    "src/content/posts/fr/ikaruga-worth-it.md",
+    "src/content/posts/es/ikaruga-worth-it.md",
+    "src/content/posts/de/ikaruga-worth-it.md",
+    "src/content/posts/pt/ikaruga-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:49:32.617Z"
+}

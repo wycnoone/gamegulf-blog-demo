@@ -38,7 +38,7 @@ mainFriction: Somniums iniciais punem sem rotina de save.
 timeFit: Várias noites — não é walking sim curto.
 fitLabel: Quem compara linha JP antes do impulso EU.
 timingNote: Com preço já baixo, só falta encaixar backlog.
-communityVibe: Ordem de rotas, sal Somnium, spoilers
+communityVibe: Somnium, piadas do Date e viradas mantêm o caso vivo
 reviewSignal: 86 Metacritic
 takeaway: "AI: THE SOMNIUM FILES mantém nota alta — GameGulf mostra o ticket regional."
 playStyle: Adventure, Puzzle
@@ -137,7 +137,7 @@ playtime: "Estimativa: ~3–8 h campanha, 8–15 h extras"
 ---
 ## Veredito rápido
 
-**AI: THE SOMNIUM FILES** fica em **86 Metacritic** — mistura Spike Chunsoft com **Somniums**.
+**AI: THE SOMNIUM FILES** vale pela vontade concreta de jogar **Somnium, piadas do Date e viradas mantêm o caso vivo**. Se isso combina com você, Vale comprar se GameGulf mostrar JP ~€1,19 ; espere se só aparecer €19,99 na sua conta UE.; se o preço visto fica perto de €1.19, confira antes sua região de Nintendo Switch no GameGulf.
 
 **menor preço histórico** indexado ~**€1,19** no Japão (**2026-04-21**), **cinco** movimentos **promoção** fortes em um ano, **preço médio promo ~€2,99**, último golpe há **8** dias (**2026-04-21**, Japão **€1,19**). Veja [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price).
 
@@ -175,8 +175,8 @@ Texto/menu primeiro — Switch aguenta bem.
 
 - Só **€19,99** local quando JP mostra **€1,19**
 
-## Fechamento
+## Resumo
 
-Com **histórico baixo**, comprar faz sentido.
+Pense em **AI: THE SOMNIUM FILES** como uma compra de perfil: o atrativo está em **Somnium, piadas do Date e viradas mantêm o caso vivo**, não em preencher backlog por impulso. O pacote entrega **aventura e quebra-cabeça**. É uma boa aposta para fãs de mystery japonês com tolerância anime + timers; perde força se somniums iniciais punem sem rotina de save. O tempo estimado é **~3–8 h campanha, 8–15 h extras**, então vale pensar se esse espaço cabe na sua rotina.
 
-Use **[gamegulf.com](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)** para a próxima **promoção**.
+A conta fecha melhor depois de comparar regiões no [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price): o menor preço atual indexado aparece perto de **EUR 1.19** em **Japão**. Se o preço local não encostar no baixo atual ou no histórico, o caminho prudente é colocar alerta e aguardar promoção.

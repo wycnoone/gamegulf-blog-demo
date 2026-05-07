@@ -12,7 +12,7 @@ hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min de lecture
 decision: Indispensable pour amateurs de FPS rétro au bon prix ; sinon alerte GameGulf.
-priceSignal: Plus bas indexé €5,66 FR (2026-02-23) — les étiquettes EU ~€16,66 piquent.
+priceSignal: "Ligne basse repérée: Allemagne €16.66; comparez votre région avant paiement"
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price
 gameHref: https://www.gamegulf.com/detail/2DnaPGYGeNp
@@ -25,16 +25,16 @@ priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: DUSK 88 Metacritic — GameGulf / €5,66 FR vs ~€16,66 base EU.
-whatItIs: Boomer shooter — trois épisodes, mode survie, polish Switch 60 fps.
-bestFor: Fans de cadence Quake et horror culte.
-avoidIf: Vous voulez un FPS moderne couverture — skip.
-consensusPraise: Critique ~88 Metacritic ; niveaux serrés.
-mainFriction: Gyro par défaut — ajustez avant de juger.
+listingTakeaway: DUSK 88 Metacritic — GameGulf / €5,66 FR vs ~€16,66 base EU
+whatItIs: Boomer shooter — trois épisodes, mode survie, polish Switch 60 fps
+bestFor: Fans de cadence Quake et horror culte
+avoidIf: Vous voulez un FPS moderne couverture — skip
+consensusPraise: Critique ~88 Metacritic ; niveaux serrés
+mainFriction: Gyro par défaut — ajustez avant de juger
 timeFit: Par épisode, soirées plutôt que snack 2 min.
-fitLabel: Acheteurs qui ont vu les promos FR sur GameGulf.
+fitLabel: Acheteurs qui ont vu les promos FR sur GameGulf
 timingNote: Seulement deux grosses baisses/an — patience utile.
-communityVibe: Port Switch 60 fps très propre
+communityVibe: Bunny-hop, fusil et granges cultistes grattent l’envie rétro
 reviewSignal: 88 Metacritic
 takeaway: Qualité pliée ; prix à valider sur GameGulf.
 playStyle: Action, Aventure, FPS
@@ -66,25 +66,16 @@ playerVoices:
 communityMemes:
   - ferme jump scare
   - faux pli gyro
-tldr: >-
-  DUSK — 88 Metacritic ; GameGulf place souvent le prix au-dessus du creux
-  français — achetez si urgent, sinon alerte.
+tldr: DUSK — 88 Metacritic ; GameGulf place souvent le prix au-dessus du creux français — achetez si urgent, sinon alerte.
 faq:
   - question: DUSK vaut-il le coup sur Switch en 2026 ?
-    answer: >-
-      DUSK oui si vous voulez un boomer shooter sur portable — mais GameGulf
-      prouve des promos françaises à €5,66 ; comparez l’étiquette actuelle.
+    answer: DUSK oui si vous voulez un boomer shooter sur portable — mais GameGulf prouve des promos françaises à €5,66 ; comparez l’étiquette actuelle.
   - question: Qu’apporte la version Switch ?
-    answer: >-
-      DUSK — 60 fps, roue d’armes, HD Rumble, gyro, UI revue et endless
-      supplémentaire selon Nintendo ; désactivez le gyro si besoin.
+    answer: DUSK — 60 fps, roue d’armes, HD Rumble, gyro, UI revue et endless supplémentaire selon Nintendo ; désactivez le gyro si besoin.
   - question: Où suivre les prix ?
-    answer: >-
-      DUSK — https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price sur
-      GameGulf.
+    answer: DUSK — https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price sur GameGulf.
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512324355419435.jpeg
 priceRows:
   - regionCode: DE
     eurPrice: 16.66
@@ -127,7 +118,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Verdict rapide
 
-**DUSK** reste **88 Metacritic** sur Switch : **trois épisodes** rock, horror culte, armes trashy, plus **roue/gyro/Rumble** et **endless** — le port vaut le détour pour fans **boomer shooter**.
+Pour décider sur **DUSK**, commencez par cette promesse concrète : **Bunny-hop, fusil et granges cultistes grattent l’envie rétro**. La bonne décision dépend moins du score que de votre envie réelle pour cette boucle, puis du prix régional vérifié sur GameGulf.
 
 **Promo** / **plus bas historique** : **€5,66** (**France**, **2026-02-23**) et **€6,66** (**2025-12-22**), **deux** grosses baisses en 12 mois, **moyenne promo** **€6,16**, **65** jours depuis ce creux. Les lignes **€16,66** actuelles piquent — **[GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** avant paiement.
 
@@ -165,6 +156,9 @@ Cible **60 fps**. Gyro optionnel. Roue d’armes essentielle au rythme.
 
 - Vous refusez tout sauf **€5–7** — la France a déjà vu **€5,66** (**2026-02-23**).
 
-## Dernière ligne
+## En résumé
 
-**DUSK** reste un achat logique pour le bon joueur — la **[page prix GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** décide si vous payez touriste ou patient.
+
+**DUSK** fonctionne si l’idée de relancer une tentative, changer d’approche et progresser par petites maîtrises vous attire. Le crochet est clair : Bunny-hop, fusil et granges cultistes grattent l’envie rétro. Si la répétition vous fatigue vite, gyro par défaut — ajustez avant de juger ne disparaîtra pas avec une remise. Comptez Première passe = heures par épisode pour juger si le format colle à vos soirées.
+
+Pour le prix, partez du meilleur repère GameGulf : €16.66 en Allemagne. Lignes haut de tableau = moins cher. au-dessus du promo €5,66 indexé. Deux promos fortes suivies sur 12 mois. Passez par [GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price) avant de payer afin de comparer votre région au plus bas suivi. Si vous voulez jouer tout de suite, comparez la devise de votre compte; pour maximiser la valeur, attendez que GameGulf signale une remise plus franche.

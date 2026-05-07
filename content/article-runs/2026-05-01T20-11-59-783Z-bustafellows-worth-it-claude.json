@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "bustafellows-worth-it",
+  "url": "https://www.gamegulf.com/detail/6nAsDFSi1Qa",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-bustafellows-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 480388,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":480205,\"duration_api_ms\":477748,\"num_turns\":23,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"bustafellows-worth-it\\\",\\\"score\\\":91,\\\"revisionAttempts\\\":2,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/bustafellows-worth-it.md\\\",\\\"src/content/posts/zh-hans/bustafellows-worth-it.md\\\",\\\"src/content/posts/ja/bustafellows-worth-it.md\\\",\\\"src/content/posts/fr/bustafellows-worth-it.md\\\",\\\"src/content/posts/es/bustafellows-worth-it.md\\\",\\\"src/content/posts/de/bustafellows-worth-it.md\\\",\\\"src/content/posts/pt/bustafellows-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validator pass was clean, but EN/zh-hans/JA spot checks were too template-like and underused brief-specific anchors such as Teuta's time-leap premise, the five romance routes, multiple endings, and full Japanese voice cast.\\\",\\\"First revision introduced stronger memo-style copy but temporarily failed validator wording checks for the discount-history paragraph in EN/zh-hans/JA.\\\",\\\"Second revision restored explicit concrete discount-history phrasing while keeping the stronger, game-specific buying guidance.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/bustafellows-worth-it.md src/content/posts/zh-hans/bustafellows-worth-it.md src/content/posts/ja/bustafellows-worth-it.md src/content/posts/fr/bustafellows-worth-it.md src/content/posts/es/bustafellows-worth-it.md src/content/posts/de/bustafellows-worth-it.md src/content/posts/pt/bustafellows-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/bustafellows-worth-it.md src/content/posts/zh-hans/bustafellows-worth-it.md src/content/posts/ja/bustafellows-worth-it.md src/content/posts/fr/bustafellows-worth-it.md src/content/posts/es/bustafellows-worth-it.md src/content/posts/de/bustafellows-worth-it.md src/content/posts/pt/bustafellows-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/bustafellows-worth-it.md src/content/posts/zh-hans/bustafellows-worth-it.md src/content/posts/ja/bustafellows-worth-it.md src/content/posts/fr/bustafellows-worth-it.md src/content/posts/es/bustafellows-worth-it.md src/content/posts/de/bustafellows-worth-it.md src/content/posts/pt/bustafellows-worth-it.md\\\"],\\\"notes\\\":\\\"Validated clean after two revision attempts. I strengthened EN, zh-hans, and JA so the article set reads more like a concrete buying memo, with clearer otome/visual-novel fit, route/replay expectations, and region-price logic grounded in GameGulf history.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"2ec3a7a5-6fa1-4236-9702-1e4f4a4a5809\",\"total_cost_usd\":2.7554106,\"usage\":{\"input_tokens\":779494,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":282112,\"output_tokens\":22153,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":779494,\"outputTokens\":22153,\"cacheReadInputTokens\":282112,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.7554106,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"6522a43d-6270-4060-97d4-e9a6bcdb33eb\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:27:05.933Z"
+}

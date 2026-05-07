@@ -40,7 +40,7 @@ mainFriction: Picos de dificuldade e EMMI cansam quem quer aventura relaxada.
 timeFit: ~9h história, ~12h extras, ~14h completionist (médias comunidade).
 fitLabel: Jogadores que gostam de dominar ritmo, não farm chill.
 timingNote: Compare a sua linha eShop com âncoras HK/JP antes de pagar preço cheio alto.
-communityVibe: Passos EMMI — eco permanente
+communityVibe: E.M.M.I., parry e fluxo do mapa vendem Dread
 playtime: ~9h história · ~12h+ extras · ~14h completionist
 reviewSignal: 88 Metacritic
 takeaway: >-
@@ -172,7 +172,7 @@ cardPriceNativeCurrency: HKD
 ---
 ## Veredito rapido
 
-**Metroid Dread** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **88 Metacritic**.
+A compra de **Metroid Dread** começa pela pergunta simples: **E.M.M.I., parry e fluxo do mapa vendem Dread** combina com você? Se essa cena de jogo te pega e sua região no GameGulf já está em promoção, a compra faz sentido; no preço cheio, não precisa correr.
 
 Metroid Dread continua compra de qualidade para o perfil certo — o risco é regional.
 
@@ -221,7 +221,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se caçadas EMMI e wipes de chefe esgotam.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. o risco é regional.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price)** e decide compra vs espera.
+A decisão em **Metroid Dread** começa pelo apelo concreto: **E.M.M.I., parry e fluxo do mapa vendem Dread**. Se você quer **metroidvania de habilidades com zonas EMMI, contra-ataques, colecionáveis, modos Rookie/Dread e Boss Rush**, ele tem espaço no Switch; se essa rotina já parece distante, nem desconto transforma a experiência em prioridade. O tempo estimado é **~9h história · ~12h+ extras · ~14h 100%**, então vale pensar se esse espaço cabe na sua rotina.
+
+No preço, o menor preço atual indexado aparece perto de **EUR 36.44** em **Hong Kong**; o mínimo histórico citado fica em **€36**. Se a sua linha no [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) estiver perto desse patamar, a compra hoje é razoável; se a loja local ficar acima do histórico, deixe em alerta e espere outra promoção.

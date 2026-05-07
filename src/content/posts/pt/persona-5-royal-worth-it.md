@@ -1,8 +1,8 @@
 ---
 title: Persona 5 Royal no Switch em 2026 — vale a pena comprar?
 description: >-
-  Guia Switch (abril 2026): preços indexados, histórico de promoções vs preço cheio,
-  tempos , desempenho portátil, comprar já ou criar alerta.
+  Guia Switch (abril 2026): preços indexados, histórico de promoções vs preço
+  cheio, tempos , desempenho portátil, comprar já ou criar alerta.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -38,7 +38,7 @@ mainFriction: Mementos e palácios longos se queres fechar em 40 h.
 timeFit: ~101 h história, ~123 h extras, ~141 h completion.
 fitLabel: Jogadores que preparam vínculos e puzzles de palácio.
 timingNote: Compara a tua linha eShop com o Japão e a média ~20 € em saldo.
-communityVibe: Memes ladrão — café, exames, roubar corações
+communityVibe: Calendário, confidants e palácios seguram a jornada
 playtime: ~101 h hist. · ~123 h+ extras · ~141 h completion
 reviewSignal: 94 Metacritic
 takeaway: >-
@@ -161,7 +161,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Persona 5 Royal** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **94 Metacritic**.
+**Persona 5 Royal** vale pela vontade concreta de jogar **Calendário, confidants e palácios seguram a jornada**. Se isso combina com você, Espere promoção se só compras mínimos históricos — o histórico mostra picos JP/UE bem abaixo do preço de abril 2026. Compre já se vais começar hoje e não queres pausar 100 h por uma média ~20 € em saldos.; se o preço visto fica perto de ¥7,678, confira antes sua região de Nintendo Switch no GameGulf.
 
 Royal continua a edição certa — abril 2026 é “entre promoções”, não o piso rastreado.
 
@@ -211,7 +211,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Evita se drama escolar ou textos longos te cansam.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. abril 2026 é “entre promoções”, não o piso rastreado.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price)** e decide compra vs espera.
+**Persona 5 Royal** vale entrar na lista quando **Calendário, confidants e palácios seguram a jornada** soa como algo que você quer repetir no Switch. Na prática, a compra gira em torno de **fraquezas elementares, Baton Pass, puzzles de palácio, Mementos e o arco do terceiro semestre**. É uma boa aposta para quem gosta de JRPG longo com pressão de calendário; perde força se você procura algo perto de 40 horas e não quer Mementos ou palácios longos. O tempo estimado é **~101 h história · ~123 h+ extras · ~141 h 100%**, então vale pensar se esse espaço cabe na sua rotina.
+
+Use o [GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) como última checagem, porque o menor preço atual indexado aparece perto de **EUR 41.75** em **Japão**; o mínimo histórico citado fica em **€41**. Para jogar agora, mire essa faixa regional; para economizar, espere a próxima janela que se aproxime do mínimo histórico.

@@ -34,7 +34,7 @@ mainFriction: Standard-Gyro nervt — vorher in Optionen fixen.
 timeFit: Episoden über Abende, keine 90-Sek-Snacks.
 fitLabel: Käufer, die FR-Sales auf GameGulf gesehen haben.
 timingNote: Nur zwei tiefe Drops/Jahr.
-communityVibe: Switch-Port mit knackigen 60 fps
+communityVibe: Bunnyhops, Shotguns und Kult-Scheunen treffen den Retro-Nerv
 reviewSignal: 88 Metacritic
 takeaway: Qualität klar — Preis kommt von GameGulf.
 playStyle: Action, Adventure, Ego-Shooter
@@ -126,7 +126,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Kurzfazit
 
-**DUSK** bleibt **88 Metacritic** auf Switch: **drei Episoden**, Kult-Horror-Action, massives Arsenal plus **Rad/Gyro/Rumble/Endlos-Map** als Switch-Extras.
+Bei **DUSK** zählt zuerst, ob dich **Bunnyhops, Shotguns und Kult-Scheunen treffen den Retro-Nerv** wirklich reizt. Entscheide nach echter Lust auf diese Schleife plus GameGulf-Regionspreis, nicht nur nach Genre oder Score.
 
 **Rabatt**: **€5,66** (**Frankreich**, **2026-02-23**) und **€6,66** (**2025-12-22**), **zwei** große Bewegungen/Jahr, **Promo-Schnitt ~€6,16**, **65** Tage seit dem Tief. Viele **€16,66**-Zeilen schmerzen — **[GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** checken.
 
@@ -164,6 +164,8 @@ Tabelle **GameGulf** folgt — Absatz deckt **Preis**-Checks vs. dein Konto.
 
 - Nur **€5–7** — **€5,66** war **2026-02-23** real.
 
-## Abschluss
+## Kurz zusammengefasst
 
-**DUSK** + **[GameGulf-Preise](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** = saubere Entscheidung.
+**DUSK** ist am stärksten, wenn du Lust auf **Bunnyhops, Shotguns und Kult-Scheunen treffen den Retro-Nerv** hast. Für Fans von Quake-Tempo und Kult-Horror passt das gut; bei du willst modernes Deckungs-Fehlen — skip ist Abwarten die ehrlichere Wahl. Der Zeitbedarf liegt ungefähr bei **Erste Acts dauern jeweils Stunden**.
+
+Preislich zählt der konkrete Regionsvergleich. Tabellenkopf = günstigste Region. Nein — über dem €5,66-Druck. Zwei starke Rabatte in 12 Monaten. Prüfe vor dem Checkout die [GameGulf-Livepreise](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price); Bei unsicherem Fit ist Beobachten sinnvoller als ein spontaner Checkout. 

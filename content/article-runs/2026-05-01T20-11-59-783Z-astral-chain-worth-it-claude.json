@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "astral-chain-worth-it",
+  "url": "https://www.gamegulf.com/detail/7J2IlkiZIp2",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-astral-chain-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 62662,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":62470,\"duration_api_ms\":61385,\"num_turns\":12,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"astral-chain-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/astral-chain-worth-it.md\\\",\\\"src/content/posts/zh-hans/astral-chain-worth-it.md\\\",\\\"src/content/posts/ja/astral-chain-worth-it.md\\\",\\\"src/content/posts/fr/astral-chain-worth-it.md\\\",\\\"src/content/posts/es/astral-chain-worth-it.md\\\",\\\"src/content/posts/de/astral-chain-worth-it.md\\\",\\\"src/content/posts/pt/astral-chain-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors in any locale.\\\",\\\"Spot-checked en/zh-hans/ja titles, gameTitle, and FAQ openings use the expected local display name.\\\",\\\"Sampled body copy is serviceable and price-aware, but some sections still read a bit templated rather than fully research-memo specific.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/astral-chain-worth-it.md src/content/posts/zh-hans/astral-chain-worth-it.md src/content/posts/ja/astral-chain-worth-it.md src/content/posts/fr/astral-chain-worth-it.md src/content/posts/es/astral-chain-worth-it.md src/content/posts/de/astral-chain-worth-it.md src/content/posts/pt/astral-chain-worth-it.md\\\"],\\\"notes\\\":\\\"All seven locale files validated cleanly on the first pass. Based on the brief plus en/zh-hans/ja spot checks, the set clears the threshold with explicit buy/wait guidance, correct localized naming, and concrete GameGulf price spread references.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"3867239d-f323-450e-9a1d-ba8ca3f7e94d\",\"total_cost_usd\":0.567723,\"usage\":{\"input_tokens\":171158,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":71680,\"output_tokens\":2183,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":171158,\"outputTokens\":2183,\"cacheReadInputTokens\":71680,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.567723,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"dd6f7323-e589-4725-b1e7-018bae34c4e4\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:44:41.722Z"
+}

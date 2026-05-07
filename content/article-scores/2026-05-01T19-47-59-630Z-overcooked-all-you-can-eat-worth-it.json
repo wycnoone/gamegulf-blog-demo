@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "overcooked-all-you-can-eat-worth-it",
+  "url": "https://www.gamegulf.com/detail/5eB336c9LhC",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/overcooked-all-you-can-eat-worth-it.md",
+    "src/content/posts/zh-hans/overcooked-all-you-can-eat-worth-it.md",
+    "src/content/posts/ja/overcooked-all-you-can-eat-worth-it.md",
+    "src/content/posts/fr/overcooked-all-you-can-eat-worth-it.md",
+    "src/content/posts/es/overcooked-all-you-can-eat-worth-it.md",
+    "src/content/posts/de/overcooked-all-you-can-eat-worth-it.md",
+    "src/content/posts/pt/overcooked-all-you-can-eat-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T20:07:35.389Z"
+}

@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "shadow-tactics-blades-of-the-shogun-worth-it",
+  "url": "https://www.gamegulf.com/detail/3pCi8QDLHfn",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-shadow-tactics-blades-of-the-shogun-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 62901,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":62720,\"duration_api_ms\":61670,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"shadow-tactics-blades-of-the-shogun-worth-it\\\",\\\"score\\\":87,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/shadow-tactics-blades-of-the-shogun-worth-it.md\\\",\\\"src/content/posts/zh-hans/shadow-tactics-blades-of-the-shogun-worth-it.md\\\",\\\"src/content/posts/ja/shadow-tactics-blades-of-the-shogun-worth-it.md\\\",\\\"src/content/posts/fr/shadow-tactics-blades-of-the-shogun-worth-it.md\\\",\\\"src/content/posts/es/shadow-tactics-blades-of-the-shogun-worth-it.md\\\",\\\"src/content/posts/de/shadow-tactics-blades-of-the-shogun-worth-it.md\\\",\\\"src/content/posts/pt/shadow-tactics-blades-of-the-shogun-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero hard errors across all 7 locales.\\\",\\\"EN/zh-hans/ja spot checks show explicit buy/wait guidance and concrete GameGulf pricing anchors (€29.88 GB current/global low, ~2 discount events, €32.05 average sale, 6 days since last discount).\\\",\\\"Body quality is acceptable but still somewhat template-driven in EN/zh-hans/ja, especially in the 'what kind of game' and 'performance' sections, so I did not score it higher despite clean validation.\\\",\\\"Localized display names are consistent with the expected in-market title string for this game; no zh-hans/ja English-SKU mismatch was found in title, gameTitle, or FAQ answer openings.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/shadow-tactics-blades-of-the-shogun-worth-it.md src/content/posts/zh-hans/shadow-tactics-blades-of-the-shogun-worth-it.md src/content/posts/ja/shadow-tactics-blades-of-the-shogun-worth-it.md src/content/posts/fr/shadow-tactics-blades-of-the-shogun-worth-it.md src/content/posts/es/shadow-tactics-blades-of-the-shogun-worth-it.md src/content/posts/de/shadow-tactics-blades-of-the-shogun-worth-it.md src/content/posts/pt/shadow-tactics-blades-of-the-shogun-worth-it.md\\\"],\\\"notes\\\":\\\"No revisions were needed. The 7-locale set validates cleanly and clears the 85 threshold, though some prose remains mildly generic.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"71d53db0-7152-4667-aed5-e04e902e72b6\",\"total_cost_usd\":0.7096427999999999,\"usage\":{\"input_tokens\":216351,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2319,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":216351,\"outputTokens\":2319,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7096427999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"8d6d16a6-086c-4e68-baee-15ace40f9a83\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T19:58:45.954Z"
+}

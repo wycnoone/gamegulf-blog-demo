@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "sumire-worth-it",
+  "url": "https://www.gamegulf.com/detail/4LnuQj83T6c",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/sumire-worth-it.md",
+    "src/content/posts/zh-hans/sumire-worth-it.md",
+    "src/content/posts/ja/sumire-worth-it.md",
+    "src/content/posts/fr/sumire-worth-it.md",
+    "src/content/posts/es/sumire-worth-it.md",
+    "src/content/posts/de/sumire-worth-it.md",
+    "src/content/posts/pt/sumire-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T20:01:58.200Z"
+}

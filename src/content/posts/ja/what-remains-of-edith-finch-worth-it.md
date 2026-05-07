@@ -1,10 +1,10 @@
 ---
-title: 2026年、Switch版『What Remains of Edith Finch』は買いか？
+title: 2026年、Switch版『フィンチ家の奇妙な屋敷でおきたこと』は買いか？
 description: 2026年4月の購入判断：Metacritic 88点級の一人称ナラティブ、索引セール行、割引履歴と最安値比較、 短時間プレイ向けの結論。
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
-gameTitle: What Remains of Edith Finch
+gameTitle: フィンチ家の奇妙な屋敷でおきたこと
 platform: Nintendo Switch
 author: GameGulf Editorial AI
 readingTime: 約7分で読める
@@ -27,10 +27,10 @@ mainFriction: ボリュームは短い——時間単価ではなく密度で勝
 timeFit: は本編約2h／+α約3h／コンプ約3h（コミュニティ集計）。
 fitLabel: 「短くて濃い」を歓迎する人に刺さる。
 timingNote: €4.99帯と€2.86参考最安を見比べてから待つか決める。
-communityVibe: ルイス編が先に拡散、屋敷はミックステープのような余韻だけ。
+communityVibe: フィンチ家の各部屋が操作を変え、短く強く残る
 playtime: 本編約2時間 · +α約3時間 · コンプ約3時間
 reviewSignal: Metacritic 88
-takeaway: What Remains of Edith Finchは2026年もナラティブ好きには買い——今の索引は強いセールだが最安値ではない。
+takeaway: フィンチ家の奇妙な屋敷でおきたことは2026年もナラティブ好きには買い——今の索引は強いセールだが最安値ではない。
 playStyle: 一人称探索、軽いインタラクト、章ごとに変わる遊び——戦闘ループはない。
 timeCommitment: 集計で本編約2時間。一晩で完走しやすい。
 playMode: シングルプレイ。
@@ -50,7 +50,7 @@ tags:
   - Edith Finch Switch
   - アナプルナ Switch
   - ウォーキングシム Switch
-  - What Remains of Edith Finch 評価
+  - フィンチ家の奇妙な屋敷でおきたこと 評価
   - Edith Finch 価格
 playerVoices:
   - quote: 屋敷がミックステープ——死のエピソードごとにジャンルは変わるのに痛みは同じ温度
@@ -70,9 +70,7 @@ communityMemes:
   - フィンチ家ツリー
   - 一晩完走勢
   - 屋敷フォトモード
-tldr: >-
-  What Remains of Edith Finch——Metacritic
-  88の短編ナラティブ。2026年4月スペインセールは平均割引より安い。好きなら買い。
+tldr: フィンチ家の奇妙な屋敷でおきたこと——Metacritic 88の短編ナラティブ。2026年4月スペインセールは平均割引より安い。好きなら買い。
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price
 gameHref: https://www.gamegulf.com/detail/FMn7HJlmf8
@@ -82,17 +80,16 @@ heroTheme: brand
 faq:
   - question: 2026年、Switch版は買いか？
     answer: >-
-      What Remains of Edith
-      Finchは、短く濃い一人称ナラティブが欲しい人には買いです。2026年4月はGameGulfで自分の地域の価格を確認して——スペイン索引は平均セール価格を下回る帯です。
+      フィンチ家の奇妙な屋敷でおきたことは、短く濃い一人称ナラティブが欲しい人には買いです。2026年4月はGameGulfで自分の地域の価格を確認して——スペイン索引は平均セール価格を下回る帯です。
   - question: クリア時間は？
-    answer: What Remains of Edith Finchは集計で本編約2時間、+α約3時間、コンプ約3時間。短時間で完走できます。
+    answer: フィンチ家の奇妙な屋敷でおきたことは集計で本編約2時間、+α約3時間、コンプ約3時間。短時間で完走できます。
   - question: Switchの動きは？
-    answer: What Remains of Edith Finchは探索中心で負荷は低め。携帯でもUIは読みやすく、一晩プレイ向きという説明が多いです。
+    answer: フィンチ家の奇妙な屋敷でおきたことは探索中心で負荷は低め。携帯でもUIは読みやすく、一晩プレイ向きという説明が多いです。
   - question: 辛すぎる内容？
-    answer: What Remains of Edith Finchは死や喪を扱います。心の余裕がないときは、セールでも無理しないのが正解です。
+    answer: フィンチ家の奇妙な屋敷でおきたことは死や喪を扱います。心の余裕がないときは、セールでも無理しないのが正解です。
   - question: 似た作品を探すには？
     answer: >-
-      What Remains of Edith Finchの次は短編インディーの買い時比較が便利——
+      フィンチ家の奇妙な屋敷でおきたことの次は短編インディーの買い時比較が便利——
       [インディーセールガイド](/blog/ja/inside-switch-sale-guide)も参照してください。
 priceRows:
   - regionCode: ES
@@ -130,14 +127,14 @@ priceRows:
 cardPriceEur: 4.99
 cardPriceRegionCode: ES
 cardPriceRegion: スペイン
-cardPrice: JPY 914
+cardPrice: JPY 919
 cardPriceNative: €4.99
 cardPriceNativeCurrency: EUR
 ---
 
 ## クイック判定
 
-**『What Remains of Edith Finch』は今も「短くて強い」ナラティブの代表格**——**Metacritic 88**、**プレイ時間の目安：本編約2時間**。**2026年4月**の索引は**スペイン**が**約€4.99**の**セール**で先行し、追跡の**平均セール価格（約€5.58）**より安い一方、**最安値**参照の**€2.86（ブラジル、2025年4月14日）**には届かない。
+**フィンチ家の奇妙な屋敷でおきたこと** はジャンル名よりも、**フィンチ家の各部屋が操作を変え、短く強く残る** で人を引き込みます。この遊びの絵が刺さり、GameGulfで自分の地域もセール帯なら買って大丈夫。定価寄りなら急がなくていいです。
 
 **割引**は年間で**約9回**。**直近の値下げ**はこのスナップショットの**わずか4日前**——「もっと安く」を狙うなら**ブラジル級のレア底値**待ちになる。[GameGulfの価格追跡](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)で**自分のリージョンの価格**を見てから決めて。
 
@@ -150,14 +147,14 @@ cardPriceNativeCurrency: EUR
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| スペイン | JPY 914 | €4.99 |
-| ブラジル | JPY 2127 | R$69.00 |
-| 日本 | JPY 2191 | ¥2,200 |
-| アメリカ合衆国 | JPY 3179 | $19.99 |
-| ドイツ | JPY 3662 | €19.99 |
-| フランス | JPY 3662 | €19.99 |
-| イタリア | JPY 3662 | €19.99 |
-| イギリス | JPY 3783 | £17.99 |
+| スペイン | JPY 919 | €4.99 |
+| ブラジル | JPY 2137 | R$69.00 |
+| 日本 | JPY 2201 | ¥2,200 |
+| アメリカ合衆国 | JPY 3194 | $19.99 |
+| ドイツ | JPY 3680 | €19.99 |
+| フランス | JPY 3680 | €19.99 |
+| イタリア | JPY 3680 | €19.99 |
+| イギリス | JPY 3801 | £17.99 |
 
 **最安値**の文脈を足すと、**歴史的な底**は**€2.86**、**今の€4.99**は**強いセール**だが**オールタイムロー**ではない。**セール**期待だけなら今で十分、**絶対最安**だけ欲しいなら**待機**も合理。
 
@@ -192,4 +189,6 @@ cardPriceNativeCurrency: EUR
 
 ## まとめ
 
-**What Remains of Edith Finch**は「短い傑作」を買うゲーム。**価格**が合うなら今でいい。**最安**だけなら**アラート**で次の**セール**を待て。
+**フィンチ家の奇妙な屋敷でおきたこと** は、フィンチ家の各部屋が操作を変え、短く強く残るに惹かれる人ほど評価しやすい一本です。戦闘より文章と演出を取りに行く人向けなら候補に残しやすいです。一方で、ボリュームは短い——時間単価ではなく密度で勝負する作品。強みはシナリオと環境演出の密度はインディーでも最上位。遊ぶ前に **本編約2時間 · +α約3時間 · コンプ約3時間** くらいの尺を想定しておきましょう。死や喪のテーマが厳しいとき、またはアクション中心を求めるなら避ける。
+
+セール判断では現在の参考安値は **€4.99**。2026年4月の索引はスペインが約€4.99で先行、ブラジル・日本・米と続き、欧州定価行は高め。過去最安ではなく、追跡の参考最安は約€2.86（ブラジル、2025年4月14日）で、今のスペイン€4.99とは段が違う。過去1年で約9回の値下げ。平均セール価格は約€5.58で、定価付近に戻る動きもある。購入前に [GameGulfの価格一覧](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) で自分のeShop表示を確認しておきましょう。

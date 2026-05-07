@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "steamworld-dig-2-worth-it",
+  "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu",
+  "promptPath": "content/article-worker-prompts/2026-05-01T23-02-57-661Z-steamworld-dig-2-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 56913,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":56727,\"duration_api_ms\":55674,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"steamworld-dig-2-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/steamworld-dig-2-worth-it.md\\\",\\\"src/content/posts/zh-hans/steamworld-dig-2-worth-it.md\\\",\\\"src/content/posts/ja/steamworld-dig-2-worth-it.md\\\",\\\"src/content/posts/fr/steamworld-dig-2-worth-it.md\\\",\\\"src/content/posts/es/steamworld-dig-2-worth-it.md\\\",\\\"src/content/posts/de/steamworld-dig-2-worth-it.md\\\",\\\"src/content/posts/pt/steamworld-dig-2-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors.\\\",\\\"Localized display names and FAQ openings look correct in zh-hans and ja spot checks.\\\",\\\"Decision logic is explicit and grounded in GameGulf price spread and sale history.\\\",\\\"Some body copy is still somewhat template-like/generic in the gameplay and performance sections, so I did not score it near-perfect despite passing validation.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/steamworld-dig-2-worth-it.md src/content/posts/zh-hans/steamworld-dig-2-worth-it.md src/content/posts/ja/steamworld-dig-2-worth-it.md src/content/posts/fr/steamworld-dig-2-worth-it.md src/content/posts/es/steamworld-dig-2-worth-it.md src/content/posts/de/steamworld-dig-2-worth-it.md src/content/posts/pt/steamworld-dig-2-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on all 7 locales, so no revisions were needed. Score reflects strong localization and price logic, with a small deduction for research-memo depth in some sections.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"6b3d8afa-9d9a-42ef-9f75-031532287608\",\"total_cost_usd\":0.7093746,\"usage\":{\"input_tokens\":216858,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":1913,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":216858,\"outputTokens\":1913,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7093746,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"d85078d7-c6e6-4a58-8d75-bd4fa5a05faa\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T23:34:53.235Z"
+}

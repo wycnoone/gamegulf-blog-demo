@@ -27,14 +27,14 @@ actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 无誓者：冒险、解谜、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
 whatItIs: 冒险、解谜、角色扮演 — Switch 版 无誓者。
-bestFor: 想要冒险、解谜、角色扮演且接受掌机体量的人。
-avoidIf: 不喜欢冒险、解谜、角色扮演气质就别硬买。
+bestFor: 喜欢恶魔案件、同伴选择和纽约 occult noir 氛围很抓人的玩家
+avoidIf: 需要强指引或不吃恶魔案件、同伴选择和纽约 occult noir 氛围很抓人就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 91 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。
 timeFit: 时间适配：约9小时主线、12小时附加、约17小时完美
-fitLabel: 会先对照两个区服再下单的人。
+fitLabel: 先被恶魔案件、同伴选择和纽约 occult noir 氛围很抓人吸引的人
 timingNote: 若你看到的参考价已在促销带，犹豫多半只剩口味；但仍要核对商店实时价。
-communityVibe: 队友选择、配音和都市奇幻故事是好评核心
+communityVibe: 恶魔案件、同伴选择和纽约 occult noir 氛围很抓人
 playtime: 约9小时主线、12小时附加、约17小时完美
 reviewSignal: Metacritic 约 91 分
 takeaway: 无誓者 适合想要冒险、解谜、角色扮演 — Switch 版 无誓者的玩家；索引最低价通常排在表格前几格，再决定现在买还是继续等。
@@ -108,7 +108,7 @@ priceRows:
 cardPriceEur: 4.69
 cardPriceRegionCode: BR
 cardPriceRegion: 巴西
-cardPrice: CNY 37.48
+cardPrice: CNY 37.55
 cardPriceNative: R$27.99
 cardPriceNativeCurrency: BRL
 faq:
@@ -117,16 +117,13 @@ faq:
   - question: 《无誓者》大概多长？
     answer: 无誓者 的游玩时间参考是 约9小时主线、12小时附加、约17小时完美。
   - question: 在哪里核对 Switch 价格？
-    answer: >-
-      无誓者 可以在 GameGulf 详情页
-      https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price 对照多区价格，避免只按汇率猜。
+    answer: 无誓者 可以在 GameGulf 详情页 https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price 对照多区价格，避免只按汇率猜。
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
 ---
 ## 一句话结论
 
-**无誓者** 在 **Metacritic 约 91 分** 上与口碑大体一致 — **冒险、解谜、角色扮演** 的方向也和 eShop 卡片给人的预期接近。**约9小时主线、12小时附加、约17小时完美** 用来框定你买到的是多长的一段体验。
+**无誓者** 的吸引力集中在 **恶魔案件、同伴选择和纽约 occult noir 氛围很抓人**。先确认你愿意投入这种循环，再用 GameGulf 核对区服价；玩法和价格都对上再买更稳。
 
 结合 **折扣** 追踪：**历史低价**约 **€4.69**（BR），过去一年约 **1** 次促销，**平均促销价**约 **€4.69**，距上次明显波动约 **37** 天（**2026-03-24 (Brazil, €4.69)**，**2026**）。下单前请再核对 [GameGulf 实时价格](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)。
 
@@ -139,21 +136,18 @@ coverImage: >-
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 巴西 | CNY 37.48 | R$27.99 |
-| 美国 | CNY 102.44 | $14.99 |
-| 德国 | CNY 119.79 | €14.99 |
-| 西班牙 | CNY 119.79 | €14.99 |
-| 法国 | CNY 119.79 | €14.99 |
-| 意大利 | CNY 119.79 | €14.99 |
-| 葡萄牙 | CNY 119.79 | €14.99 |
-| 英国 | CNY 123.94 | £13.49 |
+| 巴西 | CNY 37.55 | R$27.99 |
+| 美国 | CNY 102.63 | $14.99 |
+| 德国 | CNY 120.01 | €14.99 |
+| 西班牙 | CNY 120.01 | €14.99 |
+| 法国 | CNY 120.01 | €14.99 |
+| 意大利 | CNY 120.01 | €14.99 |
+| 葡萄牙 | CNY 120.01 | €14.99 |
+| 英国 | CNY 124.17 | £13.49 |
 
 **无誓者** 是一款 **冒险、解谜、角色扮演** 向 Switch 作品，出自 **Wadjet Eye Games** — 商店长文案可以当作宣传，但真正该看的是 **类型组合** 和 **Metacritic 约 91 分** 给出的质量信号。
 
-1. **核心循环** — 大体符合 Switch 玩家对这个品类常见节奏的预期。
-2. **体量** — **约9小时主线、12小时附加、约17小时完美**，避免误以为买到了「默认一百小时」的长线 RPG。
-3. **气质** — 预告片诚实的话，入手后大概率是同一挂味。
-
+**无誓者** 可以归到 **冒险、解谜、角色扮演**，但真正决定体验的是 **恶魔案件、同伴选择和纽约 occult noir 氛围很抓人**。再把 Metacritic 约 91 分、约9小时主线、12小时附加、约17小时完美 和商店截图放在一起看，你会更清楚它适合当短期调剂、长期坑，还是只适合等折扣再试。
 ## 《无誓者》在 Switch 上跑得怎么样？
 
 **无誓者** 在 Switch 上更接近 **稳定的主流优化**：载入可接受、以手柄为主的界面，掌上画面仍可读。
@@ -178,8 +172,8 @@ coverImage: >-
 - 你已在别的平台买过，只想在 **史低带** 入一个「客串」版本
 - 你对 **补丁 / 版本差** 很敏感，还是先论坛探路更合适
 
-## 《无誓者》在 Switch — 收尾建议
+## 总结
 
-**无誓者** 在 Switch 上更像是 **「对照收据再下判断」**：当 **GameGulf** 给的 **折扣** 叠得好看时，口味 + **Metacritic** 一致性比营销词更重要。
+对 **无誓者** 来说，先问自己能不能接受成长路线、战斗准备和长线内容，比先看价格更有用。它的玩法框架是冒险、解谜、角色扮演 — Switch 版 无誓者，更具体的吸引点是恶魔案件、同伴选择和纽约 occult noir 氛围很抓人；喜欢它的人通常会是想要冒险、解谜、角色扮演且接受掌机体量的人。需要避开的情况也清楚：不喜欢冒险、解谜、角色扮演气质就别硬买。通关或深玩大致要预留约9小时主线、12小时附加、约17小时完美。
 
-花一分钟扫一眼 **[GameGulf 价格页](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)**：价格顺眼就锁单，不顺眼就等都行 —— 下一个促窗口还可以回来再对照一次。
+预算判断不必绕弯：索引最低价通常排在表格前几格；请在 GameGulf 对照原生货币；需要按区服判断：请在 GameGulf 对照当前最低价与追踪均价；过去一年约 1 次促销波动，折扣是常态。你可以在 [GameGulf 价格页](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price) 复核实时价，再按历史低价、促销频率和本区折扣决定是否结账；还拿不准时，先在 GameGulf 对照本区现价和历史曲线，再决定现在买、等促销，还是干脆跳过。

@@ -44,7 +44,7 @@ fitLabel: Jogadores que gostam de otimizar comboios, não sprintar mapas.
 timingNote: >-
   Compara a tua fila eShop com a âncora Japão e o fundo de dezembro de 2025
   antes de pagar a mais.
-communityVibe: Fãs de Oatchi, memes de baixas Pikmin, clips táticos cozy
+communityVibe: Oatchi, pressão Dandori e tesouros definem Pikmin 4
 playtime: 18 h história · 29 h+ extras · ~40 h completion
 reviewSignal: 87 Metacritic
 takeaway: >-
@@ -164,7 +164,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Pikmin 4** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **87 Metacritic**.
+**Pikmin 4** vale pela vontade concreta de jogar **Oatchi, pressão Dandori e tesouros definem Pikmin 4**. Se isso combina com você, Compra se gostas das aventuras de estratégia mais calmas da Nintendo e queres já Oatchi, mapas noturnos e duelos Dandori. Acompanha o preço se a tua fila eShop está muito acima do Japão indexado ou se só queres mínimos históricos.; se o preço visto fica perto de ¥6,500, confira antes sua região de Nintendo Switch no GameGulf.
 
 Pikmin 4 continua a ser “sim se combina contigo” — em abril de 2026 trata o preço como retalho puxado pelo Japão com descontos pontuais, não liquidação permanente.
 
@@ -209,7 +209,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Queres ação sem pausa ou odeias gerir unidades frágeis.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. em abril de 2026 trata o preço como retalho puxado pelo Japão com descontos pontuais, não liquidação permanente.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price)** e decide compra vs espera.
+Pense em **Pikmin 4** como uma compra de perfil: o atrativo está em **Oatchi, pressão Dandori e tesouros definem Pikmin 4**, não em preencher backlog por impulso. O pacote entrega **exploração vista de cima, esquadrões por tipo, Oatchi para saltos e transporte, expedições noturnas, ajuda de segundo jogador e batalhas Dandori locais**. É uma boa aposta para quem otimiza rotas de transporte em vez de reflexos puros; perde força se ritmo pausado; perdas doem até o rebobinar vir hábito. O tempo estimado é **18 h história · 29 h+ extras · ~40 h 100%**, então vale pensar se esse espaço cabe na sua rotina.
+
+Use o [GameGulf](https://www.gamegulf.com/detail/c0V9fA7j5D0#currency-price) como última checagem, porque o menor preço atual indexado aparece perto de **EUR 35.34** em **Japão**; o mínimo histórico citado fica em **€35**. Para jogar agora, mire essa faixa regional; para economizar, espere a próxima janela que se aproxime do mínimo histórico.

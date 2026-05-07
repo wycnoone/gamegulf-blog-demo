@@ -36,7 +36,7 @@ mainFriction: Gyro padrão — ajuste antes de julgar.
 timeFit: Por episódio, sessões noturnas.
 fitLabel: Quem já viu promo FR na GameGulf.
 timingNote: Poucas quedas profundas por ano.
-communityVibe: Port 60 fps bem limpo
+communityVibe: Bunny-hop, escopeta e celeiros cultistas acertam o FPS retrô
 reviewSignal: 88 Metacritic
 takeaway: Qualidade decidida — preço vem da GameGulf.
 playStyle: Ação, Aventura, FPS
@@ -128,7 +128,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Veredito rápido
 
-**DUSK** segue **88 Metacritic** no Switch: **três episódios** de tiro retrô/horror, arsenal amplo e bônus **roda/gyro/Rumble/endless** que justificam o port.
+A compra de **DUSK** começa pela pergunta simples: **Bunny-hop, escopeta e celeiros cultistas acertam o FPS retrô** combina com você? Decida pelo desejo real desse ciclo e pelo preço regional no GameGulf, não só por nota ou gênero.
 
 **Promoção** / **menor preço histórico** indexado: **€5,66** (**França**, **2026-02-23**) e **€6,66** (**2025-12-22**), **duas** quedas fortes no ano, **média em promoção ~€6,16**, **65** dias desde o vale. Fileiras **€16,66** doem — veja **[GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)**.
 
@@ -166,6 +166,8 @@ Alvo **60 fps**; gyro opcional; weapon wheel essencial.
 
 - Só aceita **€5–7** — **€5,66** já ocorreu em **2026-02-23**.
 
-## Fechamento
+## Resumo
 
-**DUSK** + **[preços GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** evitam compras sem recibo.
+Para **DUSK**, a pergunta útil é se **Bunny-hop, escopeta e celeiros cultistas acertam o FPS retrô** combina com o que você quer jogar agora. O formato é **ação, aventura e FPS**. É uma boa aposta para fãs de ritmo Quake e horror cult; perde força se gyro padrão — ajuste antes de julgar. O tempo estimado é **Horas por episódio na primeira ida.**, então vale pensar se esse espaço cabe na sua rotina.
+
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price): o menor preço atual indexado aparece perto de **EUR 16.66** em **Alemanha**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

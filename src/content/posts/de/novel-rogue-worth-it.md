@@ -38,7 +38,7 @@ mainFriction: Ohne Kritikeraggregate bleiben Trailer/Demos.
 timeFit: Mehrere Abende Run-Zeit.
 fitLabel: JP-Preis vor EU-Listenpreis lesen.
 timingNote: Schon günstig — nur Backlog stoppt.
-communityVibe: KEMCO-Witze, Deck-RNG, JP-Neid
+communityVibe: Textentscheidungen und Roguelite-Risiko machen Routen unsicher
 reviewSignal: Metacritic — noch kein Metascore (KEMCO-Deck-Rogue)
 takeaway: Novel Rogue ist Nische plus Ticket — GameGulf zeigt den Regionalpreis.
 playStyle: Role-playing, Strategy
@@ -134,7 +134,7 @@ playtime: "Schätzung: ~20–60 Min. pro Run, hoher Wiederholwert"
 ---
 ## Kurz-Fazit
 
-**Novel Rogue** bleibt **KEMCO-Deck-Rogue** ohne **Metacritic**-Leitplanke.
+**Novel Rogue** entscheidet sich an einem konkreten Reiz: **Textentscheidungen und Roguelite-Risiko machen Routen unsicher**. Wenn dich genau das anspricht, gilt: Kaufen, wenn GameGulf JP ~€8 zeigt ; passen, wenn Metacritic Pflicht oder RNG-Hass.; liegt dein sichtbarer Preis bei etwa ¥1540, prüfe vorher deine Nintendo Switch-Region auf GameGulf.
 
 **historischer Tiefstpreis** ~**€5,82** JP (**2026-01-14**), **zwei** starke **Rabatt**-Fenster im Jahr, **mittlerer Sale ~€11,46**, letzte Bewegung vor **43** Tagen (**2026-03-17**, US **€17,10**). JP **€8,32** liegt über dem Januar-Tief aber unter EU — [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price).
 
@@ -172,6 +172,8 @@ Menüs/Karten zuerst — handheld komfortabel.
 
 - Nur **€5,82** akzeptieren — Zeitpunkt offen
 
-## Abschluss
+## Kurz zusammengefasst
 
-Nutze **gamegulf.com** für den nächsten **Rabatt**.
+**Novel Rogue** solltest du nach Spielgefühl kaufen, nicht nach Rabattgröße. Der Anker ist **Textentscheidungen und Roguelite-Risiko machen Routen unsicher**; das passt gut zu Fans kurzer KEMCO-Loops mit RNG-Toleranz. Wenn Metacritic-Pflicht oder RNG-Nein — weg, wird selbst ein niedriger Preis schnell zum Backlog-Kauf. Der Umfang: **Schätzung: ~20–60 Min. pro Run, hoher Wiederholwert**.
+
+Beim Kaufzeitpunkt zählt der Abstand zwischen aktueller Zeile und Tiefstand. Native-Währung vor Checkout prüfen. Nicht tiefster Stand — JP ~€5,82 am **2026-01-14**. Etwa zwei starke Sales im Jahr — nicht monatlich. Auf [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price) siehst du, ob dein eShop gerade im Zielkorridor liegt. Bei unsicherem Fit ist Beobachten sinnvoller als ein spontaner Checkout. 

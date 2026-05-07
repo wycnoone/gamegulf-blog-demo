@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "stardew-valley-worth-it",
+  "url": "https://www.gamegulf.com/detail/hqyYkvm8j6o",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-stardew-valley-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 1,
+  "signal": null,
+  "durationMs": 183807,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"error_max_budget_usd\",\"duration_ms\":183613,\"duration_api_ms\":176898,\"is_error\":true,\"num_turns\":51,\"stop_reason\":\"tool_use\",\"session_id\":\"c6253e3b-bccb-4fcf-9af9-14200ed3c442\",\"total_cost_usd\":4.0605497999999995,\"usage\":{\"input_tokens\":1210539,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":358400,\"output_tokens\":9659,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":1267173,\"outputTokens\":9814,\"cacheReadInputTokens\":372736,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":4.0605497999999995,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"fast_mode_state\":\"off\",\"uuid\":\"ca5b36db-7ae4-43e7-87ba-af3ea3b8c3d1\",\"errors\":[\"Reached maximum budget ($4)\"]}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:18:30.116Z"
+}

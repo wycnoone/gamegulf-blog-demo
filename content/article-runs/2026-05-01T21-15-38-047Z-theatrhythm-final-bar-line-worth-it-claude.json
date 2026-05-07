@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "theatrhythm-final-bar-line-worth-it",
+  "url": "https://www.gamegulf.com/detail/aukf1ve4iil",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-theatrhythm-final-bar-line-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 55781,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":55596,\"duration_api_ms\":54543,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"theatrhythm-final-bar-line-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/theatrhythm-final-bar-line-worth-it.md\\\",\\\"src/content/posts/zh-hans/theatrhythm-final-bar-line-worth-it.md\\\",\\\"src/content/posts/ja/theatrhythm-final-bar-line-worth-it.md\\\",\\\"src/content/posts/fr/theatrhythm-final-bar-line-worth-it.md\\\",\\\"src/content/posts/es/theatrhythm-final-bar-line-worth-it.md\\\",\\\"src/content/posts/de/theatrhythm-final-bar-line-worth-it.md\\\",\\\"src/content/posts/pt/theatrhythm-final-bar-line-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator hard errors across all 7 locales.\\\",\\\"Spot checks look serviceable but somewhat templated/generic in the body memo sections, especially the 'what kind of game' and performance sections.\\\",\\\"zh-hans and ja local display names/FAQ openings are acceptable for this title because the commonly used local name remains the English title; no obvious leftover mismatched SKU string found.\\\",\\\"Price logic is explicit and grounded in GameGulf data: current JP €34.46 vs €59.99 EU storefronts, 1Y low €17.23, 7 discount events, avg sale ~€24, last discount 2026-03-25 HK €17.37.\\\",\\\"Verdict is clear and useful: buy only if your region is already in the sale band; otherwise wait for the next discount window.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/theatrhythm-final-bar-line-worth-it.md src/content/posts/zh-hans/theatrhythm-final-bar-line-worth-it.md src/content/posts/ja/theatrhythm-final-bar-line-worth-it.md src/content/posts/fr/theatrhythm-final-bar-line-worth-it.md src/content/posts/es/theatrhythm-final-bar-line-worth-it.md src/content/posts/de/theatrhythm-final-bar-line-worth-it.md src/content/posts/pt/theatrhythm-final-bar-line-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on the first run, so no revisions were needed. Score reflects strong pricing/verdict localization compliance with some quality deduction for generic memo depth in the sampled body sections.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"da014fbb-0571-43ce-919e-4148f169e991\",\"total_cost_usd\":0.7129986,\"usage\":{\"input_tokens\":217336,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":2059,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":217336,\"outputTokens\":2059,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7129986,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"079fcd1c-a226-4210-bcff-248248c6a9f6\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:41:17.320Z"
+}

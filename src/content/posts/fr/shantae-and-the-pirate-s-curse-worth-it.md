@@ -1,8 +1,6 @@
 ---
 title: Shantae and the Pirate's Curse sur Switch en 2026 — pour qui ?
-description: >-
-  Mémo avril 2026 : plateforme WayForward ~86 Metacritic, boucle Pirate Gear, et
-  historique GameGulf (bas ~8,11 € en ES, 2025-11-17).
+description: "Mémo avril 2026 : plateforme WayForward ~86 Metacritic, boucle Pirate Gear, et historique GameGulf (bas ~8,11 € en ES, 2025-11-17)."
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -13,10 +11,8 @@ primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 min de lecture
-decision: >-
-  Très bon pour les fans WayForward ; la ligne ~16,22 € actuelle mérite alerte
-  ou patience versus anciennes promos.
-priceSignal: Creux indexés ~8,11 € (ES) contre étiquettes euro ~16,22 € aujourd'hui.
+decision: Très bon pour les fans WayForward ; la ligne ~16,22 € actuelle mérite alerte ou patience versus anciennes promos.
+priceSignal: "Ligne basse repérée: Allemagne €16.22; comparez votre région avant paiement"
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price
 gameHref: https://www.gamegulf.com/detail/2FXuQLdeecV
@@ -29,16 +25,16 @@ priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: Chapitre pirate Shantae ; GameGulf ~16,22 € vs bas ~8,11 € (ES).
-whatItIs: "Plateforme 2D : fouet cheveux + pistolet, sabre, chapeau, saut canon."
-bestFor: Fans de plateformes colorées et animation soignée.
-avoidIf: Vous haïssez le retour arrière pour calamars cœur.
-consensusPraise: ~86 Metacritic ; Steam très positif mais échantillon plus petit.
-mainFriction: Oublis de collecte = allers-retours plus tard.
+listingTakeaway: Chapitre pirate Shantae ; GameGulf ~16,22 € vs bas ~8,11 € (ES)
+whatItIs: "Plateforme 2D : fouet cheveux + pistolet, sabre, chapeau, saut canon"
+bestFor: Pour qui accroche à Équipement pirate, Risky.
+avoidIf: Vous haïssez le retour arrière pour calamars cœur
+consensusPraise: ~86 Metacritic ; Steam très positif mais échantillon plus petit
+mainFriction: Oublis de collecte = allers-retours plus tard
 timeFit: Un week-end pour finir ; 100 % plus long.
-fitLabel: Comparez étiquette euro à l'historique promo GameGulf.
+fitLabel: Profil attiré par Équipement pirate, Risky et upgrades sans
 timingNote: Si déjà proche d'un bon palier, le goût tranche.
-communityVibe: Série culte WayForward — animation et OST souvent louées
+communityVibe: Équipement pirate, Risky et upgrades sans danse affûtent Shantae
 reviewSignal: 86 Metacritic
 takeaway: Qualité évidente pour les bons goûts ; timing = courbe GameGulf.
 playStyle: Action, Adventure, Platformer
@@ -47,9 +43,7 @@ playMode: Solo aventure (coop selon fiche).
 whyNow: Trois baisses suivies sur 1 an — courbe lisible.
 currentDeal: Tête de tableau souvent en euros — vérifiez la devise native.
 nearHistoricalLow: Loin du bas ~8,11 € espagnol ; prix catalogue probable.
-salePattern: >-
-  Trois baisses / an indexées ; bas global ~8,11 € (ES, 2025-11-17) ; promo moy.
-  ~10,45 € ; dernière forte baisse ~9,73 € (FR, 2025-12-31).
+salePattern: Trois baisses / an indexées ; bas global ~8,11 € (ES, 2025-11-17) ; promo moy. ~10,45 € ; dernière forte baisse ~9,73 € (FR, 2025-12-31).
 priceRecommendation: watch
 quickFilters:
   - short_sessions
@@ -75,27 +69,16 @@ communityMemes:
   - checklist îles
   - danse flex
   - minuteur promo
-tldr: >-
-  Shantae and the Pirate's Curse — ~86 Metacritic ; GameGulf dit de surveiller
-  les promos.
+tldr: Shantae and the Pirate's Curse — ~86 Metacritic ; GameGulf dit de surveiller les promos.
 faq:
   - question: Shantae and the Pirate's Curse vaut-il le coup en 2026 ?
-    answer: >-
-      Shantae and the Pirate's Curse vaut encore le coup en 2026 si vous voulez
-      du WayForward platformer avec gadgets pirates et ~86 Metacritic — mais
-      GameGulf montre des bas ~8,11 € passés face à des lignes ~16,22 €
-      aujourd'hui.
+    answer: Shantae and the Pirate's Curse vaut encore le coup en 2026 si vous voulez du WayForward platformer avec gadgets pirates et ~86 Metacritic — mais GameGulf montre des bas ~8,11 € passés face à des lignes ~16,22 € aujourd'hui.
   - question: Quelle durée ?
-    answer: >-
-      Shantae and the Pirate's Curse — un week-end pour l'histoire ; cartes et
-      calamars allongent si vous visez 100 %.
+    answer: Shantae and the Pirate's Curse — un week-end pour l'histoire ; cartes et calamars allongent si vous visez 100 %.
   - question: Où comparer les prix ?
-    answer: >-
-      Shantae and the Pirate's Curse — grille GameGulf
-      https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price .
+    answer: Shantae and the Pirate's Curse — grille GameGulf https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price .
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
 playtime: "Estimation : runs de ~5–15 min, rejouabilité élevée"
 priceRows:
   - regionCode: DE
@@ -139,7 +122,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Verdict rapide
 
-**Shantae and the Pirate's Curse** enlève la **magie génie** et file à **Shantae** un kit **pirate** (pistolet, sabre, chapeau, saut canon) pour débloquer des **îles maudites** en **2D** hyper animée.**~86 Metacritic** sur Switch colle à l'accord commun : **hitboxes** lisibles, **fouet** satisfaisant.**GameGulf** : **trois** baisses suivies l'année passée, **plus bas historique ~8,11 €** en **Espagne (2025-11-17)**, **promo moyenne ~10,45 €**, pendant que beaucoup d'eShop **européens restent ~16,22 €** — ce n'est **pas** un **historical low** sans ligne promo.
+Pour décider sur **Shantae and the Pirate's Curse**, commencez par cette promesse concrète : **Équipement pirate, Risky et upgrades sans danse affûtent Shantae**. La bonne décision dépend moins du score que de votre envie réelle pour cette boucle, puis du prix régional vérifié sur GameGulf.
 
 **[Lignes GameGulf](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** clarifient **promo** vs catalogue.
 
@@ -183,6 +166,9 @@ Visée **60 fps** pour plateforme précise ; **portable** lisible.**Ralentisseme
 - Vous ne voulez que le **plus bas historique**.
 - **Backtrack calamars** vous fatigue.
 
-## Dernier mot
+## En résumé
 
-Goût **oui** pour les fans ; **gamegulf.com** sur **[cette fiche](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** évite de valider **16,22 €** sans **promo**.
+
+L’intérêt de **Shantae and the Pirate's Curse** tient au toucher de jeu : déplacements, timing et petites découvertes comptent plus qu’une simple liste de niveaux. Équipement pirate, Risky et upgrades sans danse affûtent Shantae parlera aux joueurs patients; les autres devraient attendre une remise plus nette. Prenez runs de ~5–15 min, rejouabilité élevée comme ordre de grandeur pour juger l’achat.
+
+Avant d’acheter, regardez surtout le repère bas : €16.22 en Allemagne. Tête de tableau souvent en euros — vérifiez la devise native. Loin du bas ~8,11 € espagnol ; prix catalogue probable. Trois baisses / an indexées ; bas global ~8,11 € (ES, 2025-11-17) ; promo moy. ~10,45 € ; dernière forte baisse ~9,73 € (FR, 2025-12-31). Avant de valider l’achat, comparez votre ligne sur [GameGulf](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price) avec le plus bas enregistré. Si vous voulez jouer tout de suite, comparez la devise de votre compte; pour maximiser la valeur, attendez que GameGulf signale une remise plus franche.

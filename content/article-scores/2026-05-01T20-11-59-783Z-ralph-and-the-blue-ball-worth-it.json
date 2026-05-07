@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "ralph-and-the-blue-ball-worth-it",
+  "url": "https://www.gamegulf.com/detail/9dkByNIzFvF",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/ralph-and-the-blue-ball-worth-it.md",
+    "src/content/posts/zh-hans/ralph-and-the-blue-ball-worth-it.md",
+    "src/content/posts/ja/ralph-and-the-blue-ball-worth-it.md",
+    "src/content/posts/fr/ralph-and-the-blue-ball-worth-it.md",
+    "src/content/posts/es/ralph-and-the-blue-ball-worth-it.md",
+    "src/content/posts/de/ralph-and-the-blue-ball-worth-it.md",
+    "src/content/posts/pt/ralph-and-the-blue-ball-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T20:57:24.071Z"
+}

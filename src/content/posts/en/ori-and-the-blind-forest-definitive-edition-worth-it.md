@@ -52,7 +52,7 @@ fitLabel: Players warming up for Ori and the Will of the Wisps-level spectacle
 timingNote: >-
   Compare your storefront row with Japan’s indexed anchor before rationalizing
   EU MSRP.
-communityVibe: Soul Links burn; Ginso water turns one more try into an hour.
+communityVibe: Bash tricks, Ginso Tree panic, and forest grief still hit hard
 playtime: ~9h main · ~11h+ extras · ~13h completionist
 reviewSignal: 90 Metacritic
 takeaway: >-
@@ -190,15 +190,14 @@ priceRows:
 cardPriceEur: 11.08
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 12.97
+cardPrice: USD 13.04
 cardPriceNative: ¥2,052
 cardPriceNativeCurrency: JPY
 ---
 
-
 ## Quick verdict
 
-**Ori and the Blind Forest: Definitive Edition** lands **90 Metacritic** momentum-platforming on **Switch**, yet **GameGulf’s April 2026 snapshot** still opens with **Japan near €11.08 (¥2,052)** while several **EU storefronts list €19.99** — a yawning gap for the same SKU.
+**Ori and the Blind Forest: Definitive Edition** earns attention through **Bash tricks, Ginso Tree panic, and forest grief still hit hard**. Treat it as a fit-and-price decision: Lean toward alerts if you sit on €19.99-class EU shelves while Brazil logged an indexed historic low near €4.15 in March 2026 — jump sooner when Japan already shows the €11.08-class anchor and you simply want the 90 Metacritic campaign tonight.; then compare your Nintendo Switch row on GameGulf before paying ¥2,052.
 
 Discount telemetry matters here: the feed logs **four** yearly **sale** pulses averaging **~€10.57** whenever prices actually move, while **Brazil** captured a **historical low near €4.15 on 2026-03-09** — miles below April list tiers.
 
@@ -211,14 +210,14 @@ Treat **[GameGulf live pricing](https://www.gamegulf.com/detail/e64l6e8kvjr#curr
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 12.97 | ¥2,052 |
-| Brazil | USD 19.43 | R$99 |
-| United States | USD 20.01 | $19.99 |
-| United Kingdom | USD 20.16 | £14.99 |
-| Germany | USD 23.39 | €19.99 |
-| Spain | USD 23.39 | €19.99 |
-| France | USD 23.39 | €19.99 |
-| Italy | USD 23.39 | €19.99 |
+| Japan | USD 13.04 | ¥2,052 |
+| Brazil | USD 19.54 | R$99 |
+| United States | USD 20.13 | $19.99 |
+| United Kingdom | USD 20.28 | £14.99 |
+| Germany | USD 23.53 | €19.99 |
+| Spain | USD 23.53 | €19.99 |
+| France | USD 23.53 | €19.99 |
+| Italy | USD 23.53 | €19.99 |
 
 Discount math leans patient: **historical low** telemetry still points to **€4.15** in **Brazil**, **average discount-era prints near €10.57**, and **EU MSRP** sitting closer to **€19.99** — paying sticker without revisiting **[GameGulf](https://www.gamegulf.com/detail/e64l6e8kvjr#currency-price)** is optional.
 
@@ -250,6 +249,8 @@ Discount math leans patient: **historical low** telemetry still points to **€4
 - **checkpoint scarcity** already annoyed you in Celeste-style loops — Ori stacks stakes differently but punishes greedy Soul Link placement similarly.
 - your wallet prefers certainty — route **[GameGulf alerts](https://www.gamegulf.com/detail/e64l6e8kvjr#currency-price)** toward Brazil/US tiers before accepting sticker shock.
 
-## Closing take
+## Summary
 
-**Ori and the Blind Forest: Definitive Edition** still earns tears-on-a-controller reactions whenever **Moon Studios** cues another choral swell — April 2026 pricing simply insists you compare **Japan anchors**, **EU MSRP**, and **Brazil historic lows** simultaneously. Re-open **[GameGulf for Ori and the Blind Forest](https://www.gamegulf.com/detail/e64l6e8kvjr#currency-price)**, log your tolerance bands, then buy when the math—not nostalgia—says go.
+**Ori and the Blind Forest: Definitive Edition** is easiest to recommend to Fans of momentum jumps, map-wide upgrades & cinematic indie. In practice, it means ability-gated map reroutes, orb-spend progression, Soul Link checkpoint placement, Definitive Edition fast-travel unlocks, optional harder lanes beyond the campaign spine. The upside is clear: art, animation score, and traversal clarity still anchor recommendations. The catch is escape gauntlets & sparse checkpoints surface often in common player chatter. Use **~9h main · ~11h+ extras · ~13h completionist** as the rough time commitment. If strict chase timers or retry-heavy gauntlets drain you faster than they, there is no need to force it just because it is discounted.
+
+On price, separate a fair current buy from a true floor. Indexed stacks begin with Japan near €11.08 while Brazil, US, and UK step through mid-teens euros and multiple EU territories print €19.99 MSRP-class shelves in the same GameGulf pull. No — Brazil still carries the feed’s €4.15 capture on 2026-03-09, and December 2025 also logged volatile UK prints far below April list pricing. Four distinct discount events shaped the trailing year with an average discount-era price near €10.57; the latest tagged move landed 2026-04-01 in Brazil (~€16.6 context) roughly four weeks before this refresh. If you want to play soon, check [GameGulf pricing](https://www.gamegulf.com/detail/e64l6e8kvjr#currency-price) against your region; if you only want the lowest possible entry, set an alert and wait for a deeper sale.

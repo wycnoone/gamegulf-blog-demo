@@ -44,7 +44,7 @@ mainFriction: B-sides and goldens are meant to sting — retries are the onboard
 timeFit: Roughly eight hours competent main climbs; Farewell blows up timelines.
 fitLabel: Fits if retries feel like tuning, not sabotage from the game.
 timingNote: Promo end dates on EU rows move fast — reopen GameGulf before Checkout.
-communityVibe: Dash-climb mountain therapy — until 7B laughs at you.
+communityVibe: Dash resets, strawberry greed, and B-side pain define the climb
 playtime: ~8h main · ~15h+ extras · ~39h completionist-friendly
 reviewSignal: 92 Metacritic
 takeaway: >-
@@ -146,7 +146,7 @@ priceRows:
 cardPriceEur: 4.99
 cardPriceRegionCode: IT
 cardPriceRegion: Italy
-cardPrice: USD 5.84
+cardPrice: USD 5.87
 cardPriceNative: €4.99
 cardPriceNativeCurrency: EUR
 faq:
@@ -169,10 +169,9 @@ faq:
       expect lab-level routing — know that before you chase goldens.
 ---
 
-
 ## Quick verdict
 
-**Celeste** holds **~92 Metacritic** because it pairs **tight jump / air-dash / climb** mechanics with a **chapter-mapped mountain** and **Assist Mode** that keeps the **story path** reachable while **B-sides** and **remix tracks** still serve hardcore players. **GameGulf**’s April 2026 snapshot places **Italy and Portugal** near **€4.99** on the indexed table while **Japan and the United States** sit nearer **¥2,160** / **$19.99‑class tiers** — your **worth-it** calculation is **`account-region price × taste`** more than **one universal Switch MSRP**.
+**Celeste** earns attention through **Dash resets, strawberry greed, and B-side pain define the climb**. Treat it as a fit-and-price decision: Buy on taste and row: Celeste stays a benchmark narrative platformer at ~92 Metacritic; April 2026 Italy/Portugal indexed tiers show a steep limited-time discount while JP/US sit higher on the same matrix.; then compare your Nintendo Switch row on GameGulf before paying €4.99.
 
 **GameGulf** publishes **[fresh regional tiers](https://www.gamegulf.com/detail/83uNBGDNnOl#currency-price)** for this listing so conversions are less guesswork at checkout than forum screenshots.
 
@@ -183,13 +182,13 @@ faq:
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Italy | USD 5.84 | €4.99 |
-| Portugal | USD 5.84 | €4.99 |
-| Brazil | USD 11.77 | R$59.99 |
-| Japan | USD 13.66 | ¥2,160 |
-| United States | USD 20.01 | $19.99 |
-| Germany | USD 23.39 | €19.99 |
-| United Kingdom | USD 24.20 | £17.99 |
+| Italy | USD 5.87 | €4.99 |
+| Portugal | USD 5.87 | €4.99 |
+| Brazil | USD 11.84 | R$59.99 |
+| Japan | USD 13.74 | ¥2,160 |
+| United States | USD 20.13 | $19.99 |
+| Germany | USD 23.53 | €19.99 |
+| United Kingdom | USD 24.34 | £17.99 |
 
 *(Snapshot pricing — storefront promos expire; cross-check **`gameHref`** tier before purchase.)*
 
@@ -222,6 +221,8 @@ faq:
 - Your **region** still shows **$19.99 / ¥2,160-class** anchors and your policy is **“only deep sale”** — queue a **GameGulf price alert** instead of **impulse at MSRP-tier** rows you dislike.
 - You **loathe** **frame-precise** **cycles** and will not touch **Assist** — the **campaign** still demands **some** manual **clean** **routes**.
 
-## Closing take
+## Summary
 
-**Celeste** is still **one of Switch’s best pure platformers** on **taste**; **GameGulf** makes the **2026** **pricing** story **honest** by showing **EU flash tiers** and **JP/US** **anchors** **side-by-side**. Match **row to wallet**, then either **buy** or **watch** with **data**, not hype.
+**Celeste** earns its reputation because the basic moves stay readable while the room design keeps finding sharper uses for jump, dash, climb, stamina, and reset timing. Assist Mode means the story is not locked behind perfection, but the optional B-sides, C-sides, berries, and Farewell chapter are still built for players who enjoy dense retry loops. Buy it if failure feels like tuning a route; skip or wait if you want open exploration, combat builds, or a platformer that rarely asks for repeated attempts.
+
+Price is the easy part in this 2026 GameGulf snapshot: Italy and Portugal sit at **€4.99**, while Japan is **¥2,160** and the US is **$19.99**. The indexed historical-low fields are sparse and the tracked sale / discount count reads **0** in the one-year window, so the live regional table matters more than folklore about constant sales. If your account can use the €4.99 rows, buy now; if you only see list-price tiers, put it on a GameGulf alert and wait for the next visible markdown.

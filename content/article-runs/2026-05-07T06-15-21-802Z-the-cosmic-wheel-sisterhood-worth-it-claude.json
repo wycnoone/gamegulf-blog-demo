@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "the-cosmic-wheel-sisterhood-worth-it",
+  "url": "https://www.gamegulf.com/detail/klXFe9KFi82",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-the-cosmic-wheel-sisterhood-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 47753,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":47573,\"duration_api_ms\":46455,\"num_turns\":13,\"result\":\"{\\n  \\\"status\\\": \\\"passed\\\",\\n  \\\"slug\\\": \\\"the-cosmic-wheel-sisterhood-worth-it\\\",\\n  \\\"score\\\": 88,\\n  \\\"revisionAttempts\\\": 0,\\n  \\\"validated\\\": true,\\n  \\\"articlePaths\\\": [\\n    \\\"src/content/posts/en/the-cosmic-wheel-sisterhood-worth-it.md\\\",\\n    \\\"src/content/posts/zh-hans/the-cosmic-wheel-sisterhood-worth-it.md\\\",\\n    \\\"src/content/posts/ja/the-cosmic-wheel-sisterhood-worth-it.md\\\",\\n    \\\"src/content/posts/fr/the-cosmic-wheel-sisterhood-worth-it.md\\\",\\n    \\\"src/content/posts/es/the-cosmic-wheel-sisterhood-worth-it.md\\\",\\n    \\\"src/content/posts/de/the-cosmic-wheel-sisterhood-worth-it.md\\\",\\n    \\\"src/content/posts/pt/the-cosmic-wheel-sisterhood-worth-it.md\\\"\\n  ],\\n  \\\"issues\\\": [\\n    \\\"Validator passes with zero errors across all seven locales.\\\",\\n    \\\"en/zh-hans/ja spot checks use the expected game display name and localized FAQ prefixes.\\\",\\n    \\\"Buying decision and price logic are clear, with GameGulf rows, current cheapest Brazil €9.52, historical low €4.50, 6 discount events, and average sale €7.84.\\\",\\n    \\\"Quality is above threshold, but body copy still has some generator-like generic lines such as broad core-loop/performance phrasing, so no revision was required.\\\"\\n  ],\\n  \\\"commandsRun\\\": [\\n    \\\"node scripts/validate-article.mjs \\\\\\\"src/content/posts/en/the-cosmic-wheel-sisterhood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/zh-hans/the-cosmic-wheel-sisterhood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/ja/the-cosmic-wheel-sisterhood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/fr/the-cosmic-wheel-sisterhood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/es/the-cosmic-wheel-sisterhood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/de/the-cosmic-wheel-sisterhood-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/pt/the-cosmic-wheel-sisterhood-worth-it.md\\\\\\\"\\\"\\n  ],\\n  \\\"notes\\\": \\\"No markdown changes were made because validation passed and the scored article set is above the 85 threshold.\\\"\\n}\",\"stop_reason\":\"end_turn\",\"session_id\":\"a79c8185-f01f-41a3-b855-52b921239cb3\",\"total_cost_usd\":0.7096955999999999,\"usage\":{\"input_tokens\":215580,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":2190,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":215580,\"outputTokens\":2190,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7096955999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"f9799ab6-e5f7-47d4-87fe-0e4f308cb3ec\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:51:43.994Z"
+}

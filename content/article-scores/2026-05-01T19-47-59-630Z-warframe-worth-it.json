@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "warframe-worth-it",
+  "url": "https://www.gamegulf.com/detail/4iEFCE29B3u",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/warframe-worth-it.md",
+    "src/content/posts/zh-hans/warframe-worth-it.md",
+    "src/content/posts/ja/warframe-worth-it.md",
+    "src/content/posts/fr/warframe-worth-it.md",
+    "src/content/posts/es/warframe-worth-it.md",
+    "src/content/posts/de/warframe-worth-it.md",
+    "src/content/posts/pt/warframe-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T19:58:48.302Z"
+}

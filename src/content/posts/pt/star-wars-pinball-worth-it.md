@@ -25,16 +25,16 @@ priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: 86 Metacritic; GameGulf tem antigos ~€10 versus etiquetas 2026 mais altas.
-whatItIs: Pacote Zen — 19 mesas Star Wars, carreira, ligas, vertical no Switch.
-bestFor: Fãs de pinball que giram várias mesas Star Wars.
-avoidIf: Quer só uma mesa — procure outro desconto.
-consensusPraise: Crítica ~86 Metacritic; polimento Zen sólido.
-mainFriction: Online não paga se você fica offline sempre.
+listingTakeaway: "Star Wars Pinball: Missões, salvar bola e falas Star Wars sustentam; confira EUA $29.99"
+whatItIs: Pacote Zen — 19 mesas Star Wars, carreira, ligas, vertical no Switch
+bestFor: Fãs de pinball que giram várias mesas Star Wars
+avoidIf: Quer só uma mesa — procure outro desconto
+consensusPraise: Crítica ~86 Metacritic; polimento Zen sólido
+mainFriction: Online não paga se você fica offline sempre
 timeFit: Sessões curtas de carreira no portátil.
-fitLabel: Quem cria alerta GameGulf antes do caro.
+fitLabel: Quem cria alerta GameGulf antes do caro
 timingNote: Muitos dias desde a última queda forte.
-communityVibe: Muitas mesas, carreira ideal no busão
+communityVibe: Missões, salvar bola e falas Star Wars sustentam
 reviewSignal: 86 Metacritic
 takeaway: Qualidade fixa; preço depende do tile GameGulf hoje.
 playStyle: Arcade, Simulação, Pinball
@@ -67,25 +67,16 @@ communityMemes:
   - medo das 19 mesas
   - grind de Force powers
   - pânico no ranking
-tldr: >-
-  Star Wars Pinball — 86 Metacritic; GameGulf mostra abril/2026 acima dos fundos
-  de 2025 — compre se ama o pacote, senão alerta.
+tldr: Star Wars Pinball — 86 Metacritic; GameGulf mostra abril/2026 acima dos fundos de 2025 — compre se ama o pacote, senão alerta.
 faq:
   - question: Vale a pena Star Wars Pinball no Switch em 2026?
-    answer: >-
-      Star Wars Pinball vale a pena se você curte Zen e vai jogar várias mesas;
-      senão compare GameGulf com a última promo profunda antes do preço cheio.
+    answer: Star Wars Pinball vale a pena se você curte Zen e vai jogar várias mesas; senão compare GameGulf com a última promo profunda antes do preço cheio.
   - question: O que vem na versão Switch?
-    answer: >-
-      Star Wars Pinball — 19 mesas, carreira, poderes Force e modos online
-      segundo a ficha Nintendo; revise requisitos ao vivo.
+    answer: Star Wars Pinball — 19 mesas, carreira, poderes Force e modos online segundo a ficha Nintendo; revise requisitos ao vivo.
   - question: Onde comparar preços Switch?
-    answer: >-
-      Star Wars Pinball — grade GameGulf
-      https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price .
+    answer: Star Wars Pinball — grade GameGulf https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price .
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676626216804.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177515676626216804.jpeg
 priceRows:
   - regionCode: US
     eurPrice: 25.66
@@ -128,7 +119,7 @@ cardPriceNativeCurrency: USD
 ---
 ## Veredito rápido
 
-**Star Wars Pinball** segue na faixa **86 Metacritic** no Switch: **19 mesas Zen**, **carreira com 50 patentes** e **vertical + HD Rumble** sustentam o pacote em **2026** se você realmente abre o jogo.
+**Star Wars Pinball** vale pela vontade concreta de jogar **Missões, salvar bola e falas Star Wars sustentam**. Se isso combina com você, Ótimo para fãs de pinball; o preço atual pede promoção ou alerta.; se o preço visto fica perto de $29.99, confira antes sua região de Nintendo Switch no GameGulf.
 
 **Promoção** / **menor preço histórico** indexado: ~**€10,26** (**EUA**, **2025-12-22**) e ~**€11,99** (**França**, **2025-11-17**); só **duas** quedas fortes em 12 meses, **média em promoção ~€11,13** e **128** dias desde o vale. Confira **[GameGulf](https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price)** antes de pagar alto.
 
@@ -178,6 +169,8 @@ Pinball **2D** roda estável; **dock/portátil** muda escala.
 - Odeia **grind** / online obrigatório imaginário.
 - **PC** já resolve.
 
-## Fechamento
+## Resumo
 
-Qualidade óbvia, preço negociável via **GameGulf** — **[preços](https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price)** ou alerta em **gamegulf.com**.
+**Star Wars Pinball** funciona melhor para quem olha para **Missões, salvar bola e falas Star Wars sustentam** e já imagina sessões reais, curtas ou longas, no portátil. O conteúdo se apoia em **arcade, simulação e pinball**. É uma boa aposta para fãs de pinball que giram várias mesas Star Wars; perde força se online não paga se você fica offline sempre. O sinal **86 Metacritic** ajuda a calibrar expectativa, mas a decisão continua sendo de encaixe com o estilo. O tempo estimado é **Minutos por mesa conforme habilidade.**, então vale pensar se esse espaço cabe na sua rotina.
+
+No preço, o menor preço atual indexado aparece perto de **EUR 25.66** em **Estados Unidos**. Se a sua linha no [GameGulf](https://www.gamegulf.com/detail/1wHJMRuRjHR#currency-price) estiver perto desse patamar, a compra hoje é razoável; se a loja local ficar acima do histórico, deixe em alerta e espere outra promoção.

@@ -37,7 +37,7 @@ mainFriction: Kürzer als JRPG zum Listenpreis — Wert liegt in Dichte und Wied
 timeFit: ~10 h Hauptstory, ~14 h Extras, ~20 h Completion.
 fitLabel: Für kurze Sessions, Sofa-Koop und Nintendo-Polish.
 timingNote: Japan-Anker als Wertreferenz — tiefe Sale-Historie ist hier dünn.
-communityVibe: Wonder-Flower-Memes, Elefanten-Mario, Rettungs-Standees
+communityVibe: Wunderblumen, Abzeichen und Elefant frischen 2D-Mario auf
 playtime: 10h main · 14h+ extras · ~20h completionist
 reviewSignal: 92 Metacritic
 takeaway: >-
@@ -150,7 +150,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Kurzfazit
 
-**Super Mario Bros. Wonder** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **92 Metacritic**.
+**Super Mario Bros. Wonder** entscheidet sich an einem konkreten Reiz: **Wunderblumen, Abzeichen und Elefant frischen 2D-Mario auf**. Wenn dich genau das anspricht, gilt: Zum Listenpreis ein klarer Kauf, wenn du polierten 2D-Mario mit Wonder-Effekten und Sofa-Koop willst — Nintendo-first-party wird hier selten stark rabattiert. Nur überspringen, wenn du nur historische Tiefstpreise suchst oder 2D-Mario nicht magst.; liegt dein sichtbarer Preis bei etwa ¥6,500, prüfe vorher deine Nintendo Switch-Region auf GameGulf.
 
 Wonder ist der moderne 2D-Mario-Maßstab — Listenpreis zahlen, wenn das Format passt; Alarm nur bei strikter Ablehnung von First-Party-Preisen.
 
@@ -195,7 +195,8 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - Budget derzeit fuer andere Titel reserviert ist
 - Überspringen bei nur Tiefpreis-Jagd oder Abneigung gegen 2D-Mario.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Listenpreis zahlen, wenn das Format passt; Alarm nur bei strikter Ablehnung von First-Party-Preisen.
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price)** und entscheide dann Buy-now vs Wait.
+**Super Mario Bros. Wonder** passt vor allem zu Familien mit kurzen Levels und Koop. Der konkrete Reiz: **Wunderblumen, Abzeichen und Elefant frischen 2D-Mario auf**. Als Gegencheck gilt: Überspringen bei nur Tiefpreis-Jagd oder Abneigung gegen 2D-Mario. Der grobe Zeitrahmen liegt bei **10h main · 14h+ extras · ~20h completionist**.
+
+Beim Timing bleibt die GameGulf-Tabelle der praktische Filter. April-2026-Snapshot: Japan ~35,34 € (¥6.500) vorne, dann Hongkong, USA, Brasilien. In diesem Feed praktisch ja — getracktes Tief entspricht Japan-Listenpreis, keine separaten Sale-Drucke im Jahr. First-Party-Mario auf Switch selten tief im Index — eher Liste oder moderate Promos. Öffne die [GameGulf-Preisübersicht](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price) und vergleiche Region, Tiefpunkt und Sale-Muster. Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

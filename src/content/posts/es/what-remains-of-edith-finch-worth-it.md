@@ -40,7 +40,7 @@ mainFriction: Es breve — pagas por minuto de calidad, no por relleno.
 timeFit: ~2h historia, ~3h extras, ~3h completista (agregados).
 fitLabel: Para quien prefiere dos horas perfectas a veinte mediocres.
 timingNote: Compara €4,99 ES con el mínimo histórico ~€2,86 BR antes de esperar.
-communityVibe: El clip de Lewis va primero; la casa es una playlist triste.
+communityVibe: Cada habitación Finch cambia controles y deja marca
 playtime: 2h historia · 3h+ extras · ~3h completista
 reviewSignal: 88 Metacritic
 takeaway: >-
@@ -52,7 +52,9 @@ playStyle: >-
 timeCommitment: sugiere ~2h en historia principal y ~3h con extras.
 playMode: Un jugador.
 whyNow: El juego ya es clásico — solo cambia el precio de tu tienda.
-currentDeal: "Abril 2026: España ~€4,99, luego Brasil/Japón/EE. UU. antes de precio de lista en Europa."
+currentDeal: >-
+  Abril 2026: España ~€4,99, luego Brasil/Japón/EE. UU. antes de precio de lista
+  en Europa.
 nearHistoricalLow: >-
   No — el tracker sigue mostrando ~€2,86 (Brasil, 14 abr. 2025) como referencia
   más baja.
@@ -167,7 +169,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Veredicto rapido
 
-**What Remains of Edith Finch** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **88 Metacritic**.
+**What Remains of Edith Finch** se decide por una idea concreta: **Cada habitación Finch cambia controles y deja marca**. Si eso te apetece de verdad, Cómpralo en oferta si quieres una obra narrativa corta — abril 2026 indexa España ~€4,99 con promo fuerte mientras el histórico global sigue más bajo en Brasil (2025).; si el precio que ves ronda €4.99, comprueba antes tu región de Nintendo Switch en GameGulf.
 
 What Remains of Edith Finch sigue siendo compra fácil en oferta para fans del relato — la promo ES es fuerte pero no es el suelo histórico del tracker.
 
@@ -215,7 +217,8 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 - este mes priorizas otros juegos
 - Evítalo si el duelo te afecta hoy — aunque haya descuento fuerte.
 
-## Cierre
+## Resumen
 
-Primero precio, luego gusto: aqui funciona mejor ese orden. la promo ES es fuerte pero no es el suelo histórico del tracker.
-Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)** y decide comprar o esperar.
+**What Remains of Edith Finch** tiene sentido si buscas quien quiere densidad en ~2h, no un RPG de 30h. Lo que debe atraerte es cada habitación Finch cambia controles y deja marca. La experiencia se concreta en exploración en primera persona, interacciones ligeras, capítulos que cambian de género. El principal roce es es breve — pagas por minuto de calidad, no por relleno; si el duelo te afecta hoy — aunque haya descuento fuerte, no lo compres solo por la rebaja. La escala también cuenta: 2h historia · 3h+ extras · ~3h completista.
+
+La parte económica depende mucho de tu región y de la próxima ventana de oferta. Abril 2026: España ~€4,99, luego Brasil/Japón/EE. UU. antes de precio de lista en Europa. No está en mínimo: el tracker sigue mostrando ~€2,86 (Brasil, 14 abr. 2025) como referencia más baja. Nueve rebajas en el año; precio medio en descuento ~€5,58 antes de volver a precio de lista. Míralo en [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) y decide según urgencia: compra en zona baja, espera si todavía está cerca del PVP.

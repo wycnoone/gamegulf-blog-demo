@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "overcooked-2-worth-it",
+  "url": "https://www.gamegulf.com/detail/c4NsGCd06I6",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-overcooked-2-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 294633,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":294446,\"duration_api_ms\":291984,\"num_turns\":30,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"overcooked-2-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":1,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/overcooked-2-worth-it.md\\\",\\\"src/content/posts/zh-hans/overcooked-2-worth-it.md\\\",\\\"src/content/posts/ja/overcooked-2-worth-it.md\\\",\\\"src/content/posts/fr/overcooked-2-worth-it.md\\\",\\\"src/content/posts/es/overcooked-2-worth-it.md\\\",\\\"src/content/posts/de/overcooked-2-worth-it.md\\\",\\\"src/content/posts/pt/overcooked-2-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validation passed, but EN/zh-hans/JA spot checks showed template-heavy copy that underused brief-specific co-op and kitchen anchors.\\\",\\\"Revised only sampled locales (en, zh-hans, ja) to make buy/wait logic more concrete around four-player co-op, Joy-Con use, dynamic kitchens, and the Japan-vs-US/EU price spread.\\\",\\\"One follow-up validator failure appeared in ja for missing concrete discount-history phrasing; fixed with explicit historical low / 1-year event-count wording, then revalidated successfully.\\\",\\\"Non-sampled locales (fr, es, de, pt) were validator-clean and not modified per the constrained workflow.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/overcooked-2-worth-it.md src/content/posts/zh-hans/overcooked-2-worth-it.md src/content/posts/ja/overcooked-2-worth-it.md src/content/posts/fr/overcooked-2-worth-it.md src/content/posts/es/overcooked-2-worth-it.md src/content/posts/de/overcooked-2-worth-it.md src/content/posts/pt/overcooked-2-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/overcooked-2-worth-it.md src/content/posts/zh-hans/overcooked-2-worth-it.md src/content/posts/ja/overcooked-2-worth-it.md src/content/posts/fr/overcooked-2-worth-it.md src/content/posts/es/overcooked-2-worth-it.md src/content/posts/de/overcooked-2-worth-it.md src/content/posts/pt/overcooked-2-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/overcooked-2-worth-it.md src/content/posts/zh-hans/overcooked-2-worth-it.md src/content/posts/ja/overcooked-2-worth-it.md src/content/posts/fr/overcooked-2-worth-it.md src/content/posts/es/overcooked-2-worth-it.md src/content/posts/de/overcooked-2-worth-it.md src/content/posts/pt/overcooked-2-worth-it.md\\\"],\\\"notes\\\":\\\"All seven locale files now validate with zero errors. One revision pass improved sampled locales with concrete GameGulf price logic and more specific Overcooked 2 co-op/gameplay anchors; final score reflects strong sampled quality plus uncertainty from untouched non-sampled locales.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"9cb9ed40-d7c9-400d-8f31-7010f7d258ea\",\"total_cost_usd\":2.0820942,\"usage\":{\"input_tokens\":612921,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":200704,\"output_tokens\":12208,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":612921,\"outputTokens\":12208,\"cacheReadInputTokens\":200704,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.0820942,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"09d76820-5ffe-49bb-af0f-eec3f93c117d\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:49:27.812Z"
+}

@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "voice-of-cards-the-beasts-of-burden-worth-it",
+  "url": "https://www.gamegulf.com/detail/9OysCALVgQ8",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/voice-of-cards-the-beasts-of-burden-worth-it.md",
+    "src/content/posts/zh-hans/voice-of-cards-the-beasts-of-burden-worth-it.md",
+    "src/content/posts/ja/voice-of-cards-the-beasts-of-burden-worth-it.md",
+    "src/content/posts/fr/voice-of-cards-the-beasts-of-burden-worth-it.md",
+    "src/content/posts/es/voice-of-cards-the-beasts-of-burden-worth-it.md",
+    "src/content/posts/de/voice-of-cards-the-beasts-of-burden-worth-it.md",
+    "src/content/posts/pt/voice-of-cards-the-beasts-of-burden-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:09:08.793Z"
+}

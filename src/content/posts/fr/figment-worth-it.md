@@ -41,7 +41,7 @@ fitLabel: Album concept jouable.
 timingNote: >-
   Si ton compte touche le bandeau Japon, l’hésitation est surtout le goût —
   vérifie la ligne live.
-communityVibe: Boss earworm, cauchemar cozy, mèmes Piper
+communityVibe: Chansons de boss et cauchemar doux donnent son identité
 playtime: 5 h · 6 h+ · ~7 h
 reviewSignal: 75 Metacritic
 takeaway: >-
@@ -51,7 +51,9 @@ playStyle: Brawl isométrique, puzzles, séquences musicales, peurs literalisée
 timeCommitment: ~5 h histoire, ~6 h extras, ~7 h complétion.
 playMode: Solo.
 whyNow: Le prix fait le job — charme mid-70s, pas chef-d’œuvre absolu.
-currentDeal: Japon ~0,54 € eq. (contexte ¥2 200), puis US/Brasil promo, puis prix catalogue UE.
+currentDeal: >-
+  Japon ~0,54 € eq. (contexte ¥2 200), puis US/Brasil promo, puis prix catalogue
+  UE.
 nearHistoricalLow: Oui — posture index avril 2026 alignée sur plancher suivi.
 salePattern: Grosses promos récurrentes — verrouille avant retour prix catalogue.
 priceRecommendation: buy
@@ -154,7 +156,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Verdict rapide
 
-**Figment** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **75 Metacritic**.
+**Figment** se décide d’abord sur une envie précise : **Chansons de boss et cauchemar doux donnent son identité**. Si cette promesse vous parle, Achète si tu veux une aventure courte axée musique — avril 2026 place le Japon indexé près d’un bandeau promo historique avec moyennes très basses.; si le prix visible tourne autour de ¥2,200, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 Figment est un achat impulsif facile quand l’index colle au plancher — confirme ton eShop avant d’assumer l’ancre Japon.
 
@@ -204,8 +206,9 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - ton budget du mois est reserve a d'autres titres
 - Tu veux du Souls-like ou 40 h de RPG.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. Grosses promos récurrentes — verrouille avant retour prix catalogue.
 
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** puis tranche achat vs attente.
+Avec **Figment**, l’achat se justifie si chansons de boss et cauchemar doux donnent son identité suffit à vous donner envie de réfléchir session après session. Les joueurs patients y gagnent; ceux qui veulent une progression sans résistance devraient plutôt attendre un meilleur prix. Le volume à prévoir tourne autour de 5 h · 6 h+ · ~7 h, à mesurer avec votre envie de revenir dessus.
+
+Côté prix, le meilleur repère du tableau reste €0.54 au Japon. Japon ~0,54 € eq. (contexte ¥2 200), puis US/Brasil promo, puis prix catalogue UE. Posture index avril 2026 alignée sur plancher suivi. Grosses promos récurrentes — verrouille avant retour prix catalogue. Consultez [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) avant paiement pour vérifier le prix actuel, le plus bas suivi et le calendrier de remise. Si votre région s’aligne sur ce niveau, acheter maintenant se défend; si elle revient au prix catalogue, laissez une alerte couvrir la prochaine fenêtre.

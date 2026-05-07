@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "out-of-line-worth-it",
+  "url": "https://www.gamegulf.com/detail/hUpbpKWpEWj",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/out-of-line-worth-it.md",
+    "src/content/posts/zh-hans/out-of-line-worth-it.md",
+    "src/content/posts/ja/out-of-line-worth-it.md",
+    "src/content/posts/fr/out-of-line-worth-it.md",
+    "src/content/posts/es/out-of-line-worth-it.md",
+    "src/content/posts/de/out-of-line-worth-it.md",
+    "src/content/posts/pt/out-of-line-worth-it.md"
+  ],
+  "capturedAt": "2026-05-07T06:22:55.089Z"
+}

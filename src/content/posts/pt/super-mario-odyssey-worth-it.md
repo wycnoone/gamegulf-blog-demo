@@ -36,7 +36,7 @@ mainFriction: Todas as luas exigem muitas horas de retorno.
 timeFit: Cerca de 12–18 h para luas da história, 40 h+ ao completar.
 fitLabel: Para curiosos que partilham o sofá e repetem movimento.
 timingNote: Confere primeiro as linhas ao vivo no GameGulf.
-communityVibe: Memes do Cappy, corda ND, vergonha do fato Luigi
+communityVibe: Cappy, luas e New Donk deixam tudo generoso
 playtime: ~12–18 h luas história · 40 h+ completar
 reviewSignal: 97 Metacritic
 takeaway: >-
@@ -170,10 +170,9 @@ cardPriceNative: ¥7,980
 cardPriceNativeCurrency: JPY
 ---
 
-
 ## Veredito rapido
 
-**Super Mario Odyssey** vale compra quando teu preco regional fica perto de **EUR 35.53 (Japão)**; acima disso, esperar e melhor. Referencia: **97 Metacritic**.
+**Super Mario Odyssey** vale pela vontade concreta de jogar **Cappy, luas e New Donk deixam tudo generoso**. Se isso combina com você, Compra recomendada quando tua regiao esta perto de EUR 35.53 (Japão); acima disso, esperar e melhor.; se o preço visto fica perto de ¥7,980, confira antes sua região de Nintendo Switch (modelo original) no GameGulf.
 
 Primeiro confere **GameGulf**.
 
@@ -210,8 +209,8 @@ Co-op local — Mario + Cappy num segundo Joy-Con. O feedback aponta muitas veze
 - **Esperar** se tua regiao esta bem acima.
 - **Esperar** se o fit ainda e incerto.
 
-## Fechamento
+## Resumo
 
-Ordem: **fit -> preco regional -> urgencia**.
+**Super Mario Odyssey** é recomendável quando a vontade vem da própria rotina de jogo — **Cappy, luas e New Donk deixam tudo generoso** — e não só do preço. Espere **arremessos e capturas com Cappy, reinos abertos, fatos, controlos por movimento opcionais, ajuda local com Joy-Con e desafios pós-jogo**. É uma boa aposta para quem procura exploração leve, apelo familiar e acabamento Nintendo; perde força se você não quer voltar muitas vezes aos reinos para pegar todas as luas. O tempo estimado é **~12–18 h luas história · 40 h+ completar**, então vale pensar se esse espaço cabe na sua rotina.
 
-Ultima checagem no **GameGulf** e gamegulf.com.
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price): o menor preço atual indexado aparece perto de **EUR 35.53** em **Japão**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

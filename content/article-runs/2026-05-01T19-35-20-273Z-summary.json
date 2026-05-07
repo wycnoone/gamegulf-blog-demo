@@ -1,0 +1,148 @@
+{
+  "runId": "2026-05-01T19-35-20-273Z",
+  "startedAt": "2026-05-01T19:35:20.278Z",
+  "opts": {
+    "limit": 5,
+    "dryRun": true,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": false,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": false,
+    "delayMs": 1000,
+    "maxBudgetUsd": null,
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 13,
+    "pending": 32
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Super Mario Odyssey (MC 97)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Animal Well (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Super Smash Bros. Ultimate (MC 93)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/6QsTv19f45u",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Balatro (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/7eOWUfu8QJS",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Bayonetta 2 (MC 92)"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-35-20-273Z",
+      "url": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "startedAt": "2026-05-01T19:35:20.279Z",
+      "finishedAt": "2026-05-01T19:35:20.328Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "super-mario-odyssey-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-20-273Z",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+      "startedAt": "2026-05-01T19:35:21.328Z",
+      "finishedAt": "2026-05-01T19:35:21.376Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "animal-well-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-20-273Z",
+      "url": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "startedAt": "2026-05-01T19:35:22.376Z",
+      "finishedAt": "2026-05-01T19:35:22.424Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "super-smash-bros-ultimate-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-20-273Z",
+      "url": "https://www.gamegulf.com/detail/6QsTv19f45u",
+      "startedAt": "2026-05-01T19:35:23.424Z",
+      "finishedAt": "2026-05-01T19:35:23.472Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "balatro-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-20-273Z",
+      "url": "https://www.gamegulf.com/detail/7eOWUfu8QJS",
+      "startedAt": "2026-05-01T19:35:24.472Z",
+      "finishedAt": "2026-05-01T19:35:24.520Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "bayonetta-2-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:35:25.520Z",
+  "finalQueueSummary": {
+    "done": 13,
+    "pending": 32
+  }
+}

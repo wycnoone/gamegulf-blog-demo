@@ -1,9 +1,6 @@
 ---
 title: Sea of Stars sur Switch en vaut-il la peine en 2026 ?
-description: >-
-  Mémo d’achat avril 2026 — JRPG tour par tour avec QTE, ~90 Metacritic, ligne
-  Brésil quasi au plus bas historique sur l’index, gros écart avec les
-  étiquettes UE ; vérifiez la ligne eShop sur GameGulf avant paiement.
+description: Mémo d’achat avril 2026 — JRPG tour par tour avec QTE, ~90 Metacritic, ligne Brésil proche du plus bas historique et gros écart avec l’Europe ; vérifiez l’eShop sur GameGulf avant paiement.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -14,48 +11,35 @@ primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min de lecture
-decision: >-
-  Achat si le profil colle et la ligne suit : Sea of Stars tient ~90 Metacritic,
-  avec analyse Switch marquée at_historical_low, Brésil sur la zone ~16,77 €
-  indexée, pendant que plusieurs pays UE affichent encore ~33,99 €.
-priceSignal: >-
-  L’écart entre la ligne brésilienne et les étiquettes type prix catalogue UE est énorme —
-  validez le compte eShop qui encaisse.
+decision: "Achat si le profil colle et la ligne suit : Sea of Stars tient ~90 Metacritic, avec analyse Switch marquée at_historical_low, Brésil sur la zone ~16,77 € indexée, pendant que plusieurs pays UE affichent encore ~33,99 €."
+priceSignal: "Ligne basse repérée: Brésil R$99.99; comparez votre région avant paiement"
 heroStat: 90 Metacritic
-heroNote: >-
-  Sea of Stars — duo Solstice, magie d’éclipse, combos et bris de sorts, nage et
-  escalade, pauses cuisine / pêche / taverne.
+heroNote: Sea of Stars — duo Solstice, magie d’éclipse, combos et bris de sorts, nage et escalade, pauses cuisine / pêche / taverne.
 badge: Achetez maintenant
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: Sea of Stars MC 90; BR ~16,77 €; brief at_historical_low vs rangées UE hautes.
-whatItIs: "JRPG pixel tour par tour : timings, combos, navigation, co-op optionnelle."
-bestFor: Fans de JRPG 16 bits sans live-service quotidien.
-avoidIf: Vous voulez de l’action pure — le cœur reste menu par menu.
-consensusPraise: Les timings rendent les combats lisibles, pas soporifiques.
-mainFriction: Les salles à énigmes et le va-et-vient ralentissent mi-parcours.
+listingTakeaway: Sea of Stars MC 90; BR ~16,77 €; brief at_historical_low vs rangées UE hautes
+whatItIs: "JRPG pixel tour par tour : timings, combos, navigation, co-op optionnelle"
+bestFor: Fans de JRPG 16 bits sans live-service quotidien
+avoidIf: Vous voulez de l’action pure — le cœur reste menu par menu
+consensusPraise: Les timings rendent les combats lisibles, pas soporifiques
+mainFriction: Les salles à énigmes et le va-et-vient ralentissent mi-parcours
 timeFit: ~28 h histoire ; 35 h+ avec extras ; 40 h+ complétion.
-fitLabel: Surtout si vous acceptez les puzzles entre deux beats narrative.
+fitLabel: Surtout si vous acceptez les puzzles entre deux beats narrative
 timingNote: Les promos bougent — rouvrez GameGulf avant le panier.
-communityVibe: JRPG réconfort timing — jusqu’au puzzle bloquant.
+communityVibe: Coups timed, histoires au feu et îles façon Chrono portent
 playtime: ~28 h principal · ~35 h+ extras · ~44 h angle complétion
 reviewSignal: 90 Metacritic
-takeaway: >-
-  Qualité évidente si le genre vous plaît ; au printemps 2026 la ligne BR reste
-  très généreuse face aux grilles UE pleines.
+takeaway: Qualité évidente si le genre vous plaît ; au printemps 2026 la ligne BR reste très généreuse face aux grilles UE pleines.
 playStyle: Combats au tour par tour, donjons à gimmicks, exploration ponctuée de voile.
 timeCommitment: Histoire jouable sur quelques longs week-ends ; extras = volume moyen+.
 playMode: Solo avec passes manettes co-op pour fouiller la carte.
 whyNow: Patches et débat DLC sont stabilisés — bon moment pour juger le pack complet.
-currentDeal: >-
-  Ligne BR indexée encore sur la mention ~16,77 € de mars 2026 alors que
-  plusieurs boutiques UE listent 33,99 € natifs.
-nearHistoricalLow: >-
-  L’analytics traite la ligne BR actuelle comme le plancher historique, pas une
-  simple approximation.
+currentDeal: Ligne BR indexée encore sur la mention ~16,77 € de mars 2026 alors que plusieurs boutiques UE listent 33,99 € natifs.
+nearHistoricalLow: L’analytics traite la ligne BR actuelle comme le plancher historique, pas une simple approximation.
 salePattern: Quatre vagues promo sur douze mois, prix moyen promo indexé ~23,69 €.
 priceRecommendation: buy
 quickFilters:
@@ -83,31 +67,20 @@ communityMemes:
   - frères solstice
   - stresse timing
   - pêche détour
-tldr: >-
-  Sea of Stars — 90 Metacritic ; GameGulf avr. 2026 : BR près du plancher
-  historique, UE haut.
+tldr: "Sea of Stars — 90 Metacritic ; GameGulf avr. 2026 : BR près du plancher historique, UE haut."
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price
 gameHref: https://www.gamegulf.com/detail/iG1qRTPsPfn
 membershipHref: https://www.gamegulf.com/pricing
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509144989314341.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509144989314341.jpeg
 heroTheme: brand
 faq:
   - question: Sea of Stars vaut-il le coup sur Switch en 2026 ?
-    answer: >-
-      Sea of Stars vaut le coup si vous voulez un JRPG ~90 Metacritic avec
-      timings au tour par tour, énigmes d’exploration et pauses navigation —
-      passez votre chemin si vous refusez tout combat piloté par menus.
+    answer: Sea of Stars vaut le coup si vous voulez un JRPG ~90 Metacritic avec timings au tour par tour, énigmes d’exploration et pauses navigation — passez votre chemin si vous refusez tout combat piloté par menus.
   - question: Quelle durée pour Sea of Stars ?
-    answer: >-
-      Sea of Stars — comptez ~28 h pour pousser l’histoire, la mi-trentaine
-      d’heures avec les extras importants, et 40 h+ côté complétion poussée.
+    answer: Sea of Stars — comptez ~28 h pour pousser l’histoire, la mi-trentaine d’heures avec les extras importants, et 40 h+ côté complétion poussée.
   - question: Où coince-t-on le plus dans Sea of Stars ?
-    answer: >-
-      Sea of Stars — puzzles environnementaux et rétro-pédalage carte sont le
-      frein principal ; le combat reste accessible si les timings passent, la
-      lenteur vient surtout du level design.
+    answer: Sea of Stars — puzzles environnementaux et rétro-pédalage carte sont le frein principal ; le combat reste accessible si les timings passent, la lenteur vient surtout du level design.
 priceRows:
   - regionCode: BR
     eurPrice: 16.77
@@ -148,10 +121,9 @@ cardPrice: EUR 16.77
 cardPriceNative: R$99.99
 cardPriceNativeCurrency: BRL
 ---
-
 ## Verdict rapide
 
-**Sea of Stars** mérite ses **~90 Metacritic** parce que **Sabotage Studio** combine **combat tour par tour exigeant sur les timings** (boosts, enchaînements, bris de sorts), **exploration nage / escalade** et **boucles taverne / cuisine / pêche** qui coupent sans exiger un live-service.** Avril 2026 sur GameGulf** : la ligne **Brésil** colle encore la zone **~16,77 €** indexée quand la **France, l’Allemagne, l’Espagne, l’Italie, le Portugal** gardent des **33,99 €** natives sur la grille — donc votre **go / no-go** dépend **`compte eShop × tolérance aux puzzles`**.
+**Sea of Stars** se décide d’abord sur une envie précise : **Coups timed, histoires au feu et îles façon Chrono portent**. Si cette promesse vous parle, Achat si le profil colle et la ligne suit : Sea of Stars tient ~90 Metacritic, avec analyse Switch marquée at_historical_low, Brésil sur la zone ~16,77 € indexée, pendant que plusieurs pays UE affichent encore ~33,99 €.; si le prix visible tourne autour de R$99.99, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 Gardez **[la grille Sea of Stars sur gamegulf.com](https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price)** sous la main : un **refresh** avant paiement bat toujours une capture Discord vieille de trois jours.
 
@@ -200,6 +172,9 @@ Gardez **[la grille Sea of Stars sur gamegulf.com](https://www.gamegulf.com/deta
 - Vous ne payez qu’en **soldes UE agressifs** et la grille affiche **toujours 33,99 €** — **alertes GameGulf** > achat impulsif.
 - Vous **détestez** le **menu combat** : la nostalgie 16 bits ne suffira pas.
 
-## Dernier mot
+## En résumé
 
-**Sea of Stars** reste un **JRPG confort de haute volée** sur **Switch** quand **la ligne prix** coopère.** GameGulf** **ancre les faits** — achetez ou attendez, mais **avec les chiffres sous les yeux**.
+
+Pour **Sea of Stars**, demandez-vous si vous voulez vraiment bâtir une stratégie autour de coups timed, histoires au feu et îles façon Chrono portent. Si oui, le contenu se défend; sinon, les salles à énigmes et le va-et-vient ralentissent mi-parcours peut peser avant que la remise ait l’air rentable. Prenez ~28 h principal · ~35 h+ extras · ~44 h angle complétion comme ordre de grandeur pour juger l’achat.
+
+Pour le prix, partez du meilleur repère GameGulf : €16.77 au Brésil. Ligne BR indexée encore sur la mention ~16,77 € de mars 2026 alors que plusieurs boutiques UE listent 33,99 € natifs. L’analytics traite la ligne BR actuelle comme le plancher historique, pas une simple approximation. Quatre vagues promo sur douze mois, prix moyen promo indexé ~23,69 €. Passez par [GameGulf](https://www.gamegulf.com/detail/iG1qRTPsPfn#currency-price) avant de payer afin de comparer votre région au plus bas suivi. Achetez si votre région touche ce niveau; sinon, une alerte vaut mieux qu’un achat au catalogue.

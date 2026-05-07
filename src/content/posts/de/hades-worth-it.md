@@ -44,7 +44,7 @@ fitLabel: Spieler, die Scheitern als Story-Treibstoff sehen.
 timingNote: >-
   Preisfokus? Vergleiche dein eShop-Preis mit Japan-Index und Brasilien-Anker
   2025.
-communityVibe: „Kein Entkommen“-Meme + OST auf Dauerschleife
+communityVibe: Vater-Runs, Segen-RNG und Hausklatsch machen süchtig
 playtime: 23 h Story · 49 h+ Extras · ~95 h Completion
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -182,7 +182,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Kurzfazit
 
-**Hades** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **93 Metacritic**.
+**Hades** entscheidet sich an einem konkreten Reiz: **Vater-Runs, Segen-RNG und Hausklatsch machen süchtig**. Wenn dich genau das anspricht, gilt: Kaufen, wenn du Top-Roguelite magst und Sterben als Fortschritt ok findest. Beobachten, wenn dein eShop-Preis weit über dem indexierten Japan liegt oder du nur historische Sale-Tiefs willst.; liegt dein sichtbarer Preis bei etwa ¥2,800, prüfe vorher deine Nintendo Switch-Region auf GameGulf.
 
 Hades bleibt leicht zu empfehlen — April-2026-Preis ist Japan-geführter Retail, nicht das getrackte historische Tief.
 
@@ -231,7 +231,8 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - Budget derzeit fuer andere Titel reserviert ist
 - Meiden, wenn Roguelite-Loops dich ermüden oder du Linearität brauchst.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. April-2026-Preis ist Japan-geführter Retail, nicht das getrackte historische Tief.
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price)** und entscheide dann Buy-now vs Wait.
+Bei **Hades** steht der Spieler-Fit vor dem Rabatt. Der konkrete Anker ist **Vater-Runs, Segen-RNG und Hausklatsch machen süchtig**. Wenn genau dieses Zusammenspiel für dich reizvoll klingt, ist die Switch-Version ein sinnvoller Kandidat für Kurze Runs mit langem Story-Fortschritt; wenn Roguelite-Loops dich ermüden oder du Linearität brauchst, solltest du nicht nur wegen eines Sales zugreifen. Plane ungefähr **23 h Story · 49 h+ Extras · ~95 h Completion** ein.
+
+Beim Timing bleibt die GameGulf-Tabelle der praktische Filter. April 2026: Japan führt (~15,22 € äquivalent, ¥2.800); Brasilien und USA liegen im gleichen Snapshot höher. Nein — getrackte Trends zeigen ~4,66 € in Brasilien am 18. Dezember 2025, unter dem aktuellen Raster. Wenige tiefe Events im Jahresfenster; wenn sie kommen, schneiden Rabatte stark, danach Normalpreise. Öffne die [GameGulf-Preisübersicht](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) und vergleiche Region, Tiefpunkt und Sale-Muster. Bei unsicherem Fit ist Beobachten sinnvoller als ein spontaner Checkout. 

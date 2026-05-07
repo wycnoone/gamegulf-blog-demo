@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it",
+  "url": "https://www.gamegulf.com/detail/2vMq1hkFq10",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+    "src/content/posts/zh-hans/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+    "src/content/posts/ja/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+    "src/content/posts/fr/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+    "src/content/posts/es/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+    "src/content/posts/de/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+    "src/content/posts/pt/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T19:49:11.682Z"
+}

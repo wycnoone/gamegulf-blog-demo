@@ -46,7 +46,7 @@ fitLabel: Joueurs qui voient l’échec comme carburant narratif, pas comme puni
 timingNote: >-
   Si le prix compte seul, comparez votre ligne eShop au Japon indexé et à
   l’ancrage brésilien de 2025.
-communityVibe: Mème « pas d’issue » + OST en boucle dans la tête
+communityVibe: Père, bienfaits et ragots de la Maison rendent accro
 playtime: 23 h main · 49 h+ extras · ~95 h complétion
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -188,7 +188,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Verdict rapide
 
-**Hades** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **93 Metacritic**.
+**Hades** se décide d’abord sur une envie précise : **Père, bienfaits et ragots de la Maison rendent accro**. Si cette promesse vous parle, À prendre si vous aimez les roguelites notés 90+ et le rythme « mourir pour avancer ». À suivre si votre ligne eShop dérape par rapport au Japon indexé ou si vous visez uniquement un ancien plancher promo.; si le prix visible tourne autour de ¥2,800, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 Hades reste une valeur sûre — mais traitez le prix d’avril 2026 comme un bon palier Japan-led, pas comme le plus bas historique traqué.
 
@@ -237,7 +237,9 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - ton budget du mois est reserve a d'autres titres
 - Si la boucle roguelite vous épuise ou il vous faut du 100 % linéaire.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. mais traitez le prix d’avril 2026 comme un bon palier Japan-led, pas comme le plus bas historique traqué.
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price)** puis tranche achat vs attente.
+
+**Hades** se juge à votre tolérance aux essais successifs. Si les bienfaits, les disputes familiales et les ragots de la Maison vous accrochent, le jeu peut prendre beaucoup de place; si vous voulez voir du contenu neuf à chaque minute, gabarits de salles et ennemis moins frais une fois l’arc principal bouclé risque de limiter l’envie de continuer. Prenez 23 h histoire · 49 h+ extras · ~95 h complétion comme ordre de grandeur pour juger l’achat.
+
+Côté prix, le meilleur repère du tableau reste €15.22 au Japon. Avril 2026 : le Japon mène (~15,22 € équivalent, ¥2 800) ; Brésil et États-Unis sont au-dessus sur le même cliché indexé. Les tendances traquées placent un point brésilien vers ~4,66 € le 18 décembre 2025, bien sous le tableau actuel. Peu d’événements profonds dans la fenêtre d’un an ; quand ils arrivent, la promo coupe fort puis les prix remontent. Consultez [GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price) avant paiement pour vérifier le prix actuel, le plus bas suivi et le calendrier de remise. L’achat immédiat se justifie surtout si votre région est déjà basse; sinon, gardez-le en liste d’envies.

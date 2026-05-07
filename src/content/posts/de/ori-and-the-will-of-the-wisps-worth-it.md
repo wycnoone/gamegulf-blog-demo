@@ -42,7 +42,7 @@ fitLabel: Präzise Plattform mit Kampfdruck, kein Spaziergang.
 timingNote: >-
   Qualität steht — offen ist, ob du listest oder den nächsten US-Drop wie März
   2026 abwartest.
-communityVibe: Dash-Bash-Graben macht die Karte sofort spielplatzartig.
+communityVibe: Splitter-Builds, Verfolgungen und Wälder tragen die Fortsetzung
 playtime: ~12 h · ~16 h+ · ~18 h
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -176,7 +176,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Kurzfazit
 
-**Ori and the Will of the Wisps** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **93 Metacritic**.
+Bei **Ori and the Will of the Wisps** zählt zuerst, ob dich **Splitter-Builds, Verfolgungen und Wälder tragen die Fortsetzung** wirklich reizt. Kaufe jetzt nur, wenn du sofort loslegen willst; sonst ist ein Preisalarm die bessere Entscheidung.
 
 Ori and the Will of the Wisps bleibt Switch-Spitze, aber April-2026-Listenpreis liegt klar über dem indexierten Sale-Schnitt — warten, außer du startest heute Nacht.
 
@@ -225,7 +225,8 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - Budget derzeit fuer andere Titel reserviert ist
 - Meide Verfolgung, Backtracking oder sentimentalen Ton.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. warten, außer du startest heute Nacht.
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price)** und entscheide dann Buy-now vs Wait.
+Bei **Ori and the Will of the Wisps** steht der Spieler-Fit vor dem Rabatt. Der konkrete Anker ist **Splitter-Builds, Verfolgungen und Wälder tragen die Fortsetzung**. Wenn genau dieses Zusammenspiel für dich reizvoll klingt, ist die Switch-Version ein sinnvoller Kandidat für Spieler, die schnelle Moves, harte Bosse und Ori-Fantasy mag; wenn dich Verfolgung, Backtracking oder sentimentalen Ton, solltest du nicht nur wegen eines Sales zugreifen. Plane ungefähr **~12 h · ~16 h+ · ~18 h** ein.
+
+Preislich zählt der konkrete Regionsvergleich. Japan führt digital ~19,14 € äquivalent (¥3.520), Hongkong und USA darüber im gleichen Snapshot. Nein — Historie zeigt USA nahe 6,50 € am 22.12.2025 und erneut am 09.03.2026; heute nicht dieser Boden. Fünf Sale-Events im indexierten Jahr, durchschnittlicher Sale-Preis ~11,66 €, letzter Drop nur 29 Tage zuvor. Prüfe vor dem Checkout die [GameGulf-Livepreise](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price); Spielst du nicht sofort, ist der Preisalarm die bessere Entscheidung. 

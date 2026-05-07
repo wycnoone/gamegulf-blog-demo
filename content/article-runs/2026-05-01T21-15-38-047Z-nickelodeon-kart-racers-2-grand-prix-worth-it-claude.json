@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "nickelodeon-kart-racers-2-grand-prix-worth-it",
+  "url": "https://www.gamegulf.com/detail/auKAjdaTmh",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-nickelodeon-kart-racers-2-grand-prix-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 69181,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":68994,\"duration_api_ms\":67918,\"num_turns\":14,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"nickelodeon-kart-racers-2-grand-prix-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\",\\\"src/content/posts/zh-hans/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\",\\\"src/content/posts/ja/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\",\\\"src/content/posts/fr/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\",\\\"src/content/posts/es/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\",\\\"src/content/posts/de/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\",\\\"src/content/posts/pt/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\"],\\\"issues\\\":[\\\"All seven locale files passed scripts/validate-article.mjs with zero errors.\\\",\\\"No files were missing, so synthesis and pricing sync were not needed.\\\",\\\"Quality is above threshold, but the body copy is still somewhat template-driven in en/zh-hans/ja and does not fully exploit brief specifics like 30 racers, 70 crew members, local 4-player, online 8-player, 28 tracks, and 2 arena environments.\\\",\\\"zh-hans and ja keep the English game name; this appears internally consistent with the brief/store title, but it is a softer localization weakness rather than a validator issue.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/nickelodeon-kart-racers-2-grand-prix-worth-it.md src/content/posts/zh-hans/nickelodeon-kart-racers-2-grand-prix-worth-it.md src/content/posts/ja/nickelodeon-kart-racers-2-grand-prix-worth-it.md src/content/posts/fr/nickelodeon-kart-racers-2-grand-prix-worth-it.md src/content/posts/es/nickelodeon-kart-racers-2-grand-prix-worth-it.md src/content/posts/de/nickelodeon-kart-racers-2-grand-prix-worth-it.md src/content/posts/pt/nickelodeon-kart-racers-2-grand-prix-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed cleanly across all 7 locales. I reviewed the brief plus en, zh-hans, and ja spot checks, scored the set at 88/100, and made no revisions because it already cleared both validation and the 85-point threshold.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"b3846903-8b1e-4894-ad50-c75aeb98a72e\",\"total_cost_usd\":0.8634264,\"usage\":{\"input_tokens\":264585,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":114688,\"output_tokens\":2351,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":264585,\"outputTokens\":2351,\"cacheReadInputTokens\":114688,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.8634264,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"e2d841a2-fc8e-40cf-8be4-276dd8db117a\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:40:16.297Z"
+}

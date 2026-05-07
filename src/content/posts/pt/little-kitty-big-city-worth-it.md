@@ -37,7 +37,7 @@ fitLabel: Ótimo entre jogos grandes, para descomprimir.
 timingNote: >-
   Compara a tua linha da eShop com a Espanha ~14,99 €. Só mínimo histórico? Usa
   alerta.
-communityVibe: "Caos cozy: chapéus, traquinices e mais uma rua."
+communityVibe: Travessuras de gato, chapéus e derrubar coisas é o sonho
 playtime: ~3 h história principal / ~5–7 h 100%
 reviewSignal: 78 Metacritic
 takeaway: >-
@@ -150,7 +150,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Veredito rapido
 
-**Little Kitty, Big City** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **78 Metacritic**.
+A compra de **Little Kitty, Big City** começa pela pergunta simples: **Travessuras de gato, chapéus e derrubar coisas é o sonho** combina com você? Decida pelo desejo real desse ciclo e pelo preço regional no GameGulf, não só por nota ou gênero.
 
 Little Kitty, Big City recomenda-se rápido se o tom encaixa; o preço é defensível, mas não é o piso histórico.
 
@@ -200,8 +200,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Queres combate profundo ou progressão longa — passa à frente.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Descontos ocasionais: ~2 eventos num ano, preço médio em promoção ~17,75 €.
+Compre **Little Kitty, Big City** pelo tipo de jogo que ele é: **Exploração em terceira pessoa, interação com o ambiente, cosméticos e objetivos curtos — sem exigência alta**, puxado por **Travessuras de gato, chapéus e derrubar coisas é o sonho**. É uma boa aposta para quem quer relaxar em 20–40 minutos, não um RPG longo; perde força se arco principal curto; complexidade propositalmente leve. O tempo estimado é **~3 h história principal / ~5–7 h 100%**, então vale pensar se esse espaço cabe na sua rotina.
 
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price)** e decide compra vs espera.
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price): o menor preço atual indexado aparece perto de **EUR 14.99** em **Espanha**; o mínimo histórico citado fica em **€14**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

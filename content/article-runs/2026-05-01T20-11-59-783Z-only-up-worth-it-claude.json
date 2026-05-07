@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "only-up-worth-it",
+  "url": "https://www.gamegulf.com/detail/7jBqk2OPlGw",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-only-up-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 62955,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":62772,\"duration_api_ms\":61684,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"only-up-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/only-up-worth-it.md\\\",\\\"src/content/posts/zh-hans/only-up-worth-it.md\\\",\\\"src/content/posts/ja/only-up-worth-it.md\\\",\\\"src/content/posts/fr/only-up-worth-it.md\\\",\\\"src/content/posts/es/only-up-worth-it.md\\\",\\\"src/content/posts/de/only-up-worth-it.md\\\",\\\"src/content/posts/pt/only-up-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator returned PASS for all 7 locales with zero hard errors.\\\",\\\"Spot checks for en/zh-hans/ja use the correct local display name ONLY UP! and FAQ answers open with the game name.\\\",\\\"Decision is explicit and consistent: buy only if your region is already in a promo band; otherwise wait for sale.\\\",\\\"Price logic is concrete and grounded in GameGulf rows/history: current cheapest HK €4.26, 1Y low JP €1.61, average sale €2.77, 5 discount events, last notable discount 2026-04-07 DE €2.99.\\\",\\\"Main weakness: some body copy leans on generic generated category language and inferred performance phrasing rather than highly specific game-level anchors, so quality is passable but not top-tier research-memo depth.\\\",\\\"Secondary weakness: heroStat/reviewSignal cite a 70 Metacritic band while the brief shows game.metacritic null; validator accepts it, but this is a credibility risk worth auditing in the generation pipeline.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/only-up-worth-it.md src/content/posts/zh-hans/only-up-worth-it.md src/content/posts/ja/only-up-worth-it.md src/content/posts/fr/only-up-worth-it.md src/content/posts/es/only-up-worth-it.md src/content/posts/de/only-up-worth-it.md src/content/posts/pt/only-up-worth-it.md\\\"],\\\"notes\\\":\\\"No files required repair. The 7-locale set already passes validation and clears the 85 threshold, with strongest points in localization consistency and concrete GameGulf price framing.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"2d9c4b91-93ce-441e-881a-216dc252448c\",\"total_cost_usd\":0.7014108,\"usage\":{\"input_tokens\":215617,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":1917,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":215617,\"outputTokens\":1917,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7014108,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"e37493fa-145a-48ac-aec1-dda672863d57\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:45:50.410Z"
+}

@@ -39,7 +39,7 @@ mainFriction: Tonlage ist offensiv — vorher wissen.
 timeFit: ~9 h / ~12 h+ / ~47 h Sammlerziele.
 fitLabel: Für Versteck-Verse- und Medaillenjäger.
 timingNote: Kaum Promo-Leiter im Brief — GameGulf zuerst.
-communityVibe: Witch Time fühlt sich wie perfektes Timing an
+communityVibe: Witch Time, Absatzknarren und Luftcombos tragen den Stil
 playtime: ~9 h · ~12 h+ · ~47 h
 reviewSignal: 92 Metacritic
 takeaway: >-
@@ -152,7 +152,7 @@ cardPriceNativeCurrency: JPY
 
 ## Kurzurteil
 
-**Bayonetta 2** bleibt **Qualitätskauf** auf der **Switch**: **92 Metacritic**, Japan ~**35,53 €**, **0** Sales im Jahr laut Brief — **rarely_discounted**.
+Bei **Bayonetta 2** zählt zuerst, ob dich **Witch Time, Absatzknarren und Luftcombos tragen den Stil** wirklich reizt. Wenn dich dieses Spielbild trifft und deine GameGulf-Region schon im Rabatt liegt, ist Kaufen gut vertretbar; bei Vollpreis musst du nicht hetzen.
 
 Check **[GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price)**.
 
@@ -189,6 +189,8 @@ Gehärteter **Platinum**-Port: Kamera bleibt wild, Lesbarkeit okay bis auf groß
 - **Warten** nur mit **GameGulf**-Alert, nicht mit Fantasie-**discount**.
 - **Passen**, wenn Ton/Camera absolut nein.
 
-## Schluss
+## Kurz zusammengefasst
 
-Letzter Check: **gamegulf.com**.
+Bei **Bayonetta 2** steht der Spieler-Fit vor dem Rabatt. Der konkrete Anker ist **Witch Time, Absatzknarren und Luftcombos tragen den Stil**. Wenn genau dieses Zusammenspiel für dich reizvoll klingt, ist die Switch-Version ein sinnvoller Kandidat für Spieler, die knifflige Kämpfe portabel will; wenn du keine Lust auf hektische Kamera oder Provokation hast, solltest du nicht nur wegen eines Sales zugreifen. Plane ungefähr **~9 h · ~12 h+ · ~47 h** ein.
+
+Der Preis ist nur dann ein Argument, wenn deine eigene eShop-Zeile passt. Apr. 2026 — Japan ~35,53 €; HK und US höher auf derselben Matrix. Keine tiefere Stufe im verfolgten Fenster — Japan entspricht dem genannten Global-Low ~35,53 €. **0** erkannte Senkungen/Jahr — wie klebriger Nintendo-Listenpreis behandeln. Halte [GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price) neben den Checkout, damit du nicht aus Versehen zum schwachen Fenster kaufst. Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

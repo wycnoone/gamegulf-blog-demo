@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "inscryption-worth-it",
+  "url": "https://www.gamegulf.com/detail/fWjkfUo1Cyd",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/inscryption-worth-it.md",
+    "src/content/posts/zh-hans/inscryption-worth-it.md",
+    "src/content/posts/ja/inscryption-worth-it.md",
+    "src/content/posts/fr/inscryption-worth-it.md",
+    "src/content/posts/es/inscryption-worth-it.md",
+    "src/content/posts/de/inscryption-worth-it.md",
+    "src/content/posts/pt/inscryption-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T23:04:57.482Z"
+}

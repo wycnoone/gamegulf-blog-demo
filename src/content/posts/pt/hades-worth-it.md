@@ -42,7 +42,7 @@ fitLabel: Jogadores que veem falha como combustível narrativo.
 timingNote: >-
   Se só importa preço, compare a sua linha da eShop com o Japão indexado e a
   âncora BR de 2025.
-communityVibe: Meme do “não há fuga” + OST em loop na cabeça
+communityVibe: Pai, bênçãos e fofocas da Casa viciam cada fuga
 playtime: 23 h história · 49 h+ extras · ~95 h completo
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -181,7 +181,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Hades** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **93 Metacritic**.
+**Hades** vale pela vontade concreta de jogar **Pai, bênçãos e fofocas da Casa viciam cada fuga**. Se isso combina com você, Compre se quer roguelite de referência e aceita morrer para avançar. Acompanhe com alerta se a sua linha da eShop foge do Japão indexado ou se só quer o piso histórico rastreado.; se o preço visto fica perto de ¥2,800, confira antes sua região de Nintendo Switch no GameGulf.
 
 Hades continua fácil de recomendar — trate o preço de abril de 2026 como varejo puxado pelo Japão, não como o mínimo histórico rastreado.
 
@@ -230,7 +230,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se repetição roguelite cansa ou precisa de campanha linear.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. trate o preço de abril de 2026 como varejo puxado pelo Japão, não como o mínimo histórico rastreado.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price)** e decide compra vs espera.
+Pense em **Hades** como uma compra de perfil: o atrativo está em **Pai, bênçãos e fofocas da Casa viciam cada fuga**, não em preencher backlog por impulso. O pacote entrega **hack and slash isométrico com seis armas, aspectos, bênçãos olímpicas e meta-progressão no Espelho da Noite**. É uma boa aposta para sessões curtas com arco narrativo longo; perde força se modelos de sala e inimigos parecem mais repetidos depois do arco principal. O tempo estimado é **23 h história · 49 h+ extras · ~95 h completo**, então vale pensar se esse espaço cabe na sua rotina.
+
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price): o menor preço atual indexado aparece perto de **EUR 15.22** em **Japão**; o mínimo histórico citado fica em **€15**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

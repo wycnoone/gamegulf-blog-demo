@@ -41,7 +41,7 @@ fitLabel: Plateforme précise avec enjeux de combat, pas balade contemplative.
 timingNote: >-
   La qualité est acquise — reste à savoir si vous payez le list ou attendez un
   prochain print US comme en mars 2026.
-communityVibe: Dash-bash-fouille rend toute la carte jouable en un éclair.
+communityVibe: Fragments, poursuites et forêts peintes portent la suite
 playtime: ~12 h · ~16 h+ · ~18 h
 reviewSignal: 93 sur Metacritic
 takeaway: >-
@@ -180,7 +180,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Verdict rapide
 
-**Ori and the Will of the Wisps** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **93 sur Metacritic**.
+Pour décider sur **Ori and the Will of the Wisps**, commencez par cette promesse concrète : **Fragments, poursuites et forêts peintes portent la suite**. Achetez maintenant seulement si vous voulez y jouer tout de suite; sinon, une alerte de prix fera mieux le travail.
 
 Ori and the Will of the Wisps reste un sommet Switch, mais le list avril 2026 dépasse largement la moyenne promo indexée — attendez sauf urgence de jeu.
 
@@ -229,7 +229,9 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - ton budget du mois est reserve a d'autres titres
 - Passez si poursuites, backtracking ou ton sentimental vous épuisent.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. attendez sauf urgence de jeu.
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price)** puis tranche achat vs attente.
+
+**Ori and the Will of the Wisps** vise les joueurs qui aiment sentir leur maîtrise monter manette en main. Si fragments, poursuites et forêts peintes portent la suite vous attire, l’achat a du sens; si les checks de fin de jeu piquent plus que l’entrée doucette vous rebute déjà, le jeu ne changera pas de nature en promo. Prenez ~12 h · ~16 h+ · ~18 h comme ordre de grandeur pour juger l’achat.
+
+Pour le prix, partez du meilleur repère GameGulf : €19.01 au Japon. Le Japon mène le numérique indexé vers 19,14 € équivalent (¥3 520), Hong Kong et les États-Unis au-dessus sur le même cliché. L’historique garde un print américain près de 6,50 € le 22 décembre 2025 puis encore vers le 9 mars 2026, ce n’est pas le plancher actuel. Cinq événements promo dans la fenêtre indexée, prix moyen en promo ~11,66 €, dernière baisse seulement 29 jours avant cette capture. Passez par [GameGulf](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price) avant de payer afin de comparer votre région au plus bas suivi. À ce niveau, l’achat est défendable; au prix catalogue, mieux vaut attendre le prochain décrochage.

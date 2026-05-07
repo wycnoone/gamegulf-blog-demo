@@ -1,0 +1,263 @@
+{
+  "runId": "2026-05-01T19-35-51-455Z",
+  "startedAt": "2026-05-01T19:35:51.461Z",
+  "opts": {
+    "limit": 10,
+    "dryRun": false,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": true,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": true,
+    "delayMs": 1000,
+    "maxBudgetUsd": "2",
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 13,
+    "pending": 32
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Super Mario Odyssey (MC 97)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Animal Well (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Super Smash Bros. Ultimate (MC 93)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/6QsTv19f45u",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Balatro (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/7eOWUfu8QJS",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Bayonetta 2 (MC 92)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Celeste (MC 92)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/cLQgELwmAee",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Jack Jeanne (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Metroid Prime Remastered (MC 94)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/dvI6J2brEaR",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Undertale (MC 93)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/e64l6e8kvjr",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Ori and the Blind Forest: Definitive Edition (MC 90)"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "startedAt": "2026-05-01T19:35:51.461Z",
+      "finishedAt": "2026-05-01T19:35:51.512Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "super-mario-odyssey-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+      "startedAt": "2026-05-01T19:35:52.512Z",
+      "finishedAt": "2026-05-01T19:35:52.563Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "animal-well-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "startedAt": "2026-05-01T19:35:53.563Z",
+      "finishedAt": "2026-05-01T19:35:53.613Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "super-smash-bros-ultimate-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/6QsTv19f45u",
+      "startedAt": "2026-05-01T19:35:54.613Z",
+      "finishedAt": "2026-05-01T19:35:54.664Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "balatro-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/7eOWUfu8QJS",
+      "startedAt": "2026-05-01T19:35:55.664Z",
+      "finishedAt": "2026-05-01T19:35:55.714Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "bayonetta-2-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/83uNBGDNnOl",
+      "startedAt": "2026-05-01T19:35:56.714Z",
+      "finishedAt": "2026-05-01T19:35:56.764Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "celeste-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/cLQgELwmAee",
+      "startedAt": "2026-05-01T19:35:57.764Z",
+      "finishedAt": "2026-05-01T19:35:57.814Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "jack-jeanne-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/dm86GCKPzG2",
+      "startedAt": "2026-05-01T19:35:58.814Z",
+      "finishedAt": "2026-05-01T19:35:58.864Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "metroid-prime-remastered-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/dvI6J2brEaR",
+      "startedAt": "2026-05-01T19:35:59.864Z",
+      "finishedAt": "2026-05-01T19:35:59.913Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "undertale-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-35-51-455Z",
+      "url": "https://www.gamegulf.com/detail/e64l6e8kvjr",
+      "startedAt": "2026-05-01T19:36:00.914Z",
+      "finishedAt": "2026-05-01T19:36:00.964Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "ori-and-the-blind-forest-definitive-edition-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:36:01.964Z",
+  "finalQueueSummary": {
+    "done": 23,
+    "pending": 22
+  }
+}

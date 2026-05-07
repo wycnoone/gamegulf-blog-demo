@@ -308,8 +308,8 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
             <h3>{t(typedLocale, 'article.nextSteps')}</h3>
             <div class="cta-row">
               <a href={post.gameHref} class="button-link">{comparePricingLabel}</a>
-              <a href={post.priceTrackHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
-              <a href={post.wishlistHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
+              <a href={post.gameHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
+              <a href={post.gameHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
             </div>
           </section>
         </div>
@@ -360,11 +360,11 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
               <strong>{comparePricingCardTitle}</strong>
               <span>{comparePricingCardDesc}</span>
             </a>
-            <a href={post.priceTrackHref} class="recommends-card">
+            <a href={post.gameHref} class="recommends-card">
               <strong>{t(typedLocale, 'article.setAPriceAlert')}</strong>
               <span>{t(typedLocale, 'article.setPriceAlertDesc')}</span>
             </a>
-            <a href={post.wishlistHref} class="recommends-card">
+            <a href={post.gameHref} class="recommends-card">
               <strong>{t(typedLocale, 'article.addToWishlist')}</strong>
               <span>{t(typedLocale, 'article.addToWishlistDesc')}</span>
             </a>
@@ -387,9 +387,9 @@ const articleTitleQuestion = getArticleTitleQuestion(typedLocale, post.title, po
           <h3>{t(typedLocale, 'article.nextSteps')}</h3>
           <div class="cta-row">
             <a href={post.gameHref} class="button-link">{comparePricingLabel}</a>
-            <a href={post.priceTrackHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
-            <a href={post.wishlistHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
-            <a href={post.membershipHref} class="button-link secondary">{t(typedLocale, 'article.seeTrialBenefits')}</a>
+            <a href={post.gameHref} class="button-link accent">{t(typedLocale, 'article.setPriceAlert')}</a>
+            <a href={post.gameHref} class="button-link secondary">{t(typedLocale, 'article.saveToWishlist')}</a>
+            <a href={post.gameHref} class="button-link secondary">{t(typedLocale, 'article.seeTrialBenefits')}</a>
           </div>
         </section>
         <section class="sidebar-card sidebar-card-emphasis">

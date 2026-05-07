@@ -1,0 +1,108 @@
+{
+  "runId": "2026-05-01T19-34-42-912Z",
+  "startedAt": "2026-05-01T19:34:42.918Z",
+  "opts": {
+    "limit": 3,
+    "dryRun": true,
+    "seedMc": true,
+    "seedFile": null,
+    "claude": false,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": false,
+    "delayMs": 1000,
+    "maxBudgetUsd": null,
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits"
+  },
+  "seedResults": [
+    {
+      "source": "mc",
+      "added": 32,
+      "skipped": 12
+    }
+  ],
+  "initialQueueSummary": {
+    "done": 13,
+    "pending": 32
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Super Mario Odyssey (MC 97)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Animal Well (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Super Smash Bros. Ultimate (MC 93)"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-34-42-912Z",
+      "url": "https://www.gamegulf.com/detail/4MvMiSCTpzk",
+      "startedAt": "2026-05-01T19:34:42.919Z",
+      "finishedAt": "2026-05-01T19:34:42.982Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "super-mario-odyssey-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-34-42-912Z",
+      "url": "https://www.gamegulf.com/detail/64ud7IJ2teL",
+      "startedAt": "2026-05-01T19:34:43.983Z",
+      "finishedAt": "2026-05-01T19:34:44.042Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "animal-well-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-34-42-912Z",
+      "url": "https://www.gamegulf.com/detail/69RQl42tNjM",
+      "startedAt": "2026-05-01T19:34:45.042Z",
+      "finishedAt": "2026-05-01T19:34:45.092Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "super-smash-bros-ultimate-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:34:46.092Z",
+  "finalQueueSummary": {
+    "done": 13,
+    "pending": 32
+  }
+}

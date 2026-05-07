@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "streets-of-rage-4-worth-it",
+  "url": "https://www.gamegulf.com/detail/jdeP21BUeOV",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/streets-of-rage-4-worth-it.md",
+    "src/content/posts/zh-hans/streets-of-rage-4-worth-it.md",
+    "src/content/posts/ja/streets-of-rage-4-worth-it.md",
+    "src/content/posts/fr/streets-of-rage-4-worth-it.md",
+    "src/content/posts/es/streets-of-rage-4-worth-it.md",
+    "src/content/posts/de/streets-of-rage-4-worth-it.md",
+    "src/content/posts/pt/streets-of-rage-4-worth-it.md"
+  ],
+  "capturedAt": "2026-05-07T06:37:56.848Z"
+}

@@ -31,7 +31,7 @@ mainFriction: Combate simples — teto em exploração/puzzle.
 timeFit: ~5/6/7 h.
 fitLabel: Álbum conceptual jogável.
 timingNote: Se a tua conta apanha promo Japão, falta só gosto — confirma linha ao vivo.
-communityVibe: Earworms, pesadelo cozy, Piper
+communityVibe: Músicas de chefe e pesadelo fofo dão identidade
 playtime: 5h · 6h+ · ~7h
 reviewSignal: 75 Metacritic
 takeaway: Figment é compra fácil quando o index toca o chão — confirma o teu eShop.
@@ -136,7 +136,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Figment** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **75 Metacritic**.
+**Figment** vale pela vontade concreta de jogar **Músicas de chefe e pesadelo fofo dão identidade**. Se isso combina com você, Compra se queres aventura curta musical — abril de 2026 mantém Japão indexado perto de faixa histórica.; se o preço visto fica perto de ¥2,200, confira antes sua região de Nintendo Switch no GameGulf.
 
 Figment é compra fácil quando o index toca o chão — confirma o teu eShop.
 
@@ -186,8 +186,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Queres combate estilo Souls ou 40 h RPG.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Promos profundas repetidas — fecha antes do preço cheio.
+**Figment** funciona melhor para quem olha para **Músicas de chefe e pesadelo fofo dão identidade** e já imagina sessões reais, curtas ou longas, no portátil. O conteúdo se apoia em **Iso, puzzles, música, medos literalizados**. É uma boa aposta para indies curtos com banda sonora protagonista; perde força se combate simples — teto em exploração/puzzle. O sinal **75 Metacritic** ajuda a calibrar expectativa, mas a decisão continua sendo de encaixe com o estilo. O tempo estimado é **5h · 6h+ · ~7h**, então vale pensar se esse espaço cabe na sua rotina.
 
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** e decide compra vs espera.
+No preço, o menor preço atual indexado aparece perto de **EUR 0.54** em **Japão**; o mínimo histórico citado fica em **€0**. Se a sua linha no [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price) estiver perto desse patamar, a compra hoje é razoável; se a loja local ficar acima do histórico, deixe em alerta e espere outra promoção.

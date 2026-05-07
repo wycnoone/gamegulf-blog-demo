@@ -196,6 +196,16 @@ const LOCALIZED_TEMPLATE_LEAKS = [
   /sinal de discount\s*\/\s*sale/i,
 ];
 
+const GENERIC_COMMUNITY_VIBE_PATTERNS = [
+  /评价不错；价格与节奏影响取舍/u,
+  /price and pacing divide players/iu,
+  /価格とテンポで判断/u,
+  /prix et rythme divisent/iu,
+  /precio y ritmo dividen/iu,
+  /Preis und Tempo teilen/iu,
+  /preço e ritmo dividem/iu,
+];
+
 const GENERIC_TAKEAWAY_PATTERNS = [
   /gameplay-fit call first/i,
   /先看玩法是否对味/u,
@@ -321,9 +331,14 @@ function validateTitleContainsGameTitle(fm, warnings) {
   }
 }
 
-function validateCommunityVibe(fm, warnings) {
+function validateCommunityVibe(fm, errors, warnings) {
   if (!fm.communityVibe || String(fm.communityVibe).trim() === '') {
     warnings.push('communityVibe is missing: list/decision cards use it under the Player Consensus label (translations: card.playerConsensus).');
+    return;
+  }
+  const value = String(fm.communityVibe);
+  if (GENERIC_COMMUNITY_VIBE_PATTERNS.some((pattern) => pattern.test(value))) {
+    warnings.push('communityVibe uses generic price/pacing filler; rewrite it as a gameplay/player-consensus quote.');
   }
 }
 
@@ -591,7 +606,7 @@ async function validate(filePath, rates) {
   }
 
   validateTitleContainsGameTitle(fm, warnings);
-  validateCommunityVibe(fm, warnings);
+  validateCommunityVibe(fm, errors, warnings);
   validatePriceRowsShape(fm, errors);
   validateLocalizedSiblingSignals(filePath, fm, warnings);
   validatePriceCopySignals(fm, warnings);

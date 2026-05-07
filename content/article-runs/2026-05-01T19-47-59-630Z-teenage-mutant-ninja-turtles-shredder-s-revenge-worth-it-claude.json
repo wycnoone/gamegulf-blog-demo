@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it",
+  "url": "https://www.gamegulf.com/detail/2vMq1hkFq10",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 166859,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":166674,\"duration_api_ms\":164264,\"num_turns\":25,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":2,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"src/content/posts/zh-hans/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"src/content/posts/ja/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"src/content/posts/fr/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"src/content/posts/es/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"src/content/posts/de/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"src/content/posts/pt/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validator pass was clean, but zh-hans and ja spot checks showed English display names in title/gameTitle/FAQ openings against localization requirements.\\\",\\\"After localizing zh-hans and ja display-critical fields, validator required tldr to start with the localized gameTitle; repaired in second revision.\\\",\\\"Remaining quality caveat: body copy is serviceable and decision-first, but some generated sections still lean generic versus a richer research-memo treatment anchored to TMNT-specific details like 6-player co-op, Dotemu/Tribute lineage, and 1987 cartoon framing.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/zh-hans/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/ja/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/fr/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/es/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/de/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/pt/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/zh-hans/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/ja/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/fr/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/es/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/de/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/pt/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/zh-hans/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/ja/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/fr/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/es/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/de/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md src/content/posts/pt/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md\\\"],\\\"notes\\\":\\\"Validated all 7 locale files. Revised zh-hans and ja to use localized display names in title, gameTitle, FAQ openings, and tldr so the set now passes cleanly with better locale fidelity.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"0770b545-102d-4bde-b483-aa98cd001c5b\",\"total_cost_usd\":1.8201864000000003,\"usage\":{\"input_tokens\":558302,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":186368,\"output_tokens\":5958,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":558302,\"outputTokens\":5958,\"cacheReadInputTokens\":186368,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":1.8201864000000003,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"d91d4593-5ca9-4df4-ac32-c786a0db0c81\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T19:51:58.542Z"
+}

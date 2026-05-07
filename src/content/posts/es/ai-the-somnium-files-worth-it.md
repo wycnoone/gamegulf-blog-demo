@@ -38,7 +38,7 @@ mainFriction: Somniums iniciales pueden trabarte sin rutina de guardados.
 timeFit: Varias noches — no es walking sim exprés.
 fitLabel: Quien mira la fila JP antes del impulso EU.
 timingNote: Si ya hay promo fuerte, solo falta hueco en backlog.
-communityVibe: Orden de rutas, sal Somnium, spoilers
+communityVibe: Somnium, chistes de Date y giros mantienen vivo el caso
 reviewSignal: 86 Metacritic
 takeaway: >-
   AI: THE SOMNIUM FILES conserva crítica alta — GameGulf marca el ticket
@@ -139,7 +139,7 @@ playtime: "Estimación: ~3–8 h historia, 8–15 h extras"
 ---
 ## Veredicto rápido
 
-**AI: THE SOMNIUM FILES** se queda en **86 Metacritic** — mezcla Spike Chunsoft de pesquisa + **Somniums** cronometrados.
+**AI: THE SOMNIUM FILES** se decide por una idea concreta: **Somnium, chistes de Date y giros mantienen vivo el caso**. Si eso te apetece de verdad, Compensa si GameGulf muestra JP ~€1,19 ; espera si solo ves €19,99 en tu cuenta UE.; si el precio que ves ronda €1.19, comprueba antes tu región de Nintendo Switch en GameGulf.
 
 **mínimo histórico** indexado ~**€1,19** en Japón (**2026-04-21**), **cinco** rebajas fuertes en el año, **precio medio promo ~€2,99**, último golpe hace **8** días (**2026-04-21**, Japón **€1,19**). Confirma en [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price).
 
@@ -177,8 +177,8 @@ Prioriza texto y menús — pocas exigencias gráficas fuera de cinemáticas.
 
 - Solo ves **€19,99** regional cuando Japón muestra **€1,19**
 
-## Cierre
+## Resumen
 
-Con **GameGulf** todavía en **historical low**, comprar encaja.
+**AI: THE SOMNIUM FILES** funciona mejor si eres fan de novela visual detectivesca tolerantes al anime. Tiene sentido si te apetece somnium, chistes de Date y giros mantienen vivo el caso. Lo que más vas a tocar es adventure/Puzzle : noir VO + Somniums contrarreloj. El principal roce es somniums iniciales pueden trabarte sin rutina de guardados; si odias timers — este juego no perdona la impaciencia, no lo compres solo por la rebaja. Usa Estimación: ~3–8 h historia, 8–15 h extras como referencia de compromiso.
 
-Usa **[gamegulf.com](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)** para la próxima **oferta**.
+La parte económica depende mucho de tu región y de la próxima ventana de oferta. Lee la tabla nativa antes de pagar. Está cerca de mínimo: €1,19 JP alinea con el suelo digital rastreado. Cinco movimientos fuertes en un año — promo JP recurrente. Míralo en [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price) y decide según urgencia: compra en zona baja, espera si todavía está cerca del PVP.

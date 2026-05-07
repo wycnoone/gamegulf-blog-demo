@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "the-stanley-parable-ultra-deluxe-worth-it",
+  "url": "https://www.gamegulf.com/detail/cSbjsRXoPAi",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-the-stanley-parable-ultra-deluxe-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 62917,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":62731,\"duration_api_ms\":61655,\"num_turns\":11,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"the-stanley-parable-ultra-deluxe-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/the-stanley-parable-ultra-deluxe-worth-it.md\\\",\\\"src/content/posts/zh-hans/the-stanley-parable-ultra-deluxe-worth-it.md\\\",\\\"src/content/posts/ja/the-stanley-parable-ultra-deluxe-worth-it.md\\\",\\\"src/content/posts/fr/the-stanley-parable-ultra-deluxe-worth-it.md\\\",\\\"src/content/posts/es/the-stanley-parable-ultra-deluxe-worth-it.md\\\",\\\"src/content/posts/de/the-stanley-parable-ultra-deluxe-worth-it.md\\\",\\\"src/content/posts/pt/the-stanley-parable-ultra-deluxe-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passes with zero errors across all 7 locales.\\\",\\\"EN / zh-hans / ja spot checks show explicit buy-vs-wait guidance and concrete price-row references.\\\",\\\"Quality is acceptable but not strong: body copy remains somewhat templated/generic in places, especially around gameplay/performance specifics.\\\",\\\"zh-hans and ja still use the English game title rather than a localized display name, but for this title that may be the real player-facing name; no validator issue was triggered.\\\",\\\"Price logic is grounded in the brief's indexed rows and 'rarely_discounted / 0 events in 1y' signal, though some phrasing overstates 'promo band' despite null discount data.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/the-stanley-parable-ultra-deluxe-worth-it.md src/content/posts/zh-hans/the-stanley-parable-ultra-deluxe-worth-it.md src/content/posts/ja/the-stanley-parable-ultra-deluxe-worth-it.md src/content/posts/fr/the-stanley-parable-ultra-deluxe-worth-it.md src/content/posts/es/the-stanley-parable-ultra-deluxe-worth-it.md src/content/posts/de/the-stanley-parable-ultra-deluxe-worth-it.md src/content/posts/pt/the-stanley-parable-ultra-deluxe-worth-it.md\\\"],\\\"notes\\\":\\\"No repair was required. The full 7-locale set already validates cleanly and clears the 85 threshold, so I did not revise any files.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"85a6006a-95f8-4d03-8af7-167d88bc4cbe\",\"total_cost_usd\":0.7439267999999999,\"usage\":{\"input_tokens\":228774,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2120,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":228774,\"outputTokens\":2120,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7439267999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"50696e54-4410-45aa-b5dd-d00ab48f9c53\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:55:10.355Z"
+}

@@ -38,7 +38,7 @@ mainFriction: "Langsames Tempo: viel Dialog und Map zwischen den Höhepunkten."
 timeFit: ~46h Hauptstory, ~63h Extras, ~76h Completion (Community).
 fitLabel: Für Spieler, die Truppen und Eroberung lieber optimieren.
 timingNote: Vergleiche dein eShop-Preis mit der ~20,99-€-Promo, bevor du kaufst.
-communityVibe: Tags Tier-Listen, nachts Vanillaware-Fest—dasselbe 4-Uhr-Loop.
+communityVibe: Unit-Taktik, Alains Armee und Vanillaware-Feste ziehen
 playtime: 46h Story · 63h+ Extras · ~76h Completion
 reviewSignal: 89 Metacritic
 takeaway: >-
@@ -165,7 +165,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Kurzfazit
 
-**Unicorn Overlord** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **89 Metacritic**.
+**Unicorn Overlord** entscheidet sich an einem konkreten Reiz: **Unit-Taktik, Alains Armee und Vanillaware-Feste ziehen**. Wenn dich genau das anspricht, gilt: Kauf, wenn du Vanillaware in einem langen SRPG willst — April 2026 indexiert DE/ES/FR/IT um ~20,99 € mit tiefer Promo und vielen Sales im Jahr.; liegt dein sichtbarer Preis bei etwa €20.99, prüfe vorher deine Nintendo Switch-Region auf GameGulf.
 
 Unicorn Overlord bleibt 2026 ein starker SRPG-Kauf — EU-Promos spiegeln den historischen Tiefstpreis aus dem Tracker.
 
@@ -215,8 +215,8 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - Budget derzeit fuer andere Titel reserviert ist
 - Du willst kurze Sessions oder hassest langsame Fantasy-Politik.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. 11 Rabatt-Events im Jahr; Ø Sale ~29,64 € vor Rückkehr zum Listenpreis.
+**Unicorn Overlord** passt vor allem zu Taktik-Fans mit Liebe zu Kunst, Musik und Map-Fortschritt. Der konkrete Reiz: **Unit-Taktik, Alains Armee und Vanillaware-Feste ziehen**. Als Gegencheck gilt: du willst kurze Sessions oder hassest langsame Fantasy-Politik. Der grobe Zeitrahmen liegt bei **46h Story · 63h+ Extras · ~76h Completion**.
 
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price)** und entscheide dann Buy-now vs Wait.
+Der Preis ist nur dann ein Argument, wenn deine eigene eShop-Zeile passt. April 2026: DE/ES/FR/IT ~20,99 € (-65 %), danach HK/JP/US höher im Index. Ja — Tracker-Tiefstpreis 20,99 € (Frankreich, Dez. 2025), passend zur EU-Promo. 11 Rabatt-Events im Jahr; Ø Sale ~29,64 € vor Rückkehr zum Listenpreis. Halte [GameGulf](https://www.gamegulf.com/detail/7kmNBh2R4gE#currency-price) neben den Checkout, damit du nicht aus Versehen zum schwachen Fenster kaufst. Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

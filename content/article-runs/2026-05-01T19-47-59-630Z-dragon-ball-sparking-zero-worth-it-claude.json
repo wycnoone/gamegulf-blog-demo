@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "dragon-ball-sparking-zero-worth-it",
+  "url": "https://www.gamegulf.com/detail/4Km5lDIbVxW",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-dragon-ball-sparking-zero-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 58890,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":58714,\"duration_api_ms\":57666,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"dragon-ball-sparking-zero-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/dragon-ball-sparking-zero-worth-it.md\\\",\\\"src/content/posts/zh-hans/dragon-ball-sparking-zero-worth-it.md\\\",\\\"src/content/posts/ja/dragon-ball-sparking-zero-worth-it.md\\\",\\\"src/content/posts/fr/dragon-ball-sparking-zero-worth-it.md\\\",\\\"src/content/posts/es/dragon-ball-sparking-zero-worth-it.md\\\",\\\"src/content/posts/de/dragon-ball-sparking-zero-worth-it.md\\\",\\\"src/content/posts/pt/dragon-ball-sparking-zero-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero hard errors across all 7 locales.\\\",\\\"Local display names and FAQ openings look correct in en/zh-hans/ja spot checks; no English SKU leak in those openings.\\\",\\\"Price logic uses concrete GameGulf rows and the HK €31.57 trend anchor, but some generated sale wording is mechanically awkward because NS2 currently shows 0 tracked discount events.\\\",\\\"The article bodies are serviceable and decision-first, but several sections remain template-like and less specific than the brief allows for roster size, multiplayer formats, story/custom battle features, and platform-specific mode details.\\\",\\\"EN/zh-hans/ja include natural GameGulf CTAs and enough in-body GameGulf mentions to satisfy the validator.\\\",\\\"One quality caveat: some frontmatter/body phrasing slightly overstates sale context despite the brief marking switch 2 as rarely discounted rather than actively on sale.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/dragon-ball-sparking-zero-worth-it.md src/content/posts/zh-hans/dragon-ball-sparking-zero-worth-it.md src/content/posts/ja/dragon-ball-sparking-zero-worth-it.md src/content/posts/fr/dragon-ball-sparking-zero-worth-it.md src/content/posts/es/dragon-ball-sparking-zero-worth-it.md src/content/posts/de/dragon-ball-sparking-zero-worth-it.md src/content/posts/pt/dragon-ball-sparking-zero-worth-it.md\\\"],\\\"notes\\\":\\\"No repair pass was needed. Validator is clean; score reflects good localization and price grounding, with mild deductions for templated memo depth and awkward sale-history phrasing.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"925774fe-ce1e-4426-9621-8ff894ef9ebc\",\"total_cost_usd\":0.7080785999999999,\"usage\":{\"input_tokens\":215756,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":2047,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":215756,\"outputTokens\":2047,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7080785999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"e58834d5-1386-46a4-8c33-b9b5c0ceb137\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:01:55.910Z"
+}

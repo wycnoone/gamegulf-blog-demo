@@ -3,8 +3,8 @@ title: Is Jack Jeanne worth buying on Nintendo Switch in 2026?
 description: >-
   April 2026 Switch buying memo for Jack Jeanne — otome prestige (90
   Metacritic), BR-led eShop rows near €42 versus GameGulf’s logged sale band
-  (~€27 average), Hong Kong indexing quirks on deep dips, and Runtime guide: -shaped
-  runtimes for route readers.
+  (~€27 average), Hong Kong indexing quirks on deep dips, and Runtime guide:
+  -shaped runtimes for route readers.
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -48,7 +48,7 @@ fitLabel: When otome pacing and stats screens already feel cosy, not bloated.
 timingNote: >-
   If your account prints MSRP-tier EU/US rows, skim GameGulf before impulse
   buys.
-communityVibe: Secret identity + backstage tension — hooked past midnight again
+communityVibe: Stage practice, route tension, and Kisa’s double life carry it
 playtime: 24h main · ~63h all-styles band · triple digits for mop-up hunts
 reviewSignal: 90 Metacritic
 takeaway: >-
@@ -179,7 +179,7 @@ priceRows:
 cardPriceEur: 42.22
 cardPriceRegionCode: BR
 cardPriceRegion: Brazil
-cardPrice: USD 49.41
+cardPrice: USD 49.69
 cardPriceNative: R$251.78
 cardPriceNativeCurrency: BRL
 ---
@@ -187,7 +187,7 @@ cardPriceNativeCurrency: BRL
 
 ## Quick verdict
 
-**Jack Jeanne** on **Nintendo Switch** is a **prestige otome pick** with **about 90 on Metacritic**, while GameGulf’s April 2026 index still puts **Brazil near a ~€42-class row** — above the **~€27 average** seen when **discount** windows actually fire, so route choice beats blind hype.
+For **Jack Jeanne**, the buy call starts with whether **Stage practice, route tension, and Kisa’s double life carry it** sounds like the kind of loop you actually want tonight. Make it a taste-and-price decision: want that loop first, then confirm your regional price on GameGulf.
 
 Skim the **[indexed price grid](https://www.gamegulf.com/detail/cLQgELwmAee#currency-price)** on **GameGulf** before you lock a full-price Eurozone cart.
 
@@ -198,14 +198,14 @@ Regional spread runs from **Brazil’s indexed lead** toward **US and Japan mid-
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Brazil | USD 49.41 | R$251.78 |
-| United States | USD 50.05 | $49.99 |
-| Japan | USD 54.23 | ¥8,580 |
-| Hong Kong | USD 55.98 | HK$438 |
-| Germany | USD 58.50 | €49.99 |
-| Spain | USD 58.50 | €49.99 |
-| France | USD 58.50 | €49.99 |
-| Italy | USD 58.50 | €49.99 |
+| Brazil | USD 49.69 | R$251.78 |
+| United States | USD 50.34 | $49.99 |
+| Japan | USD 54.54 | ¥8,580 |
+| Hong Kong | USD 56.31 | HK$438 |
+| Germany | USD 58.84 | €49.99 |
+| Spain | USD 58.84 | €49.99 |
+| France | USD 58.84 | €49.99 |
+| Italy | USD 58.84 | €49.99 |
 
 Tracked **sale** fingerprints from GameGulf show **five** notable **discount** beats inside the past twelve months averaging near **€27** when promos surfaced, versus **June–July 2025** arcs that dropped **France and Japan nearer €25–28** alongside **Brazilian** flash cuts around **October 2025** — still not a weekly cadence. **GameGulf** also logged a **March 2026** Hong Kong datapoint (**~€5.7** converted) with a steep indexed drop versus current HK storefront list rows; treat that as an **index conversion quirk** — cross-check your real account price before banking on headline ratios. Roughly **forty-eight days** floated since that last flagged event, reinforcing **patient watcher** logic unless you crave immediate couch time.
 
@@ -230,8 +230,8 @@ Expect a **handheld-first read** capped by illustrated conversation panels and t
 - **Wait / alert** while your storefront mirrors **€49.99-class list pricing** despite **GameGulf** showing cheaper regions — cue wishlist alerts instead of panic purchasing.
 - **Skip** when **rhythm friction** or **stat-week spreadsheets** already exhaust you before otome payoffs land.
 
-## Closing
+## Summary
 
-Jack Jeanne already proved its stagecraft — April 2026 decisions hinge on **whether you crave that kinetic otome niche on Switch hardware** and **whether your indexed row justifies paying above the logged average sale band**.
+**Jack Jeanne** is easiest to recommend to Drama-club fantasy, Japanese VO, and long otome routes. In practice, it means visual novel forks with timetable planning, duel-style rhythm overlays on songs, stat scaffolding for practice weeks, branching rival scenes, voiced classroom skits — spectacle is stagecraft, not loot treadmills. The upside is clear: ishida-era art direction, queer-positive undertones, kinetic theatre framing. The catch is rhythm tiers gate some progression; backlog patience for common-route setup. Use **24h main · ~63h all-styles band · triple digits for mop-up hunts** as the rough time commitment. If you want English dub, pure action, or sub-15h one-and-done stories only, there is no need to force it just because it is discounted.
 
-Open **https://www.gamegulf.com/detail/cLQgELwmAee**, line up alerts, then decide with evidence — that is the **GameGulf** playbook for this title.
+On price, separate a fair current buy from a true floor. April 2026 snapshot: Brazil fronts the cheapest indexed Switch tier while PAL listings hold near €49.99-class rows. Not at today’s sticker — tracked data shows prior sale windows materially under current list-class prints, plus a logged Hong Kong datapoint that diverges from storefront list math. Five tracked discount fingerprints in twelve months averaging near €27 when markdowns touched list pricing — intermittent, then rebounds toward MSRP cadence. If you want to play soon, check [GameGulf pricing](https://www.gamegulf.com/detail/cLQgELwmAee#currency-price) against your region; if you only want the lowest possible entry, set an alert and wait for a deeper sale.

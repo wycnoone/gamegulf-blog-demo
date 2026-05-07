@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-37-07-441Z",
+  "slug": "lego-ninjago-movie-video-game-worth-it",
+  "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-37-07-441Z-lego-ninjago-movie-video-game-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "2"
+  ],
+  "status": 1,
+  "signal": null,
+  "durationMs": 383042,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"error_max_budget_usd\",\"duration_ms\":382868,\"duration_api_ms\":320516,\"is_error\":true,\"num_turns\":25,\"stop_reason\":\"tool_use\",\"session_id\":\"e2772477-aaac-40e1-b555-4f5277361c4e\",\"total_cost_usd\":2.0212134,\"usage\":{\"input_tokens\":497610,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":172032,\"output_tokens\":15887,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":559486,\"outputTokens\":19123,\"cacheReadInputTokens\":186368,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.0212134,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"fast_mode_state\":\"off\",\"uuid\":\"4e060500-cfe0-49dc-9260-82ad485d324b\",\"errors\":[\"Reached maximum budget ($2)\"]}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T19:43:30.545Z"
+}

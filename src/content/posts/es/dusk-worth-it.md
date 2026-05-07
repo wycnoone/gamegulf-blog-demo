@@ -36,7 +36,7 @@ mainFriction: Giroscopio opcional — ajústalo primero.
 timeFit: Por episodio; noches, no snacks de 90 s.
 fitLabel: Quien ya vio promos FR en GameGulf.
 timingNote: Solo dos grandes caídas al año.
-communityVibe: Puerto Switch 60 fps muy limpio
+communityVibe: Bunny-hop, escopeta y graneros sectarios clavan el retro FPS
 reviewSignal: 88 Metacritic
 takeaway: Calidad resuelta — el tile lo dicta GameGulf.
 playStyle: Acción, Aventura, FPS
@@ -128,7 +128,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Veredicto rápido
 
-**DUSK** sigue **88 Metacritic** en Switch: **tres episodios** de shooter horror/retrouso, arsenal enorme y extras **rueda/gyro/Rumble/endless** que justifican el port.
+La compra de **DUSK** empieza por una pregunta simple: si **Bunny-hop, escopeta y graneros sectarios clavan el retro FPS** te apetece de verdad. Decídelo por deseo real de ese bucle y precio regional en GameGulf, no solo por nota o género.
 
 **Oferta** / **mínimo histórico** indexado: **€5,66** (**Francia**, **2026-02-23**) y **€6,66** (**2025-12-22**), **dos** caídas fuertes al año, **promedio en oferta** **€6,16**, **65** días desde el valle. Muchas filas **€16,66** duelen — **[GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** primero.
 
@@ -166,6 +166,8 @@ FPS **boomer** de **New Blood**: campañas episódicas + **supervivencia** infin
 
 - Solo pagarías **€5–7** — ya ocurrió **€5,66** en **2026-02-23**.
 
-## Cierre
+## Resumen
 
-**DUSK** + **[precios GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** = decisión sin sorpresas.
+**DUSK** merece entrar en tu lista si eres fan de ritmo Quake y horror de culto. Tiene sentido si te apetece bunny-hop, escopeta y graneros sectarios clavan el retro FPS. Lo que más vas a tocar es acción, Aventura, FPS. A cambio, tendrás que aceptar giroscopio opcional — ajústalo primero; si quieres FPS moderno con coberturas — pasa, el descuento no soluciona el problema. Ten en cuenta Horas por episodio en primera pasada antes de hacerle hueco.
+
+El valor cambia bastante según la tienda regional que tengas delante. Cabecera de tabla = región más barata. No está en mínimo: por encima del €5,66 indexado. Dos rebajas fuertes en 12 meses. Usa [GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price) para contrastar tu eShop y deja una alerta si el precio no se parece a sus rebajas habituales.

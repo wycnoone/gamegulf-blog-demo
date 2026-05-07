@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "little-rocket-lab-worth-it",
+  "url": "https://www.gamegulf.com/detail/aqzo5iha7hQ",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-little-rocket-lab-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 63261,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":63080,\"duration_api_ms\":61963,\"num_turns\":14,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"little-rocket-lab-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/little-rocket-lab-worth-it.md\\\",\\\"src/content/posts/zh-hans/little-rocket-lab-worth-it.md\\\",\\\"src/content/posts/ja/little-rocket-lab-worth-it.md\\\",\\\"src/content/posts/fr/little-rocket-lab-worth-it.md\\\",\\\"src/content/posts/es/little-rocket-lab-worth-it.md\\\",\\\"src/content/posts/de/little-rocket-lab-worth-it.md\\\",\\\"src/content/posts/pt/little-rocket-lab-worth-it.md\\\"],\\\"issues\\\":[\\\"No hard validator errors in any of the 7 locale files.\\\",\\\"Locale spot checks passed for local display-name handling in en/zh-hans/ja, but zh-hans and ja still use the English game title 'Little Rocket Lab' in title/gameTitle/FAQ answer openings because no verified localized store title was present in the brief.\\\",\\\"Content quality is acceptable and above threshold, but the body copy remains somewhat template-like in places, especially the performance and core-loop sections, which lean on cautious generic phrasing rather than many game-specific concrete anchors from the brief.\\\",\\\"Frontmatter uses a 70 Metacritic anchor even though the brief's raw game.metacritic is null; this passed validation and may come from another indexed source, but it is worth spot-checking upstream if strict source provenance matters.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/little-rocket-lab-worth-it.md src/content/posts/zh-hans/little-rocket-lab-worth-it.md src/content/posts/ja/little-rocket-lab-worth-it.md src/content/posts/fr/little-rocket-lab-worth-it.md src/content/posts/es/little-rocket-lab-worth-it.md src/content/posts/de/little-rocket-lab-worth-it.md src/content/posts/pt/little-rocket-lab-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed cleanly on the first run, all expected article files already existed, and no revisions were needed. Score reflects strong pricing logic and localization utility, with minor deductions for somewhat generic memo depth and unverified localized naming/Metacritic provenance.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"20e0076f-494a-4092-9759-a9b922c18f1a\",\"total_cost_usd\":0.7193598,\"usage\":{\"input_tokens\":218870,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2463,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":218870,\"outputTokens\":2463,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7193598,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"b2e53c34-cf8a-4c3c-9400-535a1e5ec731\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:39:00.888Z"
+}

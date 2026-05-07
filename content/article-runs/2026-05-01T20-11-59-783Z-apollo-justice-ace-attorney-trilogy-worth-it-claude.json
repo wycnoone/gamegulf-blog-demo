@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "apollo-justice-ace-attorney-trilogy-worth-it",
+  "url": "https://www.gamegulf.com/detail/9oS7lSCwRtv",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-apollo-justice-ace-attorney-trilogy-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 160035,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":159849,\"duration_api_ms\":157242,\"num_turns\":27,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"apollo-justice-ace-attorney-trilogy-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":2,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"src/content/posts/zh-hans/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"src/content/posts/ja/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"src/content/posts/fr/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"src/content/posts/es/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"src/content/posts/de/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"src/content/posts/pt/apollo-justice-ace-attorney-trilogy-worth-it.md\\\"],\\\"issues\\\":[\\\"Fixed zh-hans local display name and FAQ answer openings to use 逆转裁判456 王泥喜精选集.\\\",\\\"Fixed ja local display name and FAQ answer openings to use 逆転裁判456 王泥喜セレクション.\\\",\\\"Second validation pass exposed zh-hans/ja tldr prefix mismatch after gameTitle changes; fixed both to start with localized gameTitle.\\\",\\\"Quality is now above threshold, but some non-required localized fields still retain English product naming in places like description/heroNote/listingTakeaway/whatItIs/takeaway/body openings; validator does not flag these, but they slightly reduce localization quality score.\\\"],\\\"commandsRun\\\":[\\\"python3 - <<'PY'\\\\nfrom pathlib import Path\\\\npaths = [\\\\n'src/content/posts/en/apollo-justice-ace-attorney-trilogy-worth-it.md',\\\\n'src/content/posts/zh-hans/apollo-justice-ace-attorney-trilogy-worth-it.md',\\\\n'src/content/posts/ja/apollo-justice-ace-attorney-trilogy-worth-it.md',\\\\n'src/content/posts/fr/apollo-justice-ace-attorney-trilogy-worth-it.md',\\\\n'src/content/posts/es/apollo-justice-ace-attorney-trilogy-worth-it.md',\\\\n'src/content/posts/de/apollo-justice-ace-attorney-trilogy-worth-it.md',\\\\n'src/content/posts/pt/apollo-justice-ace-attorney-trilogy-worth-it.md',\\\\n]\\\\nfor p in paths:\\\\n    print(('EXISTS' if Path(p).exists() else 'MISSING') + ' ' + p)\\\\nPY\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/zh-hans/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/ja/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/fr/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/es/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/de/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/pt/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/zh-hans/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/ja/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/fr/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/es/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/de/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/pt/apollo-justice-ace-attorney-trilogy-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/zh-hans/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/ja/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/fr/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/es/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/de/apollo-justice-ace-attorney-trilogy-worth-it.md src/content/posts/pt/apollo-justice-ace-attorney-trilogy-worth-it.md\\\"],\\\"notes\\\":\\\"All seven locale files exist and now pass validation. I made two focused revision rounds: first to fix zh-hans/ja localized title, gameTitle, and FAQ answer openings, then a final pass to align zh-hans/ja tldr with the new localized gameTitle.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"b816d44b-6c0b-4351-9b4f-314f1c40ec30\",\"total_cost_usd\":2.2321805999999995,\"usage\":{\"input_tokens\":691239,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":243712,\"output_tokens\":5690,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":691239,\"outputTokens\":5690,\"cacheReadInputTokens\":243712,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.2321805999999995,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"d0359f2f-40ba-4784-940c-22878f1be4f8\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:09:04.106Z"
+}

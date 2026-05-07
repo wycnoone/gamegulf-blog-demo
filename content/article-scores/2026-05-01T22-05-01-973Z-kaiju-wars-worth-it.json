@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "kaiju-wars-worth-it",
+  "url": "https://www.gamegulf.com/detail/fjc0WzBHx4A",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/kaiju-wars-worth-it.md",
+    "src/content/posts/zh-hans/kaiju-wars-worth-it.md",
+    "src/content/posts/ja/kaiju-wars-worth-it.md",
+    "src/content/posts/fr/kaiju-wars-worth-it.md",
+    "src/content/posts/es/kaiju-wars-worth-it.md",
+    "src/content/posts/de/kaiju-wars-worth-it.md",
+    "src/content/posts/pt/kaiju-wars-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T22:48:37.241Z"
+}

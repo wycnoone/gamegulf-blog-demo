@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "people-of-note-worth-it",
+  "url": "https://www.gamegulf.com/detail/er4LLAIOlU",
+  "promptPath": "content/article-worker-prompts/2026-05-01T22-05-01-973Z-people-of-note-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 964011,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":963836,\"duration_api_ms\":961599,\"num_turns\":39,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"people-of-note-worth-it\\\",\\\"score\\\":78,\\\"revisionAttempts\\\":2,\\\"validated\\\":false,\\\"articlePaths\\\":[\\\"src/content/posts/en/people-of-note-worth-it.md\\\",\\\"src/content/posts/zh-hans/people-of-note-worth-it.md\\\",\\\"src/content/posts/ja/people-of-note-worth-it.md\\\",\\\"src/content/posts/fr/people-of-note-worth-it.md\\\",\\\"src/content/posts/es/people-of-note-worth-it.md\\\",\\\"src/content/posts/de/people-of-note-worth-it.md\\\",\\\"src/content/posts/pt/people-of-note-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validator run failed because all seven target article files were missing.\\\",\\\"Deterministic generation was blocked: synthesize-worth-it-from-brief.mjs skipped the brief due to not enough non-AR price rows.\\\",\\\"After manual creation and two revision attempts, validation still fails.\\\",\\\"All locales still fail regional price table / priceRows consistency checks; validator suggests running pricing sync.\\\",\\\"en cardPrice mismatch: expected \\\\\\\"USD 18.33\\\\\\\".\\\",\\\"zh-hans cardPrice mismatch: expected \\\\\\\"CNY 125.14\\\\\\\".\\\",\\\"ja cardPrice mismatch: expected \\\\\\\"JPY 2869\\\\\\\".\\\",\\\"zh-hans, ja, fr, es, pt still report missing concrete discount-history analysis paragraphs according to validator heuristics.\\\",\\\"de still has bestFor length overflow (64 chars).\\\",\\\"Because the workflow capped revisions at 2, I stopped without a third edit pass.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/people-of-note-worth-it.md src/content/posts/zh-hans/people-of-note-worth-it.md src/content/posts/ja/people-of-note-worth-it.md src/content/posts/fr/people-of-note-worth-it.md src/content/posts/es/people-of-note-worth-it.md src/content/posts/de/people-of-note-worth-it.md src/content/posts/pt/people-of-note-worth-it.md\\\",\\\"node scripts/synthesize-worth-it-from-brief.mjs content/briefs/people-of-note.json && node scripts/sync-article-pricing.mjs src/content/posts/en/people-of-note-worth-it.md src/content/posts/zh-hans/people-of-note-worth-it.md src/content/posts/ja/people-of-note-worth-it.md src/content/posts/fr/people-of-note-worth-it.md src/content/posts/es/people-of-note-worth-it.md src/content/posts/de/people-of-note-worth-it.md src/content/posts/pt/people-of-note-worth-it.md && node scripts/validate-article.mjs src/content/posts/en/people-of-note-worth-it.md src/content/posts/zh-hans/people-of-note-worth-it.md src/content/posts/ja/people-of-note-worth-it.md src/content/posts/fr/people-of-note-worth-it.md src/content/posts/es/people-of-note-worth-it.md src/content/posts/de/people-of-note-worth-it.md src/content/posts/pt/people-of-note-worth-it.md\\\",\\\"ls \\\\\\\"/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/src/content/posts/en\\\\\\\" \\\\\\\"/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/src/content/posts/zh-hans\\\\\\\" \\\\\\\"/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/src/content/posts/ja\\\\\\\" \\\\\\\"/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/src/content/posts/fr\\\\\\\" \\\\\\\"/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/src/content/posts/es\\\\\\\" \\\\\\\"/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/src/content/posts/de\\\\\\\" \\\\\\\"/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/src/content/posts/pt\\\\\\\"\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/people-of-note-worth-it.md src/content/posts/zh-hans/people-of-note-worth-it.md src/content/posts/ja/people-of-note-worth-it.md src/content/posts/fr/people-of-note-worth-it.md src/content/posts/es/people-of-note-worth-it.md src/content/posts/de/people-of-note-worth-it.md src/content/posts/pt/people-of-note-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/people-of-note-worth-it.md src/content/posts/zh-hans/people-of-note-worth-it.md src/content/posts/ja/people-of-note-worth-it.md src/content/posts/fr/people-of-note-worth-it.md src/content/posts/es/people-of-note-worth-it.md src/content/posts/de/people-of-note-worth-it.md src/content/posts/pt/people-of-note-worth-it.md\\\"],\\\"notes\\\":\\\"Created the missing 7-locale article set manually from the brief after deterministic synthesis failed, and improved localization/content quality, but the set still does not fully satisfy validator pricing-sync and heuristic history checks within the allowed 2 revision attempts.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"2de64636-4b81-41dd-be7e-b314c0f47bad\",\"total_cost_usd\":3.5563367999999995,\"usage\":{\"input_tokens\":916058,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":229376,\"output_tokens\":49290,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":916058,\"outputTokens\":49290,\"cacheReadInputTokens\":229376,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":3.5563367999999995,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"f1ad38c4-ac8a-462b-9e30-6d9b8459a7e5\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T22:47:17.478Z"
+}

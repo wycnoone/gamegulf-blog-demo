@@ -37,7 +37,7 @@ fitLabel: Idéal entre deux gros jeux, pour décompresser sans prise de tête.
 timingNote: >-
   Compare ta ligne eShop au palier Espagne ~14,99 € ; si tu chasses le plancher,
   mets une alerte.
-communityVibe: "Chaos doux : chapeaux, bêtises, encore une rue à explorer."
+communityVibe: Bêtises de chat, chapeaux et objets poussés font le rêve
 playtime: ~3 h histoire / ~5–7 h tout faire
 reviewSignal: 78 Metacritic
 takeaway: >-
@@ -152,7 +152,7 @@ cardPriceNativeCurrency: EUR
 ---
 ## Verdict rapide
 
-**Little Kitty, Big City** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **78 Metacritic**.
+Pour décider sur **Little Kitty, Big City**, commencez par cette promesse concrète : **Bêtises de chat, chapeaux et objets poussés font le rêve**. La bonne décision dépend moins du score que de votre envie réelle pour cette boucle, puis du prix régional vérifié sur GameGulf.
 
 Little Kitty, Big City se recommande vite si le ton te parle ; le prix est défendable, mais pas le plancher absolu.
 
@@ -202,8 +202,9 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - ton budget du mois est reserve a d'autres titres
 - Tu veux du combat profond ou une courbe de progression longue.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. Promos occasionnelles : ~2 événements sur l’année, prix moyen promo ~17,75 €.
 
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price)** puis tranche achat vs attente.
+Pour **Little Kitty, Big City**, la valeur se mesure en petites habitudes plus qu’en ligne droite vers le générique. Bêtises de chat, chapeaux et objets poussés font le rêve conviendra aux joueurs qui aiment revenir souvent; ceux qui veulent une campagne serrée devraient attendre une grosse remise. Le volume à prévoir tourne autour de ~3 h histoire / ~5–7 h tout faire, à mesurer avec votre envie de revenir dessus.
+
+Avant d’acheter, regardez surtout le repère bas : €14.99 en Espagne. L’Espagne mène autour de ~14,99 € ; le Brésil et le Japon suivent sur le même snapshot. Pas exactement : ~11,35 € au Japon (18/08/2025) reste plus bas que le meilleur prix actuel. Promos occasionnelles : ~2 événements sur l’année, prix moyen promo ~17,75 €. Avant de valider l’achat, comparez votre ligne sur [GameGulf](https://www.gamegulf.com/detail/7W5fsHROeLo#currency-price) avec le plus bas enregistré. Si vous voulez jouer tout de suite, comparez la devise de votre compte; pour maximiser la valeur, attendez que GameGulf signale une remise plus franche.

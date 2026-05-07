@@ -42,7 +42,7 @@ mainFriction: Replays consécutifs si l'humour ne prend pas.
 timeFit: ~7 h histoire, ~11 h avec extras, ~21 h pour tout creuser.
 fitLabel: Pour ceux qui aiment le texte entre deux salles de combat.
 timingNote: Bloqué au prix catalogue UE ? Compare d'abord sur GameGulf.
-communityVibe: BO qui reste en boucle dans les playlists
+communityVibe: Choix de pitié, Sans et police anti-spoil définissent le fandom
 playtime: ~7 h · ~11 h+ extras · ~21 h complétion
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -157,10 +157,9 @@ cardPrice: EUR 5.77
 cardPriceNative: ¥1,069
 cardPriceNativeCurrency: JPY
 ---
-
 ## Verdict rapide
 
-**Undertale** sur **Switch** reste un **achat plaisir** si tu aimes les RPG textuels : **93 Metacritic**, et la grille GameGulf d'avril 2026 place encore le **Japon autour de ~5,77 €**, en phase avec le plancher suivi.
+**Undertale** se décide d’abord sur une envie précise : **Choix de pitié, Sans et police anti-spoil définissent le fandom**. Si cette promesse vous parle, Oui si le pitch te parle : Undertale reste un RPG indie court très cité ; les données indexées gardent le Japon autour d'une bande ~5,77 € proche du plus bas historique suivi, avec plusieurs baisses dans l'année.; si le prix visible tourne autour de ¥1,069, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 Ouvre d'abord **[GameGulf](https://www.gamegulf.com/detail/dvI6J2brEaR#currency-price)** pour voir ta ligne réelle.
 
@@ -201,6 +200,9 @@ Indices **promo** / **discount** : **16** baisses repérées sur un an vers **~8
 - **Attendre** si tu es à **14,99 €** persistant sans alerte **GameGulf**.
 - **Passer** si tu détestes mémoriser des bulles ou exiger du doublage intégral.
 
-## Dernière ligne
+## En résumé
 
-Goût d'abord, ligne eShop ensuite — **gamegulf.com** pour verrouiller le prix, puis panier.
+
+**Undertale** cible les joueurs qui aiment observer, déduire et relancer une piste jusqu’au déclic. Choix de pitié, Sans et police anti-spoil définissent le fandom est l’atout principal, mais le rythme peut sembler sec si vous cherchez une aventure guidée de bout en bout. Comptez ~7 h · ~11 h+ extras · ~21 h complétion avant de décider si le format colle à vos soirées.
+
+Pour le prix, partez du meilleur repère GameGulf : €5.77 au Japon. Avril 2026 — le Japon mène toujours vers ~5,77 € sur la grille ; le reste est au-dessus. La copie ~5,77 € au Japon revient (repères 2025-11-03 et 2026-04-05). Environ 16 épisodes de baisse sur un an, prix moyen promo ~8,89 € — ni hebdo, ni figé. Passez par [GameGulf](https://www.gamegulf.com/detail/dvI6J2brEaR#currency-price) avant de payer afin de comparer votre région au plus bas suivi. Achetez si votre région touche ce niveau; sinon, une alerte vaut mieux qu’un achat au catalogue.

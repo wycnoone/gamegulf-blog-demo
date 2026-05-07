@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "sonic-racing-crossworlds-worth-it",
+  "url": "https://www.gamegulf.com/detail/glVDopRk4Oh",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/sonic-racing-crossworlds-worth-it.md",
+    "src/content/posts/zh-hans/sonic-racing-crossworlds-worth-it.md",
+    "src/content/posts/ja/sonic-racing-crossworlds-worth-it.md",
+    "src/content/posts/fr/sonic-racing-crossworlds-worth-it.md",
+    "src/content/posts/es/sonic-racing-crossworlds-worth-it.md",
+    "src/content/posts/de/sonic-racing-crossworlds-worth-it.md",
+    "src/content/posts/pt/sonic-racing-crossworlds-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T23:18:05.534Z"
+}

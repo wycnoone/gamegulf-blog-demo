@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "ghost-trick-phantom-detective-worth-it",
+  "url": "https://www.gamegulf.com/detail/kfnv5sW1fei",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-ghost-trick-phantom-detective-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 1,
+  "signal": null,
+  "durationMs": 165073,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"error_max_budget_usd\",\"duration_ms\":164859,\"duration_api_ms\":158358,\"is_error\":true,\"num_turns\":37,\"stop_reason\":\"tool_use\",\"session_id\":\"5a3c9b21-4a81-483e-b4c2-15e537537b22\",\"total_cost_usd\":4.0923582000000005,\"usage\":{\"input_tokens\":1227454,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":401408,\"output_tokens\":8231,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":1280545,\"outputTokens\":8400,\"cacheReadInputTokens\":415744,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":4.0923582000000005,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"fast_mode_state\":\"off\",\"uuid\":\"c1a07421-c4ca-483b-82c8-abe3bbfc0800\",\"errors\":[\"Reached maximum budget ($4)\"]}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:50:51.257Z"
+}

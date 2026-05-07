@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "olliolli-world-worth-it",
+  "url": "https://www.gamegulf.com/detail/gCg2uQJJfO1",
+  "promptPath": "content/article-worker-prompts/2026-05-01T23-02-57-661Z-olliolli-world-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 63556,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":63379,\"duration_api_ms\":62262,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"olliolli-world-worth-it\\\",\\\"score\\\":91,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/olliolli-world-worth-it.md\\\",\\\"src/content/posts/zh-hans/olliolli-world-worth-it.md\\\",\\\"src/content/posts/ja/olliolli-world-worth-it.md\\\",\\\"src/content/posts/fr/olliolli-world-worth-it.md\\\",\\\"src/content/posts/es/olliolli-world-worth-it.md\\\",\\\"src/content/posts/de/olliolli-world-worth-it.md\\\",\\\"src/content/posts/pt/olliolli-world-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors found across all 7 locales.\\\",\\\"Quality spot check only: EN copy is serviceable but still somewhat template-like in the body, especially the genre phrasing and performance section specificity.\\\",\\\"Quality spot check only: zh-hans and ja local names are correct and FAQ openings use the local display name as required.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/olliolli-world-worth-it.md src/content/posts/zh-hans/olliolli-world-worth-it.md src/content/posts/ja/olliolli-world-worth-it.md src/content/posts/fr/olliolli-world-worth-it.md src/content/posts/es/olliolli-world-worth-it.md src/content/posts/de/olliolli-world-worth-it.md src/content/posts/pt/olliolli-world-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on the first run, so no file edits were needed. Score reflects clean validation, correct localized naming in spot checks, explicit buy/wait guidance, and concrete GameGulf price anchors; small deductions are for somewhat generic memo depth in the sampled body copy.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"761f9407-11e9-4274-a441-e744aa66c2eb\",\"total_cost_usd\":0.6995117999999999,\"usage\":{\"input_tokens\":215719,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":1770,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":215719,\"outputTokens\":1770,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6995117999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"b997e4f9-20fa-4408-bdee-5f255eb85617\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T23:15:51.074Z"
+}

@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "there-is-no-game-wrong-dimension-worth-it",
+  "url": "https://www.gamegulf.com/detail/9wqh0zfY5ag",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/there-is-no-game-wrong-dimension-worth-it.md",
+    "src/content/posts/zh-hans/there-is-no-game-wrong-dimension-worth-it.md",
+    "src/content/posts/ja/there-is-no-game-wrong-dimension-worth-it.md",
+    "src/content/posts/fr/there-is-no-game-wrong-dimension-worth-it.md",
+    "src/content/posts/es/there-is-no-game-wrong-dimension-worth-it.md",
+    "src/content/posts/de/there-is-no-game-wrong-dimension-worth-it.md",
+    "src/content/posts/pt/there-is-no-game-wrong-dimension-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:15:42.055Z"
+}

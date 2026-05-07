@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "psyvariar3-worth-it",
+  "url": "https://www.gamegulf.com/detail/9ZIG09suBe5",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-psyvariar3-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 61859,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":61679,\"duration_api_ms\":60334,\"num_turns\":8,\"result\":\"{\\\"status\\\":\\\"blocked\\\",\\\"slug\\\":\\\"psyvariar3-worth-it\\\",\\\"score\\\":0,\\\"revisionAttempts\\\":0,\\\"validated\\\":false,\\\"articlePaths\\\":[\\\"src/content/posts/en/psyvariar3-worth-it.md\\\",\\\"src/content/posts/zh-hans/psyvariar3-worth-it.md\\\",\\\"src/content/posts/ja/psyvariar3-worth-it.md\\\",\\\"src/content/posts/fr/psyvariar3-worth-it.md\\\",\\\"src/content/posts/es/psyvariar3-worth-it.md\\\",\\\"src/content/posts/de/psyvariar3-worth-it.md\\\",\\\"src/content/posts/pt/psyvariar3-worth-it.md\\\"],\\\"issues\\\":[\\\"All 7 expected article files are missing.\\\",\\\"Validator returned hard errors for every locale: File not found.\\\",\\\"Deterministic synthesis skipped content/briefs/psyvariar3.json because there are not enough non-AR price rows (need 4+).\\\",\\\"Pricing sync failed because the article files do not exist.\\\",\\\"The brief has no populated price rows, no low-price entries, and no sale history for either Switch platform, so the required price-driven article generation path is blocked.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/psyvariar3-worth-it.md src/content/posts/zh-hans/psyvariar3-worth-it.md src/content/posts/ja/psyvariar3-worth-it.md src/content/posts/fr/psyvariar3-worth-it.md src/content/posts/es/psyvariar3-worth-it.md src/content/posts/de/psyvariar3-worth-it.md src/content/posts/pt/psyvariar3-worth-it.md\\\",\\\"node scripts/synthesize-worth-it-from-brief.mjs content/briefs/psyvariar3.json\\\",\\\"node scripts/sync-article-pricing.mjs src/content/posts/en/psyvariar3-worth-it.md src/content/posts/zh-hans/psyvariar3-worth-it.md src/content/posts/ja/psyvariar3-worth-it.md src/content/posts/fr/psyvariar3-worth-it.md src/content/posts/es/psyvariar3-worth-it.md src/content/posts/de/psyvariar3-worth-it.md src/content/posts/pt/psyvariar3-worth-it.md\\\"],\\\"notes\\\":\\\"Blocked before revision: the source brief lacks the minimum pricing/history data needed for deterministic generation, so no locale article files could be created or validated.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"96791bcb-d4eb-4ad2-89a7-17b40ca325f4\",\"total_cost_usd\":0.6134328,\"usage\":{\"input_tokens\":185731,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2029,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":185731,\"outputTokens\":2029,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6134328,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"99999c33-aefb-47f3-a05c-013c9527e024\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:17:40.404Z"
+}

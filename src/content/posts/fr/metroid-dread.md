@@ -40,7 +40,7 @@ mainFriction: Pics de difficulté et EMMI fatiguent les profils "aventure cool".
 timeFit: ~9h main, ~12h extras, ~14h complétion (moyennes communauté).
 fitLabel: Joueurs qui aiment maîtriser un rythme, pas le farming chill.
 timingNote: Comparez votre ligne eShop aux ancres HK/JP avant de valider le plein tarif.
-communityVibe: Bruits de pas EMMI — toujours dans la tête
+communityVibe: Panique E.M.M.I., parades et flow de carte font Dread
 playtime: ~9h main · ~12h+ extras · ~14h complétion
 reviewSignal: 88 Metacritic
 takeaway: >-
@@ -177,7 +177,7 @@ cardPriceNativeCurrency: HKD
 ---
 ## Verdict rapide
 
-**Metroid Dread** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **88 Metacritic**.
+Pour décider sur **Metroid Dread**, commencez par cette promesse concrète : **Panique E.M.M.I., parades et flow de carte font Dread**. Si cette promesse vous parle et que votre région GameGulf est déjà en promo, l’achat est facile à défendre; au plein tarif, ne vous pressez pas.
 
 Metroid Dread reste un achat qualité pour les bons profils — le vrai risque est régional.
 
@@ -226,7 +226,9 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - ton budget du mois est reserve a d'autres titres
 - Évitez si chasses EMMI et wipes boss vous épuisent.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. le vrai risque est régional.
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price)** puis tranche achat vs attente.
+
+**Metroid Dread** vise les joueurs qui aiment sentir leur maîtrise monter manette en main. Si panique E.M.M.I., parades et flow de carte font Dread vous attire, l’achat a du sens; si pics de difficulté et EMMI fatiguent les profils "aventure cool vous rebute déjà, le jeu ne changera pas de nature en promo. Prenez ~9h histoire · ~12h+ extras · ~14h complétion comme ordre de grandeur pour juger l’achat.
+
+Pour le prix, partez du meilleur repère GameGulf : €36.44 à Hong Kong. Le numérique indexé ouvre sur Hong Kong ~36,44 EUR équivalent (329 HK$), puis Japon, US/UK/BR, puis plusieurs fronts ~59,99 EUR (instantané avril 2026). Flux sans promos nettes sur l'année — traitez le prix comme du catalogue, pas une promo flash. Les soldes Nintendo rabotent peu les first-party — patience = petits gains, pas des -75 %. Passez par [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) avant de payer afin de comparer votre région au plus bas suivi. Le bon réflexe : acheter sur une ligne proche du bas, patienter dès que votre boutique repasse au tarif plein.

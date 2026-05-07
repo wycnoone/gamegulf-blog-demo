@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "iconoclasts-worth-it",
+  "url": "https://www.gamegulf.com/detail/ieou58izskg",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/iconoclasts-worth-it.md",
+    "src/content/posts/zh-hans/iconoclasts-worth-it.md",
+    "src/content/posts/ja/iconoclasts-worth-it.md",
+    "src/content/posts/fr/iconoclasts-worth-it.md",
+    "src/content/posts/es/iconoclasts-worth-it.md",
+    "src/content/posts/de/iconoclasts-worth-it.md",
+    "src/content/posts/pt/iconoclasts-worth-it.md"
+  ],
+  "capturedAt": "2026-05-07T06:27:36.660Z"
+}

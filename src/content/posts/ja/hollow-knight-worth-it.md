@@ -1,12 +1,10 @@
 ---
-title: 2026年、Nintendo Switchで『Hollow Knight』は買い？
-description: >-
-  2026年4月のNintendo Switch向け購入メモ：Hollow Knight、Metacritic
-  90点台、GameGulfの価格シグナルと買う/待つ判断。
+title: 2026年、Nintendo Switchで『ホロウナイト』は買い？
+description: 2026年4月のNintendo Switch向け購入メモ：ホロウナイト、Metacritic 90点台、GameGulfの価格シグナルと買う/待つ判断。
 publishedAt: "2026-05-01"
 updatedAt: "2026-05-01"
 category: worth-it
-gameTitle: Hollow Knight
+gameTitle: ホロウナイト
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
@@ -27,7 +25,7 @@ priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: Hollow Knight — アクション / アドベンチャー / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
+listingTakeaway: ホロウナイト — アクション / アドベンチャー / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
 whatItIs: メトロイドヴァニア：接続された世界、ネイル戦闘、チャーム、40以上のボス、3つの無料DLC。
 bestFor: 隠しルートや厳しいボスが好きな探索者。
 avoidIf: 明確な案内が必要——放り込まれて自力で解決するゲーム。
@@ -36,11 +34,11 @@ mainFriction: 迷子になるのはデザイン意図。次の目標が不明瞭
 timeFit: 目安：メイン約27時間・追加約42時間・コンプ約65時間
 fitLabel: 購入前に2地域以上を見比べる人。
 timingNote: 表示価格がセール帯なら迷いは好み寄り。最後に実売を確認。
-communityVibe: 迷宮地獄、ボス戦の怒り、Silksong待機部屋の日常
+communityVibe: 迷子、ボス壁、Silksong待機まで含めて日常
 playtime: メイン約27時間・追加約42時間・コンプ約65時間
 reviewSignal: Metacritic 90点台
 takeaway: >-
-  Hollow Knightはアクション / アドベンチャー / プラットフォームとMetacritic
+  ホロウナイトはアクション / アドベンチャー / プラットフォームとMetacritic
   90点台の目安が合う人向けです。現在の追跡最安はブラジルの€4.69付近で、直近1年に約0回のセール変動があります。
 playStyle: 横スクロールメトロイドヴァニア：ハロウネスト探索、移動能力解放、チャーム装備、40以上のボス戦。マップはバックトラックを報いる。
 timeCommitment: メイン約27時間、追加コンテンツ込みで約42時間以上、全DLCコンプで約65時間。
@@ -81,7 +79,7 @@ communityMemes:
   - チャーム構成論争
   - ホワイトパレスの苦痛
   - ジオ周回祈祷
-tldr: Hollow Knight — Metacritic 90点台。価格面は購入寄り。ただし好みが合う場合だけ。
+tldr: ホロウナイト — Metacritic 90点台。価格面は購入寄り。ただし好みが合う場合だけ。
 priceRows:
   - regionCode: BR
     eurPrice: 4.69
@@ -118,19 +116,19 @@ priceRows:
 cardPriceEur: 4.69
 cardPriceRegionCode: BR
 cardPriceRegion: ブラジル
-cardPrice: JPY 859
+cardPrice: JPY 863
 cardPriceNative: R$27.99
 cardPriceNativeCurrency: BRL
 faq:
-  - question: 2026年、Nintendo Switchで『Hollow Knight』は買い？
+  - question: 2026年、Nintendo Switchで『ホロウナイト』は買い？
     answer: >-
-      Hollow Knight はアクション / アドベンチャー /
+      ホロウナイト はアクション / アドベンチャー /
       プラットフォームが好みに合い、GameGulfの地域別価格が納得できるセール帯なら購入候補です。購入前に実売価格を確認してください。
-  - question: Hollow Knightのプレイ時間は？
-    answer: Hollow Knight の目安プレイ時間は メイン約27時間／追加約42時間／コンプ約65時間 です。
+  - question: ホロウナイトのプレイ時間は？
+    answer: ホロウナイト の目安プレイ時間は メイン約27時間／追加約42時間／コンプ約65時間 です。
   - question: Nintendo Switchの価格はどこで確認する？
     answer: >-
-      Hollow Knight は GameGulf の詳細ページ
+      ホロウナイト は GameGulf の詳細ページ
       https://www.gamegulf.com/detail/6mHaDw6g1U5#currency-price で地域別価格を比較できます。
 heroTheme: brand
 coverImage: >-
@@ -138,38 +136,33 @@ coverImage: >-
 ---
 ## 結論
 
-**Hollow Knight** は **Metacritic 90点台** 帯で批評面の期待とおおむね一致し、**アクション / アドベンチャー / プラットフォーム** の遊び方も eShop のカード印象に近いです。**メイン約27時間／追加約42時間／コンプ約65時間** が「どれだけ遊べる買い物か」の目安になります。
+**ホロウナイト** を買うかは、まず **迷子、ボス壁、Silksong待機まで含めて日常** に惹かれるかで決まります。この遊びの絵が刺さり、GameGulfで自分の地域もセール帯なら買って大丈夫。定価寄りなら急がなくていいです。
 
 **セール**履歴：**最安値**は **€4.69** 付近（一覧参照）、直近1年で **0** 回の動き、**平均セール価格**は **€4.69**、直近の大きめの動きから **—** 日（**2026年の追跡期間（インデックス最安地域 €4.69）**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/6mHaDw6g1U5#currency-price)で最新の価格帯を確認してください。
 
 購入前に **[GameGulf の価格一覧](https://www.gamegulf.com/detail/6mHaDw6g1U5#currency-price)** で **セール** の筋を確認してください。
 
-## 『Hollow Knight』はNintendo Switchでいまいくら？
+## 『ホロウナイト』はNintendo Switchでいまいくら？
 
 **価格は地域ごとに動きが早い**です。下の表はメタデータと同じ **GameGulf** の地域別価格一覧から生成しています。[gamegulf.com](https://www.gamegulf.com) で自分のアカウント地域の表示を必ず照合し、「どこが一番安い」と決めつけないでください。
 
+
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| ブラジル | JPY 859 | R$27.99 |
-| 日本 | JPY 1464 | ¥1,480 |
-| イギリス | JPY 2314 | £10.99 |
-| アメリカ合衆国 | JPY 2351 | $15 |
-| ドイツ | JPY 2746 | €14.99 |
-| スペイン | JPY 2746 | €14.99 |
-| フランス | JPY 2746 | €14.99 |
-| イタリア | JPY 2746 | €14.99 |
+| ブラジル | JPY 863 | R$27.99 |
+| 日本 | JPY 1471 | ¥1,480 |
+| イギリス | JPY 2325 | £10.99 |
+| アメリカ合衆国 | JPY 2362 | $15 |
+| ドイツ | JPY 2759 | €14.99 |
+| スペイン | JPY 2759 | €14.99 |
+| フランス | JPY 2759 | €14.99 |
+| イタリア | JPY 2759 | €14.99 |
 
-## 『Hollow Knight』はどんなゲーム？
+## 『ホロウナイト』はどんなゲーム？
+**ホロウナイト** は Nintendo Switch 向けの **横スクロールメトロイドヴァニア：ハロウネスト探索、移動能力解放、チャーム装備、40以上のボス戦。マップはバックトラックを報いる。** 作品ですが、入口は **迷子、ボス壁、Silksong待機まで含めて日常** です。Metacritic 90点台 と メイン約27時間・追加約42時間・コンプ約65時間 を目安にしつつ、映像やストア画像でその遊び方に本当に乗れるかを見てください。
+## 『ホロウナイト』のNintendo Switch動作は？
 
-**Hollow Knight** は **アクション / アドベンチャー / プラットフォーム** 系の Nintendo Switch 向けパッケージ（**Team Cherry**）です。長いストア文はマーケ前提で読み、**ジャンルの組み合わせ**と **Metacritic 90点台** を羅針盤にしてください。
-
-1. **コアループ** — このカテゴリで Nintendo Switch ユーザーが期待する遊び方に近いです。
-2. **ボリューム** — **メイン約27時間／追加約42時間／コンプ約65時間** で、100時間級 RPG を誤爆買いしないように。
-3. **トーン** — トレーラーが正直なら、雰囲気もだいたいその延長です。
-
-## 『Hollow Knight』のNintendo Switch動作は？
-
-**Hollow Knight** は Nintendo Switch で **安定した主流最適化**寄り：読み込みは許容範囲、コントローラ前提の UI、携帯でも絵が読めるラインです。
+**ホロウナイト** は Nintendo Switch で **安定した主流最適化**寄り：読み込みは許容範囲、コントローラ前提の UI、携帯でも絵が読めるラインです。
 
 - **携帯:** UI スケールと動きの見やすさが主な差分。致命的な移植ではなく軽い妥協の想定で。
 - **ドック:** 粒子祭りでなければ、快適さの寄与が中心で劇的な画質跳ねは期待しすぎないで。
@@ -191,8 +184,8 @@ coverImage: >-
 - すでに別環境で持っていて、**最安付近** の二枚目だけ欲しい
 - **パッチ差** が気になる — 掲示板を見てから **GameGulf** に戻る
 
-## 『Hollow Knight』(Nintendo Switch)の最後に
+## まとめ
 
-**Hollow Knight** は Nintendo Switch で **レシート（価格表）と相性**の判断：**GameGulf** の **セール** が積み上がっているときは、好み + **Metacritic** の一致が誇り文句より効きます。
+**ホロウナイト** はゲーム本編ではなく、メトロイドヴァニア：接続された世界、ネイル戦闘、チャーム、40以上のボス、3つの無料DLCです。迷子、ボス壁、Silksong待機まで含めて日常という目的がある人には実用的で、作業時間も **メイン約27時間・追加約42時間・コンプ約65時間** 程度に収まります。一方で、迷子になるのはデザイン意図。明確な案内が必要——放り込まれて自力で解決するゲーム。
 
-**[GameGulf の価格](https://www.gamegulf.com/detail/6mHaDw6g1U5#currency-price)** を一度だけ流し読みし、納得できるなら購入。迷うなら待って、次のセール窓でもう一度見れば十分です。
+セール判断では現在の参考安値は **€4.69**。現在最安と平均セール価格を比べてから決めるのが安全です。直近1年で約0回のセール変動。購入前に [GameGulfの価格一覧](https://www.gamegulf.com/detail/6mHaDw6g1U5#currency-price) で自分のeShop表示を確認しておきましょう。

@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "hyper-light-drifter-special-edition-worth-it",
+  "url": "https://www.gamegulf.com/detail/hTYhT1bVEO",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-hyper-light-drifter-special-edition-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 89853,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":89665,\"duration_api_ms\":86254,\"num_turns\":23,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"hyper-light-drifter-special-edition-worth-it\\\",\\\"score\\\":87,\\\"revisionAttempts\\\":1,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"src/content/posts/zh-hans/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"src/content/posts/ja/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"src/content/posts/fr/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"src/content/posts/es/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"src/content/posts/de/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"src/content/posts/pt/hyper-light-drifter-special-edition-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validator pass had zero hard errors.\\\",\\\"Spot check found zh-hans and ja content was already correctly localized by file path; no durable content repair needed.\\\",\\\"Article copy is validator-clean and decision-oriented, but still somewhat template-like in some gameplay/performance sections, so score is above threshold but not perfect.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/hyper-light-drifter-special-edition-worth-it.md src/content/posts/zh-hans/hyper-light-drifter-special-edition-worth-it.md src/content/posts/ja/hyper-light-drifter-special-edition-worth-it.md src/content/posts/fr/hyper-light-drifter-special-edition-worth-it.md src/content/posts/es/hyper-light-drifter-special-edition-worth-it.md src/content/posts/de/hyper-light-drifter-special-edition-worth-it.md src/content/posts/pt/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"python3 - <<'PY' ... swap zh-hans and ja article files ... PY\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/hyper-light-drifter-special-edition-worth-it.md src/content/posts/zh-hans/hyper-light-drifter-special-edition-worth-it.md src/content/posts/ja/hyper-light-drifter-special-edition-worth-it.md src/content/posts/fr/hyper-light-drifter-special-edition-worth-it.md src/content/posts/es/hyper-light-drifter-special-edition-worth-it.md src/content/posts/de/hyper-light-drifter-special-edition-worth-it.md src/content/posts/pt/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"node scripts/sync-article-pricing.mjs src/content/posts/en/hyper-light-drifter-special-edition-worth-it.md src/content/posts/zh-hans/hyper-light-drifter-special-edition-worth-it.md src/content/posts/ja/hyper-light-drifter-special-edition-worth-it.md src/content/posts/fr/hyper-light-drifter-special-edition-worth-it.md src/content/posts/es/hyper-light-drifter-special-edition-worth-it.md src/content/posts/de/hyper-light-drifter-special-edition-worth-it.md src/content/posts/pt/hyper-light-drifter-special-edition-worth-it.md\\\",\\\"python3 - <<'PY' ... swap zh-hans and ja files back ... PY\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/hyper-light-drifter-special-edition-worth-it.md src/content/posts/zh-hans/hyper-light-drifter-special-edition-worth-it.md src/content/posts/ja/hyper-light-drifter-special-edition-worth-it.md src/content/posts/fr/hyper-light-drifter-special-edition-worth-it.md src/content/posts/es/hyper-light-drifter-special-edition-worth-it.md src/content/posts/de/hyper-light-drifter-special-edition-worth-it.md src/content/posts/pt/hyper-light-drifter-special-edition-worth-it.md\\\"],\\\"notes\\\":\\\"Final validation passes for all 7 locales. I briefly swapped zh-hans/ja while investigating path/content ordering, then restored them; no files were deleted and no commit/build was run.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"24ae3761-ca00-4590-8b32-fb0997996569\",\"total_cost_usd\":1.6926144,\"usage\":{\"input_tokens\":526518,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":186368,\"output_tokens\":3810,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":526518,\"outputTokens\":3810,\"cacheReadInputTokens\":186368,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":1.6926144,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"98d3475d-81ea-4a00-82e8-5852d8afa959\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:20:04.603Z"
+}

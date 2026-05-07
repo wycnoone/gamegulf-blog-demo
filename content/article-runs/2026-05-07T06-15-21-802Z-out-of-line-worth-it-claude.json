@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "out-of-line-worth-it",
+  "url": "https://www.gamegulf.com/detail/hUpbpKWpEWj",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-out-of-line-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 86659,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":86472,\"duration_api_ms\":84634,\"num_turns\":19,\"result\":\"{\\n  \\\"status\\\": \\\"passed\\\",\\n  \\\"slug\\\": \\\"out-of-line-worth-it\\\",\\n  \\\"score\\\": 90,\\n  \\\"revisionAttempts\\\": 1,\\n  \\\"validated\\\": true,\\n  \\\"articlePaths\\\": [\\n    \\\"src/content/posts/en/out-of-line-worth-it.md\\\",\\n    \\\"src/content/posts/zh-hans/out-of-line-worth-it.md\\\",\\n    \\\"src/content/posts/ja/out-of-line-worth-it.md\\\",\\n    \\\"src/content/posts/fr/out-of-line-worth-it.md\\\",\\n    \\\"src/content/posts/es/out-of-line-worth-it.md\\\",\\n    \\\"src/content/posts/de/out-of-line-worth-it.md\\\",\\n    \\\"src/content/posts/pt/out-of-line-worth-it.md\\\"\\n  ],\\n  \\\"issues\\\": [\\n    \\\"Initial validation passed with zero hard errors.\\\",\\n    \\\"Spot check found en/zh-hans/ja body sections were too generic around game specifics and Switch performance.\\\",\\n    \\\"Revised en/zh-hans/ja what-it-is and performance sections with brief-backed anchors: San, Factory, 2D puzzle-platform adventure, single-player, chapter progression, environmental puzzles, Nerd Monkeys, Hatinh Interactive, controller support, and Metacritic 71.\\\"\\n  ],\\n  \\\"commandsRun\\\": [\\n    \\\"node scripts/validate-article.mjs src/content/posts/en/out-of-line-worth-it.md src/content/posts/zh-hans/out-of-line-worth-it.md src/content/posts/ja/out-of-line-worth-it.md src/content/posts/fr/out-of-line-worth-it.md src/content/posts/es/out-of-line-worth-it.md src/content/posts/de/out-of-line-worth-it.md src/content/posts/pt/out-of-line-worth-it.md\\\",\\n    \\\"node scripts/validate-article.mjs src/content/posts/en/out-of-line-worth-it.md src/content/posts/zh-hans/out-of-line-worth-it.md src/content/posts/ja/out-of-line-worth-it.md src/content/posts/fr/out-of-line-worth-it.md src/content/posts/es/out-of-line-worth-it.md src/content/posts/de/out-of-line-worth-it.md src/content/posts/pt/out-of-line-worth-it.md\\\"\\n  ],\\n  \\\"notes\\\": \\\"Validator passes for all seven locales. Score is 90 after one revision pass; en/zh-hans/ja spot-check sections now read more like compact buying research memos with concrete brief-backed anchors.\\\"\\n}\",\"stop_reason\":\"end_turn\",\"session_id\":\"1382f10e-f870-486f-bb14-685ad2f62d65\",\"total_cost_usd\":1.1779302,\"usage\":{\"input_tokens\":355376,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":129024,\"output_tokens\":4873,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":355376,\"outputTokens\":4873,\"cacheReadInputTokens\":129024,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":1.1779302,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"91eb562e-d1aa-4a16-b8ee-9241dd14327b\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:24:21.749Z"
+}

@@ -36,7 +36,7 @@ mainFriction: Menos horas que JRPG ao mesmo preço — valor é densidade e repl
 timeFit: ~10 h história, ~14 h extras, ~20 h completion.
 fitLabel: Sessões curtas, coop no sofá e polimento Nintendo.
 timingNote: Usa a âncora Japão como referência — histórico de grandes saldos é raro aqui.
-communityVibe: Memes Wonder Flower, Mario elefante, standees de resgate
+communityVibe: Flores maravilha, insígnias e elefante renovam Mario 2D
 playtime: 10h main · 14h+ extras · ~20h completionist
 reviewSignal: 92 Metacritic
 takeaway: >-
@@ -141,7 +141,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Super Mario Bros. Wonder** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **92 Metacritic**.
+**Super Mario Bros. Wonder** vale pela vontade concreta de jogar **Flores maravilha, insígnias e elefante renovam Mario 2D**. Se isso combina com você, Compra ao preço de lista se queres 2D Mario polido com efeitos Wonder e coop no sofá — first-party raramente desaba muito aqui. Pula se só perseguires mínimos históricos ou odiares 2D Mario.; se o preço visto fica perto de ¥6,500, confira antes sua região de Nintendo Switch no GameGulf.
 
 Wonder é o referencial 2D Mario moderno — paga lista se o formato encaixa; alerta só se recusas preços first-party.
 
@@ -186,7 +186,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Evita se só compras em mínimos históricos profundos ou odeias 2D Mario.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. paga lista se o formato encaixa; alerta só se recusas preços first-party.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price)** e decide compra vs espera.
+Pense em **Super Mario Bros. Wonder** como uma compra de perfil: o atrativo está em **Flores maravilha, insígnias e elefante renovam Mario 2D**, não em preencher backlog por impulso. O pacote entrega **set-pieces Wonder, distintivos, modos Yoshi/Nabbit, coop local para quatro, silhuetas online, standees e o Reino das Flores**. É uma boa aposta para famílias com níveis curtos e coop; perde força se menos horas que JRPG ao mesmo preço — valor é densidade e replay. O tempo estimado é **10h principal · 14h+ extras · ~20h 100%**, então vale pensar se esse espaço cabe na sua rotina.
+
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price): o menor preço atual indexado aparece perto de **EUR 35.34** em **Japão**; o mínimo histórico citado fica em **€35**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

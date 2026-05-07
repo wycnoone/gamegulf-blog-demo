@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "goodnight-universe-worth-it",
+  "url": "https://www.gamegulf.com/detail/g0QkGPqLJFU",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/goodnight-universe-worth-it.md",
+    "src/content/posts/zh-hans/goodnight-universe-worth-it.md",
+    "src/content/posts/ja/goodnight-universe-worth-it.md",
+    "src/content/posts/fr/goodnight-universe-worth-it.md",
+    "src/content/posts/es/goodnight-universe-worth-it.md",
+    "src/content/posts/de/goodnight-universe-worth-it.md",
+    "src/content/posts/pt/goodnight-universe-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T23:07:15.220Z"
+}

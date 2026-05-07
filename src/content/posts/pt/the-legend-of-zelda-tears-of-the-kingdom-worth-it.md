@@ -1,10 +1,6 @@
 ---
-title: >-
-  Vale a pena comprar The Legend of Zelda: Tears of the Kingdom no Switch em
-  2026?
-description: >-
-  Guia de compra — preços regionais na eShop, mundo em três camadas com
-  Ultrahand, tempos , alvo de 30 fps e se compensa comprar agora ou esperar.
+title: "Vale a pena comprar The Legend of Zelda: Tears of the Kingdom no Switch em 2026?"
+description: Guia de compra — preços regionais na eShop, mundo em três camadas com Ultrahand, tempos , alvo de 30 fps e se compensa comprar agora ou esperar.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -12,60 +8,36 @@ gameTitle: "The Legend of Zelda: Tears of the Kingdom"
 platform: Nintendo Switch
 author: GameGulf Editorial AI
 readingTime: 8 min de leitura
-decision: >-
-  Compra principal se você quer física criativa, céu/profundezas e 50–250h de
-  sandbox. Preço importa: compare a linha Japão com a sua conta.
-priceSignal: >-
-  Índice: Japão ~€42,95 (¥7.900), EUA ~€60,75 ($79,99). Zero promoções
-  rastreadas em um ano — típico Zelda first-party.
+decision: "Compra principal se você quer física criativa, céu/profundezas e 50–250h de sandbox. Preço importa: compare a linha Japão com a sua conta."
+priceSignal: "Índice: Japão ~€42,95 (¥7.900), EUA ~€60,75 ($79,99). Zero promoções rastreadas em um ano — típico Zelda first-party."
 heroStat: 96 Metacritic
-heroNote: >-
-  Continuação no porte de Breath: céu, Profundezas, Ultrahand — sistemas
-  sustentam centenas de horas.
+heroNote: "Continuação no porte de Breath: céu, Profundezas, Ultrahand — sistemas sustentam centenas de horas."
 badge: Worth It
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: >-
-  Zelda top no Switch — Japão é o mais barato rastreado; confira sua eShop vs
-  preço cheio EUA.
-whatItIs: >-
-  Open world no Switch: superfície, céu, Profundezas — Ultrahand/Fusão guiam o
-  jogo.
+listingTakeaway: "The Legend of Zelda: Tears of the Kingdom: Ultrahand maluca e desvios céu-profundezas criam"
+whatItIs: "Open world no Switch: superfície, céu, Profundezas — Ultrahand/Fusão guiam o jogo."
 bestFor: "50–250h: santuários, builds e metas livres."
 avoidIf: Campanhas curtas ou aversão a metas muito abertas.
 consensusPraise: Santuários, brinquedos Ultrahand e mapa triplo recompensam curiosidade.
 mainFriction: ~30 fps com quedas; escala pode perder quem quer roteiro fechado.
 timeFit: ~59h história, 117h+ extras, ~248h completo (média ).
 fitLabel: Jogadores de sistemas com tempo para campanhas longas solo.
-timingNote: >-
-  Sem calendário de promo fiel — linha Japão é âncora de preço baixo; com preço cheio,
-  alerta.
-communityVibe: Clips Ultrahand, atalhos de santuário, rotas nas Profundezas.
+timingNote: Sem calendário de promo fiel — linha Japão é âncora de preço baixo; com preço cheio, alerta.
+communityVibe: Ultrahand maluca e desvios céu-profundezas criam histórias
 playtime: 59h história · 117h+ extras · ~248h completo
 reviewSignal: 96 Metacritic
-takeaway: >-
-  Continua um motivo forte para ter Switch — compre se o preço regional couber;
-  senão acompanhe a próxima promo Nintendo.
-playStyle: >-
-  Exploração, santuários, veículos Ultrahand, combate, céu/Profundezas
-  opcionais.
+takeaway: Continua um motivo forte para ter Switch — compre se o preço regional couber; senão acompanhe a próxima promo Nintendo.
+playStyle: Exploração, santuários, veículos Ultrahand, combate, céu/Profundezas opcionais.
 timeCommitment: ": ~59h história, ~117h com extras, ~248h complecionista — muitas submissões."
 playMode: Um jogador.
-whyNow: >-
-  Qualidade justifica varejo para o perfil certo; diferença Japão/EUA segue
-  grande sem padrão de promo no índice.
-currentDeal: >-
-  Japão ~€42,95 (¥7.900); EUA ~€60,75 ($79,99); sem descontos ativos nas regiões
-  rastreadas.
-nearHistoricalLow: >-
-  Preços em faixa varejo normal — Japão é âncora global baixa no índice, não bug
-  de preço.
-salePattern: >-
-  Zelda first-party entra em promoções sazonais Nintendo; índice mostra 0
-  eventos de desconto no último ano.
+whyNow: Qualidade justifica varejo para o perfil certo; diferença Japão/EUA segue grande sem padrão de promo no índice.
+currentDeal: Japão ~€42,95 (¥7.900); EUA ~€60,75 ($79,99); sem descontos ativos nas regiões rastreadas.
+nearHistoricalLow: Preços em faixa varejo normal — Japão é âncora global baixa no índice, não bug de preço.
+salePattern: Zelda first-party entra em promoções sazonais Nintendo; índice mostra 0 eventos de desconto no último ano.
 priceRecommendation: buy
 quickFilters:
   - nintendo_first_party
@@ -92,9 +64,7 @@ communityMemes:
   - Experimentos de mudança de Koroks
   - Escudos foguete
   - Mais um santuário antes de dormir
-tldr: >-
-  The Legend of Zelda: Tears of the Kingdom — 96 Metacritic; Japão lidera o
-  índice; compre pela profundidade Ultrahand ou alerte se o preço cheio doer.
+tldr: "The Legend of Zelda: Tears of the Kingdom — 96 Metacritic; Japão lidera o índice; compre pela profundidade Ultrahand ou alerte se o preço cheio doer."
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price
 gameHref: https://www.gamegulf.com/detail/h14iXKeQ0PR
@@ -103,30 +73,15 @@ coverImage: https://cdn.gamegulf.com/upload/1740987463791129743524.jpeg
 heroTheme: brand
 faq:
   - question: Tears of the Kingdom vale a pena no Switch em 2026?
-    answer: >-
-      The Legend of Zelda: Tears of the Kingdom vale a pena em 2026 se você
-      curte exploração aberta, construção física e campanhas longas solo. Em
-      abril de 2026 o índice digital começa ~€42,95 equivalente no Japão versus
-      preço cheio mais alto nos EUA — verifique sua regão na grade ao vivo da GameGulf.
+    answer: "The Legend of Zelda: Tears of the Kingdom vale a pena em 2026 se você curte exploração aberta, construção física e campanhas longas solo. Em abril de 2026 o índice digital começa ~€42,95 equivalente no Japão versus preço cheio mais alto nos EUA — verifique sua regão na grade ao vivo da GameGulf."
   - question: Quanto tempo leva?
-    answer: >-
-      The Legend of Zelda: Tears of the Kingdom leva ~59h na história, ~117h com
-      muitos extras e ~248h no estilo complecionista segundo .
+    answer: "The Legend of Zelda: Tears of the Kingdom leva ~59h na história, ~117h com muitos extras e ~248h no estilo complecionista segundo ."
   - question: Como roda no Switch?
-    answer: >-
-      The Legend of Zelda: Tears of the Kingdom mira ~30 fps como Breath, com
-      resolução dinâmica TV/portátil — quedas em áreas densas ou cenas Ultrahand
-      enormes.
+    answer: "The Legend of Zelda: Tears of the Kingdom mira ~30 fps como Breath, com resolução dinâmica TV/portátil — quedas em áreas densas ou cenas Ultrahand enormes."
   - question: Jogar Breath antes?
-    answer: >-
-      The Legend of Zelda: Tears of the Kingdom é continuação narrativa direta —
-      com Breath os momentos de história pesam mais. Se só ferramentas importam,
-      pode começar aqui, mas referências enfraquecem.
+    answer: "The Legend of Zelda: Tears of the Kingdom é continuação narrativa direta — com Breath os momentos de história pesam mais. Se só ferramentas importam, pode começar aqui, mas referências enfraquecem."
   - question: Quem deve esperar?
-    answer: >-
-      The Legend of Zelda: Tears of the Kingdom encaixa pior se você odeia metas
-      abertas, não tem dezenas de horas ou recusa preço cheio — lista de desejos e
-      alerta para a próxima promo Nintendo.
+    answer: "The Legend of Zelda: Tears of the Kingdom encaixa pior se você odeia metas abertas, não tem dezenas de horas ou recusa preço cheio — lista de desejos e alerta para a próxima promo Nintendo."
 priceRows:
   - regionCode: JP
     eurPrice: 42.95
@@ -153,7 +108,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**The Legend of Zelda: Tears of the Kingdom** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **96 Metacritic**.
+A compra de **The Legend of Zelda: Tears of the Kingdom** começa pela pergunta simples: **Ultrahand maluca e desvios céu-profundezas criam histórias** combina com você? Se essa cena de jogo te pega e sua região no GameGulf já está em promoção, a compra faz sentido; no preço cheio, não precisa correr.
 
 Continua um motivo forte para ter Switch — compre se o preço regional couber; senão acompanhe a próxima promo Nintendo.
 
@@ -198,7 +153,8 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - teu orcamento do mes esta reservado para outros jogos
 - Campanhas curtas ou aversão a metas muito abertas.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. compre se o preço regional couber; senão acompanhe a próxima promo Nintendo.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price)** e decide compra vs espera.
+Pense em **The Legend of Zelda: Tears of the Kingdom** como uma compra de perfil: o atrativo está em **Ultrahand maluca e desvios céu-profundezas criam histórias**, não em preencher backlog por impulso. O pacote entrega **exploração aberta, santuários, veículos com Ultrahand, combate, céu e Profundezas opcionais**. É uma boa aposta para 50–250h: santuários, builds e metas livres; perde força se ~30 fps com quedas; escala pode perder quem quer roteiro fechado. O tempo estimado é **59h história · 117h+ extras · ~248h completo**, então vale pensar se esse espaço cabe na sua rotina.
+
+A conta fecha melhor depois de comparar regiões no [GameGulf](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price): o menor preço atual indexado aparece perto de **EUR 42.95** em **Japão**; o mínimo histórico citado fica em **€42**. Se o preço local não encostar no baixo atual ou no histórico, o caminho prudente é colocar alerta e aguardar promoção.
