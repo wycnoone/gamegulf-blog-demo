@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "sumire-worth-it",
+  "url": "https://www.gamegulf.com/detail/4LnuQj83T6c",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-sumire-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 54224,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":54046,\"duration_api_ms\":52984,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"sumire-worth-it\\\",\\\"score\\\":87,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/sumire-worth-it.md\\\",\\\"src/content/posts/zh-hans/sumire-worth-it.md\\\",\\\"src/content/posts/ja/sumire-worth-it.md\\\",\\\"src/content/posts/fr/sumire-worth-it.md\\\",\\\"src/content/posts/es/sumire-worth-it.md\\\",\\\"src/content/posts/de/sumire-worth-it.md\\\",\\\"src/content/posts/pt/sumire-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero errors on all 7 locales.\\\",\\\"Spot checks for en/zh-hans/ja show correct local display name usage for Sumire and FAQ answer openings.\\\",\\\"Buy/wait guidance is explicit and generally useful, with concrete regional price spread references.\\\",\\\"Price logic uses GameGulf indexed rows and trend/history data, but some body copy still leans on templated phrasing and slightly awkward analytics wording (for example 'global low' phrasing versus actual historical trend low).\\\",\\\"Body quality is acceptable and localized, though still somewhat generic in places rather than fully research-memo specific to Sumire's one-day narrative structure and choice-based loop.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/sumire-worth-it.md src/content/posts/zh-hans/sumire-worth-it.md src/content/posts/ja/sumire-worth-it.md src/content/posts/fr/sumire-worth-it.md src/content/posts/es/sumire-worth-it.md src/content/posts/de/sumire-worth-it.md src/content/posts/pt/sumire-worth-it.md\\\"],\\\"notes\\\":\\\"No revision was required. The article set cleared validation and scored above the 85 threshold after brief plus en/zh-hans/ja spot checks.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"55ed8c21-30da-4786-8ce7-6fa2cd48fad2\",\"total_cost_usd\":0.6929687999999999,\"usage\":{\"input_tokens\":212588,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":1960,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":212588,\"outputTokens\":1960,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6929687999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"471d8883-04fa-41b6-8098-a20f8466d427\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:02:52.424Z"
+}

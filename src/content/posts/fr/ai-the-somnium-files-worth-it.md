@@ -40,7 +40,7 @@ mainFriction: Premiers Somniums peuvent bloquer sans stratégie sauvegarde.
 timeFit: Plusieurs soirées — pas un walking sim express.
 fitLabel: Qui lit les lignes promo JP avant l’impulsion EU.
 timingNote: Si les lignes sont déjà basses, il reste surtout le backlog à vérifier.
-communityVibe: Ordre des routes, sel Somnium, twists spoilés
+communityVibe: Les Somnium et les blagues de Date gardent l’enquête nerveuse
 reviewSignal: 86 Metacritic
 takeaway: >-
   AI: THE SOMNIUM FILES reste une valeur critique solide — GameGulf impose le
@@ -69,7 +69,7 @@ playerVoices:
     sentiment: positive
   - quote: Somniums trop punishing au début.
     sentiment: mixed
-  - quote: Compare JP avant EU MSRP.
+  - quote: Compare JP avant EU prix catalogue.
     sentiment: positive
 communityMemes:
   - cope Somnium
@@ -142,7 +142,7 @@ playtime: "Estimation : ~3–8 h histoire, 8–15 h extras"
 ---
 ## Verdict rapide
 
-**AI: THE SOMNIUM FILES** affiche **86 Metacritic** — polar SF Spike Chunsoft avec **Somniums** chronométrés et ambiance anime assumée.
+**AI: THE SOMNIUM FILES** se décide d’abord sur une envie précise : **Les Somnium et les blagues de Date gardent l’enquête nerveuse**. Si cette promesse vous parle, Achetez si GameGulf affiche des lignes JP à ~€1,19 ; attendez si votre boutique reste à ~€19,99 seule.; si le prix visible tourne autour de €1.19, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 Historique indexé : **plus bas historique** ~**€1,19** au Japon (**2026-04-21**), **cinq** mouvements **promo** marqués sur un an, **moyenne promo** ~**€2,99**, dernier signal fort il y a **8** jours (**2026-04-21**, Japon **€1,19**). Confirmez sur [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price).
 
@@ -150,7 +150,7 @@ Historique indexé : **plus bas historique** ~**€1,19** au Japon (**2026-04-21
 
 ## Quel prix sur Switch aujourd’hui — tableau promo ?
 
-Les lignes suivent `priceRows` ; EUR équivalent selon logique GameGulf.
+Les lignes suivent instantané de prix ; EUR équivalent selon logique GameGulf.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -174,14 +174,15 @@ Interface narration prioritaire — peu d’enjeux d’image sauf cinématiques.
 
 ## Achetez si…
 
-- Votre ligne GameGulf aligne **€1,19–€4** au lieu de MSRP EU — [voir ici](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
+- Votre ligne GameGulf aligne **€1,19–€4** au lieu de prix catalogue EU — [voir ici](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)
 
 ## Attendez si…
 
 - Seule votre boutique montre **€19,99** alors que JP indexe **€1,19**
 
-## Synthèse
+## En résumé
 
-Quand **GameGulf** confirme encore des **historiques bas**, **AI: THE SOMNIUM FILES** reste un achat rationnel.
 
-Gardez **[gamegulf.com](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)** sous la main pour la prochaine **promo**.
+**AI: THE SOMNIUM FILES** parle d’abord aux joueurs qui aiment suivre une affaire, une route de personnages ou un récit à tiroirs. Le crochet est clair : Les Somnium et les blagues de Date gardent l’enquête nerveuse. Mais premiers Somniums peuvent bloquer sans stratégie sauvegarde peut casser l’élan si vous vouliez une expérience plus directe. Prenez ~3–8 h histoire, 8–15 h extras comme ordre de grandeur pour juger l’achat.
+
+Le signal tarifaire à surveiller est €1.19 au Japon. €1,19 JP aligné avec le plancher digital suivi. Environ cinq mouvements forts sur un an — promo JP récurrente. Ouvrez [GameGulf](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price) pour vérifier si votre boutique est vraiment proche du plancher ou seulement moins chère que l’Europe. À ce niveau, l’achat est défendable; au prix catalogue, mieux vaut attendre le prochain décrochage.

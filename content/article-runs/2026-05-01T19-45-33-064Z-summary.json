@@ -1,0 +1,70 @@
+{
+  "runId": "2026-05-01T19-45-33-064Z",
+  "startedAt": "2026-05-01T19:45:33.070Z",
+  "opts": {
+    "limit": 1,
+    "dryRun": false,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": true,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": false,
+    "delayMs": 1000,
+    "maxBudgetUsd": "4",
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits",
+    "claudeMode": "repair"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 45,
+    "pending": 130
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/ns2-batch-active-urls.txt"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-45-33-064Z",
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "startedAt": "2026-05-01T19:45:33.071Z",
+      "finishedAt": "2026-05-01T19:47:47.279Z",
+      "result": {
+        "status": "passed",
+        "slug": "lego-ninjago-movie-video-game-worth-it",
+        "score": 94,
+        "revisionAttempts": 1,
+        "validated": true,
+        "articlePaths": [
+          "src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md"
+        ],
+        "issues": [],
+        "commandsRun": [
+          "node scripts/validate-article.mjs src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md",
+          "node scripts/validate-article.mjs src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md"
+        ],
+        "notes": "Fixed English field-length and discount-history issues, corrected zh-hans TLDR prefix and added concrete sale-history anchors, spot-checked en/zh-hans/ja localization, and revalidated all 7 locales with zero errors.",
+        "rawPath": "content/article-runs/2026-05-01T19-45-33-064Z-lego-ninjago-movie-video-game-worth-it-claude.json",
+        "promptPath": "content/article-worker-prompts/2026-05-01T19-45-33-064Z-lego-ninjago-movie-video-game-worth-it.md"
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:47:48.279Z",
+  "finalQueueSummary": {
+    "done": 46,
+    "pending": 129
+  }
+}

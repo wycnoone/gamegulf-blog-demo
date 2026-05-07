@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "pentiment-worth-it",
+  "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/pentiment-worth-it.md",
+    "src/content/posts/zh-hans/pentiment-worth-it.md",
+    "src/content/posts/ja/pentiment-worth-it.md",
+    "src/content/posts/fr/pentiment-worth-it.md",
+    "src/content/posts/es/pentiment-worth-it.md",
+    "src/content/posts/de/pentiment-worth-it.md",
+    "src/content/posts/pt/pentiment-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:26:31.791Z"
+}

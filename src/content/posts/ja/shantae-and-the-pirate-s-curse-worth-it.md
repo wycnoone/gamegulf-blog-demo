@@ -10,7 +10,7 @@ gameTitle: シャンティと海賊の呪い
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 分
 decision: WayForward好きなら名作枠。ただし欧州€16.22帯が多く、深いセールまでGameGulfで監視が安全。
@@ -36,7 +36,7 @@ mainFriction: 取りこぼすと後半の往復が増える。
 timeFit: 本編は週末想定；回収で伸びる。
 fitLabel: 価格が定価帯かセールかをGameGulfで見比べる人向け。
 timingNote: すでに低位行なら味方優先。
-communityVibe: ドット作画とサントラが人気のシリーズ屈指の出来
+communityVibe: 海賊装備、リスキーとの掛け合い、変身なし強化が効く
 reviewSignal: Metacritic 86前後
 takeaway: 品質は好み次第でほぼ確定。財布は指数曲線に従うのが大人。
 playStyle: アクション、アドベンチャー、プラットフォーマー
@@ -87,16 +87,67 @@ heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
 playtime: "目安: 1ラン約5–15分、反復で伸びる"
+priceRows:
+  - regionCode: DE
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 16.77
+    nativePrice: £14.59
+    nativeCurrency: GBP
+  - regionCode: US
+    eurPrice: 17.1
+    nativePrice: $19.99
+    nativeCurrency: USD
+  - regionCode: BR
+    eurPrice: 17.61
+    nativePrice: R$104.99
+    nativeCurrency: BRL
+cardPriceEur: 16.22
+cardPriceRegionCode: DE
+cardPriceRegion: ドイツ
+cardPrice: JPY 2986
+cardPriceNative: €16.22
+cardPriceNativeCurrency: EUR
 ---
 ## クイック判定
 
-**シャンティと海賊の呪い**は**魔法を失ったシャンティ**が**リスキーの海賊装備**（銃・刀・浮く帽子・大砲ジャンプ）で**呪われた島**を開く編。**WayForward**らしい**大きなドット絵**と**軽口**が核で、**Switch**レビューは**~86 Metacritic**帯。**GameGulf**は過去1年**3回**の値下げを追跡、**最安値~€8.11**は**スペイン（2025-11-17）**、**平均セール~€10.45**なのに対し、多くの欧州行は**~€16.22**——**最安値狩り**なら群を見直せ。
+**シャンティと海賊の呪い** を買うかは、まず **海賊装備、リスキーとの掛け合い、変身なし強化が効く** に惹かれるかで決まります。見た目の評判より、自分がこのループを遊びたいかとGameGulfの地域価格を合わせて判断してください。
 
 **[ライブ行](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)**は**セール**か定価帯かの sanity check に使える。
 
 ## 『シャンティと海賊の呪い』の価格（Switch）
 
-ユーロ区は**~€16.22**クラスタ、米・BRは換算で上振れ、**日本**は今回のスナップで離れた**最安値**。**gamegulf.com**と同じ**priceRows**を下に挿入。
+ユーロ区は**~€16.22**クラスタ、米・BRは換算で上振れ、**日本**は今回のスナップで離れた**最安値**。**gamegulf.com**と同じ**価格スナップショット**を下に挿入。
+
+
+| 地域 | 価格（円換算） | 現地価格 |
+| --- | ---: | ---: |
+| ドイツ | JPY 2986 | €16.22 |
+| スペイン | JPY 2986 | €16.22 |
+| フランス | JPY 2986 | €16.22 |
+| イタリア | JPY 2986 | €16.22 |
+| ポルトガル | JPY 2986 | €16.22 |
+| イギリス | JPY 3087 | £14.59 |
+| アメリカ合衆国 | JPY 3148 | $19.99 |
+| ブラジル | JPY 3241 | R$104.99 |
 
 ## どんなゲーム？
 
@@ -126,4 +177,6 @@ playtime: "目安: 1ラン約5–15分、反復で伸びる"
 
 ## まとめ
 
-味方なら**ほぼ確定で良作**。**[GameGulf詳細](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)**で**gamegulf.com**の曲線を見てから**€16.22**を押す。**2025-12-31 の FR ~€9.73**のような下落も参照に。
+**シャンティと海賊の呪い** は、海賊装備、リスキーとの掛け合い、変身なし強化が効くに惹かれる人ほど評価しやすい一本です。ドット絵とテンポ良いマップ探索が好きな人なら候補に残しやすいです。一方で、取りこぼすと後半の往復が増える。強みはMC約86；Steamは母数小だが高評価寄り。遊ぶ前に **1ラン約5–15分、反復で伸びる** くらいの尺を想定しておきましょう。ハートイカの周回集めが苦痛。
+
+セール判断では現在の参考安値は **€16.22**。指数先頭はユーロ帯 —— ネイティブ通貨を確認。€8.11前後のスペイン安値からは遠い。1年で3回の追跡値下げ；世界最安~€8.11（ES, 2025-11-17）；平均~€10.45；直近はFR~€9.73（2025-12-31）。購入前に [GameGulfの価格一覧](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price) で自分のeShop表示を確認しておきましょう。

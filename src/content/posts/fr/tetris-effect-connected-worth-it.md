@@ -40,7 +40,7 @@ fitLabel: Fans de Tetris comme expérience d’ambiance, pas tableur.
 timingNote: >-
   En demi-tarif, la fit prime. Sinon comparez votre ligne au repère HK avant
   l’impulsion.
-communityVibe: Encore une Zone — minuit passé, la console brûle encore.
+communityVibe: Transe Zone, pulsations et clears Connected font briller Tetris
 playtime: ~3 h · ~8 h+ · ~57 h
 reviewSignal: 94 sur Metacritic
 takeaway: >-
@@ -177,11 +177,11 @@ cardPriceNativeCurrency: HKD
 ---
 ## Verdict rapide
 
-**Tetris® Effect: Connected** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **94 sur Metacritic**.
+Pour décider sur **Tetris® Effect: Connected**, commencez par cette promesse concrète : **Transe Zone, pulsations et clears Connected font briller Tetris**. La bonne décision dépend moins du score que de votre envie réelle pour cette boucle, puis du prix régional vérifié sur GameGulf.
 
 Tetris® Effect: Connected garde son statut — prix d’avril 2026 = « retail quali », pas le plancher historique, sauf si vous êtes déjà en promo.
 
-Signal discount/sale: les creux historiques indexés restent vers **€9.61** à Hong Kong (**2025-06-09** et rappel **2025-12-17**) — l’index actuel démarre plutôt vers **€19.22** sur HK$176.
+Signal promo: les creux historiques indexés restent vers **€9.61** à Hong Kong (**2025-06-09** et rappel **2025-12-17**) — l’index actuel démarre plutôt vers **€19.22** sur HK$176, donc la remise n’est pas encore au niveau du plus bas historique.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price).
 
@@ -221,12 +221,14 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - le format te convient: Solo, multijoueur local, coop/versus en ligne.
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Tetris minimaliste sans effets — passez votre chemin.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. prix d’avril 2026 = « retail quali », pas le plancher historique, sauf si vous êtes déjà en promo.
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price)** puis tranche achat vs attente.
+
+**Tetris® Effect: Connected** sert surtout à éviter une mauvaise manipulation au moment de déplacer vos données. Le bon public est celui qui veut adeptes de puzzle nerveux, spectacle et multi qui compte; les autres peuvent l’ignorer jusqu’au jour où un changement de Switch devient nécessaire. Comptez ~3 h · ~8 h+ · ~57 h avant de décider si le format colle à vos soirées.
+
+Pour le prix, partez du meilleur repère GameGulf : €19.22 à Hong Kong. L’index ouvre ~19,49 € équivalent HK (176 HK$) avec plusieurs lignes UE à 19,99 € sur le même cliché. La donnée trace ~9,75 € à Hong Kong le 9 juin 2025 ; la promo euro n’égale pas ce plancher. Trois vagues de promo claires sur l’année indexée ; prix moyen en promo ~16,58 €. Passez par [GameGulf](https://www.gamegulf.com/detail/6Rq3jqh8KUa#currency-price) avant de payer afin de comparer votre région au plus bas suivi. À ce niveau, l’achat est défendable; au prix catalogue, mieux vaut attendre le prochain décrochage.

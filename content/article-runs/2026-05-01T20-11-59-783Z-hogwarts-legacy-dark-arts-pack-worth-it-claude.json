@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "hogwarts-legacy-dark-arts-pack-worth-it",
+  "url": "https://www.gamegulf.com/detail/6kxqdECmrmT",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-hogwarts-legacy-dark-arts-pack-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 69437,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":69265,\"duration_api_ms\":67861,\"num_turns\":9,\"result\":\"{\\\"status\\\":\\\"blocked\\\",\\\"slug\\\":\\\"hogwarts-legacy-dark-arts-pack-worth-it\\\",\\\"score\\\":8,\\\"revisionAttempts\\\":0,\\\"validated\\\":false,\\\"articlePaths\\\":[\\\"src/content/posts/en/hogwarts-legacy-dark-arts-pack-worth-it.md\\\",\\\"src/content/posts/zh-hans/hogwarts-legacy-dark-arts-pack-worth-it.md\\\",\\\"src/content/posts/ja/hogwarts-legacy-dark-arts-pack-worth-it.md\\\",\\\"src/content/posts/fr/hogwarts-legacy-dark-arts-pack-worth-it.md\\\",\\\"src/content/posts/es/hogwarts-legacy-dark-arts-pack-worth-it.md\\\",\\\"src/content/posts/de/hogwarts-legacy-dark-arts-pack-worth-it.md\\\",\\\"src/content/posts/pt/hogwarts-legacy-dark-arts-pack-worth-it.md\\\"],\\\"issues\\\":[\\\"All 7 expected article files are missing.\\\",\\\"Validator reports File not found for every locale path.\\\",\\\"The required generator is blocked: scripts/synthesize-worth-it-from-brief.mjs refused to generate because the brief does not have enough non-AR price rows (\\\\\\\"Not enough price rows (need 4+ non-AR)\\\\\\\").\\\",\\\"Because no article files were created, there are no locale files to repair or validate.\\\",\\\"Brief data is sparse for this SKU/DLC-style item: no Metacritic score, empty global/local lows arrays, and only 3 current digital price rows, which prevents the standard deterministic workflow from producing the article set.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/zh-hans/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/ja/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/fr/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/es/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/de/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/pt/hogwarts-legacy-dark-arts-pack-worth-it.md\\\",\\\"node scripts/synthesize-worth-it-from-brief.mjs content/briefs/hogwarts-legacy-dark-arts-pack.json && node scripts/sync-article-pricing.mjs src/content/posts/en/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/zh-hans/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/ja/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/fr/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/es/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/de/hogwarts-legacy-dark-arts-pack-worth-it.md src/content/posts/pt/hogwarts-legacy-dark-arts-pack-worth-it.md\\\"],\\\"notes\\\":\\\"Blocked before revision: the repo has no existing 7-locale article set for this slug, and the required synthesis step cannot create one from the current brief because price-history coverage is below the generator threshold.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"7ff40556-0641-424e-b9d8-4c23756ab786\",\"total_cost_usd\":0.8209032,\"usage\":{\"input_tokens\":248672,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":129024,\"output_tokens\":2412,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":248672,\"outputTokens\":2412,\"cacheReadInputTokens\":129024,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.8209032,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"0f3f743e-06c1-4435-bd8d-2cf2fa1b8d0f\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:18:56.506Z"
+}

@@ -2,8 +2,8 @@
 title: Metroid Dread ainda vale a pena no Nintendo Switch em 2026?
 description: >-
   Guia de compra Switch — preços eShop indexados em abril de 2026, ritmo de
-  promoções Nintendo, tempos , tensão EMMI e combate com contra-ataque,
-  comprar agora ou alerta.
+  promoções Nintendo, tempos , tensão EMMI e combate com contra-ataque, comprar
+  agora ou alerta.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,10 +37,10 @@ bestFor: Quem gosta de exploração tensa e aprender padrões.
 avoidIf: Evite se caçadas EMMI e wipes de chefe esgotam.
 consensusPraise: Controlo, clareza visual e ameaça EMMI continuam referência na Switch.
 mainFriction: Picos de dificuldade e EMMI cansam quem quer aventura relaxada.
-timeFit:  ~9h história, ~12h extras, ~14h completionist (médias comunidade).
+timeFit: ~9h história, ~12h extras, ~14h completionist (médias comunidade).
 fitLabel: Jogadores que gostam de dominar ritmo, não farm chill.
-timingNote: Compare a sua linha eShop com âncoras HK/JP antes de pagar MSRP alto.
-communityVibe: Passos EMMI — eco permanente
+timingNote: Compare a sua linha eShop com âncoras HK/JP antes de pagar preço cheio alto.
+communityVibe: E.M.M.I., parry e fluxo do mapa vendem Dread
 playtime: ~9h história · ~12h+ extras · ~14h completionist
 reviewSignal: 88 Metacritic
 takeaway: >-
@@ -172,11 +172,11 @@ cardPriceNativeCurrency: HKD
 ---
 ## Veredito rapido
 
-**Metroid Dread** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **88 Metacritic**.
+A compra de **Metroid Dread** começa pela pergunta simples: **E.M.M.I., parry e fluxo do mapa vendem Dread** combina com você? Se essa cena de jogo te pega e sua região no GameGulf já está em promoção, a compra faz sentido; no preço cheio, não precisa correr.
 
 Metroid Dread continua compra de qualidade para o perfil certo — o risco é regional.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €36.44.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €36.44.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price).
 
@@ -216,12 +216,13 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: ~9h história · ~12h+ extras · ~14h completionist
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se caçadas EMMI e wipes de chefe esgotam.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. o risco é regional.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price)** e decide compra vs espera.
+A decisão em **Metroid Dread** começa pelo apelo concreto: **E.M.M.I., parry e fluxo do mapa vendem Dread**. Se você quer **metroidvania de habilidades com zonas EMMI, contra-ataques, colecionáveis, modos Rookie/Dread e Boss Rush**, ele tem espaço no Switch; se essa rotina já parece distante, nem desconto transforma a experiência em prioridade. O tempo estimado é **~9h história · ~12h+ extras · ~14h 100%**, então vale pensar se esse espaço cabe na sua rotina.
+
+No preço, o menor preço atual indexado aparece perto de **EUR 36.44** em **Hong Kong**; o mínimo histórico citado fica em **€36**. Se a sua linha no [GameGulf](https://www.gamegulf.com/detail/1HNILYERbn5#currency-price) estiver perto desse patamar, a compra hoje é razoável; se a loja local ficar acima do histórico, deixe em alerta e espere outra promoção.

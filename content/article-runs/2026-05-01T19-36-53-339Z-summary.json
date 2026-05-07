@@ -1,0 +1,181 @@
+{
+  "runId": "2026-05-01T19-36-53-339Z",
+  "startedAt": "2026-05-01T19:36:53.345Z",
+  "opts": {
+    "limit": 5,
+    "dryRun": true,
+    "seedMc": false,
+    "seedFile": "content/ns2-batch-active-urls.txt",
+    "claude": false,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": false,
+    "delayMs": 1000,
+    "maxBudgetUsd": null,
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits"
+  },
+  "seedResults": [
+    {
+      "source": "content/ns2-batch-active-urls.txt",
+      "added": 64,
+      "skipped": 20
+    }
+  ],
+  "initialQueueSummary": {
+    "done": 45,
+    "pending": 130
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/ns2-batch-active-urls.txt"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2FqEovVMEB1",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/ns2-batch-active-urls.txt"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/popular-batch-urls.txt"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2LVqzRzPbY4",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/popular-batch-urls.txt"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/popular-batch-urls.txt"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-36-53-339Z",
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "startedAt": "2026-05-01T19:36:53.346Z",
+      "finishedAt": "2026-05-01T19:36:53.403Z",
+      "result": {
+        "status": "dry_run",
+        "score": null,
+        "slug": "lego-ninjago-movie-video-game-worth-it",
+        "validated": false,
+        "briefPath": "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/content/briefs/lego-ninjago-movie-video-game.json",
+        "articlePaths": [
+          "src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md"
+        ],
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ]
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-53-339Z",
+      "url": "https://www.gamegulf.com/detail/2FqEovVMEB1",
+      "startedAt": "2026-05-01T19:36:54.403Z",
+      "finishedAt": "2026-05-01T19:36:54.459Z",
+      "result": {
+        "status": "dry_run",
+        "score": null,
+        "slug": "dosa-divas-worth-it",
+        "validated": false,
+        "briefPath": "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/content/briefs/dosa-divas.json",
+        "articlePaths": [
+          "src/content/posts/en/dosa-divas-worth-it.md",
+          "src/content/posts/zh-hans/dosa-divas-worth-it.md",
+          "src/content/posts/ja/dosa-divas-worth-it.md",
+          "src/content/posts/fr/dosa-divas-worth-it.md",
+          "src/content/posts/es/dosa-divas-worth-it.md",
+          "src/content/posts/de/dosa-divas-worth-it.md",
+          "src/content/posts/pt/dosa-divas-worth-it.md"
+        ],
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ]
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-53-339Z",
+      "url": "https://www.gamegulf.com/detail/2G7jYyj3ED2",
+      "startedAt": "2026-05-01T19:36:55.459Z",
+      "finishedAt": "2026-05-01T19:36:55.509Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "dave-the-diver-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-53-339Z",
+      "url": "https://www.gamegulf.com/detail/2LVqzRzPbY4",
+      "startedAt": "2026-05-01T19:36:56.509Z",
+      "finishedAt": "2026-05-01T19:36:56.557Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "dead-cells-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-53-339Z",
+      "url": "https://www.gamegulf.com/detail/2vMq1hkFq10",
+      "startedAt": "2026-05-01T19:36:57.557Z",
+      "finishedAt": "2026-05-01T19:36:57.615Z",
+      "result": {
+        "status": "dry_run",
+        "score": null,
+        "slug": "teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it",
+        "validated": false,
+        "briefPath": "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/content/briefs/teenage-mutant-ninja-turtles-shredder-s-revenge.json",
+        "articlePaths": [
+          "src/content/posts/en/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+          "src/content/posts/zh-hans/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+          "src/content/posts/ja/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+          "src/content/posts/fr/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+          "src/content/posts/es/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+          "src/content/posts/de/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md",
+          "src/content/posts/pt/teenage-mutant-ninja-turtles-shredder-s-revenge-worth-it.md"
+        ],
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ]
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:36:58.615Z",
+  "finalQueueSummary": {
+    "done": 45,
+    "pending": 130
+  }
+}

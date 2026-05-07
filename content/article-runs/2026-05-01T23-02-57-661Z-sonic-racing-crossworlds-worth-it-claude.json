@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "sonic-racing-crossworlds-worth-it",
+  "url": "https://www.gamegulf.com/detail/glVDopRk4Oh",
+  "promptPath": "content/article-worker-prompts/2026-05-01T23-02-57-661Z-sonic-racing-crossworlds-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 56459,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":56275,\"duration_api_ms\":55142,\"num_turns\":12,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"sonic-racing-crossworlds-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/sonic-racing-crossworlds-worth-it.md\\\",\\\"src/content/posts/zh-hans/sonic-racing-crossworlds-worth-it.md\\\",\\\"src/content/posts/ja/sonic-racing-crossworlds-worth-it.md\\\",\\\"src/content/posts/fr/sonic-racing-crossworlds-worth-it.md\\\",\\\"src/content/posts/es/sonic-racing-crossworlds-worth-it.md\\\",\\\"src/content/posts/de/sonic-racing-crossworlds-worth-it.md\\\",\\\"src/content/posts/pt/sonic-racing-crossworlds-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed cleanly for all 7 locales.\\\",\\\"EN/zh-hans/ja spot checks show explicit buy/wait framing and natural GameGulf CTAs.\\\",\\\"Localized display names and FAQ openings look correct for zh-hans and ja.\\\",\\\"Price logic is concrete, but some body copy repeats inconsistent analytics wording like 'all-time low €41.91' versus brief data showing current cheapest JP €29.12 and trend low JP €22.65, so quality is passable rather than excellent.\\\",\\\"Body structure generally follows the required memo format, but some sections still read a bit template-like instead of fully game-specific.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/sonic-racing-crossworlds-worth-it.md src/content/posts/zh-hans/sonic-racing-crossworlds-worth-it.md src/content/posts/ja/sonic-racing-crossworlds-worth-it.md src/content/posts/fr/sonic-racing-crossworlds-worth-it.md src/content/posts/es/sonic-racing-crossworlds-worth-it.md src/content/posts/de/sonic-racing-crossworlds-worth-it.md src/content/posts/pt/sonic-racing-crossworlds-worth-it.md\\\"],\\\"notes\\\":\\\"No hard errors and no repair pass needed. Article set clears the 85 threshold, but pricing-history phrasing could be tightened in a future editorial pass.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"394ecb5a-77d3-4e50-a2d6-23135dfc8bbc\",\"total_cost_usd\":0.6419387999999999,\"usage\":{\"input_tokens\":195273,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2021,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":195273,\"outputTokens\":2021,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6419387999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"4a95ba77-a72a-41ac-831f-adb77cc1460a\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T23:19:01.994Z"
+}

@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "the-fox-s-way-home-worth-it",
+  "url": "https://www.gamegulf.com/detail/bqnbuz3ln4z",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-the-fox-s-way-home-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 77832,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":77648,\"duration_api_ms\":76543,\"num_turns\":22,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"the-fox-s-way-home-worth-it\\\",\\\"score\\\":91,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/the-fox-s-way-home-worth-it.md\\\",\\\"src/content/posts/zh-hans/the-fox-s-way-home-worth-it.md\\\",\\\"src/content/posts/ja/the-fox-s-way-home-worth-it.md\\\",\\\"src/content/posts/fr/the-fox-s-way-home-worth-it.md\\\",\\\"src/content/posts/es/the-fox-s-way-home-worth-it.md\\\",\\\"src/content/posts/de/the-fox-s-way-home-worth-it.md\\\",\\\"src/content/posts/pt/the-fox-s-way-home-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator hard errors.\\\",\\\"Locale quality is acceptable overall, but several locales still read partially templated or awkward despite passing validation.\\\",\\\"Brief says game metacritic is null, while articles use '70 Metacritic' / equivalent as the score anchor; validator permits it here, but the score confidence is reduced because that anchor is not supported by the brief JSON.\\\",\\\"Research-memo depth is uneven: the game description in the brief provides concrete hooks (Fox Shrine Maiden ritual, spot-the-impostor loop, 8 lanterns, apparition encyclopedia), but most locale bodies stay genre-level instead of using those specific named anchors.\\\",\\\"zh-hans and ja display names are correct for this SKU because the storefront/brief title is English; FAQ openings also match the game title, so no localization-name issue was found.\\\",\\\"Price logic is concrete and consistent with GameGulf rows/history: BR €8.38 current cheapest, 12 discount moves in 1Y, avg sale €7.29, last discount 2026-04-16.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/the-fox-s-way-home-worth-it.md src/content/posts/zh-hans/the-fox-s-way-home-worth-it.md src/content/posts/ja/the-fox-s-way-home-worth-it.md src/content/posts/fr/the-fox-s-way-home-worth-it.md src/content/posts/es/the-fox-s-way-home-worth-it.md src/content/posts/de/the-fox-s-way-home-worth-it.md src/content/posts/pt/the-fox-s-way-home-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on all seven locale files on the first run, so no revision cycle was required. Score reflects clean validation and solid price/CTA coverage, with deductions for generic body copy and unsupported Metacritic anchoring versus the brief.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"8ce3ac60-a674-465a-872d-6b244d8f4a6a\",\"total_cost_usd\":0.8127576,\"usage\":{\"input_tokens\":245989,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":2979,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":245989,\"outputTokens\":2979,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.8127576,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"21a08441-1973-4083-9847-13fc127356a1\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:44:28.313Z"
+}

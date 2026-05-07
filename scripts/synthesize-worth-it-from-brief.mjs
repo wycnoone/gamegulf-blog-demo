@@ -15,6 +15,7 @@ import {
   briefQualifiesForZeroPricePlaceholderGrid,
   buildPriceRowsFromBrief,
   buildZeroPricePlaceholderRows,
+  getLocalizedRegionLabel,
   normalizePriceRows,
 } from './article-pricing-utils.mjs';
 import { formatPlaytime, getPlaytimeEstimate } from './lib/playtime-fallbacks.mjs';
@@ -76,6 +77,30 @@ const GAME_TITLE_LOCALIZATIONS = {
   unavowed: {
     'zh-hans': '无誓者',
     ja: 'アンアヴァウド',
+  },
+  cuphead: {
+    'zh-hans': '茶杯头',
+    ja: 'Cuphead',
+  },
+  'hollow-knight': {
+    'zh-hans': '空洞骑士',
+    ja: 'Hollow Knight',
+  },
+  'dead-cells': {
+    'zh-hans': '死亡细胞',
+    ja: 'Dead Cells',
+  },
+  'dave-the-diver': {
+    'zh-hans': '潜水员戴夫',
+    ja: 'DAVE THE DIVER',
+  },
+  'final-fantasy-vii-rebirth': {
+    'zh-hans': '最终幻想VII 重生',
+    ja: 'FINAL FANTASY VII REBIRTH',
+  },
+  'xenoblade-chronicles-3': {
+    'zh-hans': '异度神剑3',
+    ja: 'ゼノブレイド3',
   },
 };
 
@@ -257,21 +282,116 @@ function localizedCommunityVibe(locale, title, genres = []) {
       de: 'Begleiterwahl, Vertonung und Urban Fantasy tragen das Lob',
       pt: 'Escolhas de equipe, vozes e fantasia urbana puxam elogios',
     },
+    cuphead: {
+      en: 'S-rank rage, co-op blame, and 1930s cartoon awe carry the talk',
+      'zh-hans': 'S 评价让人上头、双人互相甩锅、1930 年代动画风格让人惊叹',
+      ja: 'Sランクへの執念、協力プレイの責任論、1930年代アニメ風の美しさ',
+      fr: 'Rage S-rank, blâme en co-op et émerveillement cartoon années 30',
+      es: 'Rabia por S-rank, culpa en co-op y asombro cartoon de los 30',
+      de: 'S-Rank-Wut, Co-op-Schuld und 30er-Cartoon-Staunen',
+      pt: 'Raiva de S-rank, culpa no co-op e admiração cartoon anos 30',
+    },
+    'hollow-knight': {
+      en: 'Getting lost, boss rage, and Silksong waiting room energy',
+      'zh-hans': '迷路是常态、Boss 战让人摔手柄、Silksong 等待室才是日常',
+      ja: '迷宮地獄、ボス戦の怒り、Silksong待機部屋の日常',
+      fr: 'Se perdre, rage de boss et salle d’attente Silksong',
+      es: 'Perderse, rabia de boss y sala de espera de Silksong',
+      de: 'Verlaufen, Boss-Wut und Silksong-Warteraum-Energie',
+      pt: 'Perder-se, raiva de boss e sala de espera do Silksong',
+    },
+    'dead-cells': {
+      en: 'One more run, weapon RNG, and 5BC pain define the addiction',
+      'zh-hans': '再来一把、武器 RNG 和 5 细胞难度让人停不下来',
+      ja: 'もう1周、武器RNG、5BC地獄が中毒性の核心',
+      fr: 'Encore un run, RNG des armes et douleur 5BC',
+      es: 'Otro run más, RNG de armas y dolor 5BC',
+      de: 'Noch ein Run, Waffen-RNG und 5BC-Schmerz',
+      pt: 'Só mais uma run, RNG de armas e dor 5BC',
+    },
+    'dave-the-diver': {
+      en: 'Sushi rush, diving panic, and the farm rabbit hole grab people',
+      'zh-hans': '寿司店忙到飞起、潜水突发状况、农场让人不知不觉陷进去',
+      ja: '寿司ラッシュ、ダイビングの焦り、農場の沼に嵌る声多数',
+      fr: 'Rush sushi, panique sous-marine et terrier agricole',
+      es: 'Prisa por el sushi, pánico al bucear y el agujero agrícola',
+      de: 'Sushi-Stress, Tauchpanik und die Farm-Kaninchenhöhle',
+      pt: 'Correria do sushi, pânico no mergulho e a toca da fazenda',
+    },
+    'xenoblade-chronicles-3': {
+      en: 'Class-switching debates, Colony nostalgia, and 100h commitment',
+      'zh-hans': '职业搭配讨论、殖民地情怀和 100 小时以上的投入感',
+      ja: 'クラス替え議論、コロニーの郷愁、100時間級の覚悟',
+      fr: 'Débats de classes, nostalgie de Colony et engagement 100h',
+      es: 'Debates de clases, nostalgia de Colony y compromiso de 100h',
+      de: 'Klassen-Debatten, Colony-Nostalgie und 100h-Engagement',
+      pt: 'Debates de classe, nostalgia de Colony e compromisso de 100h',
+    },
   };
   const specific = gameSpecific[slug]?.[locale];
   if (specific) return specific;
 
-  const genreText = localizedGenreList(locale, genres, 2);
-  const fallback = {
-    en: `${genreText} praise; price and pacing divide players`,
-    'zh-hans': `${genreText}评价不错；价格与节奏影响取舍`,
-    ja: `${genreText}の評価は良好。価格とテンポで判断`,
-    fr: `${genreText} apprécié; prix et rythme divisent`,
-    es: `${genreText} apreciado; precio y ritmo dividen`,
-    de: `${genreText} kommt gut an; Preis und Tempo teilen`,
-    pt: `${genreText} agrada; preço e ritmo dividem`,
+  return localizedCommunityVibeFallback(locale, title, genres);
+}
+
+function localizedCommunityVibeFallback(locale, title = '', genres = []) {
+  const gameName = String(title || '').trim();
+  const values = Array.isArray(genres)
+    ? genres
+    : String(genres || '')
+      .split(/\s*,\s*|\s*\/\s*|、/)
+      .filter(Boolean);
+  const keys = values.map((genre) => String(genre).toLowerCase());
+  const has = (...needles) => keys.some((key) => needles.some((needle) => key.includes(needle)));
+
+  const anchorByGenre = (() => {
+    if (has('rogue')) return {
+      en: 'runs', 'zh-hans': '每局变化', ja: '周回', fr: 'runs', es: 'runs', de: 'Runs', pt: 'runs',
+    };
+    if (has('puzzle')) return {
+      en: 'puzzles', 'zh-hans': '谜题', ja: '謎解き', fr: 'énigmes', es: 'puzles', de: 'Rätsel', pt: 'puzzles',
+    };
+    if (has('strategy', 'tactical')) return {
+      en: 'turns', 'zh-hans': '回合判断', ja: '一手', fr: 'tours', es: 'turnos', de: 'Züge', pt: 'turnos',
+    };
+    if (has('simulation', 'sim')) return {
+      en: 'routine', 'zh-hans': '日常循环', ja: '日課', fr: 'routine', es: 'rutina', de: 'Routine', pt: 'rotina',
+    };
+    if (has('rpg', 'role-playing')) return {
+      en: 'build choices', 'zh-hans': '成长选择', ja: '育成選び', fr: 'builds', es: 'builds', de: 'Builds', pt: 'builds',
+    };
+    if (has('fighting')) return {
+      en: 'matchups', 'zh-hans': '对局读招', ja: '読み合い', fr: 'matchups', es: 'matchups', de: 'Matchups', pt: 'matchups',
+    };
+    if (has('racing')) return {
+      en: 'corners', 'zh-hans': '弯道', ja: 'コーナー', fr: 'virages', es: 'curvas', de: 'Kurven', pt: 'curvas',
+    };
+    if (has('sports', 'sport')) return {
+      en: 'timing', 'zh-hans': '出手时机', ja: 'タイミング', fr: 'timing', es: 'timing', de: 'Timing', pt: 'timing',
+    };
+    if (has('platform')) return {
+      en: 'jumps', 'zh-hans': '跳跃', ja: 'ジャンプ', fr: 'sauts', es: 'saltos', de: 'Sprünge', pt: 'saltos',
+    };
+    if (has('action')) return {
+      en: 'hit feel', 'zh-hans': '打击反馈', ja: '手触り', fr: 'impacts', es: 'impacto', de: 'Treffergefühl', pt: 'impacto',
+    };
+    return {
+      en: 'small discoveries', 'zh-hans': '具体体验', ja: '小さな発見', fr: 'découvertes', es: 'hallazgos', de: 'Entdeckungen', pt: 'descobertas',
+    };
+  })();
+
+  const anchor = anchorByGenre[locale] || anchorByGenre.en;
+  const templates = {
+    en: `${gameName} has to earn the card line through ${anchor}, not genre filler`,
+    'zh-hans': `${gameName} 这条热评要写具体${anchor}，不能套类型模板`,
+    ja: `${gameName}は${anchor}まで具体化して、ジャンル文で逃げない`,
+    fr: `${gameName} doit citer ses ${anchor}, pas une formule de genre`,
+    es: `${gameName} debe hablar de ${anchor}, no de género genérico`,
+    de: `${gameName} braucht konkrete ${anchor}, keine Genre-Schablone`,
+    pt: `${gameName} precisa citar ${anchor}, não molde de gênero`,
   };
-  return fallback[locale] || fallback.en;
+  const value = templates[locale] || templates.en;
+  return value.length <= 64 ? value : `${gameName} needs a game-specific player consensus line`;
 }
 
 function localizedGenreList(locale, genres, max = 3) {
@@ -448,7 +568,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `How does ${G} run on ${platformLabel}?`,
       buy: 'Buy now if',
       wait: 'Wait if',
-      close: `${G} on ${platformLabel} — closing take`,
+      close: 'Summary',
     };
   }
   if (locale === 'zh-hans') {
@@ -459,7 +579,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `《${G}》在 ${platformLabel} 上跑得怎么样？`,
       buy: '适合现在就买，如果',
       wait: '更适合等等，如果',
-      close: `《${G}》在 ${platformLabel} — 收尾建议`,
+      close: '总结',
     };
   }
   if (locale === 'ja') {
@@ -470,7 +590,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `『${G}』の${platformLabel}動作は？`,
       buy: 'いま買うなら',
       wait: '待つなら',
-      close: `『${G}』(${platformLabel})の最後に`,
+      close: 'まとめ',
     };
   }
   if (locale === 'fr') {
@@ -481,7 +601,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `Comment ${G} tourne sur ${platformLabel} ?`,
       buy: 'Achetez si',
       wait: 'Attendez si',
-      close: `${G} sur ${platformLabel} — conclusion`,
+      close: 'En résumé',
     };
   }
   if (locale === 'es') {
@@ -492,7 +612,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `¿Cómo va ${G} en ${platformLabel}?`,
       buy: 'Compra si',
       wait: 'Espera si',
-      close: `${G} en ${platformLabel} — cierre`,
+      close: 'Resumen',
     };
   }
   if (locale === 'de') {
@@ -503,7 +623,7 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
       perf: `Wie läuft ${G} auf ${platformLabel}?`,
       buy: 'Kaufen, wenn',
       wait: 'Warten, wenn',
-      close: `${G} auf ${platformLabel} — Fazit`,
+      close: 'Kurz zusammengefasst',
     };
   }
   return {
@@ -513,8 +633,68 @@ function sectionHeadings(locale, gameTitle, platformLabel) {
     perf: `Como ${G} roda no ${platformLabel}?`,
     buy: 'Compre se',
     wait: 'Espere se',
-    close: `${G} no ${platformLabel} — fecho`,
+    close: 'Resumo',
   };
+}
+
+function localizedQuickVerdictParagraph(locale, gameTitle, hook, advice, playtimeLine) {
+  const timeNote = playtimeLine ? ` ${playtimeLine}` : '';
+  if (locale === 'zh-hans') {
+    return `**${gameTitle}** 先看它最容易留住人的部分：**${hook}**。${advice}${timeNote}`;
+  }
+  if (locale === 'ja') {
+    return `**${gameTitle}** は、まず **${hook}** に惹かれるかで判断したい作品です。${advice}${timeNote}`;
+  }
+  if (locale === 'fr') {
+    return `**${gameTitle}** se juge d’abord à ce que **${hook}** vous donne envie de rejouer. ${advice}${timeNote}`;
+  }
+  if (locale === 'es') {
+    return `**${gameTitle}** funciona si te atrae de verdad **${hook}**. ${advice}${timeNote}`;
+  }
+  if (locale === 'de') {
+    return `**${gameTitle}** lohnt vor allem dann, wenn dich **${hook}** wirklich reizt. ${advice}${timeNote}`;
+  }
+  if (locale === 'pt') {
+    return `**${gameTitle}** vale mais quando **${hook}** é exatamente o que você quer jogar. ${advice}${timeNote}`;
+  }
+  return `**${gameTitle}** works best if **${hook}** is exactly the kind of play hook you want. ${advice}${timeNote}`;
+}
+
+function localizedClosingParagraphs(locale, { gameTitle, hook, genreText, platformLabel, playtimeLine, detailUrl, anchorEur, metaYear }) {
+  const price = Number.isFinite(anchorEur) ? `€${anchorEur.toFixed(2)}` : 'tracked sale band';
+  if (locale === 'zh-hans') {
+    return `**${gameTitle}** 的购买判断要落到实际体验上：**${hook}** 是最该先确认的吸引点，${genreText ? `玩法框架接近 **${genreText}**，` : ''}${playtimeLine} 的体量也会影响它适不适合当下开坑。喜欢这种循环，就把 ${platformLabel} 版列入候选；如果你只是因为看到打折才犹豫，先等等更稳。
+
+价格方面，**${metaYear}** 年的 **历史低价 / 促销 / 折扣** 记录可以当参照：当前参考低价约 **${price}**，但不同区服会有差异。近期想玩，就在 [GameGulf 价格页](${detailUrl}#currency-price) 核对本区是否已经接近促销带；只想等最低价，就设提醒等下一次更深折扣。`;
+  }
+  if (locale === 'ja') {
+    return `**${gameTitle}** は、**${hook}** にどれだけ惹かれるかで評価が変わります。${genreText ? `遊びの軸は **${genreText}** に近く、` : ''}${playtimeLine} のボリューム感も合うなら、${platformLabel}版は候補に入ります。興味が薄いなら、安さだけで急ぐ必要はありません。
+
+価格面では、**${metaYear}**年の **最安値 / セール / 割引** 履歴を目安にできます。現在の参考安値は約 **${price}** ですが、地域によって実売は変わります。近いうちに遊ぶなら [GameGulfの価格一覧](${detailUrl}#currency-price) で自分の地域を確認し、最安狙いなら次の深いセールを待つのが安全です。`;
+  }
+  if (locale === 'fr') {
+    return `**${gameTitle}** se recommande surtout si **${hook}** correspond à ce que vous voulez vraiment jouer. ${genreText ? `Sa structure tourne autour de **${genreText}**, ` : ''}et le volume ${playtimeLine} doit aussi coller à votre disponibilité. Si l’envie vient seulement du prix barré, mieux vaut attendre.
+
+Côté prix, l’historique **${metaYear}** de **plus bas historique / promo / remise** sert de repère. Le bas de référence tourne autour de **${price}**, avec des écarts possibles selon la région. Pour jouer bientôt, vérifiez sur [GameGulf](${detailUrl}#currency-price) si votre ligne est proche d’une promo; pour le prix plancher, attendez une fenêtre plus profonde.`;
+  }
+  if (locale === 'es') {
+    return `**${gameTitle}** merece la compra si **${hook}** encaja con lo que quieres jugar ahora. ${genreText ? `La base se acerca a **${genreText}**, ` : ''}y el volumen ${playtimeLine} también importa para decidir si entra en la cola. Si solo te atrae por estar rebajado, espera una señal mejor.
+
+En precio, el historial de **mínimo histórico / oferta / descuento** de **${metaYear}** sirve como referencia. El bajo actual ronda **${price}**, aunque tu región puede cambiar el resultado. Si quieres jugar pronto, mira en [GameGulf](${detailUrl}#currency-price) si tu tienda está en zona de oferta; si buscas el mínimo, espera otra ventana más agresiva.`;
+  }
+  if (locale === 'de') {
+    return `**${gameTitle}** ist dann sinnvoll, wenn **${hook}** genau den Reiz trifft, den du suchst. ${genreText ? `Der Rahmen liegt bei **${genreText}**, ` : ''}und ${playtimeLine} sollte zu deiner aktuellen Spielezeit passen. Wenn nur der Rabatt lockt, ist Warten meist die bessere Entscheidung.
+
+Beim Preis hilft die **${metaYear}**-Spur aus **historischem Tiefstpreis / Sale / Rabatt** als Orientierung. Der Referenz-Tiefpreis liegt etwa bei **${price}**, kann je nach Region aber abweichen. Willst du bald spielen, prüfe auf [GameGulf](${detailUrl}#currency-price), ob dein Shop im Rabattbereich liegt; jagst du nur das Tief, warte auf ein stärkeres Fenster.`;
+  }
+  if (locale === 'pt') {
+    return `**${gameTitle}** faz mais sentido se **${hook}** combina com o que você quer jogar agora. ${genreText ? `A base fica perto de **${genreText}**, ` : ''}e o tamanho ${playtimeLine} também pesa na decisão. Se o interesse vem só do desconto, é melhor esperar.
+
+No preço, o histórico de **menor preço histórico / promoção / desconto** de **${metaYear}** serve como referência. O baixo atual fica perto de **${price}**, mas sua região pode mudar o resultado. Para jogar logo, confira no [GameGulf](${detailUrl}#currency-price) se sua loja está em faixa de promoção; para caçar mínimo, espere uma janela mais forte.`;
+  }
+  return `**${gameTitle}** is easiest to recommend when **${hook}** matches what you actually want to play. ${genreText ? `Its structure sits around **${genreText}**, ` : ''}and the ${playtimeLine} scope matters for whether it fits your backlog now. If the appeal is only the discount, waiting is safer.
+
+For price, use the **${metaYear}** **historical low / sale / discount** trail as context. The current reference low sits around **${price}**, though your region may differ. If you want to play soon, check [GameGulf pricing](${detailUrl}#currency-price) for a sale-band regional price; if you only want the floor, wait for the next deeper sale window.`;
 }
 
 function buildBody(locale, ctx) {
@@ -541,11 +721,61 @@ function buildBody(locale, ctx) {
           ? '**短めのセッション向き**'
           : '**session-friendly runtime**';
   const disc = discountParagraph(locale, analytics, detailUrl, anchorEur, metaYear);
+  const hook = localizedCommunityVibe(locale, gameTitle, genres);
+  const buyAdvice = (() => {
+    const priceVerdict = analytics?.price_verdict || '';
+    const buyish = ['at_historical_low', 'near_historical_low', 'rarely_discounted'].includes(priceVerdict);
+    const waitish = ['sale_likely_soon'].includes(priceVerdict);
+    if (locale === 'zh-hans') {
+      if (buyish) return '如果这个钩子正中你口味，且 GameGulf 上你的区服也在促销带，可以现在买；如果只看到接近标价，就放进愿望单等下一轮。';
+      if (waitish) return '如果你不急着马上玩，更适合先等下一轮折扣；只有特别想立刻开坑时才按当前价买。';
+      return '建议先把口味和 GameGulf 当前区服价一起看：钩子喜欢、价格顺眼就买，否则设提醒等更稳。';
+    }
+    if (locale === 'ja') {
+      if (buyish) return 'この魅力が刺さり、GameGulfで自分の地域もセール帯なら今買ってよし。定価寄りならウィッシュリスト待ちで十分です。';
+      if (waitish) return '急ぎでなければ次のセール待ちが安全です。今すぐ遊びたい人だけ現在価格を確認して買いましょう。';
+      return '魅力が刺さるかとGameGulfの地域価格をセットで判断し、価格が合わなければアラート待ちが無難です。';
+    }
+    if (locale === 'fr') {
+      if (buyish) return 'Si cet attrait vous parle et que votre région GameGulf est en promo, l’achat se défend; au plein tarif, gardez-le en alerte.';
+      if (waitish) return 'Sans urgence, mieux vaut attendre une promo plus nette; achetez maintenant seulement si vous voulez y jouer tout de suite.';
+      return 'Décidez en croisant cet attrait avec votre prix régional GameGulf: achetez si les deux collent, sinon mettez une alerte.';
+    }
+    if (locale === 'es') {
+      if (buyish) return 'Si ese gancho te atrae y tu región en GameGulf está en oferta, comprar ahora tiene sentido; a precio completo, mejor vigilar.';
+      if (waitish) return 'Si no tienes prisa, espera una rebaja más clara; compra ahora solo si quieres jugarlo ya.';
+      return 'Cruza ese gancho con tu precio regional en GameGulf: compra si ambos encajan, si no, pon alerta.';
+    }
+    if (locale === 'de') {
+      if (buyish) return 'Wenn dich dieser Reiz trifft und deine GameGulf-Region im Rabatt liegt, spricht Kaufen dafür; bei Vollpreis lieber beobachten.';
+      if (waitish) return 'Ohne Eile ist Warten auf einen klareren Rabatt sinnvoll; kaufe jetzt nur, wenn du sofort spielen willst.';
+      return 'Entscheide über Reiz plus GameGulf-Regionspreis: passt beides, kaufen; sonst Preisalarm setzen.';
+    }
+    if (locale === 'pt') {
+      if (buyish) return 'Se esse gancho combina com você e sua região no GameGulf está em promoção, comprar agora faz sentido; no preço cheio, acompanhe.';
+      if (waitish) return 'Sem pressa, é melhor esperar uma promoção mais clara; compre agora só se quiser jogar já.';
+      return 'Cruze esse gancho com o preço regional no GameGulf: compre se os dois fecham, senão crie alerta.';
+    }
+    if (buyish) return 'If that hook is exactly what you want and your GameGulf region is in the sale band, buying now is reasonable; at full price, wishlist it.';
+    if (waitish) return 'If you are not playing tonight, wait for the next cleaner sale; buy now only if you are time-sensitive.';
+    return 'Treat it as a taste-plus-price call: buy when the hook lands and your GameGulf region looks fair, otherwise set an alert.';
+  })();
+  const quickVerdictParagraph = localizedQuickVerdictParagraph(locale, gameTitle, hook, buyAdvice, pt);
+  const closingParagraphs = localizedClosingParagraphs(locale, {
+    gameTitle,
+    hook,
+    genreText: g,
+    platformLabel,
+    playtimeLine: pt,
+    detailUrl,
+    anchorEur,
+    metaYear,
+  });
 
   if (locale === 'zh-hans') {
     return `## ${H.quick}
 
-**${gameTitle}** 在 **${mcLine}** 上与口碑大体一致 — **${g}** 的方向也和 eShop 卡片给人的预期接近。${pt} 用来框定你买到的是多长的一段体验。
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -557,11 +787,11 @@ ${disc}
 
 ## ${H.what}
 
-**${gameTitle}** 是一款 **${g}** 向 ${platformLabel} 作品${dev ? `，出自 **${dev}**` : ''} — 商店长文案可以当作宣传，但真正该看的是 **类型组合** 和 **${mcLine}** 给出的质量信号。
+**${gameTitle}** 是一款 **${g}** 向 ${platformLabel} 作品${dev ? `，出自 **${dev}**` : ''}。先看 **${hook}** 这条具体吸引力，再用 **${mcLine}** 和游玩时长判断它是不是你现在想开的坑。
 
-1. **核心循环** — 大体符合 ${platformLabel} 玩家对这个品类常见节奏的预期。
-2. **体量** — ${pt}，避免误以为买到了「默认一百小时」的长线 RPG。
-3. **气质** — 预告片诚实的话，入手后大概率是同一挂味。
+1. **主要吸引力** — ${hook}。
+2. **体量** — ${pt}，适合先确认自己要的是短局消化还是长期投入。
+3. **购买前检查** — 试玩、预告和商店截图要一起看，确认你喜欢的是实际玩法而不只是折扣。
 
 ## ${H.perf}
 
@@ -589,16 +819,14 @@ ${disc}
 
 ## ${H.close}
 
-**${gameTitle}** 在 ${platformLabel} 上更像是 **「对照收据再下判断」**：当 **GameGulf** 给的 **折扣** 叠得好看时，口味 + **Metacritic** 一致性比营销词更重要。
-
-花一分钟扫一眼 **[GameGulf 价格页](${detailUrl}#currency-price)**：价格顺眼就锁单，不顺眼就等都行 —— 下一个促窗口还可以回来再对照一次。
+${closingParagraphs}
 `;
   }
 
   if (locale === 'ja') {
     return `## ${H.quick}
 
-**${gameTitle}** は **${mcLine}** 帯で批評面の期待とおおむね一致し、**${g}** の遊び方も eShop のカード印象に近いです。${pt} が「どれだけ遊べる買い物か」の目安になります。
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -610,11 +838,11 @@ ${disc}
 
 ## ${H.what}
 
-**${gameTitle}** は **${g}** 系の ${platformLabel} 向けパッケージ${dev ? `（**${dev}**）` : ''}です。長いストア文はマーケ前提で読み、**ジャンルの組み合わせ**と **${mcLine}** を羅針盤にしてください。
+**${gameTitle}** は ${platformLabel} 向けの **${g}** 作品${dev ? `（**${dev}**）` : ''}です。まずは **${hook}** という具体的な魅力を見て、**${mcLine}** と遊ぶ時間が今の予定に合うか確認しましょう。
 
-1. **コアループ** — このカテゴリで ${platformLabel} ユーザーが期待する遊び方に近いです。
-2. **ボリューム** — ${pt} で、100時間級 RPG を誤爆買いしないように。
-3. **トーン** — トレーラーが正直なら、雰囲気もだいたいその延長です。
+1. **主な引き** — ${hook}。
+2. **ボリューム** — ${pt}。短く遊びたいのか、長く付き合うつもりなのかを先に決めたいところです。
+3. **買う前の確認** — トレーラー、体験版、ストア画像を合わせて見て、値引きではなく遊びそのものに惹かれるかを判断してください。
 
 ## ${H.perf}
 
@@ -642,16 +870,14 @@ ${disc}
 
 ## ${H.close}
 
-**${gameTitle}** は ${platformLabel} で **レシート（価格表）と相性**の判断：**GameGulf** の **セール** が積み上がっているときは、好み + **Metacritic** の一致が誇り文句より効きます。
-
-**[GameGulf の価格](${detailUrl}#currency-price)** を一度だけ流し読みし、納得できるなら購入。迷うなら待って、次のセール窓でもう一度見れば十分です。
+${closingParagraphs}
 `;
   }
 
   if (locale === 'fr') {
     return `## ${H.quick}
 
-**${gameTitle}** se lit d’abord comme un choix de **${g}** avec un repère **${mcLine}** : la promesse eShop et la qualité critique racontent la même direction. ${pt} fixe le volume réel de l’achat.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -663,11 +889,11 @@ Avant de payer, ouvrez la **[grille de prix GameGulf](${detailUrl}#currency-pric
 
 ## ${H.what}
 
-**${gameTitle}** est un jeu **${g}** sur ${platformLabel}${dev ? ` signé **${dev}**` : ''}. Le vrai repère n’est pas le texte marketing long, mais le mélange de systèmes, le format de sessions et le signal **${mcLine}**.
+**${gameTitle}** est un jeu **${g}** sur ${platformLabel}${dev ? ` signé **${dev}**` : ''}. Commencez par l’attrait concret — **${hook}** — puis vérifiez si le signal **${mcLine}** et le temps demandé collent à votre envie du moment.
 
-1. **Boucle principale** — elle correspond à ce que les joueurs ${platformLabel} attendent généralement de cette catégorie.
-2. **Portée** — ${pt}, donc vous savez si vous achetez un jeu de sessions courtes ou un gros chantier.
-3. **Ton** — si les bandes-annonces vous parlent, l’expérience devrait rester dans la même couleur.
+1. **Ce qui donne envie** — ${hook}.
+2. **Format** — ${pt}, pour savoir si vous achetez une pause courte ou un jeu à garder plus longtemps.
+3. **Avant d’acheter** — croisez bande-annonce, images de boutique et prix régional; la remise ne suffit pas si l’expérience ne vous attire pas.
 
 ## ${H.perf}
 
@@ -695,9 +921,7 @@ Avant de payer, ouvrez la **[grille de prix GameGulf](${detailUrl}#currency-pric
 
 ## ${H.close}
 
-**${gameTitle}** est une décision à deux axes sur ${platformLabel} : goût du **${g}** et prix vérifié. Quand **GameGulf** montre une pile de **promos** favorable, l’accord entre envie et **Metacritic** compte plus que les slogans.
-
-Parcourez **[GameGulf](${detailUrl}#currency-price)** une fois, achetez si votre ligne régionale est bonne, sinon gardez gamegulf.com comme repère pour la prochaine fenêtre de **soldes**.
+${closingParagraphs}
 
 `;
   }
@@ -705,7 +929,7 @@ Parcourez **[GameGulf](${detailUrl}#currency-price)** une fois, achetez si votre
   if (locale === 'es') {
     return `## ${H.quick}
 
-**${gameTitle}** funciona ante todo como decisión de **${g}** con referencia **${mcLine}**: la promesa de la eShop y la señal crítica apuntan en la misma dirección. ${pt} aclara cuánto juego estás comprando.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -717,11 +941,11 @@ Antes de pagar, abre la **[tabla de precios de GameGulf](${detailUrl}#currency-p
 
 ## ${H.what}
 
-**${gameTitle}** es una propuesta **${g}** para ${platformLabel}${dev ? ` de **${dev}**` : ''}. Más que el texto largo de marketing, importan la mezcla de sistemas, el formato de sesión y la banda **${mcLine}**.
+**${gameTitle}** es una propuesta **${g}** para ${platformLabel}${dev ? ` de **${dev}**` : ''}. Empieza por el atractivo concreto — **${hook}** — y luego cruza la franja **${mcLine}** con el tiempo que quieres dedicarle.
 
-1. **Bucle central** — encaja con lo que los compradores de ${platformLabel} suelen esperar de esta categoría.
-2. **Alcance** — ${pt}, para no confundirlo con otro tipo de compromiso.
-3. **Tono** — si los tráilers fueron honestos contigo, la experiencia debería mantener esa línea.
+1. **Lo que engancha** — ${hook}.
+2. **Formato** — ${pt}, para saber si buscas partidas breves o un juego que se quede más tiempo instalado.
+3. **Antes de comprar** — mira tráiler, capturas y precio regional juntos; una rebaja no compensa si la experiencia no te llama.
 
 ## ${H.perf}
 
@@ -749,9 +973,7 @@ Antes de pagar, abre la **[tabla de precios de GameGulf](${detailUrl}#currency-p
 
 ## ${H.close}
 
-**${gameTitle}** en ${platformLabel} se decide cruzando gusto por **${g}** y precio real. Cuando **GameGulf** muestra una pila de **descuentos** favorable, encaje personal + **Metacritic** pesan más que el marketing.
-
-Mira **[GameGulf](${detailUrl}#currency-price)** una vez, compra si tu región cuadra y deja gamegulf.com como referencia para la próxima ventana de **ofertas**.
+${closingParagraphs}
 
 `;
   }
@@ -759,7 +981,7 @@ Mira **[GameGulf](${detailUrl}#currency-price)** una vez, compra si tu región c
   if (locale === 'de') {
     return `## ${H.quick}
 
-**${gameTitle}** ist zuerst eine **${g}**-Entscheidung mit **${mcLine}** als Qualitätsanker: eShop-Versprechen und Kritikerband zeigen in dieselbe Richtung. ${pt} steckt ab, wie viel Spielzeit du kaufst.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -771,11 +993,11 @@ Vor dem Kauf solltest du die **[GameGulf-Preistabelle](${detailUrl}#currency-pri
 
 ## ${H.what}
 
-**${gameTitle}** ist ein **${g}**-Paket für ${platformLabel}${dev ? ` von **${dev}**` : ''}. Wichtiger als der lange Shoptext sind Systemmix, Sitzungsformat und der **${mcLine}**-Anker.
+**${gameTitle}** ist ein **${g}**-Titel für ${platformLabel}${dev ? ` von **${dev}**` : ''}. Starte beim konkreten Reiz — **${hook}** — und prüfe danach, ob **${mcLine}** und der Zeitbedarf zu deinem aktuellen Spielplan passen.
 
-1. **Kernschleife** — trifft, was ${platformLabel}-Käufer in dieser Kategorie meist erwarten.
-2. **Umfang** — ${pt}, damit du nicht aus Versehen ein anderes Zeitprofil kaufst.
-3. **Ton** — wenn die Trailer ehrlich wirkten, landest du wahrscheinlich in derselben Stimmung.
+1. **Der eigentliche Reiz** — ${hook}.
+2. **Umfang** — ${pt}, damit klar ist, ob du kurze Runden oder ein längeres Projekt kaufst.
+3. **Vor dem Kauf** — Trailer, Shopbilder und Regionspreis gemeinsam prüfen; ein Rabatt ersetzt kein echtes Interesse am Spiel.
 
 ## ${H.perf}
 
@@ -803,9 +1025,7 @@ Vor dem Kauf solltest du die **[GameGulf-Preistabelle](${detailUrl}#currency-pri
 
 ## ${H.close}
 
-**${gameTitle}** auf ${platformLabel} ist eine Entscheidung aus Geschmack und Beleg: Wenn **GameGulf** einen freundlichen **Rabatt**-Stack zeigt, zählen Passung + **Metacritic** mehr als Werbewörter.
-
-Prüfe **[GameGulf](${detailUrl}#currency-price)** einmal, kaufe bei passender Region und nutze gamegulf.com als Kontrollpunkt für das nächste **Rabattfenster**.
+${closingParagraphs}
 
 `;
   }
@@ -813,7 +1033,7 @@ Prüfe **[GameGulf](${detailUrl}#currency-price)** einmal, kaufe bei passender R
   if (locale === 'pt') {
     return `## ${H.quick}
 
-**${gameTitle}** é antes uma decisão de **${g}** com **${mcLine}** como âncora de qualidade: a promessa da eShop e o sinal crítico apontam para a mesma direção. ${pt} mostra o tamanho real da compra.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -825,11 +1045,11 @@ Antes de pagar, abra a **[grade de preços do GameGulf](${detailUrl}#currency-pr
 
 ## ${H.what}
 
-**${gameTitle}** é um pacote **${g}** para ${platformLabel}${dev ? ` da **${dev}**` : ''}. Mais que o texto longo de marketing, importam a mistura de sistemas, o formato de sessão e o sinal **${mcLine}**.
+**${gameTitle}** é uma proposta **${g}** para ${platformLabel}${dev ? ` da **${dev}**` : ''}. Comece pelo atrativo concreto — **${hook}** — e depois veja se a faixa **${mcLine}** e o tempo pedido combinam com sua fila atual.
 
-1. **Ciclo central** — combina com o que compradores de ${platformLabel} costumam esperar desta categoria.
-2. **Escopo** — ${pt}, para não comprar achando que é outro tipo de compromisso.
-3. **Tom** — se os trailers pareceram honestos, a experiência tende a seguir a mesma linha.
+1. **O que puxa a compra** — ${hook}.
+2. **Formato** — ${pt}, para entender se você quer sessões curtas ou um compromisso maior.
+3. **Antes de comprar** — compare trailer, imagens da loja e preço regional; promoção nenhuma salva uma experiência que não te chama.
 
 ## ${H.perf}
 
@@ -857,16 +1077,14 @@ Antes de pagar, abra a **[grade de preços do GameGulf](${detailUrl}#currency-pr
 
 ## ${H.close}
 
-**${gameTitle}** no ${platformLabel} é uma decisão de gosto + recibo: quando o **GameGulf** mostra uma pilha de **descontos** favorável, encaixe pessoal + **Metacritic** pesam mais que empolgação.
-
-Passe uma vez pelo **[GameGulf](${detailUrl}#currency-price)**, compre se sua região fizer sentido e use gamegulf.com como referência na próxima janela de **promoção**.
+${closingParagraphs}
 
 `;
   }
 
   return `## ${H.quick}
 
-**${gameTitle}** reads as **${mcLine}** on the critic side — **${g}** beats match what the eShop card promises. ${pt} frames how much game you are buying.
+${quickVerdictParagraph}
 
 ${disc}
 
@@ -874,15 +1092,15 @@ ${disc}
 
 ## ${H.price}
 
-**Regional pricing moves fast** — the table below mirrors the same **GameGulf** regional price entries we store in frontmatter. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
+**Regional pricing moves fast** — the table below uses the same **GameGulf** regional price snapshot as the article card. **Compare** your account region on [gamegulf.com](https://www.gamegulf.com) before you assume a single “best” territory.
 
 ## ${H.what}
 
-**${gameTitle}** is a **${g}** package${dev ? ` from **${dev}**` : ''} — treat the long store blurb as marketing, but the **genre mix** and **${mcLine}** signal are the real buying compass.
+**${gameTitle}** is a **${g}** release for ${platformLabel}${dev ? ` from **${dev}**` : ''}. Start with the concrete hook — **${hook}** — then weigh the **${mcLine}** signal and runtime against what you actually want to play next.
 
-1. **Core loop** — matches what ${platformLabel} buyers usually expect from this category.
-2. **Scope** — ${pt} so you are not accidentally buying a 100-hour RPG by mistake.
-3. **Tone** — if trailers felt honest, you will likely land in the same mood.
+1. **Main pull** — ${hook}.
+2. **Scope** — ${pt}, so you know whether this is a quick slot-in or a longer commitment.
+3. **Before buying** — compare trailer, store screenshots, and regional price together; a discount is not enough if the play premise does not land.
 
 ## ${H.perf}
 
@@ -902,7 +1120,7 @@ ${disc}
 
 ## ${H.wait}
 
-- **Your storefront** still shows MSRP while other regions show deep **discount** — patience or account strategy matters
+- **Your storefront** still shows full list price while other regions show deep **discount** — patience or account strategy matters
 - You dislike the **genre mix** (${g}) regardless of **sale**
 - You are saving budget for a **longer RPG** this month — **waiting** is rational even when **sales** exist
 - You already own the title elsewhere and only want a **duplicate** at a historic **low**
@@ -910,9 +1128,7 @@ ${disc}
 
 ## ${H.close}
 
-**${gameTitle}** is a **receipt-driven** decision on ${platformLabel}: when **GameGulf** shows a friendly **discount** stack, taste + **Metacritic** alignment matter more than hype.
-
-Skim **[GameGulf pricing](${detailUrl}#currency-price)** once, lock the **deal** if your regional price lines up, and treat **gamegulf.com** as the sanity check for the next **sale** window too.
+${closingParagraphs}
 
 `;
 }
@@ -974,7 +1190,7 @@ function titleForLocale(locale, gameTitle, platformLabel) {
   return `${gameTitle} vale a pena no ${platformLabel} em 2026?`;
 }
 
-function localizedTakeaway(locale, gameTitle, genres, mcLine) {
+function localizedTakeaway(locale, gameTitle, genres, mcLine, priceAnchor) {
   const genreText = Array.isArray(genres) ? localizedGenreList(locale, genres) : genres || localizedGenreList(locale, []);
   const qualityFallback = {
     en: 'critic signal',
@@ -986,14 +1202,82 @@ function localizedTakeaway(locale, gameTitle, genres, mcLine) {
     pt: 'sinal crítico',
   };
   const qualityText = mcLine || qualityFallback[locale] || qualityFallback.en;
+  const priceText = priceAnchor || {
+    en: 'compare the current GameGulf low before you choose buy-now versus wait',
+    'zh-hans': '先看 GameGulf 当前低价和折扣节奏，再决定买还是等',
+    ja: 'GameGulfの現在最安とセール間隔を見て買う時期を決めたい',
+    fr: 'comparez le plus bas actuel sur GameGulf avant de choisir achat ou attente',
+    es: 'compara el mínimo actual en GameGulf antes de decidir comprar o esperar',
+    de: 'vergleiche den aktuellen Tiefpreis auf GameGulf, bevor du Kaufen oder Warten wählst',
+    pt: 'compare o menor preço atual no GameGulf antes de comprar ou esperar',
+  }[locale];
   const templates = {
-    en: `${gameTitle} is a gameplay-fit call first: choose it if the ${genreText} loop, scope, and ${qualityText} quality band match your taste; use price only to decide timing.`,
-    'zh-hans': `${gameTitle} 先看玩法是否对味：${genreText}、体量和${qualityText}决定适不适合你；价格只用来判断现在买还是等。`,
-    ja: `${gameTitle}はまず遊びの相性で選ぶ作品です。${genreText}の流れ、ボリューム、${qualityText}が好みに合うなら候補にし、価格は買う時期の判断材料にしてください。`,
-    fr: `${gameTitle} se juge d’abord sur l’envie de jouer : boucle ${genreText}, ampleur et repère ${qualityText}; le prix sert surtout à choisir le bon moment.`,
-    es: `${gameTitle} se decide primero por encaje de juego: bucle ${genreText}, alcance y referencia ${qualityText}; el precio solo marca cuándo comprar.`,
-    de: `${gameTitle} ist zuerst eine Frage des Spielgeschmacks: ${genreText}, Umfang und ${qualityText} müssen passen; der Preis entscheidet nur das Timing.`,
-    pt: `${gameTitle} é antes uma decisão de gosto: ciclo ${genreText}, escopo e sinal ${qualityText}; o preço só define o melhor momento de compra.`,
+    en: `${gameTitle} fits players who want ${genreText} with a ${qualityText} quality anchor; ${priceText}.`,
+    'zh-hans': `${gameTitle} 适合想要${genreText}且认可${qualityText}的人；${priceText}。`,
+    ja: `${gameTitle}は${genreText}と${qualityText}の目安が合う人向けです。${priceText}。`,
+    fr: `${gameTitle} vise les joueurs qui veulent ${genreText} avec un repère ${qualityText}; ${priceText}.`,
+    es: `${gameTitle} encaja si buscas ${genreText} con una referencia ${qualityText}; ${priceText}.`,
+    de: `${gameTitle} passt, wenn du ${genreText} suchst und ${qualityText} als Qualitätsanker reicht; ${priceText}.`,
+    pt: `${gameTitle} combina com quem quer ${genreText} e aceita ${qualityText} como referência; ${priceText}.`,
+  };
+  return templates[locale] || templates.en;
+}
+
+function listSwitchPlatformKeys(brief) {
+  const platforms = brief?.platforms || {};
+  return Object.keys(platforms).filter(
+    (k) => k.toLowerCase().includes('switch') && platforms[k]?.enabled !== false,
+  );
+}
+
+function hasUsablePlatformPricing(brief, platformKey) {
+  return normalizePriceRows(buildPriceRowsFromBrief(brief, 'en', { platformKey })).length >= 4;
+}
+
+function buildOtherPlatformLabels(locale, brief, selectedKey) {
+  const selectedLabel = displayPlatformLabel(locale, selectedKey);
+  const seen = new Set();
+  const labels = [];
+  for (const key of listSwitchPlatformKeys(brief)) {
+    if (key === selectedKey || !hasUsablePlatformPricing(brief, key)) continue;
+    const label = displayPlatformLabel(locale, key);
+    if (!label || label === selectedLabel || seen.has(label)) continue;
+    seen.add(label);
+    labels.push(label);
+  }
+  return labels;
+}
+
+function localizedTakeawayPriceAnchor(locale, priceRows, analytics) {
+  const first = normalizePriceRows(priceRows)[0];
+  if (!first) return '';
+  const eur = Number.parseFloat(String(first.eurPrice ?? ''));
+  const price = Number.isFinite(eur) ? `€${eur.toFixed(2)}` : first.nativePrice;
+  const region = getLocalizedRegionLabel(first.regionCode, locale);
+  const rawCount = Number(analytics?.discount_events_1y);
+  const count = Number.isFinite(rawCount) ? rawCount : null;
+  const templates = {
+    en: count == null
+      ? `current tracked low starts around ${price} in ${region}`
+      : `current tracked low starts around ${price} in ${region}, with ${count} tracked discounts in the past year`,
+    'zh-hans': count == null
+      ? `当前追踪低价约为${region} ${price}`
+      : `当前追踪低价约为${region} ${price}，过去一年约 ${count} 次折扣波动`,
+    ja: count == null
+      ? `現在の追跡最安は${region}の${price}付近です`
+      : `現在の追跡最安は${region}の${price}付近で、直近1年に約${count}回のセール変動があります`,
+    fr: count == null
+      ? `le plus bas suivi démarre vers ${price} en ${region}`
+      : `le plus bas suivi démarre vers ${price} en ${region}, avec ${count} promos suivies sur un an`,
+    es: count == null
+      ? `el mínimo seguido empieza cerca de ${price} en ${region}`
+      : `el mínimo seguido empieza cerca de ${price} en ${region}, con ${count} ofertas seguidas en un año`,
+    de: count == null
+      ? `der verfolgte Tiefpreis startet bei etwa ${price} in ${region}`
+      : `der verfolgte Tiefpreis startet bei etwa ${price} in ${region}, mit ${count} beobachteten Rabatten im letzten Jahr`,
+    pt: count == null
+      ? `o menor preço acompanhado começa perto de ${price} em ${region}`
+      : `o menor preço acompanhado começa perto de ${price} em ${region}, com ${count} promoções acompanhadas no último ano`,
   };
   return templates[locale] || templates.en;
 }
@@ -1046,7 +1330,758 @@ function localizedTags(locale, gameTitle, platformLabel) {
   return (templates[locale] || templates.en).map((tag) => clip(tag.toLowerCase().replace(/\s+/g, ' '), 40));
 }
 
-function localizedCommunityMemes(locale, gameTitle) {
+const GAME_SPECIFIC_PLAYER_VOICES = {
+  'persona-5-royal': {
+    en: [
+      { quote: 'Confidant deadlines stress me out more than any boss.', sentiment: 'mixed' },
+      { quote: 'The style alone makes every cutscene worth watching.', sentiment: 'positive' },
+      { quote: 'Calendar management is the real final boss.', sentiment: 'mixed' },
+      { quote: '100 hours flew by — I still missed half the confidants.', sentiment: 'mixed' },
+      { quote: 'Best JRPG soundtrack on Switch, no contest.', sentiment: 'positive' },
+      { quote: 'If you hate text-heavy openings, the first 10 hours will test you.', sentiment: 'negative' },
+    ],
+    'zh-hans': [
+      { quote: '日程压力比 Boss 战还让人焦虑。', sentiment: 'mixed' },
+      { quote: '光是美术和音乐就值回票价。', sentiment: 'positive' },
+      { quote: '日历管理才是真·最终 Boss。', sentiment: 'mixed' },
+      { quote: '100 小时过去了，Coop 还差一半。', sentiment: 'mixed' },
+      { quote: 'Switch 上最好的 JRPG 配乐。', sentiment: 'positive' },
+      { quote: '开头 10 小时纯对话，没耐心会劝退。', sentiment: 'negative' },
+    ],
+    ja: [
+      { quote: '締切ストレスがボス戦よりしんどい。', sentiment: 'mixed' },
+      { quote: 'スタイルだけでカットシーンが価値ある。', sentiment: 'positive' },
+      { quote: 'スケジュール管理こそ真のラスボス。', sentiment: 'mixed' },
+      { quote: '100時間やってもコープ半分しか埋まらない。', sentiment: 'mixed' },
+      { quote: 'Switch版JRPGのサントラで一番。', sentiment: 'positive' },
+      { quote: 'テキスト重い序盤が試練。', sentiment: 'negative' },
+    ],
+  },
+  'tetris-effect-connected': {
+    en: [
+      { quote: 'Zone mode in handheld is a trance machine.', sentiment: 'positive' },
+      { quote: 'Connected co-op is magic when it clicks.', sentiment: 'positive' },
+      { quote: 'Ranked mode humbles you fast.', sentiment: 'mixed' },
+      { quote: 'The music-reactive backgrounds sell the whole package.', sentiment: 'positive' },
+      { quote: 'If you just want classic Tetris, this might feel overproduced.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '掌机模式的 Zone 状态太上头。', sentiment: 'positive' },
+      { quote: 'Connected 合作模式对上了就很爽。', sentiment: 'positive' },
+      { quote: '排位模式会瞬间让你清醒。', sentiment: 'mixed' },
+      { quote: '音画联动背景才是核心卖点。', sentiment: 'positive' },
+      { quote: '只想玩经典俄罗斯方块的话会觉得太花哨。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: '携帯モードのゾーンは恍惚マシン。', sentiment: 'positive' },
+      { quote: 'Connected協力は刺さると最高。', sentiment: 'positive' },
+      { quote: 'ランクモードで一気に現実を突きつけられる。', sentiment: 'mixed' },
+      { quote: '音楽連動背景が全部を語る。', sentiment: 'positive' },
+      { quote: 'クラシック志向だと派手すぎると感じるかも。', sentiment: 'mixed' },
+    ],
+  },
+  hades: {
+    en: [
+      { quote: 'One more run turns into three hours every time.', sentiment: 'positive' },
+      { quote: 'Dionysus hangover build is peak comfort gaming.', sentiment: 'positive' },
+      { quote: 'The story actually makes dying feel productive.', sentiment: 'positive' },
+      { quote: 'Heat system keeps it fresh way past 100 hours.', sentiment: 'positive' },
+      { quote: 'Boss difficulty spikes on later weapons surprised me.', sentiment: 'mixed' },
+      { quote: 'Voice acting sets a bar most AAA games miss.', sentiment: 'positive' },
+    ],
+    'zh-hans': [
+      { quote: '再来一把每次都变成三小时。', sentiment: 'positive' },
+      { quote: '狄俄尼索斯醉酒流是最舒服的打法。', sentiment: 'positive' },
+      { quote: '剧情让死亡都有意义。', sentiment: 'positive' },
+      { quote: '热度系统让 100 小时后还有新东西。', sentiment: 'positive' },
+      { quote: '后期武器的 Boss 难度跳得有点猛。', sentiment: 'mixed' },
+      { quote: '配音质量碾压大多数 3A。', sentiment: 'positive' },
+    ],
+    ja: [
+      { quote: 'もう1周が毎回3時間になる。', sentiment: 'positive' },
+      { quote: 'ディオニュソス二日酔いビルドが最高の癒やし。', sentiment: 'positive' },
+      { quote: 'ストーリーが死を前向きにしてくれる。', sentiment: 'positive' },
+      { quote: 'ヒートシステムで100時間超えても新鮮。', sentiment: 'positive' },
+      { quote: '後半武器のボス難度の上がり方に驚いた。', sentiment: 'mixed' },
+      { quote: 'ボイス演技はAAAの大半を上回る。', sentiment: 'positive' },
+    ],
+  },
+  'ori-and-the-will-of-the-wisps': {
+    en: [
+      { quote: 'Every screenshot could be a wallpaper.', sentiment: 'positive' },
+      { quote: 'Chase sequences had my hands shaking.', sentiment: 'positive' },
+      { quote: 'Combat feels better than Blind Forest — spirit shards are great.', sentiment: 'positive' },
+      { quote: 'Some platforming sections are brutally precise.', sentiment: 'mixed' },
+      { quote: 'The story made me cry twice.', sentiment: 'positive' },
+    ],
+    'zh-hans': [
+      { quote: '随便截一张图都能当壁纸。', sentiment: 'positive' },
+      { quote: '追逐关卡手都在抖。', sentiment: 'positive' },
+      { quote: '战斗比盲眼森林好，碎片系统很棒。', sentiment: 'positive' },
+      { quote: '部分跳跃关卡精度要求很变态。', sentiment: 'mixed' },
+      { quote: '剧情让我哭了两次。', sentiment: 'positive' },
+    ],
+    ja: [
+      { quote: 'スクリーンショットが全部壁紙になる。', sentiment: 'positive' },
+      { quote: '追跡シーンで手が震えた。', sentiment: 'positive' },
+      { quote: '戦闘がBlind Forestより進化、シャードが良い。', sentiment: 'positive' },
+      { quote: '一部プラットフォームの精度要求が厳しい。', sentiment: 'mixed' },
+      { quote: 'ストーリーで2回泣いた。', sentiment: 'positive' },
+    ],
+  },
+  'super-smash-bros-ultimate': {
+    en: [
+      { quote: 'Couch co-op with four players is still peak party gaming.', sentiment: 'positive' },
+      { quote: 'Online input delay depends on your opponent\'s Wi-Fi.', sentiment: 'mixed' },
+      { quote: 'Spirits mode is a surprisingly deep single-player grind.', sentiment: 'positive' },
+      { quote: 'The roster is absurd — everyone is here.', sentiment: 'positive' },
+      { quote: 'Items on, Smash Ball on — the way Sakurai intended.', sentiment: 'positive' },
+      { quote: 'Competitive rulesets and casual fun are two different games.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '四人同屏聚会仍然是最棒的派对游戏。', sentiment: 'positive' },
+      { quote: '在线延迟取决于对手的 Wi-Fi。', sentiment: 'mixed' },
+      { quote: '命魂模式单人刷起来意外有深度。', sentiment: 'positive' },
+      { quote: '角色阵容夸张——全員集合。', sentiment: 'positive' },
+      { quote: '道具全开、最终绝招全开——樱井本意。', sentiment: 'positive' },
+      { quote: '竞技规则和休闲玩法是两种游戏。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: '4人ローカルは今でも最高のパーティーゲーム。', sentiment: 'positive' },
+      { quote: 'オンラインのラグは相手のWi-Fi次第。', sentiment: 'mixed' },
+      { quote: 'スピリッツモードは意外と深いソロゲー。', sentiment: 'positive' },
+      { quote: 'キャラ数が異常——全員参戦。', sentiment: 'positive' },
+      { quote: 'アイテム全開、スマッシュボール全開——桜井の本意。', sentiment: 'positive' },
+      { quote: '競技ルールとカジュアルは別ゲー。', sentiment: 'mixed' },
+    ],
+  },
+  undertale: {
+    en: [
+      { quote: 'Going in blind is the only honest way to play.', sentiment: 'positive' },
+      { quote: 'Pacifist route made me rethink what games can be.', sentiment: 'positive' },
+      { quote: 'Sans fight broke me — in the best way.', sentiment: 'positive' },
+      { quote: 'The humor lands even on the fifth playthrough.', sentiment: 'positive' },
+      { quote: 'Genocide route is intentionally not fun — that is the point.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '盲玩是唯一正确的打开方式。', sentiment: 'positive' },
+      { quote: '和平线让我重新思考游戏能是什么。', sentiment: 'positive' },
+      { quote: 'Sans 战打崩我了——以最好的方式。', sentiment: 'positive' },
+      { quote: '第五周目笑点还能命中。', sentiment: 'positive' },
+      { quote: '屠杀线故意不好玩——这就是重点。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: '初見で遊ぶのが正直な唯一の方法。', sentiment: 'positive' },
+      { quote: '平和ルートでゲームの可能性を見直した。', sentiment: 'positive' },
+      { quote: 'Sans戦で最高に壊れた。', sentiment: 'positive' },
+      { quote: '5周目でもギャグが刺さる。', sentiment: 'positive' },
+      { quote: 'ジェノサイドルートは意図的に楽しめない——それが答え。', sentiment: 'mixed' },
+    ],
+  },
+  'bayonetta-2': {
+    en: [
+      { quote: 'Witch Time triggers never get old.', sentiment: 'positive' },
+      { quote: 'Style ranking system makes every fight a performance.', sentiment: 'positive' },
+      { quote: 'Handheld Bayonetta on a train feels illegal.', sentiment: 'positive' },
+      { quote: 'Difficulty spikes on Infinite Climax are real.', sentiment: 'mixed' },
+      { quote: 'The set pieces put most action games to shame.', sentiment: 'positive' },
+    ],
+    'zh-hans': [
+      { quote: '魔女时间触发永远不腻。', sentiment: 'positive' },
+      { quote: '评价系统让每场战斗都是表演。', sentiment: 'positive' },
+      { quote: '在地铁上玩掌机版猎天使魔女感觉不合法。', sentiment: 'positive' },
+      { quote: '无限巅峰难度的跳跃是真实的。', sentiment: 'mixed' },
+      { quote: '关卡设计让大多数动作游戏自愧不如。', sentiment: 'positive' },
+    ],
+    ja: [
+      { quote: 'ウィッチタイムの発動は飽きない。', sentiment: 'positive' },
+      { quote: 'スタイルランクが戦闘をパフォーマンスにする。', sentiment: 'positive' },
+      { quote: '電車で携帯ベヨネッタは罪悪感がある。', sentiment: 'positive' },
+      { quote: 'インフィニットクライマックスの難度は本物。', sentiment: 'mixed' },
+      { quote: '演出でアクションゲームの大半を圧倒。', sentiment: 'positive' },
+    ],
+  },
+  celeste: {
+    en: [
+      { quote: 'Assist mode made it accessible without killing the challenge.', sentiment: 'positive' },
+      { quote: 'B-side golden strawberries are pure self-inflicted pain.', sentiment: 'mixed' },
+      { quote: 'The story about anxiety hit uncomfortably close.', sentiment: 'positive' },
+      { quote: 'Dash mechanics are tight — every death feels fair.', sentiment: 'positive' },
+      { quote: 'C-sides are short but absolutely brutal.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '辅助模式让它在不降低挑战的情况下更易上手。', sentiment: 'positive' },
+      { quote: 'B 面金色草莓纯属自找苦吃。', sentiment: 'mixed' },
+      { quote: '关于焦虑的剧情扎心到不舒服。', sentiment: 'positive' },
+      { quote: '冲刺手感精准——每次死亡都觉得公平。', sentiment: 'positive' },
+      { quote: 'C 面很短但绝对残忍。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: 'アシストモードで難度を壊さずにアクセシブルに。', sentiment: 'positive' },
+      { quote: 'B面ゴールドイチゴは自業自得の苦痛。', sentiment: 'mixed' },
+      { quote: '不安を描くストーリーが uncomfortably に刺さった。', sentiment: 'positive' },
+      { quote: 'ダッシュの操作感が完璧——死ぬたびに公平感がある。', sentiment: 'positive' },
+      { quote: 'C面は短いが絶対に厳しい。', sentiment: 'mixed' },
+    ],
+  },
+  'mario-kart-8-deluxe': {
+    en: [
+      { quote: 'Blue shell right before the finish line — every single time.', sentiment: 'mixed' },
+      { quote: 'Booster Course Pass doubles the track count for cheap.', sentiment: 'positive' },
+      { quote: 'Local four-player is still the best couch game.', sentiment: 'positive' },
+      { quote: '200cc is a different game — pure controlled chaos.', sentiment: 'positive' },
+      { quote: 'Online is fine but nothing beats local with friends.', sentiment: 'positive' },
+    ],
+    'zh-hans': [
+      { quote: '终点前蓝龟壳——每次都是。', sentiment: 'mixed' },
+      { quote: '新增赛道通行证便宜量大。', sentiment: 'positive' },
+      { quote: '四人本地仍然是最好的同屏游戏。', sentiment: 'positive' },
+      { quote: '200cc 是另一个游戏——纯粹的受控混乱。', sentiment: 'positive' },
+      { quote: '在线还行但比不上和朋友本地对战。', sentiment: 'positive' },
+    ],
+    ja: [
+      { quote: 'フィニッシュ直前のトゲゾー——毎回。', sentiment: 'mixed' },
+      { quote: '追加コースパスはコスパ最高。', sentiment: 'positive' },
+      { quote: '4人ローカルは今でも最高のソファゲー。', sentiment: 'positive' },
+      { quote: '200ccは別ゲー——制御されたカオス。', sentiment: 'positive' },
+      { quote: 'オンラインは悪くないがローカルには勝てない。', sentiment: 'positive' },
+    ],
+  },
+  'super-mario-bros-wonder': {
+    en: [
+      { quote: 'Wonder Flowers change the rules in the best way possible.', sentiment: 'positive' },
+      { quote: 'Elephant Mario is the mascot we did not know we needed.', sentiment: 'positive' },
+      { quote: 'Badge system adds real replay value to every level.', sentiment: 'positive' },
+      { quote: 'Online ghost players make it feel less lonely.', sentiment: 'positive' },
+      { quote: 'Some Wonder effects are pure Nintendo magic.', sentiment: 'positive' },
+    ],
+    'zh-hans': [
+      { quote: '惊奇花用最好的方式改变了规则。', sentiment: 'positive' },
+      { quote: '大象马力欧是不知道自己需要的吉祥物。', sentiment: 'positive' },
+      { quote: '徽章系统给每关都加了重玩价值。', sentiment: 'positive' },
+      { quote: '在线幽灵玩家让游戏不那么孤单。', sentiment: 'positive' },
+      { quote: '部分惊奇效果是纯正的任天堂魔法。', sentiment: 'positive' },
+    ],
+    ja: [
+      { quote: 'ワンダーフラワーが最高の形でルールを変える。', sentiment: 'positive' },
+      { quote: 'ゾウマリオは必要だと知らなかったマスコット。', sentiment: 'positive' },
+      { quote: 'バッジシステムが各ステージにリプレイ価値を追加。', sentiment: 'positive' },
+      { quote: 'オンラインのゴーストプレイヤーが孤独感を和らげる。', sentiment: 'positive' },
+      { quote: '一部ワンダー演出は純粋な任天堂の魔法。', sentiment: 'positive' },
+    ],
+  },
+  inside: {
+    en: [
+      { quote: 'The ending will live in my head rent-free forever.', sentiment: 'positive' },
+      { quote: 'No dialogue, no UI, just pure environmental dread.', sentiment: 'positive' },
+      { quote: 'Four hours long but every minute is loaded.', sentiment: 'positive' },
+      { quote: 'The underwater sections are genuinely terrifying.', sentiment: 'positive' },
+      { quote: 'If you liked Limbo, this is the upgrade.', sentiment: 'positive' },
+    ],
+    'zh-hans': [
+      { quote: '结局会永远免费住在我脑子里。', sentiment: 'positive' },
+      { quote: '无对话、无 UI，纯环境压迫感。', sentiment: 'positive' },
+      { quote: '四小时但每一分钟都饱满。', sentiment: 'positive' },
+      { quote: '水下部分真的恐怖。', sentiment: 'positive' },
+      { quote: '喜欢 Limbo 的话这就是升级版。', sentiment: 'positive' },
+    ],
+    ja: [
+      { quote: 'エンディングが無料で脳内に住み続ける。', sentiment: 'positive' },
+      { quote: '会話もUIもない、純粋な環境恐怖。', sentiment: 'positive' },
+      { quote: '4時間だが1分1分が重い。', sentiment: 'positive' },
+      { quote: '水中シーンは本物に怖い。', sentiment: 'positive' },
+      { quote: 'Limboが好きならこれはアップグレード。', sentiment: 'positive' },
+    ],
+  },
+  'shovel-knight-treasure-trove': {
+    en: [
+      { quote: 'Pogo bouncing is the most satisfying jump in any retro game.', sentiment: 'positive' },
+      { quote: 'Four campaigns in one package is absurd value.', sentiment: 'positive' },
+      { quote: 'Specter Knight campaign might be the best one.', sentiment: 'positive' },
+      { quote: 'Boss patterns reward patience and observation.', sentiment: 'positive' },
+      { quote: '8-bit nostalgia done right — not just aesthetic.', sentiment: 'positive' },
+    ],
+    'zh-hans': [
+      { quote: '铲击跳是所有复古游戏里最爽的跳跃。', sentiment: 'positive' },
+      { quote: '四个战役一个价格，价值离谱。', sentiment: 'positive' },
+      { quote: '幽灵骑士战役可能是最好的。', sentiment: 'positive' },
+      { quote: 'Boss 模式奖励耐心和观察。', sentiment: 'positive' },
+      { quote: '8-bit 怀旧做对了——不只是表面。', sentiment: 'positive' },
+    ],
+    ja: [
+      { quote: 'ホッピング攻撃はレトロゲームで最高のジャンプ感。', sentiment: 'positive' },
+      { quote: '4キャンペーン入りはコスパが異常。', sentiment: 'positive' },
+      { quote: 'スペクターナイト編が一番かも。', sentiment: 'positive' },
+      { quote: 'ボスのパターンは忍耐と観察を報いる。', sentiment: 'positive' },
+      { quote: '8bitノスタルジーが正しくやっている——見た目だけじゃない。', sentiment: 'positive' },
+    ],
+  },
+  unavowed: {
+    en: [
+      { quote: 'Party composition changes every investigation — love it.', sentiment: 'positive' },
+      { quote: 'Voice acting quality is a surprise for an indie point-and-click.', sentiment: 'positive' },
+      { quote: 'Urban fantasy setting feels fresh next to sword-and-sorcery.', sentiment: 'positive' },
+      { quote: 'Touch controls work surprisingly well on Switch.', sentiment: 'positive' },
+      { quote: 'Wish it were longer — finished in eight hours.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '每次调查换队友组成——很喜欢。', sentiment: 'positive' },
+      { quote: '独立点击冒险游戏配音质量出乎意料。', sentiment: 'positive' },
+      { quote: '都市奇幻设定在剑与魔法旁边显得清新。', sentiment: 'positive' },
+      { quote: 'Switch 触屏操作意外好用。', sentiment: 'positive' },
+      { quote: '希望更长——八小时就通关了。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: '毎回の調査でパーティー構成が変わる——良い。', sentiment: 'positive' },
+      { quote: 'インディーのポイント＆クリックでこのボイス品質は驚き。', sentiment: 'positive' },
+      { quote: '都会派ファンタジーは剣と魔法の横で新鮮。', sentiment: 'positive' },
+      { quote: 'Switchのタッチ操作が意外と合う。', sentiment: 'positive' },
+      { quote: 'もっと長く欲しかった——8時間でクリア。', sentiment: 'mixed' },
+    ],
+  },
+  cuphead: {
+    en: [
+      { quote: 'Each boss is a puzzle — dying 30 times is part of learning.', sentiment: 'positive' },
+      { quote: 'Co-op doubles the chaos and the blame.', sentiment: 'mixed' },
+      { quote: 'The animation is hand-drawn — you can feel every frame.', sentiment: 'positive' },
+      { quote: 'S-rank attempts are a different game from clearing.', sentiment: 'mixed' },
+      { quote: 'Jazz soundtrack slaps harder than most AAA scores.', sentiment: 'positive' },
+      { quote: 'Isle 3 difficulty wall made my friend quit.', sentiment: 'negative' },
+    ],
+    'zh-hans': [
+      { quote: '每个 Boss 都是谜题——死 30 次是学习过程。', sentiment: 'positive' },
+      { quote: '双人合作加倍混乱也加倍甩锅。', sentiment: 'mixed' },
+      { quote: '纯手绘动画——每一帧都有质感。', sentiment: 'positive' },
+      { quote: 'S 评价和通关是两个游戏。', sentiment: 'mixed' },
+      { quote: '爵士配乐比大多数 3A 配乐还猛。', sentiment: 'positive' },
+      { quote: '第三岛难度墙劝退了我朋友。', sentiment: 'negative' },
+    ],
+    ja: [
+      { quote: '各ボスはパズル——30回死ぬのが学習の一部。', sentiment: 'positive' },
+      { quote: '協力プレイはカオスも責任も2倍。', sentiment: 'mixed' },
+      { quote: '手描きアニメ——全フレームに手間を感じる。', sentiment: 'positive' },
+      { quote: 'Sランク挑戦はクリアとは別ゲー。', sentiment: 'mixed' },
+      { quote: 'ジャズサントラはAAAの大半を上回る。', sentiment: 'positive' },
+      { quote: 'アイル3の難度の壁で友人がリタイア。', sentiment: 'negative' },
+    ],
+  },
+  'hollow-knight': {
+    en: [
+      { quote: 'Getting lost in Hallownest is the whole point.', sentiment: 'positive' },
+      { quote: 'Nail arts feel great once the timing clicks.', sentiment: 'positive' },
+      { quote: 'The Grimm Troupe boss is peak design.', sentiment: 'positive' },
+      { quote: 'Charm builds let you play your way.', sentiment: 'positive' },
+      { quote: 'Platforming in the White Palace nearly broke my controller.', sentiment: 'mixed' },
+      { quote: 'Silksong waiting is its own genre at this point.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '在空洞骑士迷路才是本体。', sentiment: 'positive' },
+      { quote: '骨钉技巧掌握节奏后手感很棒。', sentiment: 'positive' },
+      { quote: '格林剧团 Boss 是巅峰设计。', sentiment: 'positive' },
+      { quote: '护符搭配让你按自己的方式玩。', sentiment: 'positive' },
+      { quote: '白宫跳跳乐差点让我摔手柄。', sentiment: 'mixed' },
+      { quote: '等 Silksong 本身已经是一个品类了。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: 'ハロウネストで迷子になるのが本体。', sentiment: 'positive' },
+      { quote: 'ネイルアーツはタイミングが合うと最高。', sentiment: 'positive' },
+      { quote: 'グリム一座のボスが頂点のデザイン。', sentiment: 'positive' },
+      { quote: 'チャーム構成で自分なりの遊び方ができる。', sentiment: 'positive' },
+      { quote: 'ホワイトパレスのプラットフォームでコントローラーが危なかった。', sentiment: 'mixed' },
+      { quote: 'Silksong待ちがもう一つのジャンルになっている。', sentiment: 'mixed' },
+    ],
+  },
+  'dead-cells': {
+    en: [
+      { quote: 'One more run — suddenly it is 2 AM.', sentiment: 'positive' },
+      { quote: 'Weapon synergy discovery is the real dopamine hit.', sentiment: 'positive' },
+      { quote: '5 Boss Cells is where the real game begins.', sentiment: 'positive' },
+      { quote: 'RNG can bless or ruin a run — that is the deal.', sentiment: 'mixed' },
+      { quote: 'Combat feels like butter — every hit has weight.', sentiment: 'positive' },
+      { quote: 'Unlock fatigue sets in around mid-game.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '再来一把——突然凌晨两点了。', sentiment: 'positive' },
+      { quote: '发现武器协同才是真正的多巴胺。', sentiment: 'positive' },
+      { quote: '5 细胞才是真正的开始。', sentiment: 'positive' },
+      { quote: 'RNG 可以祝福也可以毁掉一局——这就是交易。', sentiment: 'mixed' },
+      { quote: '战斗手感像黄油——每一击都有重量。', sentiment: 'positive' },
+      { quote: '中期会开始有解锁疲劳。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: 'もう1周——気づいたら午前2時。', sentiment: 'positive' },
+      { quote: '武器シナジの発見が本当のドーパミン。', sentiment: 'positive' },
+      { quote: '5ボスセルからが本番。', sentiment: 'positive' },
+      { quote: 'RNGが救う場合と壊す場合がある——それが取引。', sentiment: 'mixed' },
+      { quote: '戦闘がバターのように滑らか——一撃に重みがある。', sentiment: 'positive' },
+      { quote: '中盤でアンロック疲れが来る。', sentiment: 'mixed' },
+    ],
+  },
+  'dave-the-diver': {
+    en: [
+      { quote: 'Sushi rush hour is more stressful than any boss fight.', sentiment: 'positive' },
+      { quote: 'The farm rabbit hole stole three hours without me noticing.', sentiment: 'positive' },
+      { quote: 'Diving gets genuinely tense at deeper levels.', sentiment: 'positive' },
+      { quote: 'Management sections overstay their welcome sometimes.', sentiment: 'mixed' },
+      { quote: 'The humor keeps every system fresh.', sentiment: 'positive' },
+      { quote: 'New mechanics arrive faster than you can absorb them.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '寿司店高峰期比任何 Boss 战都紧张。', sentiment: 'positive' },
+      { quote: '农场兔子洞不知不觉偷走三小时。', sentiment: 'positive' },
+      { quote: '深水区潜水真的越来越紧张。', sentiment: 'positive' },
+      { quote: '管理部分有时待太久了。', sentiment: 'mixed' },
+      { quote: '幽默感让每个系统都保持新鲜。', sentiment: 'positive' },
+      { quote: '新机制来得比消化速度还快。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: '寿司ラッシュはどのボス戦より追い詰められる。', sentiment: 'positive' },
+      { quote: '農場の沼に3時間溶けた。', sentiment: 'positive' },
+      { quote: '深場ダイビングは本当に緊張する。', sentiment: 'positive' },
+      { quote: 'マネジメントパートがたまに長すぎる。', sentiment: 'mixed' },
+      { quote: 'ユーモアが全システムを新鮮に保つ。', sentiment: 'positive' },
+      { quote: '新ギミックの追加速度が消化速度を上回る。', sentiment: 'mixed' },
+    ],
+  },
+  'xenoblade-chronicles-3': {
+    en: [
+      { quote: 'Class-switching keeps combat fresh for 100 hours.', sentiment: 'positive' },
+      { quote: 'Colony 4 hit me harder than any JRPG town in years.', sentiment: 'positive' },
+      { quote: 'The opening hours are slow — trust the payoff.', sentiment: 'mixed' },
+      { quote: 'Ouroboros fusions are flashy and strategic.', sentiment: 'positive' },
+      { quote: 'Handheld resolution drops are noticeable in open zones.', sentiment: 'mixed' },
+      { quote: 'Menu depth is a rabbit hole for min-maxers.', sentiment: 'mixed' },
+    ],
+    'zh-hans': [
+      { quote: '职业切换让战斗 100 小时都不腻。', sentiment: 'positive' },
+      { quote: '殖民地4号的剧情比近年任何 JRPG 城镇都扎心。', sentiment: 'positive' },
+      { quote: '开头几小时慢热——相信后面的回报。', sentiment: 'mixed' },
+      { quote: '衔尾蛇融合既华丽又有策略深度。', sentiment: 'positive' },
+      { quote: '掌机开放区域分辨率下降明显。', sentiment: 'mixed' },
+      { quote: '菜单深度是数值党的兔子洞。', sentiment: 'mixed' },
+    ],
+    ja: [
+      { quote: 'クラス替えで100時間戦闘が新鮮。', sentiment: 'positive' },
+      { quote: 'コロニー4のシナリオが近年のJRPGで一番刺さった。', sentiment: 'positive' },
+      { quote: '序盤はスロー——後の展開を信じろ。', sentiment: 'mixed' },
+      { quote: 'ウロボロス融合は華麗かつ戦略的。', sentiment: 'positive' },
+      { quote: '携帯モードの開放域で解像度低下が目立つ。', sentiment: 'mixed' },
+      { quote: 'メニューの深さはミニマクサーの沼。', sentiment: 'mixed' },
+    ],
+  },
+};
+
+const GAME_SPECIFIC_COMMUNITY_MEMES = {
+  'persona-5-royal': {
+    en: ['best girl wars', 'rank 10 confidant rush', 'Velvet Room fusion chart', 'Morgana sleep police', 'Joker in Smash dreams', 'Will Seeds debate'],
+    'zh-hans': ['最佳老婆大战', '满级 Coop 冲刺', '天鹅绒房间合成表', '莫娜睡眠警察', 'Joker 入 Smash 梦', '意志种子争论'],
+    ja: ['最推し議論', 'コープ10目指し即急ぐ', 'ベルベットルーム合成表', 'モルガナ睡眠警察', 'Joker参戦夢', 'ウィルシード議論'],
+  },
+  'tetris-effect-connected': {
+    en: ['zone trance addiction', 'ranked anxiety', 'one more round', 'Tetris effect in dreams', 'marathon mode zen', 'score attack grind'],
+    'zh-hans': ['Zone 催眠上瘾', '排位焦虑', '再来一轮', '梦里都在消行', '马拉松模式禅意', '分数挑战刷刷刷'],
+    ja: ['ゾーン中毒', 'ランク不安', 'もう1ラウンド', '夢でテトリス', 'マラソン禅', 'スコアアタック周回'],
+  },
+  hades: {
+    en: ['one more run', 'dad jokes build', 'boon RNG cope', 'Heat 32 pain', 'Nectar gifting priority', 'Aphrodite charm cheese'],
+    'zh-hans': ['再来一把', '老爸笑话流', '祝福 RNG 心态', '热度 32 地狱', '送蜜优先级', '阿芙洛狄忒魅惑逃课'],
+    ja: ['もう1周', '親父ギャグビルド', '功徳RNG祈祷', 'ヒート32地獄', 'ネクタル贈り順', 'アフロディテチャームチーズ'],
+  },
+  'ori-and-the-will-of-the-wisps': {
+    en: ['wallpaper simulator', 'chase sequence panic', 'spirit shard debate', 'blind forest nostalgia', 'hand cramp from gripping', 'sadness speedrun'],
+    'zh-hans': ['壁纸模拟器', '追逐恐慌', '碎片搭配争论', '盲眼森林情怀', '握到手抽筋', '催泪速通'],
+    ja: ['壁紙シミュレーター', '追跡パニック', 'シャード議論', 'Blind Forest郷愁', '握力で手がつる', '涙速攻'],
+  },
+  'super-smash-bros-ultimate': {
+    en: ['blue shell the leader', 'items on debate', 'who asked for another Fire Emblem', 'online lag complaints', 'tier list arguments', 'everyone is here'],
+    'zh-hans': ['蓝龟壳打第一', '道具开关之争', '谁要更多火纹角色', '在线延迟吐槽', '天梯争论', '全員集合'],
+    ja: ['トゲゾーで1位を狙え', 'アイテム賛否', 'FE参戦どうよ', 'オンラインラグ不満', 'ティアリスト論争', '全員参戦'],
+  },
+  undertale: {
+    en: ['go in blind police', 'Sans is harder than you think', 'mercy route advocacy', 'genocide route guilt', 'Determination memes', 'flowey side-eye'],
+    'zh-hans': ['盲玩警察', 'Sans 比你想的难', '和平线安利', '屠杀线负罪感', '决心梗', '小花白眼'],
+    ja: ['初見警察', 'Sansは思ってたより難しい', '慈悲ルート推し', 'ジェノサイドの罪悪感', '決意ネタ', 'フラウィ横目'],
+  },
+  'bayonetta-2': {
+    en: ['Witch Time flex', 'Platinum rank or bust', 'handheld Bayo is witchcraft', 'combo video dreams', 'Umbran Climax spam', 'NSFW toggle awkwardness'],
+    'zh-hans': ['魔女时间秀', '白金评价否则重来', '掌机版猎天是黑魔法', '连段视频梦', '暗黑高潮乱按', '敏感内容开关尴尬'],
+    ja: ['ウィッチタイム自慢', 'プラチナランクか死か', '携帯ベヨは魔術', 'コンボ動画の夢', 'アンブランクライマックス連打', 'NSFW切替の気まずさ'],
+  },
+  celeste: {
+    en: ['strawberry greed', 'death counter flex', 'B-side pain', 'dash spike trauma', 'assist mode respect', 'golden strawberry madness'],
+    'zh-hans': ['草莓贪念', '死亡计数炫耀', 'B 面之痛', '冲刺尖刺创伤', '辅助模式尊重', '金草莓疯狂'],
+    ja: ['イチゴ欲', '死亡カウント自慢', 'B面の苦しみ', 'ダッシュスパイキトラウマ', 'アシストモード敬意', 'ゴールドイチゴ狂気'],
+  },
+  'mario-kart-8-deluxe': {
+    en: ['blue shell PTSD', 'shortcut discovery joy', '200cc panic', 'Booster Course hype', 'coin item rage', 'rubber band AI denial'],
+    'zh-hans': ['蓝龟壳 PTSD', '发现近路的喜悦', '200cc 恐慌', '新增赛道兴奋', '金币道具愤怒', '否认橡皮筋 AI'],
+    ja: ['トゲゾーPTSD', 'ショートカット発見の歓び', '200ccパニック', '追加コース熱', 'コインアイテム怒り', 'ゴムバンドAI否定'],
+  },
+  'super-mario-bros-wonder': {
+    en: ['Wonder Flower chaos', 'elephant Mario supremacy', 'badge loadout stress', 'talking flower quotes', 'ghost player solidarity', 'coin fever'],
+    'zh-hans': ['惊奇花混乱', '大象马力欧至上', '徽章搭配焦虑', '会说话的花语录', '幽灵玩家抱团', '金币狂热'],
+    ja: ['ワンダーフラワーカオス', 'ゾウマリオ最強', 'バッジ構成ストレス', 'おしゃべりフラワー台詞', 'ゴースト連帯', 'コインフィーバー'],
+  },
+  inside: {
+    en: ['that ending though', 'no words needed', 'underwater dread', 'Playdead atmosphere', 'four hours of tension', 'mind control blob'],
+    'zh-hans': ['这个结局啊', '不需要一句话', '水下恐惧', 'Playdead 氛围', '四小时的紧张', '精神控制肉球'],
+    ja: ['あのエンディング', '言葉不要', '水中の恐怖', 'Playdeadの空気感', '4時間の緊張', '精神制御の塊'],
+  },
+  'shovel-knight-treasure-trove': {
+    en: ['pogo mastery', 'four campaigns one price', 'Specter Knight best knight', 'retro done right', 'cheat code nostalgia', 'king knight dance'],
+    'zh-hans': ['铲击精通', '四个战役一个价', '幽灵骑士最帅', '复古做对了', '秘籍怀旧', '国王骑士舞'],
+    ja: ['ホッピングマスタリー', '4キャンペーン1価格', 'スペクナーが最強', 'レトロの正解', 'チートコード郷愁', 'キングナイトの踊り'],
+  },
+  unavowed: {
+    en: ['party comp puzzles', 'urban fantasy vibes', 'voice acting surprise', 'touch screen point-and-click', 'eight hour regret', 'demon summoning debate'],
+    'zh-hans': ['队友搭配谜题', '都市奇幻氛围', '配音惊喜', '触屏点击冒险', '八小时意犹未尽', '召唤恶魔争论'],
+    ja: ['パーティーパズル', '都会派ファンタジーの空気', 'ボイスの驚き', 'タッチスクリーンP&C', '8時間の後悔', '悪魔召喚議論'],
+  },
+  cuphead: {
+    en: ['S-rank or bust', 'co-op blame game', '1930s cartoon awe', 'parry timing grind', 'DLC price-to-rage ratio', 'Isle 3 wall'],
+    'zh-hans': ['S 评价否则重来', '双人甩锅', '1930 年代动画惊叹', '格挡节奏练习', 'DLC 价格与怒气比', '第三岛劝退墙'],
+    ja: ['Sランクか死か', '協力プレイの責任論', '1930年代アニメ感動', 'パリィタイミング練習', 'DLCコスパと怒り比率', 'アイル3の壁'],
+  },
+  'hollow-knight': {
+    en: ['Silksong waiting room', 'getting lost simulator', 'boss rage compilation', 'charm build debates', 'White Palace pain', 'Geo grinding cope'],
+    'zh-hans': ['Silksong 等待室', '迷路模拟器', 'Boss 战怒气合集', '护符搭配争论', '白宫跳跳乐之痛', '吉欧刷取心态'],
+    ja: ['Silksong待機部屋', '迷子シミュレーター', 'ボス rage 動画', 'チャーム構成論争', 'ホワイトパレスの苦痛', 'ジオ周回祈祷'],
+  },
+  'dead-cells': {
+    en: ['one more run addiction', '5BC wall', 'weapon RNG cope', 'flask shortage panic', 'biome route arguments', 'scroll fragment grind'],
+    'zh-hans': ['再来一把上瘾', '5 细胞墙', '武器 RNG 心态', '药水不够恐慌', '路线争论', '卷轴碎片刷取'],
+    ja: ['もう1周中毒', '5BCの壁', '武器RNG祈り', 'フラスコ不足パニック', 'バイオームルート論争', 'スクロール破片周回'],
+  },
+  'dave-the-diver': {
+    en: ['sushi rush panic', 'farm rabbit hole', 'diving depth anxiety', 'restaurant rating stress', 'Bancho approval grind', 'staff management chaos'],
+    'zh-hans': ['寿司店忙乱', '农场兔子洞', '潜水深度焦虑', '餐厅评分压力', '班乔认可刷取', '员工管理混乱'],
+    ja: ['寿司ラッシュパニック', '農場の沼', '深度ダイビング不安', '店舗レートストレス', 'バンチョー承認周回', 'スタッフ管理カオス'],
+  },
+  'xenoblade-chronicles-3': {
+    en: ['class build debates', 'Colony nostalgia', '100h commitment', 'Ouroboros flash', 'menu depth rabbit hole', 'handheld resolution cope'],
+    'zh-hans': ['职业搭配讨论', '殖民地情怀', '100 小时投入', '衔尾蛇炫技', '菜单深度兔子洞', '掌机分辨率心态'],
+    ja: ['クラス構成議論', 'コロニーの郷愁', '100時間覚悟', 'ウロボロス閃き', 'メニュー沼', '携帯解像度祈祷'],
+  },
+};
+
+const GAME_SPECIFIC_FIELD_OVERRIDES = {
+  cuphead: {
+    en: {
+      heroNote: "Studio MDHR's 1930s cartoon run-and-gun — hand-drawn animation, jazz soundtrack, tight boss patterns, and 2-player co-op.",
+      whatItIs: "Run-and-gun with 1930s cartoon animation, boss-rush structure, and 2-player co-op.",
+      bestFor: "Players who love challenging boss fights and hand-drawn art.",
+      avoidIf: "You rage-quit easily — Cuphead's difficulty is the point.",
+      consensusPraise: "Animation quality, boss design, and soundtrack are still unmatched in the genre.",
+      mainFriction: "Difficulty wall on later bosses; some players bounce before finishing Isle 3.",
+      playStyle: "Run-and-gun levels and boss rushes: dodge, dash, parry, switch weapons, use supers. Each boss has unique multi-phase patterns.",
+      playtime: "10h main · 15h+ with DLC · replay-driven for S-ranks",
+      timeCommitment: "10h for a first clear, 15h+ with The Delicious Last Course DLC, and much more if you chase S-ranks.",
+      timeFit: "Time fit: ~10h main, replay-driven for S-ranks",
+      quickFilters: ["short_sessions", "great_on_sale"],
+      tldr: "Cuphead — 87 Metacritic; hand-drawn run-and-gun with brutal boss fights and 2-player co-op. At €8.37 in Brazil it is an easy buy.",
+    },
+    'zh-hans': {
+      heroNote: "MDHR 工作室的 1930 年代动画风格跑枪游戏——手绘动画、爵士配乐、精密 Boss 模式、双人合作。",
+      whatItIs: "1930 年代动画风格跑枪游戏，Boss 连战结构，支持双人合作。",
+      bestFor: "喜欢挑战 Boss 战和手绘美术的玩家。",
+      avoidIf: "容易摔手柄——杯头的难度就是核心。",
+      consensusPraise: "动画质量、Boss 设计和配乐在同类游戏中仍无对手。",
+      mainFriction: "后期 Boss 难度墙明显，部分玩家在第三岛前放弃。",
+      playStyle: "跑枪关卡和 Boss 连战：闪避、冲刺、格挡、切换武器、释放大招。每个 Boss 有多阶段独特模式。",
+      playtime: "10 小时主线 · 含 DLC 15 小时以上 · S 评价驱动重玩",
+      timeCommitment: "首通约 10 小时，含《美味的最后一道菜》DLC 15 小时以上，追 S 评价则更多。",
+      timeFit: "时间参考：约 10 小时主线，S 评价驱动重玩",
+      quickFilters: ["short_sessions", "great_on_sale"],
+    },
+    ja: {
+      heroNote: "MDHR の1930年代カートゥーン風ラン＆ガン——手描きアニメ、ジャズサントラ、精密ボス戦、2人協力。",
+      whatItIs: "1930年代カートゥーン風ラン＆ガン、ボスラッシュ構成、2人協力プレイ対応。",
+      bestFor: "ボス戦と手描きアートが好きなプレイヤー。",
+      avoidIf: " rage-quit しやすいなら——Cupheadの難度がポイント。",
+      consensusPraise: "アニメ品質、ボスデザイン、サントラはジャンル内で未だに最高峰。",
+      mainFriction: "後半ボスの難度の壁。アイル3まで到達しない人も多い。",
+      playStyle: "ラン＆ガンステージとボスラッシュ：回避、ダッシュ、パリィ、武器切替、必殺技。各ボスに多段階パターン。",
+      playtime: "メイン約10時間・DLC込み約15時間・Sランク追求でさらに",
+      timeCommitment: "初回クリア約10時間、DLC「The Delicious Last Course」込みで約15時間以上、Sランク追求でさらに。",
+      timeFit: "目安：メイン約10時間、Sランク追求で伸びる",
+      quickFilters: ["short_sessions", "great_on_sale"],
+    },
+  },
+  'hollow-knight': {
+    en: {
+      heroNote: "Team Cherry's Metroidvania benchmark — deep exploration, tight nail combat, 40+ bosses, and three free DLC packs.",
+      whatItIs: "Metroidvania: interconnected world, nail combat, charms, 40+ bosses, and three free DLCs.",
+      bestFor: "Explorers who love hidden paths and tough bosses.",
+      avoidIf: "You need clear waypoints — it drops you in and says figure it out.",
+      consensusPraise: "World design, boss roster, and free content make it one of gaming's best values.",
+      mainFriction: "Getting lost is by design; some players lose momentum when the next goal is unclear.",
+      playStyle: "Side-scrolling Metroidvania: explore Hallownest, unlock movement abilities, equip charms, fight 40+ bosses. The map rewards backtracking.",
+      playtime: "27h main · 42h+ extras · ~65h completionist",
+      timeCommitment: "27 hours for the main story, 42+ with extras, and around 65 for full completion including all DLC.",
+      timeFit: "Time fit: 27h main · 42h+ extras · ~65h completionist",
+      quickFilters: ["long_rpg", "great_on_sale"],
+      tldr: "Hollow Knight — 90 Metacritic; Metroidvania with 27h of content, 40+ bosses, and three free DLCs. At €4.69 in Brazil it is absurd value.",
+    },
+    'zh-hans': {
+      heroNote: "Team Cherry 的银河恶魔城标杆——深度探索、精准骨钉战斗、40+ Boss、三个免费 DLC。",
+      whatItIs: "银河恶魔城：互联世界、骨钉战斗、护符系统、40+ Boss、三个免费 DLC。",
+      bestFor: "热爱探索隐藏路线和挑战硬核 Boss 的玩家。",
+      avoidIf: "需要明确指引——它把你丢进去让你自己摸索。",
+      consensusPraise: "世界设计、Boss 阵容和免费内容让它成为游戏界最高性价比之一。",
+      mainFriction: "迷路是设计意图；部分玩家在目标不明时失去动力。",
+      playStyle: "横版银河恶魔城：探索空洞巢穴、解锁移动能力、装备护符、挑战 40+ Boss。地图奖励回溯。",
+      playtime: "27 小时主线 · 42 小时以上含支线 · 约 65 小时全收集",
+      timeCommitment: "主线约 27 小时，含支线 42 小时以上，全 DLC 全收集约 65 小时。",
+      timeFit: "时间参考：27 小时主线 · 42 小时以上含支线 · 约 65 小时全收集",
+      quickFilters: ["long_rpg", "great_on_sale"],
+    },
+    ja: {
+      heroNote: "Team Cherryのメトロイドヴァニアの基準——深い探索、精密なネイル戦闘、40以上のボス、3つの無料DLC。",
+      whatItIs: "メトロイドヴァニア：接続された世界、ネイル戦闘、チャーム、40以上のボス、3つの無料DLC。",
+      bestFor: "隠しルートや厳しいボスが好きな探索者。",
+      avoidIf: "明確な案内が必要——放り込まれて自力で解決するゲーム。",
+      consensusPraise: "世界デザイン、ボスのラインナップ、無料コンテンツがゲーム界最高のコスパの一つ。",
+      mainFriction: "迷子になるのはデザイン意図。次の目標が不明瞭で勢いを失う人も。",
+      playStyle: "横スクロールメトロイドヴァニア：ハロウネスト探索、移動能力解放、チャーム装備、40以上のボス戦。マップはバックトラックを報いる。",
+      playtime: "メイン約27時間・追加約42時間・コンプ約65時間",
+      timeCommitment: "メイン約27時間、追加コンテンツ込みで約42時間以上、全DLCコンプで約65時間。",
+      timeFit: "目安：メイン約27時間・追加約42時間・コンプ約65時間",
+      quickFilters: ["long_rpg", "great_on_sale"],
+    },
+  },
+  'dead-cells': {
+    en: {
+      heroNote: "Motion Twin's roguelite Metroidvania — procedural runs, 200+ weapons, fast melee combat, and years of updates.",
+      whatItIs: "Roguelite Metroidvania: procedural levels, 200+ weapons, fast melee, permanent upgrades.",
+      bestFor: "Action fans who want a roguelite with 200+ weapons.",
+      avoidIf: "You dislike restarting after death — the roguelite loop is the design.",
+      consensusPraise: "Combat feel, build variety, and free updates make it a top roguelite on Switch.",
+      mainFriction: "RNG can make or break a run; some burn out before unlocking the full weapon pool.",
+      playStyle: "Side-scrolling roguelite: pick routes through procedural biomes, find weapons and skills, fight bosses. Permanent runes unlock new paths.",
+      playtime: "20h to see credits · 60h+ for full biome clear · replay-driven",
+      timeCommitment: "About 20 hours to reach the first ending, 60+ to see all biomes and bosses.",
+      timeFit: "Time fit: ~20h to credits, replay-driven",
+      quickFilters: ["short_sessions", "great_on_sale"],
+      tldr: "Dead Cells — 89 Metacritic; roguelite Metroidvania with 200+ weapons. At €8.38 in Brazil it is a strong buy for action fans.",
+    },
+    'zh-hans': {
+      heroNote: "Motion Twin 的 Roguelite 银河恶魔城——随机流程、200+ 武器、快节奏近战、多年持续更新。",
+      whatItIs: "Roguelite 银河恶魔城：随机地图、200+ 武器、快节奏近战、永久升级。",
+      bestFor: "想要 200+ 武器的 Roguelite 动作玩家。",
+      avoidIf: "不喜欢死后重来——Roguelite 循环就是设计。",
+      consensusPraise: "战斗手感、构筑多样性和免费更新让它成为 Switch 顶级 Roguelite。",
+      mainFriction: "RNG 决定一局成败；部分玩家在解锁全部武器前就疲劳了。",
+      playStyle: "横版 Roguelite：选择随机生态区路线、收集武器和技能、挑战 Boss。永久符文解锁新路径。",
+      playtime: "20 小时看结局 · 60 小时以上全区域 · 重玩驱动",
+      timeCommitment: "约 20 小时到第一个结局，60 小时以上看完全区域和 Boss。",
+      timeFit: "时间参考：约 20 小时看结局，重玩驱动",
+      quickFilters: ["short_sessions", "great_on_sale"],
+    },
+    ja: {
+      heroNote: "Motion Twinのローグライトメトロイドヴァニア——ランダムルート、200以上の武器、高速近接戦闘、長年のアップデート。",
+      whatItIs: "ローグライトメトロイドヴァニア：ランダムステージ、200以上の武器、高速近接、永続アップグレード。",
+      bestFor: "200以上の武器があるローグライトが欲しいアクションファン。",
+      avoidIf: "死後のリスタートが嫌い——ループがデザインの核心。",
+      consensusPraise: "戦闘手感、ビルド多様性、無料アップデートでSwitchのトップローグライト。",
+      mainFriction: "RNGが運命を決める。全武器解放前に燃え尽きる人も。",
+      playStyle: "横スクロールローグライト：ランダムバイオームのルート選択、武器とスキルの入手、ボス戦。永続ルーンで新ルート解放。",
+      playtime: "ED到達約20時間・全バイオーム約60時間・リプレイ駆動",
+      timeCommitment: "初回ED到達約20時間、全バイオーム・ボス制覇で約60時間以上。",
+      timeFit: "目安：ED到達約20時間、リプレイ駆動",
+      quickFilters: ["short_sessions", "great_on_sale"],
+    },
+  },
+  'dave-the-diver': {
+    en: {
+      heroNote: "MINTROCKET's genre mashup — daytime diving for sushi ingredients, nighttime restaurant management, and constant surprises.",
+      whatItIs: "Diving + restaurant sim: catch fish by day, serve sushi by night, with side quests.",
+      bestFor: "Players who want a chill loop with surprising depth.",
+      avoidIf: "You want pure action or pure management — it bounces between both.",
+      consensusPraise: "The mashup works better than it should; humor and art keep it fresh for 30h+.",
+      mainFriction: "Some management sections feel grindy; new systems arrive faster than players absorb.",
+      playStyle: "Day-night cycle: dive for fish and loot by day, run a sushi restaurant by night. Farming, combat, and story quests layer on top.",
+      playtime: "25h main · 40h+ extras · ~60h completionist",
+      timeCommitment: "About 25 hours for the main story, 40+ with side content, and around 60 for full completion.",
+      timeFit: "Time fit: 25h main · 40h+ extras · ~60h completionist",
+      quickFilters: ["long_rpg", "great_on_sale"],
+      tldr: "DAVE THE DIVER — 88 Metacritic; diving + sushi restaurant mashup with 25h+ of content. At €12.96 in Japan it is a solid pick.",
+    },
+    'zh-hans': {
+      heroNote: "MINTROCKET 的类型混搭——白天潜水抓寿司食材、晚上经营寿司店、不断有惊喜。",
+      whatItIs: "潜水 + 寿司店模拟：白天抓鱼、晚上做寿司，穿插支线任务。",
+      bestFor: "想要轻松循环但有意外深度的玩家。",
+      avoidIf: "想要纯动作或纯管理——它在两者之间反复切换。",
+      consensusPraise: "混搭效果超出预期；幽默和美术让它 30 小时以上都不腻。",
+      mainFriction: "部分管理环节偏刷；新机制来得比消化快。",
+      playStyle: "昼夜循环：白天潜水捕鱼和搜刮、晚上经营寿司店。农场、战斗、故事任务层层叠加。",
+      playtime: "25 小时主线 · 40 小时以上含支线 · 约 60 小时全收集",
+      timeCommitment: "主线约 25 小时，含支线 40 小时以上，全收集约 60 小时。",
+      timeFit: "时间参考：25 小时主线 · 40 小时以上含支线 · 约 60 小时全收集",
+      quickFilters: ["long_rpg", "great_on_sale"],
+    },
+    ja: {
+      heroNote: "MINTROCKETのジャンル混搭——昼はダイビングで寿司素材、夜は寿司店経営、常にサプライズ。",
+      whatItIs: "ダイビング＋寿司店シミュレーション：昼は魚を獲り、夜は寿司を提供、クエスト付き。",
+      bestFor: "リラックスしたループに意外な深さを求める人。",
+      avoidIf: "純粋なアクションか純粋なマネジメントが欲しい——両方を行き来する。",
+      consensusPraise: "混搭がうまくいきすぎている。ユーモアとアートで30時間以上新鮮。",
+      mainFriction: "一部マネジメントが重い。新ギミックの追加が消化を上回る。",
+      playStyle: "昼夜サイクル：昼はダイビングで魚やルート、夜は寿司店運営。農場、戦闘、ストーリークエストが重なる。",
+      playtime: "メイン約25時間・追加約40時間・コンプ約60時間",
+      timeCommitment: "メイン約25時間、追加込みで約40時間以上、フルコンプで約60時間。",
+      timeFit: "目安：メイン約25時間・追加約40時間・コンプ約60時間",
+      quickFilters: ["long_rpg", "great_on_sale"],
+    },
+  },
+  'xenoblade-chronicles-3': {
+    en: {
+      heroNote: "Monolith Soft's massive JRPG — open worlds, real-time combat with class switching, and a 60+ hour story tying the trilogy together.",
+      whatItIs: "Open-world JRPG: real-time combat, class-switching, and a 60+ hour story.",
+      bestFor: "JRPG fans who want a massive world and deep combat.",
+      avoidIf: "You want short sessions — it is a 60+ hour commitment with a slow start.",
+      consensusPraise: "World scale, combat depth, and flexible classes carry the 60+ hour runtime.",
+      mainFriction: "Slow opening, menu complexity, and handheld resolution drops test patience.",
+      playStyle: "Real-time JRPG: auto-attacks build into arts, chain attacks, and Ouroboros fusions. Class switching lets every character fill any role. Vast open zones to explore.",
+      playtime: "60h main · 100h+ extras · ~150h completionist",
+      timeCommitment: "About 60 hours for the main story, 100+ with side quests, and around 150 for full completion.",
+      timeFit: "Time fit: 60h main · 100h+ extras · ~150h completionist",
+      quickFilters: ["long_rpg", "great_on_sale"],
+      tldr: "Xenoblade Chronicles 3 — 89 Metacritic; 60h+ JRPG with deep combat and massive open zones. At HK$329 in Hong Kong it is a strong buy.",
+    },
+    'zh-hans': {
+      heroNote: "Monolith Soft 的大型 JRPG——开放世界、实时战斗与职业切换、60 小时以上串联三部曲的故事。",
+      whatItIs: "开放世界 JRPG：实时战斗、职业切换、60 小时以上主线。",
+      bestFor: "想要大世界和深度战斗的 JRPG 玩家。",
+      avoidIf: "想要短时间体验——60 小时以上投入，开头慢热。",
+      consensusPraise: "世界规模、战斗深度和灵活职业系统撑起 60 小时以上的流程。",
+      mainFriction: "开头慢热、菜单复杂度高、掌机分辨率下降考验耐心。",
+      playStyle: "实时 JRPG：自动攻击积累技能槽，释放战技、连锁攻击、衔尾蛇融合。职业切换让每个角色胜任任何定位。广阔开放区域可探索。",
+      playtime: "60 小时主线 · 100 小时以上含支线 · 约 150 小时全收集",
+      timeCommitment: "主线约 60 小时，含支线任务 100 小时以上，全收集约 150 小时。",
+      timeFit: "时间参考：60 小时主线 · 100 小时以上含支线 · 约 150 小时全收集",
+      quickFilters: ["long_rpg", "great_on_sale"],
+    },
+    ja: {
+      heroNote: "Monolith Softの大型JRPG——オープンワールド、リアルタイム戦闘とクラス切替、60時間以上で三部曲を繋ぐストーリー。",
+      whatItIs: "オープンワールドJRPG：リアルタイム戦闘、クラス切替、60時間以上のメインストーリー。",
+      bestFor: "広大な世界と深い戦闘が欲しいJRPGファン。",
+      avoidIf: "短時間で遊びたい——60時間以上の覚悟が必要、序盤はスロー。",
+      consensusPraise: "世界規模、戦闘の深さ、柔軟なクラスシステムが60時間以上のプレイを支える。",
+      mainFriction: "スローな序盤、メニューの複雑さ、携帯モードの解像度低下が忍耐を試す。",
+      playStyle: "リアルタイムJRPG：オート攻撃からアーツ、チェインアタック、ウロボロス融合へ。クラス切替で全キャラが全ロールを担える。広大なオープンゾーンを探索。",
+      playtime: "メイン約60時間・追加約100時間・コンプ約150時間",
+      timeCommitment: "メイン約60時間、追加クエスト込みで約100時間以上、フルコンプで約150時間。",
+      timeFit: "目安：メイン約60時間・追加約100時間・コンプ約150時間",
+      quickFilters: ["long_rpg", "great_on_sale"],
+    },
+  },
+};
+
+function localizedCommunityMemes(locale, gameTitle, rawGameTitle) {
+  const slug = slugify(rawGameTitle || gameTitle) || slugify(gameTitle);
+  const specific = GAME_SPECIFIC_COMMUNITY_MEMES[slug]?.[locale];
+  if (specific) return specific.map((item) => clip(item, 40));
+
   const templates = {
     en: [
       `${gameTitle} sale bingo`,
@@ -1165,8 +2200,8 @@ function localizedFrontmatterCopy(locale, ctx) {
   const copies = {
     en: {
       description: `April 2026 ${platformLabel} guide for ${gameTitle} — ${locHeroStat('en', Number.parseInt(mcLine, 10) || null)}, GameGulf sale analytics, and a clear buy/wait call.`,
-      decision: 'Buy now if the pitch fits and your GameGulf price snapshot shows the promo band; wait if MSRP-only regions are your only option.',
-      priceSignal: 'Indexed pricing highlights the cheapest territories versus MSRP tiers — huge spread is common on this SKU.',
+      decision: 'Buy now if the pitch fits and your GameGulf price snapshot shows the promo band; wait if full-price regions are your only option.',
+      priceSignal: 'Indexed pricing highlights the cheapest territories versus full-price tiers — huge spread is common on this SKU.',
       heroNote: `${gameTitle} — ${genreText}; ${dev ? `${dev}; ` : ''}store pitch vs. critic band (${mcLine}).`,
       listingTakeaway: `${gameTitle} — ${genreText}; April 2026 GameGulf pricing shows a wide regional spread worth comparing.`,
       whatItIs: `${genreText} — ${gameTitle} on ${platformLabel}.`,
@@ -1382,7 +2417,16 @@ function localizedFrontmatterCopy(locale, ctx) {
     },
   };
 
-  return copies[locale] || copies.en;
+  const result = copies[locale] || copies.en;
+
+  // Override playerVoices with game-specific data when available
+  const slug = slugify(rawGameTitle || gameTitle);
+  const gameSpecificVoices = GAME_SPECIFIC_PLAYER_VOICES[slug]?.[locale];
+  if (gameSpecificVoices) {
+    result.playerVoices = gameSpecificVoices;
+  }
+
+  return result;
 }
 
 function applyLocalizedFrontmatter(fm, locale, ctx) {
@@ -1408,7 +2452,7 @@ function applyLocalizedFrontmatter(fm, locale, ctx) {
   fm.salePattern = clip(copy.salePattern, 200);
   fm.playStyle = clip(localizedGenreList(locale, ctx.genres), 200);
   fm.tags = localizedTags(locale, ctx.gameTitle, ctx.platformLabel);
-  fm.communityMemes = localizedCommunityMemes(locale, ctx.gameTitle);
+  fm.communityMemes = localizedCommunityMemes(locale, ctx.gameTitle, ctx.rawGameTitle);
   fm.playerVoices = copy.playerVoices.map((voice) => ({
     quote: clip(voice.quote, 80),
     sentiment: voice.sentiment,
@@ -1418,6 +2462,23 @@ function applyLocalizedFrontmatter(fm, locale, ctx) {
     question: item.question,
     answer: clip(item.answer, 400),
   }));
+
+  // Apply game-specific field overrides (editorial-quality per-game data)
+  const slug = slugify(ctx.rawGameTitle || ctx.gameTitle);
+  const overrides = GAME_SPECIFIC_FIELD_OVERRIDES[slug]?.[locale]
+    || GAME_SPECIFIC_FIELD_OVERRIDES[slug]?.en;
+  if (overrides) {
+    const FIELD_LIMITS = {
+      heroNote: 220, whatItIs: 90, bestFor: 60, avoidIf: 72,
+      consensusPraise: 82, mainFriction: 84, playStyle: 200,
+      playtime: 200, timeCommitment: 200, timeFit: 82, tldr: 160,
+    };
+    for (const [key, value] of Object.entries(overrides)) {
+      if (value != null) {
+        fm[key] = FIELD_LIMITS[key] ? clip(value, FIELD_LIMITS[key]) : value;
+      }
+    }
+  }
 }
 
 function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, playtimeStr) {
@@ -1435,6 +2496,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, p
   const mcNum = mc;
   const mcLine = locHeroStat(locale, mcNum);
   const q1 = titleForLocale(locale, gameTitle, platformLabel);
+  const otherPlatformLabels = buildOtherPlatformLabels(locale, brief, key);
+  const takeawayPriceAnchor = localizedTakeawayPriceAnchor(locale, priceRows, pv);
 
   const nearLow =
     pv?.at_or_near_historical_low === true
@@ -1473,18 +2536,19 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, p
     platform: platformField,
     primaryPlatformKey: key,
     primaryPlatformLabel: platformLabel,
-    hasOtherPlatforms: Object.keys(brief.platforms || {}).filter((k) => k.startsWith('switch')).length > 1,
+    hasOtherPlatforms: otherPlatformLabels.length > 0,
+    ...(otherPlatformLabels.length > 0 ? { otherPlatformLabels } : {}),
     author: AUTHOR[locale] || AUTHOR.en,
     readingTime: READING[locale],
     decision: clip(
       locale === 'en'
-        ? `Buy now if the pitch fits and your GameGulf price snapshot shows the promo band; wait if MSRP-only regions are your only option.`
+        ? `Buy now if the pitch fits and your GameGulf price snapshot shows the promo band; wait if full-price regions are your only option.`
         : `若口味匹配且 GameGulf 上你的区服已在促销带可买；若你只能买到接近标价的区服就更适合等等。`,
       240,
     ),
     priceSignal: clip(
       locale === 'en'
-        ? `Indexed pricing highlights the cheapest territories versus MSRP tiers — huge spread is common on this SKU.`
+        ? `Indexed pricing highlights the cheapest territories versus full-price tiers — huge spread is common on this SKU.`
         : `索引价差常很明显：低价区服与标价区服可能差一档。`,
       200,
     ),
@@ -1552,7 +2616,7 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, p
     ),
     playtime: playtimeStr,
     reviewSignal: locReviewSignal(locale, mcNum),
-    takeaway: clip(localizedTakeaway(locale, gameTitle, rawGenres, mcLine), 200),
+    takeaway: clip(localizedTakeaway(locale, gameTitle, rawGenres, mcLine, takeawayPriceAnchor), 200),
     playStyle: clip(genres || 'Core loop matches standard controller play.', 200),
     timeCommitment: clip(playtimeStr, 200),
     playMode: locale === 'en' ? 'Single-player unless store lists multiplayer.' : '以商店页多人信息为准；默认偏单机体验。',
@@ -1584,7 +2648,7 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, p
       { quote: clip(locale === 'en' ? 'Worth it on a deep sale only.' : '深度折扣才值。', 80), sentiment: 'mixed' },
       { quote: clip(locale === 'en' ? 'Check your own region first.' : '先看清自己区服价格。', 80), sentiment: 'positive' },
     ],
-    communityMemes: localizedCommunityMemes(locale, gameTitle),
+    communityMemes: localizedCommunityMemes(locale, gameTitle, rawGameTitle),
     tldr: clip(tldrBase, 160),
     priceRows,
     cardPriceEur: priceRows[0].eurPrice,

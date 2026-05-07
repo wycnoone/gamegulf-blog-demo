@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "full-metal-schoolgirl-worth-it",
+  "url": "https://www.gamegulf.com/detail/g6R9nrK1bH5",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/full-metal-schoolgirl-worth-it.md",
+    "src/content/posts/zh-hans/full-metal-schoolgirl-worth-it.md",
+    "src/content/posts/ja/full-metal-schoolgirl-worth-it.md",
+    "src/content/posts/fr/full-metal-schoolgirl-worth-it.md",
+    "src/content/posts/es/full-metal-schoolgirl-worth-it.md",
+    "src/content/posts/de/full-metal-schoolgirl-worth-it.md",
+    "src/content/posts/pt/full-metal-schoolgirl-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T23:10:36.041Z"
+}

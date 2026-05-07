@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "sport-fun-swimming-worth-it",
+  "url": "https://www.gamegulf.com/detail/iLMPtDeKAr2",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-sport-fun-swimming-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 1,
+  "signal": null,
+  "durationMs": 171913,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"error_max_budget_usd\",\"duration_ms\":171728,\"duration_api_ms\":164912,\"is_error\":true,\"num_turns\":38,\"stop_reason\":\"tool_use\",\"session_id\":\"ceddd1b2-6ed3-4041-914c-ba975ad34c3a\",\"total_cost_usd\":4.0157676,\"usage\":{\"input_tokens\":1217035,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":444416,\"output_tokens\":5360,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":1264969,\"outputTokens\":5549,\"cacheReadInputTokens\":458752,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":4.0157676,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"fast_mode_state\":\"off\",\"uuid\":\"eb6d8c33-7384-4896-a482-abd7a97e14ac\",\"errors\":[\"Reached maximum budget ($4)\"]}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:31:20.347Z"
+}

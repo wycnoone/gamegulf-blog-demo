@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "pentiment-worth-it",
+  "url": "https://www.gamegulf.com/detail/a4rTYMFl9zT",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-pentiment-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 55204,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":55035,\"duration_api_ms\":53968,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"pentiment-worth-it\\\",\\\"score\\\":92,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/pentiment-worth-it.md\\\",\\\"src/content/posts/zh-hans/pentiment-worth-it.md\\\",\\\"src/content/posts/ja/pentiment-worth-it.md\\\",\\\"src/content/posts/fr/pentiment-worth-it.md\\\",\\\"src/content/posts/es/pentiment-worth-it.md\\\",\\\"src/content/posts/de/pentiment-worth-it.md\\\",\\\"src/content/posts/pt/pentiment-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator hard errors across all 7 locale files.\\\",\\\"Spot checks for en/zh-hans/ja show correct local display naming and FAQ answer prefixes for Pentiment.\\\",\\\"Price logic is concrete and aligned to the brief: current cheapest BR €8.30, JP historical low €5.64, 9 discount events in 1Y, avg sale €8.80, last notable discount 2026-03-31.\\\",\\\"Body quality is usable and decision-first, though some sections still read slightly template-like rather than fully game-specific research memo depth.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/pentiment-worth-it.md src/content/posts/zh-hans/pentiment-worth-it.md src/content/posts/ja/pentiment-worth-it.md src/content/posts/fr/pentiment-worth-it.md src/content/posts/es/pentiment-worth-it.md src/content/posts/de/pentiment-worth-it.md src/content/posts/pt/pentiment-worth-it.md\\\"],\\\"notes\\\":\\\"All seven Pentiment worth-it articles validated successfully on the first pass. No file revisions were needed; score reflects clean validation and solid localized pricing/decision guidance, with a small deduction for somewhat generic body phrasing in the spot-checked locales.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"a557a20e-e5a3-4b9b-abe4-36a53a5f0658\",\"total_cost_usd\":0.7028436,\"usage\":{\"input_tokens\":214831,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":1883,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":214831,\"outputTokens\":1883,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7028436,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"3d82df01-1f49-4080-bd89-40469a16c5e9\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:27:26.995Z"
+}

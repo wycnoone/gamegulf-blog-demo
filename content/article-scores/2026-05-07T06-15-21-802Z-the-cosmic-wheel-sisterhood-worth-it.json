@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "the-cosmic-wheel-sisterhood-worth-it",
+  "url": "https://www.gamegulf.com/detail/klXFe9KFi82",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/the-cosmic-wheel-sisterhood-worth-it.md",
+    "src/content/posts/zh-hans/the-cosmic-wheel-sisterhood-worth-it.md",
+    "src/content/posts/ja/the-cosmic-wheel-sisterhood-worth-it.md",
+    "src/content/posts/fr/the-cosmic-wheel-sisterhood-worth-it.md",
+    "src/content/posts/es/the-cosmic-wheel-sisterhood-worth-it.md",
+    "src/content/posts/de/the-cosmic-wheel-sisterhood-worth-it.md",
+    "src/content/posts/pt/the-cosmic-wheel-sisterhood-worth-it.md"
+  ],
+  "capturedAt": "2026-05-07T06:50:56.241Z"
+}

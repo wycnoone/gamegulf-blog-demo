@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "super-mario-maker-2-worth-it",
+  "url": "https://www.gamegulf.com/detail/aLvG6IwbBUb",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/super-mario-maker-2-worth-it.md",
+    "src/content/posts/zh-hans/super-mario-maker-2-worth-it.md",
+    "src/content/posts/ja/super-mario-maker-2-worth-it.md",
+    "src/content/posts/fr/super-mario-maker-2-worth-it.md",
+    "src/content/posts/es/super-mario-maker-2-worth-it.md",
+    "src/content/posts/de/super-mario-maker-2-worth-it.md",
+    "src/content/posts/pt/super-mario-maker-2-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:36:50.483Z"
+}

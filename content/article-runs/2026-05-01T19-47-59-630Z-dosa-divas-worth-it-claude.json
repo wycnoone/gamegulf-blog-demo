@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "dosa-divas-worth-it",
+  "url": "https://www.gamegulf.com/detail/2FqEovVMEB1",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-dosa-divas-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 65184,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":65005,\"duration_api_ms\":63880,\"num_turns\":14,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"dosa-divas-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/dosa-divas-worth-it.md\\\",\\\"src/content/posts/zh-hans/dosa-divas-worth-it.md\\\",\\\"src/content/posts/ja/dosa-divas-worth-it.md\\\",\\\"src/content/posts/fr/dosa-divas-worth-it.md\\\",\\\"src/content/posts/es/dosa-divas-worth-it.md\\\",\\\"src/content/posts/de/dosa-divas-worth-it.md\\\",\\\"src/content/posts/pt/dosa-divas-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors across all 7 locale files.\\\",\\\"Spot checks for en/zh-hans/ja show explicit buy-now guidance and concrete GameGulf regional price anchors.\\\",\\\"Localized display names look acceptable for this title because the brief/store data uses 'Dosa Divas' consistently; FAQ answer openings also use the local game title string correctly.\\\",\\\"Quality is above threshold, but some body copy still reads a bit templated/generic in places, especially performance and genre-description sections.\\\",\\\"Price-history phrasing is slightly awkward because the source only has one tracked NS2 trend entry and 0 discount events, so some 'sale history' lines are mechanically generated rather than editorially natural.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/dosa-divas-worth-it.md src/content/posts/zh-hans/dosa-divas-worth-it.md src/content/posts/ja/dosa-divas-worth-it.md src/content/posts/fr/dosa-divas-worth-it.md src/content/posts/es/dosa-divas-worth-it.md src/content/posts/de/dosa-divas-worth-it.md src/content/posts/pt/dosa-divas-worth-it.md\\\",\\\"ls \\\\\\\"src/content/posts/en/dosa-divas-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/zh-hans/dosa-divas-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/ja/dosa-divas-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/fr/dosa-divas-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/es/dosa-divas-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/de/dosa-divas-worth-it.md\\\\\\\" \\\\\\\"src/content/posts/pt/dosa-divas-worth-it.md\\\\\\\"\\\"],\\\"notes\\\":\\\"All seven Dosa Divas worth-it articles exist and validate cleanly. No revisions were needed; score reflects solid localized pricing guidance with minor templated phrasing remaining.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"f622e3b3-02e6-4bf2-85fa-afccf72a9651\",\"total_cost_usd\":0.7044978,\"usage\":{\"input_tokens\":213891,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2468,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":213891,\"outputTokens\":2468,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7044978,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"8217fbf9-296d-4cd0-b413-2065b1b1c0d0\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T19:49:06.058Z"
+}

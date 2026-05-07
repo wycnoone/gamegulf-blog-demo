@@ -33,7 +33,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: >-
   ~90 pontos Brasil ~€12,58 primeiro — cheque Japão €11.95 out/2025 antes do
-  MSRP UE.
+  preço cheio UE.
 whatItIs: Puzzle exploração atmosférica com foco observação antes de combate forte.
 bestFor: Quem quer silêncio + charadas ambientais antes de builds
 avoidIf: Exige marcação obsessiva HUD e combate rápido o tempo todo ou passa
@@ -42,7 +42,7 @@ mainFriction: Objetivos difusos se você não aceita ler mapa aos poucos.
 timeFit: Percurso claro primeiro bloco frequentemente 8–12h ; caçadores 15h+.
 fitLabel: Funciona quando se perder é divertido mesmo frustrando levemente.
 timingNote: Trava apenas na UE cara? Comparar lista GameGulf antes gastar.
-communityVibe: Grupo telegramas comparando cones de vela fantasmas
+communityVibe: Ovos, salas escuras e segredos sem guia viciam
 playtime: ~8–12h trajeto inicial · hunts profundos 15h+
 reviewSignal: 90 Metacritic
 takeaway: >-
@@ -160,10 +160,9 @@ cardPriceNative: R$74.99
 cardPriceNativeCurrency: BRL
 ---
 
-
 ## Veredito rápido
 
-**Animal Well** mantém papel de destaque Indie recentíssimo (**~90 Metacritic**) — **GameGulf** abril 2026 ainda põe **Brasil ~€12,58** na frente, enquanto o **menor preço histórico** japones marca **€11.95 ligado ao 2025‑10‑15**.
+**Animal Well** vale pela vontade concreta de jogar **Ovos, salas escuras e segredos sem guia viciam**. Se isso combina com você, Vale quando curte puzzle vibe — Animal Well marca ~90 Metacritic; abril 2026 mostra Brasil liderando ~12,58 € enquanto o histórico ainda registra Japão tocando €11.95 por volta de out./2025.; se o preço visto fica perto de R$74.99, confira antes sua região de Nintendo Switch no GameGulf.
 
 Abra sempre **[Animal Well GameGulf](https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price)** antes julgar apenas sua loja padrão.
 
@@ -193,9 +192,8 @@ Ambient puzzle focus — menos stats mais escuta.
 
 Offline OLED ideal — suspense devagar.
 
-## Comprar agora?
+## Resumo
 
-- **Sim**: linhas BR/promotional gap sentem boas versus MSRP europa.
-- **Não urgente só se** bloqueado caro sempre — usar alertas portal **GameGulf**.
+Para **Animal Well**, a pergunta útil é se **Ovos, salas escuras e segredos sem guia viciam** combina com o que você quer jogar agora. O formato é **plataforma lateral slow burn com foco criaturas/itens combineo bem diferente blockbuster ação rápido**. É uma boa aposta para quem quer silêncio + charadas ambientais antes de builds; perde força se objetivos difusos se você não aceita ler mapa aos poucos. O tempo estimado é **~8–12h trajeto inicial · hunts profundos 15h+**, então vale pensar se esse espaço cabe na sua rotina.
 
-Feche anotando **`gamegulf.com`**, depois finalize pedido quando confortável.
+Use o [GameGulf](https://www.gamegulf.com/detail/64ud7IJ2teL#currency-price) como última checagem, porque o menor preço atual indexado aparece perto de **EUR 12.58** em **Brasil**. Para jogar agora, mire essa faixa regional; para economizar, espere a próxima janela que se aproxime do mínimo histórico.

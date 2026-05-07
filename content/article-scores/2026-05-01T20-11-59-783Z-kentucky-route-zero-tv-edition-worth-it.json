@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "kentucky-route-zero-tv-edition-worth-it",
+  "url": "https://www.gamegulf.com/detail/6pBtneWlLz3",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/kentucky-route-zero-tv-edition-worth-it.md",
+    "src/content/posts/zh-hans/kentucky-route-zero-tv-edition-worth-it.md",
+    "src/content/posts/ja/kentucky-route-zero-tv-edition-worth-it.md",
+    "src/content/posts/fr/kentucky-route-zero-tv-edition-worth-it.md",
+    "src/content/posts/es/kentucky-route-zero-tv-edition-worth-it.md",
+    "src/content/posts/de/kentucky-route-zero-tv-edition-worth-it.md",
+    "src/content/posts/pt/kentucky-route-zero-tv-edition-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T20:27:10.343Z"
+}

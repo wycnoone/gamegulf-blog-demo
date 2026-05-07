@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "two-point-campus-worth-it",
+  "url": "https://www.gamegulf.com/detail/8eOuBIZ8Gxb",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-two-point-campus-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 56028,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":55845,\"duration_api_ms\":54789,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"two-point-campus-worth-it\\\",\\\"score\\\":87,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/two-point-campus-worth-it.md\\\",\\\"src/content/posts/zh-hans/two-point-campus-worth-it.md\\\",\\\"src/content/posts/ja/two-point-campus-worth-it.md\\\",\\\"src/content/posts/fr/two-point-campus-worth-it.md\\\",\\\"src/content/posts/es/two-point-campus-worth-it.md\\\",\\\"src/content/posts/de/two-point-campus-worth-it.md\\\",\\\"src/content/posts/pt/two-point-campus-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passes cleanly across all 7 locales.\\\",\\\"Localized display names and FAQ openings are acceptable for en/zh-hans/ja spot checks, but zh-hans and ja still retain the English game title 'Two Point Campus' rather than a more localized storefront-style rendering; acceptable, not ideal.\\\",\\\"Body quality is serviceable but somewhat template-driven in en/zh-hans/ja spot checks, especially in the gameplay and performance sections where concrete system-specific anchors are lighter than the AGENTS.md ideal.\\\",\\\"Price logic is explicit and uses GameGulf data well: current cheapest HK €26.00, GB €28.73, 9 discount events in 1Y, avg discount €11.97, last discount 2026-04-16 at €6.84 in US.\\\",\\\"Decision guidance is clear and consistent: current verdict is wait_for_sale unless the buyer’s region is already in the promo band.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/two-point-campus-worth-it.md src/content/posts/zh-hans/two-point-campus-worth-it.md src/content/posts/ja/two-point-campus-worth-it.md src/content/posts/fr/two-point-campus-worth-it.md src/content/posts/es/two-point-campus-worth-it.md src/content/posts/de/two-point-campus-worth-it.md src/content/posts/pt/two-point-campus-worth-it.md\\\"],\\\"notes\\\":\\\"No hard errors were found, so no revisions were required. Score reflects a clean validator pass and solid pricing/decision content, with some deduction for still-generic body specificity and only-okay localization naturalness in the zh-hans/ja spot checks.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"d58c65a5-08c9-4008-9ee7-bd59ff36387b\",\"total_cost_usd\":0.7119665999999999,\"usage\":{\"input_tokens\":217337,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":1990,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":217337,\"outputTokens\":1990,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7119665999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"6e1369c1-b40f-405a-bf40-acd9c72e6f9d\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:46:51.221Z"
+}

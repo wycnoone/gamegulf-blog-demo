@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "tinykin-worth-it",
+  "url": "https://www.gamegulf.com/detail/3fdYo86X9Za",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-tinykin-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 71204,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":71022,\"duration_api_ms\":69911,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"tinykin-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/tinykin-worth-it.md\\\",\\\"src/content/posts/zh-hans/tinykin-worth-it.md\\\",\\\"src/content/posts/ja/tinykin-worth-it.md\\\",\\\"src/content/posts/fr/tinykin-worth-it.md\\\",\\\"src/content/posts/es/tinykin-worth-it.md\\\",\\\"src/content/posts/de/tinykin-worth-it.md\\\",\\\"src/content/posts/pt/tinykin-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors across all 7 locales.\\\",\\\"Spot-check quality issue: the prose is passable but somewhat templated/generic in en, zh-hans, and ja, especially in the gameplay/performance sections.\\\",\\\"Spot-check quality issue: some claims stay broad instead of fully exploiting brief anchors like soap-board traversal, bubble-pack upgrades, museum/machine goals, and insect-city setting.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/tinykin-worth-it.md src/content/posts/zh-hans/tinykin-worth-it.md src/content/posts/ja/tinykin-worth-it.md src/content/posts/fr/tinykin-worth-it.md src/content/posts/es/tinykin-worth-it.md src/content/posts/de/tinykin-worth-it.md src/content/posts/pt/tinykin-worth-it.md\\\"],\\\"notes\\\":\\\"Validation passed on the first run, so no revisions were required. Score is above threshold because localization, price logic, CTA presence, and explicit buy/wait guidance are solid, though the body copy is still a bit formulaic rather than fully brief-rich.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"251c8ba8-7236-406f-978a-7b3a1f9664ea\",\"total_cost_usd\":0.6987468,\"usage\":{\"input_tokens\":214649,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":1933,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":214649,\"outputTokens\":1933,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6987468,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"b770a642-9f7b-4a47-9be6-29b82df7e40b\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T19:57:40.778Z"
+}

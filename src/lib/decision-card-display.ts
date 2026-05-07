@@ -160,7 +160,7 @@ export function getDecisionDisplayTitle(card: DecisionEntryCardModel) {
 }
 
 /** True when reviewSignal names Metacritic (cover + cards must not label other sources as MC). */
-export function reviewSignalIsMetacritic(reviewSignal: string | undefined | null): boolean {
+export function reviewSignalIsMetacritic(reviewSignal: string | undefined | null): reviewSignal is string {
   if (!reviewSignal || typeof reviewSignal !== 'string') return false;
   return normalizeForComparison(reviewSignal).includes('metacritic');
 }
@@ -168,7 +168,8 @@ export function reviewSignalIsMetacritic(reviewSignal: string | undefined | null
 /** Metacritic critic score digits for UI, or null if signal is not Metacritic or has no 2–3 digit score. */
 export function getMetacriticScoreFromReviewSignal(reviewSignal: string | undefined | null): string | null {
   if (!reviewSignalIsMetacritic(reviewSignal)) return null;
-  return reviewSignal.match(/\b(\d{2,3})\b/)?.[1] ?? null;
+  const metacriticSignal = reviewSignal;
+  return metacriticSignal.match(/\b(\d{2,3})\b/)?.[1] ?? null;
 }
 
 /** Localized “Metacritic: {score}” for decision cards; null unless reviewSignal is a Metacritic line with a score. */

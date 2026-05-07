@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "nickelodeon-kart-racers-2-grand-prix-worth-it",
+  "url": "https://www.gamegulf.com/detail/auKAjdaTmh",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/nickelodeon-kart-racers-2-grand-prix-worth-it.md",
+    "src/content/posts/zh-hans/nickelodeon-kart-racers-2-grand-prix-worth-it.md",
+    "src/content/posts/ja/nickelodeon-kart-racers-2-grand-prix-worth-it.md",
+    "src/content/posts/fr/nickelodeon-kart-racers-2-grand-prix-worth-it.md",
+    "src/content/posts/es/nickelodeon-kart-racers-2-grand-prix-worth-it.md",
+    "src/content/posts/de/nickelodeon-kart-racers-2-grand-prix-worth-it.md",
+    "src/content/posts/pt/nickelodeon-kart-racers-2-grand-prix-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:39:07.115Z"
+}

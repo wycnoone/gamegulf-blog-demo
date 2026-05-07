@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "forrader-hero-worth-it",
+  "url": "https://www.gamegulf.com/detail/hdAqd14EaNC",
+  "promptPath": "content/article-worker-prompts/2026-05-01T23-02-57-661Z-forrader-hero-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 73063,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":72879,\"duration_api_ms\":71746,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"forrader-hero-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/forrader-hero-worth-it.md\\\",\\\"src/content/posts/zh-hans/forrader-hero-worth-it.md\\\",\\\"src/content/posts/ja/forrader-hero-worth-it.md\\\",\\\"src/content/posts/fr/forrader-hero-worth-it.md\\\",\\\"src/content/posts/es/forrader-hero-worth-it.md\\\",\\\"src/content/posts/de/forrader-hero-worth-it.md\\\",\\\"src/content/posts/pt/forrader-hero-worth-it.md\\\"],\\\"issues\\\":[\\\"All seven locale files passed scripts/validate-article.mjs with zero errors.\\\",\\\"zh-hans and ja spot checks use the local game name consistently as 'Forrader Hero'; no storefront-localized alternative was evident from the brief.\\\",\\\"Decision is explicit and useful across checked locales: buy only if genre fit + current region is already in the promo band; otherwise wait for sale.\\\",\\\"Price logic is concrete and grounded in brief data: JP €3.83 current cheapest, 6 discount events in 1 year, average discount €2.74, last discount €1.53 on 2026-04-07.\\\",\\\"Main weakness is content specificity: some body sections still read a bit template-like and lean on generic Switch performance language instead of game-specific mechanical anchors from the brief.\\\",\\\"Another quality caveat is review framing: article copy references a 70 Metacritic band even though the brief's game.metacritic is null; this passed validation but is a confidence drag for editorial rigor.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/forrader-hero-worth-it.md src/content/posts/zh-hans/forrader-hero-worth-it.md src/content/posts/ja/forrader-hero-worth-it.md src/content/posts/fr/forrader-hero-worth-it.md src/content/posts/es/forrader-hero-worth-it.md src/content/posts/de/forrader-hero-worth-it.md src/content/posts/pt/forrader-hero-worth-it.md\\\"],\\\"notes\\\":\\\"Validated cleanly on first pass and scored above threshold, so no revisions were needed.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"ea3531cb-f71f-434e-91f0-d98a32fc8f3d\",\"total_cost_usd\":0.7175436000000001,\"usage\":{\"input_tokens\":216651,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":2499,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":216651,\"outputTokens\":2499,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7175436000000001,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"b91fa99e-85d1-4000-b10d-60e537a133a9\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T23:33:50.985Z"
+}

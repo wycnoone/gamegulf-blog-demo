@@ -38,7 +38,7 @@ mainFriction: Alle Monde zu jagen kostet massiv Zeit.
 timeFit: Grob 12–18 h Story-Monde, 40 h+ für Completion.
 fitLabel: Für Neugierige, die Sofa teilen und Movement üben.
 timingNote: Vor Kauf die Live-Zeilen auf GameGulf pruefen.
-communityVibe: Cappy-Memes, ND-Seilspringen, Luigi-Outfit-Scham
+communityVibe: Cappy, Monde und New Donk machen es großzügig
 playtime: ~12–18 h Story-Monde · 40 h+ Completion
 reviewSignal: 97 Metacritic
 takeaway: >-
@@ -126,7 +126,7 @@ faq:
     answer: >-
       Super Mario Odyssey zeigt hier drei Rabatt-Events in zwölf Monaten,
       Durchschnitt ~€40,93 — weniger aggressiv als Third-Party, aber nicht
-      MSRP-fest.
+      Listenpreis-fest.
   - question: Odyssey oder zuerst ein kurzes Indie?
     answer: >-
       Super Mario Odyssey gewinnt, wenn du ein Nintendo-Flaggschiff mit langem
@@ -173,10 +173,9 @@ cardPriceNative: ¥7,980
 cardPriceNativeCurrency: JPY
 ---
 
-
 ## Kurzes Fazit
 
-**Super Mario Odyssey** lohnt sich vor allem bei Preisen nahe **EUR 35.53 (Japan)**; sonst ist Warten besser. Qualitaetsanker: **97 Metacritic**.
+**Super Mario Odyssey** entscheidet sich an einem konkreten Reiz: **Cappy, Monde und New Donk machen es großzügig**. Wenn dich genau das anspricht, gilt: Kaufempfehlung vor allem bei Preisen nahe EUR 35.53 (Japan); darueber ist Warten sinnvoller.; liegt dein sichtbarer Preis bei etwa ¥7,980, prüfe vorher deine Nintendo Switch (Originalmodell)-Region auf GameGulf.
 
 Zuerst **GameGulf** pruefen.
 
@@ -213,8 +212,8 @@ Lokal zu zweit — Mario + Cappy auf dem zweiten Joy-Con. Viele Spieler:innen ne
 - **Warten**, wenn deine Region klar darueber liegt.
 - **Warten**, wenn Fit unsicher ist.
 
-## Schluss
+## Kurz zusammengefasst
 
-Reihenfolge: **Fit -> Regionspreis -> Dringlichkeit**.
+**Super Mario Odyssey** lohnt sich für Entdecker:innen, Familien, entspannte Sessions, sofern dich **Cappy, Monde und New Donk machen es großzügig** trägt. Die Stärke liegt bei Captures und Königwechsel tragen die Mund-zu-Mund-Lesart. Der wichtigste Haken: Alle Monde zu jagen kostet massiv Zeit. Mit **~12–18 h Story-Monde · 40 h+ Completion** ist der Umfang vor dem Kauf Teil der Entscheidung.
 
-Zum Schluss **GameGulf** und gamegulf.com checken.
+Beim Kaufzeitpunkt zählt der Abstand zwischen aktueller Zeile und Tiefstand. Snapshot April 2026: Japan ~€35,53 indexiert vorn, Hongkong, USA, UK steigen im Raster. Wertigkeit ist regionsabhaengig; aktueller Referenzpunkt ist EUR 35.53 (Japan). First-Party-Mario macht selten Third-Party-Tiefpreise — hier drei erfasste Fenster pro Jahr, Schnitt ~€40,93. Auf [GameGulf](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price) siehst du, ob dein eShop gerade im Zielkorridor liegt. Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

@@ -42,7 +42,7 @@ mainFriction: Fricción media si el repetir tareas llega antes que el giro narra
 timeFit: ~40h dispersas—not speedrun garantizado.
 fitLabel: Ritmo diario antes que ladders competitivos.
 timingNote: Ojea GameGulf antes de abrir checkout en el eShop.
-communityVibe: Una linterna más y los fantasmas pagan la luz esta noche también
+communityVibe: Recados de osos fantasma y rutina diaria crean hábito
 playtime: ≈40h de hilo cuando avanzas—meses típicos
 reviewSignal: Metacritic ≈71
 takeaway: Cozy Grove sí vende vibes; tus euros cuentan solo si pegan los datos GameGulf.
@@ -159,7 +159,7 @@ cardPriceNativeCurrency: JPY
 
 ## Veredicto rápido
 
-**Cozy Grove** ronda **~71 Metacritic** y **GameGulf** documenta **~7** ciclos **oferta** anuales, **media** con **sale** ~**€5,24**, **JP** típico ~**€7,99**, **US ~33 %** roza **~€8,55**, más un **mínimo histórico** **indicativo** **~€3,94** cerca del **2026-03-25**. Mira **[GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)** antes de ceder a la nostalgia—**gamegulf** acumula datos, no vibes sueltas.
+La compra de **Cozy Grove** empieza por una pregunta simple: si **Recados de osos fantasma y rutina diaria crean hábito** te apetece de verdad. Compra ahora solo si quieres jugarlo ya; si es simple curiosidad, pon alerta y espera una rebaja más clara.
 
 Si tu parche **EU ~€13,99** contrasta con **ofertas** ~**€5,24**, activa **[alertas](https://www.gamegulf.com/wishlist)** antes que el botón Comprar.
 
@@ -201,6 +201,8 @@ Coteja también un **mínimo histórico** plausible (JP **~€3,94** el **2026-0
 - te ahogas con tareas repetidas en otros cozy;
 - puedes enlazar **gamegulf.com/detail/1ZWE4WIpTp5** como home de precios.
 
-## Cierre
+## Resumen
 
-**Cozy Grove** sigue siendo mood—pero el recibo se valida con **gamegulf.com/detail/1ZWE4WIpTp5**: compara **oferta**, **mínimo histórico** y **gamegulf** antes de pagar.
+**Cozy Grove** merece entrar en tu lista si buscas rituales de 10 min—not maratón weekend. El motivo para comprarlo es recados de osos fantasma y rutina diaria crean hábito. La experiencia se concreta en favores, pesca rápida, craft y linternas de campamento. A cambio, tendrás que aceptar fricción media si el repetir tareas llega antes que el giro narrativo; si los topes diarios te queman ya en otros sims, el descuento no soluciona el problema. La escala también cuenta: ≈40h de hilo cuando avanzas—meses típicos.
+
+El valor cambia bastante según la tienda regional que tengas delante. JP lidera el índice más bajo; US refleja ~33 % según el brief GameGulf. JP ~€3,94 (2026-03-25) se siente más fresco que ~€7,99 actuales—not “mínimo histórico” global en todas partes. Siete ventanas rastreadas; media ~€5,24 cuando el cartel rojo aparece. Usa [GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price) para contrastar tu eShop y deja una alerta si el precio no se parece a sus rebajas habituales.

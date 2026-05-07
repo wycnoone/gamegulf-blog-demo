@@ -2,8 +2,8 @@
 title: Vale a pena comprar Hades no Nintendo Switch em 2026?
 description: >-
   Guia de compra — preços indexados em abril de 2026, distância de um mínimo
-  histórico rastreado no Brasil no fim de 2025, tempos , alvo de 60 fps e
-  quando comprar ou criar alerta de preço.
+  histórico rastreado no Brasil no fim de 2025, tempos , alvo de 60 fps e quando
+  comprar ou criar alerta de preço.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,12 +37,12 @@ bestFor: Sessões curtas com arco narrativo longo.
 avoidIf: Evite se repetição roguelite cansa ou precisa de campanha linear.
 consensusPraise: Jogabilidade, roteiro, arte e música seguem no topo indie do Switch.
 mainFriction: Modelos de sala e inimigos parecem mais repetidos depois do arco principal.
-timeFit:  ~23 h história, ~49 h extras, ~95 h completo.
+timeFit: ~23 h história, ~49 h extras, ~95 h completo.
 fitLabel: Jogadores que veem falha como combustível narrativo.
 timingNote: >-
   Se só importa preço, compare a sua linha da eShop com o Japão indexado e a
   âncora BR de 2025.
-communityVibe: Meme do “não há fuga” + OST em loop na cabeça
+communityVibe: Pai, bênçãos e fofocas da Casa viciam cada fuga
 playtime: 23 h história · 49 h+ extras · ~95 h completo
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -52,8 +52,8 @@ playStyle: >-
   Hack and slash isométrico, seis armas com aspectos, bênçãos olímpicas, espelho
   noturno de meta-progressão.
 timeCommitment: >-
-  Agregados : ~23 h foco na história, ~49 h com extras, ~95 h
-  complecionista; cada tentativa costuma levar 20–40 minutos.
+  Agregados : ~23 h foco na história, ~49 h com extras, ~95 h complecionista;
+  cada tentativa costuma levar 20–40 minutos.
 playMode: Um jogador.
 whyNow: >-
   Qualidade está dada; falta ver se a sua linha regional encaixa na âncora
@@ -181,11 +181,11 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Hades** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **93 Metacritic**.
+**Hades** vale pela vontade concreta de jogar **Pai, bênçãos e fofocas da Casa viciam cada fuga**. Se isso combina com você, Compre se quer roguelite de referência e aceita morrer para avançar. Acompanhe com alerta se a sua linha da eShop foge do Japão indexado ou se só quer o piso histórico rastreado.; se o preço visto fica perto de ¥2,800, confira antes sua região de Nintendo Switch no GameGulf.
 
 Hades continua fácil de recomendar — trate o preço de abril de 2026 como varejo puxado pelo Japão, não como o mínimo histórico rastreado.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €15.22.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €15.22.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price).
 
@@ -225,12 +225,13 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: 23 h história · 49 h+ extras · ~95 h completo
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se repetição roguelite cansa ou precisa de campanha linear.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. trate o preço de abril de 2026 como varejo puxado pelo Japão, não como o mínimo histórico rastreado.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price)** e decide compra vs espera.
+Pense em **Hades** como uma compra de perfil: o atrativo está em **Pai, bênçãos e fofocas da Casa viciam cada fuga**, não em preencher backlog por impulso. O pacote entrega **hack and slash isométrico com seis armas, aspectos, bênçãos olímpicas e meta-progressão no Espelho da Noite**. É uma boa aposta para sessões curtas com arco narrativo longo; perde força se modelos de sala e inimigos parecem mais repetidos depois do arco principal. O tempo estimado é **23 h história · 49 h+ extras · ~95 h completo**, então vale pensar se esse espaço cabe na sua rotina.
+
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/3GVaaSqOXnv#currency-price): o menor preço atual indexado aparece perto de **EUR 15.22** em **Japão**; o mínimo histórico citado fica em **€15**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

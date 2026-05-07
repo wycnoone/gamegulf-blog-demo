@@ -29,15 +29,15 @@ bestFor: Lange SF mit Mecha-Snacks.
 avoidIf: Lesen hassen oder nur Action.
 consensusPraise: Struktur, Kunst, VO schwer.
 mainFriction: Wechsel Lesen/Kampf.
-timeFit:  ~31/36/38 h.
+timeFit: ~31/36/38 h.
 fitLabel: Kapitel = SF-Folge.
-timingNote: US-Promo vs EU-MSRP 59,99 €.
-communityVibe: Timeline-Pinnwände
+timingNote: US-Promo vs EU-Listenpreis 59,99 €.
+communityVibe: Zeitlinienrätsel und Kaiju-Taktik machen jede Enthüllung stark
 playtime: 31h · 36h+ · ~38h
 reviewSignal: 88 Metacritic
 takeaway: >-
   13 Sentinels: Aegis Rim ist im April 2026 in Promo-Regionen ein klarer Kauf —
-  EU-MSRP parallel prüfen.
+  EU-Listenpreis parallel prüfen.
 playStyle: 2D-Ermittlung, Routen, Mecha.
 timeCommitment: ~31/36/38 h.
 playMode: Singleplayer.
@@ -77,8 +77,8 @@ faq:
       — prüfe GameGulf.
   - question: Spieldauer?
     answer: >-
-      13 Sentinels: Aegis Rim liegt laut  bei ~31 h Story, ~36 h Extras, ~38
-      h Completion.
+      13 Sentinels: Aegis Rim liegt laut  bei ~31 h Story, ~36 h Extras, ~38 h
+      Completion.
   - question: RTS schwer?
     answer: >-
       13 Sentinels: Aegis Rim verlangt Mecha-Kämpfe, aber als schlanke
@@ -90,7 +90,7 @@ faq:
   - question: Länger warten?
     answer: >-
       13 Sentinels: Aegis Rim ist in Promo-Regionen schon tief — warten lohnt
-      vor allem bei MSRP.
+      vor allem bei Listenpreis.
 priceRows:
   - regionCode: US
     eurPrice: 13.01
@@ -133,17 +133,18 @@ cardPriceNativeCurrency: USD
 ---
 ## Kurzfazit
 
-**13 Sentinels: Aegis Rim** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **88 Metacritic**.
+**13 Sentinels: Aegis Rim** entscheidet sich an einem konkreten Reiz: **Zeitlinienrätsel und Kaiju-Taktik machen jede Enthüllung stark**. Wenn dich genau das anspricht, gilt: Kaufen, wenn du Vanillawares langes SF-Visual-Novel mit Mecha-Pausen willst — April 2026 indexiert USA ~13,01 € äquivalent in tiefer Promo während EU ~59,99 € listet.; liegt dein sichtbarer Preis bei etwa $59.99, prüfe vorher deine Nintendo Switch-Region auf GameGulf.
 
-13 Sentinels: Aegis Rim ist im April 2026 in Promo-Regionen ein klarer Kauf — EU-MSRP parallel prüfen.
+13 Sentinels: Aegis Rim ist im April 2026 in Promo-Regionen ein klarer Kauf — EU-Listenpreis parallel prüfen.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €13.01.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €13.01.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price) gegen deine Region halten.
 
 ## Was kostet 13 Sentinels: Aegis Rim auf Nintendo Switch aktuell?
 
 USA ~13,01 € eq.; globales Tief ~14,33 € (GB, 5. Juni 2025).
+
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
@@ -177,13 +178,13 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Lesen hassen oder nur Action.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Mehrere tiefe Sales pro Jahr.
+**13 Sentinels: Aegis Rim** passt vor allem zu Lange SF mit Mecha-Snacks. Der konkrete Reiz: **Zeitlinienrätsel und Kaiju-Taktik machen jede Enthüllung stark**. Als Gegencheck gilt: Lesen hassen oder nur Action. Der grobe Zeitrahmen liegt bei **31h · 36h+ · ~38h**.
 
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price)** und entscheide dann Buy-now vs Wait.
+Preislich zählt der konkrete Regionsvergleich. USA Promo, GB/HK Promo, JP/BR höher, DE/ES/FR 59,99 €. Ja. Mehrere tiefe Sales pro Jahr. Prüfe vor dem Checkout die [GameGulf-Livepreise](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price); Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

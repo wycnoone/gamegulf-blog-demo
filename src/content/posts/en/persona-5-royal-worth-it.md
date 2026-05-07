@@ -2,8 +2,8 @@
 title: Is Persona 5 Royal worth buying on Nintendo Switch in 2026?
 description: >-
   Switch buying guide for Persona 5 Royal — April 2026 indexed eShop rows,
-  tracked discount history versus list MSRP, runtimes, handheld
-  performance, and who should buy now versus set a price alert.
+  tracked discount history versus list MSRP, runtimes, handheld performance, and
+  who should buy now versus set a price alert.
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -37,12 +37,12 @@ bestFor: JRPG fans who want style, music, and calendar pressure.
 avoidIf: Skip if calendar cram or anime melodrama drains you fast.
 consensusPraise: UI clarity, music, writing, and combat flow stay genre reference.
 mainFriction: Mementos and long palaces drag if you want a tight 40-hour pace.
-timeFit:  lands near 101h main, 123h extras, 141h completionist.
+timeFit: lands near 101h main, 123h extras, 141h completionist.
 fitLabel: Players who enjoy confidant prep, palace puzzles, and long arcs.
 timingNote: >-
   Compare your eShop row to Japan and the ~€20 tracked average before you
   checkout.
-communityVibe: Phantom-thief memes — coffee, exams, stealing hearts anyway
+communityVibe: Confidants and palace heists make the calendar tense
 playtime: 101h main · 123h+ extras · ~141h completionist
 reviewSignal: 94 Metacritic
 takeaway: >-
@@ -171,13 +171,13 @@ priceRows:
 cardPriceEur: 41.75
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 48.90
+cardPrice: USD 49.14
 cardPriceNative: ¥7,678
 cardPriceNativeCurrency: JPY
 ---
 ## Quick verdict
 
-**Persona 5 Royal** on **Nintendo Switch** is primarily a fit-and-price decision. Quality anchor: **94 Metacritic**.
+**Persona 5 Royal** earns attention through **Confidants and palace heists make the calendar tense**. Treat it as a fit-and-price decision: Wait for a sale if you only buy at historic lows — tracked data shows deep Japan and EU prints well under April 2026 list. Buy now if you will start tonight and refuse to pause a 100-hour arc for €20-ish averages.; then compare your Nintendo Switch row on GameGulf before paying ¥7,678.
 
 Royal remains the version to buy — April 2026 is “between sales,” not the tracked floor.
 
@@ -192,19 +192,18 @@ Compare your eShop row to Japan and the ~€20 tracked average before you checko
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 48.87 | ¥7,678 |
-| Hong Kong | USD 56.79 | HK$438 |
-| Brazil | USD 58.09 | R$295 |
-| United States | USD 60.95 | $59.99 |
-| Germany | USD 70.22 | €59.99 |
-| Spain | USD 70.22 | €59.99 |
-| France | USD 70.22 | €59.99 |
-| Italy | USD 70.22 | €59.99 |
+| Japan | USD 49.14 | ¥7,678 |
+| Hong Kong | USD 57.10 | HK$438 |
+| Brazil | USD 58.40 | R$295 |
+| United States | USD 61.29 | $59.99 |
+| Germany | USD 70.61 | €59.99 |
+| Spain | USD 70.61 | €59.99 |
+| France | USD 70.61 | €59.99 |
+| Italy | USD 70.61 | €59.99 |
 
 ## What kind of game is Persona 5 Royal?
 
-Core genre mix: **ATLUS calendar JRPG: palaces, Press Turn fights, Tokyo confidants, Royal arc.**. The key question is whether this loop fits your taste, not whether store copy sounds good.
-
+**Persona 5 Royal** is a Press Turn weaknesses, Baton Pass, palace puzzles, Mementos grinds, third-semester arc. release for Nintendo Switch. Start with the concrete hook — **Confidants and palace heists make the calendar tense** — then weigh the 94 Metacritic signal and 101h main · 123h+ extras · ~141h completionist against what you actually want to play next.
 ## How does Persona 5 Royal run on Nintendo Switch?
 
 Generally stable enough to play; always verify with the current patch/build context.
@@ -226,7 +225,8 @@ Generally stable enough to play; always verify with the current patch/build cont
 - your monthly budget is reserved for other games
 - Skip if calendar cram or anime melodrama drains you fast.
 
-## Closing take
+## Summary
 
-Price first, taste second is the most reliable order here. April 2026 is “between sales,” not the tracked floor.
-Do one final check on **[GameGulf](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price)** and decide buy-now vs wait.
+**Persona 5 Royal** is easiest to recommend to JRPG fans who want style, music, and calendar pressure. In practice, it means press Turn weaknesses, Baton Pass, palace puzzles, Mementos grinds, third-semester arc. The upside is clear: uI clarity, music, writing, and combat flow stay genre reference. The catch is mementos and long palaces drag if you want a tight 40-hour pace. Use **101h main · 123h+ extras · ~141h completionist** as the rough time commitment. If skip if calendar cram or anime melodrama drains you fast, there is no need to force it just because it is discounted.
+
+On price, separate a fair current buy from a true floor. Japan tops the indexed stack near €41.75 equivalent (¥7,678); US sits near €52.07 ($59.99 native). No — tracked data shows a Japan point near €12.52 on 10 March 2026, far under list. Nine discount windows in the past year with ~€20.01 average prints — deep cuts return, then MSRP rebounds. If you want to play soon, check [GameGulf pricing](https://www.gamegulf.com/detail/INlLdFP5Q9#currency-price) against your region; if you only want the lowest possible entry, set an alert and wait for a deeper sale.

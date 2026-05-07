@@ -1,8 +1,6 @@
 ---
 title: Novel Rogue sur Switch en 2026 — encore un bon achat ?
-description: >-
-  Guide avril 2026 : Novel Rogue — deck roguelite KEMCO, écart JP/EU sur
-  GameGulf.
+description: "Guide avril 2026 : Novel Rogue — deck roguelite KEMCO, écart JP/EU sur GameGulf."
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -10,21 +8,17 @@ gameTitle: Novel Rogue
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min de lecture
-decision: >-
-  À prendre si GameGulf montre des lignes JP ~€8 ; passez si vous exigez
-  Metacritic ou détestez RNG deck.
+decision: À prendre si GameGulf montre des lignes JP ~€8 ; passez si vous exigez Metacritic ou détestez RNG deck.
 priceSignal: JP ~€8 versus EU ~€19,99 — région du compte décide.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1PBv755th4U#currency-price
 gameHref: https://www.gamegulf.com/detail/1PBv755th4U
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: Metacritic — pas de score critique agrégé (deck roguelite KEMCO)
-heroNote: >-
-  Exe Create / KEMCO — JRPG deck roguelite pixel, quatre livres enchantés et
-  Ink.
+heroNote: Exe Create / KEMCO — JRPG deck roguelite pixel, quatre livres enchantés et Ink.
 badge: Bon pour le bon joueur
 verdict: right_player
 priceCall: watch
@@ -38,15 +32,15 @@ avoidIf: Besoin de Metacritic ou allergy RNG — passez.
 consensusPraise: Steam trop peu de retours — bruit faible.
 mainFriction: Sans critiques agrégées il reste démo/trailer.
 timeFit: Plusieurs soirées en runs.
-fitLabel: Compare JP avant MSRP EU.
+fitLabel: Compare JP avant prix catalogue EU.
 timingNote: Prix déjà bas — backlog suffit à hésiter.
-communityVibe: Blagues KEMCO, RNG deck, prix JP
+communityVibe: Choix textuels et risque roguelite rendent chaque route fragile
 reviewSignal: Metacritic — pas de score critique agrégé (deck roguelite KEMCO)
 takeaway: Novel Rogue est niche avant tout — GameGulf impose le ticket régional.
 playStyle: Role-playing, Strategy
 timeCommitment: Run-based pacing.
 playMode: Solo sauf boutique.
-whyNow: JP index souvent sous étiquette EU.
+whyNow: La ligne japonaise passe souvent sous le prix européen.
 currentDeal: Native avant paiement sur GameGulf.
 nearHistoricalLow: Pas le plus bas — JP ~€5,82 le **2026-01-14**.
 salePattern: Environ deux promos fortes dans l’année — pas mensuel.
@@ -118,25 +112,18 @@ cardPriceNative: ¥1540
 cardPriceNativeCurrency: JPY
 faq:
   - question: Novel Rogue vaut-il le coup sur Switch en 2026 ?
-    answer: >-
-      Novel Rogue vaut le coup si vous assumez déjà le rogue deck-building pixel
-      KEMCO — sans Metacritic exploitable, la tolérance RNG/Ink prime sur le
-      coup de cœur trailer.
+    answer: Novel Rogue vaut le coup si vous assumez déjà le rogue deck-building pixel KEMCO — sans Metacritic exploitable, la tolérance RNG/Ink prime sur le coup de cœur trailer.
   - question: Combien de temps dure Novel Rogue ?
     answer: Novel Rogue demande plusieurs soirées en runs — Ink grind peut rallonger.
   - question: Et si le RNG ou la grind Ink me vide ?
-    answer: >-
-      Novel Rogue mise sur des runs variables et la montée en puissance Ink — si
-      la variance ou la répétition vous épuise avant le plaisir de tester les
-      grimoires, passez votre tour.
+    answer: Novel Rogue mise sur des runs variables et la montée en puissance Ink — si la variance ou la répétition vous épuise avant le plaisir de tester les grimoires, passez votre tour.
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
 playtime: "Estimation : runs de ~20–60 min, rejouabilité élevée"
 ---
 ## Verdict rapide
 
-**Novel Rogue** reste un **deck roguelite KEMCO** sans **Metacritic** exploitable.
+**Novel Rogue** se décide d’abord sur une envie précise : **Choix textuels et risque roguelite rendent chaque route fragile**. Si cette promesse vous parle, À prendre si GameGulf montre des lignes JP ~€8 ; passez si vous exigez Metacritic ou détestez RNG deck.; si le prix visible tourne autour de ¥1540, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 **Historique promo** : **plus bas historique** ~**€5,82** JP (**2026-01-14**), **deux** grosses **promos** sur un an, **moyenne promo ~€11,46**, dernier mouvement notable il y a **43** jours (**2026-03-17**, US **€17,10**). JP **€8,32** reste au-dessus du plancher mais sous EU — voir [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price).
 
@@ -144,7 +131,7 @@ playtime: "Estimation : runs de ~20–60 min, rejouabilité élevée"
 
 ## Quel prix Switch — tableau promo ?
 
-Synchronisé avec `priceRows`.
+Synchronisé avec instantané de prix.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -174,6 +161,9 @@ Menus/cartes prioritaires — handheld ok.
 
 - Vous chassez uniquement **€5,82** — horizon inconnu
 
-## Synthèse
+## En résumé
 
-Novel Rogue reste **genre + ticket**. Suivez **gamegulf.com** pour les futures **promos**.
+
+Dans **Novel Rogue**, la valeur vient de la reprise immédiate après l’échec : meilleurs réflexes, choix plus fins et choix textuels et risque roguelite rendent chaque route fragile. C’est un bon achat pour les amateurs de runs, moins pour ceux qui veulent une campagne linéaire sans retour au départ. Le volume à prévoir tourne autour de runs de ~20–60 min, rejouabilité élevée, à mesurer avec votre envie de revenir dessus.
+
+Le signal tarifaire à surveiller est €8.32 au Japon. Native avant paiement sur GameGulf. Pas le plus bas — JP ~€5,82 le **2026-01-14**. Environ deux promos fortes dans l’année — pas mensuel. Ouvrez [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price) pour vérifier si votre boutique est vraiment proche du plancher ou seulement moins chère que l’Europe. L’achat immédiat se justifie surtout si votre région est déjà basse; sinon, gardez-le en liste d’envies.

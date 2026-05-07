@@ -47,8 +47,8 @@ timeFit: 9 h fil → ~13 h quêtes annexes → ~21 h si tout fermer costumes & p
 fitLabel: Pour tracer sans crainte des retours arrière ludiques tardifs.
 timingNote: >-
   relisez la grille régionale GameGulf avant paiement même si votre store
-  affiche encore du MSRP européen.
-communityVibe: Peindre tous les arbres puis repartir cuisiner tranquillement
+  affiche encore du prix catalogue européen.
+communityVibe: Peindre le monde et ranger ses émotions deviennent liés
 reviewSignal: Metacritic 90
 takeaway: >-
   Chicory reste une évidence gustative&nbsp;; la vigilance prix se joue contre
@@ -157,15 +157,15 @@ playtime: ~9 h principale, 13 h extras, ~21 h complétion
 
 ## Verdict express
 
-**Chicory&nbsp;: A Colorful Tale** (≈&nbsp;**90&nbsp;Metacritic**) conjugue narration sur la création nerveuse avec une base **paint‑Traversal** très lisible hors boss rush brut — parcourir **[la grille prix](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price)** évite fantasmer un « meilleur universel » alors que vos soldes reflètent seulement un autre storefront.
+Pour décider sur **Chicory: A Colorful Tale**, commencez par cette promesse concrète : **Peindre le monde et ranger ses émotions deviennent liés**. Achetez maintenant seulement si vous voulez y jouer tout de suite; sinon, une alerte de prix fera mieux le travail.
 
-April&nbsp;2026 aligne encore un **axe Japon&nbsp;€15,88** indexée quand plusieurs **promotion** saisonnières descendant **historiquement** vers **€7,94 JP (2025‑08‑18)** puis **€8,03 BR (2025‑12‑22)** — soit plus bas que vos paniers spontanés. **gamegulf.com** aide à suivre cet écart ; même page GameGulf rappelle le contexte **`priceRows`**.
+April&nbsp;2026 aligne encore un **axe Japon&nbsp;€15,88** indexée quand plusieurs **promotion** saisonnières descendant **historiquement** vers **€7,94 JP (2025‑08‑18)** puis **€8,03 BR (2025‑12‑22)** — soit plus bas que vos paniers spontanés. **gamegulf.com** aide à suivre cet écart ; même page GameGulf rappelle le contexte **instantané de prix**.
 
 Résumé prudent&nbsp;: mieux comparer vos paliers européens listés (**~€18,99 hors promo**) à ce tableau GameGulf plutôt qu’imaginer prix homogènes.
 
 ## Combien coûte Chicory sur Nintendo Switch maintenant&nbsp;?
 
-Les lignes zonales suivent encore le grand écart : **`priceRows`** alimentée par **gamegulf.com** — base identique carte article — doit être recalée au moment paiement après sync.
+Les lignes zonales suivent encore le grand écart : **instantané de prix** alimentée par **gamegulf.com** — base identique carte article — doit être recalée au moment paiement après sync.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -213,6 +213,9 @@ Prévenir alignement prix GameGulf & attentes perso avant achat compulsif&nbsp;:
 
 Si vous sautez lignes facultatives évite frustration retours — **sans** ils restent jeu plus court agréable.
 
-## Chicory sur Switch&nbsp;: bilan
+## En résumé
 
-Rare puzzle émotion‑first encore recommandé en 2026 — question reste valeur **indexed** contre **historic low** suivant grille **gamegulf.com**/GameGulf — évite paiement compulsif storefront **sans** avoir relu historique prix.
+
+**Chicory: A Colorful Tale** cible les joueurs qui aiment observer, déduire et relancer une piste jusqu’au déclic. Peindre le monde et ranger ses émotions deviennent liés est l’atout principal, mais le rythme peut sembler sec si vous cherchez une aventure guidée de bout en bout. Prenez ~9 h principale, 13 h extras, ~21 h complétion comme ordre de grandeur pour juger l’achat.
+
+La comparaison régionale donne comme repère bas €15.88 au Japon. Avril&nbsp;2026&nbsp;: le Japon conduit les lignes avant les paliers ~€18,99 en zone euro hors promo. Ce n’est pas le plus bas observé&nbsp;: lignes japonaises ~€7,94 le 2025‑08‑18 et brésiliennes ~€8,03 le 2025‑12‑22 selon données indexées contre ~€15,88 côté Japon snapshot actuel. Cinq baisses notables/an, moyenne promo ~€10,20 — dernière chute forte repérée au Brésil autour du 2025‑12‑22. La page [GameGulf](https://www.gamegulf.com/detail/kKfeWM8ImWj#currency-price) reste le meilleur contrôle final pour le prix actuel et l’historique de remise. À plein tarif, la patience reste préférable; une vraie période de soldes changera davantage le rapport contenu/prix.

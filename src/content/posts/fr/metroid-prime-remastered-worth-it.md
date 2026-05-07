@@ -12,7 +12,7 @@ decision: >-
   Oui si vous voulez un Prime à la première personne noté ~94 Metacritic, visées
   modernes et Tallon IV dense. Alertes si seul le ticket plein tarif de votre
   compte bloque.
-priceSignal: "En avril 2026 la grille ouvre vers ~23,22 € côté Japon, puis Hong Kong, puis US/Brésil et MSRP €/£ — profil classique «\_peu promo\_» Nintendo."
+priceSignal: "En avril 2026 la grille ouvre vers ~23,22 € côté Japon, puis Hong Kong, puis US/Brésil et prix catalogue €/£ — profil classique «\_peu promo\_» Nintendo."
 heroStat: 94 Metacritic
 heroNote: >-
   Le Prime 3D de Samus : biomes de Tallon IV, journal de scan, Morph Ball,
@@ -35,8 +35,10 @@ mainFriction: >-
   friction.
 timeFit: ~13 h main, ~17 h+ extras, ~22 h finisseur (bandes horaires fréquentes).
 fitLabel: Ceux qui aiment cartographier mentalement pendant qu’ils progressent.
-timingNote: Comparez votre ligne eShop au cluster Japon avant de payer un MSRP haut.
-communityVibe: Rythme scan — les fans adorent, les touristes lâchent vite
+timingNote: >-
+  Comparez votre ligne eShop au cluster Japon avant de payer un prix catalogue
+  haut.
+communityVibe: Viseur scan et atmosphère de Tallon IV gardent la magie
 playtime: ~13 h main · ~17 h+ extras · ~22 h complétion
 reviewSignal: 94 Metacritic
 takeaway: >-
@@ -55,7 +57,7 @@ whyNow: >-
   panier global.
 currentDeal: >-
   Le numérique indexé place le Japon le plus bas, puis Hong Kong, puis US/Brésil
-  puis MSRP € courant.
+  puis prix catalogue € courant.
 nearHistoricalLow: >-
   Aucune promo captée sur un an dans ce flux — lisez le prix comme discipline de
   liste.
@@ -170,7 +172,7 @@ cardPriceNativeCurrency: JPY
 ---
 ## Verdict rapide
 
-**Metroid Prime Remastered** sur **Switch**, c’est encore **adéquation + ligne eShop**. Ancre critique : **94 Metacritic** ; instantané GameGulf d’avril : cluster Japon en tête.
+**Metroid Prime Remastered** se décide d’abord sur une envie précise : **Viseur scan et atmosphère de Tallon IV gardent la magie**. Si cette promesse vous parle, Oui si vous voulez un Prime à la première personne noté ~94 Metacritic, visées modernes et Tallon IV dense. Alertes si seul le ticket plein tarif de votre compte bloque.; si le prix visible tourne autour de ¥4,300, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 Pour les curieux de Prime, la qualité est déjà notoire — l’incertitude, c’est votre grille.
 
@@ -217,12 +219,13 @@ Solide pour un remaster FP Nintendo — vérifiez le patch du moment.
 
 ## Attendez si
 
-- votre pays reste MSRP alors que Japon/Hong Kong sont nettement bas (et que vous pouvez acheter proprement ailleurs)
+- votre pays reste prix catalogue alors que Japon/Hong Kong sont nettement bas (et que vous pouvez acheter proprement ailleurs)
 - vous détestez retours et scan — la note ne changera pas le ressenti
 - budget verrouillé : mettez l’alerte sur **[GameGulf](https://www.gamegulf.com/wishlist)**
 
-## Dernière ligne
+## En résumé
 
-Prix d’abord, goût ensuite — **Metroid Prime Remastered** n’a plus à prouver sa place.
 
-Jetez un œil final à **[GameGulf](https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price)** puis tranchez.
+**Metroid Prime Remastered** se défend si vous aimez apprendre un mouvement, lire un niveau et progresser par précision. Le crochet est clair : Viseur scan et atmosphère de Tallon IV gardent la magie. Il faut accepter les essais ratés, les retours en arrière et quelques pics de difficulté. Comptez ~13 h histoire · ~17 h+ extras · ~22 h complétion avant de décider si le format colle à vos soirées.
+
+Le signal tarifaire à surveiller est €23.22 au Japon. Le numérique indexé place le Japon le plus bas, puis Hong Kong, puis US/Brésil puis prix catalogue € courant. Aucune promo captée sur un an dans ce flux — lisez le prix comme discipline de liste. Les soldes Nintendo grattent peu sur les titres phares — ne pariez pas sur -75 %. Ouvrez [GameGulf](https://www.gamegulf.com/detail/dm86GCKPzG2#currency-price) pour vérifier si votre boutique est vraiment proche du plancher ou seulement moins chère que l’Europe. Si votre région s’aligne sur ce niveau, acheter maintenant se défend; si elle revient au prix catalogue, laissez une alerte couvrir la prochaine fenêtre.

@@ -159,7 +159,7 @@ priceRows:
 cardPriceEur: 19.01
 cardPriceRegionCode: JP
 cardPriceRegion: Japan
-cardPrice: USD 22.25
+cardPrice: USD 22.37
 cardPriceNative: ¥3,520
 cardPriceNativeCurrency: JPY
 faq:
@@ -195,7 +195,7 @@ faq:
 
 ## Quick verdict
 
-**Ori and the Will of the Wisps** on **Switch** pairs **93 Metacritic** craft with a **pricing seesaw**: **GameGulf’s April 2026 pull** still opens on **Japan near €19.01 (¥3,520)** while the **United States** lists **$29.99 (~€25.66)** and multiple **EU** storefronts show **€29.99** — none of that matches the feed’s **US all-time low near €6.41 on 2025-12-22**.
+For **Ori and the Will of the Wisps**, the buy call starts with whether **Ori squeaks, you cry — Spirit Trials steal your evening anyway.** sounds like the kind of loop you actually want tonight. Buy now only if you want to play immediately; otherwise set an alert and let the next cleaner sale do the work.
 
 Inside the last year the tracker logged **six** distinct **sale** moves with an **average discount-era print around €12.87**, plus a **2026-03-09** US dip in the same bargain neighborhood. The feed also flags a **2026-04-11 Japan move (~37% drop context)** only **18** days before this refresh—proof the SKU still breathes, even if your account never sees every cut.
 
@@ -208,14 +208,14 @@ Use **[GameGulf live pricing](https://www.gamegulf.com/detail/9t3j1FNGEAF#curren
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Japan | USD 22.25 | ¥3,520 |
-| Hong Kong | USD 29.15 | HK$228 |
-| United States | USD 30.04 | $29.99 |
-| Brazil | USD 32.98 | R$168 |
-| United Kingdom | USD 33.63 | £24.99 |
-| Germany | USD 35.11 | €29.99 |
-| Spain | USD 35.11 | €29.99 |
-| France | USD 35.11 | €29.99 |
+| Japan | USD 22.37 | ¥3,520 |
+| Hong Kong | USD 29.31 | HK$228 |
+| United States | USD 30.20 | $29.99 |
+| Brazil | USD 33.16 | R$168 |
+| United Kingdom | USD 33.82 | £24.99 |
+| Germany | USD 35.30 | €29.99 |
+| Spain | USD 35.30 | €29.99 |
+| France | USD 35.30 | €29.99 |
 
 Discount math beats vibes: **historical low** data still points to **€6.41** in the **US**, while typical **sale** windows hover near **€12.87** — so paying **€29.99** without checking **[GameGulf](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price)** is usually a choice, not a requirement.
 
@@ -249,6 +249,8 @@ If you disliked **backtracking for one missed gate**, the larger world can still
 - **difficulty cliffs** or **save spacing** already irritate you in similar games; watch a late-game boss clip before committing.
 - your monthly budget needs breathing room — this title **discounts often enough** (six tracked pulses) that FOMO is rarely justified at list.
 
-## Closing take
+## Summary
 
-**Ori and the Will of the Wisps** earns its reputation every time someone boots **Spirit Trials** “just once.” Whether you buy now hinges on **your row vs the €6.41-class floor**, not on hype. Re-open **[GameGulf for Ori and the Will of the Wisps](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price)**, set a target if you must, then play when the number—not the trailer—says yes.
+**Ori and the Will of the Wisps** is easiest to recommend to Fans of exploration, combat flow & story-first platformers. In practice, it means ability-gated maps, shard loadouts, boss set-pieces, Spirit Trials leaderboards, and collectable chase layered on the critical path. The upside is clear: movement, art, and score still justify platform recommendations. The catch is difficulty spikes & save spacing still appear in common player chatter. Use **~12h main · ~16h+ extras · ~18h completionist** as the rough time commitment. If brutal bosses or long backtracks drain you more than they motivate, there is no need to force it just because it is discounted.
+
+On price, separate a fair current buy from a true floor. Indexed stacks open with Japan near €19.01 (¥3,520), Hong Kong ~€24.9 (HK$228), US ~€25.66 ($29.99), and multiple EU shelves near €29.99 in the same GameGulf pull. No — tracked data still shows a United States print near €6.41 on 2025-12-22, well under April 2026 list-style rows; the feed also captured another US dip on 2026-03-09 near that band. Six indexed discount events hit the rolling year, averaging ~€12.87 whenever the price actually drops; the latest tagged move landed 2026-04-11 in Japan (~37% drop context) roughly 18 days before this refresh. If you want to play soon, check [GameGulf pricing](https://www.gamegulf.com/detail/9t3j1FNGEAF#currency-price) against your region; if you only want the lowest possible entry, set an alert and wait for a deeper sale.

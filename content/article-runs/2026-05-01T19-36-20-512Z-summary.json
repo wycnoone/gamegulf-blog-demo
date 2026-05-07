@@ -1,0 +1,308 @@
+{
+  "runId": "2026-05-01T19-36-20-512Z",
+  "startedAt": "2026-05-01T19:36:20.517Z",
+  "opts": {
+    "limit": 12,
+    "dryRun": false,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": true,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": true,
+    "delayMs": 1000,
+    "maxBudgetUsd": "2",
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 33,
+    "pending": 12
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Star Wars Pinball (MC 86)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Daemon X Machina: Titanic Scion (MC 79)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Cozy Grove (MC 71)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: DUSK (MC 88)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Sonic Mania (MC 86)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/2FXuQLdeecV",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Shantae and the Pirate's Curse (MC 86)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/31CqSWiuTPi",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Atari 50：The Anniversary Celebration (MC 89)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/7kmNBh2R4gE",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Unicorn Overlord (MC 89)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/7W5fsHROeLo",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Little Kitty, Big City (MC 78)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/FMn7HJlmf8",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: What Remains of Edith Finch (MC 88)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/jOx3ZV1olfz",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: No Man's Sky (MC 83)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/lqa9TJHCgVE",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Monster Hunter Rise (MC 88)"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/1wHJMRuRjHR",
+      "startedAt": "2026-05-01T19:36:20.518Z",
+      "finishedAt": "2026-05-01T19:36:20.569Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "star-wars-pinball-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/1YTurw0ZwV5",
+      "startedAt": "2026-05-01T19:36:21.569Z",
+      "finishedAt": "2026-05-01T19:36:21.619Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "daemon-x-machina-titanic-scion-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/1ZWE4WIpTp5",
+      "startedAt": "2026-05-01T19:36:22.619Z",
+      "finishedAt": "2026-05-01T19:36:22.668Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "cozy-grove-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/2DnaPGYGeNp",
+      "startedAt": "2026-05-01T19:36:23.669Z",
+      "finishedAt": "2026-05-01T19:36:23.719Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "dusk-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/2DumzaIwa0N",
+      "startedAt": "2026-05-01T19:36:24.719Z",
+      "finishedAt": "2026-05-01T19:36:24.770Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "sonic-mania-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/2FXuQLdeecV",
+      "startedAt": "2026-05-01T19:36:25.770Z",
+      "finishedAt": "2026-05-01T19:36:25.820Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "shantae-and-the-pirate-s-curse-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/31CqSWiuTPi",
+      "startedAt": "2026-05-01T19:36:26.820Z",
+      "finishedAt": "2026-05-01T19:36:26.870Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "atari-50-the-anniversary-celebration-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/7kmNBh2R4gE",
+      "startedAt": "2026-05-01T19:36:27.870Z",
+      "finishedAt": "2026-05-01T19:36:27.920Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "unicorn-overlord-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/7W5fsHROeLo",
+      "startedAt": "2026-05-01T19:36:28.920Z",
+      "finishedAt": "2026-05-01T19:36:28.970Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "little-kitty-big-city-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/FMn7HJlmf8",
+      "startedAt": "2026-05-01T19:36:29.970Z",
+      "finishedAt": "2026-05-01T19:36:30.020Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "what-remains-of-edith-finch-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/jOx3ZV1olfz",
+      "startedAt": "2026-05-01T19:36:31.020Z",
+      "finishedAt": "2026-05-01T19:36:31.071Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "no-man-s-sky-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-20-512Z",
+      "url": "https://www.gamegulf.com/detail/lqa9TJHCgVE",
+      "startedAt": "2026-05-01T19:36:32.071Z",
+      "finishedAt": "2026-05-01T19:36:32.121Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "monster-hunter-rise-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:36:33.121Z",
+  "finalQueueSummary": {
+    "done": 45
+  }
+}

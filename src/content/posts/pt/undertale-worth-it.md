@@ -42,7 +42,7 @@ mainFriction: Se o humor não pega, replays seguidos cansam.
 timeFit: ~7 h história, ~11 h com extras, ~21 h limpando rotas.
 fitLabel: Quem aguenta texto forte entre lutas.
 timingNote: Preço UE alto? Confira o painel multirregião no GameGulf antes.
-communityVibe: Trilha gruda na playlist por anos
+communityVibe: Misericórdia, memes do Sans e anti-spoiler definem
 playtime: ~7 h · ~11 h+ extras · ~21 h completo
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -156,10 +156,9 @@ cardPrice: EUR 5.77
 cardPriceNative: ¥1,069
 cardPriceNativeCurrency: JPY
 ---
-
 ## Veredito rápido
 
-**Undertale** no **Switch** segue como **vale a pena por encaixe**: **93 Metacritic** e a grade GameGulf de abril 2026 mantém **Japão em ~5,77 €**, alinhado ao piso rastreado.
+**Undertale** vale pela vontade concreta de jogar **Misericórdia, memes do Sans e anti-spoiler definem**. Se isso combina com você, Vale se combinar com você: Undertale segue sendo um RPG indie curto de referência; o índice mantém o Japão perto de ~5,77 €, alinhado ao piso histórico rastreado, com várias promoções ao longo do ano.; se o preço visto fica perto de ¥1,069, confira antes sua região de Nintendo Switch no GameGulf.
 
 Comece pelo **[GameGulf](https://www.gamegulf.com/detail/dvI6J2brEaR#currency-price)** para ver sua região real.
 
@@ -200,6 +199,8 @@ Histórico de **promoções** com traço de **discount**: **16** quedas em um an
 - **Esperar** se você fica preso em **14,99 €** sem alerta no **GameGulf**.
 - **Pular** se odeia memorizar padrões ou exige dublagem total.
 
-## Fechamento
+## Resumo
 
-Primeiro afinidade, depois linha da eShop — confira **gamegulf.com** e feche.
+Para **Undertale**, a pergunta útil é se **Misericórdia, memes do Sans e anti-spoiler definem** combina com o que você quer jogar agora. O formato é **exploração top-down, puzzles leves, menu ACT/LUTAR/POUPAR, masmorras curtas, chefes teatrais e finais distintos**. É uma boa aposta para quem quer impacto emocional em menos de 12 h; perde força se se o humor não pega, replays seguidos cansam. O tempo estimado é **~7 h · ~11 h+ extras · ~21 h completo**, então vale pensar se esse espaço cabe na sua rotina.
+
+A conta fecha melhor depois de comparar regiões no [GameGulf](https://www.gamegulf.com/detail/dvI6J2brEaR#currency-price): o menor preço atual indexado aparece perto de **EUR 5.77** em **Japão**. Se o preço local não encostar no baixo atual ou no histórico, o caminho prudente é colocar alerta e aguardar promoção.

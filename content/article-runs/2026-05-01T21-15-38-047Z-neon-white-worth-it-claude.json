@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "neon-white-worth-it",
+  "url": "https://www.gamegulf.com/detail/csbOxZtqq1a",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-neon-white-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 458984,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":458798,\"duration_api_ms\":456412,\"num_turns\":23,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"neon-white-worth-it\\\",\\\"score\\\":93,\\\"revisionAttempts\\\":2,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/neon-white-worth-it.md\\\",\\\"src/content/posts/zh-hans/neon-white-worth-it.md\\\",\\\"src/content/posts/ja/neon-white-worth-it.md\\\",\\\"src/content/posts/fr/neon-white-worth-it.md\\\",\\\"src/content/posts/es/neon-white-worth-it.md\\\",\\\"src/content/posts/de/neon-white-worth-it.md\\\",\\\"src/content/posts/pt/neon-white-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial spot check found EN/zh-hans/ja body copy too generic relative to the brief's actual gameplay loop and indexed regional price spread.\\\",\\\"First revision failed validator in EN/zh-hans/ja because the discount-history paragraph no longer stated sufficiently concrete historical data.\\\",\\\"Second revision restored explicit history anchors: 2026-01-25 Hong Kong €7.54 low, 3 discount events, €10.50 average sale price, 96 days since last notable discount.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/neon-white-worth-it.md src/content/posts/zh-hans/neon-white-worth-it.md src/content/posts/ja/neon-white-worth-it.md src/content/posts/fr/neon-white-worth-it.md src/content/posts/es/neon-white-worth-it.md src/content/posts/de/neon-white-worth-it.md src/content/posts/pt/neon-white-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/neon-white-worth-it.md src/content/posts/zh-hans/neon-white-worth-it.md src/content/posts/ja/neon-white-worth-it.md src/content/posts/fr/neon-white-worth-it.md src/content/posts/es/neon-white-worth-it.md src/content/posts/de/neon-white-worth-it.md src/content/posts/pt/neon-white-worth-it.md\\\"],\\\"notes\\\":\\\"Repaired EN, zh-hans, and ja to read more like buying memos with concrete Soul Cards/shortcut/speedrun fit and clearer GameGulf regional price triggers; all 7 locales now validate with zero errors.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"ffe19d12-82b0-4bf4-8518-c719648197f2\",\"total_cost_usd\":2.5243518000000003,\"usage\":{\"input_tokens\":708788,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":229376,\"output_tokens\":21945,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":708788,\"outputTokens\":21945,\"cacheReadInputTokens\":229376,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.5243518000000003,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"8eec87cd-7992-4ee6-9d0a-1976832ca9f9\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T22:02:54.157Z"
+}

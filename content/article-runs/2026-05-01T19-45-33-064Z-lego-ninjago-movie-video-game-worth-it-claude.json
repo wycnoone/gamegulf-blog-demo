@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-45-33-064Z",
+  "slug": "lego-ninjago-movie-video-game-worth-it",
+  "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-45-33-064Z-lego-ninjago-movie-video-game-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 133609,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":133429,\"duration_api_ms\":131551,\"num_turns\":23,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"lego-ninjago-movie-video-game-worth-it\\\",\\\"score\\\":94,\\\"revisionAttempts\\\":1,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md\\\",\\\"src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md\\\",\\\"src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md\\\",\\\"src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md\\\",\\\"src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md\\\",\\\"src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md\\\",\\\"src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md\\\"],\\\"issues\\\":[],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md\\\"],\\\"notes\\\":\\\"Fixed English field-length and discount-history issues, corrected zh-hans TLDR prefix and added concrete sale-history anchors, spot-checked en/zh-hans/ja localization, and revalidated all 7 locales with zero errors.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"2d925be8-3fb0-4048-bbd0-03fdda9de58b\",\"total_cost_usd\":2.1549558,\"usage\":{\"input_tokens\":674421,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":229376,\"output_tokens\":4192,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":674421,\"outputTokens\":4192,\"cacheReadInputTokens\":229376,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.1549558,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"6fc652de-765c-4ac7-8163-b61b59dba1f1\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T19:47:47.278Z"
+}

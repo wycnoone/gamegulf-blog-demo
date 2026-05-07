@@ -37,10 +37,10 @@ bestFor: Joueurs qui veulent de la densité en 2h, pas un RPG de 30h.
 avoidIf: Évite si le deuil te fragilise — même une grosse remise ne suffit pas.
 consensusPraise: Écriture, variété de séquences et mise en scène — haut niveau indie.
 mainFriction: C’est court — tu paies pour la qualité minute par minute.
-timeFit:  ~2h main, ~3h extras, ~3h complétion (agrégats).
+timeFit: ~2h main, ~3h extras, ~3h complétion (agrégats).
 fitLabel: Pour ceux qui préfèrent deux heures parfaites à vingt heures moyennes.
 timingNote: Compare 4,99 € côté ES au plancher historique ~2,86 € BR avant d’attendre.
-communityVibe: Clip Lewis d'abord; la maison, playlist triste—à chaque fois.
+communityVibe: Chaque pièce Finch change les contrôles et reste en tête
 playtime: 2h main · 3h+ extras · ~3h complétion
 reviewSignal: 88 Metacritic
 takeaway: >-
@@ -49,12 +49,12 @@ takeaway: >-
 playStyle: >-
   Exploration 1ère personne, interactions légères, chapitres qui changent de
   genre.
-timeCommitment:  annonce ~2h pour le fil principal et ~3h si tu chasses tout.
+timeCommitment: annonce ~2h pour le fil principal et ~3h si tu chasses tout.
 playMode: Solo.
 whyNow: Le jeu est un classique figé — seul le prix bouge selon ta boutique.
 currentDeal: >-
-  Avril 2026 : Espagne ~4,99 €, puis Brésil/Japon/États-Unis avant MSRP
-  européen.
+  Avril 2026 : Espagne ~4,99 €, puis Brésil/Japon/États-Unis avant prix
+  catalogue européen.
 nearHistoricalLow: Non — le tracker garde un point plus bas ~2,86 € (Brésil, 14 avril 2025).
 salePattern: Neuf mouvements de promo sur l’année ; prix moyen en remise ~5,58 €.
 priceRecommendation: buy
@@ -169,11 +169,11 @@ cardPriceNativeCurrency: EUR
 ---
 ## Verdict rapide
 
-**What Remains of Edith Finch** sur **Nintendo Switch** est surtout une decision d'adaptation + prix. Ancre qualitative: **88 Metacritic**.
+**What Remains of Edith Finch** se décide d’abord sur une envie précise : **Chaque pièce Finch change les contrôles et reste en tête**. Si cette promesse vous parle, Achète en promo si tu veux un chef-d’œuvre narratif court — avril 2026 indexe l’Espagne ~4,99 € pendant une grosse remise, avec un plus bas historique plus bas au Brésil en 2025.; si le prix visible tourne autour de €4.99, vérifiez quand même votre ligne Nintendo Switch sur GameGulf avant de payer.
 
 What Remains of Edith Finch reste un achat facile en solde pour les amateurs de récit — la promo ES est forte mais pas le plancher absolu du tracker.
 
-Signal discount/sale: en 2026, la zone historical low reste exploitable autour de €4.99.
+Signal promo: en 2026, la zone de plus bas historique reste exploitable autour de €4.99.
 
 Avant achat, verifie ta region sur [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price).
 
@@ -210,17 +210,18 @@ Globalement jouable de facon stable; valide toujours avec la version la plus rec
 - tu apprecies **Joueurs qui veulent de la densité en 2h, pas un RPG de 30h.**
 - ton prix regional sur GameGulf est deja dans ta zone cible
 - tu veux jouer tout de suite plutot qu'attendre une nouvelle promo
-- le format te convient: HLTB annonce ~2h pour le fil principal et ~3h si tu chasses tout.
+- le format te convient: Durée indicative : ~2h pour le fil principal et ~3h si tu chasses tout.
 
 ## Attendre si
 
-- ta boutique reste proche du MSRP alors que d'autres regions ont baisse
+- ta boutique reste proche du prix catalogue alors que d'autres regions ont baisse
 - ton fit de genre est incertain
 - ton budget du mois est reserve a d'autres titres
 - Évite si le deuil te fragilise — même une grosse remise ne suffit pas.
 
-## Conclusion
+## En résumé
 
-Prix d'abord, puis affinite: c'est l'ordre le plus fiable ici. Neuf mouvements de promo sur l’année ; prix moyen en remise ~5,58 €.
 
-Fais un dernier passage sur **[GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)** puis tranche achat vs attente.
+**What Remains of Edith Finch** parle d’abord aux joueurs qui aiment suivre une affaire, une route de personnages ou un récit à tiroirs. Le crochet est clair : Chaque pièce Finch change les contrôles et reste en tête. Mais c’est court — tu paies pour la qualité minute par minute peut casser l’élan si vous vouliez une expérience plus directe. Comptez 2h histoire · 3h+ extras · ~3h complétion avant de décider si le format colle à vos soirées.
+
+Le signal tarifaire à surveiller est €4.99 en Espagne. Avril 2026 : Espagne ~4,99 €, puis Brésil/Japon/États-Unis avant prix catalogue européen. le tracker garde un point plus bas ~2,86 € (Brésil, 14 avril 2025). Neuf mouvements de promo sur l’année ; prix moyen en remise ~5,58 €. Ouvrez [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) pour vérifier si votre boutique est vraiment proche du plancher ou seulement moins chère que l’Europe. Le bon réflexe : acheter sur une ligne proche du bas, patienter dès que votre boutique repasse au tarif plein.

@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it",
+  "url": "https://www.gamegulf.com/detail/ilppjvoZ4dv",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 23088,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":22913,\"duration_api_ms\":22157,\"num_turns\":3,\"result\":\"{\\n  \\\"status\\\": \\\"blocked\\\",\\n  \\\"slug\\\": \\\"snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it\\\",\\n  \\\"score\\\": 0,\\n  \\\"revisionAttempts\\\": 0,\\n  \\\"validated\\\": false,\\n  \\\"articlePaths\\\": [\\n    \\\"src/content/posts/en/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\",\\n    \\\"src/content/posts/zh-hans/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\",\\n    \\\"src/content/posts/ja/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\",\\n    \\\"src/content/posts/fr/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\",\\n    \\\"src/content/posts/es/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\",\\n    \\\"src/content/posts/de/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\",\\n    \\\"src/content/posts/pt/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\"\\n  ],\\n  \\\"issues\\\": [\\n    \\\"All seven expected article files were missing on initial validation.\\\",\\n    \\\"Generation failed because the brief has not enough price rows: need 4+ non-AR rows.\\\",\\n    \\\"Generation also warned that no Metacritic score exists in the brief.\\\"\\n  ],\\n  \\\"commandsRun\\\": [\\n    \\\"node scripts/validate-article.mjs src/content/posts/en/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/zh-hans/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/ja/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/fr/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/es/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/de/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/pt/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\",\\n    \\\"node scripts/synthesize-worth-it-from-brief.mjs content/briefs/snoopy-the-great-mystery-club-joe-cool-fun-pack.json && node scripts/sync-article-pricing.mjs src/content/posts/en/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/zh-hans/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/ja/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/fr/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/es/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/de/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md src/content/posts/pt/snoopy-the-great-mystery-club-joe-cool-fun-pack-worth-it.md\\\"\\n  ],\\n  \\\"notes\\\": \\\"Blocked before revision because deterministic article synthesis refused the brief due to insufficient indexed price rows.\\\"\\n}\",\"stop_reason\":\"end_turn\",\"session_id\":\"0dd3b1d7-0ba6-47eb-8fa9-25efc098c9f2\",\"total_cost_usd\":0.27121439999999997,\"usage\":{\"input_tokens\":79104,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":43008,\"output_tokens\":1400,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":79104,\"outputTokens\":1400,\"cacheReadInputTokens\":43008,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.27121439999999997,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"6384ff1d-69b0-48a7-81dd-6bd7f4495a95\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:31:44.569Z"
+}

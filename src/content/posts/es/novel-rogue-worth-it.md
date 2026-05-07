@@ -8,12 +8,10 @@ gameTitle: Novel Rogue
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 min de lectura
-decision: >-
-  Compensa si GameGulf marca JP ~€8 ; espera si exiges Metacritic u odias RNG de
-  mazos.
+decision: Compensa si GameGulf marca JP ~€8 ; espera si exiges Metacritic u odias RNG de mazos.
 priceSignal: JP ~€8 frente a EU ~€19,99 — cuenta más que el titular.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/1PBv755th4U#currency-price
@@ -34,15 +32,15 @@ avoidIf: Metacritic obligatorio u odio RNG — no es para ti.
 consensusPraise: Steam con pocas reseñas — ruido bajo.
 mainFriction: Sin críticos agregados quedan trailer/demo.
 timeFit: Varias noches en runs.
-fitLabel: Compara JP antes del MSRP EU.
+fitLabel: Compara JP antes del precio de lista EU.
 timingNote: Precio ya bajo — backlog decide.
-communityVibe: Chistes KEMCO, RNG mazo, envidia JP
+communityVibe: Texto y riesgo roguelite vuelven inestable cada ruta
 reviewSignal: Metacritic — sin nota crítica agregada (deck roguelite KEMCO)
 takeaway: Novel Rogue es nicho primero — GameGulf marca el ticket regional.
 playStyle: Role-playing, Strategy
 timeCommitment: Run-based pacing.
 playMode: Un jugador salvo tienda.
-whyNow: Índice JP suele quedar bajo etiqueta EU.
+whyNow: La fila japonesa suele quedar por debajo del precio europeo.
 currentDeal: Nativa antes de pagar en GameGulf.
 nearHistoricalLow: No es el mínimo — JP ~€5,82 el **2026-01-14**.
 salePattern: Unas dos promos fuertes al año — no mensual.
@@ -114,25 +112,18 @@ cardPriceNative: ¥1540
 cardPriceNativeCurrency: JPY
 faq:
   - question: ¿Novel Rogue merece la pena en Switch en 2026?
-    answer: >-
-      Novel Rogue merece la pena si ya toleras el bucle roguelite de mazos pixel
-      KEMCO — sin Metacritic útil, cuenta más la tolerancia al RNG/Ink y las
-      ganas de repetir runs.
+    answer: Novel Rogue merece la pena si ya toleras el bucle roguelite de mazos pixel KEMCO — sin Metacritic útil, cuenta más la tolerancia al RNG/Ink y las ganas de repetir runs.
   - question: ¿Cuánto dura Novel Rogue?
     answer: Novel Rogue ocupa varias noches en runs — grind Ink lo alarga.
   - question: ¿Y si el RNG o farmear Ink me agota?
-    answer: >-
-      Novel Rogue apuesta a rutas aleatorias y subidas de Ink — si la varianza o
-      la repetición te cansan antes que divertirte probando grimorios, mejor
-      saltar.
+    answer: Novel Rogue apuesta a rutas aleatorias y subidas de Ink — si la varianza o la repetición te cansan antes que divertirte probando grimorios, mejor saltar.
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504894954119084.jpeg
 playtime: "Estimación: partidas de ~20–60 min, rejugable"
 ---
 ## Veredicto rápido
 
-**Novel Rogue** sigue siendo **deck roguelite KEMCO** sin **Metacritic** útil.
+**Novel Rogue** se decide por una idea concreta: **Texto y riesgo roguelite vuelven inestable cada ruta**. Si eso te apetece de verdad, Compensa si GameGulf marca JP ~€8 ; espera si exiges Metacritic u odias RNG de mazos.; si el precio que ves ronda ¥1540, comprueba antes tu región de Nintendo Switch en GameGulf.
 
 **mínimo histórico** ~**€5,82** JP (**2026-01-14**), **dos** **ofertas** fuertes en un año, **media promo ~€11,46**, último movimiento hace **43** días (**2026-03-17**, US **€17,10**). JP **€8,32** queda sobre el suelo pero bajo EU — ver [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price).
 
@@ -140,7 +131,7 @@ playtime: "Estimación: partidas de ~20–60 min, rejugable"
 
 ## ¿Cuánto cuesta hoy en Switch — precio tabla?
 
-`priceRows` abajo.
+captura de precios abajo.
 
 
 | Región | Precio (equivalente en EUR) | Precio nativo |
@@ -170,6 +161,8 @@ Menús/cartas primero — handheld cómodo.
 
 - Solo quieres igualar **€5,82** — fecha incierta
 
-## Cierre
+## Resumen
 
-**gamegulf.com** ayuda a vigilar la siguiente **oferta**.
+**Novel Rogue** encaja si eres fan de bucles KEMCO cortos con RNG asumida. La gracia está en texto y riesgo roguelite vuelven inestable cada ruta. En la práctica, el minuto a minuto se apoya en role-playing, Strategy. La advertencia es sin críticos agregados quedan trailer/demo. Si metacritic obligatorio u odio RNG — no es para ti, mejor esperar o mirar otra opción. Si juegas con poco margen, pon en la balanza Estimación: partidas de ~20–60 min, rejugable.
+
+Antes de pagar, mira si tu fila regional se parece al historial reciente. Nativa antes de pagar en GameGulf. No es el mínimo — JP ~€5,82 el **2026-01-14**. Unas dos promos fuertes al año — no mensual. Comprueba tu tienda en [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price): compra si la cifra actual te compensa jugar ya, o pon alerta si buscas acercarte al mínimo.

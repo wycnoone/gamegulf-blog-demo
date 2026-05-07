@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "neon-white-worth-it",
+  "url": "https://www.gamegulf.com/detail/csbOxZtqq1a",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/neon-white-worth-it.md",
+    "src/content/posts/zh-hans/neon-white-worth-it.md",
+    "src/content/posts/ja/neon-white-worth-it.md",
+    "src/content/posts/fr/neon-white-worth-it.md",
+    "src/content/posts/es/neon-white-worth-it.md",
+    "src/content/posts/de/neon-white-worth-it.md",
+    "src/content/posts/pt/neon-white-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:55:15.173Z"
+}

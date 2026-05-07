@@ -33,22 +33,22 @@ bestFor: Spieler, die Dichte in ~2h wollen, nicht 30h RPG-Grind.
 avoidIf: Trauer-Themen sind tabu — dann nicht kaufen, egal wie tief der Sale ist.
 consensusPraise: Schreiben, Szenenwechsel und Environmental Storytelling — Indie-Topklasse.
 mainFriction: Kurz — du zahlst für Qualität pro Minute, nicht für Länge.
-timeFit:  ~2h Story, ~3h Extras, ~3h Completion (Community).
+timeFit: ~2h Story, ~3h Extras, ~3h Completion (Community).
 fitLabel: Für Spieler, die zwei perfekte Stunden 20 mittelmäßigen vorziehen.
 timingNote: Vergleiche 4,99 € ES mit dem historischen Tiefstpreis ~2,86 € BR.
-communityVibe: Lewis-Szene zuerst, Haus wie eine traurige Playlist—jedes Mal.
+communityVibe: Jeder Finch-Raum ändert Steuerung und bleibt hängen
 playtime: 2h Story · 3h+ Extras · ~3h Completion
 reviewSignal: 88 Metacritic
 takeaway: >-
   What Remains of Edith Finch bleibt im Sale ein leichter Kauf für Story-Fans —
   der ES-Preis ist stark, aber nicht der absolute Tracker-Tiefpunkt.
 playStyle: First-Person-Erkundung, leichte Interaktionen, episodisch wechselnde Genres.
-timeCommitment:  nennt ~2h Hauptweg und ~3h mit Extras — ideal für eine Session.
+timeCommitment: nennt ~2h Hauptweg und ~3h mit Extras — ideal für eine Session.
 playMode: Singleplayer.
 whyNow: Das Spiel ist ein fertiger Klassiker — nur der Preis deiner Region schwankt.
-currentDeal: "April 2026: Spanien ~4,99 €, dann Brasilien/Japan/USA vor EU-MSRP."
+currentDeal: "April 2026: Spanien ~4,99 €, dann Brasilien/Japan/USA vor EU-Listenpreis."
 nearHistoricalLow: Nein — Tracker-Tiefstpreis ~2,86 € (Brasilien, 14. Apr. 2025) bleibt tiefer.
-salePattern: Neun Sale-Events im Jahr; Ø Sale ~5,58 € vor Rückkehr zu ~19,99 € MSRP.
+salePattern: Neun Sale-Events im Jahr; Ø Sale ~5,58 € vor Rückkehr zu ~19,99 € Listenpreis.
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -102,8 +102,8 @@ faq:
       2026 liegt Spanien unter dem indexierten Ø-Rabattpreis.
   - question: Wie lang ist das Spiel?
     answer: >-
-      What Remains of Edith Finch dauert laut  rund 2h Story und ~3h mit
-      Extras — ideal für eine Abendsession.
+      What Remains of Edith Finch dauert laut  rund 2h Story und ~3h mit Extras
+      — ideal für eine Abendsession.
   - question: Wie läuft es auf der Switch?
     answer: >-
       What Remains of Edith Finch ist technisch leicht — Berichte beschreiben
@@ -159,17 +159,19 @@ cardPriceNativeCurrency: EUR
 ---
 ## Kurzfazit
 
-**What Remains of Edith Finch** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **88 Metacritic**.
+**What Remains of Edith Finch** entscheidet sich an einem konkreten Reiz: **Jeder Finch-Raum ändert Steuerung und bleibt hängen**. Wenn dich genau das anspricht, gilt: Kauf im Sale, wenn du ein kurzes Erzähl-Meisterwerk willst — April 2026 indexiert Spanien ~4,99 €, während der Tracker einen tieferen BR-Tiefstpreis aus 2025 kennt.; liegt dein sichtbarer Preis bei etwa €4.99, prüfe vorher deine Nintendo Switch-Region auf GameGulf.
 
 What Remains of Edith Finch bleibt im Sale ein leichter Kauf für Story-Fans — der ES-Preis ist stark, aber nicht der absolute Tracker-Tiefpunkt.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €4.99.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €4.99.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) gegen deine Region halten.
 
 ## Was kostet What Remains of Edith Finch auf Nintendo Switch aktuell?
 
 What Remains of Edith Finch bleibt im Sale ein leichter Kauf für Story-Fans — der ES-Preis ist stark, aber nicht der absolute Tracker-Tiefpunkt.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Spanien | EUR 4.99 | €4.99 |
@@ -198,17 +200,17 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - du mit **First-Person-Erkundung, leichte Interaktionen, episodisch wechselnde Genres.** grundsaetzlich gut klarkommst
 - dein Regionspreis auf GameGulf im Zielkorridor liegt
 - du zeitnah starten willst statt auf den naechsten Sale zu warten
-- dir der Umfang passt: HLTB nennt ~2h Hauptweg und ~3h mit Extras — ideal für eine Session.
+- dir der Umfang passt: Spielzeit-Richtwert: ~2h Hauptweg und ~3h mit Extras — ideal für eine Session.
 
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Trauer-Themen sind tabu — dann nicht kaufen, egal wie tief der Sale ist.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Neun Sale-Events im Jahr; Ø Sale ~5,58 € vor Rückkehr zu ~19,99 € MSRP.
+**What Remains of Edith Finch** ist am stärksten, wenn du Lust auf **Jeder Finch-Raum ändert Steuerung und bleibt hängen** hast. Für Dichte in ~2h wollen, nicht 30h RPG-Grind passt das gut; bei Trauer-Themen sind tabu — dann nicht kaufen, egal wie tief der Sale ist ist Abwarten die ehrlichere Wahl. Der Zeitbedarf liegt ungefähr bei **2h Story · 3h+ Extras · ~3h Completion**.
 
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)** und entscheide dann Buy-now vs Wait.
+Der Preis ist nur dann ein Argument, wenn deine eigene eShop-Zeile passt. April 2026: Spanien ~4,99 €, dann Brasilien/Japan/USA vor EU-Listenpreis. Nein — Tracker-Tiefstpreis ~2,86 € (Brasilien, 14. Apr. 2025) bleibt tiefer. Neun Sale-Events im Jahr; Ø Sale ~5,58 € vor Rückkehr zu ~19,99 € Listenpreis. Halte [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price) neben den Checkout, damit du nicht aus Versehen zum schwachen Fenster kaufst. Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

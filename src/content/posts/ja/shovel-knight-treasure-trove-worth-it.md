@@ -1,8 +1,6 @@
 ---
 title: "2026年、Nintendo Switchで『ショベルナイト: Treasure Trove』は買い？"
-description: >-
-  2026年4月のNintendo Switch向け購入メモ：ショベルナイト: Treasure Trove、Metacritic
-  91点台、GameGulfの価格シグナルと買う/待つ判断。
+description: "2026年4月のNintendo Switch向け購入メモ：ショベルナイト: Treasure Trove、Metacritic 91点台、GameGulfの価格シグナルと買う/待つ判断。"
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -20,18 +18,14 @@ priceTrackHref: https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price
 gameHref: https://www.gamegulf.com/detail/fppDS0HCLd8
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: Metacritic 91点台
-heroNote: >-
-  ショベルナイト: Treasure Trove — アクション / アドベンチャー / プラットフォーム、Yacht Club
-  Games。Metacritic 91点台を品質の目安に。
+heroNote: "ショベルナイト: Treasure Trove — アクション / アドベンチャー / プラットフォーム、Yacht Club Games。Metacritic 91点台を品質の目安に。"
 badge: 今が買い時
 verdict: buy_now
 priceCall: buy
 confidence: high
 actionBucket: buy_now
 featuredPriority: 2
-listingTakeaway: >-
-  ショベルナイト: Treasure Trove — アクション / アドベンチャー /
-  プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
+listingTakeaway: "ショベルナイト: Treasure Trove — アクション / アドベンチャー / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。"
 whatItIs: "アクション / アドベンチャー / プラットフォーム — Nintendo Switch版ショベルナイト: Treasure Trove。"
 bestFor: アクション / アドベンチャー / プラットフォームのテンポを携帯機で遊びたい人。
 avoidIf: アクション / アドベンチャー / プラットフォームの気分でないならセールでも無理しない。
@@ -40,12 +34,10 @@ mainFriction: 地域セールのズレ。全アカウントで同じ割引とは
 timeFit: 時間の目安：メイン約25時間／追加約36時間／コンプ約74時間
 fitLabel: 購入前に2地域以上を見比べる人。
 timingNote: 表示価格がセール帯なら迷いは好み寄り。最後に実売を確認。
-communityVibe: ホッピング攻撃、複数キャンペーン、8bitボス戦が魅力
+communityVibe: ショベルジャンプ、ライバル騎士、複数キャンペーンが強い
 playtime: メイン約25時間／追加約36時間／コンプ約74時間
 reviewSignal: Metacritic 91点台
-takeaway: >-
-  ショベルナイト: Treasure Troveはまず遊びの相性で選ぶ作品です。アクション / アドベンチャー /
-  プラットフォームの流れ、ボリューム、Metacritic 91点台が好みに合うなら候補にし、価格は買う時期の判断材料にしてください。
+takeaway: ショベルジャンプとライバル騎士たちがコレクションの魅力。価格はブラジル R$69.99を目安に、近ければ買い、高ければ待ち。
 playStyle: アクション / アドベンチャー / プラットフォーム
 timeCommitment: メイン約25時間／追加約36時間／コンプ約74時間
 playMode: ストア表記に従う。明記がなければ基本はソロ寄り。
@@ -116,80 +108,64 @@ priceRows:
 cardPriceEur: 11.67
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 2138
+cardPrice: JPY 2148
 cardPriceNative: ¥2,160
 cardPriceNativeCurrency: JPY
 faq:
   - question: "2026年、Nintendo Switchで『ショベルナイト: Treasure Trove』は買い？"
-    answer: >-
-      ショベルナイト: Treasure Trove はアクション / アドベンチャー /
-      プラットフォームが好みに合い、GameGulfの地域別価格が納得できるセール帯なら購入候補です。購入前に実売価格を確認してください。
+    answer: "ショベルナイト: Treasure Trove はアクション / アドベンチャー / プラットフォームが好みに合い、GameGulfの地域別価格が納得できるセール帯なら購入候補です。購入前に実売価格を確認してください。"
   - question: "ショベルナイト: Treasure Troveのプレイ時間は？"
     answer: "ショベルナイト: Treasure Trove の目安プレイ時間は メイン約25時間／追加約36時間／コンプ約74時間 です。"
   - question: Nintendo Switchの価格はどこで確認する？
-    answer: >-
-      ショベルナイト: Treasure Trove は GameGulf の詳細ページ
-      https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price で地域別価格を比較できます。
+    answer: "ショベルナイト: Treasure Trove は GameGulf の詳細ページ https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price で地域別価格を比較できます。"
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261711781.jpeg
 ---
-## 結論
+# クイック判定
 
-**ショベルナイト: Treasure Trove** は **Metacritic 91点台** 帯で批評面の期待とおおむね一致し、**アクション / アドベンチャー / プラットフォーム** の遊び方も eShop のカード印象に近いです。**メイン約25時間／追加約36時間／コンプ約74時間** が「どれだけ遊べる買い物か」の目安になります。
+**ショベルナイト: Treasure Trove** は、まず **ショベルジャンプ、ライバル騎士、複数キャンペーンが強い** に惹かれるかで判断したい作品です。遊びの相性が合い、GameGulfで自分の地域がセール帯なら購入候補。定価寄りしか選べないなら待つ方が安全。 購入前には **[GameGulf](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** で Nintendo Switch の地域価格を見比べてください。
 
-**セール**履歴：**最安値**は **€11.67** 付近（JP）、直近1年で **2** 回の動き、**平均セール価格**は **€13.90**、直近の大きめの動きから **33** 日（**2026-03-28 (Japan, €11.67)**，**2026**）。[GameGulfの価格](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)で最新の価格帯を確認してください。
+**最安値 / セール / 割引** の履歴は **2026** データを基準にし、具体的な地域価格は下の表で確認できます。
 
-購入前に **[GameGulf の価格一覧](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** で **セール** の筋を確認してください。
+## ショベルナイト: Treasure Trove のNintendo Switch価格はいくら？
 
-## 『ショベルナイト: Treasure Trove』はNintendo Switchでいまいくら？
+この作品は地域差が出やすいので、**GameGulf** の表で自分のアカウント地域を確認する価値があります。下の表は記事メタデータ由来のスナップショットです。
 
-**価格は地域ごとに動きが早い**です。下の表はメタデータと同じ **GameGulf** の地域別価格一覧から生成しています。[gamegulf.com](https://www.gamegulf.com) で自分のアカウント地域の表示を必ず照合し、「どこが一番安い」と決めつけないでください。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 2138 | ¥2,160 |
-| ブラジル | JPY 4547 | R$147.99 |
-| アメリカ合衆国 | JPY 6268 | $39.99 |
-| ドイツ | JPY 7327 | €39.99 |
-| スペイン | JPY 7327 | €39.99 |
-| フランス | JPY 7327 | €39.99 |
-| イタリア | JPY 7327 | €39.99 |
-| ポルトガル | JPY 7327 | €39.99 |
+| 日本 | JPY 2148 | ¥2,160 |
+| ブラジル | JPY 4569 | R$147.99 |
+| アメリカ合衆国 | JPY 6297 | $39.99 |
+| ドイツ | JPY 7361 | €39.99 |
+| スペイン | JPY 7361 | €39.99 |
+| フランス | JPY 7361 | €39.99 |
+| イタリア | JPY 7361 | €39.99 |
+| ポルトガル | JPY 7361 | €39.99 |
 
-**ショベルナイト: Treasure Trove** は **アクション / アドベンチャー / プラットフォーム** 系の Nintendo Switch 向けパッケージ（**Yacht Club Games**）です。長いストア文はマーケ前提で読み、**ジャンルの組み合わせ**と **Metacritic 91点台** を羅針盤にしてください。
+## ショベルナイト: Treasure Trove はどんなゲーム？
 
-1. **コアループ** — このカテゴリで Nintendo Switch ユーザーが期待する遊び方に近いです。
-2. **ボリューム** — **メイン約25時間／追加約36時間／コンプ約74時間** で、100時間級 RPG を誤爆買いしないように。
-3. **トーン** — トレーラーが正直なら、雰囲気もだいたいその延長です。
+**ショベルナイト: Treasure Trove** は アクション / アドベンチャー / プラットフォーム ですが、購入理由の中心は ショベルジャンプ、ライバル騎士、複数キャンペーンが強い です。Metacritic 91点台 は品質の目安になり、メイン約25時間／追加約36時間／コンプ約74時間 なら今の積みゲー状況にも合わせて判断できます。
 
-## 『ショベルナイト: Treasure Trove』のNintendo Switch動作は？
+## ショベルナイト: Treasure Trove のNintendo Switch動作は？
 
-**ショベルナイト: Treasure Trove** は Nintendo Switch で **安定した主流最適化**寄り：読み込みは許容範囲、コントローラ前提の UI、携帯でも絵が読めるラインです。
+Switch 版は、派手な性能よりも携帯時の見やすさと操作感を確認したいところです。メイン約25時間／追加約36時間／コンプ約74時間 の遊び方が自分の生活リズムに合うかも見ておきましょう。
 
-- **携帯:** UI スケールと動きの見やすさが主な差分。致命的な移植ではなく軽い妥協の想定で。
-- **ドック:** 粒子祭りでなければ、快適さの寄与が中心で劇的な画質跳ねは期待しすぎないで。
-- **操作:** 基本割当。ストアが触れない限り変なジャイロ必須ではありません。
+## 買っていい人
 
-## いま買うなら
+- **ショベルジャンプ、ライバル騎士、複数キャンペーンが強い** に素直に惹かれる
+- GameGulf の自分の地域が安い価格帯に近い
+- Metacritic 91点台 と メイン約25時間／追加約36時間／コンプ約74時間 が今遊びたい条件に合う
 
-- **アクション / アドベンチャー / プラットフォーム** のテンポが好きで、**Metacritic 91点台** の帯が自分の期待と合う
-- **GameGulf** で見た地域の価格が **セール帯**（[再確認](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price) は必須）
-- **短いセッション** を大事にしたい — **メイン約25時間／追加約36時間／コンプ約74時間**
-- **トレーラー / 体験版** でほぼ決まっていて、**価格** の一押しが欲しい
-- パッケ狩りより **ダウンロード版の手軽さ** を Nintendo Switch で取りたい
+## 待った方がいい人
 
-## 待つなら
+- 自分の地域が高止まりで、セールでしか買いたくない
+- 遊びの魅力そのものにはあまり惹かれない
+- 別機種で所有済みで、Switch版は最安付近だけ狙いたい
 
-- 自分の地域は定価寄りなのに、他地域は深い **セール** がある
-- **アクション / アドベンチャー / プラットフォーム** の組み合わせ自体が苦手で **セール** でも救わない
-- 今月の予算は **長編 RPG** に回したい
-- すでに別環境で持っていて、**最安付近** の二枚目だけ欲しい
-- **パッチ差** が気になる — 掲示板を見てから **GameGulf** に戻る
+## まとめ
 
-## 『ショベルナイト: Treasure Trove』(Nintendo Switch)の最後に
+**ショベルナイト: Treasure Trove** は、まず遊びの魅力で判断したい作品です。ショベルジャンプ、ライバル騎士、複数キャンペーンが強い に惹かれるなら、メイン約25時間／追加約36時間／コンプ約74時間 と Metacritic 91点台 は Switch 版を候補に入れる理由になります。逆にそこが刺さらないなら、安さだけで急ぐ必要はありません。
 
-**ショベルナイト: Treasure Trove** は Nintendo Switch で **レシート（価格表）と相性**の判断：**GameGulf** の **セール** が積み上がっているときは、好み + **Metacritic** の一致が誇り文句より効きます。
-
-**[GameGulf の価格](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price)** を一度だけ流し読みし、納得できるなら購入。迷うなら待って、次のセール窓でもう一度見れば十分です。
+価格は **GameGulf** で自分の地域を最後に確認してください。表の上位地域が目安。GameGulfで現地通貨も確認。 はい — 追跡データでは歴史的安値付近です。 直近1年で約 2 回のセール変動。 低価格帯に近ければ買い、まだ高いならアラート待ちが無難です。

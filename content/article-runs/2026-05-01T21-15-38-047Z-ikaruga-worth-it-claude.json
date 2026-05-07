@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "ikaruga-worth-it",
+  "url": "https://www.gamegulf.com/detail/c6bSJCmVQxa",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-ikaruga-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 57270,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":57087,\"duration_api_ms\":55968,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"ikaruga-worth-it\\\",\\\"score\\\":92,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/ikaruga-worth-it.md\\\",\\\"src/content/posts/zh-hans/ikaruga-worth-it.md\\\",\\\"src/content/posts/ja/ikaruga-worth-it.md\\\",\\\"src/content/posts/fr/ikaruga-worth-it.md\\\",\\\"src/content/posts/es/ikaruga-worth-it.md\\\",\\\"src/content/posts/de/ikaruga-worth-it.md\\\",\\\"src/content/posts/pt/ikaruga-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors on any of the 7 locale files.\\\",\\\"Score trimmed slightly because the body copy is structurally solid but still somewhat template-like in the gameplay/performance sections instead of using more Ikaruga-specific anchors from the brief such as polarity-switching, chaining, or split-screen/multiplayer context.\\\",\\\"zh-hans and ja local display names are acceptable because the storefront/brief uses Ikaruga in English; no obvious FAQ-prefix localization defect found.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/ikaruga-worth-it.md src/content/posts/zh-hans/ikaruga-worth-it.md src/content/posts/ja/ikaruga-worth-it.md src/content/posts/fr/ikaruga-worth-it.md src/content/posts/es/ikaruga-worth-it.md src/content/posts/de/ikaruga-worth-it.md src/content/posts/pt/ikaruga-worth-it.md\\\"],\\\"notes\\\":\\\"All seven locale articles already passed validation, so no revision cycle was needed. Spot checks against content/briefs/ikaruga.json confirmed explicit buy/wait guidance, concrete GameGulf pricing anchors, natural GameGulf CTAs, and acceptable zh-hans/ja naming and FAQ openings.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"321c5a33-e266-4043-8d44-7610c72b83b2\",\"total_cost_usd\":0.7032486,\"usage\":{\"input_tokens\":214926,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":1891,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":214926,\"outputTokens\":1891,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7032486,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"1d4dde8c-bd5a-4fda-b551-ffb184b6247f\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:50:29.887Z"
+}

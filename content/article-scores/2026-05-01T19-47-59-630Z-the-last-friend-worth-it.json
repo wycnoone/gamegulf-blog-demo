@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "the-last-friend-worth-it",
+  "url": "https://www.gamegulf.com/detail/2ymU0S0c9Vu",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/the-last-friend-worth-it.md",
+    "src/content/posts/zh-hans/the-last-friend-worth-it.md",
+    "src/content/posts/ja/the-last-friend-worth-it.md",
+    "src/content/posts/fr/the-last-friend-worth-it.md",
+    "src/content/posts/es/the-last-friend-worth-it.md",
+    "src/content/posts/de/the-last-friend-worth-it.md",
+    "src/content/posts/pt/the-last-friend-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T19:53:05.005Z"
+}

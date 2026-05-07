@@ -1,0 +1,56 @@
+{
+  "runId": "2026-05-01T19-37-07-441Z",
+  "startedAt": "2026-05-01T19:37:07.448Z",
+  "opts": {
+    "limit": 1,
+    "dryRun": false,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": true,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": false,
+    "delayMs": 1000,
+    "maxBudgetUsd": "2",
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 45,
+    "pending": 130
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/ns2-batch-active-urls.txt"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-37-07-441Z",
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "startedAt": "2026-05-01T19:37:07.448Z",
+      "finishedAt": "2026-05-01T19:43:30.546Z",
+      "result": {
+        "status": "blocked",
+        "score": 0,
+        "slug": "lego-ninjago-movie-video-game-worth-it",
+        "validated": false,
+        "issues": [
+          "Claude worker failed or returned non-JSON. See content/article-runs/2026-05-01T19-37-07-441Z-lego-ninjago-movie-video-game-worth-it-claude.json."
+        ],
+        "rawPath": "content/article-runs/2026-05-01T19-37-07-441Z-lego-ninjago-movie-video-game-worth-it-claude.json"
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:43:30.547Z",
+  "finalQueueSummary": {
+    "done": 45,
+    "pending": 129,
+    "blocked": 1
+  }
+}

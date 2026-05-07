@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "into-the-breach-worth-it",
+  "url": "https://www.gamegulf.com/detail/hyxZXNVNaxL",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/into-the-breach-worth-it.md",
+    "src/content/posts/zh-hans/into-the-breach-worth-it.md",
+    "src/content/posts/ja/into-the-breach-worth-it.md",
+    "src/content/posts/fr/into-the-breach-worth-it.md",
+    "src/content/posts/es/into-the-breach-worth-it.md",
+    "src/content/posts/de/into-the-breach-worth-it.md",
+    "src/content/posts/pt/into-the-breach-worth-it.md"
+  ],
+  "capturedAt": "2026-05-07T06:24:26.970Z"
+}

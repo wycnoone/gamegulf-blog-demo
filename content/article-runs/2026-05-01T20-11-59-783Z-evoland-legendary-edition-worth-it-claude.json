@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "evoland-legendary-edition-worth-it",
+  "url": "https://www.gamegulf.com/detail/6DnacuZfd9X",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-evoland-legendary-edition-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 52106,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":51930,\"duration_api_ms\":50855,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"evoland-legendary-edition-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/evoland-legendary-edition-worth-it.md\\\",\\\"src/content/posts/zh-hans/evoland-legendary-edition-worth-it.md\\\",\\\"src/content/posts/ja/evoland-legendary-edition-worth-it.md\\\",\\\"src/content/posts/fr/evoland-legendary-edition-worth-it.md\\\",\\\"src/content/posts/es/evoland-legendary-edition-worth-it.md\\\",\\\"src/content/posts/de/evoland-legendary-edition-worth-it.md\\\",\\\"src/content/posts/pt/evoland-legendary-edition-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors across all 7 locales.\\\",\\\"Spot check passed for en, zh-hans, and ja on title/gameTitle/FAQ openings and GameGulf CTA presence.\\\",\\\"Quality deductions: some copy remains template-like and over-relies on generic performance language instead of game-specific named anchors from the brief.\\\",\\\"Quality deductions: frontmatter still uses '70 Metacritic' style copy even though the brief's game.metacritic is null and the score appears to come from a derived validator-accepted source rather than a directly stated brief field.\\\",\\\"Quality deductions: zh-hans/ja local display naming is acceptable, but the localized game title remains the English product name, which is likely correct for this SKU yet still limits localization richness.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/evoland-legendary-edition-worth-it.md src/content/posts/zh-hans/evoland-legendary-edition-worth-it.md src/content/posts/ja/evoland-legendary-edition-worth-it.md src/content/posts/fr/evoland-legendary-edition-worth-it.md src/content/posts/es/evoland-legendary-edition-worth-it.md src/content/posts/de/evoland-legendary-edition-worth-it.md src/content/posts/pt/evoland-legendary-edition-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on first run, so no revisions were needed. Score reflects strong price logic and localization checks, with small deductions for generic memo depth and lightly templated sections.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"d06f084e-25d9-48ca-bd24-c4b999b0614c\",\"total_cost_usd\":0.7135146,\"usage\":{\"input_tokens\":217853,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":1990,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":217853,\"outputTokens\":1990,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7135146,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"67387752-936c-4b8d-be35-b8525712b0e9\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:12:53.127Z"
+}

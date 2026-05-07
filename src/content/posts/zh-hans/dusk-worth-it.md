@@ -34,7 +34,7 @@ mainFriction: 陀螺默认不顺手就进设置，别先骂移植。
 timeFit: 按章节推进，偏晚间体量。
 fitLabel: 会盯 GameGulf 等法区式促销的人。
 timingNote: 一年里深折次数不多——耐心常换到好价。
-communityVibe: Switch 版 60 帧 boomer 爽感拉满
+communityVibe: 兔跳、霰弹枪和邪教谷仓就是复古 FPS 爽点
 reviewSignal: Metacritic 约 88 分
 takeaway: 作品质量早写死；今天划不划算看 GameGulf 行价。
 playStyle: 动作、冒险、第一人称射击
@@ -117,13 +117,13 @@ priceRows:
 cardPriceEur: 16.66
 cardPriceRegionCode: DE
 cardPriceRegion: 德国
-cardPrice: CNY 133.27
+cardPrice: CNY 133.38
 cardPriceNative: €16.66
 cardPriceNativeCurrency: EUR
 ---
 ## 一句话结论
 
-**DUSK**在 **Metacritic 约 88 分**仍是「复古单机 FPS 标杆」之一：**三章战役**、**邪教恐怖演出**、**高速枪战**是硬卖点；**Switch** 还叠 **武器轮盘**、**陀螺**、**HD 震动** 与新 **无尽** 内容。
+**DUSK** 的吸引力集中在 **兔跳、霰弹枪和邪教谷仓就是复古 FPS 爽点**。先确认你愿意投入这种循环，再用 GameGulf 核对区服价；玩法和价格都对上再买更稳。
 
 **折扣**侧：**历史低价**约 **€5.66**（**法国**，**2026-02-23**），另有 **€6.66**（**法国**，**2025-12-22**）一档；过去一年约 **2** 次明显下探，**平均促销价**约 **€6.16**，距上次深折 **65** 天。多数 **EU** 现价仍在 **€16.66** 带——下单前打开 **[GameGulf](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** 对照。
 
@@ -136,14 +136,14 @@ cardPriceNativeCurrency: EUR
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 德国 | CNY 133.27 | €16.66 |
-| 西班牙 | CNY 133.27 | €16.66 |
-| 法国 | CNY 133.27 | €16.66 |
-| 意大利 | CNY 133.27 | €16.66 |
-| 葡萄牙 | CNY 133.27 | €16.66 |
-| 巴西 | CNY 136.79 | R$101.95 |
-| 美国 | CNY 136.79 | $19.99 |
-| 英国 | CNY 136.95 | £14.89 |
+| 德国 | CNY 133.38 | €16.66 |
+| 西班牙 | CNY 133.38 | €16.66 |
+| 法国 | CNY 133.38 | €16.66 |
+| 意大利 | CNY 133.38 | €16.66 |
+| 葡萄牙 | CNY 133.38 | €16.66 |
+| 巴西 | CNY 136.90 | R$101.95 |
+| 美国 | CNY 136.90 | $19.99 |
+| 英国 | CNY 137.06 | £14.89 |
 
 ## 《DUSK》到底是什么游戏？
 
@@ -172,8 +172,8 @@ cardPriceNativeCurrency: EUR
 - **PC** 版 Mod 离不开——**Switch** 生态不同。
 - 你讨厌 **恐怖张力** 或 **老式粗糙**——**折扣**也救不了口味。
 
-## 收尾
+## 总结
 
-**DUSK**在 **2026**：作品对口就很好拍板，**价钱**要靠 **GameGulf** 才不会冤枉钱。
+**DUSK** 的结论可以落到人群上：它更适合想念 Quake 节奏、邪教恐怖氛围的玩家。Metacritic 约 88 与口碑大体一致；关卡节奏常被夸。主要顾虑是陀螺默认不顺手就进设置，别先骂移植。时间投入大致按 **单章首通数小时级；全清更长** 估算。如果你你要现代掩体射击手感就别硬上，这篇的建议就是先别急着买。
 
-看 **[GameGulf 定价](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price)** 决定今晚买不买，**gamegulf.com** 也帮你盯下一波 **sale**。
+价格上要分两层看：现在是否划算，以及是否接近历史低价。当前便宜区服在表前几行；到账前核原生货币。否——离法区 €5.66 深折仍远。过去一年约 2 次明显下探——有促但不密。想近期玩，就在 [GameGulf 价格页](https://www.gamegulf.com/detail/2DnaPGYGeNp#currency-price) 核对本区；只想压到更低，就设提醒等下一轮促销。

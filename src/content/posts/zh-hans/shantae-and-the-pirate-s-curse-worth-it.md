@@ -10,7 +10,7 @@ gameTitle: 桑塔与海盗的诅咒
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 分钟阅读
 decision: 喜欢 WayForward 手感与明快地图的玩家很合适；但今日多区欧元牌价约 €16.22，史低窗口更深， 建议结合 GameGulf 设提醒。
@@ -36,7 +36,7 @@ mainFriction: 前期漏收集会在后期放大赶图成本。
 timeFit: 主线大约周末体量；全收集另计。
 fitLabel: 下单前先看欧元标价是否只是常规档而非促销。
 timingNote: 若你所在区罕见的低价行已出现，口味权重大于再等。
-communityVibe: 人设与配乐口碑稳；系列铁粉常把本作当手感高峰之一
+communityVibe: 海盗装备、瑞丝琪嘴炮和无变身升级让香缇更利落
 reviewSignal: Metacritic 约 86 分
 takeaway: 品质对口几乎闭眼推；钱包交给 GameGulf 的降价曲线更省心。
 playStyle: 动作、冒险、平台跳跃
@@ -90,16 +90,67 @@ heroTheme: brand
 coverImage: >-
   https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517126128213985.jpeg
 playtime: 预估：单局约5–15分钟，靠反复游玩延长
+priceRows:
+  - regionCode: DE
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: ES
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: FR
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: IT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: PT
+    eurPrice: 16.22
+    nativePrice: €16.22
+    nativeCurrency: EUR
+  - regionCode: GB
+    eurPrice: 16.77
+    nativePrice: £14.59
+    nativeCurrency: GBP
+  - regionCode: US
+    eurPrice: 17.1
+    nativePrice: $19.99
+    nativeCurrency: USD
+  - regionCode: BR
+    eurPrice: 17.61
+    nativePrice: R$104.99
+    nativeCurrency: BRL
+cardPriceEur: 16.22
+cardPriceRegionCode: DE
+cardPriceRegion: 德国
+cardPrice: CNY 129.85
+cardPriceNative: €16.22
+cardPriceNativeCurrency: EUR
 ---
 ## 快速结论
 
-**《桑塔与海盗的诅咒》**把**精灵魔法**收走，换成 **Risky** 线的**海盗四件套**：**手枪、弯刀、礼帽滑翔、炮弹跳**，用来拆开**诅咒岛屿**与**迷宫房间**；**像素动画**与**吐槽台词**仍是 **WayForward** 招牌。**Switch** 侧媒体均分落在 **~86 Metacritic**，和玩家夸的**判定点清爽**、**甩发近战干净利落**一致。**GameGulf** 近一年记录到 **三次**可追踪**降价**；**历史低价**约 **€8.11**（**西班牙**，**2025-11-17**），**促销均价 ~€10.45**，而许多**欧元区**此刻仍钉在 **~€16.22**——除非你的账号正贴着促销行，否则谈不上「贴着**史低**买」。
+**桑塔与海盗的诅咒** 的吸引力集中在 **海盗装备、瑞丝琪嘴炮和无变身升级让香缇更利落**。先确认你愿意投入这种循环，再用 GameGulf 核对区服价；玩法和价格都对上再买更稳。
 
 把 **[GameGulf 实时分区表](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** 当收银台前的第二屏：**打折**还是**目录价**，一眼能核对。
 
 ## 《桑塔与海盗的诅咒》在 Nintendo Switch 上现在卖多少钱？
 
-**数字版区服差依旧硬**：指数里**欧元区**常见 **~€16.22** 档，**美区 / 巴西**在换算列里再抬一档，**日本**在这次快照里偏贵。**下表**与 **gamegulf.com** 同源 **priceRows**；结账请看 **本币标价**。
+**数字版区服差依旧硬**：指数里**欧元区**常见 **~€16.22** 档，**美区 / 巴西**在换算列里再抬一档，**日本**在这次快照里偏贵。**下表**与 **gamegulf.com** 同源 **价格快照**；结账请看 **本币标价**。
+
+
+| 地区 | 价格（人民币折算） | 原生价格 |
+| --- | ---: | ---: |
+| 德国 | CNY 129.85 | €16.22 |
+| 西班牙 | CNY 129.85 | €16.22 |
+| 法国 | CNY 129.85 | €16.22 |
+| 意大利 | CNY 129.85 | €16.22 |
+| 葡萄牙 | CNY 129.85 | €16.22 |
+| 英国 | CNY 134.26 | £14.59 |
+| 美国 | CNY 136.90 | $19.99 |
+| 巴西 | CNY 140.98 | R$104.99 |
 
 ## 它到底是哪款游戏？
 
@@ -127,6 +178,8 @@ playtime: 预估：单局约5–15分钟，靠反复游玩延长
 - **回头补鱿鱼**让你烦躁——没有收集瘾就**慎入**。
 - 你要**大段配音剧情**——本作是**文本驱动**的轻松口吻。
 
-## 收尾
+## 总结
 
-**《桑塔与海盗的诅咒》**对口的话**品质不用二选一**；只差**价格是否礼貌**。把 **[这条 GameGulf 链接](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** 收进书签，让 **gamegulf.com** 的**降价曲线**替你挡掉冲动 **€16.22**，包括对 **2025-12-31 法国 ~€9.73** 那种**下探**的参照。
+**桑塔与海盗的诅咒** 的优点不是面面俱到，而是把地图推进、手感反馈和失败重试做成主要驱动力。你会接触到动作、冒险、平台跳跃，也会反复遇到海盗装备、瑞丝琪嘴炮和无变身升级让香缇更利落；所以它更适合喜欢高完成度像素动画与轻量卷轴探索的玩家。相反，讨厌为心形鱿鱼来回跑图、开锁式补课。时间成本大约是预估：单局约5–15分钟，靠反复游玩延长。
+
+预算判断不必绕弯：指数里最便宜的通常在欧元条带——务必对照本币；离 ~€8.11 的西班牙史低仍远；今日更像目录价带；近一年三次追踪降价；全球低位约 €8.11（ES，2025-11-17）；促销均价 ~€10.45；最近一次明显下探 约 €9.73（FR，2025-12-31）。你可以在 [GameGulf 价格页](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price) 复核实时价，再按历史低价、促销频率和本区折扣决定是否结账；还拿不准时，先在 GameGulf 对照本区现价和历史曲线，再决定现在买、等促销，还是干脆跳过。

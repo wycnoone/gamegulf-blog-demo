@@ -1,0 +1,263 @@
+{
+  "runId": "2026-05-01T19-36-06-099Z",
+  "startedAt": "2026-05-01T19:36:06.105Z",
+  "opts": {
+    "limit": 10,
+    "dryRun": false,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": true,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": true,
+    "delayMs": 1000,
+    "maxBudgetUsd": "2",
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 23,
+    "pending": 22
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/fppDS0HCLd8",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Shovel Knight Treasure Trove (MC 91)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Chained Echoes (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/iG1qRTPsPfn",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Sea of Stars (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/kKfeWM8ImWj",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Chicory: A Colorful Tale (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/kxyrmTE8vZE",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Unavowed (MC 91)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/wuV7tcmPMD",
+      "priority": "high",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: The Making of Karateka (MC 90)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: The Seven Chambers (MC 2)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: AI: THE SOMNIUM FILES (MC 86)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Novel Rogue (MC 8)"
+    },
+    {
+      "url": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from MC list: Monster Boy and the Cursed Kingdom (MC 86)"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/fppDS0HCLd8",
+      "startedAt": "2026-05-01T19:36:06.105Z",
+      "finishedAt": "2026-05-01T19:36:06.156Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "shovel-knight-treasure-trove-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/iapEa7sttwo",
+      "startedAt": "2026-05-01T19:36:07.156Z",
+      "finishedAt": "2026-05-01T19:36:07.206Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "chained-echoes-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/iG1qRTPsPfn",
+      "startedAt": "2026-05-01T19:36:08.206Z",
+      "finishedAt": "2026-05-01T19:36:08.255Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "sea-of-stars-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/kKfeWM8ImWj",
+      "startedAt": "2026-05-01T19:36:09.256Z",
+      "finishedAt": "2026-05-01T19:36:09.306Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "chicory-a-colorful-tale-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/kxyrmTE8vZE",
+      "startedAt": "2026-05-01T19:36:10.306Z",
+      "finishedAt": "2026-05-01T19:36:10.357Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "unavowed-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/wuV7tcmPMD",
+      "startedAt": "2026-05-01T19:36:11.357Z",
+      "finishedAt": "2026-05-01T19:36:11.407Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "the-making-of-karateka-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/1CCpYjfshVH",
+      "startedAt": "2026-05-01T19:36:12.407Z",
+      "finishedAt": "2026-05-01T19:36:12.457Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "the-seven-chambers-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/1GAuWdlKwtB",
+      "startedAt": "2026-05-01T19:36:13.458Z",
+      "finishedAt": "2026-05-01T19:36:13.508Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "ai-the-somnium-files-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/1PBv755th4U",
+      "startedAt": "2026-05-01T19:36:14.508Z",
+      "finishedAt": "2026-05-01T19:36:14.558Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "novel-rogue-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    },
+    {
+      "runId": "2026-05-01T19-36-06-099Z",
+      "url": "https://www.gamegulf.com/detail/1vs5joujuwt",
+      "startedAt": "2026-05-01T19:36:15.559Z",
+      "finishedAt": "2026-05-01T19:36:15.609Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "monster-boy-and-the-cursed-kingdom-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:36:16.609Z",
+  "finalQueueSummary": {
+    "done": 33,
+    "pending": 12
+  }
+}

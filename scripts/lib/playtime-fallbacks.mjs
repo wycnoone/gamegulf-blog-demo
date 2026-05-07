@@ -100,7 +100,7 @@ export function estimatePlaytimeFromBrief(brief) {
     return { kind: 'session', estimated: true, source: 'genre_estimate', sessionMin: 20, sessionMax: 60, loop: 'runs' };
   }
 
-  if (hasAny(text, [/fighting/i, /fighter/i, /party/i, /multiplayer/i, /online/i, /co-?op/i, /versus/i, /racing/i])) {
+  if (hasAny(text, [/fighting/i, /fighter/i, /party game/i, /party mode/i, /multiplayer/i, /online multiplayer/i, /co-?op(?:erative)?/i, /versus/i, /racing/i])) {
     return { kind: 'session', estimated: true, source: 'genre_estimate', sessionMin: 5, sessionMax: 15, loop: 'matches' };
   }
 

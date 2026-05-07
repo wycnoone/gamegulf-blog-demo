@@ -8,7 +8,7 @@ gameTitle: Novel Rogue
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 分
 decision: JPインデックスが€8前後なら検討可；評論アグリゲート必須派やRNG嫌いなら慎重に。
@@ -34,7 +34,7 @@ mainFriction: 評論点なし＝トレーラー頼みになる。
 timeFit: 数晩Run前提。
 fitLabel: まずストア行を読んでから決める人。
 timingNote: もう安いなら迷いは好み次第。
-communityVibe: KEMCOネタ、デッキRNG、値段ツッコミ
+communityVibe: テキスト選択とローグライトのリスクでルートが揺れる
 reviewSignal: Metacritic掲載なし（KEMCO系デッキローグ）
 takeaway: Novel Rogueは地域適合が先——GameGulfでEUR行を固定しない。
 playStyle: Role-playing, Strategy
@@ -107,7 +107,7 @@ priceRows:
 cardPriceEur: 8.32
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: JPY 1556
+cardPrice: JPY 1531
 cardPriceNative: ¥1540
 cardPriceNativeCurrency: JPY
 faq:
@@ -126,7 +126,7 @@ playtime: "目安: 1ラン約20–60分、反復で伸びる"
 ---
 ## クイック結論
 
-**Novel Rogue**は **KEMCO** 系 **デッキ肉鸽JRPG**。**Metacritic** なし前提で見る。
+**Novel Rogue** はジャンル名よりも、**テキスト選択とローグライトのリスクでルートが揺れる** で人を引き込みます。見た目の評判より、自分がこのループを遊びたいかとGameGulfの地域価格を合わせて判断してください。
 
 **セール**記録：**最安値**付近 **€5.82（日本、2026-01-14）**、過去1年で約 **2** 回の **discount** イベント、平均ディスカウント価格 **€11.46**、直近は **2026-03-17** に米で **€17.10**。現在JP **€8.32** は最深より高いがEUより安い——[GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price)。
 
@@ -134,19 +134,19 @@ playtime: "目安: 1ラン約20–60分、反復で伸びる"
 
 ## Switch版の価格は？
 
-`priceRows` と同期。
+価格スナップショット と同期。
 
 
 | 地域 | 価格（円換算） | 現地価格 |
 | --- | ---: | ---: |
-| 日本 | JPY 1556 | ¥1540 |
-| 香港 | JPY 2860 | HK$150 |
-| アメリカ合衆国 | JPY 3199 | $17.10 |
-| ドイツ | JPY 3739 | €19.99 |
-| イタリア | JPY 3739 | €19.99 |
-| ポルトガル | JPY 3739 | €19.99 |
-| ブラジル | JPY 3763 | R$119.95 |
-| イギリス | JPY 3868 | £17.99 |
+| 日本 | JPY 1531 | ¥1540 |
+| 香港 | JPY 2814 | HK$150 |
+| アメリカ合衆国 | JPY 3148 | $17.10 |
+| ドイツ | JPY 3680 | €19.99 |
+| イタリア | JPY 3680 | €19.99 |
+| ポルトガル | JPY 3680 | €19.99 |
+| ブラジル | JPY 3703 | R$119.95 |
+| イギリス | JPY 3807 | £17.99 |
 
 ## どんなゲーム？
 
@@ -164,6 +164,8 @@ playtime: "目安: 1ラン約20–60分、反復で伸びる"
 
 - 最深 €5.82 だけ狙うならタイミングは読めない
 
-## クローズ
+## まとめ
 
-**gamegulf.com** で次の **sale** を見張れる。
+**Novel Rogue** で見るべきなのは、テキスト選択とローグライトのリスクでルートが揺れるという具体的な手触りです。KEMCO粒度が好きでRNGにも耐性がある人には勧めやすく、気になる点は評論点なし＝トレーラー頼みになるです。Steamレビュー件数が少数——過信しない。**1ラン約20–60分、反復で伸びる** くらいで遊ぶつもりなら、期待値を合わせやすいです。Metacritic必須またはRNG地雷なら見送り。
+
+割引待ちの価値もあります。現在の参考安値は **€8.32**。安い行から並ぶ——ネイティブ通貨で確認。まだ最深ではない——2026-01-14 に JP で約 €5.82 の記録。過去1年で約2回の目立つセール——頻繁ではない。[GameGulfの価格一覧](https://www.gamegulf.com/detail/1PBv755th4U#currency-price) で現在地と過去の底を比べ、遊ぶ時期が近いかどうかで決めてください。

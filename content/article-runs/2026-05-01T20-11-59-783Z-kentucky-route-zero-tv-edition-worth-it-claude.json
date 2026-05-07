@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "kentucky-route-zero-tv-edition-worth-it",
+  "url": "https://www.gamegulf.com/detail/6pBtneWlLz3",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-kentucky-route-zero-tv-edition-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 50914,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":50727,\"duration_api_ms\":50025,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"kentucky-route-zero-tv-edition-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/kentucky-route-zero-tv-edition-worth-it.md\\\",\\\"src/content/posts/zh-hans/kentucky-route-zero-tv-edition-worth-it.md\\\",\\\"src/content/posts/ja/kentucky-route-zero-tv-edition-worth-it.md\\\",\\\"src/content/posts/fr/kentucky-route-zero-tv-edition-worth-it.md\\\",\\\"src/content/posts/es/kentucky-route-zero-tv-edition-worth-it.md\\\",\\\"src/content/posts/de/kentucky-route-zero-tv-edition-worth-it.md\\\",\\\"src/content/posts/pt/kentucky-route-zero-tv-edition-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero hard errors across all 7 locales.\\\",\\\"Required spot checks on brief plus en/zh-hans/ja looked acceptable overall.\\\",\\\"Copy quality is usable but still template-heavy in body sections like game-type/performance, so the set clears the threshold without needing a repair pass.\\\",\\\"zh-hans and ja keep the local title usage consistent enough for title/gameTitle/FAQ openings, though the localized display name remains the English official game name rather than a translated alias.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/kentucky-route-zero-tv-edition-worth-it.md src/content/posts/zh-hans/kentucky-route-zero-tv-edition-worth-it.md src/content/posts/ja/kentucky-route-zero-tv-edition-worth-it.md src/content/posts/fr/kentucky-route-zero-tv-edition-worth-it.md src/content/posts/es/kentucky-route-zero-tv-edition-worth-it.md src/content/posts/de/kentucky-route-zero-tv-edition-worth-it.md src/content/posts/pt/kentucky-route-zero-tv-edition-worth-it.md\\\"],\\\"notes\\\":\\\"All seven files already validated cleanly, so no revisions were needed; score reflects solid price logic and localization checks with some generic memo sections still limiting quality.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"d59407cd-ab31-4b60-a638-a5e1a877c796\",\"total_cost_usd\":0.5951249999999999,\"usage\":{\"input_tokens\":182662,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":71680,\"output_tokens\":1709,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":182662,\"outputTokens\":1709,\"cacheReadInputTokens\":71680,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.5951249999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"a22a3b73-08aa-4f30-a0c1-c85d9aa9d29d\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:28:01.258Z"
+}

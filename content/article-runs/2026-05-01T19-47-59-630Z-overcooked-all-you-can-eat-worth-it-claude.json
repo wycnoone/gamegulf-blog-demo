@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "overcooked-all-you-can-eat-worth-it",
+  "url": "https://www.gamegulf.com/detail/5eB336c9LhC",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-overcooked-all-you-can-eat-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 64547,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":64367,\"duration_api_ms\":63333,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"overcooked-all-you-can-eat-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/overcooked-all-you-can-eat-worth-it.md\\\",\\\"src/content/posts/zh-hans/overcooked-all-you-can-eat-worth-it.md\\\",\\\"src/content/posts/ja/overcooked-all-you-can-eat-worth-it.md\\\",\\\"src/content/posts/fr/overcooked-all-you-can-eat-worth-it.md\\\",\\\"src/content/posts/es/overcooked-all-you-can-eat-worth-it.md\\\",\\\"src/content/posts/de/overcooked-all-you-can-eat-worth-it.md\\\",\\\"src/content/posts/pt/overcooked-all-you-can-eat-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors.\\\",\\\"Locale naming spot checks passed for en, zh-hans, and ja: title/gameTitle/FAQ answer openings use Overcooked! All You Can Eat consistently.\\\",\\\"Decision logic is explicit and useful across the checked locales: buy if your region is already in the promo band, wait if only near-full-price regions are available.\\\",\\\"Price logic uses concrete GameGulf rows well (GB €10.33 cheapest; BR €10.81; DE/ES/FR €11.99; JP/US notably higher), but some body phrasing overstates history quality because the brief shows 0 tracked discount events and null average-sale history.\\\",\\\"Body quality is acceptable and localized, but still somewhat template-like in EN/zh-hans/ja and lighter on concrete gameplay anchors than the brief allows (for example online multiplayer, assist mode, scalable UI, 200+ levels, 80+ chefs).\\\",\\\"GameGulf CTA/link presence is strong and natural in checked locales.\\\",\\\"FAQ and TLDR are useful and localized in checked locales.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/overcooked-all-you-can-eat-worth-it.md src/content/posts/zh-hans/overcooked-all-you-can-eat-worth-it.md src/content/posts/ja/overcooked-all-you-can-eat-worth-it.md src/content/posts/fr/overcooked-all-you-can-eat-worth-it.md src/content/posts/es/overcooked-all-you-can-eat-worth-it.md src/content/posts/de/overcooked-all-you-can-eat-worth-it.md src/content/posts/pt/overcooked-all-you-can-eat-worth-it.md\\\"],\\\"notes\\\":\\\"All 7 locale files validated cleanly on the first pass. I did required spot checks against the brief for en, zh-hans, and ja; the set clears the 85 threshold, so no revision was needed.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"480624c1-6fa8-43bf-939e-5a7c1cfbdffa\",\"total_cost_usd\":0.7115537999999998,\"usage\":{\"input_tokens\":216093,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2498,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":216093,\"outputTokens\":2498,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7115537999999998,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"1a85d7a5-e087-4823-90f1-68fb35f258b7\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:08:39.936Z"
+}

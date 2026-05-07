@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "human-fall-flat-worth-it",
+  "url": "https://www.gamegulf.com/detail/kdNE66LN3XL",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/human-fall-flat-worth-it.md",
+    "src/content/posts/zh-hans/human-fall-flat-worth-it.md",
+    "src/content/posts/ja/human-fall-flat-worth-it.md",
+    "src/content/posts/fr/human-fall-flat-worth-it.md",
+    "src/content/posts/es/human-fall-flat-worth-it.md",
+    "src/content/posts/de/human-fall-flat-worth-it.md",
+    "src/content/posts/pt/human-fall-flat-worth-it.md"
+  ],
+  "capturedAt": "2026-05-07T06:45:06.405Z"
+}

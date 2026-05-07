@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "final-fantasy-vii-rebirth-worth-it",
+  "url": "https://www.gamegulf.com/detail/fN7eU5tn386",
+  "promptPath": "content/article-worker-prompts/2026-05-01T22-05-01-973Z-final-fantasy-vii-rebirth-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 57534,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":57358,\"duration_api_ms\":55990,\"num_turns\":8,\"result\":\"{\\\"status\\\":\\\"blocked\\\",\\\"slug\\\":\\\"final-fantasy-vii-rebirth-worth-it\\\",\\\"score\\\":0,\\\"revisionAttempts\\\":0,\\\"validated\\\":false,\\\"articlePaths\\\":[\\\"src/content/posts/en/final-fantasy-vii-rebirth-worth-it.md\\\",\\\"src/content/posts/zh-hans/final-fantasy-vii-rebirth-worth-it.md\\\",\\\"src/content/posts/ja/final-fantasy-vii-rebirth-worth-it.md\\\",\\\"src/content/posts/fr/final-fantasy-vii-rebirth-worth-it.md\\\",\\\"src/content/posts/es/final-fantasy-vii-rebirth-worth-it.md\\\",\\\"src/content/posts/de/final-fantasy-vii-rebirth-worth-it.md\\\",\\\"src/content/posts/pt/final-fantasy-vii-rebirth-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validation failed for all 7 locales because every expected article file was missing.\\\",\\\"The required generator command did not create any files because the brief lacked enough non-AR price rows: \\\\\\\"Not enough price rows (need 4+ non-AR). Skipping: content/briefs/final-fantasy-vii-rebirth.json\\\\\\\".\\\",\\\"The required pricing sync command then failed with ENOENT because the article files still did not exist.\\\",\\\"Glob verification confirmed no locale file named final-fantasy-vii-rebirth-worth-it.md exists under src/content/posts.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/final-fantasy-vii-rebirth-worth-it.md src/content/posts/zh-hans/final-fantasy-vii-rebirth-worth-it.md src/content/posts/ja/final-fantasy-vii-rebirth-worth-it.md src/content/posts/fr/final-fantasy-vii-rebirth-worth-it.md src/content/posts/es/final-fantasy-vii-rebirth-worth-it.md src/content/posts/de/final-fantasy-vii-rebirth-worth-it.md src/content/posts/pt/final-fantasy-vii-rebirth-worth-it.md\\\",\\\"node scripts/synthesize-worth-it-from-brief.mjs content/briefs/final-fantasy-vii-rebirth.json\\\",\\\"node scripts/sync-article-pricing.mjs src/content/posts/en/final-fantasy-vii-rebirth-worth-it.md src/content/posts/zh-hans/final-fantasy-vii-rebirth-worth-it.md src/content/posts/ja/final-fantasy-vii-rebirth-worth-it.md src/content/posts/fr/final-fantasy-vii-rebirth-worth-it.md src/content/posts/es/final-fantasy-vii-rebirth-worth-it.md src/content/posts/de/final-fantasy-vii-rebirth-worth-it.md src/content/posts/pt/final-fantasy-vii-rebirth-worth-it.md\\\"],\\\"notes\\\":\\\"Blocked before revision because the required synthesis step skipped file creation due to insufficient price-row data in the brief, leaving no article files to repair or validate.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"1407ff7e-384b-4146-a63b-12a056c1e39b\",\"total_cost_usd\":0.6192576,\"usage\":{\"input_tokens\":186144,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":2048,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":186144,\"outputTokens\":2048,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6192576,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"4fa44075-3df6-4936-a490-34dad4c447cd\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T22:58:19.439Z"
+}

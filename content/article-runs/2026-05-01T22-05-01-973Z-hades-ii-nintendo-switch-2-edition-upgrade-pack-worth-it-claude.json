@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it",
+  "url": "https://www.gamegulf.com/detail/dSYlwQit9hg",
+  "promptPath": "content/article-worker-prompts/2026-05-01T22-05-01-973Z-hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 414879,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":414693,\"duration_api_ms\":412952,\"num_turns\":15,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":1,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\",\\\"src/content/posts/zh-hans/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\",\\\"src/content/posts/ja/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\",\\\"src/content/posts/fr/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\",\\\"src/content/posts/es/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\",\\\"src/content/posts/de/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\",\\\"src/content/posts/pt/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validator run had zero hard errors.\\\",\\\"Spot checks found localized display-name quality issues: en/zh-hans/ja used raw store SKU text ('Nintendo Switch 2 Edition Upgrade Pack') in title/gameTitle/FAQ openings instead of the player-facing name 'Hades II'.\\\",\\\"Body quality is passable but still templated in places, especially performance and genre-description sections relying on generic phrasing rather than richer concrete anchors from the brief.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/zh-hans/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/ja/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/fr/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/es/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/de/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/pt/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/zh-hans/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/ja/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/fr/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/es/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/de/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md src/content/posts/pt/hades-ii-nintendo-switch-2-edition-upgrade-pack-worth-it.md\\\"],\\\"notes\\\":\\\"Validated cleanly. I made one revision pass to normalize en/zh-hans/ja local display names and FAQ openings from the raw SKU to 'Hades II'; all seven files still pass validation.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"bb669f48-0ca2-4fd1-80b5-6e6232998ff2\",\"total_cost_usd\":1.7109617999999998,\"usage\":{\"input_tokens\":453486,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":157696,\"output_tokens\":20213,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":453486,\"outputTokens\":20213,\"cacheReadInputTokens\":157696,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":1.7109617999999998,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"6bbfcdad-f811-43d8-9e9d-ce088eeda6b7\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T22:27:02.473Z"
+}

@@ -1,0 +1,57 @@
+{
+  "runId": "2026-05-01T19-44-44-803Z",
+  "startedAt": "2026-05-01T19:44:44.809Z",
+  "opts": {
+    "limit": 1,
+    "dryRun": true,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": false,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": false,
+    "delayMs": 1000,
+    "maxBudgetUsd": null,
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits",
+    "claudeMode": "repair"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 45,
+    "pending": 130
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/ns2-batch-active-urls.txt"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-44-44-803Z",
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "startedAt": "2026-05-01T19:44:44.809Z",
+      "finishedAt": "2026-05-01T19:44:44.862Z",
+      "result": {
+        "status": "skipped_exists",
+        "score": 100,
+        "slug": "lego-ninjago-movie-video-game-worth-it",
+        "validated": true,
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ],
+        "notes": "Articles already exist for this GameGulf detail URL."
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:44:45.862Z",
+  "finalQueueSummary": {
+    "done": 45,
+    "pending": 130
+  }
+}

@@ -1,9 +1,6 @@
 ---
 title: Super Mario Odyssey sur Switch en vaut-il la peine en 2026 ?
-description: >-
-  Grille GameGulf avril 2026 — Mario 3D bac à sable à 97 Metacritic, capture
-  Cappy, co-op locale, trois impressions promo suivies sur 12 mois et moyenne
-  ~€40,93 sur le maillage Switch 1.
+description: Grille GameGulf avril 2026 — Mario 3D bac à sable à 97 Metacritic, capture Cappy, co-op locale, trois impressions promo suivies sur 12 mois et moyenne ~€40,93 sur le maillage Switch 1.
 publishedAt: "2026-04-26"
 updatedAt: "2026-04-26"
 category: worth-it
@@ -13,14 +10,10 @@ primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch (modèle d'origine)
 author: GameGulf Editorial AI
 readingTime: Lecture 8 min
-decision: >-
-  Achat recommande surtout si ta region est proche de EUR 35.53 (Japon); sinon
-  mieux vaut attendre.
+decision: Achat recommande surtout si ta region est proche de EUR 35.53 (Japon); sinon mieux vaut attendre.
 priceSignal: L'ecart regional est d'environ EUR 24.46; c'est le facteur principal.
 heroStat: 97 Metacritic
-heroNote: >-
-  Mario 3D bac à sable Nintendo — lancer de Cappy, captures, lunes par royaume,
-  duo optionnel, exploration avant couloirs.
+heroNote: Mario 3D bac à sable Nintendo — lancer de Cappy, captures, lunes par royaume, duo optionnel, exploration avant couloirs.
 badge: Acheter maintenant
 verdict: buy_now
 priceCall: buy
@@ -34,31 +27,19 @@ avoidIf: Tu détestes la chasse aux lunes ou n’achètes qu’extrême sous l�
 consensusPraise: Les captures et la variété des royaumes portent le jeu.
 mainFriction: Viser toutes les lunes exige un budget temps énorme.
 timeFit: Environ 12–18 h pour l’arc lune scénario, 40 h+ en complétion.
-fitLabel: Pour ceux qui aiment fouiller, rejouer les mouvements et partager le
+fitLabel: Pour comparer envie de jouer et prix de votre région.
 timingNote: Verifie les lignes GameGulf en direct avant de payer.
-communityVibe: Mèmes Cappy, corde à sauter ND, honte du costume Luigi
+communityVibe: Cappy, lunes et New Donk rendent l’aventure généreuse
 playtime: ~12–18 h lunes scénario · 40 h+ complétion
 reviewSignal: 97 Metacritic
-takeaway: >-
-  Odyssey reste le bac à sable flagship — achète pour le fit ; l’index est déjà
-  historiquement favorable.
-playStyle: >-
-  Lancer/capture Cappy, hubs royaume, costumes, motion optionnel, duo Joy-Con,
-  défis post-game exigeants.
-timeCommitment: >-
-  Les retours joueurs parlent souvent d’une douzaine à vingt heures pour le cœur
-  des lunes, bien plus en chasse complète.
+takeaway: Odyssey reste le bac à sable flagship — achète pour le fit ; l’index est déjà historiquement favorable.
+playStyle: Lancer/capture Cappy, hubs royaume, costumes, motion optionnel, duo Joy-Con, défis post-game exigeants.
+timeCommitment: Les retours joueurs parlent souvent d’une douzaine à vingt heures pour le cœur des lunes, bien plus en chasse complète.
 playMode: Co-op locale — Mario + Cappy sur un second Joy-Con.
-whyNow: >-
-  La qualité est calée à 97 Metacritic — le prix Switch 1 se lit proche du
-  plancher historique sur ce flux.
-currentDeal: >-
-  Instantané avril 2026 : le Japon mène vers €35,53 indexés, puis Hong Kong,
-  USA, UK montent sur la grille.
+whyNow: La qualité est calée à 97 Metacritic — le prix Switch 1 se lit proche du plancher historique sur ce flux.
+currentDeal: "Instantané avril 2026 : le Japon mène vers €35,53 indexés, puis Hong Kong, USA, UK montent sur la grille."
 nearHistoricalLow: "Le bon niveau depend de la region; reference actuelle: EUR 35.53 (Japon)."
-salePattern: >-
-  Les Mario first-party ne font pas des soldes tiers permanents — ici trois
-  fenêtres suivies sur un an, moyenne ~€40,93.
+salePattern: Les Mario first-party ne font pas des soldes tiers permanents — ici trois fenêtres suivies sur un an, moyenne ~€40,93.
 priceRecommendation: buy
 quickFilters:
   - family_friendly
@@ -92,43 +73,24 @@ communityMemes:
   - Muscle memory du chapeau
   - Lune derrière la caisse évidente
   - Touristes mode assisté
-tldr: >-
-  Super Mario Odyssey vaut l'achat pres de EUR 35.53 (Japon); au-dessus,
-  attendre reste plus rationnel.
+tldr: Super Mario Odyssey vaut l'achat pres de EUR 35.53 (Japon); au-dessus, attendre reste plus rationnel.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price
 gameHref: https://www.gamegulf.com/detail/4MvMiSCTpzk
 membershipHref: https://www.gamegulf.com/pricing
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517350526415935.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517350526415935.jpeg
 heroTheme: brand
 faq:
   - question: Super Mario Odyssey vaut-il le coup sur Switch en 2026 ?
-    answer: >-
-      Super Mario Odyssey vaut le coup si tu veux un Mario 3D bac à sable avec
-      captures Cappy et duo canapé. En avril 2026, l’index Switch 1 GameGulf
-      place encore le Japon vers €35,53 — vérifie ta région sur gamegulf.com
-      avant l’achat.
+    answer: Super Mario Odyssey vaut le coup si tu veux un Mario 3D bac à sable avec captures Cappy et duo canapé. En avril 2026, l’index Switch 1 GameGulf place encore le Japon vers €35,53 — vérifie ta région sur gamegulf.com avant l’achat.
   - question: Combien de temps pour finir Super Mario Odyssey ?
-    answer: >-
-      Super Mario Odyssey tient souvent entre une douzaine et vingt heures pour
-      le fil des lunes principales, et bien plus si tu vises tout — prévois
-      large en mode complétion.
+    answer: Super Mario Odyssey tient souvent entre une douzaine et vingt heures pour le fil des lunes principales, et bien plus si tu vises tout — prévois large en mode complétion.
   - question: Comment tourne Super Mario Odyssey sur Switch ?
-    answer: >-
-      Super Mario Odyssey vise une plateforme 3D fluide sur Switch d’origine —
-      priorité stabilité first-party plutôt que démo technique, d’après les
-      retours courants.
+    answer: Super Mario Odyssey vise une plateforme 3D fluide sur Switch d’origine — priorité stabilité first-party plutôt que démo technique, d’après les retours courants.
   - question: Est-ce souvent en promo ?
-    answer: >-
-      Super Mario Odyssey affiche trois promos suivies sur douze mois ici,
-      moyenne ~€40,93 — moins agressif que du tiers, mais pas figé au plein
-      tarif.
+    answer: Super Mario Odyssey affiche trois promos suivies sur douze mois ici, moyenne ~€40,93 — moins agressif que du tiers, mais pas figé au plein tarif.
   - question: Odyssey ou un indie court d’abord ?
-    answer: >-
-      Super Mario Odyssey gagne si tu veux un flagship Nintendo avec des lunes
-      sur le long terme — si tu veux d’abord moins de dix heures, parcours
-      d’abord les guides sessions courtes sur GameGulf.
+    answer: Super Mario Odyssey gagne si tu veux un flagship Nintendo avec des lunes sur le long terme — si tu veux d’abord moins de dix heures, parcours d’abord les guides sessions courtes sur GameGulf.
 priceRows:
   - regionCode: JP
     eurPrice: 35.53
@@ -170,10 +132,9 @@ cardPriceNative: ¥7,980
 cardPriceNativeCurrency: JPY
 ---
 
-
 ## Verdict rapide
 
-**Super Mario Odyssey** vaut surtout l'achat si ton prix regional est proche de **EUR 35.53 (Japon)**; sinon mieux vaut attendre. Repere qualite: **97 Metacritic**.
+**Super Mario Odyssey** se décide d’abord sur une envie précise : **Cappy, lunes et New Donk rendent l’aventure généreuse**. Si cette promesse vous parle, Achat recommande surtout si ta region est proche de EUR 35.53 (Japon); sinon mieux vaut attendre.; si le prix visible tourne autour de ¥7,980, vérifiez quand même votre ligne Nintendo Switch (modèle d'origine) sur GameGulf avant de payer.
 
 Verifie d'abord **GameGulf**.
 
@@ -210,8 +171,9 @@ Co-op locale — Mario + Cappy sur un second Joy-Con. Les retours joueurs parlen
 - **Attendre** si ta region reste nettement au-dessus.
 - **Attendre** si ton fit est incertain.
 
-## Conclusion
+## En résumé
 
-Ordre: **fit -> prix regional -> urgence**.
 
-Dernier check sur **GameGulf** et gamegulf.com.
+**Super Mario Odyssey** vise les joueurs qui aiment sentir leur maîtrise monter manette en main. Si cappy, lunes et New Donk rendent l’aventure généreuse vous attire, l’achat a du sens; si viser toutes les lunes exige un budget temps énorme vous rebute déjà, le jeu ne changera pas de nature en promo. Comptez ~12–18 h lunes scénario · 40 h+ complétion avant de décider si le format colle à vos soirées.
+
+Côté prix, le meilleur repère du tableau reste €35.53 au Japon. Instantané avril 2026 : le Japon mène vers €35,53 indexés, puis Hong Kong, USA, UK montent sur la grille. Le bon niveau depend de la region; reference actuelle: EUR 35.53 (Japon). Les Mario first-party ne font pas des soldes tiers permanents — ici trois fenêtres suivies sur un an, moyenne ~€40,93. Consultez [GameGulf](https://www.gamegulf.com/detail/4MvMiSCTpzk#currency-price) avant paiement pour vérifier le prix actuel, le plus bas suivi et le calendrier de remise. Si votre région s’aligne sur ce niveau, acheter maintenant se défend; si elle revient au prix catalogue, laissez une alerte couvrir la prochaine fenêtre.

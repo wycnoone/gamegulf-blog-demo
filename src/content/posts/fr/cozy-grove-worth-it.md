@@ -41,7 +41,7 @@ mainFriction: Allongement quand la routine l’emporte sur la découverte narrat
 timeFit: ~40h narratives éparpillées—not rush nocturne garanti.
 fitLabel: Rituel > classement ou spectacle pur.
 timingNote: Lancez la veille GameGulf avant l’eShop.
-communityVibe: Encore une lanterne et ce soir les esprits ferment boutique
+communityVibe: Les ours fantômes installent le rituel quotidien
 playtime: ≈40h de fil directif · mois calendaires sinon
 reviewSignal: Metacritic ≈71
 takeaway: >-
@@ -166,7 +166,7 @@ cardPriceNativeCurrency: JPY
 
 ## Verdict express
 
-**Cozy Grove** conserve **~71 Metacritic cosy**, alors que **GameGulf** enregistre **~7** salves **promo** sur douze mois, une **moyenne promo** à **€5,24**, une **empreinte promo** japonaise autour **€7,99**, une ligne US encore **soldée (~33 %) vers ~€8,55**, tout en conservant une **mention de plancher** **historique** **≈€3,94** autour du **2026‑03‑25**. Ouvrez **[GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)** avant de confirmer la **promo**—**gamegulf** garde la trace chiffrée.
+Pour décider sur **Cozy Grove**, commencez par cette promesse concrète : **Les ours fantômes installent le rituel quotidien**. Achetez maintenant seulement si vous voulez y jouer tout de suite; sinon, une alerte de prix fera mieux le travail.
 
 Si votre rack EU reste **€13,99** alors que vos **soldes archives** flirtent encore **€5,24**, mieux vaut poser **[une alerte](https://www.gamegulf.com/wishlist)** plutôt qu’un clic émotionnel.
 
@@ -207,6 +207,9 @@ Routine **scout spirituelle** : faveurs spectrales quotidiennes, pêche ponctu
 - les quêtes journalières vous épuisent déjà ailleurs ;
 - vous pouvez laisser **gamegulf.com/detail/1ZWE4WIpTp5** ouvert pour la prochaine **promo**.
 
-## Dernière ligne
+## En résumé
 
-**Cozy Grove** reste un mood fort—mais la facture doit suivre **gamegulf.com/detail/1ZWE4WIpTp5** : alignez **promo**, **historique** et **gamegulf** avant d’appuyer sur Acheter.
+
+Pour **Cozy Grove**, la valeur se mesure en petites habitudes plus qu’en ligne droite vers le générique. Les ours fantômes installent le rituel quotidien conviendra aux joueurs qui aiment revenir souvent; ceux qui veulent une campagne serrée devraient attendre une grosse remise. Le volume à prévoir tourne autour de ≈40h de fil directif · mois calendaires sinon, à mesurer avec votre envie de revenir dessus.
+
+Côté prix, le meilleur repère du tableau reste €7.99 au Japon. JP suit l’indice le plus bas aujourd’hui ; US annonce ~33 % de réduction suivant brief GameGulf. La trace JP ~€3,94 (2026‑03‑25) reste plus froide que vos €7,99 usuels—donc pas niveau plancher partout. ~7 mouvements suivis sur douze mois—not moyenne ≈€5,24 quand un bandeau rouge apparaît enfin. Consultez [GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price) avant paiement pour vérifier le prix actuel, le plus bas suivi et le calendrier de remise. Achetez si votre région touche ce niveau; sinon, une alerte vaut mieux qu’un achat au catalogue.

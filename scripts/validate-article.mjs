@@ -20,7 +20,7 @@
  */
 
 import { readFileSync, existsSync, readdirSync, statSync } from 'node:fs';
-import { join, dirname } from 'node:path';
+import { join, dirname, basename } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import yaml from 'js-yaml';
 
@@ -48,6 +48,7 @@ import {
   normalizePriceRows,
   stripUtf8Bom,
 } from './article-pricing-utils.mjs';
+import { formatFrontmatterSchemaErrors } from './article-post-frontmatter-schema.mjs';
 
 const REQUIRED_FIELDS = [
   'title', 'description', 'publishedAt', 'category', 'gameTitle', 'platform',
@@ -134,6 +135,87 @@ const HERO_REVIEW_NON_METACRITIC_ALLOWLIST = [
   /^长线治愈模拟$/,
 ];
 
+const READER_FACING_FIELDS = [
+  'title',
+  'description',
+  'gameTitle',
+  'heroNote',
+  'decision',
+  'priceSignal',
+  'listingTakeaway',
+  'whatItIs',
+  'bestFor',
+  'avoidIf',
+  'consensusPraise',
+  'mainFriction',
+  'timeFit',
+  'fitLabel',
+  'timingNote',
+  'communityVibe',
+  'playtime',
+  'reviewSignal',
+  'takeaway',
+  'playStyle',
+  'timeCommitment',
+  'playMode',
+  'whyNow',
+  'currentDeal',
+  'nearHistoricalLow',
+  'salePattern',
+  'tldr',
+  'faq',
+  'playerVoices',
+  'communityMemes',
+];
+
+const EMPTY_PARENTHESES = /[（(]\s*[）)]/u;
+
+const READER_SOURCE_LEAKS = [
+  {
+    pattern: /\b(?:HLTB|HowLongToBeat)\b/i,
+    message: 'Reader-facing copy must not name HLTB/HowLongToBeat; use plain hour bands only.',
+  },
+];
+
+const BODY_INTERNAL_LEAKS = [
+  {
+    pattern: /\bpriceRows\b/i,
+    message: 'Article body must not expose internal field name `priceRows`.',
+  },
+  {
+    pattern: /\bfrontmatter\b/i,
+    message: 'Article body must not expose internal field name `frontmatter`.',
+  },
+];
+
+const LOCALIZED_TEMPLATE_LEAKS = [
+  /historical low\s*\/\s*sale\s*\/\s*discount/i,
+  /discount\s*\/\s*sale[-\s]?hinweis/i,
+  /nota de discount\s*\/\s*sale/i,
+  /signal discount\s*\/\s*sale/i,
+  /sinal de discount\s*\/\s*sale/i,
+];
+
+const GENERIC_COMMUNITY_VIBE_PATTERNS = [
+  /评价不错；价格与节奏影响取舍/u,
+  /price and pacing divide players/iu,
+  /価格とテンポで判断/u,
+  /prix et rythme divisent/iu,
+  /precio y ritmo dividen/iu,
+  /Preis und Tempo teilen/iu,
+  /preço e ritmo dividem/iu,
+];
+
+const GENERIC_TAKEAWAY_PATTERNS = [
+  /gameplay-fit call first/i,
+  /先看玩法是否对味/u,
+  /まず遊びの相性/u,
+  /se juge d’abord sur l’envie de jouer/iu,
+  /se decide primero por encaje de juego/iu,
+  /zuerst eine Frage des Spielgeschmacks/iu,
+  /é antes uma decisão de gosto/iu,
+];
+
 function validateMetacriticHeroFields(fm, errors) {
   for (const field of ['heroStat', 'reviewSignal']) {
     const value = fm[field];
@@ -153,6 +235,61 @@ function validateMetacriticHeroFields(fm, errors) {
   }
 }
 
+function collectStringLeaves(value) {
+  if (value == null) return [];
+  if (typeof value === 'string' || typeof value === 'number' || typeof value === 'boolean') {
+    return [String(value)];
+  }
+  if (Array.isArray(value)) {
+    return value.flatMap((item) => collectStringLeaves(item));
+  }
+  if (typeof value === 'object') {
+    return Object.values(value).flatMap((item) => collectStringLeaves(item));
+  }
+  return [];
+}
+
+function collectReaderFacingFrontmatterText(fm) {
+  return READER_FACING_FIELDS
+    .flatMap((field) => collectStringLeaves(fm[field]))
+    .join('\n');
+}
+
+function validateReaderFacingCopy(filePath, fm, body, errors) {
+  const locale = inferLocaleFromFilePath(filePath);
+  const frontmatterText = collectReaderFacingFrontmatterText(fm);
+  const readerText = `${frontmatterText}\n${body || ''}`;
+
+  if (EMPTY_PARENTHESES.test(readerText)) {
+    errors.push('Reader-facing copy contains empty parentheses: remove the placeholder instead of rendering “()” / “（）”.');
+  }
+
+  for (const { pattern, message } of READER_SOURCE_LEAKS) {
+    if (pattern.test(readerText)) errors.push(message);
+  }
+
+  if (body) {
+    for (const { pattern, message } of BODY_INTERNAL_LEAKS) {
+      if (pattern.test(body)) errors.push(message);
+    }
+  }
+
+  if (locale && locale !== 'en' && LOCALIZED_TEMPLATE_LEAKS.some((pattern) => pattern.test(readerText))) {
+    errors.push('Localized copy contains untranslated discount-template wording such as “historical low / sale / discount”.');
+  }
+
+  if (
+    fm.hasOtherPlatforms === true &&
+    (!Array.isArray(fm.otherPlatformLabels) || fm.otherPlatformLabels.filter(Boolean).length === 0)
+  ) {
+    errors.push('hasOtherPlatforms=true requires non-empty otherPlatformLabels; otherwise the platform guide should stay generic.');
+  }
+
+  if (typeof fm.takeaway === 'string' && GENERIC_TAKEAWAY_PATTERNS.some((pattern) => pattern.test(fm.takeaway))) {
+    errors.push('takeaway still uses the generic generated template; rewrite it with a game-specific feature + current price/timing cue.');
+  }
+}
+
 function parseFrontmatter(content) {
   const match = content.match(/^---\r?\n([\s\S]*?)\r?\n---/);
   if (!match) return { fm: null, body: content, raw: '' };
@@ -168,7 +305,99 @@ function normalizeEntityName(value = '') {
     .trim()
     .toLowerCase()
     .replace(/[™®©]/g, '')
-    .replace(/\s+/g, ' ');
+    .replace(/[《》『』「」“”"'’‘]/g, '')
+    .replace(/[（(].*?[）)]/g, '')
+    .replace(/[：:—–\-_,，、.。!！?？]/g, '')
+    .replace(/\s+/g, '');
+}
+
+function getEntityNameCandidates(value = '') {
+  const raw = String(value).trim();
+  const candidates = [raw];
+  const beforeParen = raw.split(/[（(]/)[0]?.trim();
+  if (beforeParen) candidates.push(beforeParen);
+  return [...new Set(candidates.map(normalizeEntityName).filter(Boolean))];
+}
+
+function includesGameName(text, gameTitle) {
+  const normalizedText = normalizeEntityName(text);
+  return getEntityNameCandidates(gameTitle).some((candidate) => normalizedText.includes(candidate));
+}
+
+function validateTitleContainsGameTitle(fm, warnings) {
+  if (!fm.title || !fm.gameTitle) return;
+  if (!includesGameName(fm.title, fm.gameTitle)) {
+    warnings.push('title does not include gameTitle after normalizing quote wrappers and trademark symbols; verify this is intentional.');
+  }
+}
+
+function validateCommunityVibe(fm, errors, warnings) {
+  if (!fm.communityVibe || String(fm.communityVibe).trim() === '') {
+    warnings.push('communityVibe is missing: list/decision cards use it under the Player Consensus label (translations: card.playerConsensus).');
+    return;
+  }
+  const value = String(fm.communityVibe);
+  if (GENERIC_COMMUNITY_VIBE_PATTERNS.some((pattern) => pattern.test(value))) {
+    warnings.push('communityVibe uses generic price/pacing filler; rewrite it as a gameplay/player-consensus quote.');
+  }
+}
+
+function validatePriceRowsShape(fm, errors) {
+  if (!Array.isArray(fm.priceRows)) return;
+  const seen = new Set();
+  for (let i = 0; i < fm.priceRows.length; i++) {
+    const row = fm.priceRows[i];
+    if (!row || typeof row !== 'object') {
+      errors.push(`priceRows[${i}] must be an object`);
+      continue;
+    }
+    const regionCode = String(row.regionCode || '').trim();
+    if (!regionCode) {
+      errors.push(`priceRows[${i}] missing regionCode`);
+    } else {
+      if (seen.has(regionCode)) errors.push(`priceRows contains duplicate regionCode: ${regionCode}`);
+      seen.add(regionCode);
+      if (regionCode === 'AR') errors.push('priceRows must not include AR; Argentina pricing is excluded from this pipeline');
+    }
+    if (typeof row.eurPrice !== 'number' || !Number.isFinite(row.eurPrice) || row.eurPrice < 0) {
+      errors.push(`priceRows[${i}].eurPrice must be a finite non-negative number`);
+    }
+    if (!row.nativePrice || typeof row.nativePrice !== 'string') {
+      errors.push(`priceRows[${i}].nativePrice must be a non-empty string`);
+    }
+    if (!row.nativeCurrency || typeof row.nativeCurrency !== 'string') {
+      errors.push(`priceRows[${i}].nativeCurrency must be a non-empty string`);
+    }
+  }
+}
+
+function loadEnglishSibling(filePath) {
+  const locale = inferLocaleFromFilePath(filePath);
+  if (!locale || locale === 'en') return null;
+  const slug = basename(filePath);
+  const englishPath = join(__dirname, '../src/content/posts/en', slug);
+  if (!existsSync(englishPath)) return null;
+  const { fm } = parseFrontmatter(stripUtf8Bom(readFileSync(englishPath, 'utf8')));
+  return fm || null;
+}
+
+function validateLocalizedSiblingSignals(filePath, fm, warnings) {
+  const locale = inferLocaleFromFilePath(filePath);
+  if (!locale || locale === 'en') return;
+  const english = loadEnglishSibling(filePath);
+  if (!english) return;
+  if (fm.title && english.title && normalizeEntityName(fm.title) === normalizeEntityName(english.title)) {
+    warnings.push('localized title exactly matches English sibling; verify the localized article title was not left untranslated.');
+  }
+}
+
+function validatePriceCopySignals(fm, warnings) {
+  if ((Array.isArray(fm.priceRows) || fm.cardPrice) && (!fm.currentDeal || String(fm.currentDeal).trim() === '')) {
+    warnings.push('currentDeal is missing even though priceRows/cardPrice exists; list cards may lose the concrete deal signal.');
+  }
+  if (fm.cardPriceRegionCode && (!fm.cardPriceRegion || String(fm.cardPriceRegion).trim() === '')) {
+    warnings.push('cardPriceRegionCode is set but cardPriceRegion is missing; run pricing sync to restore localized card metadata.');
+  }
 }
 
 function startsWithGameName(text, gameTitle) {
@@ -296,6 +525,59 @@ function countGameGulfInBody(body) {
   return matches ? matches.length : 0;
 }
 
+function incrementCount(map, key) {
+  map[key] = (map[key] || 0) + 1;
+}
+
+function topCounts(map, limit = 10) {
+  return Object.entries(map)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+    .slice(0, limit)
+    .map(([message, count]) => ({ message, count }));
+}
+
+function summarizeResults(results) {
+  const byLocale = {};
+  const errorCounts = {};
+  const warningCounts = {};
+  const filesWithMostIssues = results
+    .map((result) => ({
+      file: result.file,
+      status: result.status,
+      errors: result.errors.length,
+      warnings: result.warnings.length,
+      totalIssues: result.errors.length + result.warnings.length,
+    }))
+    .filter((item) => item.totalIssues > 0)
+    .sort((a, b) => b.totalIssues - a.totalIssues || b.errors - a.errors || a.file.localeCompare(b.file))
+    .slice(0, 20);
+
+  for (const result of results) {
+    const locale = inferLocaleFromFilePath(result.file) || 'unknown';
+    if (!byLocale[locale]) byLocale[locale] = { total: 0, pass: 0, fail: 0, warnings: 0 };
+    byLocale[locale].total += 1;
+    if (result.status === 'FAIL') byLocale[locale].fail += 1;
+    else if (result.status === 'PASS') byLocale[locale].pass += 1;
+    byLocale[locale].warnings += result.warnings.length;
+
+    for (const error of result.errors) incrementCount(errorCounts, error);
+    for (const warning of result.warnings) incrementCount(warningCounts, warning);
+  }
+
+  return {
+    totalFiles: results.length,
+    pass: results.filter((r) => r.status === 'PASS').length,
+    fail: results.filter((r) => r.status === 'FAIL').length,
+    error: results.filter((r) => r.status === 'ERROR').length,
+    totalErrors: results.reduce((sum, r) => sum + r.errors.length, 0),
+    totalWarnings: results.reduce((sum, r) => sum + r.warnings.length, 0),
+    byLocale,
+    topErrors: topCounts(errorCounts),
+    topWarnings: topCounts(warningCounts),
+    filesWithMostIssues,
+  };
+}
+
 async function validate(filePath, rates) {
   const errors = [];
   const warnings = [];
@@ -318,6 +600,17 @@ async function validate(filePath, rates) {
     return { file: filePath, status: 'FAIL', errors: ['No frontmatter found'], warnings: [] };
   }
 
+  const schemaError = formatFrontmatterSchemaErrors(filePath, fm);
+  if (schemaError) {
+    errors.push(schemaError);
+  }
+
+  validateTitleContainsGameTitle(fm, warnings);
+  validateCommunityVibe(fm, errors, warnings);
+  validatePriceRowsShape(fm, errors);
+  validateLocalizedSiblingSignals(filePath, fm, warnings);
+  validatePriceCopySignals(fm, warnings);
+
   // 2. Duplicate key check (basic — scan raw for repeated top-level keys)
   const keyLines = raw.split('\n').filter((l) => /^[a-zA-Z]/.test(l));
   const keyCounts = {};
@@ -337,6 +630,7 @@ async function validate(filePath, rates) {
   }
 
   validateMetacriticHeroFields(fm, errors);
+  validateReaderFacingCopy(filePath, fm, body, errors);
 
   // 4. Recommended fields
   for (const f of RECOMMENDED_FIELDS) {
@@ -473,7 +767,7 @@ async function validate(filePath, rates) {
     const gg = countGameGulfInBody(bodyClean);
     if (gg < 3) {
       errors.push(
-        `Article body must mention GameGulf at least 3 times (case-insensitive "gamegulf" count in markdown body: ${gg}; run node scripts/inject-gamegulf-body-paragraph.mjs on this file if appropriate)`,
+        `Article body must mention GameGulf at least 3 times (case-insensitive "gamegulf" count in markdown body: ${gg}; run node scripts/one-off/inject-gamegulf-body-paragraph.mjs on this file if appropriate)`,
       );
     }
   }
@@ -483,14 +777,17 @@ async function validate(filePath, rates) {
 }
 
 // --- main ---
-let files = process.argv.slice(2);
+let args = process.argv.slice(2);
+const summaryMode = args.includes('--summary');
+args = args.filter((arg) => arg !== '--summary');
+let files = args;
 if (files.length === 1 && files[0] === '--all') {
   files = collectAllPostMdFiles();
 }
 if (files.length === 0) {
   console.error(JSON.stringify({
     status: 'ERROR',
-    message: 'Usage: node scripts/validate-article.mjs <file1.md> [file2.md ...] | --all',
+    message: 'Usage: node scripts/validate-article.mjs <file1.md> [file2.md ...] | --all [--summary]',
   }));
   process.exit(2);
 }
@@ -499,5 +796,5 @@ const rates = await getEurExchangeRates();
 const results = await Promise.all(files.map((file) => validate(file, rates)));
 const hasErrors = results.some((r) => r.status === 'FAIL');
 
-console.log(JSON.stringify(results, null, 2));
-process.exit(hasErrors ? 1 : 0);
+process.stdout.write(`${JSON.stringify(summaryMode ? summarizeResults(results) : results, null, 2)}\n`);
+process.exitCode = hasErrors ? 1 : 0;

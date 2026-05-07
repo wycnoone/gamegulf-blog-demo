@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "snoopy-the-great-mystery-club-worth-it",
+  "url": "https://www.gamegulf.com/detail/ck6HFyqUzjK",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/snoopy-the-great-mystery-club-worth-it.md",
+    "src/content/posts/zh-hans/snoopy-the-great-mystery-club-worth-it.md",
+    "src/content/posts/ja/snoopy-the-great-mystery-club-worth-it.md",
+    "src/content/posts/fr/snoopy-the-great-mystery-club-worth-it.md",
+    "src/content/posts/es/snoopy-the-great-mystery-club-worth-it.md",
+    "src/content/posts/de/snoopy-the-great-mystery-club-worth-it.md",
+    "src/content/posts/pt/snoopy-the-great-mystery-club-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T21:51:40.213Z"
+}

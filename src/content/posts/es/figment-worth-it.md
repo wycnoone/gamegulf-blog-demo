@@ -13,7 +13,9 @@ readingTime: 8 min de lectura
 decision: >-
   Compra si quieres una aventura corta musical — abril 2026 indexa Japón cerca
   de promo histórica.
-priceSignal: Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € MSRP — brecha enorme.
+priceSignal: >-
+  Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € precio de lista — brecha
+  enorme.
 heroStat: 75 Metacritic
 heroNote: Bedtime Digital — Dusty, Piper, jefes cantando, pintura a mano.
 badge: Comprar ahora
@@ -28,10 +30,10 @@ bestFor: Indies cortos con banda sonora protagonista.
 avoidIf: Quieres combate Souls o 40 h RPG.
 consensusPraise: Arte, música-mundo, duetos de jefes con encanto.
 mainFriction: Combate simple — techo en exploración/puzzle.
-timeFit:  ~5/6/7 h.
+timeFit: ~5/6/7 h.
 fitLabel: Álbum conceptual jugable.
 timingNote: Si tu cuenta toca promo Japón, solo queda el gusto — revisa fila en vivo.
-communityVibe: Earworms, pesadilla cozy, Piper
+communityVibe: Canciones de jefe y pesadilla suave le dan personalidad
 playtime: 5h · 6h+ · ~7h
 reviewSignal: 75 Metacritic
 takeaway: Figment es compra fácil cuando el index toca suelo — confirma tu eShop.
@@ -39,9 +41,9 @@ playStyle: Iso brawler, puzzles, música, miedos literalizados.
 timeCommitment: ~5 h historia, 6 extras, 7 completion.
 playMode: Un jugador.
 whyNow: El precio manda — encanto mid-70s, no obra perfecta.
-currentDeal: Japón ~0,54 €, US/BR promo, UE MSRP.
+currentDeal: Japón ~0,54 €, US/BR promo, UE precio de lista.
 nearHistoricalLow: Sí — index abril 2026 alinea con postura de mínimo.
-salePattern: Promos profundas repetidas — cierra antes del MSRP.
+salePattern: Promos profundas repetidas — cierra antes del precio de lista.
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -139,17 +141,17 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredicto rapido
 
-**Figment** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **75 Metacritic**.
+**Figment** se decide por una idea concreta: **Canciones de jefe y pesadilla suave le dan personalidad**. Si eso te apetece de verdad, Compra si quieres una aventura corta musical — abril 2026 indexa Japón cerca de promo histórica.; si el precio que ves ronda ¥2,200, comprueba antes tu región de Nintendo Switch en GameGulf.
 
 Figment es compra fácil cuando el index toca suelo — confirma tu eShop.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €0.54.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €0.54.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price).
 
 ## Cuanto cuesta Figment en Nintendo Switch ahora?
 
-Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € MSRP — brecha enorme.
+Japón ~0,54 € eq. en promo fuerte; UE ~19,99 € precio de lista — brecha enorme.
 
 | Región | Precio (equivalente en EUR) | Precio nativo |
 | --- | ---: | ---: |
@@ -183,13 +185,13 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Quieres combate Souls o 40 h RPG.
 
-## Cierre
+## Resumen
 
-Primero precio, luego gusto: aqui funciona mejor ese orden. Promos profundas repetidas — cierra antes del MSRP.
+**Figment** es fácil de recomendar si buscas indies cortos con banda sonora protagonista. Tiene sentido si te apetece canciones de jefe y pesadilla suave le dan personalidad. En partida, la rutina pasa por iso brawler, puzzles, música, miedos literalizados. La advertencia es combate simple — techo en exploración/puzzle. Si quieres combate Souls o 40 h RPG, mejor esperar o mirar otra opción. Si juegas con poco margen, pon en la balanza 5h · 6h+ · ~7h.
 
-Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price)** y decide comprar o esperar.
+Para elegir el momento, compara el precio actual con sus rebajas anteriores. Japón ~0,54 €, US/BR promo, UE precio de lista. Está cerca de mínimo: index abril 2026 alinea con postura de mínimo. Promos profundas repetidas — cierra antes del precio de lista. Comprueba tu tienda en [GameGulf](https://www.gamegulf.com/detail/hZKMhNbPlWw#currency-price): compra si la cifra actual te compensa jugar ya, o pon alerta si buscas acercarte al mínimo.

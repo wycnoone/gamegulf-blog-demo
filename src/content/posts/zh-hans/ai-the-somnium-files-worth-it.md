@@ -36,7 +36,7 @@ mainFriction: Somnium 初见容易被倒计时卡住——善用存档节奏。
 timeFit: 多个晚间体量；除非攻略开路否则难一晚通关。
 fitLabel: 先看自己区服特价再看冲动的人。
 timingNote: GameGulf 若已是历史低价带，犹豫多半只剩口味。
-communityVibe: 路线顺序争论、Somnium 吐槽、剧情反转好评
+communityVibe: 梦界搜查、伊达冷笑话和案情反转才是主菜
 reviewSignal: Metacritic 约 86 分
 takeaway: 这是一部现实搜证与 Somnium 限时梦境谜题双线并进的科幻推理 ADV——值不值先看叙事与玩法对不对味，紧迫度再看你账号所在行的现价。
 playStyle: Adventure, Puzzle
@@ -109,7 +109,7 @@ priceRows:
 cardPriceEur: 1.19
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 9.52
+cardPrice: CNY 9.53
 cardPriceNative: €1.19
 cardPriceNativeCurrency: EUR
 faq:
@@ -128,7 +128,7 @@ playtime: 预估体量：主线约3–8小时，附加约8–15小时
 ---
 ## 快速结论
 
-**AI：梦境档案（AI: THE SOMNIUM FILES）**在聚合评分上约 **Metacritic 86 分**，玩法是 **现实搜证 + Somnium 梦境谜题**，带着 Spike Chunsoft 标志性的高密度配音叙事。**Steam** 侧口碑也非常正向——可与评分互相印证。
+**AI：梦境档案（AI: THE SOMNIUM FILES）** 的吸引力集中在 **梦界搜查、伊达冷笑话和案情反转才是主菜**。口味对上、GameGulf 区服价也在促销带时可以直接买；如果还贴近标价，就等下一轮。
 
 **折扣**追踪摘要：**历史低价**索引约 **€1.19（日本区）**，过去一年出现约 **5** 次显著 **打折** 窗口，滚动 **均价** 约 **€2.99**，最近一次下探在 **2026-04-21**（日本 **€1.19**，约 **94%** 降幅口径）。当前仍贴近追踪到的 **最低价**——下单前请再看 [GameGulf 实时表格](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)。
 
@@ -136,19 +136,19 @@ playtime: 预估体量：主线约3–8小时，附加约8–15小时
 
 ## 《AI：梦境档案》在 Switch 上大概多少钱？
 
-下表与 `priceRows` 同源；金额会随汇率微调。
+下表与 价格快照 同源；金额会随汇率微调。
 
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 9.52 | €1.19 |
-| 美国 | CNY 27.28 | $3.41 |
-| 英国 | CNY 33.04 | £4.13 |
-| 香港 | CNY 129.35 | HK$148 |
-| 德国 | CNY 159.91 | €19.99 |
-| 西班牙 | CNY 159.91 | €19.99 |
-| 法国 | CNY 159.91 | €19.99 |
-| 意大利 | CNY 159.91 | €19.99 |
+| 日本 | CNY 9.53 | €1.19 |
+| 美国 | CNY 27.30 | $3.41 |
+| 英国 | CNY 33.06 | £4.13 |
+| 香港 | CNY 129.45 | HK$148 |
+| 德国 | CNY 160.04 | €19.99 |
+| 西班牙 | CNY 160.04 | €19.99 |
+| 法国 | CNY 160.04 | €19.99 |
+| 意大利 | CNY 160.04 | €19.99 |
 
 ## 这到底是什么样的游戏？
 
@@ -178,8 +178,8 @@ playtime: 预估体量：主线约3–8小时，附加约8–15小时
 - 你极度厌恶倒计时玩法——再便宜也别折磨自己
 - 你已在 PC 低价入库只为 Switch 便携——只为极端价差再买
 
-## 收尾
+## 总结
 
-当 **GameGulf** 再次确认 **历史低价** 故事成立时，**AI：梦境档案**依然值得下手。
+**AI：梦境档案（AI: THE SOMNIUM FILES）** 适合先按玩法需求来判断：你是否愿意把时间花在阅读节奏、谜题信息和人物选择上。文章里的关键卖点是梦界搜查、伊达冷笑话和案情反转才是主菜，再加上Adventure, Puzzle；推荐给喜欢悬疑叙事且能接受动漫口吻与限时关卡的人。如果讨厌倒计时谜题或超长配音叙事就别硬买，就别勉强。预计投入：预估体量：主线约3–8小时，附加约8–15小时。
 
-把 **[gamegulf.com 分区页](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price)** 存好；需要盯下一轮 **sale** 也可以在 **gamegulf.com** 放提醒。
+买入时机上，先把这些数字摆在一起看：最低几行领先表格；结账前在 GameGulf 对照原生货币；已接近历史低价：€1.19 一带与追踪的全期低价对齐；过去一年约 5 次显著降价窗口，与日本店促销节奏绑定。如果本区 eShop 没有同步到合适价位，就用 [GameGulf 价格页](https://www.gamegulf.com/detail/1GAuWdlKwtB#currency-price) 继续盯历史低价、促销和折扣变化，本区价格也贴近低价行时，近期想玩就不用硬等；如果只是补库，再让 GameGulf 提醒你下一次折扣。

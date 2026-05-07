@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "super-mario-maker-2-worth-it",
+  "url": "https://www.gamegulf.com/detail/aLvG6IwbBUb",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-super-mario-maker-2-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 61459,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":61276,\"duration_api_ms\":60149,\"num_turns\":12,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"super-mario-maker-2-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/super-mario-maker-2-worth-it.md\\\",\\\"src/content/posts/zh-hans/super-mario-maker-2-worth-it.md\\\",\\\"src/content/posts/ja/super-mario-maker-2-worth-it.md\\\",\\\"src/content/posts/fr/super-mario-maker-2-worth-it.md\\\",\\\"src/content/posts/es/super-mario-maker-2-worth-it.md\\\",\\\"src/content/posts/de/super-mario-maker-2-worth-it.md\\\",\\\"src/content/posts/pt/super-mario-maker-2-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors in any locale.\\\",\\\"Spot checks passed for en, zh-hans, and ja title/gameTitle/FAQ openings.\\\",\\\"Price logic is concrete and aligned with the brief: JP €24.87 current cheapest/global low, 2 discount events in 1Y, avg sale about €30.20, last discount 2026-04-27.\\\",\\\"Quality is acceptable but not top-tier: body copy remains somewhat template-driven and generic in places, especially around gameplay/performance specifics versus the richer brief anchors like Story Mode, Course Maker, co-op building, and NSO/Course World features.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/super-mario-maker-2-worth-it.md src/content/posts/zh-hans/super-mario-maker-2-worth-it.md src/content/posts/ja/super-mario-maker-2-worth-it.md src/content/posts/fr/super-mario-maker-2-worth-it.md src/content/posts/es/super-mario-maker-2-worth-it.md src/content/posts/de/super-mario-maker-2-worth-it.md src/content/posts/pt/super-mario-maker-2-worth-it.md\\\"],\\\"notes\\\":\\\"Validator already passed cleanly, so no revision pass was needed. The set clears the 85 threshold, with strongest points in validation, pricing specificity, and locale naming spot checks; the main deduction is memo depth because some sections still read like generalized template copy rather than using more of the brief’s named feature anchors.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"7e7554d8-f30f-4496-9585-40e636dac8a5\",\"total_cost_usd\":0.6267318,\"usage\":{\"input_tokens\":188444,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2373,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":188444,\"outputTokens\":2373,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.6267318,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"97872ebd-dd51-48fe-8e37-07af58100cbe\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:37:51.942Z"
+}

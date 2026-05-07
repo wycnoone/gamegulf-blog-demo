@@ -1,0 +1,66 @@
+{
+  "runId": "2026-05-01T19-45-22-558Z",
+  "startedAt": "2026-05-01T19:45:22.564Z",
+  "opts": {
+    "limit": 1,
+    "dryRun": true,
+    "seedMc": false,
+    "seedFile": null,
+    "claude": false,
+    "scoreThreshold": 85,
+    "maxRevisions": 2,
+    "continueOnBlocked": false,
+    "delayMs": 1000,
+    "maxBudgetUsd": null,
+    "model": "sonnet",
+    "effort": "medium",
+    "permissionMode": "acceptEdits",
+    "claudeMode": "repair"
+  },
+  "seedResults": [],
+  "initialQueueSummary": {
+    "done": 45,
+    "pending": 130
+  },
+  "selected": [
+    {
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "priority": "normal",
+      "status": "pending",
+      "notes": "Auto article queue from content/ns2-batch-active-urls.txt"
+    }
+  ],
+  "results": [
+    {
+      "runId": "2026-05-01T19-45-22-558Z",
+      "url": "https://www.gamegulf.com/detail/1nZVjVdHDZ1",
+      "startedAt": "2026-05-01T19:45:22.565Z",
+      "finishedAt": "2026-05-01T19:45:23.198Z",
+      "result": {
+        "status": "dry_run",
+        "score": null,
+        "slug": "lego-ninjago-movie-video-game-worth-it",
+        "validated": false,
+        "briefPath": "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo/content/briefs/lego-ninjago-movie-video-game.json",
+        "articlePaths": [
+          "src/content/posts/en/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/zh-hans/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/ja/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/fr/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/es/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/de/lego-ninjago-movie-video-game-worth-it.md",
+          "src/content/posts/pt/lego-ninjago-movie-video-game-worth-it.md"
+        ],
+        "issues": [],
+        "commandsRun": [
+          "node scripts/check-existing.mjs <url>"
+        ]
+      }
+    }
+  ],
+  "finishedAt": "2026-05-01T19:45:24.198Z",
+  "finalQueueSummary": {
+    "done": 45,
+    "pending": 130
+  }
+}

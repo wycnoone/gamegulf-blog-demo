@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T23-02-57-661Z",
+  "slug": "death-s-door-worth-it",
+  "url": "https://www.gamegulf.com/detail/gvgXGVxaV7s",
+  "promptPath": "content/article-worker-prompts/2026-05-01T23-02-57-661Z-death-s-door-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 54397,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":54214,\"duration_api_ms\":53089,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"death-s-door-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/death-s-door-worth-it.md\\\",\\\"src/content/posts/zh-hans/death-s-door-worth-it.md\\\",\\\"src/content/posts/ja/death-s-door-worth-it.md\\\",\\\"src/content/posts/fr/death-s-door-worth-it.md\\\",\\\"src/content/posts/es/death-s-door-worth-it.md\\\",\\\"src/content/posts/de/death-s-door-worth-it.md\\\",\\\"src/content/posts/pt/death-s-door-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator returned zero hard errors across all 7 locales.\\\",\\\"EN / zh-hans / ja spot checks show explicit buy-now vs wait guidance and concrete GameGulf price anchors.\\\",\\\"Quality is solid but not top-band: body copy still leans template-like in the gameplay/performance sections and uses generic genre framing instead of more title-specific anchors from the brief.\\\",\\\"zh-hans and ja local display names are consistent with the expected local usage here, but the game title remains the English title by convention rather than a more localized alias.\\\",\\\"Price logic is concrete and supported by indexed rows/history: current cheapest JP €11.07, 6 discount events in 1Y, avg sale €7.28, global low €2.77, last discount 2026-03-17 BR €17.10.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/death-s-door-worth-it.md src/content/posts/zh-hans/death-s-door-worth-it.md src/content/posts/ja/death-s-door-worth-it.md src/content/posts/fr/death-s-door-worth-it.md src/content/posts/es/death-s-door-worth-it.md src/content/posts/de/death-s-door-worth-it.md src/content/posts/pt/death-s-door-worth-it.md\\\"],\\\"notes\\\":\\\"No repair was required. The article set already validates cleanly and clears the 85-point threshold, so I left files unchanged.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"0edd42b4-bc0f-482b-bb59-b4b684fdbfea\",\"total_cost_usd\":0.7067406,\"usage\":{\"input_tokens\":216155,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":100352,\"output_tokens\":1878,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":216155,\"outputTokens\":1878,\"cacheReadInputTokens\":100352,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7067406,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"278b5778-3d9d-4b59-864d-95a3e1d3d3ff\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T23:26:24.281Z"
+}

@@ -39,7 +39,7 @@ mainFriction: Routine frisst Neugier, wenn Story-Tropfen langsam tropfen.
 timeFit: ~40h verstreut—nicht ein Zug bis zum Ende.
 fitLabel: Ritual vor Leaderboard.
 timingNote: GameGulf checken, bevor der eShop abschließt.
-communityVibe: Noch eine Laterne, dann schlafen die Geister mit
+communityVibe: Geisterbär-Aufträge und Inselrituale werden Gewohnheit
 playtime: ~40h Handlung · Monate im Alltag
 reviewSignal: Metacritic ≈71
 takeaway: Cozy Grove bleibt Mood-Kauf—echte Währung folgt den GameGulf-Sale-Kurven.
@@ -153,7 +153,7 @@ cardPriceNativeCurrency: JPY
 
 ## Kurzurteil
 
-**Cozy Grove** bleibt **~71 Metacritic**-cozy, **GameGulf** zählt **~7** **Rabatt**-Wellen, **Sale**-Ø **~€5,24**, **JP ~€7,99**, **US ~33 % ~€8,55**, plus **historischer Tiefstpreis**-Spur **~€3,94** am **2026-03-25**. Öffne **[GameGulf](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price)** vor dem Klick—**gamegulf** liefert Zahlen, keine Moodboard-Magie.
+Bei **Cozy Grove** zählt zuerst, ob dich **Geisterbär-Aufträge und Inselrituale werden Gewohnheit** wirklich reizt. Kaufe jetzt nur, wenn du sofort loslegen willst; sonst ist ein Preisalarm die bessere Entscheidung.
 
 Bleibt dein **EU-Regal ~€13,99** während **Sale**-Mittel **~€5,24** locken, setz lieber **[Alerts](https://www.gamegulf.com/wishlist)**.
 
@@ -195,6 +195,8 @@ Halte **historischer Tiefstpreis** (JP **~€3,94**, **2026-03-25**) neben deine
 - Daily Quests dich killen—hier gibt’s Routine;
 - **[gamegulf.com/detail/1ZWE4WIpTp5](https://www.gamegulf.com/detail/1ZWE4WIpTp5)** offen sein kann.
 
-## Schluss
+## Kurz zusammengefasst
 
-**Cozy Grove** verkauft Feeling—Rechnungen prüfen via **gamegulf.com/detail/1ZWE4WIpTp5** und **gamegulf** Daten, dann kaufen.
+**Cozy Grove** passt vor allem zu Zehn Minuten vor dem Schlaf—not Wochenend-Speedrun. Der konkrete Reiz: **Geisterbär-Aufträge und Inselrituale werden Gewohnheit**. Als Gegencheck gilt: Tageslimits nerven dich schon woanders gnadenlos. Der grobe Zeitrahmen liegt bei **~40h Handlung · Monate im Alltag**.
+
+Beim Timing bleibt die GameGulf-Tabelle der praktische Filter. JP führt die günstigste Indexzeile; US folgt ~33 % laut Briefing. JP ~€3,94 (2026-03-25) wirkt kühler als ~€7,99 heute—nicht flächendeckend „historischer Tiefstpreis“. Sieben dokumentierte Rabattphasen; Ø ~€5,24 sobald Rot leuchtet. Öffne die [GameGulf-Preisübersicht](https://www.gamegulf.com/detail/1ZWE4WIpTp5#currency-price) und vergleiche Region, Tiefpunkt und Sale-Muster. Spielst du nicht sofort, ist der Preisalarm die bessere Entscheidung. 

@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "streets-of-rage-4-worth-it",
+  "url": "https://www.gamegulf.com/detail/jdeP21BUeOV",
+  "promptPath": "content/article-worker-prompts/2026-05-07T06-15-21-802Z-streets-of-rage-4-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 92718,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":92532,\"duration_api_ms\":90567,\"num_turns\":34,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"streets-of-rage-4-worth-it\\\",\\\"score\\\":91,\\\"revisionAttempts\\\":1,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/streets-of-rage-4-worth-it.md\\\",\\\"src/content/posts/zh-hans/streets-of-rage-4-worth-it.md\\\",\\\"src/content/posts/ja/streets-of-rage-4-worth-it.md\\\",\\\"src/content/posts/fr/streets-of-rage-4-worth-it.md\\\",\\\"src/content/posts/es/streets-of-rage-4-worth-it.md\\\",\\\"src/content/posts/de/streets-of-rage-4-worth-it.md\\\",\\\"src/content/posts/pt/streets-of-rage-4-worth-it.md\\\"],\\\"issues\\\":[\\\"Initial validator had zero hard errors.\\\",\\\"Spot-check found zh-hans and ja display names were still English and body copy was too generic for the article-depth standard; repaired those locales.\\\",\\\"Remaining locales pass validation; en spot-check is acceptable but not deeply rewritten.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/streets-of-rage-4-worth-it.md src/content/posts/zh-hans/streets-of-rage-4-worth-it.md src/content/posts/ja/streets-of-rage-4-worth-it.md src/content/posts/fr/streets-of-rage-4-worth-it.md src/content/posts/es/streets-of-rage-4-worth-it.md src/content/posts/de/streets-of-rage-4-worth-it.md src/content/posts/pt/streets-of-rage-4-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/streets-of-rage-4-worth-it.md src/content/posts/zh-hans/streets-of-rage-4-worth-it.md src/content/posts/ja/streets-of-rage-4-worth-it.md src/content/posts/fr/streets-of-rage-4-worth-it.md src/content/posts/es/streets-of-rage-4-worth-it.md src/content/posts/de/streets-of-rage-4-worth-it.md src/content/posts/pt/streets-of-rage-4-worth-it.md\\\"],\\\"notes\\\":\\\"All seven localized Streets of Rage 4 articles validate with zero errors. Updated zh-hans to use 《怒之铁拳4》 and ja to use 『ベア・ナックルIV』, with more concrete anchors for co-op, characters, stages, loop, and Switch fit.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"c0d13408-a6ff-4967-883c-00733ad52c70\",\"total_cost_usd\":2.039349,\"usage\":{\"input_tokens\":629129,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":215040,\"output_tokens\":5830,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":629129,\"outputTokens\":5830,\"cacheReadInputTokens\":215040,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":2.039349,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"8dbf2e2c-00e7-456b-b257-633a52828065\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-07T06:39:29.566Z"
+}

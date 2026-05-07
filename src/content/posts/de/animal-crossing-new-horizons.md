@@ -37,10 +37,10 @@ bestFor: Spieler mit sanften Routinen und langen Dekoprojekten.
 avoidIf: Harte Ziele, Kampf oder schnelle Story sind Pflicht.
 consensusPraise: Dekofreiheit, saisonaler Rhythmus, Nachbarn-Charme.
 mainFriction: Spätspiel selbstgesteuert — langweilig, wenn du ständige Quests willst.
-timeFit:  ~61 h Haupt, ~152 h Extra, ~413 h Completionist (Community).
+timeFit: ~61 h Haupt, ~152 h Extra, ~413 h Completionist (Community).
 fitLabel: Kreative, die die Insel als Langzeitprojekt sehen.
 timingNote: Passt deine Zeile zum japanischen Tiefcluster, ist Wunder-Sale selten.
-communityVibe: Rüben-Ökonomie trifft wholesome Landschaft
+communityVibe: Inselbau, Nachbarn und Rübenstress werden Alltag
 playtime: ~61 h Haupt · 152 h+ Extra · ~413 h Completionist
 reviewSignal: Long-tail cozy sim
 takeaway: >-
@@ -49,9 +49,7 @@ takeaway: >-
 playStyle: >-
   Echtzeituhr, Meilen, DIY-Rezepte, Terraforming, Multiplayer-Besuche, Designs
   teilen.
-timeCommitment: >-
-  von einigen Dutzend Stunden für eine Inselvision bis zu hunderten fürs
-  Museum.
+timeCommitment: von einigen Dutzend Stunden für eine Inselvision bis zu hunderten fürs Museum.
 playMode: Solo-Insel + lokale/Online-Besuche; offline auf der eigenen Insel spielbar.
 whyNow: >-
   Frühling 2026 — indexierte Preise nah am beobachteten Tief; nicht grundlos
@@ -172,16 +170,18 @@ cardPriceNativeCurrency: JPY
 ---
 ## Kurzfazit
 
-**Animal Crossing: New Horizons** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **Long-tail cozy sim**.
+Bei **Animal Crossing: New Horizons** zählt zuerst, ob dich **Inselbau, Nachbarn und Rübenstress werden Alltag** wirklich reizt. Wenn dich dieses Spielbild trifft und deine GameGulf-Region schon im Rabatt liegt, ist Kaufen gut vertretbar; bei Vollpreis musst du nicht hetzen.
 
 Animal Crossing: New Horizons passt, wenn der Index nah am erfassten Tief liegt — prüfe zuerst, ob dir die cozy-Schleife zusagt.
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €35.76.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €35.76.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price) gegen deine Region halten.
 
 ## Was kostet Animal Crossing: New Horizons auf Nintendo Switch aktuell?
 
 Animal Crossing: New Horizons passt, wenn der Index nah am erfassten Tief liegt — prüfe zuerst, ob dir die cozy-Schleife zusagt.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 35.76 | ¥6,578 |
@@ -213,13 +213,13 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Solo-Insel + lokale/Online-Besuche; offline auf der eigenen Insel spielbar.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Harte Ziele, Kampf oder schnelle Story sind Pflicht.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. Wenige klare Sale-Events im Fenster; Tiefs kleben am Japan-Anker.
+**Animal Crossing: New Horizons** hat seinen Wert dort, wo Spieler mit sanften Routinen und langen Dekoprojekten genau dieses Erlebnis suchen. Praktisch heißt das: **Inselbau, Nachbarn und Rübenstress werden Alltag**. Akzeptieren musst du dabei Spätspiel selbstgesteuert — langweilig, wenn du ständige Quests willst. Rechne grob mit **~61 h Haupt · 152 h+ Extra · ~413 h Completionist**.
 
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price)** und entscheide dann Buy-now vs Wait.
+Beim Timing bleibt die GameGulf-Tabelle der praktische Filter. Index startet Japan ~€35,76, Hongkong darüber, dann USA / UK / Brasilien vor ~€59,99-Euro-Shops (Snapshot April 2026). Ja — nah am jüngsten Tief; 8. März 2026 Japan ~€35,76 deckt sich mit dem aktuellen Cluster. Wenige klare Sale-Events im Fenster; Tiefs kleben am Japan-Anker. Öffne die [GameGulf-Preisübersicht](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price) und vergleiche Region, Tiefpunkt und Sale-Muster. Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

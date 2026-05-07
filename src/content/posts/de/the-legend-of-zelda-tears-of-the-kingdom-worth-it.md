@@ -40,9 +40,9 @@ mainFriction: ~30 fps mit Einbrüchen; Größe kann ohne klare Ziele überforder
 timeFit: ~59h Story, 117h+ Extras, ~248h Completion (-Durchschnitt).
 fitLabel: System-Spieler mit Zeit für wochenlange Solo-Trips.
 timingNote: >-
-  Kein Sale-Taktplan — Japan-Preis ist realistischer Tiefpreis-Anker; bei MSRP
-  Alert setzen.
-communityVibe: Ultrahand-Clips, Schrein-Skips, Tiefen-Routen bleiben aktiv.
+  Kein Sale-Taktplan — Japan-Preis ist realistischer Tiefpreis-Anker; bei
+  Listenpreis Alert setzen.
+communityVibe: Ultrahand-Unsinn und Himmel-Tiefen-Umwege schreiben Geschichten
 playtime: 59h Story · 117h+ Extras · ~248h Completion
 reviewSignal: 96 Metacritic
 takeaway: >-
@@ -108,11 +108,12 @@ faq:
       The Legend of Zelda: Tears of the Kingdom lohnt sich 2026, wenn du offene
       Welten, Physik-Basteln und lange Solo-Kampagnen magst. Stand April 2026
       starten indexierte Digitalpreise bei ~€42,95-Äquivalent (Japan) gegenüber
-      höherem US-MSRP — prüfe dein Konto im GameGulf-Live-Grid vor dem Kauf.
+      höherem US-Listenpreis — prüfe dein Konto im GameGulf-Live-Grid vor dem
+      Kauf.
   - question: Wie lang dauert das Spiel?
     answer: >-
-      The Legend of Zelda: Tears of the Kingdom dauert laut  ~59h
-      Hauptstory, ~117h mit viel Extra, ~248h für Vollständige.
+      The Legend of Zelda: Tears of the Kingdom dauert laut  ~59h Hauptstory,
+      ~117h mit viel Extra, ~248h für Vollständige.
   - question: Wie läuft es auf der Switch?
     answer: >-
       The Legend of Zelda: Tears of the Kingdom zielt wie Breath auf ~30 fps mit
@@ -154,17 +155,19 @@ cardPriceNativeCurrency: JPY
 ---
 ## Kurzfazit
 
-**The Legend of Zelda: Tears of the Kingdom** auf **Nintendo Switch** ist vor allem eine Fit-und-Preis-Entscheidung. Kritiker-Anker: **96 Metacritic**.
+Bei **The Legend of Zelda: Tears of the Kingdom** zählt zuerst, ob dich **Ultrahand-Unsinn und Himmel-Tiefen-Umwege schreiben Geschichten** wirklich reizt. Wenn dich dieses Spielbild trifft und deine GameGulf-Region schon im Rabatt liegt, ist Kaufen gut vertretbar; bei Vollpreis musst du nicht hetzen.
 
 Bleibt ein Top-Grund für die Switch — kaufen wenn dein Preis passt, sonst Sale tracken.
 
-Discount/Sale-Hinweis: 2026 zeigt weiter ein nutzbares historical low Fenster um €42.95.
+Rabatt-Hinweis: 2026 zeigt weiter ein nutzbares Tiefpreisfenster um €42.95.
 
 Vor dem Checkout einmal [GameGulf-Livepreise](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price) gegen deine Region halten.
 
 ## Was kostet The Legend of Zelda: Tears of the Kingdom auf Nintendo Switch aktuell?
 
 Bleibt ein Top-Grund für die Switch — kaufen wenn dein Preis passt, sonst Sale tracken.
+
+
 | Region | Preis (in EUR umgerechnet) | Originalpreis |
 | --- | ---: | ---: |
 | Japan | EUR 42.95 | ¥7,900 |
@@ -192,12 +195,13 @@ In der Regel stabil spielbar; final immer mit aktuellem Build und Store-Hinweise
 - dir der Umfang passt: Singleplayer.
 ## Warten, wenn
 
-- dein Store noch nahe MSRP liegt, andere Regionen aber deutlich guenstiger sind
+- dein Store noch nahe Listenpreis liegt, andere Regionen aber deutlich guenstiger sind
 - dein Genre-Fit unsicher ist
 - Budget derzeit fuer andere Titel reserviert ist
 - Kurze lineare Kampagne oder offene To-dos nerven — dann eher nicht.
 
-## Abschluss
+## Kurz zusammengefasst
 
-Preis zuerst, dann Geschmack: Das ist hier die robusteste Reihenfolge. kaufen wenn dein Preis passt, sonst Sale tracken.
-Checke zum Schluss **[GameGulf](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price)** und entscheide dann Buy-now vs Wait.
+**The Legend of Zelda: Tears of the Kingdom** lohnt sich für Entdecker mit 50–250h für Schreine, Basteln und freie Ziele, sofern dich **Ultrahand-Unsinn und Himmel-Tiefen-Umwege schreiben Geschichten** trägt. Die Stärke liegt bei Schrein-Logik, Ultrahand-Spielerei, dreischichtige Karte belohnen Neugier. Der wichtigste Haken: ~30 fps mit Einbrüchen; Größe kann ohne klare Ziele überfordern. Mit **59h Story · 117h+ Extras · ~248h Completion** ist der Umfang vor dem Kauf Teil der Entscheidung.
+
+Der Preis ist nur dann ein Argument, wenn deine eigene eShop-Zeile passt. Japan eShop ~€42,95 (¥7.900); USA ~€60,75 ($79,99); keine aktiven Rabatte in den getrackten Regionen. Aktuell reguläre Preisstufen — Japan bleibt globaler Tiefpreis-Anker im Index, kein Glitch. Zelda first-party in Nintendo-Sales, Tiefe variiert; im Index 0 Rabatt-Events letztes Jahr. Halte [GameGulf](https://www.gamegulf.com/detail/h14iXKeQ0PR#currency-price) neben den Checkout, damit du nicht aus Versehen zum schwachen Fenster kaufst. Trifft deine Region den genannten Bereich und du willst bald starten, spricht preislich wenig gegen den Kauf. 

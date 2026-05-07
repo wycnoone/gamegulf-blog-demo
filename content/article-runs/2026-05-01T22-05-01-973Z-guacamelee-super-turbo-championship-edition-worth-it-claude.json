@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "guacamelee-super-turbo-championship-edition-worth-it",
+  "url": "https://www.gamegulf.com/detail/dlIcfrZFCUi",
+  "promptPath": "content/article-worker-prompts/2026-05-01T22-05-01-973Z-guacamelee-super-turbo-championship-edition-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 57361,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":57172,\"duration_api_ms\":56039,\"num_turns\":12,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"guacamelee-super-turbo-championship-edition-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/guacamelee-super-turbo-championship-edition-worth-it.md\\\",\\\"src/content/posts/zh-hans/guacamelee-super-turbo-championship-edition-worth-it.md\\\",\\\"src/content/posts/ja/guacamelee-super-turbo-championship-edition-worth-it.md\\\",\\\"src/content/posts/fr/guacamelee-super-turbo-championship-edition-worth-it.md\\\",\\\"src/content/posts/es/guacamelee-super-turbo-championship-edition-worth-it.md\\\",\\\"src/content/posts/de/guacamelee-super-turbo-championship-edition-worth-it.md\\\",\\\"src/content/posts/pt/guacamelee-super-turbo-championship-edition-worth-it.md\\\"],\\\"issues\\\":[\\\"No validator errors across all 7 locales.\\\",\\\"Quality is passable but not ideal: the body copy stays generic in places, especially the gameplay/performance sections, and underuses concrete anchors from the brief such as world-swapping, combat-as-movement, and 4-player local co-op.\\\",\\\"zh-hans and ja local naming/prefix checks look acceptable, but both locales still keep the English game title rather than a clearly localized player-facing title; this is acceptable for this SKU but not especially strong localization.\\\",\\\"Price logic is explicit and grounded in GameGulf rows/history, with clear region spread and sale timing.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/guacamelee-super-turbo-championship-edition-worth-it.md src/content/posts/zh-hans/guacamelee-super-turbo-championship-edition-worth-it.md src/content/posts/ja/guacamelee-super-turbo-championship-edition-worth-it.md src/content/posts/fr/guacamelee-super-turbo-championship-edition-worth-it.md src/content/posts/es/guacamelee-super-turbo-championship-edition-worth-it.md src/content/posts/de/guacamelee-super-turbo-championship-edition-worth-it.md src/content/posts/pt/guacamelee-super-turbo-championship-edition-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on the first attempt, so no revisions were needed. Score reflects strong price/decision clarity and clean validation, with some deduction for generic research-memo depth in EN/zh-hans/ja spot checks.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"3308b050-2c1c-4529-8a51-b8a58ee09503\",\"total_cost_usd\":0.578091,\"usage\":{\"input_tokens\":175524,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":71680,\"output_tokens\":2001,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":175524,\"outputTokens\":2001,\"cacheReadInputTokens\":71680,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.578091,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"bbed74d6-8ec8-44ad-bb91-4e4ba84a3c7f\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T22:11:29.241Z"
+}

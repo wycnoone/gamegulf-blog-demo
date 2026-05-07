@@ -1,8 +1,8 @@
 ---
 title: Super Mario Bros. Wonder vale a pena no Nintendo Switch em 2026?
 description: >-
-  Abril de 2026 — índice, promoções first-party raras, , coop e distintivos
-  — o preço de lista ainda faz sentido?
+  Abril de 2026 — índice, promoções first-party raras, , coop e distintivos — o
+  preço de lista ainda faz sentido?
 publishedAt: "2026-04-07"
 updatedAt: "2026-04-07"
 category: worth-it
@@ -33,10 +33,10 @@ bestFor: Famílias com níveis curtos e coop.
 avoidIf: Evita se só compras em mínimos históricos profundos ou odeias 2D Mario.
 consensusPraise: Set-pieces Wonder fortes, níveis claros, coop acessível.
 mainFriction: Menos horas que JRPG ao mesmo preço — valor é densidade e replay.
-timeFit:  ~10 h história, ~14 h extras, ~20 h completion.
+timeFit: ~10 h história, ~14 h extras, ~20 h completion.
 fitLabel: Sessões curtas, coop no sofá e polimento Nintendo.
 timingNote: Usa a âncora Japão como referência — histórico de grandes saldos é raro aqui.
-communityVibe: Memes Wonder Flower, Mario elefante, standees de resgate
+communityVibe: Flores maravilha, insígnias e elefante renovam Mario 2D
 playtime: 10h main · 14h+ extras · ~20h completionist
 reviewSignal: 92 Metacritic
 takeaway: >-
@@ -45,7 +45,7 @@ takeaway: >-
 playStyle: >-
   Set-pieces Wonder, builds de distintivos, modos Yoshi/Nabbit, coop quatro
   jogadores local, silhuetas e standees online, fluxo do Reino das Flores.
-timeCommitment:  ~10 h rota principal, ~14 h com extras, ~20 h completion.
+timeCommitment: ~10 h rota principal, ~14 h com extras, ~20 h completion.
 playMode: Até quatro em local; ajudas online e corridas.
 whyNow: >-
   Qualidade travada em 92 Metacritic — a dúvida é aceitar as bandas de lista
@@ -141,11 +141,11 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Super Mario Bros. Wonder** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **92 Metacritic**.
+**Super Mario Bros. Wonder** vale pela vontade concreta de jogar **Flores maravilha, insígnias e elefante renovam Mario 2D**. Se isso combina com você, Compra ao preço de lista se queres 2D Mario polido com efeitos Wonder e coop no sofá — first-party raramente desaba muito aqui. Pula se só perseguires mínimos históricos ou odiares 2D Mario.; se o preço visto fica perto de ¥6,500, confira antes sua região de Nintendo Switch no GameGulf.
 
 Wonder é o referencial 2D Mario moderno — paga lista se o formato encaixa; alerta só se recusas preços first-party.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €35.34.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €35.34.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price).
 
@@ -181,12 +181,13 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: 10h main · 14h+ extras · ~20h completionist
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evita se só compras em mínimos históricos profundos ou odeias 2D Mario.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. paga lista se o formato encaixa; alerta só se recusas preços first-party.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price)** e decide compra vs espera.
+Pense em **Super Mario Bros. Wonder** como uma compra de perfil: o atrativo está em **Flores maravilha, insígnias e elefante renovam Mario 2D**, não em preencher backlog por impulso. O pacote entrega **set-pieces Wonder, distintivos, modos Yoshi/Nabbit, coop local para quatro, silhuetas online, standees e o Reino das Flores**. É uma boa aposta para famílias com níveis curtos e coop; perde força se menos horas que JRPG ao mesmo preço — valor é densidade e replay. O tempo estimado é **10h principal · 14h+ extras · ~20h 100%**, então vale pensar se esse espaço cabe na sua rotina.
+
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/byr07mi5hyW#currency-price): o menor preço atual indexado aparece perto de **EUR 35.34** em **Japão**; o mínimo histórico citado fica em **€35**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

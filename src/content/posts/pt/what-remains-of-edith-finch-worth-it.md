@@ -37,10 +37,10 @@ bestFor: Quem quer densidade em ~2h, não RPG de 30h.
 avoidIf: Evite se luto e morte forem gatilhos hoje — mesmo com desconto.
 consensusPraise: Roteiro, variedade de cenas e storytelling ambiental — elite indie.
 mainFriction: É breve — você paga por qualidade por minuto, não por horas.
-timeFit:  ~2h história, ~3h extras, ~3h completista (agregados).
+timeFit: ~2h história, ~3h extras, ~3h completista (agregados).
 fitLabel: Para quem prefere duas horas perfeitas a vinte medianas.
 timingNote: Compare €4,99 ES com o piso histórico ~€2,86 BR antes de esperar.
-communityVibe: Clipe do Lewis primeiro; a casa é uma playlist triste—sempre.
+communityVibe: Cada quarto Finch muda controles e fica na cabeça
 playtime: 2h história · 3h+ extras · ~3h completista
 reviewSignal: 88 Metacritic
 takeaway: >-
@@ -49,14 +49,18 @@ takeaway: >-
 playStyle: >-
   Exploração em primeira pessoa, interações leves, capítulos que mudam de
   gênero.
-timeCommitment:  sugere ~2h na história e ~3h com extras — ideal numa sessão.
+timeCommitment: sugere ~2h na história e ~3h com extras — ideal numa sessão.
 playMode: Um jogador.
 whyNow: O jogo já é clássico — só muda o preço da sua loja.
-currentDeal: "Abril 2026: Espanha ~€4,99, depois Brasil/Japão/EUA antes do MSRP europeu."
+currentDeal: >-
+  Abril 2026: Espanha ~€4,99, depois Brasil/Japão/EUA antes do preço cheio
+  europeu.
 nearHistoricalLow: >-
   Não — o tracker ainda mostra ~€2,86 (Brasil, 14 abr. 2025) como referência
   mais baixa.
-salePattern: Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao MSRP.
+salePattern: >-
+  Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao preço
+  cheio.
 priceRecommendation: buy
 quickFilters:
   - short_sessions
@@ -164,11 +168,11 @@ cardPriceNativeCurrency: EUR
 ---
 ## Veredito rapido
 
-**What Remains of Edith Finch** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **88 Metacritic**.
+**What Remains of Edith Finch** vale pela vontade concreta de jogar **Cada quarto Finch muda controles e fica na cabeça**. Se isso combina com você, Compre em promoção se quiser uma obra narrativa curta — abril 2026 indexa Espanha ~€4,99 com desconto forte enquanto o histórico global ainda mostra Brasil mais barato em 2025.; se o preço visto fica perto de €4.99, confira antes sua região de Nintendo Switch no GameGulf.
 
 What Remains of Edith Finch continua compra fácil em oferta para fãs de história — a promo ES é forte mas não é o piso absoluto do tracker.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €4.99.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €4.99.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price).
 
@@ -205,17 +209,17 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - voce curte **Quem quer densidade em ~2h, não RPG de 30h.**
 - teu preco regional no GameGulf ja entrou na faixa-alvo
 - voce quer jogar ja, sem esperar outra janela de desconto
-- o ritmo te atende: HLTB sugere ~2h na história e ~3h com extras — ideal numa sessão.
+- o ritmo te atende: Duração estimada: sugere ~2h na história e ~3h com extras — ideal numa sessão.
 
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evite se luto e morte forem gatilhos hoje — mesmo com desconto.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Nove quedas no ano; preço médio em desconto ~€5,58 antes de voltar ao MSRP.
+**What Remains of Edith Finch** funciona melhor para quem olha para **Cada quarto Finch muda controles e fica na cabeça** e já imagina sessões reais, curtas ou longas, no portátil. O conteúdo se apoia em **Exploração em primeira pessoa, interações leves, capítulos que mudam de gênero**. É uma boa aposta para quem quer densidade em ~2h, não RPG de 30h; perde força se é breve — você paga por qualidade por minuto, não por horas. O sinal **88 Metacritic** ajuda a calibrar expectativa, mas a decisão continua sendo de encaixe com o estilo. O tempo estimado é **2h história · 3h+ extras · ~3h completista**, então vale pensar se esse espaço cabe na sua rotina.
 
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price)** e decide compra vs espera.
+A conta fecha melhor depois de comparar regiões no [GameGulf](https://www.gamegulf.com/detail/FMn7HJlmf8#currency-price): o menor preço atual indexado aparece perto de **EUR 4.99** em **Espanha**; o mínimo histórico citado fica em **€4**. Se o preço local não encostar no baixo atual ou no histórico, o caminho prudente é colocar alerta e aguardar promoção.

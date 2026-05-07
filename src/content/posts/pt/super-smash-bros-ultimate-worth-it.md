@@ -40,7 +40,7 @@ mainFriction: Online competitivo pode frustrar sem treino e boa ligação.
 timeFit: Partidas curtas ou maratona; o valor sobe com repetição local.
 fitLabel: Ideal se “mais uma” virou ritual social.
 timingNote: Esperar costuma ser por orçamento — o índice já está baixo no tracker.
-communityVibe: Última vida, revanche na hora, noites que não acabam.
+communityVibe: Debate de elenco, culpa nos itens e último stock não envelhecem
 playtime: ~25 h aventura; versus/local/online sem teto fixo.
 reviewSignal: 93 Metacritic
 takeaway: >-
@@ -155,11 +155,11 @@ cardPriceNativeCurrency: HKD
 ---
 ## Veredito rapido
 
-**Super Smash Bros. Ultimate** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **93 Metacritic**.
+**Super Smash Bros. Ultimate** vale pela vontade concreta de jogar **Debate de elenco, culpa nos itens e último stock não envelhecem**. Se isso combina com você, Vale comprar se queres o fighter crossover da Nintendo e multi local que não envelhece. O índice atual está perto do patamar baixo rastreado.; se o preço visto fica perto de HK$329, confira antes sua região de Nintendo Switch no GameGulf.
 
 Super Smash Bros. Ultimate continua a ser compra fácil em 2026 se fores mesmo jogar — especialmente com a tua região perto das melhores linhas indexadas.
 
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €36.44.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €36.44.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price).
 
@@ -199,12 +199,13 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: ~25 h aventura; versus/local/online sem teto fixo.
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Evitas aprender matchups e queres sobretudo campanha solo longa.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. especialmente com a tua região perto das melhores linhas indexadas.
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price)** e decide compra vs espera.
+**Super Smash Bros. Ultimate** vale entrar na lista quando **Debate de elenco, culpa nos itens e último stock não envelhecem** soa como algo que você quer repetir no Switch. Na prática, a compra gira em torno de **luta de plataforma com neutro rápido, edgeguard, adaptação de matchup, modos de festa e teto alto de habilidade**. É uma boa aposta para noites de sofá infinitas e evolução de matchup; perde força se online competitivo pode frustrar sem treino e boa ligação. O tempo estimado é **~25 h aventura; versus/local/online sem teto fixo.**, então vale pensar se esse espaço cabe na sua rotina.
+
+A conta fecha melhor depois de comparar regiões no [GameGulf](https://www.gamegulf.com/detail/69RQl42tNjM#currency-price): o menor preço atual indexado aparece perto de **EUR 36.44** em **Hong Kong**; o mínimo histórico citado fica em **€36**. Se o preço local não encostar no baixo atual ou no histórico, o caminho prudente é colocar alerta e aguardar promoção.

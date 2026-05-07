@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-07T06-15-21-802Z",
+  "slug": "rotwood-worth-it",
+  "url": "https://www.gamegulf.com/detail/iRRuS0wBuBs",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/rotwood-worth-it.md",
+    "src/content/posts/zh-hans/rotwood-worth-it.md",
+    "src/content/posts/ja/rotwood-worth-it.md",
+    "src/content/posts/fr/rotwood-worth-it.md",
+    "src/content/posts/es/rotwood-worth-it.md",
+    "src/content/posts/de/rotwood-worth-it.md",
+    "src/content/posts/pt/rotwood-worth-it.md"
+  ],
+  "capturedAt": "2026-05-07T06:31:50.556Z"
+}

@@ -14,7 +14,11 @@
     "fix:limits": "node scripts/auto-fix-char-limits.mjs",
     "validate:all": "node scripts/validate-article.mjs --all",
     "backfill:playtime": "node scripts/backfill-playtime-from-briefs.mjs",
-    "prebuild": "npm run pricing:sync && npm run fix:limits"
+    "prebuild": "npm run pricing:sync && npm run fix:limits",
+    "test": "vitest run",
+    "queue:articles:dry": "node scripts/run-article-queue.mjs --seed-mc --limit 3 --dry-run",
+    "queue:articles:one": "node scripts/run-article-queue.mjs --seed-mc --limit 1 --claude",
+    "queue:articles": "node scripts/run-article-queue.mjs --seed-mc --limit 10 --claude --continue-on-blocked"
   },
   "dependencies": {
     "@astrojs/react": "^4.2.1",
@@ -28,6 +32,7 @@
     "@types/react": "^19.1.2",
     "@types/react-dom": "^19.1.2",
     "patch-package": "^8.0.1",
-    "typescript": "^5.8.3"
+    "typescript": "^5.8.3",
+    "vitest": "^4.1.5"
   }
 }

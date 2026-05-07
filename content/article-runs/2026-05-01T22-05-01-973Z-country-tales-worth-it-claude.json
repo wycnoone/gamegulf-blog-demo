@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "country-tales-worth-it",
+  "url": "https://www.gamegulf.com/detail/dFhkxEcatxg",
+  "promptPath": "content/article-worker-prompts/2026-05-01T22-05-01-973Z-country-tales-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 55637,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":55458,\"duration_api_ms\":54284,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"country-tales-worth-it\\\",\\\"score\\\":89,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/country-tales-worth-it.md\\\",\\\"src/content/posts/zh-hans/country-tales-worth-it.md\\\",\\\"src/content/posts/ja/country-tales-worth-it.md\\\",\\\"src/content/posts/fr/country-tales-worth-it.md\\\",\\\"src/content/posts/es/country-tales-worth-it.md\\\",\\\"src/content/posts/de/country-tales-worth-it.md\\\",\\\"src/content/posts/pt/country-tales-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero hard errors across all 7 locales.\\\",\\\"Quality spot check found no blocker requiring edits, but the set still has some template-like phrasing in body sections and relies on generic performance language rather than highly specific game-system anchors.\\\",\\\"Brief data has no Metacritic score, but the articles consistently use a '70 Metacritic / 70点台 / 约70分' quality anchor; this passes validation yet appears weakly grounded from the provided brief alone.\\\",\\\"Price logic is explicit and uses concrete GameGulf rows/history, but some historical-low wording is awkward because the brief's analytics mix current-cheapest, global-low, and trend-low values.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/country-tales-worth-it.md src/content/posts/zh-hans/country-tales-worth-it.md src/content/posts/ja/country-tales-worth-it.md src/content/posts/fr/country-tales-worth-it.md src/content/posts/es/country-tales-worth-it.md src/content/posts/de/country-tales-worth-it.md src/content/posts/pt/country-tales-worth-it.md\\\"],\\\"notes\\\":\\\"Validation passed on the first run, so no revisions were needed. Spot checks on the brief plus en/zh-hans/ja show clear buy-wait guidance, localized FAQ prefixes, and natural GameGulf CTAs, with only moderate concerns about specificity and the unsupported Metacritic anchor.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"9adbff15-46d8-4107-abcb-f9e7ca137db6\",\"total_cost_usd\":0.7020468,\"usage\":{\"input_tokens\":214584,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2166,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":214584,\"outputTokens\":2166,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7020468,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"626abe6d-66a7-4fd7-b0b6-3d411b70d496\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T22:08:05.679Z"
+}

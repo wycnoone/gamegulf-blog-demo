@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T22-05-01-973Z",
+  "slug": "velocity2x-worth-it",
+  "url": "https://www.gamegulf.com/detail/ecmkx5KPj7G",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/velocity2x-worth-it.md",
+    "src/content/posts/zh-hans/velocity2x-worth-it.md",
+    "src/content/posts/ja/velocity2x-worth-it.md",
+    "src/content/posts/fr/velocity2x-worth-it.md",
+    "src/content/posts/es/velocity2x-worth-it.md",
+    "src/content/posts/de/velocity2x-worth-it.md",
+    "src/content/posts/pt/velocity2x-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T22:29:04.474Z"
+}

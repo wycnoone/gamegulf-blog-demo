@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "pool-room-billiard-worth-it",
+  "url": "https://www.gamegulf.com/detail/4PLUJBMfP8X",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-pool-room-billiard-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 272663,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":272482,\"duration_api_ms\":270179,\"num_turns\":20,\"result\":\"{\\\"status\\\":\\\"blocked\\\",\\\"slug\\\":\\\"pool-room-billiard-worth-it\\\",\\\"score\\\":88,\\\"revisionAttempts\\\":2,\\\"validated\\\":false,\\\"articlePaths\\\":[\\\"src/content/posts/en/pool-room-billiard-worth-it.md\\\",\\\"src/content/posts/zh-hans/pool-room-billiard-worth-it.md\\\",\\\"src/content/posts/ja/pool-room-billiard-worth-it.md\\\",\\\"src/content/posts/fr/pool-room-billiard-worth-it.md\\\",\\\"src/content/posts/es/pool-room-billiard-worth-it.md\\\",\\\"src/content/posts/de/pool-room-billiard-worth-it.md\\\",\\\"src/content/posts/pt/pool-room-billiard-worth-it.md\\\"],\\\"issues\\\":[\\\"ja article still fails validator: \\\\\\\"Discount history analysis paragraph missing concrete historical data\\\\\\\" after 2 revision attempts.\\\",\\\"en, zh-hans, fr, es, de, and pt validate successfully.\\\",\\\"en, zh-hans, and ja were spot-checked against the brief and en/zh-hans/ja body copy was tightened to use concrete game-specific anchors like 8-ball, 9-ball, Quick Match, Room Match, VSCOM, Tournament Mode, Joy-Con 2, and regional price spread.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/pool-room-billiard-worth-it.md src/content/posts/zh-hans/pool-room-billiard-worth-it.md src/content/posts/ja/pool-room-billiard-worth-it.md src/content/posts/fr/pool-room-billiard-worth-it.md src/content/posts/es/pool-room-billiard-worth-it.md src/content/posts/de/pool-room-billiard-worth-it.md src/content/posts/pt/pool-room-billiard-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/pool-room-billiard-worth-it.md src/content/posts/zh-hans/pool-room-billiard-worth-it.md src/content/posts/ja/pool-room-billiard-worth-it.md src/content/posts/fr/pool-room-billiard-worth-it.md src/content/posts/es/pool-room-billiard-worth-it.md src/content/posts/de/pool-room-billiard-worth-it.md src/content/posts/pt/pool-room-billiard-worth-it.md\\\",\\\"node scripts/validate-article.mjs src/content/posts/en/pool-room-billiard-worth-it.md src/content/posts/zh-hans/pool-room-billiard-worth-it.md src/content/posts/ja/pool-room-billiard-worth-it.md src/content/posts/fr/pool-room-billiard-worth-it.md src/content/posts/es/pool-room-billiard-worth-it.md src/content/posts/de/pool-room-billiard-worth-it.md src/content/posts/pt/pool-room-billiard-worth-it.md\\\"],\\\"notes\\\":\\\"Validator was clean initially, but after quality-driven revisions the final state remains blocked by one ja-only discount-history validator error after the allowed 2 revision attempts.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"abe8e466-2d86-4eee-b8c9-a120308840bc\",\"total_cost_usd\":1.5071159999999997,\"usage\":{\"input_tokens\":424081,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":143360,\"output_tokens\":12791,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":424081,\"outputTokens\":12791,\"cacheReadInputTokens\":143360,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":1.5071159999999997,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"4abcf71e-4dd6-4eff-923f-8dfa9aa41217\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:07:29.029Z"
+}

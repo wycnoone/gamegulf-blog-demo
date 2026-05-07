@@ -39,7 +39,7 @@ mainFriction: Le ton assume son fan-service — anticipe-le.
 timeFit: ~9 h / ~12 h+ / ~47 h objectifs collection.
 fitLabel: Si tu aimes scorer les Vers cachées.
 timingNote: Pas d'historique promo riche dans le brief — vérifie GameGulf avant panier.
-communityVibe: Witch Time addictif, combos sans fin
+communityVibe: Witch Time, talons-pistolets et combos aériens font le show
 playtime: ~9 h · ~12 h+ · ~47 h
 reviewSignal: 92 Metacritic
 takeaway: >-
@@ -156,7 +156,7 @@ cardPriceNativeCurrency: JPY
 
 ## Verdict rapide
 
-**Bayonetta 2** reste un **achat qualité** sur **Switch** : **92 Metacritic**, Japon ~**35,53 €**, **0** promo suivie sur l'année — posture **rarely_discounted**.
+Pour décider sur **Bayonetta 2**, commencez par cette promesse concrète : **Witch Time, talons-pistolets et combos aériens font le show**. Si cette promesse vous parle et que votre région GameGulf est déjà en promo, l’achat est facile à défendre; au plein tarif, ne vous pressez pas.
 
 Consulte **[GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price)** pour ta ligne réelle.
 
@@ -176,7 +176,7 @@ Consulte **[GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price
 | Espagne | EUR 49.99 | €49.99 |
 | France | EUR 49.99 | €49.99 |
 
-Historique **promo** / **discount** : **0** chute suivie en un an — seuls **2025**/**2026** montrent la ligne **Japon ~35,53 €** alignée sur le **historical low** déclaré. Pas de **sale** en cascade dans ce brief : logique **MSRP** Nintendo jusqu'à ce que ta boutique diverge.
+Historique **promo** / **discount** : **0** chute suivie en un an — seuls **2025**/**2026** montrent la ligne **Japon ~35,53 €** alignée sur le **historical low** déclaré. Pas de **sale** en cascade dans ce brief : logique **prix catalogue** Nintendo jusqu'à ce que ta boutique diverge.
 
 ## Quel jeu ?
 
@@ -193,6 +193,9 @@ Port **Platinum** rodé : lectures combat prioritaires, quelques pics sur les gr
 - **Attendre** uniquement avec alerte **GameGulf**, pas en supposant une grosse **discount**.
 - **Passer** si caméra frénétique ou ton assumé = non.
 
-## Dernière ligne
+## En résumé
 
-Vérifie **gamegulf.com**, puis décide.
+
+Avec **Bayonetta 2**, la bonne question est simple : quand allez-vous vraiment y jouer ? Witch Time, talons-pistolets et combos aériens font le show fonctionne si vous avez le cadre adapté, mais le ton assume son fan-service — anticipe-le peut rendre l’achat moins urgent. Le volume à prévoir tourne autour de ~9 h · ~12 h+ · ~47 h, à mesurer avec votre envie de revenir dessus.
+
+La comparaison régionale donne comme repère bas €35.53 au Japon. Avril 2026 — le Japon mène ~35,53 € ; HK et les US sont plus hauts sur la grille. Pas d'échelon plus bas dans la fenêtre suivie — la ligne Japon colle au global low ~35,53 € listé. **0** baisse comptée sur un an — logique prix catalogue Nintendo jusqu'à divergence réelle. La page [GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price) reste le meilleur contrôle final pour le prix actuel et l’historique de remise. Achetez si votre région touche ce niveau; sinon, une alerte vaut mieux qu’un achat au catalogue.

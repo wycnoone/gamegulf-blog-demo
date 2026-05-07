@@ -79,7 +79,10 @@ Primary platform selection rule:
   - if selectedPlatformKey == "switch 1", use "Nintendo Switch"
   - if selectedPlatformKey == "switch 2", use "NS2"
   - otherwise use selectedPlatform.name localized for the target language
-- hasOtherPlatforms = true if more than one candidate platform exists
+- hasOtherPlatforms = true only if more than one viable candidate platform exists
+  **and** you also provide non-empty reader-facing `otherPlatformLabels`.
+  Otherwise set hasOtherPlatforms=false so the UI stays on the generic regional
+  pricing guide.
 
 Identity fields:
 - gameTitle = game.title (strip ™/® for natural text)
@@ -266,8 +269,8 @@ FRONTMATTER:
   **without** restating the markdown price table.
 - primaryPlatformKey: include in frontmatter (normalized selected platform key)
 - primaryPlatformLabel: include in frontmatter (localized platform label)
-- hasOtherPlatforms: include in frontmatter when the brief exposes more than
-  one viable candidate platform
+- hasOtherPlatforms: true only when `otherPlatformLabels` is present and non-empty;
+  do not turn on the multi-platform guide from raw platform count alone.
 - verdict/priceCall/confidence: derive from selectedAnalytics:
     Use price_verdict + discount_events_1y + at_or_near_historical_low
     to set these fields. Do NOT guess — the analytics are computed
@@ -285,7 +288,16 @@ FRONTMATTER:
     "check GameGulf for other platform rows" or equivalent.
   - Never expose internal terms to readers:
     `row`, `platform row`, `primary platform`, `selected platform`,
-    `at_historical_low`, `price_verdict`, or similar.
+    `priceRows`, `frontmatter`, `pipeline`, `schema`, `at_historical_low`,
+    `price_verdict`, or similar.
+  - Never name HLTB/HowLongToBeat in `playtime`, FAQ, or body. Use plain hour
+    bands only.
+  - Never leave empty placeholders such as `()` / `（）`.
+  - Never leave untranslated template fragments such as
+    `historical low / sale / discount`; translate them into the target language.
+  - `takeaway` must include one game-specific feature/scope cue plus one current
+    price or sale-timing cue. Do not use generic “gameplay-fit call first” style
+    summaries.
   - Translate analytics into reader language:
     "back at the tracked low", "close to the cheapest range GameGulf has seen",
     "if NS2 pricing matters more, check the detail page".
@@ -339,9 +351,9 @@ ARTICLE BODY (GEO-optimized):
 
 DEPTH — “research memo” tone (same section modules, no new H2s):
 - Overall read: **compact hands-on research memo** — structured findings, evidence, tradeoffs; not marketing fluff or a listicle of empty praise.
-- **Quick verdict (≤80 words):** After the direct buy/wait answer, add **≥1 checkable fact** from the brief or analytics (e.g. price spread, Metacritic, HLTB band from enrichment, discount count, co-op format).
-- **“What kind of game” + “How does it run”:** After the bold opener, each section needs **≥2 specific anchors**: named mechanics/modes/systems, performance target (fps/res/handheld vs docked), scope signals from the brief, or a **comparison** to another Mario/genre title. Ban paragraphs that only stack adjectives (“polish”, “spectacle”) without naming *what* in the game does the work.
-- **Buy now / Wait bullets:** Prefer **situation + trigger**; **≥50%** of bullets must cite a concrete cue (regional price row, MSRP, runtime, sale pattern keyword, roster/online constraint).
+- **Quick verdict (≤80 words):** After the direct buy/wait answer, add **≥1 checkable fact** from the brief or analytics (e.g. price spread, Metacritic, runtime band from enrichment, discount count, co-op format).
+- **“What kind of game” + “How does it run”:** After the bold opener, each section needs **≥2 specific anchors**: named mechanics/modes/systems, performance target (fps/res/handheld vs docked), scope signals from the brief, or a **comparison** to another title in the same genre. Ban paragraphs that only stack adjectives (“polish”, “spectacle”) without naming *what* in the game does the work.
+- **Buy now / Wait bullets:** Prefer **situation + trigger**; **≥50%** of bullets must cite a concrete cue (regional price row, list price, runtime, sale pattern keyword, roster/online constraint).
 - **Attribution:** Do not claim a private studio playthrough you did not perform. Use brief data, indexed pricing, or **common player/community reports** where appropriate; keep data vs. anecdote clear in the target language.
 - **Extractability (GEO):** In the first **1–2 sentences** after each H2, include **searchable nouns** players actually query (game name + mode/co-op/platform terms) so the block works as a standalone answer.
 

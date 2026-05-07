@@ -2,7 +2,7 @@
   "meta": {
     "source_url": "https://www.gamegulf.com/detail/4mIisPNpCWM",
     "game_id": "4mIisPNpCWM",
-    "extracted_at": "2026-04-26",
+    "extracted_at": "2026-05-01",
     "extractor_version": "2.0.0",
     "sources": [
       "gamegulf"
@@ -206,7 +206,7 @@
       "title": "Xenoblade Chronicles™ 2",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517299540518725.jpeg",
       "metacritic": 83,
-      "price": 47.41,
+      "price": 47.61,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -222,7 +222,7 @@
       "title": "Xenoblade Chronicles™ Definitive Edition",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/14/177614036648016185.jpeg",
       "metacritic": null,
-      "price": 35.53,
+      "price": 35.67,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -238,7 +238,7 @@
       "title": "Xenoblade Chronicles™ X: Definitive Edition",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177505692450410662.jpeg",
       "metacritic": null,
-      "price": 35.94,
+      "price": 35.7,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -254,7 +254,7 @@
       "title": "Reigns: Beyond",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177507883425211823.jpeg",
       "metacritic": null,
-      "price": 1.85,
+      "price": 1.84,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -273,11 +273,11 @@
       "title": "Alvastia Chronicles",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516287784613034.jpeg",
       "metacritic": null,
-      "price": 12.78,
-      "discount_price": 5.68,
+      "price": 12.69,
+      "discount_price": 5.64,
       "discount_rate": 55,
       "discount_tag": "LowPrice",
-      "discount_end": "13 days",
+      "discount_end": "8 days",
       "release_date": "2022-11-17",
       "categories": [
         "Adventure",
@@ -291,11 +291,11 @@
       "title": "DEX",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514536984210721.jpeg",
       "metacritic": 72,
-      "price": 10.8,
-      "discount_price": 0.95,
-      "discount_rate": 91,
+      "price": 10.85,
+      "discount_price": null,
+      "discount_rate": null,
       "discount_tag": "Normal",
-      "discount_end": "2 days",
+      "discount_end": "",
       "release_date": "2020-11-19",
       "categories": [
         "Action",
@@ -311,7 +311,7 @@
       "title": "Dance of Cards",
       "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177506140624015461.jpeg",
       "metacritic": null,
-      "price": 2.77,
+      "price": 2.75,
       "discount_price": null,
       "discount_rate": null,
       "discount_tag": "Normal",
@@ -324,25 +324,6 @@
         "Simulation"
       ],
       "url": "https://www.gamegulf.com/detail/76s5sRMJv1y"
-    },
-    {
-      "id": "1e3hgKilc1O",
-      "title": "Dreamscaper",
-      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
-      "metacritic": 82,
-      "price": 6.17,
-      "discount_price": null,
-      "discount_rate": null,
-      "discount_tag": "Normal",
-      "discount_end": "",
-      "release_date": "2024-02-08",
-      "categories": [
-        "Action",
-        "Adventure",
-        "Role-playing",
-        "Simulation"
-      ],
-      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
     },
     {
       "id": "kYo4NRMWRCG",
@@ -361,6 +342,25 @@
         "Role-playing"
       ],
       "url": "https://www.gamegulf.com/detail/kYo4NRMWRCG"
+    },
+    {
+      "id": "1e3hgKilc1O",
+      "title": "Dreamscaper",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177512923741816480.jpeg",
+      "metacritic": 82,
+      "price": 6.12,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2024-02-08",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Role-playing",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/1e3hgKilc1O"
     }
   ],
   "schema_offers": [
@@ -375,7 +375,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T19:36:25+00:00"
+      "priceValidUntil": "2026-06-01T17:15:00+00:00"
     },
     {
       "@type": "Offer",
@@ -388,7 +388,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T19:36:25+00:00"
+      "priceValidUntil": "2026-06-01T17:15:00+00:00"
     },
     {
       "@type": "Offer",
@@ -401,7 +401,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T19:36:25+00:00"
+      "priceValidUntil": "2026-06-01T17:15:00+00:00"
     },
     {
       "@type": "Offer",
@@ -414,7 +414,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T19:36:25+00:00"
+      "priceValidUntil": "2026-06-01T17:15:00+00:00"
     },
     {
       "@type": "Offer",
@@ -427,7 +427,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T19:36:25+00:00"
+      "priceValidUntil": "2026-06-01T17:15:00+00:00"
     },
     {
       "@type": "Offer",
@@ -440,7 +440,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T19:36:25+00:00"
+      "priceValidUntil": "2026-06-01T17:15:00+00:00"
     },
     {
       "@type": "Offer",
@@ -453,7 +453,7 @@
         "name": "Nintendo eShop (Switch)"
       },
       "itemCondition": "https://schema.org/NewCondition",
-      "priceValidUntil": "2026-05-26T19:36:25+00:00"
+      "priceValidUntil": "2026-06-01T17:15:00+00:00"
     }
   ],
   "price_analytics": {

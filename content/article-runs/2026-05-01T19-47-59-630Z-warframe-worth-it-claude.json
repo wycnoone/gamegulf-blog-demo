@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "warframe-worth-it",
+  "url": "https://www.gamegulf.com/detail/4iEFCE29B3u",
+  "promptPath": "content/article-worker-prompts/2026-05-01T19-47-59-630Z-warframe-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 62021,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":61835,\"duration_api_ms\":60909,\"num_turns\":13,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"warframe-worth-it\\\",\\\"score\\\":87,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/warframe-worth-it.md\\\",\\\"src/content/posts/zh-hans/warframe-worth-it.md\\\",\\\"src/content/posts/ja/warframe-worth-it.md\\\",\\\"src/content/posts/fr/warframe-worth-it.md\\\",\\\"src/content/posts/es/warframe-worth-it.md\\\",\\\"src/content/posts/de/warframe-worth-it.md\\\",\\\"src/content/posts/pt/warframe-worth-it.md\\\"],\\\"issues\\\":[\\\"Price-history support is structurally thin in the brief: lows and analytics are empty, so several lines rely on indexed zero-price rows and generic 'verify live pricing' language rather than richer sale-history evidence.\\\",\\\"EN/zh-hans/ja spot checks passed, but the body copy is only moderately specific in the 'what kind of game' and 'how it runs' sections; it does not fully exploit brief anchors like 60+ Warframes, 600+ weapons, open worlds, parkour, 18 worlds, and up-to-3-friend co-op.\\\",\\\"Localized naming is acceptable for this title because 'Warframe' is the player-facing name in checked locales, but the set still reads somewhat templated in places.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/warframe-worth-it.md src/content/posts/zh-hans/warframe-worth-it.md src/content/posts/ja/warframe-worth-it.md src/content/posts/fr/warframe-worth-it.md src/content/posts/es/warframe-worth-it.md src/content/posts/de/warframe-worth-it.md src/content/posts/pt/warframe-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on all 7 locale files on the first run, so no revisions were necessary. Score reflects clean validation and acceptable localization, with deductions for weak underlying price-history data and somewhat generic body specificity.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"38f938d8-7153-4565-9639-85def15aaf6f\",\"total_cost_usd\":0.7116617999999999,\"usage\":{\"input_tokens\":218374,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":86016,\"output_tokens\":2049,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":218374,\"outputTokens\":2049,\"cacheReadInputTokens\":86016,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.7116617999999999,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"0b7f7948-138e-4da0-b5a8-c5944886acb1\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T19:59:50.324Z"
+}

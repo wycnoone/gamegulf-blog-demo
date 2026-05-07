@@ -1,0 +1,19 @@
+{
+  "runId": "2026-05-01T19-47-59-630Z",
+  "slug": "dragon-ball-sparking-zero-worth-it",
+  "url": "https://www.gamegulf.com/detail/4Km5lDIbVxW",
+  "score": 85,
+  "pass": true,
+  "scoringMode": "local-pipeline-baseline",
+  "threshold": 85,
+  "articlePaths": [
+    "src/content/posts/en/dragon-ball-sparking-zero-worth-it.md",
+    "src/content/posts/zh-hans/dragon-ball-sparking-zero-worth-it.md",
+    "src/content/posts/ja/dragon-ball-sparking-zero-worth-it.md",
+    "src/content/posts/fr/dragon-ball-sparking-zero-worth-it.md",
+    "src/content/posts/es/dragon-ball-sparking-zero-worth-it.md",
+    "src/content/posts/de/dragon-ball-sparking-zero-worth-it.md",
+    "src/content/posts/pt/dragon-ball-sparking-zero-worth-it.md"
+  ],
+  "capturedAt": "2026-05-01T20:00:57.019Z"
+}

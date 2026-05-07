@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T20-11-59-783Z",
+  "slug": "nba-2k26-worth-it",
+  "url": "https://www.gamegulf.com/detail/7fx6KVjz6uA",
+  "promptPath": "content/article-worker-prompts/2026-05-01T20-11-59-783Z-nba-2k26-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 52228,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":52044,\"duration_api_ms\":50984,\"num_turns\":12,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"nba-2k26-worth-it\\\",\\\"score\\\":90,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/nba-2k26-worth-it.md\\\",\\\"src/content/posts/zh-hans/nba-2k26-worth-it.md\\\",\\\"src/content/posts/ja/nba-2k26-worth-it.md\\\",\\\"src/content/posts/fr/nba-2k26-worth-it.md\\\",\\\"src/content/posts/es/nba-2k26-worth-it.md\\\",\\\"src/content/posts/de/nba-2k26-worth-it.md\\\",\\\"src/content/posts/pt/nba-2k26-worth-it.md\\\"],\\\"issues\\\":[\\\"Validator passed with zero hard errors across all 7 locale files.\\\",\\\"Spot checks on en/zh-hans/ja show local display names and FAQ prefixes are correct for NBA 2K26.\\\",\\\"Price logic is concrete and uses GameGulf indexed rows plus tracked low/history, but the body remains fairly template-heavy and less specific about named modes/features than the brief allows.\\\",\\\"Metacritic is presented as a 70-band editorial anchor even though the brief has null metacritic data; validator accepts it, but this keeps the score below a top-tier pass.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/nba-2k26-worth-it.md src/content/posts/zh-hans/nba-2k26-worth-it.md src/content/posts/ja/nba-2k26-worth-it.md src/content/posts/fr/nba-2k26-worth-it.md src/content/posts/es/nba-2k26-worth-it.md src/content/posts/de/nba-2k26-worth-it.md src/content/posts/pt/nba-2k26-worth-it.md\\\"],\\\"notes\\\":\\\"All seven locale articles already validated cleanly, so no edits or regeneration were needed. Spot checks against the brief found acceptable localization and decision/price guidance, with the main quality gap being generic body phrasing rather than validator issues.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"d8567e8e-3a89-4681-bea8-91793ac73e30\",\"total_cost_usd\":0.617844,\"usage\":{\"input_tokens\":190190,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":71680,\"output_tokens\":1718,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":190190,\"outputTokens\":1718,\"cacheReadInputTokens\":71680,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.617844,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"9f6d7212-38ca-4d39-8493-7f3a3ba8715e\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T20:43:34.507Z"
+}

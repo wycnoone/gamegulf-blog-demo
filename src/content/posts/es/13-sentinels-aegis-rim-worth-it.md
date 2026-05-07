@@ -28,20 +28,20 @@ bestFor: Tramas SF largas con snacks mecha.
 avoidIf: Odias leer o solo acción.
 consensusPraise: Estructura, arte, doblaje pesados.
 mainFriction: Ritmo lectura/combate variable.
-timeFit:  ~31/36/38 h.
+timeFit: ~31/36/38 h.
 fitLabel: Capítulo = episodio SF.
-timingNote: Compara promo US y MSRP UE.
-communityVibe: Tableros timeline
+timingNote: Compara promo US y precio de lista UE.
+communityVibe: Conspiración temporal y mechas hacen que cada giro pese
 playtime: 31h · 36h+ · ~38h
 reviewSignal: 88 Metacritic
 takeaway: >-
   13 Sentinels: Aegis Rim es compra fácil en abril 2026 en regiones promo —
-  verifica tu fila por el MSRP UE.
+  verifica tu fila por el precio de lista UE.
 playStyle: 2D investigación, rutas, mecha top-down.
 timeCommitment: ~31/36/38 h.
 playMode: Un jugador.
 whyNow: Historia cerrada; variable = promo profunda.
-currentDeal: US promo, GB/HK promo, JP/BR más MSRP, DE/ES/FR 59,99 €.
+currentDeal: US promo, GB/HK promo, JP/BR más precio de lista, DE/ES/FR 59,99 €.
 nearHistoricalLow: Sí.
 salePattern: Varias promos profundas al año.
 priceRecommendation: buy
@@ -89,7 +89,7 @@ faq:
   - question: ¿Esperar más?
     answer: >-
       13 Sentinels: Aegis Rim ya alinea mínimos en promo — espera si sigues en
-      MSRP.
+      precio de lista.
 priceRows:
   - regionCode: US
     eurPrice: 13.01
@@ -132,11 +132,11 @@ cardPriceNativeCurrency: USD
 ---
 ## Veredicto rapido
 
-**13 Sentinels: Aegis Rim** en **Nintendo Switch** se decide por encaje + precio. Referencia de calidad: **88 Metacritic**.
+**13 Sentinels: Aegis Rim** se decide por una idea concreta: **Conspiración temporal y mechas hacen que cada giro pese**. Si eso te apetece de verdad, Compra si quieres la novela visual SF larga con descansos mecha — abril 2026 indexa EE. UU. ~13,01 € eq. en promo fuerte mientras la UE lista ~59,99 €.; si el precio que ves ronda $59.99, comprueba antes tu región de Nintendo Switch en GameGulf.
 
-13 Sentinels: Aegis Rim es compra fácil en abril 2026 en regiones promo — verifica tu fila por el MSRP UE.
+13 Sentinels: Aegis Rim es compra fácil en abril 2026 en regiones promo — verifica tu fila por el precio de lista UE.
 
-Nota de discount/sale: en 2026 sigue vigente un historical low util alrededor de €13.01.
+Nota de oferta: en 2026 sigue vigente una zona de mínimo histórico alrededor de €13.01.
 
 Antes de comprar, compara tu region en [GameGulf](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price).
 
@@ -176,13 +176,13 @@ Suele ser jugable con estabilidad razonable; confirma siempre con la version act
 
 ## Esperar si
 
-- tu tienda sigue cerca de MSRP y otras regiones ya bajaron fuerte
+- tu tienda sigue cerca de precio de lista y otras regiones ya bajaron fuerte
 - no tienes claro el encaje de genero
 - este mes priorizas otros juegos
 - Odias leer o solo acción.
 
-## Cierre
+## Resumen
 
-Primero precio, luego gusto: aqui funciona mejor ese orden. Varias promos profundas al año.
+**13 Sentinels: Aegis Rim** encaja si buscas tramas SF largas con snacks mecha. Su punto fuerte es conspiración temporal y mechas hacen que cada giro pese. Lo que más vas a tocar es 2D investigación, rutas, mecha top-down. El límite está en ritmo lectura/combate variable. Si odias leer o solo acción, conviene ser prudente antes de pagar. Ten en cuenta 31h · 36h+ · ~38h antes de hacerle hueco.
 
-Haz el ultimo chequeo en **[GameGulf](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price)** y decide comprar o esperar.
+En precio, separa las ganas de jugar hoy del mínimo que ya ha marcado el historial. US promo, GB/HK promo, JP/BR más precio de lista, DE/ES/FR 59,99 €. Sí. Varias promos profundas al año. Míralo en [GameGulf](https://www.gamegulf.com/detail/eLGzpo7MZsV#currency-price) y decide según urgencia: compra en zona baja, espera si todavía está cerca del PVP.

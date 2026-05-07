@@ -1,0 +1,33 @@
+{
+  "runId": "2026-05-01T21-15-38-047Z",
+  "slug": "the-last-campfire-worth-it",
+  "url": "https://www.gamegulf.com/detail/b27DJctYhLp",
+  "promptPath": "content/article-worker-prompts/2026-05-01T21-15-38-047Z-the-last-campfire-worth-it.md",
+  "command": [
+    "claude",
+    "-p",
+    "<prompt>",
+    "--model",
+    "sonnet",
+    "--effort",
+    "medium",
+    "--permission-mode",
+    "acceptEdits",
+    "--output-format",
+    "json",
+    "--add-dir",
+    "/Users/jueji/Desktop/GameGulf 运营推广计划/gamegulf-blog-demo",
+    "--allowedTools",
+    "Read,Edit,Write,Bash(node *),Bash(npm *),Bash(grep *),Bash(find *),Bash(python3 *)",
+    "--disallowedTools",
+    "Bash(rm *),Bash(git commit *),Bash(git push *),Bash(git reset *),Bash(git clean *),Bash(git checkout *),Bash(git restore *)",
+    "--max-budget-usd",
+    "4"
+  ],
+  "status": 0,
+  "signal": null,
+  "durationMs": 47747,
+  "stdout": "{\"type\":\"result\",\"subtype\":\"success\",\"is_error\":false,\"api_error_status\":null,\"duration_ms\":47561,\"duration_api_ms\":46486,\"num_turns\":10,\"result\":\"{\\\"status\\\":\\\"passed\\\",\\\"slug\\\":\\\"the-last-campfire-worth-it\\\",\\\"score\\\":91,\\\"revisionAttempts\\\":0,\\\"validated\\\":true,\\\"articlePaths\\\":[\\\"src/content/posts/en/the-last-campfire-worth-it.md\\\",\\\"src/content/posts/zh-hans/the-last-campfire-worth-it.md\\\",\\\"src/content/posts/ja/the-last-campfire-worth-it.md\\\",\\\"src/content/posts/fr/the-last-campfire-worth-it.md\\\",\\\"src/content/posts/es/the-last-campfire-worth-it.md\\\",\\\"src/content/posts/de/the-last-campfire-worth-it.md\\\",\\\"src/content/posts/pt/the-last-campfire-worth-it.md\\\"],\\\"issues\\\":[\\\"No hard validator errors.\\\",\\\"Soft quality note: zh-hans and ja still use the English game title, but that appears acceptable here because the storefront/common local usage is also The Last Campfire.\\\",\\\"Soft quality note: some body copy remains template-like in places, though the price logic and buy/wait guidance are concrete enough to clear the threshold.\\\"],\\\"commandsRun\\\":[\\\"node scripts/validate-article.mjs src/content/posts/en/the-last-campfire-worth-it.md src/content/posts/zh-hans/the-last-campfire-worth-it.md src/content/posts/ja/the-last-campfire-worth-it.md src/content/posts/fr/the-last-campfire-worth-it.md src/content/posts/es/the-last-campfire-worth-it.md src/content/posts/de/the-last-campfire-worth-it.md src/content/posts/pt/the-last-campfire-worth-it.md\\\"],\\\"notes\\\":\\\"Validator passed on all 7 locales on the first run, so no revisions were needed. Scored from the brief plus en/zh-hans/ja spot checks: explicit wait-for-sale recommendation, concrete GameGulf regional pricing anchors, and natural GameGulf CTA usage are present.\\\"}\",\"stop_reason\":\"end_turn\",\"session_id\":\"094acb2d-1c35-405d-a6d7-d8ef7fc99df9\",\"total_cost_usd\":0.613896,\"usage\":{\"input_tokens\":188764,\"cache_creation_input_tokens\":0,\"cache_read_input_tokens\":71680,\"output_tokens\":1740,\"server_tool_use\":{\"web_search_requests\":0,\"web_fetch_requests\":0},\"service_tier\":\"standard\",\"cache_creation\":{\"ephemeral_1h_input_tokens\":0,\"ephemeral_5m_input_tokens\":0},\"inference_geo\":\"\",\"iterations\":[],\"speed\":\"standard\"},\"modelUsage\":{\"claude-sonnet-4-6\":{\"inputTokens\":188764,\"outputTokens\":1740,\"cacheReadInputTokens\":71680,\"cacheCreationInputTokens\":0,\"webSearchRequests\":0,\"costUSD\":0.613896,\"contextWindow\":200000,\"maxOutputTokens\":32000}},\"permission_denials\":[],\"terminal_reason\":\"completed\",\"fast_mode_state\":\"off\",\"uuid\":\"843cebe1-f808-4621-89b1-5c9e684a21cf\"}\n",
+  "stderr": "",
+  "capturedAt": "2026-05-01T21:42:11.634Z"
+}

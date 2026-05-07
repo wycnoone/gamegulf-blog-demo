@@ -1,8 +1,6 @@
 ---
 title: Unavowed vaut-il le coup sur Nintendo Switch en 2026 ?
-description: >-
-  Repère d’achat Nintendo Switch pour avril 2026 : Unavowed, signal prix
-  GameGulf et décision acheter/attendre.
+description: "Repère d’achat Nintendo Switch pour avril 2026 : Unavowed, signal prix GameGulf et décision acheter/attendre."
 publishedAt: "2026-04-30"
 updatedAt: "2026-04-30"
 category: worth-it
@@ -13,55 +11,38 @@ primaryPlatformLabel: Nintendo Switch
 hasOtherPlatforms: false
 author: Rédaction GameGulf
 readingTime: 7 min de lecture
-decision: >-
-  Achetez si la proposition vous parle et si votre région apparaît en zone promo
-  sur GameGulf; attendez si vous ne voyez que le plein tarif.
-priceSignal: >-
-  Les prix indexés montrent souvent un gros écart entre régions bon marché et
-  paliers proches du prix catalogue.
+decision: Achetez si la proposition vous parle et si votre région apparaît en zone promo sur GameGulf; attendez si vous ne voyez que le plein tarif.
+priceSignal: Les prix indexés montrent souvent un gros écart entre régions bon marché et paliers proches du prix catalogue.
 wishlistHref: https://www.gamegulf.com/wishlist
 priceTrackHref: https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price
 gameHref: https://www.gamegulf.com/detail/kxyrmTE8vZE
 membershipHref: https://www.gamegulf.com/pricing
 heroStat: 91 Metacritic
-heroNote: >-
-  Unavowed — aventure, puzzle et jeu de rôle; Wadjet Eye Games. 91 Metacritic
-  sert de repère qualité.
+heroNote: Unavowed — aventure, puzzle et jeu de rôle; Wadjet Eye Games. 91 Metacritic sert de repère qualité.
 badge: Selon les goûts
 verdict: right_player
 priceCall: watch
 confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
-listingTakeaway: >-
-  Unavowed — aventure, puzzle et jeu de rôle; en avril 2026, comparez les
-  régions sur GameGulf av…
-whatItIs: aventure, puzzle et jeu de rôle — Unavowed sur Nintendo Switch.
-bestFor: Joueurs qui veulent du aventure, puzzle et jeu de rôle au f…
-avoidIf: À éviter si le mélange aventure, puzzle et jeu de rôle ne vous attire p…
-consensusPraise: >-
-  Le signal critique (91 Metacritic) rejoint les forces souvent citées par les
-  joue…
-mainFriction: Fatigue du genre ou promos décalées selon les régions.
+listingTakeaway: "Unavowed : Affaires démoniaques, compagnons et New ; vérifiez Brésil R$27.99"
+whatItIs: aventure, puzzle et jeu de rôle — Unavowed sur Nintendo Switch
+bestFor: À conseiller si Affaires démoniaques, compagnons et New
+avoidIf: À éviter si Affaires démoniaques, compagnons et New York ne vous attire
+consensusPraise: Affaires démoniaques, compagnons et New York occulte reste le vrai point
+mainFriction: Fatigue du genre ou promos décalées selon les régions
 timeFit: "Temps requis : ~9 h histoire, 12 h extras, ~17 h complétion"
-fitLabel: Acheteurs qui comparent deux régions avant paiement.
-timingNote: >-
-  Si votre boutique est déjà en promo, l’hésitation tient surtout au goût;
-  vérifiez quand même le prix en direct.
-communityVibe: Choix d’équipe, doublage et fantasy urbaine portent les avis
+fitLabel: Acheteurs qui comparent deux régions avant paiement
+timingNote: Si votre boutique est déjà en promo, l’hésitation tient surtout au goût; vérifiez quand même le prix en direct.
+communityVibe: Affaires démoniaques, compagnons et New York occulte portent
 playtime: ~9 h histoire, 12 h extras, ~17 h complétion
 reviewSignal: 91 Metacritic
-takeaway: >-
-  Unavowed se juge d’abord sur l’envie de jouer : boucle aventure, puzzle et jeu
-  de rôle, ampleur et repère 91 Metacritic; le prix sert surtout à choisir le
-  bon moment.
+takeaway: Unavowed convient surtout si vous cherchez aventure, puzzle et jeu de rôle — Unavowed sur Nintend; Les régions les moins chères mènent le tableau, puis tranchez achat ou attente.
 playStyle: aventure, puzzle et jeu de rôle
 timeCommitment: ~9 h histoire, 12 h extras, ~17 h complétion
 playMode: Solo par défaut sauf mention multijoueur sur la boutique.
 whyNow: Les offres du jour et le suivi GameGulf rendent les écarts de prix lisibles.
-currentDeal: >-
-  Les régions les moins chères mènent le tableau; comparez aussi la devise
-  native sur GameGulf.
+currentDeal: Les régions les moins chères mènent le tableau; comparez aussi la devise native sur GameGulf.
 nearHistoricalLow: Mitigé — comparez le prix le plus bas en direct à la moyenne promo.
 salePattern: 1 mouvements de remise suivis sur 12 mois.
 priceRecommendation: watch
@@ -90,9 +71,7 @@ communityMemes:
   - liste d’envies oubliée
   - chasse aux régions
   - plein tarif qui pique
-tldr: >-
-  Unavowed — 91 Metacritic; à acheter surtout si la proposition vous attire
-  déjà.
+tldr: Unavowed — 91 Metacritic; à acheter surtout si la proposition vous attire déjà.
 priceRows:
   - regionCode: BR
     eurPrice: 4.69
@@ -134,32 +113,24 @@ cardPriceNative: R$27.99
 cardPriceNativeCurrency: BRL
 faq:
   - question: Unavowed vaut-il le coup sur Nintendo Switch en 2026 ?
-    answer: >-
-      Unavowed vaut le coup sur Nintendo Switch si le aventure, puzzle et jeu de
-      rôle vous attire et si le prix régional GameGulf tombe dans la zone promo
-      attendue.
+    answer: Unavowed vaut le coup sur Nintendo Switch si le aventure, puzzle et jeu de rôle vous attire et si le prix régional GameGulf tombe dans la zone promo attendue.
   - question: Quelle est la durée de Unavowed ?
     answer: Unavowed demande environ ~9 h histoire, 12 h extras, ~17 h complétion.
   - question: Où vérifier le prix Nintendo Switch ?
-    answer: >-
-      Unavowed se vérifie sur la grille GameGulf
-      https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price pour comparer
-      les régions sans deviner les conversions.
+    answer: Unavowed se vérifie sur la grille GameGulf https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price pour comparer les régions sans deviner les conversions.
 heroTheme: brand
-coverImage: >-
-  https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
+coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177513123055615213.jpeg
 ---
-## Verdict rapide
+# Verdict rapide
 
-**Unavowed** se lit d’abord comme un choix de **aventure, puzzle et jeu de rôle** avec un repère **91 Metacritic** : la promesse eShop et la qualité critique racontent la même direction. **~9 h histoire, 12 h extras, ~17 h complétion** fixe le volume réel de l’achat.
+**Unavowed** se juge d’abord sur une envie précise : **Affaires démoniaques, compagnons et New York occulte portent**. Achetez si la proposition vous parle et si votre région apparaît en zone promo sur GameGulf; attendez si vous ne voyez que le plein tarif. Avant de payer, comparez les lignes Nintendo Switch sur **[GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)**, car cette fiche peut beaucoup varier selon la région.
 
-Historique des **soldes** : **plus bas historique** vers **€4.69** (BR), **1** mouvements sur 12 mois, **prix moyen promo** **€4.69**, dernière variation notable il y a **37** jours (**2026-03-24 (Brazil, €4.69)**, **2026**). Vérifiez le [tableau GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price).
+Historique de **plus bas historique / promo / remise** : les données **2026** restent le repère de cette page, avec un prix régional concret autour de **€4.69** dans la ligne la plus basse du tableau ci-dessous.
 
-Avant de payer, ouvrez la **[grille de prix GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)** pour vérifier si la **promo** affichée correspond bien à votre région.
+## Combien coûte Unavowed sur Nintendo Switch ?
 
-## Combien coûte Unavowed sur Nintendo Switch aujourd’hui ?
+**GameGulf** compte ici parce que la ligne la moins chère et les prix de type plein tarif peuvent être très éloignés. Le tableau ci-dessous reprend le snapshot des métadonnées; vérifiez ensuite [GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price).
 
-**Les prix régionaux bougent vite** : le tableau ci-dessous reprend les mêmes lignes régionales **GameGulf** que les métadonnées. Comparez votre région de compte sur [gamegulf.com](https://www.gamegulf.com) avant de supposer qu’un seul territoire est toujours le meilleur.
 
 
 | Région | Prix (équivalent EUR) | Prix natif |
@@ -173,38 +144,28 @@ Avant de payer, ouvrez la **[grille de prix GameGulf](https://www.gamegulf.com/d
 | Portugal | EUR 14.99 | €14.99 |
 | Royaume-Uni | EUR 15.51 | £13.49 |
 
-**Unavowed** est un jeu **aventure, puzzle et jeu de rôle** sur Nintendo Switch signé **Wadjet Eye Games**. Le vrai repère n’est pas le texte marketing long, mais le mélange de systèmes, le format de sessions et le signal **91 Metacritic**.
+## Quel genre de jeu est Unavowed ?
 
-1. **Boucle principale** — elle correspond à ce que les joueurs Nintendo Switch attendent généralement de cette catégorie.
-2. **Portée** — **~9 h histoire, 12 h extras, ~17 h complétion**, donc vous savez si vous achetez un jeu de sessions courtes ou un gros chantier.
-3. **Ton** — si les bandes-annonces vous parlent, l’expérience devrait rester dans la même couleur.
+**Unavowed** relève de aventure, puzzle et jeu de rôle, mais l’achat se défend surtout par Affaires démoniaques, compagnons et New York occulte portent. Le signal 91 Metacritic rassure sur la qualité, tandis que ~9 h histoire, 12 h extras, ~17 h complétion fixe un effort raisonnable.
 
-## Comment Unavowed tourne sur Nintendo Switch ?
+## Comment tourne Unavowed sur Nintendo Switch ?
 
-**Unavowed** vise une lecture stable sur Nintendo Switch : chargements raisonnables, interface pensée pour la manette et lisibilité correcte en portable.
-
-- **Mode portable :** échelle de l’interface et clarté du mouvement sont les deux points à surveiller; attendez de petits compromis, pas une conversion ratée.
-- **Mode TV :** sauf vitrine d’effets, l’affichage sur téléviseur apporte surtout du confort.
-- **Commandes :** schéma classique; pas besoin d’un gyro exotique sauf mention claire sur la boutique.
+Sur Switch, regardez surtout la lisibilité et les commandes plutôt qu’une promesse technique. Le bon test: image portable claire, prise en main confortable et ~9 h histoire, 12 h extras, ~17 h complétion compatible avec votre temps de jeu.
 
 ## Achetez si
 
-- Vous aimez le rythme **aventure, puzzle et jeu de rôle** et la bande **91 Metacritic** correspond à votre seuil qualité
-- Votre région de compte est déjà dans la zone **promo** signalée par **GameGulf** — [à revérifier](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)
-- Vous cherchez un format compatible avec vos sessions — **~9 h histoire, 12 h extras, ~17 h complétion**
-- La bande-annonce ou une démo vous a déjà convaincu, il ne manquait que le **prix**
-- Vous privilégiez la commodité du numérique sur Nintendo Switch
+- Vous avez vraiment envie de **Affaires démoniaques, compagnons et New York occulte portent**
+- Votre région GameGulf se rapproche des lignes les moins chères
+- Le signal 91 Metacritic et ~9 h histoire, 12 h extras, ~17 h complétion correspondent à votre envie actuelle
 
 ## Attendez si
 
-- Votre boutique reste proche du plein tarif alors que d’autres régions affichent une **réduction** nette
-- Le mélange **aventure, puzzle et jeu de rôle** ne vous attire pas, même en **promo**
-- Votre budget du mois vise plutôt un RPG plus long
-- Vous possédez déjà le jeu ailleurs et ne voulez qu’un doublon au plus bas
-- Vous voulez confirmer la parité des patchs avant de revenir aux prix **GameGulf**
+- Votre boutique reste proche du plein tarif et vous ne le prendriez qu’en promo
+- Le principe ne vous attire pas malgré le prix
+- Vous le possédez déjà ailleurs et ne voulez qu’un doublon au plus bas
 
-## Unavowed sur Nintendo Switch — conclusion
+## En résumé
 
-**Unavowed** est une décision à deux axes sur Nintendo Switch : goût du **aventure, puzzle et jeu de rôle** et prix vérifié. Quand **GameGulf** montre une pile de **promos** favorable, l’accord entre envie et **Metacritic** compte plus que les slogans.
+**Unavowed** doit d’abord convaincre par le jeu: Affaires démoniaques, compagnons et New York occulte portent est le point d’accroche à valider avant la remise. Si cela vous parle, ~9 h histoire, 12 h extras, ~17 h complétion et 91 Metacritic en font une option Switch solide; sinon, une promo ne changera pas le fond.
 
-Parcourez **[GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price)** une fois, achetez si votre ligne régionale est bonne, sinon gardez gamegulf.com comme repère pour la prochaine fenêtre de **soldes**.
+Côté prix, gardez **GameGulf** comme dernier contrôle. Les régions les moins chères mènent le tableau; comparez aussi la devise native sur GameGulf. Mitigé — comparez le prix le plus bas en direct à la moyenne promo. 1 mouvements de remise suivis sur 12 mois. Achetez si votre région rejoint la bande basse; sinon, une alerte vaut mieux qu’un achat forcé.

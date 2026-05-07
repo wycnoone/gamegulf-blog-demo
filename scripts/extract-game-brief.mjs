@@ -677,6 +677,20 @@ async function extractOne(url, outDir, enrich = true) {
   const nuxt = unflattenNuxtPayload(flat);
   const brief = buildBrief(nuxt, ogTags, url);
 
+  // ── Validate critical fields ──
+  const missingFields = [];
+  if (!brief.game?.title) missingFields.push('game.title');
+  if (!brief.platforms || Object.keys(brief.platforms).length === 0) missingFields.push('platforms');
+  if (missingFields.length > 0) {
+    throw new Error(
+      `Brief validation failed — missing: ${missingFields.join(', ')}. ` +
+      `The Nuxt payload may have changed structure or the page returned unexpected HTML. URL: ${url}`
+    );
+  }
+  if (!brief.game?.description) {
+    console.warn(`  ! Missing game.description in extracted brief; continuing with sparse metadata. URL: ${url}`);
+  }
+
   if (enrich) {
     const [steamData, hltbData] = await Promise.all([
       enrichWithSteam(brief),

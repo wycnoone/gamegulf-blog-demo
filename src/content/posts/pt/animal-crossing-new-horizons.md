@@ -36,12 +36,12 @@ bestFor: Jogadores de rotinas suaves e projetos de decoração longos.
 avoidIf: Precisa de metas rígidas, combate ou história rápida.
 consensusPraise: Liberdade de decoração, ritmo sazonal, charme dos vizinhos.
 mainFriction: Final autodirigido — entedia se quiser missões constantes.
-timeFit:  ~61 h principal, ~152 h extras, ~413 h completionist (agregados).
+timeFit: ~61 h principal, ~152 h extras, ~413 h completionist (agregados).
 fitLabel: Criadores que tratam a ilha como projeto longo.
 timingNote: >-
   Se a sua linha segue o cluster baixo japonês, esperar mega promoção é pouco
   realista.
-communityVibe: Economia nabos + paisagem wholesome
+communityVibe: Ilha, vizinhos e pânico dos nabos viram rotina
 playtime: ~61 h principal · 152 h+ extras · ~413 h completionist
 reviewSignal: Long-tail cozy sim
 takeaway: >-
@@ -50,9 +50,7 @@ takeaway: >-
 playStyle: >-
   Relógio real, milhas Nook, receitas DIY, terraformação, visitas multijogador,
   partilha de designs.
-timeCommitment: >-
-  de dezenas de horas para uma visão de ilha até centenas para museu
-  completo.
+timeCommitment: de dezenas de horas para uma visão de ilha até centenas para museu completo.
 playMode: Ilha a solo + visitas locais/online; offline na sua ilha.
 whyNow: Primavera 2026 — preços indexados perto do observado; não adie sem motivo.
 currentDeal: >-
@@ -171,10 +169,10 @@ cardPriceNativeCurrency: JPY
 ---
 ## Veredito rapido
 
-**Animal Crossing: New Horizons** no **Nintendo Switch** e sobretudo uma decisao de encaixe + preco. Referencia de qualidade: **Long-tail cozy sim**.
+A compra de **Animal Crossing: New Horizons** começa pela pergunta simples: **Ilha, vizinhos e pânico dos nabos viram rotina** combina com você? Se essa cena de jogo te pega e sua região no GameGulf já está em promoção, a compra faz sentido; no preço cheio, não precisa correr.
 
 Animal Crossing: New Horizons encaixa quando o índice está perto do mínimo rastreado — valide primeiro se o ciclo cozy agrada.
-Sinal de discount/sale: em 2026 ainda ha faixa historical low util perto de €35.76.
+Sinal de promoção: em 2026 ainda ha faixa de menor preço perto de €35.76.
 
 Antes de fechar, compara tua regiao em [GameGulf](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price).
 
@@ -214,13 +212,13 @@ No geral, jogavel com estabilidade aceitavel; confirma sempre na versao atual.
 - o ritmo te atende: ~61 h principal · 152 h+ extras · ~413 h completionist
 ## Esperar se
 
-- tua loja ainda esta perto de MSRP e outras regioes ja cairam
+- tua loja ainda esta perto de preço cheio e outras regioes ja cairam
 - teu encaixe com o genero esta incerto
 - teu orcamento do mes esta reservado para outros jogos
 - Precisa de metas rígidas, combate ou história rápida.
 
-## Fechamento
+## Resumo
 
-Primeiro preco, depois gosto: aqui essa ordem e a mais segura. Poucos eventos de promoção claros na janela; fundos colam ao âncora Japão.
+A decisão em **Animal Crossing: New Horizons** começa pelo apelo concreto: **Ilha, vizinhos e pânico dos nabos viram rotina**. Se você quer **relógio em tempo real, milhas Nook, receitas DIY, terraformação, visitas multijogador e partilha de designs**, ele tem espaço no Switch; se essa rotina já parece distante, nem desconto transforma a experiência em prioridade. O tempo estimado é **~61 h principal · 152 h+ extras · ~413 h 100%**, então vale pensar se esse espaço cabe na sua rotina.
 
-Faz a ultima checagem em **[GameGulf](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price)** e decide compra vs espera.
+Antes do checkout, confira o [GameGulf](https://www.gamegulf.com/detail/dBQesuYO7Cn#currency-price): o menor preço atual indexado aparece perto de **EUR 35.76** em **Japão**; o mínimo histórico citado fica em **€35**. Comprar faz mais sentido quando a sua região acompanha essa faixa; fora dela, o desconto futuro provavelmente importa mais que a pressa.

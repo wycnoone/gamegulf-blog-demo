@@ -8,7 +8,7 @@ gameTitle: 《Novel Rogue》
 platform: Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 8 分钟阅读
 decision: GameGulf 显示日本区 €8 一档且你接受 KEMCO 卡组循环就买；若只吃主流评分或讨厌卡组 RNG 就别硬冲。
@@ -34,7 +34,7 @@ mainFriction: 媒体评分缺席意味着只能靠预告/口味试错。
 timeFit: 多局短线节奏；重度刷卡才会拖长。
 fitLabel: 先看清自己区服与日本价差的人。
 timingNote: 低价若已成立，犹豫多半是 backlog。
-communityVibe: KEMCO 梗、卡组随机吐槽、路线讨论
+communityVibe: 文字选择和肉鸽风险让每条路线都不太安稳
 reviewSignal: Metacritic 暂无可用汇总评分（KEMCO 卡组肉鸽）
 takeaway: 《Novel Rogue》是典型的类型先行——让 GameGulf 各行 EUR 索引替你算账。
 playStyle: Role-playing, Strategy
@@ -107,7 +107,7 @@ priceRows:
 cardPriceEur: 8.32
 cardPriceRegionCode: JP
 cardPriceRegion: 日本
-cardPrice: CNY 66.55
+cardPrice: CNY 66.61
 cardPriceNative: ¥1540
 cardPriceNativeCurrency: JPY
 faq:
@@ -126,7 +126,7 @@ playtime: 预估：单局约20–60分钟，靠反复游玩延长
 ---
 ## 快速结论
 
-**《Novel Rogue》**是 **Exe Create / KEMCO** 的像素 **卡组肉鸽 JRPG**，商店文案主打四本魔法书、墨水强化与随机地城。**Metacritic** 暂无汇总评分——决策要靠口味与分区价。
+**《Novel Rogue》** 的吸引力集中在 **文字选择和肉鸽风险让每条路线都不太安稳**。先确认你愿意投入这种循环，再用 GameGulf 核对区服价；玩法和价格都对上再买更稳。
 
 **折扣**追踪：**历史低价**约 **€5.82（日本，2026-01-14）**，过去一年约 **2** 次显著 **打折**，滚动 **均价** 约 **€11.46**，最近一次 noteworthy 变动约在 **43** 天前（**2026-03-17**，美国 **€17.10**，约 **15%** 降幅）。当下日本索引 **€8.32** 高于 1 月最深点但仍显著低于欧 **€19.99**——请看 [GameGulf](https://www.gamegulf.com/detail/1PBv755th4U#currency-price)。
 
@@ -134,19 +134,19 @@ playtime: 预估：单局约20–60分钟，靠反复游玩延长
 
 ## 《Novel Rogue》在 Switch 上大概多少钱？
 
-下表与 `priceRows` 同步。
+下表与 价格快照 同步。
 
 
 | 地区 | 价格（人民币折算） | 原生价格 |
 | --- | ---: | ---: |
-| 日本 | CNY 66.55 | ¥1540 |
-| 香港 | CNY 122.31 | HK$150 |
-| 美国 | CNY 136.79 | $17.10 |
-| 德国 | CNY 159.91 | €19.99 |
-| 意大利 | CNY 159.91 | €19.99 |
-| 葡萄牙 | CNY 159.91 | €19.99 |
-| 巴西 | CNY 160.95 | R$119.95 |
-| 英国 | CNY 165.43 | £17.99 |
+| 日本 | CNY 66.61 | ¥1540 |
+| 香港 | CNY 122.41 | HK$150 |
+| 美国 | CNY 136.90 | $17.10 |
+| 德国 | CNY 160.04 | €19.99 |
+| 意大利 | CNY 160.04 | €19.99 |
+| 葡萄牙 | CNY 160.04 | €19.99 |
+| 巴西 | CNY 161.08 | R$119.95 |
+| 英国 | CNY 165.56 | £17.99 |
 
 ## 这到底是什么样的游戏？
 
@@ -164,6 +164,8 @@ playtime: 预估：单局约20–60分钟，靠反复游玩延长
 
 - 你只愿意对齐 **€5.82** 历史最深点——下一个窗口不确定
 
-## 收尾
+## 总结
 
-把 **[gamegulf.com 分区页](https://www.gamegulf.com/detail/1PBv755th4U#currency-price)** 存好；卡组对口再买，别被欧元区标价吓到忘记比价。
+**《Novel Rogue》** 的购买价值主要来自文字选择和肉鸽风险让每条路线都不太安稳。具体玩起来，它不是只卖一个概念，而是把Role-playing, Strategy放在前台；喜欢 KEMCO 体量、能接受卡组随机的人。主要顾虑是：媒体评分缺席意味着只能靠预告/口味试错。时间投入约为预估：单局约20–60分钟，靠反复游玩延长。
+
+预算判断不必绕弯：最低价几行优先；结账前看原生货币；还不算最深——日本历史更低 euros（**2026-01-14** 附近 €5.82），当下 ~€8.32；过去一年约 2 次显著降价窗口，促销不算密集。你可以在 [GameGulf 价格页](https://www.gamegulf.com/detail/1PBv755th4U#currency-price) 复核实时价，再按历史低价、促销频率和本区折扣决定是否结账；还拿不准时，先在 GameGulf 对照本区现价和历史曲线，再决定现在买、等促销，还是干脆跳过。

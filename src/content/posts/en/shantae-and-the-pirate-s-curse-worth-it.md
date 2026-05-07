@@ -11,7 +11,7 @@ gameTitle: Shantae and the Pirate's Curse
 platform: Nintendo Switch
 primaryPlatformKey: switch 1
 primaryPlatformLabel: Nintendo Switch
-hasOtherPlatforms: true
+hasOtherPlatforms: false
 author: GameGulf Editorial AI
 readingTime: 7 min read
 decision: >-
@@ -47,7 +47,7 @@ mainFriction: Map ping-pong if you skip optional pickups early.
 timeFit: One weekend to roll credits; completionists stretch longer.
 fitLabel: Buyers who check euro vs. promo history before buying digital.
 timingNote: If you live in a low-sale region, alerts beat impulse MSRP.
-communityVibe: Animation charm + soundtrack love; WayForward faithfuls
+communityVibe: Pirate gear makes Shantae’s platforming sharper
 reviewSignal: 86 Metacritic
 takeaway: >-
   Quality is the easy yes — patience for the right GameGulf row is the adult
@@ -144,32 +144,32 @@ priceRows:
 cardPriceEur: 16.22
 cardPriceRegionCode: DE
 cardPriceRegion: Germany
-cardPrice: USD 18.99
+cardPrice: USD 19.09
 cardPriceNative: €16.22
 cardPriceNativeCurrency: EUR
 playtime: "Estimated: ~5–15 min runs; replay-driven"
 ---
 ## Quick verdict
 
-**Shantae and the Pirate's Curse** is the **third Shantae** beat where **Shantae loses genie magic** and inherits **Risky Boots' pirate toolkit** — **flintlock, scimitar, hat float, cannon jumps**, each gating **cursed islands** with **big sprite animation** and **tongue-in-cheek writing**. **Switch reviews cluster ~86 Metacritic**, which matches what fans praise: **readable hitboxes**, **tight hair-whip combat**, and **dungeon flow** that feels faster than some later entries. **GameGulf** data is the cold shower: **three** discount moves tracked in the past year, **global low ~€8.11** in **Spain (2025-11-17)**, **average sale ~€10.45**, while many **EU storefronts today sit ~€16.22** — that is **not** a **historical low** story unless your account still mirrors a promo row.
+For **Shantae and the Pirate's Curse**, the buy call starts with whether **Pirate gear makes Shantae’s platforming sharper** sounds like the kind of loop you actually want tonight. Make it a taste-and-price decision: want that loop first, then confirm your regional price on GameGulf.
 
 Track **[GameGulf live rows](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)** — it beats guessing whether your euro price is a **sale** or **catalog**.
 
 ## How much does Shantae and the Pirate's Curse cost on Nintendo Switch right now?
 
-**Digital still cleaves by territory** — the indexed **cheapest band** clusters in **€16.22-class euro markets** on **GameGulf**, while **North America** and **Brazil** step higher in converted terms and **Japan** is the pricing outlier on this snapshot. The markdown table mirrors **`priceRows`** we sync from the same brief powering **gamegulf.com** — **confirm native currency** before you click buy.
+**Digital still cleaves by territory** — the indexed **cheapest band** clusters in **€16.22-class euro markets** on **GameGulf**, while **North America** and **Brazil** step higher in converted terms and **Japan** is the pricing outlier on this snapshot. The markdown table mirrors **price snapshot** we sync from the same brief powering **gamegulf.com** — **confirm native currency** before you click buy.
 
 
 | Region | Price (USD equivalent) | Native price |
 | --- | ---: | ---: |
-| Germany | USD 18.99 | €16.22 |
-| Spain | USD 18.99 | €16.22 |
-| France | USD 18.99 | €16.22 |
-| Italy | USD 18.99 | €16.22 |
-| Portugal | USD 18.99 | €16.22 |
-| United Kingdom | USD 19.63 | £14.59 |
-| United States | USD 20.02 | $19.99 |
-| Brazil | USD 20.61 | R$104.99 |
+| Germany | USD 19.09 | €16.22 |
+| Spain | USD 19.09 | €16.22 |
+| France | USD 19.09 | €16.22 |
+| Italy | USD 19.09 | €16.22 |
+| Portugal | USD 19.09 | €16.22 |
+| United Kingdom | USD 19.74 | £14.59 |
+| United States | USD 20.13 | $19.99 |
+| Brazil | USD 20.73 | R$104.99 |
 
 ## What kind of game is Shantae and the Pirate's Curse, really?
 
@@ -197,6 +197,8 @@ Track **[GameGulf live rows](https://www.gamegulf.com/detail/2FXuQLdeecV#currenc
 - **Backtracking** for **squids** sounds like homework — skip unless you embrace the **collect loop**.
 - You want **voice-heavy narrative** — this is **text-forward** whimsy, not an RPG script vault.
 
-## Shantae and the Pirate's Curse on Nintendo Switch — closing take
+## Summary
 
-**Shantae and the Pirate's Curse** is an **easy recommend on taste** — the **wallet** question is whether you pay **catalog patience tax**. Keep **GameGulf** pinned on **[this SKU](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price)**, let **indexed discount history** (including **France ~€9.73 on 2025-12-31**) guide alerts, and treat **gamegulf.com** as the guardrail before you rubber-stamp **€16.22**.
+**Shantae and the Pirate's Curse** is easiest to recommend to Fans of colorful explore-platformers with tight animation. In practice, it means action, Adventure, Platformer. The upside is clear: ~86 Metacritic; Steam «Very Positive» at smaller sample size. The catch is map ping-pong if you skip optional pickups early. Use **Estimated: ~5–15 min runs; replay-driven** as the rough time commitment. If you dislike backtracking for Heart Squids and gear gates, there is no need to force it just because it is discounted.
+
+On price, separate a fair current buy from a true floor. Cheapest indexed rows sit in the euro band — compare native prices. Far from the ~€8.11 Spain low; today's shelf is closer to catalog euro tiers. Three tracked discount moves in the past year; global low ~€8.11 (ES, 2025-11-17); avg sale ~€10.45; last notable drop ~€9.73 (FR, 2025-12-31). If you want to play soon, check [GameGulf pricing](https://www.gamegulf.com/detail/2FXuQLdeecV#currency-price) against your region; if you only want the lowest possible entry, set an alert and wait for a deeper sale.

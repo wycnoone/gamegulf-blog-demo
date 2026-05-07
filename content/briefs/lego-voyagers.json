@@ -1,0 +1,829 @@
+{
+  "meta": {
+    "source_url": "https://www.gamegulf.com/detail/kUYGv5PLfx8",
+    "game_id": "kUYGv5PLfx8",
+    "extracted_at": "2026-05-07",
+    "extractor_version": "2.0.0",
+    "sources": [
+      "gamegulf",
+      "steam"
+    ]
+  },
+  "game": {
+    "title": "LEGO® Voyagers",
+    "description": "From the makers of LEGO® Builder's Journey comes a new 2-player co-op adventure about friendship and play. When two friends make it their mission to rescue an abandoned spaceship, they embark on a journey beyond their wildest dreams, ultimately learning the value of being connected.\n\n● Experience what it feels like to be a LEGO brick. Tumble, jump, snap together, and build your way through rich brick worlds.\n● Unravel a poetic, non verbal narrative, set in beautiful brick built environments, supported by an atmospheric soundtrack.\n● Cooperatively solve the game's many challenges and discover how two bricks are better than one. Play locally on the same screen, or online.\n● Invite a friend to join your adventure for free with the Friend’s Pass. As long as one of you owns LEGO Voyagers, you can both play the full co-op experience together.\n\nLEGO Voyagers asks open questions about building friendships, sharing dreams, and giving space.\n\nIt reminds us that while playing and being creative is for all shapes and sizes, it’s always better when you share it with a friend.",
+    "cover_image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581080358119192.octet-stream",
+    "all_images": [
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581080358119192.octet-stream",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581080563219127.octet-stream",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581080639714387.octet-stream",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581080714119112.octet-stream",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581080842114785.octet-stream",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581080937114443.octet-stream",
+      "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/10/177581081008713958.octet-stream"
+    ],
+    "genres": [
+      "Adventure",
+      "Puzzle"
+    ],
+    "release_date": "2025-09-15",
+    "developer": "Light Brick Studio",
+    "publisher": "Annapurna Interactive",
+    "metacritic": null
+  },
+  "platforms": {
+    "switch 1": {
+      "name": "Nintendo Switch 1",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 15.71,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.71
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 15.75,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.75
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 16.13,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.13
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.35,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.35
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 23.16,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 23.16
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-05-04",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2025-12-05",
+              "country_code": "GB",
+              "value": 18.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-01-19",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-25",
+              "country_code": "HK",
+              "value": 12.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "HK",
+              "value": 12.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-05-04",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2025-12-05",
+              "country_code": "GB",
+              "value": 18.53,
+              "currency": "EUR",
+              "country": "United Kingdom"
+            },
+            {
+              "date": "2026-01-19",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-01-25",
+              "country_code": "HK",
+              "value": 12.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "HK",
+              "value": 12.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-05-04",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        }
+      ]
+    },
+    "switch 2": {
+      "name": "Nintendo Switch 2",
+      "enabled": true,
+      "languages": [],
+      "digital": [
+        {
+          "country_code": "JP",
+          "country": "Japan",
+          "price": 15.71,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.71
+        },
+        {
+          "country_code": "BR",
+          "country": "Brazil",
+          "price": 15.75,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 15.75
+        },
+        {
+          "country_code": "HK",
+          "country": "Hong Kong SAR China",
+          "price": 16.13,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 16.13
+        },
+        {
+          "country_code": "US",
+          "country": "United States",
+          "price": 21.35,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 21.35
+        },
+        {
+          "country_code": "GB",
+          "country": "United Kingdom",
+          "price": 23.16,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 23.16
+        },
+        {
+          "country_code": "DE",
+          "country": "Germany",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "ES",
+          "country": "Spain",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "FR",
+          "country": "France",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        },
+        {
+          "country_code": "PT",
+          "country": "Portugal",
+          "price": 24.99,
+          "discount_price": null,
+          "discount_rate": null,
+          "discount_end": null,
+          "discount_end_timestamp": null,
+          "currency": "EUR",
+          "currency_symbol": "€",
+          "calculate_value": 24.99
+        }
+      ],
+      "physical": [],
+      "trend": [
+        {
+          "period": "30 D",
+          "entries": [
+            {
+              "date": "2026-04-28",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "180 D",
+          "entries": [
+            {
+              "date": "2026-01-25",
+              "country_code": "HK",
+              "value": 12.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "JP",
+              "value": 11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-28",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        },
+        {
+          "period": "1 Y",
+          "entries": [
+            {
+              "date": "2026-01-25",
+              "country_code": "HK",
+              "value": 12.86,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-19",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            },
+            {
+              "date": "2026-03-21",
+              "country_code": "JP",
+              "value": 11,
+              "currency": "EUR",
+              "country": "Japan"
+            },
+            {
+              "date": "2026-04-28",
+              "country_code": "HK",
+              "value": 16.13,
+              "currency": "EUR",
+              "country": "Hong Kong SAR China"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "lows": [
+    {
+      "type": "Global Low",
+      "entries": []
+    },
+    {
+      "type": "Local Low",
+      "entries": []
+    }
+  ],
+  "similar_games": [
+    {
+      "id": "eYpOkMfewb1",
+      "title": "LEGO® Party!",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/1/177504274382513176.jpeg",
+      "metacritic": null,
+      "price": 18.41,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2025-09-30",
+      "categories": [
+        "Party",
+        "Action",
+        "Arcade",
+        "Board game"
+      ],
+      "url": "https://www.gamegulf.com/detail/eYpOkMfewb1"
+    },
+    {
+      "id": "f6yD3LmB6q8",
+      "title": "LEGO® Bricktales",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510786885212396.jpeg",
+      "metacritic": 68,
+      "price": 0.2,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-10-12",
+      "categories": [
+        "Adventure",
+        "Other",
+        "Puzzle",
+        "Simulation"
+      ],
+      "url": "https://www.gamegulf.com/detail/f6yD3LmB6q8"
+    },
+    {
+      "id": "5gSIBnodQyz",
+      "title": "LEGO® Brawls",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177510996863013844.jpeg",
+      "metacritic": null,
+      "price": 2.02,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-02",
+      "categories": [
+        "Action",
+        "Arcade",
+        "Fighting"
+      ],
+      "url": "https://www.gamegulf.com/detail/5gSIBnodQyz"
+    },
+    {
+      "id": "gRwf0POjPF4",
+      "title": "LEGO® Worlds",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517416376813458.jpeg",
+      "metacritic": 59,
+      "price": 1.23,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-09-07",
+      "categories": [
+        "Adventure",
+        "Other"
+      ],
+      "url": "https://www.gamegulf.com/detail/gRwf0POjPF4"
+    },
+    {
+      "id": "kEbQafnYJd9",
+      "title": "LEGO® 2K Drive",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177509624146611686.jpeg",
+      "metacritic": null,
+      "price": 25.84,
+      "discount_price": 10.31,
+      "discount_rate": 60,
+      "discount_tag": "LowPrice",
+      "discount_end": "3 days",
+      "release_date": "2023-05-19",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Racing",
+        "Arcade"
+      ],
+      "url": "https://www.gamegulf.com/detail/kEbQafnYJd9"
+    },
+    {
+      "id": "2GhXVp3lBzO",
+      "title": "INSIDE",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939218704.jpeg",
+      "metacritic": 91,
+      "price": 8.54,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-01-30",
+      "categories": [
+        "Adventure",
+        "Puzzle",
+        "Action"
+      ],
+      "url": "https://www.gamegulf.com/detail/2GhXVp3lBzO"
+    },
+    {
+      "id": "bzB8Ejvh6BQ",
+      "title": "Snake Pass",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517494004113785.jpeg",
+      "metacritic": 72,
+      "price": 0.61,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2022-08-01",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/bzB8Ejvh6BQ"
+    },
+    {
+      "id": "5yQg2v3ODEh",
+      "title": "World Of Solitaire",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177514092135617241.jpeg",
+      "metacritic": null,
+      "price": 5.75,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2021-11-22",
+      "categories": [
+        "Adventure",
+        "Board game",
+        "Puzzle",
+        "Strategy"
+      ],
+      "url": "https://www.gamegulf.com/detail/5yQg2v3ODEh"
+    },
+    {
+      "id": "hqQRkZZKjRu",
+      "title": "SteamWorld Dig 2",
+      "image": "https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177517401474716415.jpeg",
+      "metacritic": 88,
+      "price": 0.87,
+      "discount_price": null,
+      "discount_rate": null,
+      "discount_tag": "Normal",
+      "discount_end": "",
+      "release_date": "2023-09-28",
+      "categories": [
+        "Action",
+        "Adventure",
+        "Platformer",
+        "Puzzle"
+      ],
+      "url": "https://www.gamegulf.com/detail/hqQRkZZKjRu"
+    }
+  ],
+  "schema_offers": [
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+      "priceCurrency": "GBP",
+      "price": "19.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-06-07T06:55:22+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+      "priceCurrency": "HKD",
+      "price": "148.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-06-07T06:55:22+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+      "priceCurrency": "USD",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-06-07T06:55:22+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+      "priceCurrency": "BRL",
+      "price": "90.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-06-07T06:55:22+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+      "priceCurrency": "ARS",
+      "price": "14600.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-06-07T06:55:22+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+      "priceCurrency": "EUR",
+      "price": "24.99",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-06-07T06:55:22+00:00"
+    },
+    {
+      "@type": "Offer",
+      "url": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+      "priceCurrency": "JPY",
+      "price": "2900.00",
+      "availability": "https://schema.org/InStock",
+      "seller": {
+        "@type": "Organization",
+        "name": "Nintendo eShop (Switch)"
+      },
+      "itemCondition": "https://schema.org/NewCondition",
+      "priceValidUntil": "2026-06-07T06:55:22+00:00"
+    }
+  ],
+  "price_analytics": {
+    "switch 1": {
+      "current_cheapest": {
+        "price_eur": 15.71,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 12.86,
+        "region": "HK",
+        "date": "2026-01-25"
+      },
+      "local_low": null,
+      "trend_from_lowest": {
+        "price_eur": 12.86,
+        "region": "HK",
+        "country": "Hong Kong SAR China",
+        "date": "2026-01-25"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 3,
+      "avg_discount_price_eur": 13.95,
+      "sale_periods": [
+        {
+          "start": "2026-01-25",
+          "end": "2026-01-25"
+        },
+        {
+          "start": "2026-03-21",
+          "end": "2026-03-21"
+        }
+      ],
+      "days_since_last_discount": 47,
+      "last_discount": {
+        "date": "2026-03-21",
+        "price_eur": 12.86,
+        "region": "Hong Kong SAR China",
+        "drop_pct": 20
+      },
+      "trend_entries_count": 6,
+      "price_verdict": "occasional_discounter"
+    },
+    "switch 2": {
+      "current_cheapest": {
+        "price_eur": 15.71,
+        "region": "Japan",
+        "country_code": "JP"
+      },
+      "global_low": {
+        "price_eur": 11,
+        "region": "JP",
+        "date": "2026-03-21"
+      },
+      "local_low": null,
+      "trend_from_lowest": {
+        "price_eur": 11,
+        "region": "JP",
+        "country": "Japan",
+        "date": "2026-03-21"
+      },
+      "at_or_near_historical_low": false,
+      "discount_events_1y": 1,
+      "avg_discount_price_eur": 11,
+      "sale_periods": [
+        {
+          "start": "2026-01-25",
+          "end": "2026-01-25"
+        },
+        {
+          "start": "2026-03-21",
+          "end": "2026-03-21"
+        }
+      ],
+      "days_since_last_discount": 47,
+      "last_discount": {
+        "date": "2026-03-21",
+        "price_eur": 11,
+        "region": "Japan",
+        "drop_pct": 32
+      },
+      "trend_entries_count": 4,
+      "price_verdict": "occasional_discounter"
+    }
+  },
+  "product_links": {
+    "detail": "https://www.gamegulf.com/detail/kUYGv5PLfx8",
+    "price_track": "https://www.gamegulf.com/detail/kUYGv5PLfx8#currency-price",
+    "wishlist": "https://www.gamegulf.com/wishlist",
+    "membership": "https://www.gamegulf.com/pricing"
+  },
+  "enrichment": {
+    "steam": {
+      "steam_app_id": 1538550,
+      "name": "LEGO® Voyagers",
+      "developer": [
+        "Light Brick Studio"
+      ],
+      "publisher": [
+        "Annapurna Interactive"
+      ],
+      "metacritic_score": null,
+      "metacritic_url": null,
+      "categories": [
+        "Multi-player",
+        "Co-op",
+        "Online Co-op",
+        "Shared/Split Screen Co-op",
+        "Shared/Split Screen",
+        "Steam Achievements",
+        "Full controller support",
+        "Steam Cloud",
+        "Remote Play Together",
+        "Family Sharing"
+      ],
+      "genres": [
+        "Adventure",
+        "Casual"
+      ],
+      "steam_price": "$24.99",
+      "total_recommendations": 1587,
+      "short_description": "From the makers of LEGO® Builder's Journey comes a new 2-player co-op adventure about friendship and play. When two friends make it their mission to rescue an abandoned spaceship, they embark on a journey beyond their wildest dreams.",
+      "supported_languages": "English, French, Italian, German, Spanish - Spain, Japanese, Korean, Polish, Portuguese - Brazil, Portuguese - Portugal, Russian, Simplified Chinese, Spanish - Latin America, Traditional Chinese",
+      "platforms": {
+        "windows": true,
+        "mac": false,
+        "linux": false
+      },
+      "reviews": {
+        "total_positive": 2449,
+        "total_negative": 327,
+        "total_reviews": 2776,
+        "score_description": "Very Positive",
+        "positive_percent": 88
+      }
+    },
+    "hltb": null
+  }
+}

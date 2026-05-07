@@ -39,7 +39,7 @@ mainFriction: Tom é aberto — saiba disso antes.
 timeFit: ~9 h / ~12 h+ / ~47 h caçando medalhas.
 fitLabel: Se Vers escondidas motivam você.
 timingNote: Brief sem escada de ofertas — veja GameGulf antes do checkout.
-communityVibe: Acerta Witch Time, viciou no combo
+communityVibe: Witch Time, saltos-armas e combos aéreos vendem o show
 playtime: ~9 h · ~12 h+ · ~47 h
 reviewSignal: 92 Metacritic
 takeaway: >-
@@ -58,8 +58,8 @@ nearHistoricalLow: >-
   Sem degrau mais baixo na janela seguida — Japão bate o global low ~35,53 €
   citado.
 salePattern: >-
-  **0** quedas contadas em um ano — trate como MSRP Nintendo até divergência
-  real.
+  **0** quedas contadas em um ano — trate como preço cheio Nintendo até
+  divergência real.
 priceRecommendation: buy
 quickFilters:
   - rarely_discounted
@@ -152,7 +152,7 @@ cardPriceNativeCurrency: JPY
 
 ## Veredito rápido
 
-**Bayonetta 2** segue **compra de qualidade** no **Switch** : **92 Metacritic**, Japão ~**35,53 €**, **0** **promoção** contada no ano — **rarely_discounted**.
+A compra de **Bayonetta 2** começa pela pergunta simples: **Witch Time, saltos-armas e combos aéreos vendem o show** combina com você? Se essa cena de jogo te pega e sua região no GameGulf já está em promoção, a compra faz sentido; no preço cheio, não precisa correr.
 
 Abra **[GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price)**.
 
@@ -189,6 +189,8 @@ Port **Platinum** maduro: lê bem o combate; picos em summons enormes.
 - **Esperar** só com alerta **GameGulf**, não mito de **discount** profundo.
 - **Pular** se tom/câmera são deal-breaker.
 
-## Fechamento
+## Resumo
 
-Confira **gamegulf.com** e finalize.
+**Bayonetta 2** vale entrar na lista quando **Witch Time, saltos-armas e combos aéreos vendem o show** soa como algo que você quer repetir no Switch. Na prática, a compra gira em torno de **capítulos de ação, versos secretos com pontuação, builds de acessórios e coop opcional em cima de um núcleo solo**. É uma boa aposta para quem quer combate difícil no portátil; perde força se tom é aberto — saiba disso antes. O tempo estimado é **~9 h · ~12 h+ · ~47 h**, então vale pensar se esse espaço cabe na sua rotina.
+
+A conta fecha melhor depois de comparar regiões no [GameGulf](https://www.gamegulf.com/detail/7eOWUfu8QJS#currency-price): o menor preço atual indexado aparece perto de **EUR 35.53** em **Japão**. Se o preço local não encostar no baixo atual ou no histórico, o caminho prudente é colocar alerta e aguardar promoção.
