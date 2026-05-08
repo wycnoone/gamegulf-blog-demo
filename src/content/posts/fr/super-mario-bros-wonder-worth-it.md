@@ -19,7 +19,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Mario 92 Metacritic — Japon mène ; presque pas de promos suivies.
-whatItIs: Mario 2D — Wonder Flowers, éléphant, badges, coop locale.
+whatItIs: Effets Wonder, badges, Yoshi/Nabbit et coop locale à quatre.
 bestFor: Familles et plateforme courte avec coop.
 avoidIf: À éviter si Mario 2D ou ce rythme vous laisse froid.
 consensusPraise: Set-pieces Wonder solides, niveaux lisibles, coop accessible.

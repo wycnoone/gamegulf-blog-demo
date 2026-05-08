@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Streets of Rage 4: Rebonds muraux, spéciaux risqués; vérifiez Japon ¥2,599"
-whatItIs: action, arcade et combat — Streets of Rage 4 sur Nintendo Switch
-bestFor: Pour qui accroche à Rebonds muraux, spéciaux.
+whatItIs: action, arcade et combat.
+bestFor: Joueurs réflexes qui valorisent la pression du score.
 avoidIf: À éviter si action, arcade et combat ou ce rythme vous laisse froid.
 consensusPraise: Rebonds muraux, spéciaux risqués et revanche canapé reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

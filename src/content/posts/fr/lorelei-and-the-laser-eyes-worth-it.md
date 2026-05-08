@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Lorelei and the Laser Eyes: Codes d’hôtel, fausses pistes et carnet exigent l’obsession"
-whatItIs: puzzle et aventure — Lorelei and the Laser Eyes sur Nintendo Switch
-bestFor: À conseiller si Codes d’hôtel, fausses pistes et carnet
+whatItIs: 'puzzle, aventure : règles d’énigme, indices et retour de solution.'
+bestFor: Esprits puzzle qui valorisent les règles claires.
 avoidIf: À éviter si puzzle et aventure ou ce rythme vous laisse froid.
 consensusPraise: Codes d’hôtel, fausses pistes et carnet exigent reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

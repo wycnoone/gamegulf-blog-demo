@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Bastion: El martillo del Kid y el narrador sostienen el viaje; revisa Alemania €12.49"
-whatItIs: acción, aventura y rol — Bastion en Nintendo Switch
-bestFor: Recomendable si te atrae El martillo del Kid y el narrador.
+whatItIs: Martillo del Kid, armas cambiables, narrador reactivo y arenas flotantes.
+bestFor: Planificadores de progreso que valoran compromisos de stats.
 avoidIf: Evítalo si acción, aventura y rol o ese ritmo no te llama.
 consensusPraise: El martillo del Kid y el narrador sostienen el viaje es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Rotwood : Coups lourds, coop et camp à améliorer ; vérifiez Brésil R$88.99"
-whatItIs: action, aventure et jeu de rôle — Rotwood sur NS2
-bestFor: Pour qui accroche à Coups lourds, coop et camp à.
+whatItIs: Coups lourds, coop, camp à améliorer rendent les runs faciles.
+bestFor: Chercheurs d’ambiance qui valorisent la découverte.
 avoidIf: À éviter si action, aventure et jeu de rôle ou ce rythme vous laisse
 consensusPraise: Avis Steam plutôt positifs, surtout sur combat, coop et builds
 mainFriction: Fatigue du genre ou promos décalées selon les régions

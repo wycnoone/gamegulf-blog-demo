@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Vampire Survivors: Ail, pluie de gemmes et évolutions plein; vérifiez Brésil R$10.99"
-whatItIs: action et aventure — Vampire Survivors sur Nintendo Switch
-bestFor: À conseiller si Ail, pluie de gemmes et évolutions plein
+whatItIs: Ail, pluie de gemmes, évolutions plein écran hypnotisent.
+bestFor: Joueurs curieux qui valorisent l’orientation légère.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Ail, pluie de gemmes et évolutions plein écran reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

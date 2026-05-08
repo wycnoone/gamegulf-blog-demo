@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Death's Door : La fauche du corbeau donne son humour ; vérifiez Japon ¥2,050"
-whatItIs: action, aventure et arcade — Death's Door sur Nintendo Switch
-bestFor: À conseiller si La fauche du corbeau donne son humour noir
+whatItIs: 'action, aventure, arcade : pression de visée, scoring et boucles courtes.'
+bestFor: Joueurs réflexes qui valorisent l’exécution.
 avoidIf: À éviter si action, aventure et arcade ou ce rythme vous laisse froid.
 consensusPraise: La fauche du corbeau donne son humour noir reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Axiom Verge — アクション / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー — Nintendo Switch版Axiom Verge。
-bestFor: アクション / アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: グリッチ銃、異星マップ、隠し通路、能力解放で進む探索型アクション。
+bestFor: 導線ある寄り道を重視する探索重視の人。
 avoidIf: アクション / アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Evoland Legendary Edition: Visual era jumps are Evoland’s nostalgia trick; check Hong Kong"
-whatItIs: action, adventure, role-playing — Evoland Legendary Edition on Nintendo Switch
-bestFor: Best if you want visual era jumps are Evoland’s nostalgia
+whatItIs: 'action, adventure, role-playing: Visual era jumps.'
+bestFor: Build-minded RPG fans who value party planning.
 avoidIf: Skip if action, adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: Visual era jumps are Evoland’s nostalgia trick is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

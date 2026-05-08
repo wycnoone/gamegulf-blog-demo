@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Grindstone — puzzle; April 2026 GameGulf pricing shows a wide regional spread worth comparing
-whatItIs: puzzle — Grindstone on Nintendo Switch
-bestFor: Best if you want chain kills, greed, and escape timing
+whatItIs: 'puzzle: puzzle rules, clue flow, and solution feedback.'
+bestFor: Slow-burn solvers who value earned solutions.
 avoidIf: Skip if puzzle or that rhythm leaves you cold.
 consensusPraise: Chain kills, greed, and escape timing make every board tense is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

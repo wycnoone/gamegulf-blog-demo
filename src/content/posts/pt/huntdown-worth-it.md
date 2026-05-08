@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Huntdown: Slide atirando, cartazes e gangues 80s dão o tom; confira Japão ¥1,999"
-whatItIs: ação, arcade e plataforma — Huntdown no Nintendo Switch
-bestFor: Para quem curte Slide atirando, cartazes.
+whatItIs: 'ação, arcade, plataforma: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Caçadores de score que valorizam ritmo arcade.
 avoidIf: Evite se ação, arcade e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Axiom Verge: Armas glitch, corredores alien e mapa suspeito seguram; confira Brasil R$36.99"
-whatItIs: ação e aventura — Axiom Verge no Nintendo Switch
-bestFor: Jogadores que querem ação e aventura em modo portátil
+whatItIs: Armas glitch, corredores alien, mapa suspeito seguram.
+bestFor: Jogadores curiosos que valorizam orientação leve.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

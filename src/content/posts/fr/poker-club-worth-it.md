@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Poker Club : Lecture de table, folds lents et bluff ; vérifiez Allemagne €17.59"
-whatItIs: simulation et stratégie — Poker Club sur Nintendo Switch
-bestFor: À conseiller si Lecture de table, folds lents et bluff en
+whatItIs: >-
+  simulation, stratégie : planification des tours, ressources et contrôle de
+  carte.
+bestFor: Planificateurs qui valorisent la réflexion posée.
 avoidIf: À éviter si simulation et stratégie ou ce rythme vous laisse froid.
 consensusPraise: Lecture de table, folds lents et bluff en ligne reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

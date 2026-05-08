@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Fitness Boxing Fist of the North Star: Hokuto punches turn workout reps into silly anime"
-whatItIs: Training, sports, music — Fitness Boxing Fist of the North Star on Nintendo Switch
-bestFor: Best if you want hokuto punches turn workout reps
+whatItIs: >-
+  Training, sports, music: core systems, mode structure, and input feel decide
+  the fit.
+bestFor: Genre-aware players who value low-regret buying.
 avoidIf: Skip if training, sports, music or that rhythm leaves you cold.
 consensusPraise: Hokuto punches turn workout reps into silly anime motivation is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Persona 4 Golden: Inaba-Nebel, Social Links und TV-Dungeons bleiben; prüfe Japan ¥1,980"
-whatItIs: Rollenspiel — Persona 4 Golden auf Nintendo Switch
-bestFor: Für Spieler, die Inaba-Nebel, Social Links reizt.
+whatItIs: Inaba-Alltag, Social Links, TV-Dungeons und rundenbasierte Persona-Kämpfe.
+bestFor: Build-RPG-Fans, die Fortschrittswahl schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rollenspiel nicht reizt
 consensusPraise: Das Kritikerband (90 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

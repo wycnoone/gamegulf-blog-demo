@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ikaruga: Polaridad blanco-negro y carriles de balas parecen meditación; revisa Japón ¥1,650"
-whatItIs: acción, arcade y disparos — Ikaruga en Nintendo Switch
-bestFor: Recomendable si te atrae Polaridad blanco-negro y carriles
+whatItIs: >-
+  acción, arcade, disparos: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Cazadores de puntuación que valoran presión de puntuación.
 avoidIf: Evítalo si acción, arcade y disparos o ese ritmo no te llama.
 consensusPraise: Polaridad blanco-negro y carriles de balas parecen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

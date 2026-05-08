@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Assault Android Cactus+: Bateria acabando e twin-stick deixam o coop caótico"
-whatItIs: ação, arcade e tiro — Assault Android Cactus+ no Nintendo Switch
-bestFor: Jogadores que querem ação, arcade e tiro em modo portátil
+whatItIs: 'ação, arcade, tiro: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Perfis arcade que valorizam pressão de score.
 avoidIf: Evite se ação, arcade e tiro ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

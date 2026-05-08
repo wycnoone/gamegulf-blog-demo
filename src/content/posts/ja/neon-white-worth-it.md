@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Neon White — アクション / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー — Nintendo Switch版Neon White。
-bestFor: アクション / アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: カード破棄アクション、短ステージ、ゴースト比較、メダル狙いのFPS。
+bestFor: ルートへの好奇心を重視する探索重視の人。
 avoidIf: アクション / アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 88点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

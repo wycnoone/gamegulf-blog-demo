@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Yooka-Replaylee: Dúo, coleccionables y ADN Banjo son la propuesta; revisa Japón ¥3,400"
-whatItIs: acción y aventura — Yooka-Replaylee en NS2
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Dúo, coleccionables, ADN Banjo.
+bestFor: Exploradores que valoran ambiente sin farmeo.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Dúo, coleccionables y ADN Banjo son la propuesta es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

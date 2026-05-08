@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Stardew Valley: Ferme, cœurs du village et “un jour; vérifiez Brésil R$24.99"
-whatItIs: jeu de rôle et simulation — Stardew Valley sur Nintendo Switch
-bestFor: Pour qui accroche à Ferme, cœurs du village et “un.
+whatItIs: 'jeu de rôle, simulation : routine, améliorations et objectifs au long cours.'
+bestFor: Optimiseurs tranquilles qui préfèrent les routines stables.
 avoidIf: À éviter si jeu de rôle et simulation ou ce rythme vous laisse froid.
 consensusPraise: Ferme, cœurs du village et “un jour de plus” avalent reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

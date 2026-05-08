@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "SteamWorld Dig 2 : Foreuse de Dorothy, lumière et minerais ; vérifiez Japon ¥2,000"
-whatItIs: action, aventure et plates-formes — SteamWorld Dig 2 sur Nintendo Switch
-bestFor: À conseiller si Foreuse de Dorothy, lumière et minerais
+whatItIs: Foreuse de Dorothy, lumière, minerais tirent vers le bas.
+bestFor: Explorateurs qui valorisent l’orientation légère.
 avoidIf: À éviter si action, aventure et plates-formes ou ce rythme vous laisse
 consensusPraise: Foreuse de Dorothy, lumière et minerais tirent vers reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

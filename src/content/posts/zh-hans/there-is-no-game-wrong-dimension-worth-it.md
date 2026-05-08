@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 这里没有游戏：错误维度：冒险、解谜、模拟；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、解谜、模拟 — Switch 版 这里没有游戏：错误维度。
-bestFor: 喜欢和游戏吵架、拆 UI 规则就是它最大的笑点的玩家
+whatItIs: 冒险、解谜、模拟：谜题规则、线索递进和解法反馈。
+bestFor: 爱解谜的玩家，看重安静推理。
 avoidIf: 需要强指引或不吃和游戏吵架、拆 UI 规则就是它最大的笑点就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

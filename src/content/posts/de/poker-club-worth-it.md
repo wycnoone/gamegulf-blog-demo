@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Poker Club: Table Reads, langsame Folds und Online-Bluff-Geduld zählen; prüfe Deutschland €17.59"
-whatItIs: Simulation und Strategie — Poker Club auf Nintendo Switch
-bestFor: Für Spieler, die Table Reads, langsame Folds reizt.
+whatItIs: 'Simulation, Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Taktiker, die Ressourcenwahl schätzen.
 avoidIf: Auslassen, wenn dich der Mix Simulation und Strategie nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

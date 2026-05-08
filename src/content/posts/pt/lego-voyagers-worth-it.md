@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "LEGO Voyagers: Dois bloquinhos em espaços grandes deixam o coop terno; confira Japão ¥2,900"
-whatItIs: aventura e quebra-cabeça — LEGO Voyagers no NS2
-bestFor: Vale se Dois bloquinhos em espaços grandes parece seu tipo
+whatItIs: Coop de dois bloquinhos, puzzles físicos, movimento compartilhado e espaços grandes.
+bestFor: Solucionadores pacientes que valorizam tempo para pensar.
 avoidIf: Evite se aventura e quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Warframe : Bullet jumps, farm de frames et mods ; vérifiez États-Unis $0.00"
-whatItIs: action, jeu de rôle et tir — Warframe sur Nintendo Switch
-bestFor: À conseiller si Bullet jumps, farm de frames et mods sont
+whatItIs: >-
+  action, jeu de rôle, tir : timing de combat, mobilité et rythme des
+  rencontres.
+bestFor: Joueurs combatifs qui valorisent les tests clairs.
 avoidIf: À éviter si action, jeu de rôle et tir ou ce rythme vous laisse froid.
 consensusPraise: Bullet jumps, farm de frames et mods sont le vrai tuto reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

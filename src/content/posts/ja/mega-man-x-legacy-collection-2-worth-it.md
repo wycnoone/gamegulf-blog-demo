@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Mega Man X Legacy Collection 2 — アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション — Nintendo Switch版Mega Man X Legacy Collection 2。
-bestFor: アクションのテンポを携帯機で遊びたい人。
+whatItIs: アクション：戦闘テンポ、移動感、遭遇設計。
+bestFor: メニュー待ちの少なさを重視する手を動かしたい人。
 avoidIf: アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 60点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

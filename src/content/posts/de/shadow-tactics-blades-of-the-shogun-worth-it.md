@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun: Quicksave-Stealth und Sync-Kills machen Patrouillen zu"
-whatItIs: "Action und Strategie — Shadow Tactics: Blades of the Shogun auf NS2"
-bestFor: Für Spieler mit Lust auf Quicksave-Stealth und Sync-Kills
+whatItIs: 'Action, Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Geduldige Entscheider, die Druck ohne Twitch schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Strategie nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

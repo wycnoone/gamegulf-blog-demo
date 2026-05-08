@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Grindstone — パズル。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: パズル — Nintendo Switch版Grindstone。
-bestFor: パズルのテンポを携帯機で遊びたい人。
+whatItIs: パズル：中核システム、モード構成、操作感で相性を見る。
+bestFor: ジャンル相性を重視するジャンル嗜好が明確な人。
 avoidIf: パズルの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -30,8 +30,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Enter the Gungeon — アクション / アドベンチャー / シューティング。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / シューティング — Nintendo Switch版Enter the Gungeon。
-bestFor: アクション / アドベンチャー / シューティングのテンポを携帯機で遊びたい人。
+whatItIs: アクション, アドベンチャー, シューティング：エイム圧、スコアルート、短い面の反復。
+bestFor: 実行力テストを重視するアーケード派。
 avoidIf: アクション / アドベンチャー / シューティングの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

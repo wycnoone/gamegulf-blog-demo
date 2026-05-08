@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Out of Line: Sans Speerrätsel und Fabrikmelancholie tragen den Kurztrip; prüfe Brasilien R$29.99"
-whatItIs: Action, Abenteuer und Plattformer — Out of Line auf Nintendo Switch
-bestFor: Für Spieler, die Sans Speerrätsel reizt.
+whatItIs: Speerwurf-Rätsel, Fabrikräume, Plattform-Timing und kurze Melancholie.
+bestFor: Level-Challenge-Fans, die klare Levelziele schätzen.
 avoidIf: Meiden, wenn Sans Speerrätsel und Fabrikmelancholie dich nicht reizt
 consensusPraise: Das Kritikerband (71 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

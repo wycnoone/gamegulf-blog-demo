@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Sport & Fun: Swimming: Timing des mouvements et couloirs répétés font toute la nage; vérifiez"
-whatItIs: "simulation et sport — Sport & Fun: Swimming sur Nintendo Switch"
-bestFor: À conseiller si Timing des mouvements et couloirs répétés
+whatItIs: 'simulation, sport : routine, améliorations et objectifs au long cours.'
+bestFor: Optimiseurs tranquilles qui valorisent les objectifs longs.
 avoidIf: À éviter si simulation et sport ou ce rythme vous laisse froid.
 consensusPraise: Timing des mouvements et couloirs répétés font toute reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

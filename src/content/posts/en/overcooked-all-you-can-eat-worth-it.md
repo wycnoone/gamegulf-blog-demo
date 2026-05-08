@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! All You Can Eat: All kitchens and all the shouting become the feast; check United"
-whatItIs: simulation, strategy, action — Overcooked! All You Can Eat on Nintendo Switch
-bestFor: Best if you want all kitchens and all the shouting become
+whatItIs: >-
+  simulation, strategy, action: turn planning, resource pressure, and map
+  control.
+bestFor: Careful decision-makers who value deliberate turns.
 avoidIf: Skip if simulation, strategy, action or that rhythm leaves you cold.
 consensusPraise: All kitchens and all the shouting become the feast is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

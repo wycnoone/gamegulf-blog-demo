@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FULL METAL SCHOOLGIRL: Schoolgirl mechs and office-tower carnage sell the absurd action; check"
-whatItIs: action, shooter — FULL METAL SCHOOLGIRL on NS2
-bestFor: Best if you want schoolgirl mechs and office-tower carnage
+whatItIs: 'action, shooter: aiming pressure, scoring routes, and short-stage loops.'
+bestFor: Reflex players who value short skill checks.
 avoidIf: Skip if action, shooter or that rhythm leaves you cold.
 consensusPraise: Schoolgirl mechs and office-tower carnage sell the absurd action is the main
 mainFriction: If the hook misses, the rhythm can feel thin

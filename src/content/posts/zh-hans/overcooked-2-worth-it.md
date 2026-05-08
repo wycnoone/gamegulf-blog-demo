@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 胡闹厨房2：聚会、策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 聚会、策略 — Switch 版 胡闹厨房2。
-bestFor: 喜欢扔洋葱、移动厨房和友情破裂才是胡闹厨房味的玩家
+whatItIs: 聚会、策略：扔洋葱、移动厨房和友情破裂。
+bestFor: 偏策略的玩家，看重资源选择。
 avoidIf: 需要强指引或不吃扔洋葱、移动厨房和友情破裂才是胡闹厨房味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 81 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

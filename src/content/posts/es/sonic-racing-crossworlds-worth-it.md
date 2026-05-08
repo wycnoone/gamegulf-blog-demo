@@ -28,8 +28,10 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sonic Racing: CrossWorlds: Portales CrossWorld y boosts rivales crean caos Sonic"
-whatItIs: "carreras, deportes y fiesta — Sonic Racing: CrossWorlds en Nintendo Switch"
-bestFor: Recomendable si te atrae Portales CrossWorld y boosts
+whatItIs: >-
+  carreras, deportes, fiesta: sistemas, modos y sensación de control marcan el
+  encaje.
+bestFor: Cazadores de puntuación que valoran ritmo arcade.
 avoidIf: Evítalo si carreras, deportes y fiesta o ese ritmo no te llama.
 consensusPraise: Portales CrossWorld y boosts rivales crean caos es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Evoland Legendary Edition: Historia del juego, mejoras visuales y cambios de género tiran"
-whatItIs: acción, aventura y rol — Evoland Legendary Edition en Nintendo Switch
-bestFor: Recomendable si te atrae Historia del juego, mejoras
+whatItIs: Evolución visual, cambios de género, guiños RPG y combates retro.
+bestFor: Pensadores de equipo que valoran menús con peso.
 avoidIf: Evítalo si acción, aventura y rol o ese ritmo no te llama.
 consensusPraise: Historia del juego, mejoras visuales y cambios de es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

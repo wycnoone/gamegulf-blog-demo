@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "A Short Hike: La subida de Claire mezcla recados, conchas y planeos con calma; revisa Japón ¥850"
-whatItIs: aventura y plataformas — A Short Hike en Nintendo Switch
-bestFor: Recomendable si te atrae La subida de Claire mezcla recados.
+whatItIs: La subida de Claire mezcla recados, conchas, planeos con calma.
+bestFor: Buscadores de ambiente que valoran textura narrativa.
 avoidIf: Evítalo si aventura y plataformas o ese ritmo no te llama.
 consensusPraise: La subida de Claire mezcla recados, conchas es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

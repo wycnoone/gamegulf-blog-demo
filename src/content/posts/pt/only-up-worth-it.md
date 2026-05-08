@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "ONLY UP!: Um salto errado e pânico de streamer são quase o jogo; confira Hong Kong HK$39"
-whatItIs: ação, arcade e festa — ONLY UP! no Nintendo Switch
-bestFor: Jogadores que querem ação, arcade e festa em modo portátil
+whatItIs: 'ação, arcade, festa: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Caçadores de score que valorizam pressão de score.
 avoidIf: Evite se ação, arcade e festa ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

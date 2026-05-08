@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: NBA 2K26：体育；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 体育 — NS2 版 NBA 2K26。
-bestFor: 喜欢投篮时机、生涯刷成长和阵容争论最容易吵起来的玩家
+whatItIs: 体育：核心系统、模式结构和操作手感决定适配度。
+bestFor: 先看适配度的玩家，看重先适配后种草。
 avoidIf: 需要强指引或不吃投篮时机、生涯刷成长和阵容争论最容易吵起来就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

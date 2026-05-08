@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "There Is No Game: Wrong Dimension: Discuter avec le jeu et casser l’UI fait toute la blague"
-whatItIs: "aventure, puzzle et simulation — There Is No Game: Wrong Dimension sur Nintendo Switch"
-bestFor: À conseiller si Discuter avec le jeu et casser l’UI fait
+whatItIs: 'aventure, puzzle, simulation : règles d’énigme, indices et retour de solution.'
+bestFor: Lecteurs d’indices qui valorisent les solutions méritées.
 avoidIf: À éviter si aventure, puzzle et simulation ou ce rythme vous laisse
 consensusPraise: Discuter avec le jeu et casser l’UI fait toute la reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

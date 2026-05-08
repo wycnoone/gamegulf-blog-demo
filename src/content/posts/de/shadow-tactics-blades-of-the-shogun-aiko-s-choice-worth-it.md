@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun - Aiko's Choice: Aikos Verkleidungen und Sync-Kills tragen"
-whatItIs: "Action und Strategie — Shadow Tactics: Blades of the Shogun - Aiko's Choice auf NS2"
-bestFor: Für Spieler, die Aikos Verkleidungen und Sync-Kills reizt.
+whatItIs: 'Action, Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Lage-Leser, die ruhiges Denken schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Strategie nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

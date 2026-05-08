@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Streets of Rage 4: Wallbounces, Risiko-Specials und Sofa-Rache tragen; prüfe Japan ¥2,599"
-whatItIs: Action, Arcade und Kampfspiel — Streets of Rage 4 auf Nintendo Switch
-bestFor: Für Spieler, die Wallbounces, Risiko-Specials reizt.
+whatItIs: 'Action, Arcade, Kampfspiel: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Zielgefühl-Spieler, die kurze Skillchecks schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Arcade und Kampfspiel nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

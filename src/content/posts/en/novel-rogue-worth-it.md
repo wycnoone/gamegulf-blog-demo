@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Novel Rogue deck roguelite; Apr 2026 GameGulf JP €8.32 vs EU €19.99, sparse sales
-whatItIs: Deck-building roguelite JRPG — four storybooks, Ink upgrades, turn-based card fights
+whatItIs: 'Role-playing, Strategy: turn planning, resource pressure, and map control.'
 bestFor: Fans of bite-sized KEMCO grind loops and card RNG novelty
 avoidIf: You want prestige critic scores or dislike RNG-heavy deckbuilders
 consensusPraise: Tiny Steam sample skews positive — buzz is thin without critic anchors

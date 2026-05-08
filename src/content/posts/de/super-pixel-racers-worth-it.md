@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Super Pixel Racers: Top-Down-Drifts und Pixel-Crash-Groll tragen; prüfe Japan ¥1,507"
-whatItIs: Rennspiel — Super Pixel Racers auf Nintendo Switch
-bestFor: Für Fans von Top-Down-Drifts und Pixel-Crash-Groll.
+whatItIs: 'Rennspiel: Systeme, Modi und Eingabegefühl entscheiden die Passung.'
+bestFor: Reflexspieler, die direktes Feedback schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rennspiel nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

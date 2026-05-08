@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: グッドナイト・ユニバース — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー — NS2版グッドナイト・ユニバース。
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー：赤ちゃんアイザックの超能力。
+bestFor: ルートへの好奇心を重視する道探しが好きな人。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

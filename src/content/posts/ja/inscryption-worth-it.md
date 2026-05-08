@@ -30,8 +30,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Inscryption — ストラテジー / アドベンチャー / パズル。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: ストラテジー / アドベンチャー / パズル — Nintendo Switch版Inscryption。
-bestFor: ストラテジー / アドベンチャー / パズルのテンポを携帯機で遊びたい人。
+whatItIs: ストラテジー, アドベンチャー, パズル：探索の流れ、インタラクション、ルート選択。
+bestFor: 軽い道探しを重視する発見好き。
 avoidIf: ストラテジー / アドベンチャー / パズルの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

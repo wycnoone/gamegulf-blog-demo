@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Mega Man X Legacy Collection 2: X4 nostalgia, armor parts, and late-series weirdness split"
-whatItIs: action — Mega Man X Legacy Collection 2 on Nintendo Switch
-bestFor: Best if you want x4 nostalgia, armor parts, and late-series
+whatItIs: 'action: combat timing, movement feel, and encounter rhythm.'
+bestFor: Combat-first players who value clear skill checks.
 avoidIf: Skip if action or that rhythm leaves you cold.
 consensusPraise: X4 nostalgia, armor parts, and late-series weirdness split fans is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

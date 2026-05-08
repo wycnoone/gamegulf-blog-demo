@@ -29,7 +29,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DAVE THE DIVER: Blue-Hole-Überraschungen und Sushi-Rush fressen Tage; prüfe Japan ¥2,500"
 whatItIs: "Tauchabenteuer plus Restaurant-Sim: tagsüber Fische fangen, abends Sushi servieren."
-bestFor: Für Spieler, die Blue-Hole-Überraschungen reizt.
+bestFor: Genre-sichere Spieler, die Geschmack vor Hype schätzen.
 avoidIf: Meiden, wenn du reine Action oder reine Verwaltung willst.
 consensusPraise: Humor, Look und Genre-Mix tragen auch nach 30 Std.+.
 mainFriction: Manche Management-Passagen können grindig wirken, neue Systeme kommen schnell dazu.

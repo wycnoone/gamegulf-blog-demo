@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kaiju Wars: Ciudades desechables y matemáticas kaiju hacen gracia; revisa Brasil R$69.99"
-whatItIs: estrategia, plataformas y rol — Kaiju Wars en Nintendo Switch
-bestFor: Recomendable si te atrae Ciudades desechables y matemáticas.
+whatItIs: >-
+  estrategia, plataformas, rol: planificación por turnos, recursos y control del
+  mapa.
+bestFor: Lectores del tablero que valoran compromisos claros.
 avoidIf: Evítalo si estrategia, plataformas y rol o ese ritmo no te llama.
 consensusPraise: Ciudades desechables y matemáticas kaiju hacen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

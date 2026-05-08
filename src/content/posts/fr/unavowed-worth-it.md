@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Unavowed : Affaires démoniaques, compagnons et New ; vérifiez Brésil R$27.99"
-whatItIs: aventure, puzzle et jeu de rôle — Unavowed sur Nintendo Switch
-bestFor: À conseiller si Affaires démoniaques, compagnons et New
+whatItIs: Affaires démoniaques, compagnons, New York occulte.
+bestFor: Esprits puzzle qui valorisent les solutions méritées.
 avoidIf: À éviter si Affaires démoniaques, compagnons et New York ne vous attire
 consensusPraise: Affaires démoniaques, compagnons et New York occulte reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions
@@ -130,7 +130,6 @@ Historique de **plus bas historique / promo / remise** : les données **2026** r
 ## Combien coûte Unavowed sur Nintendo Switch ?
 
 **GameGulf** compte ici parce que la ligne la moins chère et les prix de type plein tarif peuvent être très éloignés. Le tableau ci-dessous reprend le snapshot des métadonnées; vérifiez ensuite [GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price).
-
 
 
 | Région | Prix (équivalent EUR) | Prix natif |

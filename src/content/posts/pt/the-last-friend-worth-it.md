@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Last Friend: Resgatar cães, barricadas e lanes deixam estranho; confira Japão ¥1,520"
-whatItIs: aventura, arcade e luta — The Last Friend no Nintendo Switch
-bestFor: Vale se Resgatar cães, barricadas e lanes parece seu tipo
+whatItIs: 'aventura, arcade, luta: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Jogadores de mira que valorizam resposta direta.
 avoidIf: Evite se aventura, arcade e luta ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "There Is No Game: Wrong Dimension: Discutir con el juego y romper la interfaz es el chiste"
-whatItIs: "aventura, puzle y simulación — There Is No Game: Wrong Dimension en Nintendo Switch"
-bestFor: Recomendable si te atrae Discutir con el juego y romper la.
+whatItIs: 'aventura, puzle, simulación: reglas de puzle, pistas y respuesta de solución.'
+bestFor: Solucionadores pacientes que valoran cadenas de pistas.
 avoidIf: Evítalo si aventura, puzle y simulación o ese ritmo no te llama.
 consensusPraise: Discutir con el juego y romper la interfaz es el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

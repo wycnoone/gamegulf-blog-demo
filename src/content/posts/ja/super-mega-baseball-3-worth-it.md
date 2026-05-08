@@ -30,8 +30,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Super Mega Baseball 3 — アーケード / シミュレーション / スポーツ。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アーケード / シミュレーション / スポーツ — Nintendo Switch版Super Mega Baseball 3。
-bestFor: アーケード / シミュレーション / スポーツのテンポを携帯機で遊びたい人。
+whatItIs: アーケード, シミュレーション, スポーツ：日課、アップグレード循環、長期目標。
+bestFor: 反復作業を重視するシステム派。
 avoidIf: アーケード / シミュレーション / スポーツの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

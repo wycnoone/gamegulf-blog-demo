@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Two Point Campus: Absurd courses make campus planning the joke; check Hong Kong HK$238"
-whatItIs: strategy — Two Point Campus on Nintendo Switch
-bestFor: Best if you want absurd courses make campus planning
+whatItIs: 'strategy: turn planning, resource pressure, and map control.'
+bestFor: Planning-first players who value resource choices.
 avoidIf: Skip if strategy or that rhythm leaves you cold.
 consensusPraise: Absurd courses make campus planning the joke is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

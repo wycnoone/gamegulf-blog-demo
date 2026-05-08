@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nicktoons & The Dice of Destiny: Banter Nicktoons et chaos RPG aux dés font le pitch; vérifiez"
-whatItIs: action, aventure et jeu de rôle — Nicktoons & The Dice of Destiny sur Nintendo Switch
-bestFor: Pour qui accroche à Banter Nicktoons et chaos RPG.
+whatItIs: Banter Nicktoons, chaos RPG aux dés.
+bestFor: Chercheurs d’ambiance qui valorisent la curiosité de route.
 avoidIf: À éviter si action, aventure et jeu ou ce rythme vous laisse froid.
 consensusPraise: Banter Nicktoons et chaos RPG aux dés font le pitch reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Last Campfire: Ember’s lantern makes small sadness feel; check Japan ¥1,480"
-whatItIs: adventure, puzzle — The Last Campfire on Nintendo Switch
-bestFor: Best if you want ember’s lantern makes small sadness feel
+whatItIs: Lantern puzzles, small dioramas, forlorn rescues, and gentle exploration.
+bestFor: Slow-burn solvers who value quiet deduction.
 avoidIf: Skip if adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Ember’s lantern makes small sadness feel gentle is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

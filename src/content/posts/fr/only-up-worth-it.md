@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "ONLY UP! : Un saut raté et la panique de stream ; vérifiez Hong Kong HK$39"
-whatItIs: action, arcade et soirée — ONLY UP! sur Nintendo Switch
-bestFor: À conseiller si Un saut raté et la panique de stream font
+whatItIs: 'action, arcade, soirée : pression de visée, scoring et boucles courtes.'
+bestFor: Chasseurs de score qui valorisent la pression du score.
 avoidIf: À éviter si action, arcade et soirée ou ce rythme vous laisse froid.
 consensusPraise: Un saut raté et la panique de stream font presque tout reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

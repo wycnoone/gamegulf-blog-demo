@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "LEGO Voyagers: Deux petites briques dans de grands espaces; vérifiez Japon ¥2,900"
-whatItIs: aventure et puzzle — LEGO Voyagers sur NS2
-bestFor: Pour qui accroche à Deux petites briques dans.
+whatItIs: Coop de deux briques, puzzles physiques, mouvement partagé et grands espaces.
+bestFor: Solveurs patients qui valorisent les solutions méritées.
 avoidIf: À éviter si aventure et puzzle ou ce rythme vous laisse froid.
 consensusPraise: Deux petites briques dans de grands espaces donnent un reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

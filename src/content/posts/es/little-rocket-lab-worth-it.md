@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Little Rocket Lab: Piezas de cohete, taller y pueblo marcan el ritmo; revisa Brasil R$39.99"
-whatItIs: aventura, puzle y rol — Little Rocket Lab en Nintendo Switch
-bestFor: Recomendable si te atrae Piezas de cohete, taller y pueblo.
+whatItIs: Piezas de cohete, taller, pueblo.
+bestFor: Jugadores de puzle que valoran soluciones ganadas.
 avoidIf: Evítalo si aventura, puzle y rol o ese ritmo no te llama.
 consensusPraise: Piezas de cohete, taller y pueblo marcan el ritmo es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FULL METAL SCHOOLGIRL: Mechas colegialas y oficinas rotas venden la locura"
-whatItIs: acción y disparos — FULL METAL SCHOOLGIRL en NS2
-bestFor: Jugadores que quieren acción y disparos en formato portátil
+whatItIs: 'acción, disparos: ritmo de combate, movimiento y encuentros.'
+bestFor: Fans del reto activo que valoran pruebas claras.
 avoidIf: Evítalo si acción y disparos o ese ritmo no te llama.
 consensusPraise: Mechas colegialas y oficinas rotas venden la locura es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

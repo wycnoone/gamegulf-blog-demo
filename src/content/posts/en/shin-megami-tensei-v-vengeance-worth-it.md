@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Shin Megami Tensei V: Vengeance: Press Turns, demon fusion, and Da’at ambushes keep it brutal"
-whatItIs: "action, adventure, role-playing — Shin Megami Tensei V: Vengeance on Nintendo Switch"
-bestFor: Best if you want press Turns, demon fusion, and Da’at
+whatItIs: Press Turn combat, demon fusion, Da’at exploration, and ambush-heavy RPG routes.
+bestFor: Build-minded RPG fans who value stat tradeoffs.
 avoidIf: Skip if action, adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: Press Turns, demon fusion, and Da’at ambushes keep it brutal is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Dosa Divas: Pedidos de dosa e pancadaria deixam a cozinha explosiva; confira Japão ¥2,300"
-whatItIs: ação, aventura e RPG — Dosa Divas no NS2
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Pedidos de dosa, pancadaria de cozinha, combos rápidos e caos local.
+bestFor: Fãs de builds RPG que valorizam planejamento de equipe.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

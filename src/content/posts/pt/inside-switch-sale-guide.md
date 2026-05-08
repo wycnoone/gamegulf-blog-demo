@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "INSIDE: Menino, cães, água e pavor mudo carregam a descida; confira Brasil R$72.99"
-whatItIs: aventura, quebra-cabeça e ação — INSIDE no Nintendo Switch
-bestFor: Para quem curte Menino, cães, água e pavor mudo.
+whatItIs: 'aventura, quebra-cabeça, ação: regras de puzzle, pistas e retorno da solução.'
+bestFor: Solucionadores pacientes que valorizam soluções merecidas.
 avoidIf: Evite se aventura, quebra-cabeça e ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (91 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.
@@ -130,7 +130,6 @@ Histórico de **menor preço histórico / promoção / desconto**: os dados de *
 ## Quanto custa INSIDE no Nintendo Switch agora?
 
 O **GameGulf** importa aqui porque a linha barata e os preços cheios podem ficar bem distantes. A tabela abaixo vem dos metadados do artigo; use como retrato regional e confira [GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
-
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |

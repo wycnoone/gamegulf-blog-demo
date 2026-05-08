@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Shin Megami Tensei V: Vengeance: Press Turn, fusão de demônios e Da’at batem forte; confira"
-whatItIs: "ação, aventura e RPG — Shin Megami Tensei V: Vengeance no Nintendo Switch"
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Press Turn, fusão de demônios, exploração de Da’at e emboscadas duras.
+bestFor: Pensadores de equipe que valorizam identidade de build.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

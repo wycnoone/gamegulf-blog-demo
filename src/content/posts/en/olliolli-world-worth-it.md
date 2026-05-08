@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "OlliOlli World: Manual chains, weird skate gods, and restart flow make it click; check Hong"
-whatItIs: arcade, shooter, platformer — OlliOlli World on Nintendo Switch
-bestFor: Best if you want manual chains, weird skate gods
+whatItIs: 'arcade, shooter, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Precision players who value fair retries.
 avoidIf: Skip if arcade, shooter, platformer or that rhythm leaves you cold.
 consensusPraise: Manual chains, weird skate gods, and restart flow make it click is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

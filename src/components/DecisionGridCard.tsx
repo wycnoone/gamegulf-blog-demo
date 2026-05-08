@@ -1,47 +1,17 @@
 import type { DecisionEntryCardModel } from '@/lib/blog-shared';
-import { intlLocales } from '@/lib/i18n';
-import { t } from '@/lib/translations';
-import {
-  getDecisionDisplayTitle,
-  getCompactPriceCall,
-  getMetacriticStatForCard,
-} from '@/lib/decision-card-display';
+import { getDecisionCardDisplay } from '@/lib/decision-card-display';
 
 type DecisionGridCardProps = {
   card: DecisionEntryCardModel;
   layout?: 'default' | 'worth-it-panel';
 };
 
-function formatCardDate(card: DecisionEntryCardModel) {
-  return new Intl.DateTimeFormat(intlLocales[card.locale], {
-    year: 'numeric', month: 'short', day: 'numeric',
-  }).format(new Date(card.updatedAt || card.publishedAt));
-}
-
-function getReadingMeta(card: DecisionEntryCardModel) {
-  const minutes = card.readingTime.match(/\d+/u)?.[0];
-  return minutes ? t(card.locale, 'card.minRead', { n: minutes }) : card.readingTime;
-}
-
-function getReviewMeta(card: DecisionEntryCardModel) {
-  return getMetacriticStatForCard(card);
-}
-
 export function DecisionGridCard({
   card,
   layout = 'default',
 }: DecisionGridCardProps) {
-  const compactPriceCall = getCompactPriceCall(card);
+  const display = getDecisionCardDisplay(card);
   const primaryHref = card.href;
-  const displayTitle = getDecisionDisplayTitle(card);
-  const compactWhatItIs = card.whatItIs;
-  const compactBestFor = card.bestFor;
-  const compactCommunityVibe = card.communityVibe || null;
-  const priceAdviceText = compactPriceCall.label;
-  const priceAdviceDetail = compactPriceCall.detail;
-  const reviewMeta = getReviewMeta(card);
-  const trackLabel = t(card.locale, 'card.track');
-  const primaryCtaLabel = card.primaryCtaLabel;
 
   return (
     <article
@@ -69,7 +39,7 @@ export function DecisionGridCard({
         <div className="decision-card-title-block-pro">
           <h3>
             <a href={card.href} onClick={(e) => e.stopPropagation()}>
-              {displayTitle}
+              {display.displayTitle}
             </a>
           </h3>
         </div>
@@ -80,14 +50,14 @@ export function DecisionGridCard({
           ))}
         </div>
 
-        <p className="decision-summary-pro decision-summary-block-pro">{compactWhatItIs}</p>
+        <p className="decision-summary-pro decision-summary-block-pro">{display.compactWhatItIs}</p>
 
-        {compactCommunityVibe ? (
+        {display.compactCommunityVibe ? (
           <div className="decision-vibe-pro">
             <span className="decision-vibe-label-pro">
-              {t(card.locale, 'card.playerConsensus')}
+              {display.playerConsensusLabel}
             </span>
-            <p className="decision-vibe-text-pro">&ldquo;{compactCommunityVibe}&rdquo;</p>
+            <p className="decision-vibe-text-pro">&ldquo;{display.compactCommunityVibe}&rdquo;</p>
           </div>
         ) : null}
 
@@ -99,18 +69,18 @@ export function DecisionGridCard({
               <path d="M12 12.4L15.2 14.2" stroke="currentColor" strokeWidth="2.2" strokeLinecap="round" />
             </svg>
             <span>
-              {t(card.locale, 'card.estLength')}{' '}
-              <strong>{card.playtime || t(card.locale, 'common.na')}</strong>
+              {display.estimatedLengthLabel}{' '}
+              <strong>{card.playtime || display.missingValueLabel}</strong>
             </span>
           </span>
-          {reviewMeta ? (
+          {display.reviewMeta ? (
             <span className="decision-stat-item-pro">
               <span className="decision-meta-icon-pro" aria-hidden="true">
                 <svg width="12" height="12" viewBox="0 0 24 24" fill="none">
                   <path d="M4 16V8L12 13L20 8V16" stroke="white" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" />
                 </svg>
               </span>
-              <span>{reviewMeta}</span>
+              <span>{display.reviewMeta}</span>
             </span>
           ) : null}
         </div>
@@ -118,18 +88,18 @@ export function DecisionGridCard({
         <div className="decision-core-grid-pro">
           <div className="decision-core-item-pro">
             <span className="decision-core-label-pro">
-              {t(card.locale, 'card.bestFor')}
+              {display.bestForLabel}
             </span>
-            <span className="decision-core-value-pro">{compactBestFor}</span>
+            <span className="decision-core-value-pro">{display.compactBestFor}</span>
           </div>
           <div className="decision-core-item-pro">
             <span className="decision-core-label-pro">
-              {t(card.locale, 'card.advice')}
+              {display.adviceLabel}
             </span>
             <span className="decision-core-value-pro decision-core-value-signal-pro">
-              {priceAdviceText}
+              {display.priceAdviceText}
             </span>
-            <span className="decision-core-support-pro">{priceAdviceDetail}</span>
+            <span className="decision-core-support-pro">{display.priceAdviceDetail}</span>
           </div>
         </div>
 
@@ -139,20 +109,20 @@ export function DecisionGridCard({
               <path d="M10 4.5V15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
               <path d="M4.5 10H15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
             </svg>
-            <span>{primaryCtaLabel}</span>
+            <span>{display.primaryCtaLabel}</span>
             <svg className="decision-cta-plus-pro" viewBox="0 0 20 20" fill="none" aria-hidden="true">
               <path d="M10 4.5V15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
               <path d="M4.5 10H15.5" stroke="currentColor" strokeWidth="2.6" strokeLinecap="round" />
             </svg>
           </a>
           <a href={card.priceTrackHref} className="decision-cta-track-pro" onClick={(e) => e.stopPropagation()}>
-            {trackLabel}
+            {display.trackLabel}
           </a>
         </div>
 
         <div className="decision-card-footer-meta-pro">
-          <span>{formatCardDate(card)}</span>
-          <span>{getReadingMeta(card)}</span>
+          <span>{display.cardDate}</span>
+          <span>{display.readingMeta}</span>
         </div>
       </div>
     </article>

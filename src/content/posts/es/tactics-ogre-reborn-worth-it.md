@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Tactics Ogre: Reborn: Tarot, altura y miedo a permadeath definen la guerra; revisa Japón ¥5,480"
-whatItIs: "rol y simulación — Tactics Ogre: Reborn en Nintendo Switch"
-bestFor: Jugadores que quieren rol y simulación en formato portátil
+whatItIs: 'rol, simulación: rutina diaria, mejoras y objetivos largos.'
+bestFor: Optimizadores tranquilos que valoran mejoras pequeñas.
 avoidIf: Evítalo si rol y simulación o ese ritmo no te llama.
 consensusPraise: Tarot, altura y miedo a permadeath definen la guerra es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

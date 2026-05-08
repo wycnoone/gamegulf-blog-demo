@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun - Aiko's Choice: Aiko vend l’extension avec déguisements"
-whatItIs: "action et stratégie — Shadow Tactics: Blades of the Shogun - Aiko's Choice sur NS2"
-bestFor: À conseiller si Aiko vend l’extension avec déguisements
+whatItIs: 'action, stratégie : planification des tours, ressources et contrôle de carte.'
+bestFor: Décideurs prudents qui valorisent les choix de ressources.
 avoidIf: À éviter si action et stratégie ou ce rythme vous laisse froid.
 consensusPraise: Aiko vend l’extension avec déguisements et synchro reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

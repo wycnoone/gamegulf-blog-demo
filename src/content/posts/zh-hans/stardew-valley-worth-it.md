@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 星露谷物语：农场生活 RPG、模拟；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 农场生活 RPG、模拟 — Switch 版星露谷物语。
+whatItIs: 农场生活 RPG、模拟、合作游玩：日常循环、升级路线和长期目标。
 bestFor: 想要种田、采矿、钓鱼、村民关系与长期农场规划的人。
 avoidIf: 不喜欢每日循环、体力管理、送礼关系和开放式存档就别硬买。
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。

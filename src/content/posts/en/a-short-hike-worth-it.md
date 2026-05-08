@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "A Short Hike: Claire’s climb turns shells and glides; check Japan ¥850"
-whatItIs: adventure, platformer — A Short Hike on Nintendo Switch
-bestFor: Best if you want a cozy climb with gliding and detours.
+whatItIs: 'adventure, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Stage-challenge fans who value skill gates.
 avoidIf: Skip if adventure, platformer or that rhythm leaves you cold.
 consensusPraise: Claire’s climb turns shells and glides into cozy detours is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

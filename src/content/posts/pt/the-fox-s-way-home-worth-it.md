@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Fox's Way Home: Raposa guia e caminhos de santuário criam folclore; confira Brasil R$49.99"
-whatItIs: aventura — The Fox's Way Home no Nintendo Switch
-bestFor: Jogadores que querem aventura em modo portátil
+whatItIs: Raposa guia, caminhos de santuário, folclore quieto e exploração curta.
+bestFor: Jogadores de rotas que valorizam textura narrativa.
 avoidIf: Evite se aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

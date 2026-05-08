@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nickelodeon Kart Racers 2: Grand Prix: Slime, atalhos e elenco cartoon fazem kart de família"
-whatItIs: "ação, arcade e corrida — Nickelodeon Kart Racers 2: Grand Prix no Nintendo Switch"
-bestFor: Para quem curte Slime, atalhos e elenco cartoon.
+whatItIs: 'ação, arcade, corrida: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Jogadores de mira que preferem pressão de score.
 avoidIf: Evite se ação, arcade e corrida ou esse ritmo não combina.
 consensusPraise: A faixa crítica (72 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

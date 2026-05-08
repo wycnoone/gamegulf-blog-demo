@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FEZ : La rotation de FEZ rend chaque porte ; vérifiez États-Unis $14.99"
-whatItIs: aventure et plates-formes — FEZ sur Nintendo Switch
-bestFor: Pour qui accroche à La rotation de FEZ rend chaque.
+whatItIs: 'aventure, plates-formes : exploration, interactions et choix de route.'
+bestFor: Chercheurs d’ambiance qui valorisent la découverte.
 avoidIf: À éviter si aventure et plates-formes ou ce rythme vous laisse froid.
 consensusPraise: La rotation de FEZ rend chaque porte suspecte reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

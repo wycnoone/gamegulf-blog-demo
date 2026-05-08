@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "MARVEL Cosmic Invasion: Héros en tag et mobs arcade vendent; vérifiez États-Unis $29.99"
-whatItIs: action, arcade et combat — MARVEL Cosmic Invasion sur Nintendo Switch
-bestFor: Pour qui accroche à Héros en tag et mobs arcade.
+whatItIs: action, arcade et combat.
+bestFor: Joueurs d’adresse qui valorisent le feedback direct.
 avoidIf: À éviter si action, arcade et combat ou ce rythme vous laisse froid.
 consensusPraise: Héros en tag et mobs arcade vendent la bagarre comics reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Mini Metro: Uma estação nova pode destruir o mapa perfeito; confira Japão ¥1,100"
-whatItIs: quebra-cabeça, simulação e ação — Mini Metro no Nintendo Switch
-bestFor: Para quem curte Uma estação nova pode destruir.
+whatItIs: 'quebra-cabeça, simulação, ação: regras de puzzle, pistas e retorno da solução.'
+bestFor: Leitores de pistas que valorizam tempo para pensar.
 avoidIf: Evite se quebra-cabeça, simulação e ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

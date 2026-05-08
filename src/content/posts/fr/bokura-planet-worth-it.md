@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BOKURA: planet : Deux écrans, deux vérités: la dispute ; vérifiez Brésil R$17.89"
-whatItIs: "action, aventure et puzzle — BOKURA: planet sur NS2"
-bestFor: Pour qui accroche à Deux écrans, deux vérités:.
+whatItIs: Coop à deux visions, écrans divergents, énigmes de dialogue et disputes utiles.
+bestFor: Lecteurs d’indices qui valorisent le temps de réflexion.
 avoidIf: À éviter si action, aventure et puzzle ou ce rythme vous laisse froid.
 consensusPraise: "Deux écrans, deux vérités: la dispute coop fait le jeu reste le vrai point"
 mainFriction: Fatigue du genre ou promos décalées selon les régions

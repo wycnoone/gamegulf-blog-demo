@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Tactics Ogre: Reborn: Tarotwahl, Höhenlagen und Permadeath-Angst prägen Krieg"
-whatItIs: "Rollenspiel und Simulation — Tactics Ogre: Reborn auf Nintendo Switch"
-bestFor: Für Spieler, die Tarotwahl, Höhenlagen reizt.
+whatItIs: 'Rollenspiel, Simulation: Alltagsroutine, Upgrade-Schleifen und Langzeitziele.'
+bestFor: Routinebauer, die stabile Routinen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rollenspiel und Simulation nicht reizt
 consensusPraise: Das Kritikerband (84 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

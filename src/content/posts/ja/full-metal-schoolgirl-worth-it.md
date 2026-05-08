@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: FULL METAL SCHOOLGIRL — アクション / シューティング。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / シューティング — NS2版FULL METAL SCHOOLGIRL。
-bestFor: アクション / シューティングのテンポを携帯機で遊びたい人。
+whatItIs: アクション / シューティング：女子高生メカとオフィス破壊の馬鹿馬鹿しさ。
+bestFor: スコア圧を重視するアーケード派。
 avoidIf: アクション / シューティングの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

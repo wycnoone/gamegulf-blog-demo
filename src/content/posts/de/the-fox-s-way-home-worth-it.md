@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Fox's Way Home: Fuchsführung und Schreinpfade tragen Folklore-Stimmung"
-whatItIs: Abenteuer — The Fox's Way Home auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Fuchsführung und Schreinpfade
+whatItIs: Fuchsführung, Schreinpfade.
+bestFor: Stimmungsfans, die geführtes Streunen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

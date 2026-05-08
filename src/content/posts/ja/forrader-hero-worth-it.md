@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Forrader Hero — アクション / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー — Nintendo Switch版Forrader Hero。
-bestFor: アクション / アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: 一歩ご、の選択、ルート計算、報酬欲。
+bestFor: 導線ある寄り道を重視する雰囲気重視の人。
 avoidIf: アクション / アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

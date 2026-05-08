@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Blue Prince: Draftear salas y leer la mansión vuelve cada plano debate; revisa Brasil R$88.99"
-whatItIs: aventura y puzle — Blue Prince en NS2
-bestFor: Jugadores que quieren aventura y puzle en formato portátil
+whatItIs: Draftear salas, leer la mansión.
+bestFor: Lectores de pistas que valoran cadenas de pistas.
 avoidIf: Evítalo si aventura y puzle o ese ritmo no te llama.
 consensusPraise: Draftear salas y leer la mansión vuelve cada plano es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

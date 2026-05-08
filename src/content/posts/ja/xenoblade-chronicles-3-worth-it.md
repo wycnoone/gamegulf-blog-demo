@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: ゼノブレイド3 — RPG / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: オープンワールドJRPG：リアルタイム戦闘、クラス切替、60時間以上のメインストーリー。
+whatItIs: リアルタイムJRPG：オート攻撃からアーツ、チェインアタック、ウロボロス融合へ。クラス切替で全キャラが全ロールを担える。広大なオープンゾーンを探索。
 bestFor: 広大な世界と深い戦闘が欲しいJRPGファン。
 avoidIf: 短時間で遊びたい——60時間以上の覚悟が必要、序盤はスロー。
 consensusPraise: 世界規模、戦闘の深さ、柔軟なクラスシステムが60時間以上のプレイを支える。

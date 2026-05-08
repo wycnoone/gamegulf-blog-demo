@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Guacamelee! Super Turbo Championship Edition: Dimensionswechsel und Lucha-Schläge tragen den"
-whatItIs: Action und Plattformer — Guacamelee! Super Turbo Championship Edition auf Nintendo Switch
-bestFor: Für Spieler, die Dimensionswechsel und Lucha-Schläge reizt.
+whatItIs: 'Action, Plattformer: Level-Fluss, Bewegungstiming und Retry-Rhythmus.'
+bestFor: Präzisionsspieler, die faire Retries schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Plattformer nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

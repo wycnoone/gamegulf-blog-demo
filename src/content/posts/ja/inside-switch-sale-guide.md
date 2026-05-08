@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: INSIDE — アドベンチャー / パズル / アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / パズル / アクション — Nintendo Switch版INSIDE。
-bestFor: アドベンチャー / パズル / アクションのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー, パズル, アクション：戦闘テンポ、移動感、遭遇設計。
+bestFor: ルートへの好奇心を重視する雰囲気重視の人。
 avoidIf: アドベンチャー / パズル / アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 91点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。
@@ -130,7 +130,6 @@ coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/2/177516957939
 ## INSIDE のNintendo Switch価格はいくら？
 
 この作品は地域差が出やすいので、**GameGulf** の表で自分のアカウント地域を確認する価値があります。下の表は記事メタデータ由来のスナップショットです。
-
 
 
 | 地域 | 価格（円換算） | 現地価格 |

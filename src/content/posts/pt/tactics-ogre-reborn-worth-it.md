@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Tactics Ogre: Reborn: Tarô, altura e medo de permadeath definem a guerra; confira Japão ¥5,480"
-whatItIs: "RPG e simulação — Tactics Ogre: Reborn no Nintendo Switch"
-bestFor: Jogadores que querem RPG e simulação em modo portátil
+whatItIs: 'RPG, simulação: rotina diária, upgrades e metas longas.'
+bestFor: Jogadores de sistemas que valorizam otimização leve.
 avoidIf: Evite se RPG e simulação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (84 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

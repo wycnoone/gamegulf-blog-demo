@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Kaiju Wars：策略、平台跳跃、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 策略、平台跳跃、角色扮演 — Switch 版 Kaiju Wars。
-bestFor: 喜欢城市当耗材、怪兽压境和绝望算术让输也有节目效果的玩家
+whatItIs: 策略、平台跳跃、角色扮演：关卡推进、移动节奏和重试手感。
+bestFor: 偏策略的玩家，看重清楚取舍。
 avoidIf: 需要强指引或不吃城市当耗材、怪兽压境和绝望算术让输也有节目效果就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

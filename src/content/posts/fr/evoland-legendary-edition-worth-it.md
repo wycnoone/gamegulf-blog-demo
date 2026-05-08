@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Evoland Legendary Edition: Blagues d’histoire du jeu et upgrades visuels font la nostalgie"
-whatItIs: action, aventure et jeu de rôle — Evoland Legendary Edition sur Nintendo Switch
-bestFor: Pour qui accroche à Blagues d’histoire du jeu.
+whatItIs: Blagues d’histoire du jeu, upgrades visuels.
+bestFor: Explorateurs qui valorisent la découverte.
 avoidIf: À éviter si action, aventure et jeu ou ce rythme vous laisse froid.
 consensusPraise: Blagues d’histoire du jeu et upgrades visuels font la reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

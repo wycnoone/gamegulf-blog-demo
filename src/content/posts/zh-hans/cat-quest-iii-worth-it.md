@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 猫咪斗恶龙III：冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、角色扮演 — Switch 版 猫咪斗恶龙III。
-bestFor: 喜欢喵勒比航海、猫梗和快速捡装让节奏很轻快的玩家
+whatItIs: 冒险、角色扮演：探索推进、互动规则和路线选择。
+bestFor: 菜单决策型玩家，看重构筑身份。
 avoidIf: 需要强指引或不吃喵勒比航海、猫梗和快速捡装让节奏很轻快就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

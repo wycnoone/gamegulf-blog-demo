@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Axiom Verge: Armas glitch, pasillos alienígenas y mapa sospechoso enganchan"
-whatItIs: acción y aventura — Axiom Verge en Nintendo Switch
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Armas glitch, pasillos alienígenas, mapa sospechoso.
+bestFor: Jugadores de rutas que valoran ambiente sin farmeo.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Armas glitch, pasillos alienígenas y mapa sospechoso es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

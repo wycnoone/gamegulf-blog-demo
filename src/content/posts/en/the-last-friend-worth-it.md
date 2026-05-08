@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Last Friend: Dog rescues, barricades, and beat-’em-up; check Japan ¥1,520"
-whatItIs: adventure, arcade, fighting — The Last Friend on Nintendo Switch
-bestFor: Best if you want dog rescues, barricades, and beat-’em-up
+whatItIs: >-
+  adventure, arcade, fighting: aiming pressure, scoring routes, and short-stage
+  loops.
+bestFor: Arcade-minded players who value fast retries.
 avoidIf: Skip if adventure, arcade, fighting or that rhythm leaves you cold.
 consensusPraise: Dog rescues, barricades, and beat-’em-up lanes make it oddball is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

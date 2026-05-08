@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Human: Fall Flat: Wackelgriffe und Freunde ruinieren Pläne: genau der Witz; prüfe Hongkong HK$99"
-whatItIs: "Abenteuer, Plattformer und Puzzle — Human: Fall Flat auf Nintendo Switch"
-bestFor: Für Spieler mit Lust auf Wackelgriffe und Freunde
+whatItIs: >-
+  Abenteuer, Plattformer, Puzzle: Rätselregeln, Hinweisfluss und
+  Lösungsfeedback.
+bestFor: Geduldige Knobler, die ruhige Deduktion schätzen.
 avoidIf: Meiden, wenn Wackelgriffe und Freunde ruinieren Pläne dich nicht reizt
 consensusPraise: Das Kritikerband (65 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

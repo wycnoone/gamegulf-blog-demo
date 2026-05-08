@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Dosa Divas: Dosa orders and brawler chaos make the kitchen feel combustible; check Japan ¥2,300"
-whatItIs: action, adventure, role-playing — Dosa Divas on NS2
-bestFor: Best if you want dosa orders and brawler chaos make
+whatItIs: Dosa orders, brawler chaos.
+bestFor: Progression planners who value build identity.
 avoidIf: Skip if action, adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: Dosa orders and brawler chaos make the kitchen feel combustible is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

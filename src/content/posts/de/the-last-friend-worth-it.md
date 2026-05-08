@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Last Friend: Hundrettung, Barrikaden und Brawler-Lanes machen es schräg; prüfe Japan ¥1,520"
-whatItIs: Abenteuer, Arcade und Kampfspiel — The Last Friend auf Nintendo Switch
-bestFor: Für Spieler, die Hundrettung, Barrikaden reizt.
+whatItIs: 'Abenteuer, Arcade, Kampfspiel: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Arcade-Spieler, die schnelle Retries schätzen.
 avoidIf: Meiden, wenn Hundrettung, Barrikaden und Brawler-Lanes dich nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

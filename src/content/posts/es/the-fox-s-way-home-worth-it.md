@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Fox's Way Home: Zorro guía y santuarios tranquilos dan tono folclórico"
-whatItIs: aventura — The Fox's Way Home en Nintendo Switch
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: Zorro guía, santuarios tranquilos.
+bestFor: Jugadores curiosos que valoran orientación ligera.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: Zorro guía y santuarios tranquilos dan tono es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

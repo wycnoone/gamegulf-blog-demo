@@ -27,7 +27,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Teenage Mutant Ninja Turtles: Shredder's Revenge: Pizza heals make TMNT couch chaos sing; check"
 whatItIs: action, adventure, Other
-bestFor: Best if you want pizza heals make TMNT couch chaos sing
+bestFor: Atmosphere seekers who value environmental discovery.
 avoidIf: Skip if action, adventure, Other or that rhythm leaves you cold.
 consensusPraise: Pizza heals make TMNT couch chaos sing is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

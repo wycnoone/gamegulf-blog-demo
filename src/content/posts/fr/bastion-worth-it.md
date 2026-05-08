@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Bastion : Le marteau du Kid et le narrateur ; vérifiez Allemagne €12.49"
-whatItIs: action, aventure et jeu de rôle — Bastion sur Nintendo Switch
-bestFor: À conseiller si Le marteau du Kid et le narrateur portent
+whatItIs: Le marteau du Kid, le narrateur.
+bestFor: Chercheurs d’ambiance qui valorisent la curiosité de route.
 avoidIf: À éviter si Le marteau du Kid et le narrateur portent la ne vous attire
 consensusPraise: Le marteau du Kid et le narrateur portent la traversée reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

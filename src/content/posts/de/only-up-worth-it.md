@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "ONLY UP!: Ein Fehltritt und Streamer-Panik sind fast das Produkt; prüfe Hongkong HK$39"
-whatItIs: Action, Arcade und Party — ONLY UP! auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Ein Fehltritt und Streamer-Panik
+whatItIs: 'Action, Arcade, Party: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Reflexspieler, die Ausführungstests schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Arcade und Party nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

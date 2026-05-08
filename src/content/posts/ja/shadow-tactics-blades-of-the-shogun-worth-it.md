@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun — アクション / ストラテジー。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アクション / ストラテジー — NS2版Shadow Tactics: Blades of the Shogun。"
-bestFor: アクション / ストラテジーのテンポを携帯機で遊びたい人。
+whatItIs: アクション / ストラテジー：クイックセーブ潜入と同時キル。
+bestFor: 能動的な入力を重視する戦闘重視の人。
 avoidIf: アクション / ストラテジーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

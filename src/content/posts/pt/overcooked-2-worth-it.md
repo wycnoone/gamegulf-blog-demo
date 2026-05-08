@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! 2: Cebolas voando, cozinhas móveis e amizade em risco; confira Japão ¥2,750"
-whatItIs: festa e estratégia — Overcooked! 2 no Nintendo Switch
-bestFor: Jogadores que querem festa e estratégia em modo portátil
+whatItIs: 'festa, estratégia: sistemas, modos e sensação de controle definem o encaixe.'
+bestFor: Perfis de encaixe primeiro que valorizam encaixe de gênero.
 avoidIf: Evite se festa e estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (81 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

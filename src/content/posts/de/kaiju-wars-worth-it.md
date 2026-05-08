@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kaiju Wars: Wegwerf-Städte und Kaiju-Mathe machen Verlieren witzig; prüfe Brasilien R$69.99"
-whatItIs: Strategie, Plattformer und Rollenspiel — Kaiju Wars auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Wegwerf-Städte und Kaiju-Mathe
+whatItIs: >-
+  Strategie, Plattformer, Rollenspiel: Zugplanung, Ressourcendruck und
+  Kartenkontrolle.
+bestFor: Taktiker, die Ressourcenwahl schätzen.
 avoidIf: Meiden, wenn Wegwerf-Städte und Kaiju-Mathe machen dich nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

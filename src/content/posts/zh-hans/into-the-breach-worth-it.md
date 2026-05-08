@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 陷阵之志：回合制战术、解谜策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 回合制战术、解谜策略 — Switch 版 陷阵之志。
-bestFor: 喜欢完全信息虫潮和推一格救场让每回合都像棋题的玩家
+whatItIs: 回合制战术、解谜策略；短局任务，可反复挑战，精通曲线很长。
+bestFor: 先规划再行动的玩家，看重非拼反应的压力。
 avoidIf: 需要强指引或不吃完全信息虫潮和推一格救场让每回合都像棋题就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 89 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

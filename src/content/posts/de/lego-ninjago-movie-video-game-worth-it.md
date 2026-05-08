@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "LEGO NINJAGO Movie Video Game: Spinjitzu-Combos und Koop-Klötzchenchaos tragen es"
-whatItIs: Action und Abenteuer — LEGO NINJAGO Movie Video Game auf Nintendo Switch
-bestFor: Für Spieler, die Spinjitzu-Combos reizt.
+whatItIs: Spinjitzu-Combos, Koop-Klötzchenchaos.
+bestFor: Routen-Neugierige, die Routen-Neugier schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

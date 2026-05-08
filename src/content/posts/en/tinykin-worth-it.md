@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Tinykin: Soapboard glides and tinykin swarms turn a house into a planet; check Japan ¥3,299"
-whatItIs: adventure, arcade, platformer — Tinykin on Nintendo Switch
-bestFor: Best if you want soapboard glides and tinykin swarms turn
+whatItIs: 'adventure, arcade, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Stage-challenge fans who value practice loops.
 avoidIf: Skip if adventure, arcade, platformer or that rhythm leaves you cold.
 consensusPraise: Soapboard glides and tinykin swarms turn a house into a planet is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: The Last Friend：冒险、街机、格斗；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、街机、格斗 — Switch 版 The Last Friend。
-bestFor: 喜欢救狗、架路障和横版清线让它像奇怪的塔防乱斗的玩家
+whatItIs: 冒险、街机、格斗：探索推进、互动规则和路线选择。
+bestFor: 愿意找路的玩家，看重少刷多逛。
 avoidIf: 需要强指引或不吃救狗、架路障和横版清线让它像奇怪的塔防乱斗就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Brightstone Mysteries: The Others: Objets cachés et indices de manoir portent l’ambiance"
-whatItIs: "aventure et puzzle — Brightstone Mysteries: The Others sur Nintendo Switch"
-bestFor: Pour qui accroche à Objets cachés et indices.
+whatItIs: Objets cachés, indices de manoir.
+bestFor: Solveurs patients qui valorisent les règles claires.
 avoidIf: À éviter si aventure et puzzle ou ce rythme vous laisse froid.
 consensusPraise: Objets cachés et indices de manoir portent l’ambiance reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

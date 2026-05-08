@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Poker Club：模拟、策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 模拟、策略 — Switch 版 Poker Club。
-bestFor: 喜欢读桌、慢弃牌和线上诈唬耐心决定它适不适合你的玩家
+whatItIs: 模拟、策略：日常循环、升级路线和长期目标。
+bestFor: 偏策略的玩家，看重清楚取舍。
 avoidIf: 需要强指引或不吃读桌、慢弃牌和线上诈唬耐心决定它适不适合你就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

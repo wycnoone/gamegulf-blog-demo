@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Stardew Valley: Fazenda, amizades da vila e mais um dia engolem horas; confira Brasil R$24.99"
-whatItIs: RPG e simulação — Stardew Valley no Nintendo Switch
-bestFor: Jogadores que querem RPG e simulação em modo portátil
+whatItIs: 'RPG, simulação: rotina diária, upgrades e metas longas.'
+bestFor: Construtores de rotina que valorizam planejamento suave.
 avoidIf: Evite se RPG e simulação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

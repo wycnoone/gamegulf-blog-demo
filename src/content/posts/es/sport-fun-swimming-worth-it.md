@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Sport & Fun: Swimming: Timing de brazada y calles repetidas son todo el bucle"
-whatItIs: "simulación y deportes — Sport & Fun: Swimming en Nintendo Switch"
-bestFor: Recomendable si te atrae Timing de brazada y calles
+whatItIs: 'simulación, deportes: rutina diaria, mejoras y objetivos largos.'
+bestFor: Jugadores de sistemas que valoran metas largas.
 avoidIf: Evítalo si simulación y deportes o ese ritmo no te llama.
 consensusPraise: Timing de brazada y calles repetidas son todo el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

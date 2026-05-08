@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "THEATRHYTHM FINAL BAR LINE: Playlist FF e cadeias de notas tornam nostalgia física; confira"
-whatItIs: música e RPG — THEATRHYTHM FINAL BAR LINE no Nintendo Switch
-bestFor: Jogadores que querem música e RPG em modo portátil
+whatItIs: 'música, RPG: progressão, builds e rotas de missões.'
+bestFor: Fãs de progressão longa que valorizam identidade de build.
 avoidIf: Evite se música e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "There Is No Game: Wrong Dimension: Arguing with the game and breaking UI rules is the whole"
-whatItIs: "adventure, puzzle, simulation — There Is No Game: Wrong Dimension on Nintendo Switch"
-bestFor: Best if you want arguing with the game and breaking UI
+whatItIs: 'adventure, puzzle, simulation: puzzle rules, clue flow, and solution feedback.'
+bestFor: Puzzle-minded players who value clean rules.
 avoidIf: Skip if adventure, puzzle, simulation or that rhythm leaves you cold.
 consensusPraise: Arguing with the game and breaking UI rules is the whole joke is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

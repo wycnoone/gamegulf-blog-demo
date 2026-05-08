@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "ONLY UP!: Un salto fallido y el pánico de streamer son el producto; revisa Hong Kong HK$39"
-whatItIs: acción, arcade y fiesta — ONLY UP! en Nintendo Switch
-bestFor: Recomendable si te atrae Un salto fallido y el pánico de.
+whatItIs: >-
+  acción, arcade, fiesta: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Jugadores de puntería que valoran presión de puntuación.
 avoidIf: Evítalo si acción, arcade y fiesta o ese ritmo no te llama.
 consensusPraise: Un salto fallido y el pánico de streamer son el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

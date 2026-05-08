@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Ralph and the Blue Ball: Bola azul e erros de plataforma dão charme; confira Japão ¥300"
-whatItIs: quebra-cabeça e plataforma — Ralph and the Blue Ball no Nintendo Switch
-bestFor: Vale se Bola azul e erros de plataforma dão parece seu tipo
+whatItIs: 'quebra-cabeça, plataforma: regras de puzzle, pistas e retorno da solução.'
+bestFor: Jogadores de puzzle que valorizam cadeias de pistas.
 avoidIf: Evite se quebra-cabeça e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

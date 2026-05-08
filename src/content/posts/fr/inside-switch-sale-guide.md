@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "INSIDE : Garçon, chiens, eau et malaise muet ; vérifiez Brésil R$72.99"
-whatItIs: aventure, puzzle et action — INSIDE sur Nintendo Switch
-bestFor: Pour qui accroche à Garçon, chiens, eau et malaise.
+whatItIs: Garçon, chiens, eau, malaise muet.
+bestFor: Solveurs patients qui valorisent le temps de réflexion.
 avoidIf: À éviter si aventure, puzzle et action ou ce rythme vous laisse froid.
 consensusPraise: Garçon, chiens, eau et malaise muet portent la descente.
 mainFriction: Fatigue du genre ou promos décalées selon les régions
@@ -130,7 +130,6 @@ Historique de **plus bas historique / promo / remise** : les données **2026** r
 ## Combien coûte INSIDE sur Nintendo Switch ?
 
 **GameGulf** compte ici parce que la ligne la moins chère et les prix de type plein tarif peuvent être très éloignés. Le tableau ci-dessous reprend le snapshot des métadonnées; vérifiez ensuite [GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
-
 
 
 | Région | Prix (équivalent EUR) | Prix natif |

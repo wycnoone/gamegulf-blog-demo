@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 邪恶冥刻：策略、冒险、解谜；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 策略、冒险、解谜 — Switch 版 邪恶冥刻。
-bestFor: 喜欢臭鼬说话、牙齿经济和木屋秘密最让人发毛的玩家
+whatItIs: 策略、冒险、解谜：探索推进、互动规则和路线选择。
+bestFor: 爱读局势的玩家，看重资源选择。
 avoidIf: 需要强指引或不吃臭鼬说话、牙齿经济和木屋秘密最让人发毛就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

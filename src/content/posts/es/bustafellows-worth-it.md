@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BUSTAFELLOWS: Los retrocesos de Teuta y rutas criminales cargan el drama; revisa Brasil R$203.95"
-whatItIs: aventura y rol — BUSTAFELLOWS en Nintendo Switch
-bestFor: Jugadores que quieren aventura y rol en formato portátil
+whatItIs: 'aventura, rol: progresión, builds y rutas de misiones.'
+bestFor: Pensadores de equipo que valoran planificación de equipo.
 avoidIf: Evítalo si aventura y rol o ese ritmo no te llama.
 consensusPraise: Los retrocesos de Teuta y rutas criminales cargan es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

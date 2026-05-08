@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sonic Racing: CrossWorlds: Portails CrossWorld et boosts rivaux font le chaos Sonic; vérifiez"
-whatItIs: "course, sport et soirée — Sonic Racing: CrossWorlds sur Nintendo Switch"
-bestFor: À conseiller si Portails CrossWorld et boosts rivaux font
+whatItIs: 'course, sport, soirée : systèmes, modes et sensations de contrôle font le tri.'
+bestFor: Joueurs d’adresse qui valorisent les reprises rapides.
 avoidIf: À éviter si course, sport et soirée ou ce rythme vous laisse froid.
 consensusPraise: Portails CrossWorld et boosts rivaux font le chaos reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

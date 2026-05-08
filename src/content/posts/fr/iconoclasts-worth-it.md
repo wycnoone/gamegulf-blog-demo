@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Iconoclasts : La clé de Robin, les boss et la famille ; vérifiez Japon ¥2,200"
-whatItIs: action et aventure — Iconoclasts sur Nintendo Switch
-bestFor: À conseiller si La clé de Robin, les boss et la famille
+whatItIs: La clé de Robin, les boss, la famille brisée mordent.
+bestFor: Chercheurs d’ambiance qui valorisent la curiosité de route.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: La clé de Robin, les boss et la famille brisée mordent reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

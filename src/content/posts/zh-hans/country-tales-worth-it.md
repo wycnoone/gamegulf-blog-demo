@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Country Tales：冒险、策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、策略 — Switch 版 Country Tales。
-bestFor: 喜欢西部杂活、限时建造和资源调度是老派管理味的玩家
+whatItIs: 冒险、策略：回合规划、资源压力和地图控制。
+bestFor: 重视取舍的玩家，看重资源选择。
 avoidIf: 需要强指引或不吃西部杂活、限时建造和资源调度是老派管理味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

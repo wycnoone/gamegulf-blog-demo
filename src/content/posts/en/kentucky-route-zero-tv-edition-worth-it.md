@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kentucky Route Zero: TV Edition: Highway ghosts, debt, and stage-play pacing make the mood"
-whatItIs: "adventure — Kentucky Route Zero: TV Edition on Nintendo Switch"
-bestFor: Best if you want highway ghosts, debt, and stage-play
+whatItIs: Highway ghosts, debt, stage-play pacing.
+bestFor: Discovery-minded players who value environmental discovery.
 avoidIf: Skip if adventure or that rhythm leaves you cold.
 consensusPraise: Highway ghosts, debt, and stage-play pacing make the mood linger is the main
 mainFriction: If the hook misses, the rhythm can feel thin

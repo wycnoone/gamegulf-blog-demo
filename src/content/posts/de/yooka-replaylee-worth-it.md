@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Yooka-Replaylee: Duo-Moves, Sammelwahn und Banjo-DNA sind der Pitch; prüfe Japan ¥3,400"
-whatItIs: Action und Abenteuer — Yooka-Replaylee auf NS2
-bestFor: Für Spieler, die Duo-Moves, Sammelwahn und Banjo-DNA reizt.
+whatItIs: Duo-Moves, Sammelwahn, Banjo-DNA.
+bestFor: Routen-Neugierige, die leichte Orientierung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

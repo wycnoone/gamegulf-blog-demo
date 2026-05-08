@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Super Mega Baseball 3: Ego, rebatida firme e franquia sustentam o beisebol; confira EUA $44.99"
-whatItIs: arcade, simulação e esportes — Super Mega Baseball 3 no Nintendo Switch
-bestFor: Para quem curte Ego, rebatida firme e franquia.
+whatItIs: 'arcade, simulação, esportes: rotina diária, upgrades e metas longas.'
+bestFor: Jogadores de reflexo que valorizam ritmo arcade.
 avoidIf: Evite se arcade, simulação e esportes ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

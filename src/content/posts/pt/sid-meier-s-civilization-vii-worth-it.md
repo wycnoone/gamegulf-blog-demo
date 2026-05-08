@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sid Meier's Civilization VII: Eras, diplomacia e só mais um turno decidem; confira Japão ¥8,800"
-whatItIs: estratégia e simulação — Sid Meier's Civilization VII no Nintendo Switch
-bestFor: Vale se Eras, diplomacia e só mais um turno parece seu tipo
+whatItIs: 'estratégia, simulação: rotina diária, upgrades e metas longas.'
+bestFor: Planejadores sem pressão que valorizam rotinas estáveis.
 avoidIf: Evite se estratégia e simulação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

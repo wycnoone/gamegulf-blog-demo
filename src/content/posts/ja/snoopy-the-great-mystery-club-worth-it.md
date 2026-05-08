@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Snoopy & The Great Mystery Club — アドベンチャー / パズル / アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / パズル / アクション — Nintendo Switch版Snoopy & The Great Mystery Club。
-bestFor: アドベンチャー / パズル / アクションのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー / パズル / アクション：スヌーピーの衣装とピーナッツ流の手。
+bestFor: 雰囲気重視を重視する道探しが好きな人。
 avoidIf: アドベンチャー / パズル / アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

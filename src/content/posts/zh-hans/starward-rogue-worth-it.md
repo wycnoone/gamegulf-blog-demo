@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Starward Rogue：动作、街机；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、街机 — Switch 版 Starward Rogue。
-bestFor: 喜欢弹幕房间和双摇杆遗物构筑让每层都很紧张的玩家
+whatItIs: 双摇杆弹幕 Roguelite 射击：每局规则、构筑选择和重开压力。
+bestFor: 能接受重开的玩家，看重风险选择。
 avoidIf: 需要强指引或不吃弹幕房间和双摇杆遗物构筑让每层都很紧张就先别买
 consensusPraise: 玩家更容易认可的是 9 台初始机体、350+ 道具与反复刷局带来的变化。
 mainFriction: 当前 Switch 价格从巴西 €8.89 到多个欧区 €14.99，日区历史还到过 €1.35。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "SteamWorld Dig 2: Dorothy’s drill, lantern range, and ore greed pull you downward"
-whatItIs: action, adventure, platformer — SteamWorld Dig 2 on Nintendo Switch
-bestFor: Best if you want dorothy’s drill, lantern range, and ore
+whatItIs: Dorothy’s drill, lantern range, ore routes, and Metroidvania upgrades.
+bestFor: Stage-challenge fans who value practice loops.
 avoidIf: Skip if action, adventure, platformer or that rhythm leaves you cold.
 consensusPraise: Dorothy’s drill, lantern range, and ore greed pull you downward is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kentucky Route Zero: TV Edition: Carretera fantasma, deuda y ritmo teatral dejan eco; revisa"
-whatItIs: "aventura — Kentucky Route Zero: TV Edition en Nintendo Switch"
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: Carretera fantasma, deuda, ritmo teatral dejan eco.
+bestFor: Exploradores que valoran ambiente sin farmeo.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: Carretera fantasma, deuda y ritmo teatral dejan eco es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

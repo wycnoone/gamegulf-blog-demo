@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Kaiju Wars — ストラテジー / プラットフォーム / RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: ストラテジー / プラットフォーム / RPG — Nintendo Switch版Kaiju Wars。
-bestFor: ストラテジー / プラットフォーム / RPGのテンポを携帯機で遊びたい人。
+whatItIs: ストラテジー / プラットフォーム / RPG：使い捨て都市と怪獣計算。
+bestFor: 練習ループを重視する操作感重視の人。
 avoidIf: ストラテジー / プラットフォーム / RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Tinykin — アドベンチャー / アーケード / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / アーケード / プラットフォーム — Nintendo Switch版Tinykin。
-bestFor: アドベンチャー / アーケード / プラットフォームのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー / アーケード / プラットフォーム：石けん滑走とTinykinの群れ。
+bestFor: 納得できるリトライを重視するリトライ好き。
 avoidIf: アドベンチャー / アーケード / プラットフォームの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

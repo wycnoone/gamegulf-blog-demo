@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Grindstone — puzzle; en avril 2026, comparez les régions sur GameGulf avant d’acheter
-whatItIs: puzzle — Grindstone sur Nintendo Switch
-bestFor: Joueurs qui veulent du puzzle au format portable
+whatItIs: 'puzzle : règles d’énigme, indices et retour de solution.'
+bestFor: Esprits puzzle qui valorisent la déduction calme.
 avoidIf: À éviter si puzzle ou ce rythme vous laisse froid.
 consensusPraise: Chaînes, gourmandise et fuite bien timée tendent reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

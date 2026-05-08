@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: OKAMI HD — adventure; April 2026 GameGulf pricing shows a wide regional spread worth comparing
-whatItIs: adventure — OKAMI HD on Nintendo Switch
-bestFor: Best if you want celestial Brush strokes and Amaterasu’s
+whatItIs: Celestial Brush strokes, Amaterasu’s world bloom.
+bestFor: Exploration-first players who value environmental discovery.
 avoidIf: Skip if adventure or that rhythm leaves you cold.
 consensusPraise: Celestial Brush strokes and Amaterasu’s world bloom still charm is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

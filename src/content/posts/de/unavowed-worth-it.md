@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Unavowed: Dämonenfälle, Begleiterwahl und New-York-Okkultnoir tragen; prüfe Brasilien R$27.99"
-whatItIs: Abenteuer, Puzzle und Rollenspiel — Unavowed auf Nintendo Switch
-bestFor: Für Spieler, die Dämonenfälle, Begleiterwahl reizt.
+whatItIs: Dämonenfälle, Begleiterwahl, New-York-Okkultnoir.
+bestFor: Geduldige Knobler, die ruhige Deduktion schätzen.
 avoidIf: Meiden, wenn Dämonenfälle, Begleiterwahl und dich nicht reizt
 consensusPraise: Das Kritikerband (91 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte
@@ -130,7 +130,6 @@ Zur **Rabatt**-Historie: Die **2026**-Daten bleiben hier der Maßstab; die konkr
 ## Wie viel kostet Unavowed auf Nintendo Switch gerade?
 
 **GameGulf** ist hier nützlich, weil günstige Regionen und Listenpreis-Zonen weit auseinanderliegen können. Die Tabelle unten ist der regionale Snapshot aus den Metadaten; öffne vor dem Kauf trotzdem [GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price).
-
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |

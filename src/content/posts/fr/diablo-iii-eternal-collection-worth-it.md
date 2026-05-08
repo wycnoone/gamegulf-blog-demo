@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Diablo III: Eternal Collection: Failles, faisceaux de loot et grind de saison font encore"
-whatItIs: "action, aventure et jeu de rôle — Diablo III: Eternal Collection sur Nintendo Switch"
-bestFor: Pour qui accroche à Failles, faisceaux de loot.
+whatItIs: Failles, faisceaux de loot, grind de saison.
+bestFor: Amateurs de routes qui valorisent l’orientation légère.
 avoidIf: À éviter si action, aventure et jeu ou ce rythme vous laisse froid.
 consensusPraise: Failles, faisceaux de loot et grind de saison font reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

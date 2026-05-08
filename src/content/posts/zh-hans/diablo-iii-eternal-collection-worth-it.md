@@ -27,7 +27,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 《暗黑破坏神 III：永恒收藏版》：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
 whatItIs: 7 个职业、5 幕战役、《夺魂之镰》、死灵法师包、赛季刷装，以及 Switch 本地/线上合作。
-bestFor: 喜欢秘境、光柱掉落和赛季刷装依旧很有魔性的玩家
+bestFor: 喜欢成长规划的玩家，看重构筑身份。
 avoidIf: 需要强指引或不吃秘境、光柱掉落和赛季刷装依旧很有魔性就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 88 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

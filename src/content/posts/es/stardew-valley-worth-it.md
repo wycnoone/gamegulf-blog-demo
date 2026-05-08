@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Stardew Valley: Granja, corazones del pueblo y un día más devoran horas; revisa Brasil R$24.99"
-whatItIs: rol y simulación — Stardew Valley en Nintendo Switch
-bestFor: Jugadores que quieren rol y simulación en formato portátil
+whatItIs: 'rol, simulación: rutina diaria, mejoras y objetivos largos.'
+bestFor: Planificadores sin presión que valoran tareas repetibles.
 avoidIf: Evítalo si rol y simulación o ese ritmo no te llama.
 consensusPraise: Granja, corazones del pueblo y un día más devoran es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

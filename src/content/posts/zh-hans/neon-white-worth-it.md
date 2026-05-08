@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 霓虹白客：动作、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险 — Switch 版 霓虹白客。
-bestFor: 喜欢弃牌位移、捷径幽灵和奖牌追逐会逼出竞速脑的玩家
+whatItIs: 弃牌位移、短关竞速、幽灵对照和奖牌路线优化。
+bestFor: 重视氛围的玩家，看重故事氛围。
 avoidIf: 需要强指引或不吃弃牌位移、捷径幽灵和奖牌追逐会逼出竞速脑就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 88 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

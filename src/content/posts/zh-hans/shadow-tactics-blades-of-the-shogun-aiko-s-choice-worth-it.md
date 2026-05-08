@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 影子战术：将军之刃 - 爱子的选择：动作、策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、策略 — NS2 版 影子战术：将军之刃 - 爱子的选择。
-bestFor: 喜欢爱子的伪装和同步击杀是这段外传的核心爽点的玩家
+whatItIs: 爱子伪装、同步击杀、巡逻解谜和即时暂停潜入。
+bestFor: 偏策略的玩家，看重资源选择。
 avoidIf: 需要强指引或不吃爱子的伪装和同步击杀是这段外传的核心爽点就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

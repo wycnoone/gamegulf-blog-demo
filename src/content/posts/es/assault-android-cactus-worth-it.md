@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Assault Android Cactus+: Batería al límite y twin-stick convierten el coop en caos; revisa"
-whatItIs: acción, arcade y disparos — Assault Android Cactus+ en Nintendo Switch
-bestFor: Recomendable si te atrae Batería al límite y twin-stick.
+whatItIs: >-
+  acción, arcade, disparos: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Jugadores de reflejos que valoran ritmo arcade.
 avoidIf: Evítalo si acción, arcade y disparos o ese ritmo no te llama.
 consensusPraise: Batería al límite y twin-stick convierten el coop es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

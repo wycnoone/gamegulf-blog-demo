@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: The Last Friend — アドベンチャー / アーケード / 格闘。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / アーケード / 格闘 — Nintendo Switch版The Last Friend。
-bestFor: アドベンチャー / アーケード / 格闘のテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー, アーケード, 格闘：探索の流れ、インタラクション、ルート選択。
+bestFor: 物語の手触りを重視する発見好き。
 avoidIf: アドベンチャー / アーケード / 格闘の気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

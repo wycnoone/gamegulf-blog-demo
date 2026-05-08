@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Tinykin: Seifengleiten und Tinykin-Schwärme machen ein Haus zum Planeten; prüfe Japan ¥3,299"
-whatItIs: Abenteuer, Arcade und Plattformer — Tinykin auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Seifengleiten und Tinykin-Schwärme
+whatItIs: >-
+  Abenteuer, Arcade, Plattformer: Level-Fluss, Bewegungstiming und
+  Retry-Rhythmus.
+bestFor: Level-Challenge-Fans, die klare Levelziele schätzen.
 avoidIf: Meiden, wenn Seifengleiten und Tinykin-Schwärme machen dich nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Super Pixel Racers: Derrapes cenitales y choques pixelados dan gracia; revisa Japón ¥1,507"
-whatItIs: carreras — Super Pixel Racers en Nintendo Switch
-bestFor: Jugadores que quieren carreras en formato portátil
+whatItIs: 'carreras: sistemas, modos y sensación de control marcan el encaje.'
+bestFor: Cazadores de puntuación que valoran reintentos rápidos.
 avoidIf: Evítalo si carreras o ese ritmo no te llama.
 consensusPraise: Derrapes cenitales y choques pixelados dan gracia es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

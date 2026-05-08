@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Inscryption : La belette, les dents et la cabane ; vérifiez Brésil R$49.99"
-whatItIs: stratégie, aventure et puzzle — Inscryption sur Nintendo Switch
-bestFor: À conseiller si La belette, les dents et la cabane créent
+whatItIs: 'stratégie, aventure, puzzle : règles d’énigme, indices et retour de solution.'
+bestFor: Décideurs prudents qui valorisent la pression sans réflexes.
 avoidIf: À éviter si stratégie, aventure et puzzle ou ce rythme vous laisse
 consensusPraise: La belette, les dents et la cabane créent le malaise reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

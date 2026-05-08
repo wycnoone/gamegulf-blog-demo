@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL FighterZ: Asistencias, vanish y remontadas anime dan la sal; revisa Japón ¥2,970"
-whatItIs: lucha y acción — DRAGON BALL FighterZ en Nintendo Switch
-bestFor: Jugadores que quieren lucha y acción en formato portátil
+whatItIs: 'lucha, acción: ritmo de combate, movimiento y encuentros.'
+bestFor: Fans del reto activo que valoran combate con respuesta.
 avoidIf: Evítalo si lucha y acción o ese ritmo no te llama.
 consensusPraise: Asistencias, vanish y remontadas anime dan la sal es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

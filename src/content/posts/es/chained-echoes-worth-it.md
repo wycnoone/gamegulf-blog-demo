@@ -32,8 +32,8 @@ actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Meta ~90: BR lidera snapshot; HK bajó antes — encaje primero, alertas después."
 whatItIs: >-
-  RPG por turnos 35‑45 h según rutas opcionales, sin modelo servicio viviente
-  obligatorio.
+  Progresión estructura guionizada: sistemas, modos y sensación de control
+  marcan el encaje.
 bestFor: Prefieres menús profundos antes que mapas enormes.
 avoidIf: Esperáis historia completa <20 h sin tocar builds.
 consensusPraise: Combate por capítulo limpio, música top, mechs recordables.

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Bayonetta 3 — acción; en abril de 2026 conviene comparar regiones en GameGulf antes de pagar
-whatItIs: acción — Bayonetta 3 en Nintendo Switch
-bestFor: Jugadores que quieren acción en formato portátil
+whatItIs: Demon Slave, parries de Viola.
+bestFor: Jugadores de acción que valoran pruebas claras.
 avoidIf: Evítalo si acción o ese ritmo no te llama.
 consensusPraise: Demon Slave y parries de Viola dividen la es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

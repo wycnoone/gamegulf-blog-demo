@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "TUNIC : Le manuel du renard transforme chaque ; vérifiez Japon ¥4,085"
-whatItIs: action, aventure et puzzle — TUNIC sur Nintendo Switch
-bestFor: Pour qui accroche à Le manuel du renard transforme.
+whatItIs: Exploration isométrique, pages de manuel, secrets de renard et raccourcis cachés.
+bestFor: Joueurs logiques qui valorisent les règles claires.
 avoidIf: À éviter si action, aventure et puzzle ou ce rythme vous laisse froid.
 consensusPraise: Le manuel du renard transforme chaque indice reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

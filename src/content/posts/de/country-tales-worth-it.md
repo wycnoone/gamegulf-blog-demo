@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Country Tales: Frontier-Aufgaben und Bau-Timer prägen die alte Schleife; prüfe Hongkong HK$77"
-whatItIs: Abenteuer und Strategie — Country Tales auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Frontier-Aufgaben und Bau-Timer
+whatItIs: 'Abenteuer, Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Geduldige Entscheider, die Planungsfenster schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Strategie nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

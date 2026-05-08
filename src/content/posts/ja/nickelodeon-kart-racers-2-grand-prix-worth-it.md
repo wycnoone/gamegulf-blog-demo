@@ -32,8 +32,8 @@ featuredPriority: 2
 listingTakeaway: >-
   Nickelodeon Kart Racers 2: Grand Prix — アクション / アーケード /
   レース。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: "アクション / アーケード / レース — Nintendo Switch版Nickelodeon Kart Racers 2: Grand Prix。"
-bestFor: アクション / アーケード / レースのテンポを携帯機で遊びたい人。
+whatItIs: アクション / アーケード / レース：スライム近道とカートゥーン勢。
+bestFor: 素早い再挑戦を重視するエイム重視の人。
 avoidIf: アクション / アーケード / レースの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 72点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

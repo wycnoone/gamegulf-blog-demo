@@ -30,7 +30,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: MC 94 视听俄罗斯方块；索引香港领先；2025 HK 史低约 €9.61，现价不是那一档。
-whatItIs: Journey 舞台俄罗斯方块：Zone 停时、联网/本地对战与 Connected 三人合作打 Boss。
+whatItIs: 经典落块 + Zone、Journey 进度、Score Attack 变体：核心系统、模式结构和操作手感决定适配度。
 bestFor: 喜欢节奏方块、强演出与认真多人的玩家，而非只要最朴素工具版。
 avoidIf: 只要最素俄罗斯方块、或受不了高动态粒子与背景抢戏可跳过。
 consensusPraise: Zone 把危机变成可计划的爆发；关卡像一场场可玩的曲目。

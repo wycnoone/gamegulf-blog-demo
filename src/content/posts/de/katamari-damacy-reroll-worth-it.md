@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Katamari Damacy REROLL: Klebekram, Königsmeckern und Größenwahn machen es absurd"
-whatItIs: Action und Arcade — Katamari Damacy REROLL auf Nintendo Switch
-bestFor: Für Spieler, die Klebekram, Königsmeckern reizt.
+whatItIs: 'Action, Arcade: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Arcade-Spieler, die Ausführungstests schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Arcade nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

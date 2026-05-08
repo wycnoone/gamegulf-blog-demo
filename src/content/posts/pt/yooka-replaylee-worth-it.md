@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Yooka-Replaylee: Movimentos em dupla, coleta e DNA Banjo são o foco; confira Japão ¥3,400"
-whatItIs: ação e aventura — Yooka-Replaylee no NS2
-bestFor: Jogadores que querem ação e aventura em modo portátil
+whatItIs: Movimentos em dupla, coleta, DNA Banjo são o foco.
+bestFor: Buscadores de clima que valorizam descoberta ambiental.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

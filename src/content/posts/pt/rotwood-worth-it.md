@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Rotwood: Pancadas pesadas, coop e acampamento deixam runs leves; confira Brasil R$88.99"
-whatItIs: ação, aventura e RPG — Rotwood no NS2
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Runs de caça, pancadas pesadas, coop, melhorias de acampamento e builds.
+bestFor: Pensadores de equipe que valorizam menus com peso.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: No Steam é majoritariamente positivo por combate, coop e builds
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

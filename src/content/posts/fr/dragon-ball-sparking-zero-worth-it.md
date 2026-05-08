@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL: Sparking! ZERO: Duels de rayons, gros roster et arènes détruites vendent le rêve"
-whatItIs: "action et combat — DRAGON BALL: Sparking! ZERO sur NS2"
-bestFor: Joueurs qui veulent du action et combat au format portable
+whatItIs: 'action, combat : timing de combat, mobilité et rythme des rencontres.'
+bestFor: Joueurs combatifs qui valorisent le rythme de combat.
 avoidIf: À éviter si action et combat ou ce rythme vous laisse froid.
 consensusPraise: Duels de rayons, gros roster et arènes détruites reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

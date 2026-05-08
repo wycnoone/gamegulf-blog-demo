@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Warframe — アクション / RPG / シューティング。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / RPG / シューティング — Nintendo Switch版Warframe。
-bestFor: アクション / RPG / シューティングのテンポを携帯機で遊びたい人。
+whatItIs: アクション, RPG, シューティング：エイム圧、スコアルート、短い面の反復。
+bestFor: 直接的な反応を重視する反射神経派。
 avoidIf: アクション / RPG / シューティングの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

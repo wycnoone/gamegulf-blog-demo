@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "ASTRAL CHAIN: Legion y ataques sincronizados marcan Astral Chain; revisa Hong Kong HK$329"
-whatItIs: acción y aventura — ASTRAL CHAIN en Nintendo Switch
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Legion, ataques sincronizados.
+bestFor: Jugadores de rutas que valoran exploración guiada.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Legion y ataques sincronizados marcan Astral Chain es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Pentiment: Manuscript art, village gossip, and decades of guilt carry it; check Brazil R$99"
-whatItIs: adventure, puzzle — Pentiment on Nintendo Switch
-bestFor: Best if you want manuscript art, village gossip
+whatItIs: Manuscript art, village gossip, decades of guilt.
+bestFor: Slow-burn solvers who value earned solutions.
 avoidIf: Skip if adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Manuscript art, village gossip, and decades of guilt carry it is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

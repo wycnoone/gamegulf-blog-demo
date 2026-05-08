@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Sumire：冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险 — Switch 版 Sumire。
-bestFor: 喜欢一天时间、花的约定和小小遗憾让 Sumire 很柔软的玩家
+whatItIs: 一天限定、花的约定、小选择和温柔遗憾。
+bestFor: 愿意找路的玩家，看重轻度找路。
 avoidIf: 需要强指引或不吃一天时间、花的约定和小小遗憾让 Sumire 很柔软就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

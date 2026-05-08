@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Poker Club: Table reads, slow folds, and online bluff patience decide it; check Germany €17.59"
-whatItIs: simulation, strategy — Poker Club on Nintendo Switch
-bestFor: Best if you want table reads, slow folds, and online bluff
+whatItIs: 'simulation, strategy: turn planning, resource pressure, and map control.'
+bestFor: Tactical players who value resource choices.
 avoidIf: Skip if simulation, strategy or that rhythm leaves you cold.
 consensusPraise: Table reads, slow folds, and online bluff patience decide it is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

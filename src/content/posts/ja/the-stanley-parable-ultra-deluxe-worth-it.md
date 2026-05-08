@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: スタンリー・パラブル：ウルトラデラックス — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー — Nintendo Switch版スタンリー・パラブル：ウルトラデラックス。
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: 反応するナレーター、間違った扉、バケツルート、メタ選択。
+bestFor: 雰囲気重視を重視する探索重視の人。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

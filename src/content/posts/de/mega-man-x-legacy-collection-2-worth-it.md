@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Mega Man X Legacy Collection 2: X4-Nostalgie, Rüstungsteile und Spätserien-Eigenheiten spalten"
-whatItIs: Action — Mega Man X Legacy Collection 2 auf Nintendo Switch
-bestFor: Für Spieler, die X4-Nostalgie, Rüstungsteile reizt.
+whatItIs: X4-Nostalgie, Rüstungsteile, Spätserien-Eigenheiten.
+bestFor: Kampfspieler, die lesbare Gefahren schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action nicht reizt
 consensusPraise: Das Kritikerband (60 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

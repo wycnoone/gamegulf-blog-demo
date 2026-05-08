@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Assault Android Cactus+: Battery panic and twin-stick crowd control make co-op loud; check"
-whatItIs: action, arcade, shooter — Assault Android Cactus+ on Nintendo Switch
-bestFor: Best if you want battery panic and twin-stick crowd control
+whatItIs: >-
+  action, arcade, shooter: aiming pressure, scoring routes, and short-stage
+  loops.
+bestFor: Aim-focused players who value short skill checks.
 avoidIf: Skip if action, arcade, shooter or that rhythm leaves you cold.
 consensusPraise: Battery panic and twin-stick crowd control make co-op loud is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

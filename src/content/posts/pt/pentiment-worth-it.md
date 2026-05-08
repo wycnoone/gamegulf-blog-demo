@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Pentiment: Arte manuscrita, fofoca da vila e culpa por décadas ficam; confira Brasil R$99"
-whatItIs: aventura e quebra-cabeça — Pentiment no Nintendo Switch
-bestFor: Para quem curte Arte manuscrita, fofoca da vila.
+whatItIs: Arte manuscrita, investigação na vila, escolhas de diálogo e culpa histórica.
+bestFor: Jogadores lógicos que valorizam desafios limpos.
 avoidIf: Evite se aventura e quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (90 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

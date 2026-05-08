@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun: Mugen et l’équipe transforment les patrouilles en puzzle"
-whatItIs: "action et stratégie — Shadow Tactics: Blades of the Shogun sur NS2"
-bestFor: Pour qui accroche à Mugen et l’équipe transforment.
+whatItIs: 'action, stratégie : planification des tours, ressources et contrôle de carte.'
+bestFor: Planificateurs qui valorisent les compromis nets.
 avoidIf: À éviter si action et stratégie ou ce rythme vous laisse froid.
 consensusPraise: Mugen et l’équipe transforment les patrouilles en reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

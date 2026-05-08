@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Lorelei and the Laser Eyes — パズル / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: パズル / アドベンチャー — Nintendo Switch版Lorelei and the Laser Eyes。
-bestFor: パズル / アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: パズル, アドベンチャー：探索の流れ、インタラクション、ルート選択。
+bestFor: 雰囲気重視を重視する発見好き。
 avoidIf: パズル / アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 88点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

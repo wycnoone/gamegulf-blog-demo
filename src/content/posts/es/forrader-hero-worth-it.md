@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Forrader Hero: Elegir cada paso y calcular rutas es todo el gancho; revisa Japón ¥710"
-whatItIs: acción y aventura — Forrader Hero en Nintendo Switch
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Elegir cada paso, calcular rutas.
+bestFor: Jugadores curiosos que valoran curiosidad de rutas.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Elegir cada paso y calcular rutas es todo el gancho es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

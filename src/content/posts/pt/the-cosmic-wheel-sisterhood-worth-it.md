@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Cosmic Wheel Sisterhood: Criar tarô, exílio e barganhas políticas dão fio"
-whatItIs: aventura e simulação — The Cosmic Wheel Sisterhood no Nintendo Switch
-bestFor: Jogadores que querem aventura e simulação em modo portátil
+whatItIs: 'aventura, simulação: rotina diária, upgrades e metas longas.'
+bestFor: Planejadores sem pressão que valorizam otimização leve.
 avoidIf: Evite se aventura e simulação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

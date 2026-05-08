@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BUSTAFELLOWS: Teuta rewinds bad endings into crime-route; check Brazil R$203.95"
-whatItIs: adventure, Other, role-playing — BUSTAFELLOWS on Nintendo Switch
-bestFor: Best if you want teuta rewinds bad endings into crime-route
+whatItIs: >-
+  adventure, Other, role-playing: party growth, build choices, and quest
+  routing.
+bestFor: Long-tail character builders who value menu decisions.
 avoidIf: Skip if adventure, Other, role-playing or that rhythm leaves you cold.
 consensusPraise: Teuta rewinds bad endings into crime-route drama is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Sport & Fun: Swimming: Timing da braçada e raias repetidas são o ciclo; confira Japão ¥2,699"
-whatItIs: "simulação e esportes — Sport & Fun: Swimming no Nintendo Switch"
-bestFor: Jogadores que querem simulação e esportes em modo portátil
+whatItIs: 'simulação, esportes: rotina diária, upgrades e metas longas.'
+bestFor: Otimizadores tranquilos que valorizam tarefas repetíveis.
 avoidIf: Evite se simulação e esportes ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Huntdown — アクション / アーケード / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アーケード / プラットフォーム — Nintendo Switch版Huntdown。
-bestFor: アクション / アーケード / プラットフォームのテンポを携帯機で遊びたい人。
+whatItIs: アクション, アーケード, プラットフォーム：ステージ進行、移動タイミング、リトライ感。
+bestFor: 正確な入力を重視するリトライ好き。
 avoidIf: アクション / アーケード / プラットフォームの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

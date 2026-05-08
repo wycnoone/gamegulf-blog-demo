@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Minecraft: Redstone holes and first-night panic never end; check Brazil R$99 before buying"
-whatItIs: action, adventure, strategy — Minecraft on Nintendo Switch
-bestFor: Best if you want redstone holes and first-night panic never
+whatItIs: 'Sandbox survival: gathering, crafting, building, redstone, and shared worlds.'
+bestFor: Board-state readers who value resource choices.
 avoidIf: Skip if action, adventure, strategy or that rhythm leaves you cold.
 consensusPraise: Redstone holes and first-night panic never end is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

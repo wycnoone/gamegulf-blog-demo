@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Fitness Boxing Fist of the North Star: Hokuto-Schläge machen Fitness albern motivierend"
-whatItIs: Sport und Musik — Fitness Boxing Fist of the North Star auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Hokuto-Schläge machen Fitness
+whatItIs: 'Sport, Musik: Systeme, Modi und Eingabegefühl entscheiden die Passung.'
+bestFor: Genre-sichere Spieler, die Genre-Passung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Sport und Musik nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

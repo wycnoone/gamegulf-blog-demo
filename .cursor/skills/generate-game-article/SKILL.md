@@ -222,7 +222,7 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 | Field | Max |
 |---|---|
 | whatItIs | 90 |
-| bestFor | 60 |
+| bestFor | 60 | audience-fit statement only; player type/preference/tolerance, not a gameplay hot-take and not overlapping `communityVibe` |
 | communityVibe | 64 |
 | listingTakeaway | 96 |
 | avoidIf | 72 |
@@ -231,6 +231,8 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 | timeFit | 82 |
 | fitLabel | 72 |
 | tldr | 160 |
+
+- `whatItIs` must name concrete gameplay mechanics, modes, systems, structure, or content loop. Do not write generic genre + title + platform copy like “action — Game on Nintendo Switch” or “动作 — Switch 版 游戏”. Do not put playtime/completion length here; use the time fields for hours and completion scope.
 
 **`communityVibe` vs `playerVoices` (do not mix):**
 - **`communityVibe`** → the one-line **list/decision card** quote under the label from `card.playerConsensus` (e.g. zh-hans 玩家热评). ≤64 chars.
@@ -262,7 +264,7 @@ Existing articles: <list current src/content/posts/{locale}/*.md slugs>
 - **`title` + `gameTitle` + FAQ lead-ins:** Each locale must use that market’s **normal game name** (not the English product string) in `title`, `gameTitle`, and the start of every `faq[].answer` (validator expects answers to lead with `gameTitle`). After **pricing-only** automation, manually verify these three surfaces for zh-hans, ja, fr, es, de, pt — price sync does not localize names.
 
 **“Game intro feels thin” — where depth lives:**
-- List/card fields like `whatItIs` are **short by schema** (see character limits table — e.g. 90 chars). They are teasers, not the encyclopedia.
+- List/card fields like `whatItIs` are **short by schema** (see character limits table — e.g. 90 chars). They are teasers, not the encyclopedia, but `whatItIs` still needs 1–3 concrete mechanics, modes, systems, or loop anchors — never only genre + platform + title.
 - The **buying memo** depth is mandatory in the **Markdown body** under the fixed H2s (especially “what kind of game” / performance): ≥2 **named anchors** per those sections per `AGENTS.md`. If the body still feels empty, the brief probably lacks systems/modes — **re-run** `node scripts/extract-game-brief.mjs <url>` (no `--no-enrich`), confirm Steam/HLTB/OpenCritic in JSON, and extend the brief or prose from **checkable** public facts (store page modes, patch notes, **widely repeated** player complaints phrased as “common player reports” — no fabricated forum browsing or private playtests).
 
 ### Output files

@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "LEGO Voyagers: Two little bricks solving big spaces makes; check Japan ¥2,900"
-whatItIs: adventure, puzzle — LEGO Voyagers on NS2
-bestFor: Best if you want two little bricks solving big spaces
+whatItIs: Two-brick co-op, physics puzzles, shared movement, and big-space navigation.
+bestFor: Puzzle-minded players who value quiet deduction.
 avoidIf: Skip if adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Two little bricks solving big spaces makes the co-op feel tender is the main
 mainFriction: If the hook misses, the rhythm can feel thin

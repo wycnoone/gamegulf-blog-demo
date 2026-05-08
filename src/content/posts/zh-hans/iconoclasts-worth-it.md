@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Iconoclasts：动作、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险 — Switch 版 Iconoclasts。
-bestFor: 喜欢罗宾扳手、Boss 多阶段和家庭崩坏让它不只是平台跳的玩家
+whatItIs: 扳手机关、多阶段 Boss、探索路线和剧情驱动的 2D 动作。
+bestFor: 喜欢自己发现的玩家，看重故事氛围。
 avoidIf: 需要强指引或不吃罗宾扳手、Boss 多阶段和家庭崩坏让它不只是平台跳就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

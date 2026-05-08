@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Inscryption: Hermelin, Zähne-Wirtschaft und Hüttengeheimnisse wirken; prüfe Brasilien R$49.99"
-whatItIs: Strategie, Abenteuer und Puzzle — Inscryption auf Nintendo Switch
-bestFor: Für Spieler, die Hermelin, Zähne-Wirtschaft reizt.
+whatItIs: 'Strategie, Abenteuer, Puzzle: Rätselregeln, Hinweisfluss und Lösungsfeedback.'
+bestFor: Lage-Leser, die Ressourcenwahl schätzen.
 avoidIf: Meiden, wenn Hermelin, Zähne-Wirtschaft und dich nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

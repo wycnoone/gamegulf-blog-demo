@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Streets of Rage 4: Quicar na parede, especiais arriscados e revanche local; confira Japão ¥2,599"
-whatItIs: ação, arcade e luta — Streets of Rage 4 no Nintendo Switch
-bestFor: Jogadores que querem ação, arcade e luta em modo portátil
+whatItIs: 'ação, arcade, luta: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Jogadores de reflexo que valorizam ritmo arcade.
 avoidIf: Evite se ação, arcade e luta ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

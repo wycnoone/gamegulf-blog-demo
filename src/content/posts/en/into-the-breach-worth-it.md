@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Into the Breach pairs sharp tactics with a wide April 2026 GameGulf price spread
-whatItIs: turn-based tactics, puzzle strategy — Into the Breach on Nintendo Switch
-bestFor: Best if you want one tile shove can save a whole city block
+whatItIs: 'Turn tactics: tile shoves, mech squads, short missions, and repeat campaigns.'
+bestFor: Planning-first players who value planning windows.
 avoidIf: You dislike puzzle-like tactics or short roguelite runs
 consensusPraise: One tile shove can save a whole city block is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

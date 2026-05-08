@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 我的世界：动作、冒险、策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、策略 — Switch 版 我的世界。
-bestFor: 喜欢第一晚求生、红石坑和朋友服务器永远玩不完的玩家
+whatItIs: 沙盒生存：采集、合成、建造、红石和多人世界。
+bestFor: 爱读局势的玩家，看重规划窗口。
 avoidIf: 需要强指引或不吃第一晚求生、红石坑和朋友服务器永远玩不完就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

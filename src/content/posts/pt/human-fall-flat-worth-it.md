@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Human: Fall Flat: Pegadas bambas e amigos estragando planos fazem; confira Hong Kong HK$99"
-whatItIs: "aventura, plataforma e quebra-cabeça — Human: Fall Flat no Nintendo Switch"
-bestFor: Vale se Pegadas bambas e amigos estragando parece seu tipo
+whatItIs: >-
+  aventura, plataforma, quebra-cabeça: regras de puzzle, pistas e retorno da
+  solução.
+bestFor: Jogadores lógicos que valorizam regras claras.
 avoidIf: Evite se Pegadas bambas e amigos estragando planos fazem não te chama
 consensusPraise: A faixa crítica (65 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

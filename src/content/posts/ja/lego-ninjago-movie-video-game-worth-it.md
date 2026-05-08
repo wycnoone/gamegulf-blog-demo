@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: レゴ ニンジャゴー ムービー ザ・ゲーム — アクション / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー — Nintendo Switch版レゴ ニンジャゴー ムービー ザ・ゲーム。
+whatItIs: アクション / アドベンチャー：スピン術コンボとブロック破壊協力。
 bestFor: 家族や友だちと軽く回せる LEGO アクションを探していて、短いステージ構成が合う人。
 avoidIf: 濃い育成、重い物語、長時間のソロやり込みを期待している人。
 consensusPraise: 7人の忍者、Battle Mapsの最大4人対戦、入りやすいLEGO味が評価軸。

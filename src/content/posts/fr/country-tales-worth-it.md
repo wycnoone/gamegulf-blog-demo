@@ -26,7 +26,9 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Country Tales: Corvées de frontière et commandes; vérifiez Hong Kong HK$77"
-whatItIs: aventure et stratégie — Country Tales sur Nintendo Switch
+whatItIs: >-
+  aventure, stratégie : planification des tours, ressources et contrôle de
+  carte.
 bestFor: Pour qui accroche à Corvées de frontière.
 avoidIf: À éviter si aventure et stratégie ou ce rythme vous laisse froid.
 consensusPraise: Corvées de frontière et commandes chronométrées font reste le vrai point

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: OKAMI HD — aventura; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: aventura — OKAMI HD no Nintendo Switch.
-bestFor: Jogadores que querem aventura em modo portátil.
+whatItIs: Pincel celestial, exploração de Nippon, poderes divinos e restauração do mundo.
+bestFor: Jogadores curiosos que valorizam clima sem grind.
 avoidIf: Evite se aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (89 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

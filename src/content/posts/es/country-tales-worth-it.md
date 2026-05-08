@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Country Tales: Tareas del oeste y construcciones con tiempo marcan el ritmo"
-whatItIs: aventura y estrategia — Country Tales en Nintendo Switch
-bestFor: Recomendable si te atrae Tareas del oeste y construcciones
+whatItIs: 'aventura, estrategia: planificación por turnos, recursos y control del mapa.'
+bestFor: Lectores del tablero que valoran compromisos claros.
 avoidIf: Evítalo si aventura y estrategia o ese ritmo no te llama.
 consensusPraise: Tareas del oeste y construcciones con tiempo marcan es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

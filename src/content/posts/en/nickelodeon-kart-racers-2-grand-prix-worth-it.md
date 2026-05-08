@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nickelodeon Kart Racers 2: Grand Prix: Slime shortcuts make Nickelodeon karting chaotic; check"
-whatItIs: "action, arcade, racing — Nickelodeon Kart Racers 2: Grand Prix on Nintendo Switch"
-bestFor: Best if you want slime shortcuts make Nickelodeon karting
+whatItIs: 'action, arcade, racing: Slime shortcuts.'
+bestFor: Score chasers who value fast retries.
 avoidIf: Skip if action, arcade, racing or that rhythm leaves you cold.
 consensusPraise: Slime shortcuts make Nickelodeon karting chaotic is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

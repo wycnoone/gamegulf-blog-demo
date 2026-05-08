@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Diablo III: Eternal Collection: Fallas, rayos de loot y temporadas aún funcionan"
-whatItIs: "acción, aventura y rol — Diablo III: Eternal Collection en Nintendo Switch"
-bestFor: Recomendable si te atrae Fallas, rayos de loot y temporadas.
+whatItIs: Fallas, botín por colores, builds de temporada y cooperativo portátil.
+bestFor: Fans de builds RPG que valoran decisiones de progreso.
 avoidIf: Evítalo si acción, aventura y rol o ese ritmo no te llama.
 consensusPraise: Fallas, rayos de loot y temporadas aún funcionan es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

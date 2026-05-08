@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Neon White: Kartenabwurf, Shortcut-Geister und Medaillen jagen Speedhirn"
-whatItIs: Action und Abenteuer — Neon White auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Kartenabwurf, Shortcut-Geister
+whatItIs: Kartenabwurf, Shortcut-Geister, Medaillen jagen Speedhirn.
+bestFor: Stimmungsfans, die Stimmung ohne Grind schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

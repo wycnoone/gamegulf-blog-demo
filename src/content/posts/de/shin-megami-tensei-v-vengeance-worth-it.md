@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Shin Megami Tensei V: Vengeance: Press Turns, Dämonenfusion und Da’at-Hinterhalte beißen"
-whatItIs: "Action, Abenteuer und Rollenspiel — Shin Megami Tensei V: Vengeance auf Nintendo Switch"
-bestFor: Für Spieler, die Press Turns, Dämonenfusion reizt.
+whatItIs: Press Turns, Dämonenfusion, Da’at-Erkundung und harte Hinterhalte.
+bestFor: Build-RPG-Fans, die Quest-Tempo schätzen.
 avoidIf: Meiden, wenn Press Turns, Dämonenfusion und dich nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

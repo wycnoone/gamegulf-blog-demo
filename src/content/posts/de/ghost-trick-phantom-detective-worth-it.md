@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ghost Trick: Phantom Detective: Sissels Geistertricks und Domino-Rettungen glänzen; vor dem"
-whatItIs: "Action und Abenteuer — Ghost Trick: Phantom Detective auf Nintendo Switch"
-bestFor: Für Spieler, die Sissels Geistertricks reizt.
+whatItIs: Sissels Geistertricks, Domino-Rettungen.
+bestFor: Stimmungsfans, die Routen-Neugier schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

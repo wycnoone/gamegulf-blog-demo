@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Guacamelee! 2: Chicken form, luchador combos, and meme portals keep it loud; check Brazil R$99"
-whatItIs: action, platformer — Guacamelee! 2 on Nintendo Switch
-bestFor: Best if you want chicken form, luchador combos, and meme
+whatItIs: 'action, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Retry-friendly players who value fair retries.
 avoidIf: Skip if action, platformer or that rhythm leaves you cold.
 consensusPraise: Chicken form, luchador combos, and meme portals keep it loud is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

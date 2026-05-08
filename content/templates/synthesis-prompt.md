@@ -256,6 +256,8 @@ FRONTMATTER:
   whatItIs ≤90, bestFor ≤60, communityVibe ≤64,
   listingTakeaway ≤96, avoidIf ≤72, consensusPraise ≤82,
   mainFriction ≤84, timeFit ≤82, fitLabel ≤72
+- whatItIs must name concrete gameplay mechanics, modes, systems, structure, or content loop; never use generic genre + title + platform copy like "action — Game on Nintendo Switch" or "动作 — Switch 版 游戏", and never repeat playtime/completion copy such as "~10h campaign" or "主线约 10 小时".
+- bestFor must be an audience-fit statement (player type, preference, tolerance, or mindset). Do not repeat or paraphrase communityVibe / player-consensus gameplay hot-take copy.
 - tldr: starts with game name, includes verdict, ≤160 chars
 - FAQ (`faq`): 3-6 items; every answer starts with `gameTitle`,
   self-contained. **Do not duplicate pricing** already in the article body:

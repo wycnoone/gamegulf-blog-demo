@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "ASTRAL CHAIN: Legion chains, police cases, and sync attacks define the style; check Hong Kong"
-whatItIs: action, adventure — ASTRAL CHAIN on Nintendo Switch
-bestFor: Best if you want stylish Legion action and police cases.
+whatItIs: Legion chains, police cases, sync attacks.
+bestFor: Exploration-first players who value environmental discovery.
 avoidIf: Skip if action, adventure or that rhythm leaves you cold.
 consensusPraise: Legion chains, police cases, and sync attacks define the style is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

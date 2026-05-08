@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Into the Breach — ターン制タクティクス / パズル戦略。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: ターン制タクティクス / パズル戦略 — Nintendo Switch版Into the Breach。
-bestFor: ターン制タクティクス / パズル戦略のテンポを携帯機で遊びたい人。
+whatItIs: ターン制タクティクス / パズル戦略：完全情報の虫と1マス押し。
+bestFor: 辛抱強い問題解決を重視する盤面を読む人。
 avoidIf: ターン制タクティクス / パズル戦略の気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 89点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

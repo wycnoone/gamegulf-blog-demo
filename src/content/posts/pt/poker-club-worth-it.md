@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Poker Club: Ler mesa, folds lentos e blefes online decidem; confira Alemanha €17.59"
-whatItIs: simulação e estratégia — Poker Club no Nintendo Switch
-bestFor: Para quem curte Ler mesa, folds lentos e blefes.
+whatItIs: 'simulação, estratégia: rotina diária, upgrades e metas longas.'
+bestFor: Construtores de rotina que valorizam metas longas.
 avoidIf: Evite se simulação e estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

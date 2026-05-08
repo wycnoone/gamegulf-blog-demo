@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: マインクラフト — アクション / アドベンチャー / ストラテジー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / ストラテジー — Nintendo Switch版マインクラフト。
-bestFor: アクション / アドベンチャー / ストラテジーのテンポを携帯機で遊びたい人。
+whatItIs: サンドボックスサバイバル：採集、クラフト、建築、レッドストーン、共有ワールド。
+bestFor: 環境発見を重視する探索重視の人。
 avoidIf: アクション / アドベンチャー / ストラテジーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

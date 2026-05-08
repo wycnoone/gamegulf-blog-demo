@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Two Point Campus: Cursos absurdos, ánimo estudiantil y aulas sostienen; revisa Hong Kong HK$238"
-whatItIs: estrategia — Two Point Campus en Nintendo Switch
-bestFor: Jugadores que quieren estrategia en formato portátil
+whatItIs: 'estrategia: planificación por turnos, recursos y control del mapa.'
+bestFor: Jugadores tácticos que valoran ventanas de planificación.
 avoidIf: Evítalo si estrategia o ese ritmo no te llama.
 consensusPraise: Cursos absurdos, ánimo estudiantil y aulas sostienen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

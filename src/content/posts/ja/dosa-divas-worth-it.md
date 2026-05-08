@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Dosa Divas — アクション / アドベンチャー / RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / RPG — NS2版Dosa Divas。
-bestFor: アクション / アドベンチャー / RPGのテンポを携帯機で遊びたい人。
+whatItIs: ドーサ注文、乱闘で、厨房。
+bestFor: ビルドの個性を重視するパーティーを考える人。
 avoidIf: アクション / アドベンチャー / RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Persona 4 Golden — RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: RPG — Nintendo Switch版Persona 4 Golden。
-bestFor: RPGのテンポを携帯機で遊びたい人。
+whatItIs: RPG：育成、ビルド選択、クエスト進行。
+bestFor: メニュー判断を重視するパーティーを考える人。
 avoidIf: RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 90点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

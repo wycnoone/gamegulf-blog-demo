@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Guacamelee! Super Turbo Championship Edition: Troca de dimensão e golpes lucha carregam"
-whatItIs: ação e plataforma — Guacamelee! Super Turbo Championship Edition no Nintendo Switch
-bestFor: Jogadores que querem ação e plataforma em modo portátil
+whatItIs: Troca de dimensão, golpes lucha carregam o primeiro.
+bestFor: Jogadores de ação que valorizam ameaças legíveis.
 avoidIf: Evite se ação e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

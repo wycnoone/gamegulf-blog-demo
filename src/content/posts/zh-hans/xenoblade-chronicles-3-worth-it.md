@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 异度神剑3：角色扮演、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 开放世界 JRPG：实时战斗、职业切换、60 小时以上主线。
+whatItIs: 实时 JRPG：自动攻击积累技能槽，释放战技、连锁攻击、衔尾蛇融合。职业切换让每个角色胜任任何定位。广阔开放区域可探索。
 bestFor: 想要大世界和深度战斗的 JRPG 玩家。
 avoidIf: 想要短时间体验——60 小时以上投入，开头慢热。
 consensusPraise: 世界规模、战斗深度和灵活职业系统撑起 60 小时以上的流程。

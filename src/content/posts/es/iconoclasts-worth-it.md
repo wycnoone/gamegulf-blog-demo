@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Iconoclasts: La llave de Robin, jefes y drama familiar le dan filo; revisa Japón ¥2,200"
-whatItIs: acción y aventura — Iconoclasts en Nintendo Switch
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: La llave de Robin, jefes, drama familiar.
+bestFor: Exploradores que valoran orientación ligera.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: La llave de Robin, jefes y drama familiar le dan es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

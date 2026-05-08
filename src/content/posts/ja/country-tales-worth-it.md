@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Country Tales — アドベンチャー / ストラテジー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / ストラテジー — Nintendo Switch版Country Tales。
-bestFor: アドベンチャー / ストラテジーのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー, ストラテジー：探索の流れ、インタラクション、ルート選択。
+bestFor: ルートへの好奇心を重視する探索重視の人。
 avoidIf: アドベンチャー / ストラテジーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

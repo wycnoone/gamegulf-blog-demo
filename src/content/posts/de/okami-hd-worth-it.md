@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: OKAMI HD — Abenteuer; im April 2026 lohnt vor dem Kauf der Regionenvergleich auf GameGulf
-whatItIs: Abenteuer — OKAMI HD auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Himmlischer Pinsel und Amaterasu
+whatItIs: Himmlischer Pinsel, Amaterasu.
+bestFor: Erkundungsspieler, die Umgebungsentdeckung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (89 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

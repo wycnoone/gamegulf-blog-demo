@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Guacamelee! 2 : Poulet, combos de luchador et portails ; vérifiez Brésil R$99"
-whatItIs: action et plates-formes — Guacamelee! 2 sur Nintendo Switch
-bestFor: À conseiller si Poulet, combos de luchador et portails à
+whatItIs: 'action, plates-formes : timing de combat, mobilité et rythme des rencontres.'
+bestFor: Fans de défi actif qui valorisent le rythme de combat.
 avoidIf: À éviter si action et plates-formes ou ce rythme vous laisse froid.
 consensusPraise: Poulet, combos de luchador et portails à memes font le reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FULL METAL SCHOOLGIRL: Mechas colegiais e prédios destruídos vendem o absurdo"
-whatItIs: ação e tiro — FULL METAL SCHOOLGIRL no NS2
-bestFor: Jogadores que querem ação e tiro em modo portátil
+whatItIs: 'ação, tiro: ritmo de combate, movimento e encontros.'
+bestFor: Jogadores de combate que valorizam testes claros.
 avoidIf: Evite se ação e tiro ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

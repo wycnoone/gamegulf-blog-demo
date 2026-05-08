@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Velocity2X：动作、街机、平台跳跃；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、街机、平台跳跃 — Switch 版 Velocity2X。
-bestFor: 喜欢瞬移冲刺和飞船步战切换让速通路线很有劲的玩家
+whatItIs: 动作、街机、平台跳跃：关卡推进、移动节奏和重试手感。
+bestFor: 爱关卡挑战的玩家，看重练习循环。
 avoidIf: 需要强指引或不吃瞬移冲刺和飞船步战切换让速通路线很有劲就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

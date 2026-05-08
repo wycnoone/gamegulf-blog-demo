@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Human: Fall Flat : Les prises molles et les amis qui ; vérifiez Hong Kong HK$99"
-whatItIs: "aventure, plates-formes et puzzle — Human: Fall Flat sur Nintendo Switch"
-bestFor: Pour qui accroche à Les prises molles et les amis.
+whatItIs: >-
+  aventure, plates-formes, puzzle : règles d’énigme, indices et retour de
+  solution.
+bestFor: Joueurs logiques qui valorisent les chaînes d’indices.
 avoidIf: À éviter si Les prises molles et les amis qui sabotent ne vous attire
 consensusPraise: Les prises molles et les amis qui sabotent tout font reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

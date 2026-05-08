@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Last Friend: Sauvetage de chiens, barricades et lanes; vérifiez Japon ¥1,520"
-whatItIs: aventure, arcade et combat — The Last Friend sur Nintendo Switch
-bestFor: À conseiller si Sauvetage de chiens, barricades et lanes
+whatItIs: aventure, arcade et combat.
+bestFor: Joueurs d’adresse qui valorisent l’exécution.
 avoidIf: À éviter si aventure, arcade et combat ou ce rythme vous laisse froid.
 consensusPraise: Sauvetage de chiens, barricades et lanes beat’em up reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun - Aiko's Choice: Aiko’s disguises and synchronized kills"
-whatItIs: "action, strategy — Shadow Tactics: Blades of the Shogun - Aiko's Choice on NS2"
-bestFor: Best if you want aiko’s disguises and synchronized kills
+whatItIs: Aiko’s disguises, synchronized kills.
+bestFor: Board-state readers who value planning windows.
 avoidIf: Skip if action, strategy or that rhythm leaves you cold.
 consensusPraise: Aiko’s disguises and synchronized kills make the expansion sing is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! 2: Cebollas volando, cocinas móviles y amistad dañada; revisa Japón ¥2,750"
-whatItIs: fiesta y estrategia — Overcooked! 2 en Nintendo Switch
-bestFor: Recomendable si te atrae Cebollas volando, cocinas móviles
+whatItIs: 'fiesta, estrategia: planificación por turnos, recursos y control del mapa.'
+bestFor: Jugadores tácticos que valoran presión sin reflejos.
 avoidIf: Evítalo si fiesta y estrategia o ese ritmo no te llama.
 consensusPraise: Cebollas volando, cocinas móviles y amistad dañada es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

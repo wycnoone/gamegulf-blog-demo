@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "LEGO Voyagers: Dos piezas pequeñas y espacios enormes hacen un coop tierno; revisa Japón ¥2,900"
-whatItIs: aventura y puzle — LEGO Voyagers en NS2
-bestFor: Jugadores que quieren aventura y puzle en formato portátil
+whatItIs: Dos piezas pequeñas, espacios enormes.
+bestFor: Lectores de pistas que valoran cadenas de pistas.
 avoidIf: Evítalo si aventura y puzle o ese ritmo no te llama.
 consensusPraise: Dos piezas pequeñas y espacios enormes hacen un coop es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

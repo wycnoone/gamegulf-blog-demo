@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Blue Prince: Draft de salas e lógica da mansão fazem cada planta virar debate"
-whatItIs: aventura e quebra-cabeça — Blue Prince no NS2
-bestFor: Para quem curte Draft de salas e lógica da.
+whatItIs: Draft de salas, lógica da mansão, pistas e rotas que mudam a planta.
+bestFor: Solucionadores pacientes que valorizam soluções merecidas.
 avoidIf: Evite se aventura e quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (92 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

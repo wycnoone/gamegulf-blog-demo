@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 龙珠斗士Z：格斗、动作；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 格斗、动作 — Switch 版 龙珠斗士Z。
-bestFor: 喜欢援护、瞬移压制和动画式逆转才是龙珠格斗味的玩家
+whatItIs: 格斗、动作：援护、瞬移压制和动画式逆转。
+bestFor: 反应型动作玩家，看重主动输入。
 avoidIf: 需要强指引或不吃援护、瞬移压制和动画式逆转才是龙珠格斗味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

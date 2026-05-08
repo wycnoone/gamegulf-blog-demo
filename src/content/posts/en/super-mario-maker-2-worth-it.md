@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Super Mario Maker 2: Troll blocks make every Mario level personal; check Japan ¥6,578"
-whatItIs: platformer, action — Super Mario Maker 2 on Nintendo Switch
-bestFor: Best if you want troll blocks make every Mario level
+whatItIs: 'platformer, action: stage flow, movement timing, and retry rhythm.'
+bestFor: Precision players who value movement mastery.
 avoidIf: Skip if platformer, action or that rhythm leaves you cold.
 consensusPraise: Troll blocks make every Mario level personal is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

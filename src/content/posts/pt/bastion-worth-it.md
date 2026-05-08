@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Bastion: O martelo do Kid e o narrador carregam a jornada; confira Alemanha €12.49"
-whatItIs: ação, aventura e RPG — Bastion no Nintendo Switch
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Martelo do Kid, armas trocáveis, narrador reativo e arenas flutuantes.
+bestFor: Pensadores de equipe que valorizam identidade de build.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (90 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

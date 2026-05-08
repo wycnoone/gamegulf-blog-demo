@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Minecraft: Primera noche, redstone y mundos compartidos no terminan; revisa Brasil R$99"
-whatItIs: acción, aventura y estrategia — Minecraft en Nintendo Switch
-bestFor: Recomendable si te atrae Primera noche, redstone y mundos.
+whatItIs: 'Supervivencia sandbox: recolección, crafteo, construcción, redstone y mundos compartidos.'
+bestFor: Jugadores tácticos que valoran problemas pacientes.
 avoidIf: Evítalo si acción, aventura y estrategia o ese ritmo no te llama.
 consensusPraise: Primera noche, redstone y mundos compartidos no es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

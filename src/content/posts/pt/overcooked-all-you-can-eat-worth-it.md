@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! All You Can Eat: Todas cozinhas, gritos e modo ajuda fazem o banquete; confira"
-whatItIs: simulação, estratégia e ação — Overcooked! All You Can Eat no Nintendo Switch
-bestFor: Vale se Todas cozinhas, gritos e modo ajuda parece seu tipo
+whatItIs: 'simulação, estratégia, ação: rotina diária, upgrades e metas longas.'
+bestFor: Planejadores sem pressão que valorizam planejamento suave.
 avoidIf: Evite se simulação, estratégia e ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

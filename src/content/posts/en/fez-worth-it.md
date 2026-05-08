@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FEZ: Rotating cubes and notebook theories make every door suspicious; check United States"
-whatItIs: adventure, Other, platformer — FEZ on Nintendo Switch
-bestFor: Best if you want rotating cubes and notebook theories
+whatItIs: 'adventure, Other, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Stage-challenge fans who value fair retries.
 avoidIf: Skip if adventure, Other, platformer or that rhythm leaves you cold.
 consensusPraise: Rotating cubes and notebook theories make every door suspicious is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

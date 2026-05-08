@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Stanley Parable: Ultra Deluxe: Narrador, balde sagrado e portas erradas são o ponto"
-whatItIs: "aventura — The Stanley Parable: Ultra Deluxe no Nintendo Switch"
-bestFor: Jogadores que querem aventura em modo portátil
+whatItIs: Narrador reativo, portas erradas, balde sagrado e escolhas absurdas.
+bestFor: Buscadores de clima que valorizam descoberta ambiental.
 avoidIf: Evite se aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

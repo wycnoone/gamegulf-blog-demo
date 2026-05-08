@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun - Aiko's Choice: Disfarces da Aiko e abates sincronizados"
-whatItIs: "ação e estratégia — Shadow Tactics: Blades of the Shogun - Aiko's Choice no NS2"
-bestFor: Jogadores que querem ação e estratégia em modo portátil
+whatItIs: 'ação, estratégia: ritmo de combate, movimento e encontros.'
+bestFor: Fãs de desafio ativo que valorizam testes claros.
 avoidIf: Evite se ação e estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

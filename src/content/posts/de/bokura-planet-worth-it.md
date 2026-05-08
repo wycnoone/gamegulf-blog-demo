@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BOKURA: planet: Zwei Sichten, zwei Wahrheiten: Koop-Streit ist der Trick"
-whatItIs: "Action, Abenteuer und Puzzle — BOKURA: planet auf NS2"
-bestFor: Für Spieler mit Lust auf Zwei Sichten, zwei Wahrheiten
+whatItIs: 'Action, Abenteuer, Puzzle: Rätselregeln, Hinweisfluss und Lösungsfeedback.'
+bestFor: Logikspieler, die klare Regeln schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Abenteuer und Puzzle nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

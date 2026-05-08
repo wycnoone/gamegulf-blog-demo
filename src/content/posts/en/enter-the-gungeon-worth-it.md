@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Enter the Gungeon: Dodge rolls, bullet puns, and chest greed decide every floor; check Brazil"
-whatItIs: action, adventure, shooter — Enter the Gungeon on Nintendo Switch
-bestFor: Best if you want dodge rolls, bullet puns, and chest greed
+whatItIs: >-
+  action, adventure, shooter: aiming pressure, scoring routes, and short-stage
+  loops.
+bestFor: Reflex players who value score pressure.
 avoidIf: Skip if action, adventure, shooter or that rhythm leaves you cold.
 consensusPraise: Dodge rolls, bullet puns, and chest greed decide every floor is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

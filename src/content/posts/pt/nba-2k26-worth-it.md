@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: NBA 2K26 — esportes; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: esportes — NBA 2K26 no NS2.
-bestFor: Jogadores que querem esportes em modo portátil.
+whatItIs: 'esportes: sistemas, modos e sensação de controle definem o encaixe.'
+bestFor: Compradores anti-FOMO que valorizam encaixe antes do FOMO.
 avoidIf: Evite se esportes ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

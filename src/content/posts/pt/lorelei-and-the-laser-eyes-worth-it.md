@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Lorelei and the Laser Eyes: Códigos do hotel, pistas falsas e caderno exigem obsessão; confira"
-whatItIs: quebra-cabeça e aventura — Lorelei and the Laser Eyes no Nintendo Switch
-bestFor: Vale se Códigos do hotel, pistas falsas e parece seu tipo
+whatItIs: 'quebra-cabeça, aventura: regras de puzzle, pistas e retorno da solução.'
+bestFor: Jogadores de puzzle que valorizam cadeias de pistas.
 avoidIf: Evite se quebra-cabeça e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

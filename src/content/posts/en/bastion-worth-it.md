@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Bastion: The Kid’s hammer swings and narrator reactions carry the journey; check Germany €12.49"
-whatItIs: action, adventure, role-playing — Bastion on Nintendo Switch
-bestFor: Best if you want the Kid’s hammer swings and narrator
+whatItIs: The Kid’s hammer swings, narrator reactions.
+bestFor: Long-tail character builders who value quest pacing.
 avoidIf: Skip if action, adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: The Kid’s hammer swings and narrator reactions carry the journey is the main
 mainFriction: If the hook misses, the rhythm can feel thin

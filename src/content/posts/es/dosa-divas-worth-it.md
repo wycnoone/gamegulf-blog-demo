@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Dosa Divas: Pedidos de dosa y peleas vuelven explosiva la cocina; revisa Japón ¥2,300"
-whatItIs: acción, aventura y rol — Dosa Divas en NS2
-bestFor: Recomendable si te atrae Pedidos de dosa y peleas vuelven.
+whatItIs: Pedidos de dosa, peleas de cocina, combos rápidos y caos local.
+bestFor: Fans de progresión larga que valoran menús con peso.
 avoidIf: Evítalo si acción, aventura y rol o ese ritmo no te llama.
 consensusPraise: Pedidos de dosa y peleas vuelven explosiva la cocina es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "MARVEL Cosmic Invasion: Heróis em tag e hordas arcade vendem a briga de HQ; confira EUA $29.99"
-whatItIs: ação, arcade e luta — MARVEL Cosmic Invasion no Nintendo Switch
-bestFor: Jogadores que querem ação, arcade e luta em modo portátil
+whatItIs: 'ação, arcade, luta: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Jogadores de mira que valorizam resposta direta.
 avoidIf: Evite se ação, arcade e luta ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

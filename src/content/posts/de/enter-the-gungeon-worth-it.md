@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Enter the Gungeon: Dodge Rolls, Waffenwitze und Truhen-Gier bestimmen Etagen"
-whatItIs: Action, Abenteuer und Shooter — Enter the Gungeon auf Nintendo Switch
-bestFor: Für Spieler, die Dodge Rolls, Waffenwitze reizt.
+whatItIs: 'Action, Abenteuer, Shooter: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Reflexspieler, die Score-Druck schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Abenteuer und Shooter nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

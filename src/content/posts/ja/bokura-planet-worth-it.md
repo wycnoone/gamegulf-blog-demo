@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BOKURA: planet — アクション / アドベンチャー / パズル。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アクション / アドベンチャー / パズル — NS2版BOKURA: planet。"
-bestFor: アクション / アドベンチャー / パズルのテンポを携帯機で遊びたい人。
+whatItIs: 二人で違う画面を見て、会話で真相を合わせる協力パズル。
+bestFor: ルートへの好奇心を重視する探索重視の人。
 avoidIf: アクション / アドベンチャー / パズルの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

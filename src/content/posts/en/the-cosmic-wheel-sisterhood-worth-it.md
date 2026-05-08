@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Cosmic Wheel Sisterhood: Handmade tarot turns witch politics intimate; check Brazil R$54.99"
-whatItIs: adventure, Other, simulation — The Cosmic Wheel Sisterhood on Nintendo Switch
-bestFor: Best if you want handmade tarot turns witch politics
+whatItIs: >-
+  adventure, Other, simulation: daily routines, upgrade loops, and long-tail
+  goals.
+bestFor: Systems players who value light optimization.
 avoidIf: Skip if adventure, Other, simulation or that rhythm leaves you cold.
 consensusPraise: Handmade tarot turns witch politics intimate is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

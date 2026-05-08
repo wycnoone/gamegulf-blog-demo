@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun: Synchronized kills make every patrol a puzzle box; check"
-whatItIs: "action, strategy — Shadow Tactics: Blades of the Shogun on NS2"
-bestFor: Best if you want synchronized kills make every patrol
+whatItIs: 'action, strategy: turn planning, resource pressure, and map control.'
+bestFor: Board-state readers who prefer resource choices.
 avoidIf: Skip if action, strategy or that rhythm leaves you cold.
 consensusPraise: Synchronized kills make every patrol a puzzle box is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

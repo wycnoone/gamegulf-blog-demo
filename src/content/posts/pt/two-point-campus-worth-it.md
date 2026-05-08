@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Two Point Campus: Cursos absurdos, humor dos alunos e salas sustentam; confira Hong Kong HK$238"
-whatItIs: estratégia — Two Point Campus no Nintendo Switch
-bestFor: Jogadores que querem estratégia em modo portátil
+whatItIs: 'estratégia: sistemas, modos e sensação de controle definem o encaixe.'
+bestFor: Perfis de encaixe primeiro que valorizam encaixe de gênero.
 avoidIf: Evite se estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

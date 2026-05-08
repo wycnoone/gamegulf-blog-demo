@@ -30,8 +30,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Blue Prince — アドベンチャー / パズル。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / パズル — NS2版Blue Prince。
-bestFor: アドベンチャー / パズルのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー / パズル：部屋ドラフトと屋敷の理屈。
+bestFor: 環境発見を重視する雰囲気重視の人。
 avoidIf: アドベンチャー / パズルの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 92点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,7 +26,9 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Huntdown: Disparos en slide, carteles y bandas ochenteras dan estilo; revisa Japón ¥1,999"
-whatItIs: acción, arcade y plataformas — Huntdown en Nintendo Switch
+whatItIs: >-
+  acción, arcade, plataformas: presión de apuntado, rutas de puntuación y fases
+  cortas.
 bestFor: Para quien conecte con Disparos en slide, carteles.
 avoidIf: Evítalo si acción, arcade y plataformas o ese ritmo no te llama.
 consensusPraise: Disparos en slide, carteles y bandas ochenteras dan es el gancho más claro.

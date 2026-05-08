@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Death's Door: Corvo ceifador, esquivas e humor do além dão o tom; confira Japão ¥2,050"
-whatItIs: ação, aventura e arcade — Death's Door no Nintendo Switch
-bestFor: Vale se Corvo ceifador, esquivas e humor do parece seu tipo
+whatItIs: 'ação, aventura, arcade: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Jogadores de reflexo que valorizam resposta direta.
 avoidIf: Evite se ação, aventura e arcade ou esse ritmo não combina.
 consensusPraise: A faixa crítica (89 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

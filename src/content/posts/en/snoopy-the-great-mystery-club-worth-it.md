@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Snoopy & The Great Mystery Club: Snoopy costumes and Peanuts clue-hunting carry the kid"
-whatItIs: adventure, puzzle, action — Snoopy & The Great Mystery Club on Nintendo Switch
-bestFor: Best if you want snoopy costumes and Peanuts clue-hunting
+whatItIs: Snoopy costumes, Peanuts clue-hunting.
+bestFor: Patient clue readers who value clean rules.
 avoidIf: Skip if adventure, puzzle, action or that rhythm leaves you cold.
 consensusPraise: Snoopy costumes and Peanuts clue-hunting carry the kid mystery is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

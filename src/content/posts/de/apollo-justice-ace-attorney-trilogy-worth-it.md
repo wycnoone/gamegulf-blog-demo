@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Apollo Justice: Ace Attorney Trilogy: Apollos Armband und Gerichts-Twists tragen die Trilogie"
-whatItIs: "Abenteuer — Apollo Justice: Ace Attorney Trilogy auf Nintendo Switch"
-bestFor: Für Spieler, die Apollos Armband und Gerichts-Twists reizt.
+whatItIs: Apollos Armband, Gerichts-Twists.
+bestFor: Routen-Neugierige, die Story-Textur schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (84 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

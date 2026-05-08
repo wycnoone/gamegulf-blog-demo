@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Snoopy & The Great Mystery Club: Costumes de Snoopy et indices Peanuts portent le mystère"
-whatItIs: aventure, puzzle et action — Snoopy & The Great Mystery Club sur Nintendo Switch
-bestFor: Pour qui accroche à Costumes de Snoopy et indices.
+whatItIs: Costumes de Snoopy, indices Peanuts.
+bestFor: Esprits puzzle qui valorisent le temps de réflexion.
 avoidIf: À éviter si aventure, puzzle et action ou ce rythme vous laisse froid.
 consensusPraise: Costumes de Snoopy et indices Peanuts portent le reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

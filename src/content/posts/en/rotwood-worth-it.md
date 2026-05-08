@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Rotwood: Chunky co-op hits and camp upgrades make monster runs snacky; check Brazil R$88.99"
-whatItIs: action, adventure, role-playing — Rotwood on NS2
-bestFor: Best if you want chunky co-op hits and camp upgrades
+whatItIs: Co-op brawler runs, heavy hits, monster rooms, camp upgrades, and gear builds.
+bestFor: Long-tail character builders who value party planning.
 avoidIf: Skip if action, adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: Steam reception is mostly positive, with praise for combat and co-op
 mainFriction: If the hook misses, the rhythm can feel thin

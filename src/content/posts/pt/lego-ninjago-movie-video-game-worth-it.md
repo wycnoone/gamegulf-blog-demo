@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "LEGO NINJAGO Movie Video Game: Spinjitzu e quebrar blocos vendem o caos em família; confira"
-whatItIs: ação e aventura — LEGO NINJAGO Movie Video Game no Nintendo Switch
-bestFor: Jogadores que querem ação e aventura em modo portátil
+whatItIs: Spinjitzu, quebrar blocos vendem o caos em família.
+bestFor: Buscadores de clima que valorizam orientação leve.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

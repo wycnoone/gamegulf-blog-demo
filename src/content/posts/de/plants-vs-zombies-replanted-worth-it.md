@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Plants vs. Zombies: Replanted: Rasenbahnen, Wallnüsse und Nostalgie verteidigen"
-whatItIs: "Strategie — Plants vs. Zombies: Replanted auf Nintendo Switch"
-bestFor: Für Spieler, die Rasenbahnen, Wallnüsse und Nostalgie reizt.
+whatItIs: 'Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Taktiker, die ruhiges Denken schätzen.
 avoidIf: Auslassen, wenn dich der Mix Strategie nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

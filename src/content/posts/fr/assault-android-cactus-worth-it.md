@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Assault Android Cactus+: Batterie qui fond et twin-stick nerveux rendent le coop bruyant"
-whatItIs: action, arcade et tir — Assault Android Cactus+ sur Nintendo Switch
-bestFor: À conseiller si Batterie qui fond et twin-stick nerveux
+whatItIs: 'action, arcade, tir : pression de visée, scoring et boucles courtes.'
+bestFor: Profils arcade qui valorisent le rythme arcade.
 avoidIf: À éviter si action, arcade et tir ou ce rythme vous laisse froid.
 consensusPraise: Batterie qui fond et twin-stick nerveux rendent le reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Neon White — ação e aventura; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: ação e aventura — Neon White no Nintendo Switch.
-bestFor: Jogadores que querem ação e aventura em modo portátil.
+whatItIs: Descartar cartas, fantasmas, medalhas.
+bestFor: Jogadores de rotas que valorizam curiosidade de rotas.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

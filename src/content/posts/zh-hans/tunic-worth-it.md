@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: TUNIC：动作、冒险、解谜；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、解谜 — Switch 版 TUNIC。
-bestFor: 喜欢说明书残页、狐狸秘密和看不懂的提示让探索很神秘的玩家
+whatItIs: 动作、冒险、解谜：谜题规则、线索递进和解法反馈。
+bestFor: 喜欢慢慢想的玩家，看重线索串联。
 avoidIf: 需要强指引或不吃说明书残页、狐狸秘密和看不懂的提示让探索很神秘就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 88 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

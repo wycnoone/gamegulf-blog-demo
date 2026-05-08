@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "A Short Hike: Claires Aufstieg macht Muscheln, Gleiten und Botengänge warm; prüfe Japan ¥850"
-whatItIs: Abenteuer und Plattformer — A Short Hike auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Claires Aufstieg macht Muscheln
+whatItIs: 'Abenteuer, Plattformer: Level-Fluss, Bewegungstiming und Retry-Rhythmus.'
+bestFor: Level-Challenge-Fans, die Bewegungsmeisterung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Plattformer nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

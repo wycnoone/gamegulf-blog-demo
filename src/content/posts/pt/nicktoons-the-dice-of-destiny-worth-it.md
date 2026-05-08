@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nicktoons & The Dice of Destiny: Nicktoons conversando e caos RPG de dados é o foco; confira"
-whatItIs: ação, aventura e RPG — Nicktoons & The Dice of Destiny no Nintendo Switch
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Equipe Nicktoons, ritmo RPG de dados, masmorras e crescimento de grupo.
+bestFor: Pensadores de equipe que valorizam decisões de progresso.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Rotwood — アクション / アドベンチャー / RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / RPG — NS2版Rotwood。
-bestFor: アクション / アドベンチャー / RPGのテンポを携帯機で遊びたい人。
+whatItIs: 協力乱闘ラン、重いヒット、怪物部屋、拠点強化を回すアクションRPG。
+bestFor: クエストの歩幅を重視するビルド重視のRPG好き。
 avoidIf: アクション / アドベンチャー / RPGの気分でないならセールでも無理しない。
 consensusPraise: Steamではやや好評。戦闘、協力プレイ、ビルド作りへの言及が多いです。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

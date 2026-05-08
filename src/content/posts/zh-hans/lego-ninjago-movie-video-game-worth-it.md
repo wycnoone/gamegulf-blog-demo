@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: LEGO NINJAGO Movie Video Game：动作、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险 — Switch 版 LEGO NINJAGO Movie Video Game。
+whatItIs: 动作、冒险：旋风忍术连段和拆砖合作。
 bestFor: 想和家人朋友轻松合作、接受乐高式轻动作流程的人。
 avoidIf: 想要深度连招、超长流程，或买来当硬核单人动作游戏的人。
 consensusPraise: 七位忍者可选、Battle Maps 最多四人对战，乐高味和上手门槛都不高。

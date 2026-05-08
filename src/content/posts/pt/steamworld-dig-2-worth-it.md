@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "SteamWorld Dig 2: Broca da Dorothy, luz e minério puxam para baixo; confira Japão ¥2,000"
-whatItIs: ação, aventura e plataforma — SteamWorld Dig 2 no Nintendo Switch
-bestFor: Para quem curte Broca da Dorothy, luz e minério.
+whatItIs: 'ação, aventura, plataforma: ritmo de combate, movimento e encontros.'
+bestFor: Exploradores que valorizam textura narrativa.
 avoidIf: Evite se ação, aventura e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

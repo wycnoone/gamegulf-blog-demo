@@ -28,7 +28,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Atelier Ryza 2: Lost Legends & the Secret Fairy DX：角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。"
-whatItIs: "角色扮演 — NS2 版 Atelier Ryza 2: Lost Legends & the Secret Fairy DX。"
+whatItIs: 角色扮演：角色成长、构筑选择和任务推进。
 bestFor: 想玩长流程 JRPG、喜欢采集调合与轻冒险节奏的人。
 avoidIf: 如果你对炼金素材循环、长篇剧情，或接近原价的 JRPG 已经有疲劳感，就先别买。
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。

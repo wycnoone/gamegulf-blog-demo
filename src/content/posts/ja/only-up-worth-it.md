@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: ONLY UP! — アクション / アーケード / パーティー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アーケード / パーティー — Nintendo Switch版ONLY UP!。
-bestFor: アクション / アーケード / パーティーのテンポを携帯機で遊びたい人。
+whatItIs: アクション / アーケード / パーティー：一度の落下と配信者の悲鳴ま。
+bestFor: 読みやすい脅威を重視するアクション挑戦派。
 avoidIf: アクション / アーケード / パーティーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

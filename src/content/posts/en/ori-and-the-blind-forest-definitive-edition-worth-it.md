@@ -40,9 +40,7 @@ featuredPriority: 2
 listingTakeaway: >-
   90 MC Ori DE; JP row ~€11; BR historic low ~€4.15; 4 sales/yr; avg discount
   ~€10.57.
-whatItIs: >-
-  Story-led action-platformer: orb economy, timed escapes, DE-only routes &
-  modes.
+whatItIs: Ability-gated map routes, Soul Link checkpoints, orb upgrades, and fast travel.
 bestFor: Fans of momentum jumps, map-wide upgrades & cinematic indie
 avoidIf: Strict chase timers or retry-heavy gauntlets drain you faster than they
 consensusPraise: Art, animation score, and traversal clarity still anchor recommendations.

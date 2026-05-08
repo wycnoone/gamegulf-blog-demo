@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Guacamelee! 2: Pollo, combos luchador y portales meme lo hacen ruidoso; revisa Brasil R$99"
-whatItIs: acción y plataformas — Guacamelee! 2 en Nintendo Switch
-bestFor: Recomendable si te atrae Pollo, combos luchador y portales.
+whatItIs: Pollo, combos luchador, portales meme.
+bestFor: Jugadores de combate que valoran combate con respuesta.
 avoidIf: Evítalo si acción y plataformas o ese ritmo no te llama.
 consensusPraise: Pollo, combos luchador y portales meme lo hacen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -20,7 +20,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 88 Metacritic story anthology — April 2026 Spain sale sits below average discount prints
 whatItIs: "First-person narrative: Finch house vignettes, Giant Sparrow pacing"
-bestFor: Best if you want each Finch room changes controls just long
+bestFor: Slow-burn solvers who value quiet deduction.
 avoidIf: Skip if death-heavy themes or walking-sim pacing will wreck your mood
 consensusPraise: Writing, scene variety, and environmental storytelling rank among indies’ best
 mainFriction: It is brief — you are paying for density, not a 30-hour RPG loop

@@ -31,9 +31,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Nintendo tactics — Japan leads rows; sales help but rarely match Dec 2025 dip.
-whatItIs: >-
-  Squad tactics adventure — command colored Pikmin, Oatchi rides, night maps,
-  Dandori duels.
+whatItIs: Overhead exploration, typed Pikmin squads, Oatchi hauling, night routes, and Dandori.
 bestFor: Fans of Pikmin routing puzzles over twitch action.
 avoidIf: You want nonstop action or dislike micromanaging fragile squads.
 consensusPraise: Charming art, readable objectives, satisfying cleanup loops once routes click.

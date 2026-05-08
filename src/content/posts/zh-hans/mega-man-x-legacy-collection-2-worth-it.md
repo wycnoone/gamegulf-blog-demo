@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Mega Man X Legacy Collection 2：动作；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作 — Switch 版 Mega Man X Legacy Collection 2。
-bestFor: 喜欢X4 情怀、装甲部件和后期作品怪味让玩家分层的玩家
+whatItIs: 动作：战斗节奏、移动手感和遭遇设计。
+bestFor: 喜欢亲手操作的玩家，看重战斗手感。
 avoidIf: 需要强指引或不吃X4 情怀、装甲部件和后期作品怪味让玩家分层就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 60 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "POOL ROOM BILLIARD: Winkel, sanfte Stöße und Billardraum-Stimmung tragen; prüfe Hongkong HK$75"
-whatItIs: Simulation und Sport — POOL ROOM BILLIARD auf NS2
-bestFor: Für Spieler, die Winkel, sanfte Stöße reizt.
+whatItIs: 'Simulation, Sport: Alltagsroutine, Upgrade-Schleifen und Langzeitziele.'
+bestFor: Routinebauer, die Langzeitziele schätzen.
 avoidIf: Auslassen, wenn dich der Mix Simulation und Sport nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

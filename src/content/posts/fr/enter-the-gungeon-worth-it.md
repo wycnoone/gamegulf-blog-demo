@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Enter the Gungeon: Roulades, blagues d’armes et coffres; vérifiez Brésil R$46.99"
-whatItIs: action, aventure et tir — Enter the Gungeon sur Nintendo Switch
-bestFor: Pour qui accroche à Roulades, blagues d’armes.
+whatItIs: 'action, aventure, tir : timing de combat, mobilité et rythme des rencontres.'
+bestFor: Explorateurs qui valorisent la découverte.
 avoidIf: À éviter si action, aventure et tir ou ce rythme vous laisse froid.
 consensusPraise: Roulades, blagues d’armes et coffres gourmands reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

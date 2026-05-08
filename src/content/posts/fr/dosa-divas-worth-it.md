@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Dosa Divas : Commandes de dosa et bagarre rendent ; vérifiez Japon ¥2,300"
-whatItIs: action, aventure et jeu de rôle — Dosa Divas sur NS2
-bestFor: Pour qui accroche à Commandes de dosa et bagarre.
+whatItIs: Commandes de dosa, bagarre rendent la cuisine explosive.
+bestFor: Joueurs curieux qui valorisent l’ambiance sans grind.
 avoidIf: À éviter si action, aventure et jeu de rôle ou ce rythme vous laisse
 consensusPraise: Commandes de dosa et bagarre rendent la cuisine reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

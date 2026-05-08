@@ -81,9 +81,11 @@ export function extractMetacriticScore(post: PostLike): number | null {
   return null;
 }
 
-export function sortByPriorityAndDate<T extends { featuredPriority: number; publishedAt: string }>(a: T, b: T) {
+export function sortByPriorityAndDate<T extends { featuredPriority: number; publishedAt: string; metacriticScore?: number }>(a: T, b: T) {
   if (a.featuredPriority !== b.featuredPriority) return a.featuredPriority - b.featuredPriority;
-  return +new Date(b.publishedAt) - +new Date(a.publishedAt);
+  const dateDiff = +new Date(b.publishedAt) - +new Date(a.publishedAt);
+  if (dateDiff !== 0) return dateDiff;
+  return (b.metacriticScore ?? -1) - (a.metacriticScore ?? -1);
 }
 
 // ── Verdict / action / price inference ──

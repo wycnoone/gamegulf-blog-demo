@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Ralph and the Blue Ball: Balle bleue et petites erreurs de plateforme font le charme; vérifiez"
-whatItIs: puzzle et plates-formes — Ralph and the Blue Ball sur Nintendo Switch
-bestFor: Pour qui accroche à Balle bleue et petites erreurs.
+whatItIs: 'puzzle, plates-formes : règles d’énigme, indices et retour de solution.'
+bestFor: Esprits puzzle qui valorisent les chaînes d’indices.
 avoidIf: À éviter si puzzle et plates-formes ou ce rythme vous laisse froid.
 consensusPraise: Balle bleue et petites erreurs de plateforme font le reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

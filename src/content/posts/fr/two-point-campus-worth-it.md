@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Two Point Campus — stratégie; en avril 2026, comparez les régions sur GameGulf avant d’acheter
-whatItIs: stratégie — Two Point Campus sur Nintendo Switch
-bestFor: Joueurs qui veulent du stratégie au format portable
+whatItIs: Campus à gérer, salles absurdes, humeur étudiante et planning de cours.
+bestFor: Décideurs prudents qui valorisent la réflexion posée.
 avoidIf: À éviter si stratégie ou ce rythme vous laisse froid.
 consensusPraise: Cours absurdes, humeur étudiante et salles font le gag reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

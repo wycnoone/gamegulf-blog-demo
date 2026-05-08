@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Last Campfire: Puzles de perdidos y farol de Ember suavizan la tristeza; revisa Japón ¥1,480"
-whatItIs: aventura y puzle — The Last Campfire en Nintendo Switch
-bestFor: Jugadores que quieren aventura y puzle en formato portátil
+whatItIs: Puzles de perdidos, farol de Ember suavizan la tristeza.
+bestFor: Jugadores de puzle que valoran tiempo para pensar.
 avoidIf: Evítalo si aventura y puzle o ese ritmo no te llama.
 consensusPraise: Puzles de perdidos y farol de Ember suavizan la es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

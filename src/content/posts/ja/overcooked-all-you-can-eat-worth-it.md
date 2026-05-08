@@ -30,8 +30,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: オーバークック 王国のフルコース — シミュレーション / ストラテジー / アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: シミュレーション / ストラテジー / アクション — Nintendo Switch版オーバークック 王国のフルコース。
-bestFor: シミュレーション / ストラテジー / アクションのテンポを携帯機で遊びたい人。
+whatItIs: シミュレーション, ストラテジー, アクション：戦闘テンポ、移動感、遭遇設計。
+bestFor: 小さなアップグレードを重視する低圧プランナー。
 avoidIf: シミュレーション / ストラテジー / アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

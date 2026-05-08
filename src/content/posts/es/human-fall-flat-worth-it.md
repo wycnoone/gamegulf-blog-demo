@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Human: Fall Flat: Agarres torpes y amigos rompiendo planes son el chiste; revisa Hong Kong HK$99"
-whatItIs: "aventura, plataformas y puzle — Human: Fall Flat en Nintendo Switch"
-bestFor: Recomendable si te atrae Agarres torpes y amigos rompiendo.
+whatItIs: 'aventura, plataformas, puzle: reglas de puzle, pistas y respuesta de solución.'
+bestFor: Jugadores de puzle que valoran soluciones ganadas.
 avoidIf: Evítalo si aventura, plataformas y puzle o ese ritmo no te llama.
 consensusPraise: Agarres torpes y amigos rompiendo planes son el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

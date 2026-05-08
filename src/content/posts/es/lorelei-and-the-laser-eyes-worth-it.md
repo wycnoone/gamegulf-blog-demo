@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Lorelei and the Laser Eyes: Códigos de hotel, pistas falsas y libreta exigen obsesión; revisa"
-whatItIs: puzle y aventura — Lorelei and the Laser Eyes en Nintendo Switch
-bestFor: Jugadores que quieren puzle y aventura en formato portátil
+whatItIs: 'puzle, aventura: reglas de puzle, pistas y respuesta de solución.'
+bestFor: Jugadores lógicos que valoran tiempo para pensar.
 avoidIf: Evítalo si puzle y aventura o ese ritmo no te llama.
 consensusPraise: Códigos de hotel, pistas falsas y libreta exigen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

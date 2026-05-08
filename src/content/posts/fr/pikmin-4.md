@@ -19,7 +19,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Tactique Nintendo — Japon en tête ; promos utiles, rarement le creux déc. 2025.
-whatItIs: Aventure tactique en escouade — Pikmin colorés, Oatchi, cartes de nuit, Dandori.
+whatItIs: Exploration, escouades Pikmin, Oatchi, nuits Lumière et Dandori local.
 bestFor: Joueurs qui optimisent des routes plutôt que du reflex pur.
 avoidIf: Tu veux l’action non-stop ou détestes chaperonner des unités fragiles.
 consensusPraise: Charme visuel, objectifs clairs, rangement satisfaisant quand les trajets collent.

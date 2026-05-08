@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 史努比与神秘俱乐部：冒险、解谜、动作；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、解谜、动作 — Switch 版 史努比与神秘俱乐部。
-bestFor: 喜欢史努比换装和花生漫画式找线索撑起儿童侦探味的玩家
+whatItIs: 冒险、解谜、动作：史努比换装和花生漫画式找线索。
+bestFor: 喜欢慢慢想的玩家，看重线索串联。
 avoidIf: 需要强指引或不吃史努比换装和花生漫画式找线索撑起儿童侦探味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Velocity2X : Dash téléporté et swaps vaisseau-pied ; vérifiez Allemagne €19.99"
-whatItIs: action, arcade et plates-formes — Velocity2X sur Nintendo Switch
-bestFor: Pour qui accroche à Dash téléporté et swaps.
+whatItIs: 'action, arcade, plates-formes : pression de visée, scoring et boucles courtes.'
+bestFor: Chasseurs de score qui valorisent l’exécution.
 avoidIf: À éviter si action, arcade ou ce rythme vous laisse froid.
 consensusPraise: Dash téléporté et swaps vaisseau-pied font le reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

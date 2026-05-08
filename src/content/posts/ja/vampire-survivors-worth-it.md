@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Vampire Survivors — アクション / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー — Nintendo Switch版Vampire Survivors。
-bestFor: アクション / アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: 自動攻撃ビルド、宝石回収、武器進化、画面制圧のサバイバル。
+bestFor: ルートへの好奇心を重視する探索重視の人。
 avoidIf: アクション / アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 88点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

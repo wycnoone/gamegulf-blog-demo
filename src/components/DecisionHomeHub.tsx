@@ -14,7 +14,7 @@ type DecisionHomeHubProps = {
   cards: DecisionEntryCardModel[];
 };
 
-type HomeMode = 'all' | 'recommended_now' | 'wait_for_sale' | 'set_alert';
+type HomeMode = 'all' | 'recommended_now' | 'wait_for_sale' | 'multi_platform';
 
 const PLAY_PROFILE_FILTERS: QuickFilterKey[] = [
   'co_op',
@@ -51,9 +51,9 @@ function getIntentOptions(locale: BlogLocale) {
       desc: t(locale, 'home.intent.waitingForDealDesc'),
     },
     {
-      key: 'set_alert' as const,
-      label: t(locale, 'home.intent.stillDeciding'),
-      desc: t(locale, 'home.intent.stillDecidingDesc'),
+      key: 'multi_platform' as const,
+      label: t(locale, 'home.intent.multiPlatform'),
+      desc: t(locale, 'home.intent.multiPlatformDesc'),
     },
     {
       key: 'all' as const,
@@ -77,11 +77,11 @@ function getSectionCopy(locale: BlogLocale, mode: HomeMode) {
         featuredDesc: t(locale, 'home.section.wait.featuredDesc'),
         latest: t(locale, 'home.section.wait.latest'),
       };
-    case 'set_alert':
+    case 'multi_platform':
       return {
-        featured: t(locale, 'home.section.alert.featured'),
-        featuredDesc: t(locale, 'home.section.alert.featuredDesc'),
-        latest: t(locale, 'home.section.alert.latest'),
+        featured: t(locale, 'home.section.multiPlatform.featured'),
+        featuredDesc: t(locale, 'home.section.multiPlatform.featuredDesc'),
+        latest: t(locale, 'home.section.multiPlatform.latest'),
       };
     default:
       return {
@@ -106,6 +106,7 @@ function getSearchScore(card: DecisionEntryCardModel, query: string) {
       { value: card.searchIndex.quickFilters.join(' '), score: 56 },
       { value: card.searchIndex.communityVibe || '', score: 54 },
       { value: card.searchIndex.playtime || '', score: 52 },
+      { value: card.searchIndex.otherPlatformLabels?.join(' ') || '', score: 51 },
       { value: card.whatItIs.toLowerCase(), score: 50 },
       { value: card.bestFor.toLowerCase(), score: 40 },
       { value: card.priceCallLabel.toLowerCase(), score: 20 },
@@ -139,7 +140,7 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
     all: cards.length,
     recommended_now: cards.filter((c) => c.actionBucket === 'buy_now').length,
     wait_for_sale: cards.filter((c) => c.actionBucket === 'wait').length,
-    set_alert: cards.filter((c) => c.actionBucket === 'set_alert').length,
+    multi_platform: cards.filter((c) => c.hasOtherPlatforms).length,
   }), [cards]);
 
   const trending = useMemo(() => {
@@ -156,7 +157,7 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
         if (activeMode === 'all') return true;
         if (activeMode === 'recommended_now') return card.actionBucket === 'buy_now';
         if (activeMode === 'wait_for_sale') return card.actionBucket === 'wait';
-        return card.actionBucket === 'set_alert';
+        return Boolean(card.hasOtherPlatforms);
       })
       .filter((card) => matchesAllFilters(card, activeFilters))
       .map((card) => ({ card, searchScore: getSearchScore(card, query) }))
@@ -166,7 +167,9 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
           if (a.searchScore !== b.searchScore) return b.searchScore - a.searchScore;
         }
         if (a.card.featuredPriority !== b.card.featuredPriority) return a.card.featuredPriority - b.card.featuredPriority;
-        return +new Date(b.card.publishedAt) - +new Date(a.card.publishedAt);
+        const dateDiff = +new Date(b.card.publishedAt) - +new Date(a.card.publishedAt);
+        if (dateDiff !== 0) return dateDiff;
+        return (b.card.metacriticScore ?? -1) - (a.card.metacriticScore ?? -1);
       });
   }, [activeFilters, activeMode, cards, query]);
 
@@ -261,7 +264,7 @@ export function DecisionHomeHub({ locale, cards }: DecisionHomeHubProps) {
 
           {allLatestCards.length > 0 && (
             <section className="decision-latest-section section-block">
-              {featuredCards.length > 0 && (
+              {(featuredCards.length > 0 || activeMode !== 'all') && (
                 <div className="section-head">
                   <div>
                     <h2>{sectionCopy.latest}</h2>

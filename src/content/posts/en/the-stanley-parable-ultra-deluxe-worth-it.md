@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Stanley Parable: Ultra Deluxe: Narrator fights, bucket devotion, and wrong; check US $24.99"
-whatItIs: "adventure, First-person, Other — The Stanley Parable: Ultra Deluxe on Nintendo Switch"
-bestFor: Best if you want narrator fights, bucket devotion
+whatItIs: >-
+  adventure, First-person, Other: exploration flow, interaction rules, and route
+  choices.
+bestFor: Discovery-minded players who value story texture.
 avoidIf: Skip if adventure, First-person, Other or that rhythm leaves you cold.
 consensusPraise: Narrator fights, bucket devotion, and wrong doors are the point is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Tinykin : Savon qui glisse et essaim de Tinykin ; vérifiez Japon ¥3,299"
-whatItIs: aventure, arcade et plates-formes — Tinykin sur Nintendo Switch
-bestFor: Pour qui accroche à Savon qui glisse et essaim.
+whatItIs: >-
+  aventure, arcade, plates-formes : pression de visée, scoring et boucles
+  courtes.
+bestFor: Joueurs d’adresse qui valorisent les tests courts.
 avoidIf: À éviter si aventure, arcade et plates-formes ou ce rythme vous laisse
 consensusPraise: Savon qui glisse et essaim de Tinykin transforment la reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

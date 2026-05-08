@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Last Campfire: Forlorn-Rätsel und Embers Laterne machen Trauer sanft; prüfe Japan ¥1,480"
-whatItIs: Abenteuer und Puzzle — The Last Campfire auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Forlorn-Rätsel und Embers Laterne
+whatItIs: Forlorn-Rätsel, Embers Laterne.
+bestFor: Geduldige Knobler, die verdiente Lösungen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Puzzle nicht reizt
 consensusPraise: Das Kritikerband (83 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

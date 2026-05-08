@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Death's Door: Crow reaping, tight dodges, and quiet; check Japan ¥2,050"
-whatItIs: action, adventure, arcade — Death's Door on Nintendo Switch
-bestFor: Best if you want crow reaping, tight dodges, and quiet
+whatItIs: >-
+  action, adventure, arcade: aiming pressure, scoring routes, and short-stage
+  loops.
+bestFor: Score chasers who value score pressure.
 avoidIf: Skip if action, adventure, arcade or that rhythm leaves you cold.
 consensusPraise: Crow reaping, tight dodges, and quiet afterlife jokes carry it is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

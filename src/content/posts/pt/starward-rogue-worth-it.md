@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Starward Rogue: Salas bullet hell e relíquias twin-stick tensionam andares"
-whatItIs: ação e arcade — Starward Rogue no Nintendo Switch
-bestFor: Jogadores que querem ação e arcade em modo portátil
+whatItIs: 'ação, arcade: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Testadores de builds que valorizam aprender falhando.
 avoidIf: Evite se ação e arcade ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

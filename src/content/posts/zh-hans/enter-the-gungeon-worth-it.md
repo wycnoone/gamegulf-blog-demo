@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 挺进地牢：动作、冒险、射击；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、射击 — Switch 版 挺进地牢。
-bestFor: 喜欢翻滚躲弹、枪梗和开箱贪心决定每层命运的玩家
+whatItIs: 动作、冒险、射击：瞄准压力、得分路线和短关循环。
+bestFor: 喜欢得分压力的玩家，看重街机节奏。
 avoidIf: 需要强指引或不吃翻滚躲弹、枪梗和开箱贪心决定每层命运就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

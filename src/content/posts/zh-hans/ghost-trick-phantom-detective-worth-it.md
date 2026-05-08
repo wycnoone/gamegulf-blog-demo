@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 《幽灵诡计：幻影侦探》：动作、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 解谜悬疑冒险 — Switch 版《幽灵诡计：幻影侦探》。
+whatItIs: 动作、冒险：西塞尔附身改命和连锁机关救人。
 bestFor: 喜欢巧舟式悬疑、附身机关、时间回溯救人谜题和短章节推进的人。
 avoidIf: 想要开放探索、重动作战斗或超长 RPG 流程就不太适合。
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。

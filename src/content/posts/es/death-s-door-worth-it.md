@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Death's Door: Cuervo segador, esquivas y humor de ultratumba sostienen el tono"
-whatItIs: acción, aventura y arcade — Death's Door en Nintendo Switch
-bestFor: Recomendable si te atrae Cuervo segador, esquivas y humor
+whatItIs: >-
+  acción, aventura, arcade: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Perfiles arcade que valoran ritmo arcade.
 avoidIf: Evítalo si acción, aventura y arcade o ese ritmo no te llama.
 consensusPraise: Cuervo segador, esquivas y humor de ultratumba es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

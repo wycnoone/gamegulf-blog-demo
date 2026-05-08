@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL FighterZ: Assists, Vanish-Druck und Anime-Comebacks machen den Reiz"
-whatItIs: Kampfspiel und Action — DRAGON BALL FighterZ auf Nintendo Switch
-bestFor: Für Spieler, die Assists, Vanish-Druck reizt.
+whatItIs: 'Kampfspiel, Action: Kampftiming, Bewegungsgefühl und Begegnungsrhythmus.'
+bestFor: Action-Spieler, die lesbare Gefahren schätzen.
 avoidIf: Auslassen, wenn dich der Mix Kampfspiel und Action nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

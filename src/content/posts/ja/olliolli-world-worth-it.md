@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: OlliOlli World — アーケード / シューティング / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アーケード / シューティング / プラットフォーム — Nintendo Switch版OlliOlli World。
-bestFor: アーケード / シューティング / プラットフォームのテンポを携帯機で遊びたい人。
+whatItIs: アーケード, シューティング, プラットフォーム：ステージ進行、移動タイミング、リトライ感。
+bestFor: 明確なステージ目標を重視する操作感重視の人。
 avoidIf: アーケード / シューティング / プラットフォームの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

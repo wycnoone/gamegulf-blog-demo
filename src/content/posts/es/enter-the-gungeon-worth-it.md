@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Enter the Gungeon: Rodar, chistes de armas y cofres deciden cada piso; revisa Brasil R$46.99"
-whatItIs: acción, aventura y disparos — Enter the Gungeon en Nintendo Switch
-bestFor: Recomendable si te atrae Rodar, chistes de armas y cofres.
+whatItIs: 'acción, aventura, disparos: ritmo de combate, movimiento y encuentros.'
+bestFor: Buscadores de ambiente que valoran descubrimiento ambiental.
 avoidIf: Evítalo si acción, aventura y disparos o ese ritmo no te llama.
 consensusPraise: Rodar, chistes de armas y cofres deciden cada piso es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

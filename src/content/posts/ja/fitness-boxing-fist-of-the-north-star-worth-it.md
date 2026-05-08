@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: フィットボクシング 北斗の拳 ～お前はもう痩せている～ — スポーツ / 音楽。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: スポーツ / 音楽 — Nintendo Switch版フィットボクシング 北斗の拳 ～お前はもう痩せている～。
-bestFor: スポーツ / 音楽のテンポを携帯機で遊びたい人。
+whatItIs: スポーツ, 音楽：中核システム、モード構成、操作感で相性を見る。
+bestFor: 流行より好みを重視する衝動買いを避けたい人。
 avoidIf: スポーツ / 音楽の気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

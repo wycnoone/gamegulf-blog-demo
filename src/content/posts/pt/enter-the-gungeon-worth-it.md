@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Enter the Gungeon: Roladas, piadas de armas e baús decidem cada andar; confira Brasil R$46.99"
-whatItIs: ação, aventura e tiro — Enter the Gungeon no Nintendo Switch
-bestFor: Jogadores que querem ação, aventura e tiro em modo portátil
+whatItIs: 'ação, aventura, tiro: ritmo de combate, movimento e encontros.'
+bestFor: Exploradores que valorizam exploração guiada.
 avoidIf: Evite se ação, aventura e tiro ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

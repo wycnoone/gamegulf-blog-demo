@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BOKURA: planet: Two different screens turn partner talk into the puzzle; check Brazil R$17.89"
-whatItIs: "action, adventure, puzzle — BOKURA: planet on NS2"
-bestFor: Best if you want two different screens turn partner talk
+whatItIs: 'action, adventure, puzzle: puzzle rules, clue flow, and solution feedback.'
+bestFor: Logic-first players who value clue chains.
 avoidIf: Skip if action, adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Two different screens turn partner talk into the puzzle is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

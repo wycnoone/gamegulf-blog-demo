@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Super Mario Maker 2: Blocos troll, códigos e modo infinito personalizam Mario"
-whatItIs: plataforma e ação — Super Mario Maker 2 no Nintendo Switch
-bestFor: Jogadores que querem plataforma e ação em modo portátil
+whatItIs: 'plataforma, ação: ritmo de combate, movimento e encontros.'
+bestFor: Jogadores de ação que valorizam inputs ativos.
 avoidIf: Evite se plataforma e ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

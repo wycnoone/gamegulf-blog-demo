@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: OKAMI HD — aventura; en abril de 2026 conviene comparar regiones en GameGulf antes de pagar
-whatItIs: aventura — OKAMI HD en Nintendo Switch
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: Pincel celestial, Amaterasu floreciendo el mundo aún encantan.
+bestFor: Jugadores de rutas que valoran exploración guiada.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: Pincel celestial y Amaterasu floreciendo el mundo es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

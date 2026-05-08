@@ -334,6 +334,267 @@ function localizedCommunityVibe(locale, title, genres = []) {
   return localizedCommunityVibeFallback(locale, title, genres);
 }
 
+function compactGameplayAnchor(locale, value) {
+  let text = String(value || '').trim();
+  const replacements = locale === 'zh-hans'
+    ? [/永远.*$/u, /才是.*$/u, /最.*$/u, /让人.*$/u, /撑起.*$/u, /卖的就是.*$/u]
+    : locale === 'ja'
+      ? [/が.+$/u, /で.+$/u, /まで.+$/u]
+      : [/\b(carry|carries|define|defines|make|makes|fuel|fuels|grab|grabs|sell|sells|win|wins|wake|wakes|are|is|ne restent|ne reste|ne finissent|no terminan|vuelven|machen|trägt|tragen|precisa|puxam|nunca acabam)\b.*$/iu];
+  for (const pattern of replacements) {
+    const next = text.replace(pattern, '').trim();
+    if (next.length >= 10) text = next;
+  }
+  return text.replace(/\s*[。.!！?？]+$/u, '').trim();
+}
+
+function compactPlaytimeCue(value) {
+  return String(value || '')
+    .replace(/^\s*(Estimated scope|Estimated|Estimation|Estimación|Schätzung|Estimativa|目安|時間適性|时间适配|Tempo estimado|Tiempo estimado|Temps requis)\s*[:：]\s*/iu, '')
+    .replace(/^\s*预估(?:体量)?\s*[:：]\s*/u, '')
+    .replace(/^\s*本編/u, '本編')
+    .replace(/\s+/gu, ' ')
+    .trim()
+    .replace(/[。.!！?？]+$/u, '');
+}
+
+function localizedStructureCue(locale, genres = []) {
+  const values = Array.isArray(genres)
+    ? genres
+    : String(genres || '')
+      .split(/\s*,\s*|\s*\/\s*|、/u)
+      .filter(Boolean);
+  const keys = values.map((genre) => String(genre).toLowerCase());
+  const has = (...needles) => keys.some((key) => needles.some((needle) => key.includes(needle)));
+
+  const cue = (() => {
+    if (has('rogue')) return {
+      en: 'run rules, build choices, and restart pressure',
+      'zh-hans': '每局规则、构筑选择和重开压力',
+      ja: '周回ルール、ビルド選択、リスタート圧',
+      fr: 'règles de run, builds et pression de relance',
+      es: 'reglas de run, builds y presión de reinicio',
+      de: 'Run-Regeln, Builds und Neustartdruck',
+      pt: 'regras de run, builds e pressão de recomeço',
+    };
+    if (has('platform')) return {
+      en: 'stage flow, movement timing, and retry rhythm',
+      'zh-hans': '关卡推进、移动节奏和重试手感',
+      ja: 'ステージ進行、移動タイミング、リトライ感',
+      fr: 'enchaînement des niveaux, timing et reprises',
+      es: 'flujo de niveles, timing y ritmo de reintento',
+      de: 'Level-Fluss, Bewegungstiming und Retry-Rhythmus',
+      pt: 'fluxo de fases, timing e ritmo de repetição',
+    };
+    if (has('shooter', 'arcade')) return {
+      en: 'aiming pressure, scoring routes, and short-stage loops',
+      'zh-hans': '瞄准压力、得分路线和短关循环',
+      ja: 'エイム圧、スコアルート、短い面の反復',
+      fr: 'pression de visée, scoring et boucles courtes',
+      es: 'presión de apuntado, rutas de puntuación y fases cortas',
+      de: 'Zieldruck, Score-Routen und kurze Level-Loops',
+      pt: 'pressão de mira, rotas de pontuação e fases curtas',
+    };
+    if (has('action')) return {
+      en: 'combat timing, movement feel, and encounter rhythm',
+      'zh-hans': '战斗节奏、移动手感和遭遇设计',
+      ja: '戦闘テンポ、移動感、遭遇設計',
+      fr: 'timing de combat, mobilité et rythme des rencontres',
+      es: 'ritmo de combate, movimiento y encuentros',
+      de: 'Kampftiming, Bewegungsgefühl und Begegnungsrhythmus',
+      pt: 'ritmo de combate, movimento e encontros',
+    };
+    if (has('adventure')) return {
+      en: 'exploration flow, interaction rules, and route choices',
+      'zh-hans': '探索推进、互动规则和路线选择',
+      ja: '探索の流れ、インタラクション、ルート選択',
+      fr: 'exploration, interactions et choix de route',
+      es: 'exploración, interacción y rutas',
+      de: 'Erkundung, Interaktionen und Routenwahl',
+      pt: 'exploração, interação e escolhas de rota',
+    };
+    if (has('puzzle')) return {
+      en: 'puzzle rules, clue flow, and solution feedback',
+      'zh-hans': '谜题规则、线索递进和解法反馈',
+      ja: '謎解きルール、手がかりの流れ、解法の手応え',
+      fr: 'règles d’énigme, indices et retour de solution',
+      es: 'reglas de puzle, pistas y respuesta de solución',
+      de: 'Rätselregeln, Hinweisfluss und Lösungsfeedback',
+      pt: 'regras de puzzle, pistas e retorno da solução',
+    };
+    if (has('simulation', 'sim')) return {
+      en: 'daily routines, upgrade loops, and long-tail goals',
+      'zh-hans': '日常循环、升级路线和长期目标',
+      ja: '日課、アップグレード循環、長期目標',
+      fr: 'routine, améliorations et objectifs au long cours',
+      es: 'rutina diaria, mejoras y objetivos largos',
+      de: 'Alltagsroutine, Upgrade-Schleifen und Langzeitziele',
+      pt: 'rotina diária, upgrades e metas longas',
+    };
+    if (has('rpg', 'role-playing')) return {
+      en: 'party growth, build choices, and quest routing',
+      'zh-hans': '角色成长、构筑选择和任务推进',
+      ja: '育成、ビルド選択、クエスト進行',
+      fr: 'progression, builds et routes de quêtes',
+      es: 'progresión, builds y rutas de misiones',
+      de: 'Fortschritt, Builds und Quest-Routen',
+      pt: 'progressão, builds e rotas de missões',
+    };
+    if (has('strategy', 'tactical')) return {
+      en: 'resource pressure, route choices, and planning windows',
+      'zh-hans': '资源压力、路线选择和规划窗口',
+      ja: 'リソース圧、ルート選択、計画の余地',
+      fr: 'ressources, choix de route et fenêtres de planification',
+      es: 'recursos, rutas y ventanas de planificación',
+      de: 'Ressourcendruck, Routenwahl und Planungsfenster',
+      pt: 'recursos, rotas e janelas de planejamento',
+    };
+    return {
+      en: 'core systems, mode structure, and input feel decide the fit',
+      'zh-hans': '核心系统、模式结构和操作手感决定适配度',
+      ja: '中核システム、モード構成、操作感で相性を見る',
+      fr: 'systèmes, modes et sensations de contrôle font le tri',
+      es: 'sistemas, modos y sensación de control marcan el encaje',
+      de: 'Systeme, Modi und Eingabegefühl entscheiden die Passung',
+      pt: 'sistemas, modos e sensação de controle definem o encaixe',
+    };
+  })();
+
+  return cue[locale] || cue.en;
+}
+
+function stableHash(value) {
+  let hash = 0;
+  for (const char of String(value || '')) hash = (hash * 31 + char.charCodeAt(0)) >>> 0;
+  return hash;
+}
+
+function localizedBestFor(locale, title, genres = []) {
+  const values = Array.isArray(genres)
+    ? genres
+    : String(genres || '')
+      .split(/\s*,\s*|\s*\/\s*|、/u)
+      .filter(Boolean);
+  const keys = values.map((genre) => String(genre).toLowerCase());
+  const has = (...needles) => keys.some((key) => needles.some((needle) => key.includes(needle)));
+  const category = (() => {
+    if (has('rogue')) return 'rogue';
+    if (has('strategy', 'tactical')) return 'strategy';
+    if (has('puzzle')) return 'puzzle';
+    if (has('platform')) return 'platformer';
+    if (has('shooter', 'arcade')) return 'shooter';
+    if (has('simulation', 'sim')) return 'simulation';
+    if (has('rpg', 'role-playing')) return 'rpg';
+    if (has('adventure')) return 'adventure';
+    if (has('action')) return 'action';
+    return 'default';
+  })();
+  const lines = {
+    en: {
+      rogue: ['Players who enjoy replayable runs and build tinkering.', 'Best for reset-friendly players who like experiments.'],
+      strategy: ['Players who prefer planning over reflex execution.', 'Best for players who enjoy turn-by-turn tradeoffs.'],
+      puzzle: ['Players who enjoy clear rules and clever solutions.', 'For players who prefer logic over spectacle.'],
+      platformer: ['Players who enjoy precise movement challenges.', 'Best for players who like retries and clean controls.'],
+      shooter: ['Players who enjoy reflex loops and score pressure.', 'Best for players who like short skill checks.'],
+      simulation: ['Players who enjoy routine goals and steady upgrades.', 'Best for players who like low-pressure optimization.'],
+      rpg: ['Players who enjoy builds, parties, and quest decisions.', 'Best for players who like long-form character growth.'],
+      adventure: ['Players who enjoy exploration-led progression.', 'Best for players who like discovery over min-maxing.'],
+      action: ['Players who enjoy responsive combat challenges.', 'For players who want active play over menu planning.'],
+      default: ['Players who know their genre taste before checkout.', 'For players who compare fit before following hype.'],
+    },
+    'zh-hans': {
+      rogue: ['适合喜欢反复跑局和研究构筑的玩家。', '适合能接受失败重开、愿意试套路的玩家。'],
+      strategy: ['适合喜欢先规划再行动的玩家。', '适合偏爱脑内推演而非拼反应的玩家。'],
+      puzzle: ['适合喜欢读线索、自己解开的玩家。', '适合偏爱规则清楚、答案聪明的玩家。'],
+      platformer: ['适合喜欢精准操作和反复练手的玩家。', '适合看重手感、能接受重试的玩家。'],
+      shooter: ['适合喜欢反应考验和短局循环的玩家。', '适合看重操作反馈和得分感的玩家。'],
+      simulation: ['适合喜欢日常目标和稳步升级的玩家。', '适合愿意慢慢经营、优化流程的玩家。'],
+      rpg: ['适合喜欢角色成长和配队取舍的玩家。', '适合偏爱长线养成和菜单决策的玩家。'],
+      adventure: ['适合喜欢探索推进和轻度解谜的玩家。', '适合偏爱发现感而非数值优化的玩家。'],
+      action: ['适合喜欢主动操作和明确挑战的玩家。', '适合偏爱战斗手感而非纯收集的玩家。'],
+      default: ['适合先看口味匹配、再决定下单的玩家。', '适合不靠热度冲动入手的玩家。'],
+    },
+    ja: {
+      rogue: ['リトライとビルド研究が好きな人。', '失敗込みで試行錯誤したい人向け。'],
+      strategy: ['動く前に考える遊びが好きな人。', '反射神経より読み合いを重視する人。'],
+      puzzle: ['手がかりを読み解くのが好きな人。', '派手さより論理の気持ちよさを選ぶ人。'],
+      platformer: ['精密操作とリトライが苦にならない人。', '入力感とステージ挑戦を重視する人。'],
+      shooter: ['反射神経と短い挑戦を楽しめる人。', 'スコアや腕前更新に燃える人向け。'],
+      simulation: ['日課とアップグレードが好きな人。', 'ゆっくり最適化する遊びが合う人。'],
+      rpg: ['育成とパーティー選択を楽しみたい人。', 'メニュー判断も遊びに含めたい人。'],
+      adventure: ['探索で進む遊びが好きな人。', '発見重視で寄り道できる人向け。'],
+      action: ['手触りのあるアクション挑戦が好きな人。', '見るだけより自分で動きたい人。'],
+      default: ['買う前に相性を見極めたい人。', '流行より自分の好みを優先する人。'],
+    },
+    fr: {
+      rogue: ['Joueurs qui aiment relancer et tester des builds.', 'Pour qui accepte l’échec comme outil d’essai.'],
+      strategy: ['Joueurs qui préfèrent planifier avant d’agir.', 'Joueurs qui veulent réfléchir plus que réagir.'],
+      puzzle: ['Joueurs qui aiment lire les indices.', 'Joueurs qui choisissent la réflexion au spectacle.'],
+      platformer: ['Joueurs qui aiment précision et reprises.', 'Joueurs qui veulent du défi de niveau.'],
+      shooter: ['Joueurs qui aiment réflexes et pression de score.', 'Joueurs qui veulent tester leur adresse.'],
+      simulation: ['Joueurs qui aiment routines et améliorations.', 'Joueurs qui préfèrent les systèmes au spectacle.'],
+      rpg: ['Joueurs qui aiment progression et choix de builds.', 'Joueurs qui veulent planifier leur montée en puissance.'],
+      adventure: ['Joueurs qui aiment progresser par l’exploration.', 'Joueurs qui veulent ambiance et orientation légère.'],
+      action: ['Joueurs qui aiment les défis d’action réactifs.', 'Joueurs qui préfèrent agir plutôt que gérer des menus.'],
+      default: ['Joueurs qui vérifient l’affinité avant l’achat.', 'Joueurs qui suivent leur goût plutôt que la hype.'],
+    },
+    es: {
+      rogue: ['Jugadores que disfrutan runs y builds cambiantes.', 'Para quien acepta fallar y probar otra ruta.'],
+      strategy: ['Jugadores que prefieren planear antes de actuar.', 'Jugadores que valoran pensar más que reaccionar.'],
+      puzzle: ['Jugadores que disfrutan leer pistas.', 'Jugadores que eligen lógica antes que espectáculo.'],
+      platformer: ['Jugadores que disfrutan precisión y reintentos.', 'Jugadores que buscan reto de niveles.'],
+      shooter: ['Jugadores que disfrutan reflejos y presión de puntos.', 'Jugadores que quieren poner a prueba la puntería.'],
+      simulation: ['Jugadores que disfrutan rutinas y mejoras constantes.', 'Jugadores que prefieren sistemas al espectáculo.'],
+      rpg: ['Jugadores que disfrutan progresión y builds.', 'Jugadores que quieren planificar su avance.'],
+      adventure: ['Jugadores que disfrutan progresar explorando.', 'Jugadores que buscan ambiente y orientación ligera.'],
+      action: ['Jugadores que disfrutan acción con respuesta clara.', 'Jugadores que prefieren actuar antes que gestionar menús.'],
+      default: ['Jugadores que revisan el encaje antes de comprar.', 'Jugadores que siguen su gusto, no la moda.'],
+    },
+    de: {
+      rogue: ['Spieler, die Runs und Build-Experimente mögen.', 'Für alle, die Scheitern als Versuch sehen.'],
+      strategy: ['Spieler, die lieber planen als reagieren.', 'Spieler, die Denkspiele mehr schätzen als Reflexe.'],
+      puzzle: ['Spieler, die Hinweise gern selbst lesen.', 'Spieler, die Logik vor Spektakel stellen.'],
+      platformer: ['Spieler, die Präzision und Retries mögen.', 'Spieler, die Level-Herausforderungen suchen.'],
+      shooter: ['Spieler, die Reflexe und Score-Druck mögen.', 'Spieler, die Zielgefühl statt Langkampagne wollen.'],
+      simulation: ['Spieler, die Routinen und Upgrades mögen.', 'Spieler, die Systeme mehr mögen als Spektakel.'],
+      rpg: ['Spieler, die Fortschritt und Builds mögen.', 'Spieler, die Wachstum gern vorausplanen.'],
+      adventure: ['Spieler, die Fortschritt durch Erkunden mögen.', 'Spieler, die Stimmung und Orientierung suchen.'],
+      action: ['Spieler, die reaktive Action-Herausforderung mögen.', 'Spieler, die lieber handeln als Menüs pflegen.'],
+      default: ['Spieler, die vor dem Kauf die Passung prüfen.', 'Spieler, die Geschmack über Hype stellen.'],
+    },
+    pt: {
+      rogue: ['Jogadores que curtem runs e testes de builds.', 'Para quem aceita falhar e tentar outra rota.'],
+      strategy: ['Jogadores que preferem planejar antes de agir.', 'Jogadores que valorizam pensar mais que reagir.'],
+      puzzle: ['Jogadores que gostam de ler pistas.', 'Jogadores que escolhem lógica em vez de espetáculo.'],
+      platformer: ['Jogadores que curtem precisão e repetição.', 'Jogadores que buscam desafio de fases.'],
+      shooter: ['Jogadores que curtem reflexos e pressão de score.', 'Jogadores que querem testar mira e execução.'],
+      simulation: ['Jogadores que curtem rotinas e upgrades constantes.', 'Jogadores que preferem sistemas ao espetáculo.'],
+      rpg: ['Jogadores que curtem progressão e builds.', 'Jogadores que querem planejar o avanço.'],
+      adventure: ['Jogadores que curtem avançar explorando.', 'Jogadores que buscam clima e orientação leve.'],
+      action: ['Jogadores que curtem ação com resposta clara.', 'Jogadores que preferem agir a gerenciar menus.'],
+      default: ['Jogadores que checam encaixe antes da compra.', 'Jogadores que seguem gosto, não hype.'],
+    },
+  };
+  const pool = (lines[locale] || lines.en)[category] || (lines[locale] || lines.en).default;
+  return pool[stableHash(title) % pool.length];
+}
+
+function localizedWhatItIs(locale, title, genres = [], playtime = '') {
+  const genreText = localizedGenreList(locale, genres);
+  const cue = localizedStructureCue(locale, genres);
+  const templates = {
+    en: `${genreText}: ${cue}.`,
+    'zh-hans': `${genreText}：${cue}。`,
+    ja: `${genreText}：${cue}。`,
+    fr: `${genreText} : ${cue}.`,
+    es: `${genreText}: ${cue}.`,
+    de: `${genreText}: ${cue}.`,
+    pt: `${genreText}: ${cue}.`,
+  };
+  return templates[locale] || templates.en;
+}
+
+
 function localizedCommunityVibeFallback(locale, title = '', genres = []) {
   const gameName = String(title || '').trim();
   const values = Array.isArray(genres)
@@ -1865,6 +2126,30 @@ const GAME_SPECIFIC_COMMUNITY_MEMES = {
 };
 
 const GAME_SPECIFIC_FIELD_OVERRIDES = {
+  minecraft: {
+    en: {
+      whatItIs: 'Sandbox survival: gathering, crafting, building, redstone, and shared worlds.',
+    },
+    'zh-hans': {
+      whatItIs: '沙盒生存：采集、合成、建造、红石和多人世界。',
+    },
+    ja: {
+      whatItIs: 'サンドボックスサバイバル：採集、クラフト、建築、レッドストーン、共有ワールド。',
+    },
+    fr: {
+      whatItIs: 'Survie sandbox : récolte, craft, construction, redstone et mondes partagés.',
+    },
+    es: {
+      whatItIs: 'Supervivencia sandbox: recolección, crafteo, construcción, redstone y mundos compartidos.',
+    },
+    de: {
+      whatItIs: 'Sandbox-Survival: Sammeln, Crafting, Bauen, Redstone und geteilte Welten.',
+    },
+    pt: {
+      whatItIs: 'Sobrevivência sandbox: coleta, criação, construção, redstone e mundos compartilhados.',
+    },
+  },
+
   cuphead: {
     en: {
       heroNote: "Studio MDHR's 1930s cartoon run-and-gun — hand-drawn animation, jazz soundtrack, tight boss patterns, and 2-player co-op.",
@@ -2204,8 +2489,8 @@ function localizedFrontmatterCopy(locale, ctx) {
       priceSignal: 'Indexed pricing highlights the cheapest territories versus full-price tiers — huge spread is common on this SKU.',
       heroNote: `${gameTitle} — ${genreText}; ${dev ? `${dev}; ` : ''}store pitch vs. critic band (${mcLine}).`,
       listingTakeaway: `${gameTitle} — ${genreText}; April 2026 GameGulf pricing shows a wide regional spread worth comparing.`,
-      whatItIs: `${genreText} — ${gameTitle} on ${platformLabel}.`,
-      bestFor: `Players who want ${genreText} with honest handheld scope.`,
+      whatItIs: localizedWhatItIs(locale, rawGameTitle || gameTitle, genres, playtimeStr),
+      bestFor: localizedBestFor(locale, rawGameTitle || gameTitle, genres),
       avoidIf: `You want a different genre mix than ${genreText} — skip if tone is off.`,
       consensusPraise: `Critic band (${mcLine}) plus store-featured strengths players repeat in reviews.`,
       mainFriction: 'Genre fatigue or sale FOMO — not every region shows the same promo at once.',
@@ -2235,8 +2520,8 @@ function localizedFrontmatterCopy(locale, ctx) {
       priceSignal: '索引价差常很明显：低价区服与标价区服可能差一档。',
       heroNote: `${gameTitle}：${genreText}${dev ? `；${dev}` : ''}。`,
       listingTakeaway: `${gameTitle}：${genreText}；2026 年 4 月价格分区差值得先对照 GameGulf。`,
-      whatItIs: `${genreText} — ${platformLabel} 版 ${gameTitle}。`,
-      bestFor: `想要${genreText}且接受掌机体量的人。`,
+      whatItIs: localizedWhatItIs(locale, rawGameTitle || gameTitle, genres, playtimeStr),
+      bestFor: localizedBestFor(locale, rawGameTitle || gameTitle, genres),
       avoidIf: `不喜欢${genreText}气质就别硬买。`,
       consensusPraise: `口碑集中在玩法与完成度；${mcLine} 可作质量锚点。`,
       mainFriction: '区服不同步：不是每个账号都能看到同一档折扣。',
@@ -2266,8 +2551,8 @@ function localizedFrontmatterCopy(locale, ctx) {
       priceSignal: '地域別価格の差が大きめ。最安地域と定価寄りの地域をGameGulfで比べたい。',
       heroNote: `${gameTitle} — ${genreText}${dev ? `、${dev}` : ''}。${mcLine}を品質の目安に。`,
       listingTakeaway: `${gameTitle} — ${genreText}。2026年4月の地域差はGameGulfで先に確認。`,
-      whatItIs: `${genreText} — ${platformLabel}版${gameTitle}。`,
-      bestFor: `${genreText}のテンポを携帯機で遊びたい人。`,
+      whatItIs: localizedWhatItIs(locale, rawGameTitle || gameTitle, genres, playtimeStr),
+      bestFor: localizedBestFor(locale, rawGameTitle || gameTitle, genres),
       avoidIf: `${genreText}の気分でないならセールでも無理しない。`,
       consensusPraise: `評価軸は遊びの完成度。${mcLine}が品質の目安。`,
       mainFriction: '地域セールのズレ。全アカウントで同じ割引とは限らない。',
@@ -2297,8 +2582,8 @@ function localizedFrontmatterCopy(locale, ctx) {
       priceSignal: 'Les prix indexés montrent souvent un gros écart entre régions bon marché et paliers proches du prix catalogue.',
       heroNote: `${gameTitle} — ${genreText}${dev ? `; ${dev}` : ''}. ${mcLine} sert de repère qualité.`,
       listingTakeaway: `${gameTitle} — ${genreText}; en avril 2026, comparez les régions sur GameGulf avant d’acheter.`,
-      whatItIs: `${genreText} — ${gameTitle} sur ${platformLabel}.`,
-      bestFor: `Joueurs qui veulent du ${genreText} au format portable.`,
+      whatItIs: localizedWhatItIs(locale, rawGameTitle || gameTitle, genres, playtimeStr),
+      bestFor: localizedBestFor(locale, rawGameTitle || gameTitle, genres),
       avoidIf: `À éviter si le mélange ${genreText} ne vous attire pas.`,
       consensusPraise: `Le signal critique (${mcLine}) rejoint les forces souvent citées par les joueurs.`,
       mainFriction: 'Fatigue du genre ou promos décalées selon les régions.',
@@ -2328,8 +2613,8 @@ function localizedFrontmatterCopy(locale, ctx) {
       priceSignal: 'El precio indexado suele marcar una brecha clara entre regiones baratas y niveles cercanos al precio de catálogo.',
       heroNote: `${gameTitle} — ${genreText}${dev ? `; ${dev}` : ''}. ${mcLine} funciona como referencia de calidad.`,
       listingTakeaway: `${gameTitle} — ${genreText}; en abril de 2026 conviene comparar regiones en GameGulf antes de pagar.`,
-      whatItIs: `${genreText} — ${gameTitle} en ${platformLabel}.`,
-      bestFor: `Jugadores que quieren ${genreText} en formato portátil.`,
+      whatItIs: localizedWhatItIs(locale, rawGameTitle || gameTitle, genres, playtimeStr),
+      bestFor: localizedBestFor(locale, rawGameTitle || gameTitle, genres),
       avoidIf: `Evítalo si la mezcla ${genreText} no te atrae.`,
       consensusPraise: `La banda crítica (${mcLine}) coincide con fortalezas que suelen repetir los jugadores.`,
       mainFriction: 'Cansancio del género o promociones desfasadas por región.',
@@ -2359,8 +2644,8 @@ function localizedFrontmatterCopy(locale, ctx) {
       priceSignal: 'Die indexierten Preise zeigen oft eine große Spanne zwischen günstigen Regionen und Listenpreis-Stufen.',
       heroNote: `${gameTitle} — ${genreText}${dev ? `; ${dev}` : ''}. ${mcLine} dient als Qualitätsanker.`,
       listingTakeaway: `${gameTitle} — ${genreText}; im April 2026 lohnt vor dem Kauf der Regionenvergleich auf GameGulf.`,
-      whatItIs: `${genreText} — ${gameTitle} auf ${platformLabel}.`,
-      bestFor: `Spieler, die ${genreText} im Mobilformat wollen.`,
+      whatItIs: localizedWhatItIs(locale, rawGameTitle || gameTitle, genres, playtimeStr),
+      bestFor: localizedBestFor(locale, rawGameTitle || gameTitle, genres),
       avoidIf: `Auslassen, wenn dich der Mix ${genreText} nicht reizt.`,
       consensusPraise: `Das Kritikerband (${mcLine}) passt zu Stärken, die Spieler oft nennen.`,
       mainFriction: 'Genre-Müdigkeit oder regional versetzte Rabatte.',
@@ -2390,8 +2675,8 @@ function localizedFrontmatterCopy(locale, ctx) {
       priceSignal: 'O preço indexado costuma mostrar grande diferença entre regiões baratas e patamares próximos ao preço de tabela.',
       heroNote: `${gameTitle} — ${genreText}${dev ? `; ${dev}` : ''}. ${mcLine} serve como âncora de qualidade.`,
       listingTakeaway: `${gameTitle} — ${genreText}; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.`,
-      whatItIs: `${genreText} — ${gameTitle} no ${platformLabel}.`,
-      bestFor: `Jogadores que querem ${genreText} em modo portátil.`,
+      whatItIs: localizedWhatItIs(locale, rawGameTitle || gameTitle, genres, playtimeStr),
+      bestFor: localizedBestFor(locale, rawGameTitle || gameTitle, genres),
       avoidIf: `Evite se a mistura ${genreText} não combina com você.`,
       consensusPraise: `A faixa crítica (${mcLine}) bate com pontos fortes citados por jogadores.`,
       mainFriction: 'Cansaço do gênero ou promoções diferentes por região.',
@@ -2575,13 +2860,8 @@ function buildFrontmatter(locale, brief, articleSlug, priceRows, decision, mc, p
         : `${gameTitle}：${genres}；2026年4月价格分区差值得先对照 GameGulf。`,
       96,
     ),
-    whatItIs: clip(`${genres || 'Action'} — ${gameTitle} on ${platformLabel}.`, 90),
-    bestFor: clip(
-      locale === 'en'
-        ? `Players who want ${genres || 'this genre'} with honest handheld scope.`
-        : `想要${genres || '该类型'}且接受掌机体量的人。`,
-      60,
-    ),
+    whatItIs: clip(localizedWhatItIs(locale, rawGameTitle || gameTitle, rawGenres, playtimeStr), 90),
+    bestFor: clip(localizedBestFor(locale, rawGameTitle || gameTitle, rawGenres), 60),
     avoidIf: clip(
       locale === 'en'
         ? `You want a different genre mix than ${genres || 'this'} — skip if tone is off.`

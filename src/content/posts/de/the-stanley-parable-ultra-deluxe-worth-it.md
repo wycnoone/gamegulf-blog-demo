@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Stanley Parable: Ultra Deluxe: Erzählerstreit, Eimerliebe und falsche Türen sind der Witz"
-whatItIs: "Abenteuer — The Stanley Parable: Ultra Deluxe auf Nintendo Switch"
-bestFor: Für Spieler, die Erzählerstreit, Eimerliebe reizt.
+whatItIs: Erzählerstreit, Eimerliebe, falsche Türen.
+bestFor: Entdecker, die leichte Orientierung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

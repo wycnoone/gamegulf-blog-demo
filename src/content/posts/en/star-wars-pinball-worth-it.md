@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Star Wars Pinball — 86 Metacritic; GameGulf logged sub-€12 lows versus 2026 tiles
-whatItIs: Zen pack — 19 Star Wars tables, career, tourneys, vertical Switch play
+whatItIs: Arcade; Skill-based runs — plan in minutes per table, not a RPG hour total.
 bestFor: Pinball fans after Star Wars tables plus quick missions
 avoidIf: You dislike timing-heavy score chase or only want one movie table
 consensusPraise: Critics near 86 Metacritic; players cite table variety and production flash

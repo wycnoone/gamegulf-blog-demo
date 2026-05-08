@@ -30,8 +30,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: BUSTAFELLOWS — アドベンチャー / RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / RPG — Nintendo Switch版BUSTAFELLOWS。
-bestFor: アドベンチャー / RPGのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー, RPG：探索の流れ、インタラクション、ルート選択。
+bestFor: 数値の取捨選択を重視するビルド重視のRPG好き。
 avoidIf: アドベンチャー / RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

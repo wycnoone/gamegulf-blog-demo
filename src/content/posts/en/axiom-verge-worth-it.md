@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Axiom Verge: Glitch guns, alien corridors, and map suspicion sell the homage; check Brazil"
-whatItIs: action, adventure — Axiom Verge on Nintendo Switch
-bestFor: Best if you want glitch guns and alien-map secrets.
+whatItIs: Glitch guns, alien corridors, map suspicion.
+bestFor: Atmosphere seekers who value environmental discovery.
 avoidIf: Skip if action, adventure or that rhythm leaves you cold.
 consensusPraise: Glitch guns, alien corridors, and map suspicion sell the homage is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

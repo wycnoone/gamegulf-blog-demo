@@ -222,8 +222,8 @@ Core identity:
   "8 分钟阅读")
 
 Card display fields — HARD CHARACTER LIMITS:
-- whatItIs ≤ 90 chars
-- bestFor ≤ 60 chars
+- whatItIs ≤ 90 chars; name concrete gameplay mechanics, modes, systems, structure, or content loop. Do not write generic genre + title + platform copy like "action — Game on Nintendo Switch" or "动作 — Switch 版 游戏". Do not put playtime/completion copy here; use `playtime`, `timeFit`, or `timeCommitment` for hours and length.
+- bestFor ≤ 60 chars; write an audience-fit statement (player type, preference, tolerance, or mindset). Do not repeat or paraphrase `communityVibe` / Player Consensus gameplay hot-take copy.
 - communityVibe ≤ 64 chars
 - listingTakeaway ≤ 96 chars
 - avoidIf ≤ 72 chars

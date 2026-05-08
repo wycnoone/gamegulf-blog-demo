@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ikaruga: Black-white polarity turns bullet lanes; check Japan ¥1,650"
-whatItIs: action, arcade, shooter — Ikaruga on Nintendo Switch
-bestFor: Best if you want black-white polarity turns bullet lanes
+whatItIs: >-
+  action, arcade, shooter: aiming pressure, scoring routes, and short-stage
+  loops.
+bestFor: Arcade-minded players who value arcade pacing.
 avoidIf: Skip if action, arcade, shooter or that rhythm leaves you cold.
 consensusPraise: Black-white polarity turns bullet lanes into meditation is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

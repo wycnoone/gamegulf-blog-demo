@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Relayer Advanced Definitive Edition: Méchas Starchild, lignes d’aggro et grille tactique"
-whatItIs: jeu de rôle et stratégie — Relayer Advanced Definitive Edition sur NS2
-bestFor: Pour qui accroche à Méchas Starchild, lignes.
+whatItIs: >-
+  jeu de rôle, stratégie : planification des tours, ressources et contrôle de
+  carte.
+bestFor: Planificateurs qui valorisent les compromis nets.
 avoidIf: À éviter si jeu de rôle et stratégie ou ce rythme vous laisse froid.
 consensusPraise: Méchas Starchild, lignes d’aggro et grille tactique reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

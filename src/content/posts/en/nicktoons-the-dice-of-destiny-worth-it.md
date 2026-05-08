@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nicktoons & The Dice of Destiny: Nicktoons party banter and dice-RPG chaos are the pitch; check"
-whatItIs: action, adventure, role-playing — Nicktoons & The Dice of Destiny on Nintendo Switch
-bestFor: Best if you want nicktoons party banter and dice-RPG chaos
+whatItIs: Nicktoons party banter, dice-RPG chaos.
+bestFor: Long-tail character builders who value party planning.
 avoidIf: Skip if action, adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: Nicktoons party banter and dice-RPG chaos are the pitch is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

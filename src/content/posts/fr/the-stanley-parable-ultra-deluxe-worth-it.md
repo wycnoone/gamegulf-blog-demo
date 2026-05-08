@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Stanley Parable: Ultra Deluxe: Conflit avec le narrateur, seau sacré et mauvaises portes"
-whatItIs: "aventure — The Stanley Parable: Ultra Deluxe sur Nintendo Switch"
-bestFor: Joueurs qui veulent du aventure au format portable
+whatItIs: Conflit avec le narrateur, seau sacré, mauvaises portes.
+bestFor: Chercheurs d’ambiance qui valorisent l’exploration guidée.
 avoidIf: À éviter si aventure ou ce rythme vous laisse froid.
 consensusPraise: Conflit avec le narrateur, seau sacré et mauvaises reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

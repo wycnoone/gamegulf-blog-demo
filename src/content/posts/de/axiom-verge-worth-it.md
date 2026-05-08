@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Axiom Verge: Glitch-Waffen, Alien-Gänge und Kartenzweifel tragen es; prüfe Brasilien R$36.99"
-whatItIs: Action und Abenteuer — Axiom Verge auf Nintendo Switch
-bestFor: Für Spieler, die Glitch-Waffen, Alien-Gänge reizt.
+whatItIs: Glitch-Waffen, Alien-Gänge, Kartenzweifel.
+bestFor: Stimmungsfans, die Umgebungsentdeckung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

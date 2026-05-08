@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Teenage Mutant Ninja Turtles: Shredder's Revenge: Pizzas, burlas y caos de seis clavan TMNT"
-whatItIs: "acción y aventura — Teenage Mutant Ninja Turtles: Shredder's Revenge en Nintendo Switch"
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Pizzas, burlas, caos de seis clavan TMNT.
+bestFor: Jugadores de rutas que valoran ambiente sin farmeo.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Pizzas, burlas y caos de seis clavan TMNT es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

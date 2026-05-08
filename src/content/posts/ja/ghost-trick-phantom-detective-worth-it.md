@@ -28,7 +28,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 『ゴースト トリック』 — アクション / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: 謎解きミステリーアドベンチャー — Nintendo Switch版『ゴースト トリック』。
+whatItIs: アクション / アドベンチャー：シセルのトリツクと連鎖救出。
 bestFor: 巧舟作品らしいミステリー、死者のチカラ、時間巻き戻しの救出パズルを短い章で遊びたい人。
 avoidIf: オープン探索、戦闘重視、長大RPGのボリュームを期待するなら合いにくい。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。

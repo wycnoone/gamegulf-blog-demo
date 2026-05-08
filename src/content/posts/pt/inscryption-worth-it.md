@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Inscryption: Arminho, dentes e segredos da cabana criam; confira Brasil R$49.99"
-whatItIs: estratégia, aventura e quebra-cabeça — Inscryption no Nintendo Switch
-bestFor: Para quem curte Arminho, dentes e segredos da.
+whatItIs: >-
+  estratégia, aventura, quebra-cabeça: regras de puzzle, pistas e retorno da
+  solução.
+bestFor: Jogadores lógicos que valorizam regras claras.
 avoidIf: Evite se Arminho, dentes e segredos da cabana criam não te chama
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

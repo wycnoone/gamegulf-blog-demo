@@ -27,7 +27,7 @@ actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Chapitre pirate Shantae ; GameGulf ~16,22 € vs bas ~8,11 € (ES)
 whatItIs: "Plateforme 2D : fouet cheveux + pistolet, sabre, chapeau, saut canon"
-bestFor: Pour qui accroche à Équipement pirate, Risky.
+bestFor: Joueurs de précision qui valorisent les paliers techniques.
 avoidIf: Vous haïssez le retour arrière pour calamars cœur
 consensusPraise: ~86 Metacritic ; Steam très positif mais échantillon plus petit
 mainFriction: Oublis de collecte = allers-retours plus tard

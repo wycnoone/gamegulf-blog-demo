@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Great Ace Attorney Chronicles: Herlock y jurado hacen brillar el tribunal victoriano"
-whatItIs: aventura — The Great Ace Attorney Chronicles en Nintendo Switch
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: Herlock, jurado.
+bestFor: Buscadores de ambiente que valoran exploración guiada.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: Herlock y jurado hacen brillar el tribunal es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

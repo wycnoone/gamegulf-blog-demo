@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Vampire Survivors: Knoblauchkreise, Edelsteinregen und Evolutionsflut hypnotisieren; vor dem"
-whatItIs: Action und Abenteuer — Vampire Survivors auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Knoblauchkreise, Edelsteinregen
+whatItIs: Knoblauchkreise, Edelsteinregen, Evolutionsflut.
+bestFor: Stimmungsfans, die geführtes Streunen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Goodnight Universe: O bebê Isaac e seus poderes bagunçam a família; confira Japão ¥2,420"
-whatItIs: aventura — Goodnight Universe no NS2
-bestFor: Jogadores que querem aventura em modo portátil
+whatItIs: Bebê psíquico, cenas familiares, reações ramificadas e comédia estranha.
+bestFor: Jogadores de rotas que valorizam descoberta ambiental.
 avoidIf: Evite se aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

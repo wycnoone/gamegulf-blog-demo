@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "ショベルナイト: Treasure Trove — アクション / アドベンチャー / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アクション / アドベンチャー / プラットフォーム — Nintendo Switch版ショベルナイト: Treasure Trove。"
-bestFor: アクション / アドベンチャー / プラットフォームのテンポを携帯機で遊びたい人。
+whatItIs: アクション, アドベンチャー, プラットフォーム：ステージ進行、移動タイミング、リトライ感。
+bestFor: 正確な入力を重視する精密操作派。
 avoidIf: アクション / アドベンチャー / プラットフォームの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 91点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。
@@ -130,7 +130,6 @@ coverImage: https://cdn.gamegulf.com/upload/NintendoSwitch/2026/4/3/177517509261
 ## ショベルナイト: Treasure Trove のNintendo Switch価格はいくら？
 
 この作品は地域差が出やすいので、**GameGulf** の表で自分のアカウント地域を確認する価値があります。下の表は記事メタデータ由来のスナップショットです。
-
 
 
 | 地域 | 価格（円換算） | 現地価格 |

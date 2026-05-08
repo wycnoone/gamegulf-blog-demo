@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Huntdown: Slide shots, bounty posters, and 80s gang bosses sell the grit; check Japan ¥1,999"
-whatItIs: action, arcade, platformer — Huntdown on Nintendo Switch
-bestFor: Best if you want slide shots, bounty posters, and 80s gang
+whatItIs: 'action, arcade, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Stage-challenge fans who value fair retries.
 avoidIf: Skip if action, arcade, platformer or that rhythm leaves you cold.
 consensusPraise: Slide shots, bounty posters, and 80s gang bosses sell the grit is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

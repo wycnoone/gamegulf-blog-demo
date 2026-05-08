@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Sumire — Abenteuer; im April 2026 lohnt vor dem Kauf der Regionenvergleich auf GameGulf
-whatItIs: Abenteuer — Sumire auf Nintendo Switch
-bestFor: Für Fans von Ein Tag, Blumenversprechen und kleine Reue.
+whatItIs: Ein Tag, Blumenversprechen, kleine Reue schmerzen.
+bestFor: Routen-Neugierige, die Story-Textur schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

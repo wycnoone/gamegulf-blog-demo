@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Iconoclasts: A chave da Robin, chefes e família quebrada; confira Japão ¥2,200"
-whatItIs: ação e aventura — Iconoclasts no Nintendo Switch
-bestFor: Jogadores que querem ação e aventura em modo portátil
+whatItIs: Chave da Robin, puzzles de cenário, chefes em fases e drama familiar.
+bestFor: Buscadores de clima que valorizam descoberta ambiental.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

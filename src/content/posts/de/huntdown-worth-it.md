@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Huntdown: Slideshots, Kopfgeldposter und 80er-Gangs tragen den Dreck; prüfe Japan ¥1,999"
-whatItIs: Action, Arcade und Plattformer — Huntdown auf Nintendo Switch
-bestFor: Für Spieler, die Slideshots, Kopfgeldposter reizt.
+whatItIs: 'Action, Arcade, Plattformer: Level-Fluss, Bewegungstiming und Retry-Rhythmus.'
+bestFor: Level-Challenge-Fans, die faire Retries schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Arcade und Plattformer nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

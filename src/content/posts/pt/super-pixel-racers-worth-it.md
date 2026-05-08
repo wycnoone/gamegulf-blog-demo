@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Super Pixel Racers — corrida; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: corrida — Super Pixel Racers no Nintendo Switch.
-bestFor: Jogadores que querem corrida em modo portátil.
+whatItIs: 'corrida: sistemas, modos e sensação de controle definem o encaixe.'
+bestFor: Jogadores de mira que valorizam ritmo arcade.
 avoidIf: Evite se corrida ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

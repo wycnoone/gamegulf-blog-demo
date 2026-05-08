@@ -31,8 +31,8 @@ Use this after generating articles. Every item must pass.
 
 | Field | Max | Check method |
 |---|---|---|
-| whatItIs | 90 | count chars |
-| bestFor | 60 | count chars |
+| whatItIs | 90 | count chars; must name concrete gameplay mechanics, modes, systems, structure, or loop — not genre + title + platform, and not playtime/completion length |
+| bestFor | 60 | count chars; audience-fit statement only — player type/preference/tolerance, not a gameplay hot-take and not overlapping `communityVibe` |
 | communityVibe | 64 | count chars |
 | listingTakeaway | 96 | count chars |
 | avoidIf | 72 | count chars |

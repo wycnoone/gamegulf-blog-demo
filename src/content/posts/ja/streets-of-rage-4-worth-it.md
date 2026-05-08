@@ -30,7 +30,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: ベア・ナックルIV — アクション / アーケード / 格闘。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: 横スクロールベルトスクロールアクション / アーケード / 協力プレイ — Nintendo Switch版『ベア・ナックルIV』。
+whatItIs: ベルトスクロールアクション, アーケード, 協力プレイ：戦闘テンポ、移動感、遭遇設計。
 bestFor: ベルトスクロールアクション、短い周回、ローカル協力プレイをSwitchで遊びたい人。
 avoidIf: 連打と立ち回りを反復するベルトスクロール型が苦手なら、セールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。

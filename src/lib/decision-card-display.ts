@@ -4,7 +4,7 @@ import type {
   PriceRecommendation,
   WorthItCardModel,
 } from '@/lib/blog-shared';
-import type { BlogLocale } from '@/lib/i18n';
+import { intlLocales, type BlogLocale } from '@/lib/i18n';
 import { t } from '@/lib/translations';
 import { shortenText, normalizeForComparison } from '@/lib/text-utils';
 
@@ -177,6 +177,42 @@ export function getMetacriticStatForCard(card: DecisionEntryCardModel): string |
   const score = getMetacriticScoreFromReviewSignal(card.reviewSignal);
   if (!score) return null;
   return t(card.locale, 'card.metacritic', { score });
+}
+
+export function formatDecisionCardDate(card: DecisionEntryCardModel) {
+  return new Intl.DateTimeFormat(intlLocales[card.locale], {
+    year: 'numeric',
+    month: 'short',
+    day: 'numeric',
+  }).format(new Date(card.updatedAt || card.publishedAt));
+}
+
+export function getDecisionCardReadingMeta(card: DecisionEntryCardModel) {
+  const minutes = card.readingTime.match(/\d+/u)?.[0];
+  return minutes ? t(card.locale, 'card.minRead', { n: minutes }) : card.readingTime;
+}
+
+export function getDecisionCardDisplay(card: DecisionEntryCardModel) {
+  const compactPriceCall = getCompactPriceCall(card);
+
+  return {
+    displayTitle: getDecisionDisplayTitle(card),
+    compactWhatItIs: card.whatItIs,
+    compactBestFor: card.bestFor,
+    compactCommunityVibe: card.communityVibe || null,
+    priceAdviceText: compactPriceCall.label,
+    priceAdviceDetail: compactPriceCall.detail,
+    reviewMeta: getMetacriticStatForCard(card),
+    cardDate: formatDecisionCardDate(card),
+    readingMeta: getDecisionCardReadingMeta(card),
+    trackLabel: t(card.locale, 'card.track'),
+    primaryCtaLabel: card.primaryCtaLabel,
+    playerConsensusLabel: t(card.locale, 'card.playerConsensus'),
+    estimatedLengthLabel: t(card.locale, 'card.estLength'),
+    bestForLabel: t(card.locale, 'card.bestFor'),
+    adviceLabel: t(card.locale, 'card.advice'),
+    missingValueLabel: t(card.locale, 'common.na'),
+  };
 }
 
 const worthItVerdictBadges: Record<BlogVerdict, Record<BlogLocale, string>> = {

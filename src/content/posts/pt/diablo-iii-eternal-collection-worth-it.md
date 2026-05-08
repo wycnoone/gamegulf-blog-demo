@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Diablo III: Eternal Collection: Fendas, raios de loot e temporada ainda funcionam; confira"
-whatItIs: "ação, aventura e RPG — Diablo III: Eternal Collection no Nintendo Switch"
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Fendas, loot colorido, builds de temporada e coop portátil.
+bestFor: Fãs de progressão longa que valorizam ritmo de missões.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

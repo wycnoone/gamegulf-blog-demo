@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Tinykin: Sabão deslizando e Tinykin transformam a casa em planeta; confira Japão ¥3,299"
-whatItIs: aventura, arcade e plataforma — Tinykin no Nintendo Switch
-bestFor: Para quem curte Sabão deslizando e Tinykin.
+whatItIs: >-
+  aventura, arcade, plataforma: pressão de mira, rotas de pontuação e fases
+  curtas.
+bestFor: Jogadores de mira que valorizam testes curtos de habilidade.
 avoidIf: Evite se aventura, arcade e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

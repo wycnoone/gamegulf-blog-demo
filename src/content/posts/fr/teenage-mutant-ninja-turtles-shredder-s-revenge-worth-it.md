@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Teenage Mutant Ninja Turtles: Shredder's Revenge: Pizzas, provocations et chaos à six"
-whatItIs: "action et aventure — Teenage Mutant Ninja Turtles: Shredder's Revenge sur Nintendo Switch"
-bestFor: Pour qui accroche à Pizzas, provocations et chaos à.
+whatItIs: Pizzas, provocations, chaos à six réveillent les Tortues.
+bestFor: Joueurs curieux qui valorisent la texture narrative.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Pizzas, provocations et chaos à six réveillent les reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

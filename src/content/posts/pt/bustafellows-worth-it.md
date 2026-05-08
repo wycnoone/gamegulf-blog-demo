@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BUSTAFELLOWS: Os retornos da Teuta e rotas criminais carregam o drama; confira Brasil R$203.95"
-whatItIs: aventura e RPG — BUSTAFELLOWS no Nintendo Switch
-bestFor: Jogadores que querem aventura e RPG em modo portátil
+whatItIs: 'aventura, RPG: progressão, builds e rotas de missões.'
+bestFor: Fãs de builds RPG que preferem planejamento de equipe.
 avoidIf: Evite se aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

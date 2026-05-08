@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL FighterZ: Assists, vanish pressure, and anime comebacks define the salt; check"
-whatItIs: fighting, action — DRAGON BALL FighterZ on Nintendo Switch
-bestFor: Best if you want assists, vanish pressure, and anime
+whatItIs: 'fighting, action: combat timing, movement feel, and encounter rhythm.'
+bestFor: Action-minded players who value readable threats.
 avoidIf: Skip if fighting, action or that rhythm leaves you cold.
 consensusPraise: Assists, vanish pressure, and anime comebacks define the salt is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

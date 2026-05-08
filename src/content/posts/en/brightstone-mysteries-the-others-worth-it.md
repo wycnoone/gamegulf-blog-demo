@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Brightstone Mysteries: The Others: Hidden-object clutter and mansion clues drive the mystery"
-whatItIs: "adventure, puzzle — Brightstone Mysteries: The Others on Nintendo Switch"
-bestFor: Best if you want hidden-object clutter and mansion clues
+whatItIs: Hidden-object clutter, mansion clues.
+bestFor: Logic-first players who value quiet deduction.
 avoidIf: Skip if adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Hidden-object clutter and mansion clues drive the mystery mood is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

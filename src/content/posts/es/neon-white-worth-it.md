@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Neon White: Descartar cartas, fantasmas y medallas activan el speedrun; revisa Alemania €21.99"
-whatItIs: acción y aventura — Neon White en Nintendo Switch
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Descartar cartas, fantasmas, medallas.
+bestFor: Jugadores curiosos que valoran exploración guiada.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Descartar cartas, fantasmas y medallas activan el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

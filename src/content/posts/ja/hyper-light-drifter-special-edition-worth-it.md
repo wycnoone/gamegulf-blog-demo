@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Hyper Light Drifter -\_Special Edition — アクション / アドベンチャー / RPG。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アクション / アドベンチャー / RPG — Nintendo Switch版Hyper Light Drifter -\_Special Edition。"
-bestFor: アクション / アドベンチャー / RPGのテンポを携帯機で遊びたい人。
+whatItIs: 連続ダッシュ、近接戦、無言の探索、隠し通路で進むアクションRPG。
+bestFor: 数値の取捨選択を重視する育成計画派。
 avoidIf: アクション / アドベンチャー / RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 88点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

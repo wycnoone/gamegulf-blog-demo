@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Atelier Ryza 2: Lost Legends & the Secret Fairy DX: Ryza’s synthesis grid and ruin notes"
-whatItIs: "role-playing — Atelier Ryza 2: Lost Legends & the Secret Fairy DX on NS2"
-bestFor: Best if you want ryza’s synthesis grid and ruin notes
+whatItIs: Ryza’s synthesis grid, ruin notes.
+bestFor: Long-tail character builders who value menu decisions.
 avoidIf: Skip if crafting loops or long RPG menu time feel tiring
 consensusPraise: Ryza’s synthesis grid and ruin notes make crafting the adventure is the main
 mainFriction: If the hook misses, the rhythm can feel thin

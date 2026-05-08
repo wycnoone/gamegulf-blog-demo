@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Starward Rogue: Salas bullet hell y reliquias twin-stick tensan pisos; revisa Brasil R$52.99"
-whatItIs: acción y arcade — Starward Rogue en Nintendo Switch
-bestFor: Jugadores que quieren acción y arcade en formato portátil
+whatItIs: 'acción, arcade: presión de apuntado, rutas de puntuación y fases cortas.'
+bestFor: Amantes del riesgo que valoran reinicios cortos.
 avoidIf: Evítalo si acción y arcade o ese ritmo no te llama.
 consensusPraise: Salas bullet hell y reliquias twin-stick tensan es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

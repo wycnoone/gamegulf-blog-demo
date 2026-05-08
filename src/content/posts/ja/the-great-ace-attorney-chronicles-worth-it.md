@@ -30,8 +30,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 大逆転裁判1＆2　-成歩堂龍ノ介の冒險と覺悟- — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー — Nintendo Switch版大逆転裁判1＆2　-成歩堂龍ノ介の冒險と覺悟-。
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー：ホームズの奇行と陪審バトル。
+bestFor: 環境発見を重視する発見好き。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

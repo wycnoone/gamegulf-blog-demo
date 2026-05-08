@@ -34,7 +34,7 @@ featuredPriority: 2
 listingTakeaway: >-
   ~Meta 90 JRPG ; BR indexe le bas, HK a plongé plus — fit d’abord, alertes
   ensuite.
-whatItIs: RPG tour par tour évolutif 35‑45 h selon trajet ; aucun live‑service forcé.
+whatItIs: Quêtes segmentées, combats scriptés, surcharge, équipe et méchas.
 bestFor: Amateur de arcs longs où menus soignés remplacent grind
 avoidIf: Vous imposez sous‑20 h ou détest menus d’optimisation.
 consensusPraise: Chorégraphie de combat, narration par arcs, ambiance sonore.

@@ -28,8 +28,10 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sonic Racing: CrossWorlds: Portais CrossWorld e boosts rivais criam caos Sonic"
-whatItIs: "corrida, esportes e festa — Sonic Racing: CrossWorlds no Nintendo Switch"
-bestFor: Vale se Portais CrossWorld e boosts rivais parece seu tipo
+whatItIs: >-
+  corrida, esportes, festa: sistemas, modos e sensação de controle definem o
+  encaixe.
+bestFor: Jogadores de mira que valorizam ritmo arcade.
 avoidIf: Evite se corrida, esportes e festa ou esse ritmo não combina.
 consensusPraise: A faixa crítica (84 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

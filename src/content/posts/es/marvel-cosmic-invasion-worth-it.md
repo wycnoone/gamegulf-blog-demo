@@ -28,8 +28,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "MARVEL Cosmic Invasion: Héroes en tag y oleadas arcade venden la pelea Marvel"
-whatItIs: acción, arcade y lucha — MARVEL Cosmic Invasion en Nintendo Switch
-bestFor: Recomendable si te atrae Héroes en tag y oleadas arcade
+whatItIs: >-
+  acción, arcade, lucha: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Jugadores de reflejos que prefieren presión de puntuación.
 avoidIf: Evítalo si acción, arcade y lucha o ese ritmo no te llama.
 consensusPraise: Héroes en tag y oleadas arcade venden la pelea es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

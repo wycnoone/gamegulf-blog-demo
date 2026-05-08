@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! 2: Oignons lancés, cuisines mobiles et amitié; vérifiez Japon ¥2,750"
-whatItIs: soirée et stratégie — Overcooked! 2 sur Nintendo Switch
-bestFor: Pour qui accroche à Oignons lancés, cuisines.
+whatItIs: 'soirée, stratégie : planification des tours, ressources et contrôle de carte.'
+bestFor: Décideurs prudents qui valorisent la planification.
 avoidIf: À éviter si soirée et stratégie ou ce rythme vous laisse froid.
 consensusPraise: Oignons lancés, cuisines mobiles et amitié abîmée reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

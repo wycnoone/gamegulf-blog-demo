@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kaiju Wars: Cidades descartáveis e matemática kaiju deixam perder engraçado"
-whatItIs: estratégia, plataforma e RPG — Kaiju Wars no Nintendo Switch
-bestFor: Para quem curte Cidades descartáveis e matemática.
+whatItIs: 'estratégia, plataforma, RPG: progressão, builds e rotas de missões.'
+bestFor: Fãs de builds RPG que valorizam menus com peso.
 avoidIf: Evite se estratégia, plataforma e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

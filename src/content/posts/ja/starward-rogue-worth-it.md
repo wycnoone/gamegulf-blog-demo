@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Starward Rogue — アクション / アーケード。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アーケード — Nintendo Switch版Starward Rogue。
-bestFor: アクション / アーケードのテンポを携帯機で遊びたい人。
+whatItIs: ツインスティック弾幕ローグライトシューター：弾幕部屋とツインスティック遺物ビルド。
+bestFor: ビルド実験を重視するリトライ耐性のある人。
 avoidIf: アクション / アーケードの気分でないならセールでも無理しない。
 consensusPraise: 評価されやすいのは初期メカ9機、350種超のアイテム、周回ごとのビルド変化。
 mainFriction: 現在のSwitch価格はブラジル€8.89から欧州の€14.99まで差があり、日本のセール履歴は€1.35まで落ちた。

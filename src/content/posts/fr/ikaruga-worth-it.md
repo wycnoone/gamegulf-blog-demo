@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ikaruga : Polarité noir-blanc et couloirs ; vérifiez Japon ¥1,650"
-whatItIs: action, arcade et tir — Ikaruga sur Nintendo Switch
-bestFor: À conseiller si Polarité noir-blanc et couloirs de balles
+whatItIs: 'action, arcade, tir : pression de visée, scoring et boucles courtes.'
+bestFor: Joueurs d’adresse qui valorisent l’exécution.
 avoidIf: À éviter si action, arcade et tir ou ce rythme vous laisse froid.
 consensusPraise: Polarité noir-blanc et couloirs de balles rendent zen reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

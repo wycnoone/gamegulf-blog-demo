@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Brightstone Mysteries: The Others: Wimmelbild-Chaos und Herrenhausspuren tragen die Stimmung"
-whatItIs: "Abenteuer und Puzzle — Brightstone Mysteries: The Others auf Nintendo Switch"
-bestFor: Für Fans von Wimmelbild-Chaos und Herrenhausspuren.
+whatItIs: Wimmelbild-Chaos, Herrenhausspuren.
+bestFor: Logikspieler, die Denkzeit schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Puzzle nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

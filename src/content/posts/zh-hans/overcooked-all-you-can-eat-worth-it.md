@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 胡闹厨房 全都好吃：模拟、策略、动作；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 模拟、策略、动作 — Switch 版 胡闹厨房 全都好吃。
-bestFor: 喜欢全厨房合集、全程喊人和辅助模式决定这顿值不值的玩家
+whatItIs: 模拟、策略、动作：战斗节奏、移动手感和遭遇设计。
+bestFor: 重视取舍的玩家，看重规划窗口。
 avoidIf: 需要强指引或不吃全厨房合集、全程喊人和辅助模式决定这顿值不值就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

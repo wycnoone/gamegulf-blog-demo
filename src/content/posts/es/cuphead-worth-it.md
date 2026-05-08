@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Cuphead: Parries, patrones de jefe y rabia cartoon lo definen; revisa Brasil R$49.9"
-whatItIs: Run-and-gun with 1930s cartoon animation, boss-rush structure, and 2-player co-op
+whatItIs: Run-and-gun con jefes, parries, coop y animación cartoon de los años 30.
 bestFor: Players who love challenging boss fights and hand-drawn art
 avoidIf: You rage-quit easily — Cuphead's difficulty is the point
 consensusPraise: Animation quality, boss design, and soundtrack are still unmatched in the genre

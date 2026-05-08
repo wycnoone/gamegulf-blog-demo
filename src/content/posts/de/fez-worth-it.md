@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FEZ: Drehwürfel und Notizbuch-Theorien machen jede Tür verdächtig; prüfe USA $14.99"
-whatItIs: Abenteuer und Plattformer — FEZ auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Drehwürfel und Notizbuch-Theorien
+whatItIs: 'Abenteuer, Plattformer: Level-Fluss, Bewegungstiming und Retry-Rhythmus.'
+bestFor: Level-Challenge-Fans, die klare Levelziele schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Plattformer nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Katamari Damacy REROLL: Basura pegada, rey regañón y tamaño absurdo sostienen todo; revisa"
-whatItIs: acción y arcade — Katamari Damacy REROLL en Nintendo Switch
-bestFor: Jugadores que quieren acción y arcade en formato portátil
+whatItIs: 'acción, arcade: presión de apuntado, rutas de puntuación y fases cortas.'
+bestFor: Jugadores de puntería que valoran reintentos rápidos.
 avoidIf: Evítalo si acción y arcade o ese ritmo no te llama.
 consensusPraise: Basura pegada, rey regañón y tamaño absurdo es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Apollo Justice: Ace Attorney Trilogy: O bracelete do Apollo e viradas no tribunal"
-whatItIs: "aventura — Apollo Justice: Ace Attorney Trilogy no Nintendo Switch"
-bestFor: Jogadores que querem aventura em modo portátil
+whatItIs: Bracelete do Apollo, investigação, contradições e viradas de tribunal.
+bestFor: Buscadores de clima que valorizam curiosidade de rotas.
 avoidIf: Evite se aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (84 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

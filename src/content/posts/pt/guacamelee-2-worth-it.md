@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Guacamelee! 2: Forma de galinha, combos lucha e portais meme fazem festa; confira Brasil R$99"
-whatItIs: ação e plataforma — Guacamelee! 2 no Nintendo Switch
-bestFor: Jogadores que querem ação e plataforma em modo portátil
+whatItIs: Forma de galinha, combos lucha, portais meme fazem festa.
+bestFor: Fãs de desafio ativo que valorizam ritmo de combate.
 avoidIf: Evite se ação e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

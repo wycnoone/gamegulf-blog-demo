@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL: Sparking! ZERO: Choques de rayos, roster enorme y escenarios rotos cumplen; revisa"
-whatItIs: "acción y lucha — DRAGON BALL: Sparking! ZERO en NS2"
-bestFor: Jugadores que quieren acción y lucha en formato portátil
+whatItIs: 'acción, lucha: ritmo de combate, movimiento y encuentros.'
+bestFor: Fans del reto activo que valoran ritmo de combate.
 avoidIf: Evítalo si acción y lucha o ese ritmo no te llama.
 consensusPraise: Choques de rayos, roster enorme y escenarios rotos es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

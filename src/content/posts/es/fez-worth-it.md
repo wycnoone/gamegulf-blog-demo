@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FEZ: Cubos que giran y notas hacen sospechosa cada puerta; revisa EE. UU. $14.99"
-whatItIs: aventura y plataformas — FEZ en Nintendo Switch
-bestFor: Recomendable si te atrae Cubos que giran y notas hacen.
+whatItIs: Cubos que giran, notas.
+bestFor: Exploradores que valoran orientación ligera.
 avoidIf: Evítalo si aventura y plataformas o ese ritmo no te llama.
 consensusPraise: Cubos que giran y notas hacen sospechosa cada puerta es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

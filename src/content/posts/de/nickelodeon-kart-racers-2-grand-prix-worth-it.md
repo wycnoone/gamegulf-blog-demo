@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nickelodeon Kart Racers 2: Grand Prix: Schleim-Abkürzungen und Cartoon-Roster tragen"
-whatItIs: "Action, Arcade und Rennspiel — Nickelodeon Kart Racers 2: Grand Prix auf Nintendo Switch"
-bestFor: Für Spieler, die Schleim-Abkürzungen reizt.
+whatItIs: 'Action, Arcade, Rennspiel: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Score-Jäger, die Score-Druck schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Arcade und Rennspiel nicht reizt
 consensusPraise: Das Kritikerband (72 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

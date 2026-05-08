@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Teenage Mutant Ninja Turtles: Shredder's Revenge: Pizza, provocações e caos de seis entregam"
-whatItIs: "ação e aventura — Teenage Mutant Ninja Turtles: Shredder's Revenge no Nintendo Switch"
-bestFor: Jogadores que querem ação e aventura em modo portátil
+whatItIs: Briga lateral, pizza de cura, provocações, especiais e coop para até seis.
+bestFor: Jogadores curiosos que valorizam orientação leve.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

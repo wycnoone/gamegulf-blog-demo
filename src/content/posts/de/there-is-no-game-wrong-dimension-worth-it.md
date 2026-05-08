@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "There Is No Game: Wrong Dimension: Mit dem Spiel streiten und UI-Regeln brechen ist der Witz"
-whatItIs: "Abenteuer, Puzzle und Simulation — There Is No Game: Wrong Dimension auf Nintendo Switch"
-bestFor: Für Spieler, die Mit dem Spiel streiten und UI-Regeln reizt.
+whatItIs: 'Abenteuer, Puzzle, Simulation: Rätselregeln, Hinweisfluss und Lösungsfeedback.'
+bestFor: Puzzle-Köpfe, die lesbare Rätsel schätzen.
 avoidIf: Meiden, wenn Mit dem Spiel streiten und UI-Regeln dich nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

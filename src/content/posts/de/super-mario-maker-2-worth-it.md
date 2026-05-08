@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Super Mario Maker 2: Trollblöcke, Creator-Codes und Endlosmodus machen Mario eigen; vor dem"
-whatItIs: Plattformer und Action — Super Mario Maker 2 auf Nintendo Switch
-bestFor: Für Spieler, die Trollblöcke, Creator-Codes reizt.
+whatItIs: 'Plattformer, Action: Level-Fluss, Bewegungstiming und Retry-Rhythmus.'
+bestFor: Präzisionsspieler, die präzise Eingaben schätzen.
 avoidIf: Auslassen, wenn dich der Mix Plattformer und Action nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

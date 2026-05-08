@@ -28,8 +28,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "MARVEL Cosmic Invasion: Tag-team heroes and arcade mob clears sell the comic-book brawl; check"
-whatItIs: action, arcade, fighting — MARVEL Cosmic Invasion on Nintendo Switch
-bestFor: Best if you want tag-team heroes and arcade mob clears sell
+whatItIs: >-
+  action, arcade, fighting: aiming pressure, scoring routes, and short-stage
+  loops.
+bestFor: Reflex players who value score pressure.
 avoidIf: Skip if action, arcade, fighting or that rhythm leaves you cold.
 consensusPraise: Tag-team heroes and arcade mob clears sell the comic-book brawl is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

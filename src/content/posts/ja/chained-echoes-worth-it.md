@@ -24,7 +24,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 批評〜90ブラジル主導行、香港ログはさらに安い過去がある——長時間JRPG適性を確認してから価格に寄りかからない。
-whatItIs: JRPG——可視エンカウント、約35〜45時間級の単線ストーリーカレンダー志向。
+whatItIs: 歩戦と演出戦の往復、装備ツリー、条件付き必殺読み込みのターン処理：中核システム、モード構成、操作感で相性を見る。
 bestFor: PS世代の読み応えより「現代的QOLの厚み」を優先したい人。
 avoidIf: 20時間未満の短尺のみ、または常時オンラサービス依存が前提。
 consensusPraise: 構成の芯、楽曲、アンコール級のセットピースが語られやすい。

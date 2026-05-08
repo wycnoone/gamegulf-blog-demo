@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Tactics Ogre: Reborn: Choix de tarot, hauteur et peur; vérifiez Japon ¥5,480"
-whatItIs: "jeu de rôle et simulation — Tactics Ogre: Reborn sur Nintendo Switch"
-bestFor: Pour qui accroche à Choix de tarot, hauteur et peur.
+whatItIs: 'jeu de rôle, simulation : routine, améliorations et objectifs au long cours.'
+bestFor: Joueurs systèmes qui valorisent l’optimisation légère.
 avoidIf: À éviter si jeu de rôle et simulation ou ce rythme vous laisse froid.
 consensusPraise: Choix de tarot, hauteur et peur du permadeath font la reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

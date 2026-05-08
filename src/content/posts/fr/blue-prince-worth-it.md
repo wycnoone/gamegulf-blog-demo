@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Blue Prince : Draft de pièces et logique du manoir ; vérifiez Brésil R$88.99"
-whatItIs: aventure et puzzle — Blue Prince sur NS2
-bestFor: À conseiller si Draft de pièces et logique du manoir font
+whatItIs: Draft de pièces, logique du manoir.
+bestFor: Solveurs patients qui valorisent le temps de réflexion.
 avoidIf: À éviter si aventure et puzzle ou ce rythme vous laisse froid.
 consensusPraise: Draft de pièces et logique du manoir font débattre reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

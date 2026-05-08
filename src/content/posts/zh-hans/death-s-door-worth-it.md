@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 死亡之门：动作、冒险、街机；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、街机 — Switch 版 死亡之门。
-bestFor: 喜欢乌鸦收魂、精准闪避和阴间冷幽默撑起气质的玩家
+whatItIs: 动作、冒险、街机：战斗节奏、移动手感和遭遇设计。
+bestFor: 喜欢自己发现的玩家，看重轻度找路。
 avoidIf: 需要强指引或不吃乌鸦收魂、精准闪避和阴间冷幽默撑起气质就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 89 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

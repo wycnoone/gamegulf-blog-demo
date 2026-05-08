@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Mini Metro: One new station can ruin a beautiful subway map; check Japan ¥1,100 before buying"
-whatItIs: puzzle, simulation, action — Mini Metro on Nintendo Switch
-bestFor: Best if you want one new station can ruin a beautiful
+whatItIs: 'puzzle, simulation, action: puzzle rules, clue flow, and solution feedback.'
+bestFor: Puzzle-minded players who value clue chains.
 avoidIf: Skip if puzzle, simulation, action or that rhythm leaves you cold.
 consensusPraise: One new station can ruin a beautiful subway map is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

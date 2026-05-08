@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: ミニメトロ — パズル / シミュレーション / アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: パズル / シミュレーション / アクション — Nintendo Switch版ミニメトロ。
-bestFor: パズル / シミュレーション / アクションのテンポを携帯機で遊びたい人。
+whatItIs: パズル, シミュレーション, アクション：戦闘テンポ、移動感、遭遇設計。
+bestFor: 穏やかな計画を重視するシステム派。
 avoidIf: パズル / シミュレーション / アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

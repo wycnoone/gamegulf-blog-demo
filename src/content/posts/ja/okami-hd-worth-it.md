@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 大神 絶景版 — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー — Nintendo Switch版大神 絶景版。
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー：筆しらべとアマテラス。
+bestFor: 物語の手触りを重視する発見好き。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 89点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! All You Can Eat: Alle Küchen, alles Geschrei und Assist Mode machen das Fest"
-whatItIs: Simulation, Strategie und Action — Overcooked! All You Can Eat auf Nintendo Switch
-bestFor: Für Spieler, die Alle Küchen, alles Geschrei reizt.
+whatItIs: >-
+  Simulation, Strategie, Action: Zugplanung, Ressourcendruck und
+  Kartenkontrolle.
+bestFor: Geduldige Entscheider, die Druck ohne Twitch schätzen.
 avoidIf: Meiden, wenn Alle Küchen, alles Geschrei und Assist Mode dich nicht
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

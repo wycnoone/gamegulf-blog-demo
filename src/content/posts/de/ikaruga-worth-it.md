@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ikaruga: Schwarz-Weiß-Polarität macht Ballerspiel fast meditativ; prüfe Japan ¥1,650"
-whatItIs: Action, Arcade und Shooter — Ikaruga auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Schwarz-Weiß-Polarität macht
+whatItIs: 'Action, Arcade, Shooter: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Arcade-Spieler, die schnelle Retries schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Arcade und Shooter nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

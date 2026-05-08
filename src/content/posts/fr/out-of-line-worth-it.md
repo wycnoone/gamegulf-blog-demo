@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Out of Line: La lance de San et la mélancolie d’usine; vérifiez Brésil R$29.99"
-whatItIs: action, aventure et plates-formes — Out of Line sur Nintendo Switch
-bestFor: À conseiller si La lance de San et la mélancolie d’usine
+whatItIs: La lance de San, la mélancolie d’usine.
+bestFor: Chercheurs d’ambiance qui valorisent la curiosité de route.
 avoidIf: À éviter si action, aventure et plates-formes ou ce rythme vous laisse
 consensusPraise: La lance de San et la mélancolie d’usine portent le reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

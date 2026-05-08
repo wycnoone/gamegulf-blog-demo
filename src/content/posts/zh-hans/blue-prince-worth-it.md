@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Blue Prince：冒险、解谜；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、解谜 — NS2 版 Blue Prince。
-bestFor: 喜欢抽房间、拼宅邸和路线规划会让每张平面图都能吵的玩家
+whatItIs: 冒险、解谜：谜题规则、线索递进和解法反馈。
+bestFor: 爱解谜的玩家，看重线索串联。
 avoidIf: 需要强指引或不吃抽房间、拼宅邸和路线规划会让每张平面图都能吵就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 92 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

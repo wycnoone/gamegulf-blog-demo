@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Iconoclasts: Robins Schraubenschlüssel, Bosse und Familiendrama beißen; prüfe Japan ¥2,200"
-whatItIs: Action und Abenteuer — Iconoclasts auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Robins Schraubenschlüssel, Bosse
+whatItIs: Robins Schraubenschlüssel, Bosse, Familiendrama.
+bestFor: Routen-Neugierige, die Story-Textur schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

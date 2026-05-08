@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Xenoblade Chronicles 3: Ouroboros, Klassenwechsel und Chain Attacks tragen die Saga; vor dem"
-whatItIs: Open-World-JRPG mit Echtzeitkämpfen, Klassenwechsel und 60+ Std. Story
+whatItIs: 'Echtzeit-JRPG mit Autoangriffen: Fortschritt, Builds und Quest-Routen.'
 bestFor: Für JRPG-Fans mit Lust auf große Welt und tiefen Kampf
 avoidIf: Meiden, wenn du kurze Sitzungen willst; die Reise dauert 60+ Std.
 consensusPraise: Weltgröße, Kampftiefe und flexible Klassen tragen die lange Laufzeit

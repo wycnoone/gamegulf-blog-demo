@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nicktoons & The Dice of Destiny: Nicktoons-Sprüche und Würfel-RPG-Chaos sind der Pitch; vor dem"
-whatItIs: Action, Abenteuer und Rollenspiel — Nicktoons & The Dice of Destiny auf Nintendo Switch
-bestFor: Für Spieler, die Nicktoons-Sprüche reizt.
+whatItIs: Nicktoons-Team, Würfel-RPG-Takt, Dungeons und Gruppenwachstum.
+bestFor: Langzeit-Aufbauer, die Teamplanung schätzen.
 avoidIf: Meiden, wenn Nicktoons-Sprüche und Würfel-RPG-Chaos sind dich nicht
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

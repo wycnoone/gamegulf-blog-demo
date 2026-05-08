@@ -27,7 +27,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Hyper Light Drifter - Special Edition: Dashketten, wortlose Lore und Kristallfüchse bleiben"
 whatItIs: Action, Abenteuer und Rollenspiel
-bestFor: Für Spieler, die Dashketten, wortlose Lore reizt.
+bestFor: Teamplaner, die Quest-Tempo schätzen.
 avoidIf: Meiden, wenn Dashketten, wortlose Lore und dich nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

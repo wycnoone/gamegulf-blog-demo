@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Grindstone — puzle; en abril de 2026 conviene comparar regiones en GameGulf antes de pagar
-whatItIs: puzle — Grindstone en Nintendo Switch
-bestFor: Jugadores que quieren puzle en formato portátil
+whatItIs: 'puzle: reglas de puzle, pistas y respuesta de solución.'
+bestFor: Jugadores lógicos que valoran cadenas de pistas.
 avoidIf: Evítalo si puzle o ese ritmo no te llama.
 consensusPraise: Cadenas, codicia y huida justa tensan cada tablero es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Forrader Hero: Schrittentscheidungen und Routenrechnen sind der Kern; prüfe Japan ¥710"
-whatItIs: Action und Abenteuer — Forrader Hero auf Nintendo Switch
-bestFor: Für Spieler, die Schrittentscheidungen reizt.
+whatItIs: Schrittentscheidungen, Routenrechnen.
+bestFor: Erkundungsspieler, die Story-Textur schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -30,7 +30,7 @@ featuredPriority: 2
 listingTakeaway: >-
   SRPG ~89 Metacritic — avril 2026, les lignes promo EU collent au plus bas
   historique indexé.
-whatItIs: "SRPG Vanillaware : nœuds de carte, batailles en formation, campagne longue."
+whatItIs: Carte tactique, quêtes, batailles temps réel avec pause et roster massif.
 bestFor: Amateurs de tactique, carte et peinture Vanillaware.
 avoidIf: Tu veux des sessions courtes ou tu fuirais 40h+ de fantasy politique.
 consensusPraise: Clarté de combat, musique et lisibilité tactique — haut du panier Switch.

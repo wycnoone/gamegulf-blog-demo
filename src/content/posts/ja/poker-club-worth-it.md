@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Poker Club — シミュレーション / ストラテジー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: シミュレーション / ストラテジー — Nintendo Switch版Poker Club。
-bestFor: シミュレーション / ストラテジーのテンポを携帯機で遊びたい人。
+whatItIs: シミュレーション, ストラテジー：日課、アップグレード循環、長期目標。
+bestFor: 穏やかな計画を重視する最適化好き。
 avoidIf: シミュレーション / ストラテジーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

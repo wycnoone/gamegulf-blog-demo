@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Snoopy & The Great Mystery Club: Fantasias do Snoopy e pistas Peanuts carregam o mistério"
-whatItIs: aventura, quebra-cabeça e ação — Snoopy & The Great Mystery Club no Nintendo Switch
-bestFor: Para quem curte Fantasias do Snoopy e pistas.
+whatItIs: 'aventura, quebra-cabeça, ação: regras de puzzle, pistas e retorno da solução.'
+bestFor: Jogadores de puzzle que valorizam tempo para pensar.
 avoidIf: Evite se aventura, quebra-cabeça e ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

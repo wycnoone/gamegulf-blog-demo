@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Warframe: Bullet jumps, farmear frames y mods son el tutorial real; revisa EE. UU. $0.00"
-whatItIs: acción, rol y disparos — Warframe en Nintendo Switch
-bestFor: Para quien conecte con Bullet jumps, farmear frames.
+whatItIs: 'acción, rol, disparos: progresión, builds y rutas de misiones.'
+bestFor: Pensadores de equipo que valoran identidad de build.
 avoidIf: Evítalo si acción, rol y disparos o ese ritmo no te llama.
 consensusPraise: Bullet jumps, farmear frames y mods son el tutorial es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

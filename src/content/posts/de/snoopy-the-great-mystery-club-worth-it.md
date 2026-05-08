@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Snoopy & The Great Mystery Club: Snoopys Kostüme und Peanuts-Spurensuche tragen den Fall"
-whatItIs: Abenteuer, Puzzle und Action — Snoopy & The Great Mystery Club auf Nintendo Switch
-bestFor: Für Spieler, die Snoopys Kostüme reizt.
+whatItIs: Snoopys Kostüme, Peanuts-Spurensuche.
+bestFor: Hinweis-Leser, die Hinweisketten schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer, Puzzle und Action nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

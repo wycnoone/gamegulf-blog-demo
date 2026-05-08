@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Minecraft: Erste Nacht, Redstone-Loch und gemeinsame Welten enden nie; prüfe Brasilien R$99"
-whatItIs: Action, Abenteuer und Strategie — Minecraft auf Nintendo Switch
-bestFor: Für Spieler, die Erste Nacht, Redstone-Loch reizt.
+whatItIs: 'Sandbox-Survival: Sammeln, Crafting, Bauen, Redstone und geteilte Welten.'
+bestFor: Lage-Leser, die Ressourcenwahl schätzen.
 avoidIf: Meiden, wenn Erste Nacht, Redstone-Loch und gemeinsame dich nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

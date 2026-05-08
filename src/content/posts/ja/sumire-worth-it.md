@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Sumire — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー — Nintendo Switch版Sumire。
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: 一日だけの探索、花との約束、小さな選択と後悔。
+bestFor: ルートへの好奇心を重視する発見好き。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 隐迹渐现：冒险、解谜；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、解谜 — Switch 版 隐迹渐现。
-bestFor: 喜欢手抄本画风、村庄八卦和几十年愧疚感撑起它的玩家
+whatItIs: 冒险、解谜：谜题规则、线索递进和解法反馈。
+bestFor: 偏逻辑的玩家，看重清楚规则。
 avoidIf: 需要强指引或不吃手抄本画风、村庄八卦和几十年愧疚感撑起它就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 90 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

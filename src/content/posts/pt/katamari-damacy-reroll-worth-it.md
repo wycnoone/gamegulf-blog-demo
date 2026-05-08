@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Katamari Damacy REROLL: Tralha grudando, rei reclamando e tamanho absurdo divertem; confira"
-whatItIs: ação e arcade — Katamari Damacy REROLL no Nintendo Switch
-bestFor: Jogadores que querem ação e arcade em modo portátil
+whatItIs: 'ação, arcade: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Caçadores de score que valorizam resposta direta.
 avoidIf: Evite se ação e arcade ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

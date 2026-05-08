@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: ベヨネッタ3 — アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション — Nintendo Switch版ベヨネッタ3。
-bestFor: アクションのテンポを携帯機で遊びたい人。
+whatItIs: アクション：デーモン・スレイブとヴィオラのパリィ。
+bestFor: メニュー待ちの少なさを重視するアクション挑戦派。
 avoidIf: アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

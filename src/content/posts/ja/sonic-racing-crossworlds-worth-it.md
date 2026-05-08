@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: ソニックレーシング クロスワールド — レース / スポーツ / パーティー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: レース / スポーツ / パーティー — Nintendo Switch版ソニックレーシング クロスワールド。
-bestFor: レース / スポーツ / パーティーのテンポを携帯機で遊びたい人。
+whatItIs: レース / スポーツ / パーティー：クロスワールドゲートとライバル加速。
+bestFor: 実行力テストを重視するエイム重視の人。
 avoidIf: レース / スポーツ / パーティーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 84点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

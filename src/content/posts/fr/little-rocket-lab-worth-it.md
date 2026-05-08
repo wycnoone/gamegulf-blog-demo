@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Little Rocket Lab : Atelier et fusée rythment le village ; vérifiez Brésil R$39.99"
-whatItIs: aventure, puzzle et jeu de rôle — Little Rocket Lab sur Nintendo Switch
-bestFor: Pour qui accroche à Atelier et fusée rythment.
+whatItIs: Atelier, fusée rythment le village.
+bestFor: Joueurs logiques qui valorisent les chaînes d’indices.
 avoidIf: À éviter si aventure, puzzle et jeu de rôle ou ce rythme vous laisse
 consensusPraise: Atelier et fusée rythment le village reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

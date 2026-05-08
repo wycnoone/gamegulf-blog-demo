@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nickelodeon Kart Racers 2: Grand Prix: Slime, raccourcis et casting cartoon font le kart"
-whatItIs: "action, arcade et course — Nickelodeon Kart Racers 2: Grand Prix sur Nintendo Switch"
-bestFor: À conseiller si Slime, raccourcis et casting cartoon font
+whatItIs: 'action, arcade, course : pression de visée, scoring et boucles courtes.'
+bestFor: Joueurs réflexes qui valorisent l’exécution.
 avoidIf: À éviter si action, arcade et course ou ce rythme vous laisse froid.
 consensusPraise: Slime, raccourcis et casting cartoon font le kart reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

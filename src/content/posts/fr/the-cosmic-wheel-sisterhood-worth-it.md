@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Cosmic Wheel Sisterhood: Tarot créé, exil de sorcière et marché politique affûtent"
-whatItIs: aventure et simulation — The Cosmic Wheel Sisterhood sur Nintendo Switch
-bestFor: Pour qui accroche à Tarot créé, exil de sorcière.
+whatItIs: 'aventure, simulation : routine, améliorations et objectifs au long cours.'
+bestFor: Planificateurs posés qui valorisent l’optimisation légère.
 avoidIf: À éviter si aventure et simulation ou ce rythme vous laisse froid.
 consensusPraise: Tarot créé, exil de sorcière et marché politique reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Persona 4 Golden : Brouillard d’Inaba, Liens sociaux ; vérifiez Japon ¥1,980"
-whatItIs: jeu de rôle — Persona 4 Golden sur Nintendo Switch
-bestFor: Joueurs qui veulent du jeu de rôle au format portable
+whatItIs: Vie à Inaba, Liens sociaux, donjons TV et combats Persona au tour par tour.
+bestFor: Acheteurs anti-FOMO qui préfèrent l’affinité de genre.
 avoidIf: À éviter si jeu de rôle ou ce rythme vous laisse froid.
 consensusPraise: Brouillard d’Inaba, Liens sociaux et TV-donjons reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

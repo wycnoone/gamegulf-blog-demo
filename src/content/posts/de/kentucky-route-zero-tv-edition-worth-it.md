@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kentucky Route Zero: TV Edition: Geisterstraße, Schulden und Bühnenrhythmus hallen nach"
-whatItIs: "Abenteuer — Kentucky Route Zero: TV Edition auf Nintendo Switch"
-bestFor: Für Spieler, die Geisterstraße, Schulden reizt.
+whatItIs: Geisterstraße, Schulden, Bühnenrhythmus.
+bestFor: Entdecker, die Umgebungsentdeckung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

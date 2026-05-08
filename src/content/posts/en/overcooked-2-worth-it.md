@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! 2: Thrown onions turn co-op dinner into friendship damage; check Japan ¥2,750"
-whatItIs: party, strategy, Communication — Overcooked! 2 on Nintendo Switch
-bestFor: Best if you want thrown onions turn co-op dinner
+whatItIs: >-
+  party, strategy, Communication: turn planning, resource pressure, and map
+  control.
+bestFor: Planning-first players who value resource choices.
 avoidIf: Skip if party, strategy, Communication or that rhythm leaves you cold.
 consensusPraise: Thrown onions turn co-op dinner into friendship damage is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

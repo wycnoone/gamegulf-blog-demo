@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Little Rocket Lab: Raketenteile, Werkstattaufträge und Dorf-Tüftelei tragen"
-whatItIs: Abenteuer, Puzzle und Rollenspiel — Little Rocket Lab auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Raketenteile, Werkstattaufträge
+whatItIs: Raketenteile, Werkstattaufträge, Dorf-Tüftelei.
+bestFor: Geduldige Knobler, die ruhige Deduktion schätzen.
 avoidIf: Meiden, wenn Raketenteile, Werkstattaufträge und dich nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

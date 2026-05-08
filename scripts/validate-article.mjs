@@ -216,6 +216,46 @@ const GENERIC_TAKEAWAY_PATTERNS = [
   /é antes uma decisão de gosto/iu,
 ];
 
+const GENERIC_WHAT_IT_IS_PATTERNS = [
+  /\s[—-]\s.+\bon\s+(Nintendo\s+Switch|NS2)\.?$/iu,
+  /\s[—-]\s*(Nintendo\s+Switch|Switch|NS2)\s*版/u,
+  /\s[—-]\s*.+版.+。?$/u,
+  /\s[—-]\s.+\b(sur|en|auf|no)\s+(Nintendo\s+Switch|NS2)\.?$/iu,
+];
+
+const PLAYTIME_WHAT_IT_IS_PATTERNS = [
+  /[~～]?\s*\d+\s*[–—\-~+·]?\s*\d*\s*(h|hr|hrs|hour|hours|min|minutes|std\.?|heures?|horas?)\b/iu,
+  /[~～]?\s*\d+\s*[–—\-~+·]?\s*\d*\s*(小时|小時|分钟|分鐘|時間|分)/u,
+  /(主线|本編|campagne|historia|story|extras?|コンプ|全收集|complete|completion|100\s*%)/iu,
+];
+
+function isPlaytimeWhatItIs(value) {
+  const text = String(value || '').trim();
+  return text !== '' && PLAYTIME_WHAT_IT_IS_PATTERNS.some((pattern) => pattern.test(text));
+}
+
+function isClippedWhatItIs(value) {
+  return /(?:…|\.\.\.)\s*[。.!！?？]?\s*$/u.test(String(value || '').trim());
+}
+
+function isGenericWhatItIs(value) {
+  const text = String(value || '').trim();
+  return text !== '' && GENERIC_WHAT_IT_IS_PATTERNS.some((pattern) => pattern.test(text));
+}
+
+function validateWhatItIs(fm, errors) {
+  if (typeof fm.whatItIs !== 'string') return;
+  if (isGenericWhatItIs(fm.whatItIs)) {
+    errors.push('whatItIs still uses generic genre/platform/title wording; rewrite it as a game-specific gameplay/system anchor.');
+  }
+  if (isPlaytimeWhatItIs(fm.whatItIs)) {
+    errors.push('whatItIs must not repeat playtime/completion copy; use gameplay systems, mode structure, or core loop instead.');
+  }
+  if (isClippedWhatItIs(fm.whatItIs)) {
+    errors.push('whatItIs must not end with a clipped ellipsis; shorten it into a complete gameplay/system phrase.');
+  }
+}
+
 function validateMetacriticHeroFields(fm, errors) {
   for (const field of ['heroStat', 'reviewSignal']) {
     const value = fm[field];
@@ -285,6 +325,9 @@ function validateReaderFacingCopy(filePath, fm, body, errors) {
     errors.push('hasOtherPlatforms=true requires non-empty otherPlatformLabels; otherwise the platform guide should stay generic.');
   }
 
+  validateWhatItIs(fm, errors);
+  validateBestFor(fm, errors);
+
   if (typeof fm.takeaway === 'string' && GENERIC_TAKEAWAY_PATTERNS.some((pattern) => pattern.test(fm.takeaway))) {
     errors.push('takeaway still uses the generic generated template; rewrite it with a game-specific feature + current price/timing cue.');
   }
@@ -322,6 +365,40 @@ function getEntityNameCandidates(value = '') {
 function includesGameName(text, gameTitle) {
   const normalizedText = normalizeEntityName(text);
   return getEntityNameCandidates(gameTitle).some((candidate) => normalizedText.includes(candidate));
+}
+
+function keywordSet(value) {
+  return new Set(String(value || '')
+    .toLowerCase()
+    .replace(/[™®©《》『』「」“”"'’‘（）()：:—–\-_,，.。!！?？;；]/g, ' ')
+    .split(/\s+|、|，|\/|\bet\b|\by\b|\bund\b|\be\b|\band\b|と/u)
+    .map((part) => part.trim())
+    .filter((part) => part.length >= 3));
+}
+
+function keywordOverlapStats(a, b) {
+  const left = keywordSet(a);
+  const right = keywordSet(b);
+  if (!left.size || !right.size) return { shared: 0, ratio: 0 };
+  let shared = 0;
+  for (const key of left) if (right.has(key)) shared += 1;
+  return { shared, ratio: shared / Math.min(left.size, right.size) };
+}
+
+function overlapsCommunityVibe(value, communityVibe) {
+  const left = normalizeEntityName(value || '');
+  const right = normalizeEntityName(communityVibe || '');
+  if (!left || !right) return false;
+  if (left === right || left.includes(right) || right.includes(left)) return true;
+  const stats = keywordOverlapStats(value, communityVibe);
+  return stats.shared >= 2 && stats.ratio >= 0.45;
+}
+
+function validateBestFor(fm, errors) {
+  if (typeof fm.bestFor !== 'string' || typeof fm.communityVibe !== 'string') return;
+  if (overlapsCommunityVibe(fm.bestFor, fm.communityVibe)) {
+    errors.push('bestFor/core audience overlaps communityVibe/player consensus; rewrite bestFor as an audience-fit statement, not a gameplay hot-take repeat.');
+  }
 }
 
 function validateTitleContainsGameTitle(fm, warnings) {

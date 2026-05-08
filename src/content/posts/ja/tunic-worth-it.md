@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: TUNIC — アクション / アドベンチャー / パズル。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / パズル — Nintendo Switch版TUNIC。
-bestFor: アクション / アドベンチャー / パズルのテンポを携帯機で遊びたい人。
+whatItIs: 見下ろし探索、説明書ページ、盾と剣の戦闘、隠し近道。
+bestFor: 物語の手触りを重視する発見好き。
 avoidIf: アクション / アドベンチャー / パズルの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 88点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

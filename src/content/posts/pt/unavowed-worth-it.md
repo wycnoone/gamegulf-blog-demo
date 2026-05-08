@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Unavowed: Casos demoníacos, companheiros e NY ocultista seguram; confira Brasil R$27.99"
-whatItIs: aventura, quebra-cabeça e RPG — Unavowed no Nintendo Switch
-bestFor: Vale se Casos demoníacos, companheiros e NY parece seu tipo
+whatItIs: 'aventura, quebra-cabeça, RPG: regras de puzzle, pistas e retorno da solução.'
+bestFor: Jogadores de puzzle que valorizam dedução tranquila.
 avoidIf: Evite se aventura, quebra-cabeça e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (91 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.
@@ -130,7 +130,6 @@ Histórico de **menor preço histórico / promoção / desconto**: os dados de *
 ## Quanto custa Unavowed no Nintendo Switch agora?
 
 O **GameGulf** importa aqui porque a linha barata e os preços cheios podem ficar bem distantes. A tabela abaixo vem dos metadados do artigo; use como retrato regional e confira [GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price).
-
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |

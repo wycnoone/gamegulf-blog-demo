@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Pentiment: Manuskriptkunst, Dorfklatsch und Jahrzehnte Schuld tragen; prüfe Brasilien R$99"
-whatItIs: Abenteuer und Puzzle — Pentiment auf Nintendo Switch
-bestFor: Für Spieler, die Manuskriptkunst, Dorfklatsch reizt.
+whatItIs: Manuskriptkunst, Dorfklatsch, Jahrzehnte Schuld.
+bestFor: Geduldige Knobler, die ruhige Deduktion schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Puzzle nicht reizt
 consensusPraise: Das Kritikerband (90 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Rotwood: Golpes pesados, coop y campamento hacen runs ligeras; revisa Brasil R$88.99"
-whatItIs: acción, aventura y rol — Rotwood en NS2
-bestFor: Recomendable si te atrae Golpes pesados, coop y campamento.
+whatItIs: Runs de caza, golpes pesados, coop, mejoras de campamento y builds.
+bestFor: Planificadores de progreso que valoran compromisos de stats.
 avoidIf: Evítalo si acción, aventura y rol o ese ritmo no te llama.
 consensusPraise: En Steam es mayormente positivo por combate, coop y builds
 mainFriction: Cansancio del género o promociones desfasadas por región

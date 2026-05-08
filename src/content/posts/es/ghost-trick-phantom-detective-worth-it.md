@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ghost Trick: Phantom Detective: Los trucos de Sissel y rescates encadenados se lucen; revisa"
-whatItIs: "acción y aventura — Ghost Trick: Phantom Detective en Nintendo Switch"
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Los trucos de Sissel, rescates encadenados se.
+bestFor: Jugadores de rutas que valoran ambiente sin farmeo.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Los trucos de Sissel y rescates encadenados se lucen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

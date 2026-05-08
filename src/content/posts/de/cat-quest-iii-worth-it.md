@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Cat Quest III: Katzenmeere, Wortspiele und schneller Loot halten es locker; prüfe Japan ¥2,800"
-whatItIs: Abenteuer und Rollenspiel — Cat Quest III auf Nintendo Switch
-bestFor: Für Fans von Katzenmeere, Wortspiele und schneller Loot.
+whatItIs: 'Abenteuer, Rollenspiel: Fortschritt, Builds und Quest-Routen.'
+bestFor: Build-RPG-Fans, die Teamplanung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Rollenspiel nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

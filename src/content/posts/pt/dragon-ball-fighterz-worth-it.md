@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL FighterZ: Assists, vanish e viradas de anime dão o sal; confira Japão ¥2,970"
-whatItIs: luta e ação — DRAGON BALL FighterZ no Nintendo Switch
-bestFor: Jogadores que querem luta e ação em modo portátil
+whatItIs: 'luta, ação: ritmo de combate, movimento e encontros.'
+bestFor: Jogadores de combate que valorizam ameaças legíveis.
 avoidIf: Evite se luta e ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

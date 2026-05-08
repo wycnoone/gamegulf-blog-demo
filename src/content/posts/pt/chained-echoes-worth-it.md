@@ -36,8 +36,8 @@ listingTakeaway: >-
   Meta ~90: Brasil manda índices; HK teve menor piso — primeiro encaixe, depois
   alertas.
 whatItIs: >-
-  RPG por turnos de 35 a 45 h conforme opcionais, sem serviço online
-  obrigatório.
+  Progressões roteirizadas: sistemas, modos e sensação de controle definem o
+  encaixe.
 bestFor: JRPGs guiados por menus — ritmo denso, mapa secundário.
 avoidIf: Você exige zerar campanha <20 h sem engatar menus avançados.
 consensusPraise: Lutas memoráveis, trilha elogiada e cenas mechas citadas há anos em fóruns.

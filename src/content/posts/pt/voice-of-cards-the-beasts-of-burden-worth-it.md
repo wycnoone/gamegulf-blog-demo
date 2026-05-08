@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Voice of Cards: The Beasts of Burden: Mesa de cartas e monstros deixam Yoko Taro discreto"
-whatItIs: "RPG — Voice of Cards: The Beasts of Burden no Nintendo Switch"
-bestFor: Jogadores que querem RPG em modo portátil
+whatItIs: Mesa de cartas, monstros em carta, dados e narrativa discreta.
+bestFor: Pensadores de equipe que valorizam planejamento de equipe.
 avoidIf: Evite se RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (76 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

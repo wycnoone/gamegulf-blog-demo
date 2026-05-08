@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "TUNIC: Manual, raposa e dicas indecifráveis tornam explorar sagrado; confira Japão ¥4,085"
-whatItIs: ação, aventura e quebra-cabeça — TUNIC no Nintendo Switch
-bestFor: Para quem curte Manual, raposa e dicas.
+whatItIs: 'ação, aventura, quebra-cabeça: regras de puzzle, pistas e retorno da solução.'
+bestFor: Jogadores lógicos que valorizam cadeias de pistas.
 avoidIf: Evite se ação, aventura e quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

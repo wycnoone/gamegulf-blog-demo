@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: OKAMI HD — aventure; en avril 2026, comparez les régions sur GameGulf avant d’acheter
-whatItIs: aventure — OKAMI HD sur Nintendo Switch
-bestFor: Joueurs qui veulent du aventure au format portable
+whatItIs: Pinceau céleste, Amaterasu qui réveille le monde.
+bestFor: Joueurs curieux qui valorisent l’orientation légère.
 avoidIf: À éviter si aventure ou ce rythme vous laisse froid.
 consensusPraise: Pinceau céleste et Amaterasu qui réveille le monde reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

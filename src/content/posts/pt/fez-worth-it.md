@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: FEZ — aventura e plataforma; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: aventura e plataforma — FEZ no Nintendo Switch.
-bestFor: Jogadores que querem aventura e plataforma em modo portátil.
+whatItIs: 'aventura, plataforma: exploração, interação e escolhas de rota.'
+bestFor: Buscadores de clima que valorizam descoberta ambiental.
 avoidIf: Evite se aventura e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

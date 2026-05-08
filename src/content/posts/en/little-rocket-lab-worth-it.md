@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Little Rocket Lab: Rocket parts and workshop errands set the town rhythm; check Brazil R$39.99"
-whatItIs: adventure, puzzle, role-playing — Little Rocket Lab on Nintendo Switch
-bestFor: Best if you want rocket parts and workshop errands set
+whatItIs: Rocket parts, workshop errands set the town rhythm.
+bestFor: Slow-burn solvers who value quiet deduction.
 avoidIf: Skip if adventure, puzzle, role-playing or that rhythm leaves you cold.
 consensusPraise: Rocket parts and workshop errands set the town rhythm is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

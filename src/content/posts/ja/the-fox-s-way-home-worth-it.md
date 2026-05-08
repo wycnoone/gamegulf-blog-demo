@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: The Fox's Way Home — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー — Nintendo Switch版The Fox's Way Home。
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー：狐の導きと静かな社の道。
+bestFor: 物語の手触りを重視する探索重視の人。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

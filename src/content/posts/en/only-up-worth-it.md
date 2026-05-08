@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "ONLY UP!: One missed jump and streamer panic are basically the product; check Hong Kong HK$39"
-whatItIs: action, arcade, party — ONLY UP! on Nintendo Switch
-bestFor: Best if you want one missed jump and streamer panic are
+whatItIs: 'action, arcade, party: aiming pressure, scoring routes, and short-stage loops.'
+bestFor: Reflex players who value short skill checks.
 avoidIf: Skip if action, arcade, party or that rhythm leaves you cold.
 consensusPraise: One missed jump and streamer panic are basically the product is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

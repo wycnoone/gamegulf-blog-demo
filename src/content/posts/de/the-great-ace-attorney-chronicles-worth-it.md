@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Great Ace Attorney Chronicles: Herlock-Chaos und Jury-Summations tragen Viktoria-Gerichte"
-whatItIs: Abenteuer — The Great Ace Attorney Chronicles auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Herlock-Chaos und Jury-Summations
+whatItIs: Herlock-Chaos, Jury-Summations.
+bestFor: Entdecker, die leichte Orientierung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

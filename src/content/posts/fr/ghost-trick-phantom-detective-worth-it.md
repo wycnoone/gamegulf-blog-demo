@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ghost Trick: Phantom Detective: Les tours de Sissel et sauvetages domino volent la vedette"
-whatItIs: "action et aventure — Ghost Trick: Phantom Detective sur Nintendo Switch"
-bestFor: À conseiller si Les tours de Sissel et sauvetages domino
+whatItIs: Les tours de Sissel, sauvetages domino volent la vedette.
+bestFor: Joueurs curieux qui valorisent l’orientation légère.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Les tours de Sissel et sauvetages domino volent la reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

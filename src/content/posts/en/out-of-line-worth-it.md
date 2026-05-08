@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Out of Line: San’s spear puzzles and factory melancholy define the short trip; check Brazil"
-whatItIs: action, adventure, platformer — Out of Line on Nintendo Switch
-bestFor: Best if you want san’s spear puzzles and factory melancholy
+whatItIs: Spear puzzles, factory rooms, platform timing, and a short melancholic route.
+bestFor: Stage-challenge fans who value clean level goals.
 avoidIf: Skip if action, adventure, platformer or that rhythm leaves you cold.
 consensusPraise: San’s spear puzzles and factory melancholy define the short trip is the main
 mainFriction: If the hook misses, the rhythm can feel thin

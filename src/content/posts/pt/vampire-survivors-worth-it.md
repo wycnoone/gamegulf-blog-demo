@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Vampire Survivors: Alho, chuva de gemas e evoluções na tela hipnotizam; confira Brasil R$10.99"
-whatItIs: ação e aventura — Vampire Survivors no Nintendo Switch
-bestFor: Jogadores que querem ação e aventura em modo portátil
+whatItIs: Alho, chuva de gemas, evoluçõ.
+bestFor: Jogadores curiosos que valorizam clima sem grind.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

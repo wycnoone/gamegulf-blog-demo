@@ -28,8 +28,10 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sonic Racing: CrossWorlds: CrossWorld portals keep Sonic racing; check Japan ¥7,990"
-whatItIs: "racing, sports, party — Sonic Racing: CrossWorlds on Nintendo Switch"
-bestFor: Best if you want crossWorld portals keep Sonic racing
+whatItIs: >-
+  racing, sports, party: core systems, mode structure, and input feel decide the
+  fit.
+bestFor: Reflex players who value direct feedback.
 avoidIf: Skip if racing, sports, party or that rhythm leaves you cold.
 consensusPraise: CrossWorld portals keep Sonic racing unpredictable is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

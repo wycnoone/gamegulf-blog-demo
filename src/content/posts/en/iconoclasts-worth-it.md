@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Iconoclasts: Robin’s wrench, boss phases, and family fallout give it bite; check Japan ¥2,200"
-whatItIs: action, adventure — Iconoclasts on Nintendo Switch
-bestFor: Best if you want robin’s wrench, boss phases, and family
+whatItIs: Robin’s wrench, boss phases, family fallout give it bite.
+bestFor: Route-curious players who value light navigation.
 avoidIf: Skip if action, adventure or that rhythm leaves you cold.
 consensusPraise: Robin’s wrench, boss phases, and family fallout give it bite is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

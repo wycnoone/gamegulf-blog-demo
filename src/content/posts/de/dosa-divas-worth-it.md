@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Dosa Divas: Dosa-Bestellungen und Prügeleien lassen die Küche kochen; prüfe Japan ¥2,300"
-whatItIs: Action, Abenteuer und Rollenspiel — Dosa Divas auf NS2
-bestFor: Für Spieler mit Lust auf Dosa-Bestellungen und Prügeleien
+whatItIs: Dosa-Aufträge, Küchenprügeleien, schnelle Combos und lokales Chaos.
+bestFor: Fortschrittsplaner, die Menüentscheidungen schätzen.
 avoidIf: Meiden, wenn Dosa-Bestellungen und Prügeleien lassen die dich nicht
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

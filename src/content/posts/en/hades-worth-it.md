@@ -30,9 +30,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 93 Metacritic roguelike — Japan leads indexed rows; deep sale lows stay rare.
-whatItIs: >-
-  Roguelike action RPG: Greek Underworld runs, voiced hub story, Supergiant
-  polish.
+whatItIs: Isometric escape runs, weapon aspects, Olympian boons, and Mirror upgrades.
 bestFor: Fans of short sessions with a long narrative payoff.
 avoidIf: Skip if roguelike repetition frustrates you or you need a hard stop.
 consensusPraise: Combat feel, writing, art direction, and OST rank among Switch’s best indies.

@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: スーパーマリオメーカー 2 — プラットフォーム / アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: プラットフォーム / アクション — Nintendo Switch版スーパーマリオメーカー 2。
-bestFor: プラットフォーム / アクションのテンポを携帯機で遊びたい人。
+whatItIs: プラットフォーム, アクション：ステージ進行、移動タイミング、リトライ感。
+bestFor: 練習ループを重視するリトライ好き。
 avoidIf: プラットフォーム / アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 88点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

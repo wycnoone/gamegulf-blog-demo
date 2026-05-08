@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Relayer Advanced Definitive Edition: Mechas Starchild, aggro y cuadrícula sostienen el nicho"
-whatItIs: rol y estrategia — Relayer Advanced Definitive Edition en NS2
-bestFor: Jugadores que quieren rol y estrategia en formato portátil
+whatItIs: 'rol, estrategia: planificación por turnos, recursos y control del mapa.'
+bestFor: Lectores del tablero que valoran problemas pacientes.
 avoidIf: Evítalo si rol y estrategia o ese ritmo no te llama.
 consensusPraise: Mechas Starchild, aggro y cuadrícula sostienen el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

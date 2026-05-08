@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Fox's Way Home: Fox guidance and quiet shrine paths sell the small folklore mood; check"
-whatItIs: adventure — The Fox's Way Home on Nintendo Switch
-bestFor: Best if you want fox guidance and quiet shrine paths sell
+whatItIs: Fox guidance, quiet shrine paths.
+bestFor: Atmosphere seekers who value environmental discovery.
 avoidIf: Skip if adventure or that rhythm leaves you cold.
 consensusPraise: Fox guidance and quiet shrine paths sell the small folklore mood is the main
 mainFriction: If the hook misses, the rhythm can feel thin

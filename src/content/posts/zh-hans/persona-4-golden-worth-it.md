@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Persona 4 Golden：角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 角色扮演 — Switch 版 Persona 4 Golden。
-bestFor: 喜欢稻羽雾天、社群羁绊和电视迷宫让这一年很难忘的玩家
+whatItIs: 角色扮演：角色成长、构筑选择和任务推进。
+bestFor: 喜欢成长规划的玩家，看重队伍规划。
 avoidIf: 需要强指引或不吃稻羽雾天、社群羁绊和电视迷宫让这一年很难忘就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 90 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

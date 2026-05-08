@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Nicktoons & The Dice of Destiny：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、角色扮演 — Switch 版 Nicktoons & The Dice of Destiny。
-bestFor: 喜欢尼克卡通角色嘴炮和骰子 RPG 乱斗就是卖点的玩家
+whatItIs: 尼克角色小队、骰子 RPG 节奏、乱斗关卡和装备成长。
+bestFor: 长线养成玩家，看重构筑身份。
 avoidIf: 需要强指引或不吃尼克卡通角色嘴炮和骰子 RPG 乱斗就是卖点就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

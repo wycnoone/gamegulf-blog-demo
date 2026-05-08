@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Cat Quest III: Navegar, chistes gatunos y loot rápido lo hacen ligero; revisa Japón ¥2,800"
-whatItIs: aventura y rol — Cat Quest III en Nintendo Switch
-bestFor: Jugadores que quieren aventura y rol en formato portátil
+whatItIs: 'aventura, rol: progresión, builds y rutas de misiones.'
+bestFor: Pensadores de equipo que valoran menús con peso.
 avoidIf: Evítalo si aventura y rol o ese ritmo no te llama.
 consensusPraise: Navegar, chistes gatunos y loot rápido lo hacen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

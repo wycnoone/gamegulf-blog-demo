@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BOKURA: planet: Duas telas, duas verdades: discutir é parte do coop; confira Brasil R$17.89"
-whatItIs: "ação, aventura e quebra-cabeça — BOKURA: planet no NS2"
-bestFor: Para quem curte Duas telas, duas verdades.
+whatItIs: 'ação, aventura, quebra-cabeça: regras de puzzle, pistas e retorno da solução.'
+bestFor: Leitores de pistas que valorizam dedução tranquila.
 avoidIf: Evite se ação, aventura e quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

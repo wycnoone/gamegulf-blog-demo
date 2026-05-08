@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "LEGO Voyagers: Zwei kleine Steine in großen Räumen machen Koop sanft; prüfe Japan ¥2,900"
-whatItIs: Abenteuer und Puzzle — LEGO Voyagers auf NS2
-bestFor: Für Spieler mit Lust auf Zwei kleine Steine in großen
+whatItIs: 'Abenteuer, Puzzle: Rätselregeln, Hinweisfluss und Lösungsfeedback.'
+bestFor: Puzzle-Köpfe, die Denkzeit schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Puzzle nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

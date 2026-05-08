@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Goodnight Universe — aventure; en avril 2026, comparez les régions sur GameGulf avant d’acheter
-whatItIs: aventure — Goodnight Universe sur NS2
-bestFor: Joueurs qui veulent du aventure au format portable
+whatItIs: 'aventure : exploration, interactions et choix de route.'
+bestFor: Amateurs de routes qui valorisent l’exploration guidée.
 avoidIf: À éviter si aventure ou ce rythme vous laisse froid.
 consensusPraise: Les pouvoirs du bébé Isaac tordent la vie de famille reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

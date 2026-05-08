@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: BUSTAFELLOWS：冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、角色扮演 — Switch 版 BUSTAFELLOWS。
-bestFor: 喜欢提乌塔回溯、犯罪男主团和路线刀点撑起体验的玩家
+whatItIs: 冒险、角色扮演：角色成长、构筑选择和任务推进。
+bestFor: 长线养成玩家，看重数值权衡。
 avoidIf: 需要强指引或不吃提乌塔回溯、犯罪男主团和路线刀点撑起体验就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

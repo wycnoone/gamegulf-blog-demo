@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Little Rocket Lab：冒险、解谜、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、解谜、角色扮演 — Switch 版 Little Rocket Lab。
-bestFor: 喜欢火箭零件、工坊委托和小镇修修补补撑起节奏的玩家
+whatItIs: 冒险、解谜、角色扮演：谜题规则、线索递进和解法反馈。
+bestFor: 喜欢慢慢想的玩家，看重清楚规则。
 avoidIf: 需要强指引或不吃火箭零件、工坊委托和小镇修修补补撑起节奏就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

@@ -21,7 +21,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Metacritic 92の2Dマリオ — 日本先行、年間セールほぼ無し。
-whatItIs: 横スクロール：ワンダーフラワー、ゾウ、バッジ、ローカル協力。
+whatItIs: 2Dアクション；コース変化、バッジ構成、ローカル協力。
 bestFor: 短いコースと家族協力が欲しい人。
 avoidIf: 深い史低しか買わない／2Dマリオが嫌いなら見送り。
 consensusPraise: ワンダー演出が強く、ステージが読みやすく、協力の敷居が低い。

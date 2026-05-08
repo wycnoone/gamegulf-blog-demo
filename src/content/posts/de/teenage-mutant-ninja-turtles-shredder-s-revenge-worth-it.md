@@ -27,7 +27,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Teenage Mutant Ninja Turtles: Shredder's Revenge: Pizza-Heals, Taunt-Supers; prüfe Japan ¥2,599"
 whatItIs: Action und Abenteuer
-bestFor: Für Spieler, die Pizza-Heals, Taunt-Supers reizt.
+bestFor: Stimmungsfans, die geführtes Streunen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

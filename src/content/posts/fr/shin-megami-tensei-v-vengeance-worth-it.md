@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Shin Megami Tensei V: Vengeance: Press Turn, fusion de démons et embuscades de Da’at cognent"
-whatItIs: "action, aventure et jeu de rôle — Shin Megami Tensei V: Vengeance sur Nintendo Switch"
-bestFor: À conseiller si Press Turn, fusion de démons et vous parle.
+whatItIs: Press Turn, fusion de démons, embuscades.
+bestFor: Chercheurs d’ambiance qui valorisent la découverte.
 avoidIf: À éviter si action, aventure et jeu ou ce rythme vous laisse froid.
 consensusPraise: Press Turn, fusion de démons et embuscades de Da’at reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

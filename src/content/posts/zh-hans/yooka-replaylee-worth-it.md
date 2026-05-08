@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Yooka-Replaylee：动作、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险 — NS2 版 Yooka-Replaylee。
-bestFor: 喜欢双人搭档动作、满地图收集和班卓熊 DNA 就是卖点的玩家
+whatItIs: 双人搭档动作、开放枢纽、满地图收集和 3D 平台探索。
+bestFor: 愿意找路的玩家，看重带方向的闲逛。
 avoidIf: 需要强指引或不吃双人搭档动作、满地图收集和班卓熊 DNA 就是卖点就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

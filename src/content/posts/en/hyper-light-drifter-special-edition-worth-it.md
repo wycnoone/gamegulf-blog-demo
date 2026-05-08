@@ -27,7 +27,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Hyper Light Drifter - Special Edition: Crystal foxes and dash chains haunt the wasteland; check"
 whatItIs: action, adventure, role-playing
-bestFor: Best if you want crystal foxes and dash chains haunt
+bestFor: Party planners who value quest pacing.
 avoidIf: Skip if action, adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: Crystal foxes and dash chains haunt the wasteland is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

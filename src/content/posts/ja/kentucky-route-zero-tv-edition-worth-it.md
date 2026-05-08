@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kentucky Route Zero: TV Edition — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アドベンチャー — Nintendo Switch版Kentucky Route Zero: TV Edition。"
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: 幽霊の道、劇場的な会話、借金の物語、場面選択。
+bestFor: 導線ある寄り道を重視する道探しが好きな人。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

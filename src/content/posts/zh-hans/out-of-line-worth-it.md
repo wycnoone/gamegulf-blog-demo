@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Out of Line：动作、冒险、平台跳跃；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、平台跳跃 — Switch 版 Out of Line。
-bestFor: 喜欢阿三的长矛解谜和工厂忧伤撑起这段短旅程的玩家
+whatItIs: 动作、冒险、平台跳跃：阿三的长矛解谜和工厂忧伤。
+bestFor: 爱关卡挑战的玩家，看重精准输入。
 avoidIf: 需要强指引或不吃阿三的长矛解谜和工厂忧伤撑起这段短旅程就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 71 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

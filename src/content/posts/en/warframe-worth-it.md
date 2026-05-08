@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Warframe: Bullet jumps make Warframe’s grind feel; check US $0.00"
-whatItIs: action, role-playing, shooter — Warframe on Nintendo Switch
-bestFor: Best if you want bullet jumps make Warframe’s grind feel
+whatItIs: 'action, role-playing, shooter: Bullet jumps.'
+bestFor: Arcade-minded players who value fast retries.
 avoidIf: Skip if action, role-playing, shooter or that rhythm leaves you cold.
 consensusPraise: Bullet jumps make Warframe’s grind feel airborne is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

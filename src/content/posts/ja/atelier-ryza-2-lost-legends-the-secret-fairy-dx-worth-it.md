@@ -28,7 +28,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Atelier Ryza 2: Lost Legends & the Secret Fairy DX — RPG。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "RPG — NS2版Atelier Ryza 2: Lost Legends & the Secret Fairy DX。"
+whatItIs: RPG：ライザの調合と遺跡メモ。
 bestFor: 調合・採取・長めのJRPG進行が好きで、携帯機で少しずつ進めたい人。
 avoidIf: 錬金ループや長編RPGの作業感が苦手なら、価格が近い他のRPGを優先した方が安全。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。

@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Atelier Ryza 2: Lost Legends & the Secret Fairy DX: Ryzas Synthese und Ruinen-Notizen machen"
-whatItIs: "Rollenspiel — Atelier Ryza 2: Lost Legends & the Secret Fairy DX auf NS2"
-bestFor: Für Spieler mit Lust auf Ryzas Synthese und Ruinen-Notizen
+whatItIs: Synthese-Raster, Ruinennotizen, Alchemieaufträge und Party-Kämpfe.
+bestFor: Langzeit-Aufbauer, die Fortschrittswahl schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rollenspiel nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

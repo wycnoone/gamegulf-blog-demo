@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "A Short Hike: A subida de Claire junta conchas, planar e recados aconchegantes"
-whatItIs: aventura e plataforma — A Short Hike no Nintendo Switch
-bestFor: Jogadores que querem aventura e plataforma em modo portátil
+whatItIs: 'aventura, plataforma: exploração, interação e escolhas de rota.'
+bestFor: Exploradores que valorizam descoberta ambiental.
 avoidIf: Evite se aventura e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Mega Man X Legacy Collection 2: Nostalgia X4, armaduras e esquisitices finais dividem; confira"
-whatItIs: ação — Mega Man X Legacy Collection 2 no Nintendo Switch
-bestFor: Jogadores que querem ação em modo portátil
+whatItIs: Nostalgia X4, armaduras, esquisitices finais dividem.
+bestFor: Perfis de reflexo que valorizam inputs ativos.
 avoidIf: Evite se ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (60 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

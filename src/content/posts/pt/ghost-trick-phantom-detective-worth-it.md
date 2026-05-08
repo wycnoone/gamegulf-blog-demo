@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Ghost Trick: Phantom Detective: Truques do Sissel e resgates em cadeia roubam a cena; confira"
-whatItIs: "ação e aventura — Ghost Trick: Phantom Detective no Nintendo Switch"
-bestFor: Jogadores que querem ação e aventura em modo portátil
+whatItIs: Truques do Sissel, resgates em cadeia roubam a cena.
+bestFor: Jogadores curiosos que valorizam orientação leve.
 avoidIf: Evite se ação e aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

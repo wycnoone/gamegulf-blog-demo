@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "SteamWorld Dig 2: Taladro de Dorothy, luz y minerales empujan hacia abajo; revisa Japón ¥2,000"
-whatItIs: acción, aventura y plataformas — SteamWorld Dig 2 en Nintendo Switch
+whatItIs: Taladro de Dorothy, luz, minerales.
 bestFor: Para quien conecte con Taladro de Dorothy, luz.
 avoidIf: Evítalo si acción, aventura y plataformas o ese ritmo no te llama.
 consensusPraise: Taladro de Dorothy, luz y minerales empujan hacia es el gancho más claro.

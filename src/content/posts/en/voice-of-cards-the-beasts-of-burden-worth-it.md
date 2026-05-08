@@ -27,7 +27,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Voice of Cards: The Beasts of Burden: Monster cards make the tabletop story feel strange; check"
 whatItIs: Board game, Communication, role-playing
-bestFor: Best if you want monster cards make the tabletop story feel
+bestFor: Long-tail character builders who value growth choices.
 avoidIf: Skip if board game, Communication or that rhythm leaves you cold.
 consensusPraise: Monster cards make the tabletop story feel strange is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

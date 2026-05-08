@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun: Quicksave stealth e abates sincronizados fazem patrulhas"
-whatItIs: "ação e estratégia — Shadow Tactics: Blades of the Shogun no NS2"
-bestFor: Jogadores que querem ação e estratégia em modo portátil
+whatItIs: Quicksave stealth, abates sincronizados fazem patrulhas puzzle.
+bestFor: Perfis de reflexo que valorizam ameaças legíveis.
 avoidIf: Evite se ação e estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

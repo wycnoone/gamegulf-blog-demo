@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Nickelodeon Kart Racers 2: Grand Prix：动作、街机、竞速；2026 年 4 月价格分区差值得先对照 GameGulf。"
-whatItIs: "动作、街机、竞速 — Switch 版 Nickelodeon Kart Racers 2: Grand Prix。"
-bestFor: 喜欢史莱姆捷径和卡通角色池撑起儿童派对赛车味的玩家
+whatItIs: 动作、街机、竞速：史莱姆捷径和卡通角色池。
+bestFor: 重视瞄准反馈的玩家，看重得分压力。
 avoidIf: 需要强指引或不吃史莱姆捷径和卡通角色池撑起儿童派对赛车味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 72 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

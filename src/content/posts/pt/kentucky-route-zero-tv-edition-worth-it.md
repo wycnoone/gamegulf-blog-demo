@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kentucky Route Zero: TV Edition: Estrada fantasma, dívida e ritmo teatral ficam; confira"
-whatItIs: "aventura — Kentucky Route Zero: TV Edition no Nintendo Switch"
-bestFor: Jogadores que querem aventura em modo portátil
+whatItIs: Estrada fantasma, diálogos teatrais, dívida e escolhas de cena.
+bestFor: Buscadores de clima que valorizam orientação leve.
 avoidIf: Evite se aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Forrader Hero：动作、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险 — Switch 版 Forrader Hero。
-bestFor: 喜欢一步一选择、算路线和贪奖励就是 Forrader 的钩子的玩家
+whatItIs: 一步一格的地牢路线、资源取舍、奖励贪心和风险计算。
+bestFor: 探索优先的玩家，看重故事氛围。
 avoidIf: 需要强指引或不吃一步一选择、算路线和贪奖励就是 Forrader 的钩子就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Stanley Parable: Ultra Deluxe: Narrador, cubo sagrado y puertas equivocadas son el punto"
-whatItIs: "aventura — The Stanley Parable: Ultra Deluxe en Nintendo Switch"
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: Narrador, cubo sagrado, puertas equivocadas.
+bestFor: Exploradores que valoran descubrimiento ambiental.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: Narrador, cubo sagrado y puertas equivocadas son el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

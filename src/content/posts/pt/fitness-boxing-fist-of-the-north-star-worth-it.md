@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Fitness Boxing Fist of the North Star: Socos Hokuto transformam exercício em motivação anime"
-whatItIs: esportes e música — Fitness Boxing Fist of the North Star no Nintendo Switch
-bestFor: Jogadores que querem esportes e música em modo portátil
+whatItIs: 'esportes, música: sistemas, modos e sensação de controle definem o encaixe.'
+bestFor: Compradores prudentes que valorizam expectativas claras.
 avoidIf: Evite se esportes e música ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

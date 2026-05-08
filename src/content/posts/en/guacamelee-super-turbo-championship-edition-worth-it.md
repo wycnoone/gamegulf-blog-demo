@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Guacamelee! Super Turbo Championship Edition: Dimension swaps give Guacamelee its punchline"
-whatItIs: action, platformer — Guacamelee! Super Turbo Championship Edition on Nintendo Switch
-bestFor: Best if you want dimension swaps give Guacamelee its
+whatItIs: 'action, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Precision players who value fair retries.
 avoidIf: Skip if action, platformer or that rhythm leaves you cold.
 consensusPraise: Dimension swaps give Guacamelee its punchline is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -36,6 +36,7 @@ export type DecisionSearchIndex = {
   title: string;
   tags: string[];
   quickFilters: string[];
+  otherPlatformLabels?: string[];
   listingTakeaway: string;
   communityVibe?: string;
   playtime?: string;
@@ -69,7 +70,10 @@ export type DecisionCardBase = {
   tags: string[];
   quickFilters: QuickFilterKey[];
   actionBucket: ActionBucket;
+  hasOtherPlatforms?: boolean;
+  otherPlatformLabels?: string[];
   featuredPriority: number;
+  metacriticScore?: number;
   publishedAt: string;
   updatedAt?: string;
   readingTime: string;

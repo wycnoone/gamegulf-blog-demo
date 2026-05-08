@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Relayer Advanced Definitive Edition: Starchild-Mechs, Aggro-Linien und Grid-Kämpfe tragen"
-whatItIs: Rollenspiel und Strategie — Relayer Advanced Definitive Edition auf NS2
-bestFor: Für Spieler, die Starchild-Mechs, Aggro-Linien reizt.
+whatItIs: 'Rollenspiel, Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Geduldige Entscheider, die Planungsfenster schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rollenspiel und Strategie nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

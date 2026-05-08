@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BUSTAFELLOWS : Les retours de Teuta et les routes ; vérifiez Brésil R$203.95"
-whatItIs: aventure et jeu de rôle — BUSTAFELLOWS sur Nintendo Switch
-bestFor: Pour qui accroche à Les retours de Teuta.
+whatItIs: Les retours de Teuta, les routes criminelles.
+bestFor: Explorateurs qui valorisent la découverte.
 avoidIf: À éviter si aventure et jeu de rôle ou ce rythme vous laisse froid.
 consensusPraise: Les retours de Teuta et les routes criminelles portent reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

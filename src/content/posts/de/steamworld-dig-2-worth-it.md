@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "SteamWorld Dig 2: Dorothys Bohrer, Lichtweite und Erz-Gier ziehen tiefer; prüfe Japan ¥2,000"
-whatItIs: Action, Abenteuer und Plattformer — SteamWorld Dig 2 auf Nintendo Switch
-bestFor: Für Spieler, die Dorothys Bohrer, Lichtweite reizt.
+whatItIs: Dorothys Bohrer, Lichtreichweite, Erzpfade und Metroidvania-Upgrades.
+bestFor: Level-Challenge-Fans, die faire Retries schätzen.
 avoidIf: Meiden, wenn Dorothys Bohrer, Lichtweite und Erz-Gier dich nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

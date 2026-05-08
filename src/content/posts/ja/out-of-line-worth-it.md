@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Out of Line — アクション / アドベンチャー / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / プラットフォーム — Nintendo Switch版Out of Line。
-bestFor: アクション / アドベンチャー / プラットフォームのテンポを携帯機で遊びたい人。
+whatItIs: アクション / アドベンチャー / プラットフォーム：サンの槍パズルと工場の寂しさ。
+bestFor: 納得できるリトライを重視するリトライ好き。
 avoidIf: アクション / アドベンチャー / プラットフォームの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 71点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

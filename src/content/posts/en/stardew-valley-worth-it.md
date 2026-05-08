@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Stardew Valley: Farm chores, town hearts, and one more day quietly eat hours; check Brazil"
-whatItIs: role-playing, simulation — Stardew Valley on Nintendo Switch
-bestFor: Best if you want farm chores, town hearts, and one more day
+whatItIs: 'role-playing, simulation: daily routines, upgrade loops, and long-tail goals.'
+bestFor: Systems players who value long-tail goals.
 avoidIf: Skip if role-playing, simulation or that rhythm leaves you cold.
 consensusPraise: Farm chores, town hearts, and one more day quietly eat hours is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

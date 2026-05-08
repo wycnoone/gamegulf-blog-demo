@@ -23,7 +23,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Japan near ~€5.77 tracked low; sales hit often — portable RPG pick if fit is clear
 whatItIs: "Indie RPG: rhythm-timed bullet dodges, mercy-or-fight choices, route-based endings"
-bestFor: Best if you want mercy choices, Sans memes, and spoiler
+bestFor: Slow-burn solvers who value earned solutions.
 avoidIf: You want open-world grind, voice acting, or chill-only combat
 consensusPraise: Route replay, soundtrack, and combat readability still anchor its reputation
 mainFriction: Back-to-back route runs can feel repetitive if jokes do not land for you

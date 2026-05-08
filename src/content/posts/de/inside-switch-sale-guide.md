@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "INSIDE: Junge, Hunde, Wasser und stumme Angst tragen den Abstieg; prüfe Brasilien R$72.99"
-whatItIs: Abenteuer, Puzzle und Action — INSIDE auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Junge, Hunde, Wasser und stumme
+whatItIs: Junge, Hunde, Wasser, stumme Angst.
+bestFor: Puzzle-Köpfe, die Denkzeit schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer, Puzzle und Action nicht reizt
 consensusPraise: Das Kritikerband (91 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte
@@ -130,7 +130,6 @@ Zur **Rabatt**-Historie: Die **2026**-Daten bleiben hier der Maßstab; die konkr
 ## Wie viel kostet INSIDE auf Nintendo Switch gerade?
 
 **GameGulf** ist hier nützlich, weil günstige Regionen und Listenpreis-Zonen weit auseinanderliegen können. Die Tabelle unten ist der regionale Snapshot aus den Metadaten; öffne vor dem Kauf trotzdem [GameGulf](https://www.gamegulf.com/detail/2GhXVp3lBzO#currency-price).
-
 
 
 | Region | Preis (in EUR umgerechnet) | Originalpreis |

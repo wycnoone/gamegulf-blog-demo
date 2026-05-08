@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "POOL ROOM BILLIARD: Angle reads, soft shots, and local-table mood are the appeal; check Hong"
-whatItIs: Board game, simulation, sports — POOL ROOM BILLIARD on NS2
-bestFor: Best if you want angle reads, soft shots, and local-table
+whatItIs: >-
+  Board game, simulation, sports: daily routines, upgrade loops, and long-tail
+  goals.
+bestFor: Routine builders who value repeatable chores.
 avoidIf: Skip if board game, simulation, sports or that rhythm leaves you cold.
 consensusPraise: Angle reads, soft shots, and local-table mood are the appeal is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

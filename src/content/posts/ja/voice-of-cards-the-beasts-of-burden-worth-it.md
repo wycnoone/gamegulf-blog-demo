@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Voice of Cards 囚われの魔物 — RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: RPG — Nintendo Switch版Voice of Cards 囚われの魔物。
-bestFor: RPGのテンポを携帯機で遊びたい人。
+whatItIs: RPG：カード卓演出と魔物カード。
+bestFor: クエストの歩幅を重視するビルド重視のRPG好き。
 avoidIf: RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 76点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

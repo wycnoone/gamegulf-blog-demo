@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Warframe: Bullet Jumps, Frame-Farm und Mod-Mathe sind das Tutorial; prüfe USA $0.00"
-whatItIs: Action, Rollenspiel und Shooter — Warframe auf Nintendo Switch
-bestFor: Für Spieler, die Bullet Jumps, Frame-Farm reizt.
+whatItIs: 'Action, Rollenspiel, Shooter: Fortschritt, Builds und Quest-Routen.'
+bestFor: Arcade-Spieler, die schnelle Retries schätzen.
 avoidIf: Meiden, wenn Bullet Jumps, Frame-Farm und Mod-Mathe sind dich nicht
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

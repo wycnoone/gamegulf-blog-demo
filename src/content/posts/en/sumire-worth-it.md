@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Sumire: One day, flower promises, and small regrets give Sumire its ache; check Japan ¥990"
-whatItIs: adventure, Communication, Lifestyle — Sumire on Nintendo Switch
-bestFor: Best if you want one day, flower promises, and small
+whatItIs: One day, flower promises, small regrets give its ache.
+bestFor: Route-curious players who value atmosphere over grind.
 avoidIf: Skip if adventure, Communication or that rhythm leaves you cold.
 consensusPraise: One day, flower promises, and small regrets give Sumire its ache is the main
 mainFriction: If the hook misses, the rhythm can feel thin

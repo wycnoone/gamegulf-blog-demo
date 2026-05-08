@@ -2157,6 +2157,18 @@ img {
     grid-template-columns: 1fr;
   }
 
+  .decision-latest-section {
+    padding: 0;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    box-shadow: none;
+  }
+
+  .decision-latest-section .section-head {
+    margin-bottom: 12px;
+  }
+
   .section-head {
     align-items: start;
     flex-direction: column;

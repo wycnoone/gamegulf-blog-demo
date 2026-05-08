@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 斑鳩 — アクション / アーケード / シューティング。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アーケード / シューティング — Nintendo Switch版斑鳩。
-bestFor: アクション / アーケード / シューティングのテンポを携帯機で遊びたい人。
+whatItIs: アクション, アーケード, シューティング：エイム圧、スコアルート、短い面の反復。
+bestFor: 短い技能チェックを重視する反射神経派。
 avoidIf: アクション / アーケード / シューティングの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 88点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

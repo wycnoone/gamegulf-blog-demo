@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "There Is No Game: Wrong Dimension: Discutir com o jogo e quebrar a UI é a piada"
-whatItIs: "aventura, — There Is No Game: Wrong Dimension no Nintendo Switch"
-bestFor: Para quem curte Discutir com o jogo e quebrar.
+whatItIs: >-
+  aventura, quebra-cabeça, simulação: regras de puzzle, pistas e retorno da
+  solução.
+bestFor: Leitores de pistas que valorizam tempo para pensar.
 avoidIf: Evite se Discutir com o jogo e quebrar a UI é a piada não te chama
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

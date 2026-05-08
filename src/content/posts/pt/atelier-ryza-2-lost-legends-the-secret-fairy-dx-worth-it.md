@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Atelier Ryza 2: Lost Legends & the Secret Fairy DX: Síntese da Ryza e ruínas fazem o craft"
-whatItIs: "RPG — Atelier Ryza 2: Lost Legends & the Secret Fairy DX no NS2"
-bestFor: Jogadores que querem RPG em modo portátil
+whatItIs: Síntese da Ryza, notas de ruínas, alquimia e combates de grupo.
+bestFor: Pensadores de equipe que valorizam trocas de atributos.
 avoidIf: Evite se RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

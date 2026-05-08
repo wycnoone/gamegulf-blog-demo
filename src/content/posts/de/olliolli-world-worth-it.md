@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "OlliOlli World: Manual-Ketten, Skate-Götter und schnelle Restarts ziehen; prüfe Hongkong HK$156"
-whatItIs: Arcade, Shooter und Plattformer — OlliOlli World auf Nintendo Switch
-bestFor: Für Spieler, die Manual-Ketten, Skate-Götter reizt.
+whatItIs: 'Arcade, Shooter, Plattformer: Level-Fluss, Bewegungstiming und Retry-Rhythmus.'
+bestFor: Präzisionsspieler, die faire Retries schätzen.
 avoidIf: Meiden, wenn Manual-Ketten, Skate-Götter und schnelle dich nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

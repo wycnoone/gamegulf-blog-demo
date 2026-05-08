@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Vampire Survivors: Ajo, gemas y evoluciones que llenan pantalla hipnotizan"
-whatItIs: acción y aventura — Vampire Survivors en Nintendo Switch
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Ajo, gemas, evoluciones que llenan pantalla hipnotizan.
+bestFor: Jugadores de rutas que valoran orientación ligera.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Ajo, gemas y evoluciones que llenan pantalla es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

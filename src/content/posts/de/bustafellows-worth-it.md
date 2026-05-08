@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BUSTAFELLOWS: Teutas Rückspulen und Crime-Routen tragen das Drama; prüfe Brasilien R$203.95"
-whatItIs: Abenteuer und Rollenspiel — BUSTAFELLOWS auf Nintendo Switch
-bestFor: Für Spieler, die Teutas Rückspulen und Crime-Routen reizt.
+whatItIs: 'Abenteuer, Rollenspiel: Fortschritt, Builds und Quest-Routen.'
+bestFor: Langzeit-Aufbauer, die Fortschrittswahl schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Rollenspiel nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

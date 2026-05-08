@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Voice of Cards: The Beasts of Burden: Table de cartes et monstres donnent un Yoko Taro feutré"
-whatItIs: "jeu de rôle — Voice of Cards: The Beasts of Burden sur Nintendo Switch"
-bestFor: Joueurs qui veulent du jeu de rôle au format portable
+whatItIs: Table de cartes, monstres-cartes, dés et récit feutré.
+bestFor: Acheteurs anti-FOMO qui préfèrent le goût avant la hype.
 avoidIf: À éviter si jeu de rôle ou ce rythme vous laisse froid.
 consensusPraise: Table de cartes et monstres donnent un Yoko Taro reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

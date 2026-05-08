@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sid Meier's Civilization VII: Zeitalterwechsel, Diplomatie und Noch-ein-Zug entscheiden"
-whatItIs: Strategie und Simulation — Sid Meier's Civilization VII auf Nintendo Switch
-bestFor: Für Spieler, die Zeitalterwechsel, Diplomatie reizt.
+whatItIs: 'Strategie, Simulation: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Geduldige Entscheider, die klare Kompromisse schätzen.
 avoidIf: Auslassen, wenn dich der Mix Strategie und Simulation nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

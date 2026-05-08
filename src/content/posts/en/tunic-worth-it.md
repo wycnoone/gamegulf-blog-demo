@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "TUNIC: Manual pages make the fox secrets feel sacred; check Japan ¥4,085 before buying"
-whatItIs: action, adventure, puzzle — TUNIC on Nintendo Switch
-bestFor: Best if you want manual pages make the fox secrets feel
+whatItIs: 'action, adventure, puzzle: Manual pages.'
+bestFor: Slow-burn solvers who value thinking time.
 avoidIf: Skip if action, adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Manual pages make the fox secrets feel sacred is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

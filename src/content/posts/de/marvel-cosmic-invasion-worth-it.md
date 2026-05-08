@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "MARVEL Cosmic Invasion: Tag-Team-Helden und Arcade-Mobs liefern Comic-Prügelei; prüfe USA $29.99"
-whatItIs: Action, Arcade und Kampfspiel — MARVEL Cosmic Invasion auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Tag-Team-Helden und Arcade-Mobs
+whatItIs: 'Action, Arcade, Kampfspiel: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Reflexspieler, die Score-Druck schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Arcade und Kampfspiel nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -20,7 +20,7 @@ actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 78 Metacritic cozy cat sandbox; good current value, deeper lows do exist
 whatItIs: Open-city cat adventure with light quests, traversal toys, and hat collection
-bestFor: Best if you want cat hats and knocking things down are
+bestFor: Exploration-first players who value environmental discovery.
 avoidIf: Skip if you need deep combat systems or a long RPG arc
 consensusPraise: Charming animation, readable city layout, and consistently playful tone
 mainFriction: The main arc is short, and mission complexity stays intentionally light

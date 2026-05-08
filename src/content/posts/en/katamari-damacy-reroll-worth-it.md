@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Katamari Damacy REROLL: Sticky junk, royal scolding, and size spikes make rolling absurd; check"
-whatItIs: action, arcade — Katamari Damacy REROLL on Nintendo Switch
-bestFor: Best if you want sticky junk, royal scolding, and size
+whatItIs: 'action, arcade: aiming pressure, scoring routes, and short-stage loops.'
+bestFor: Arcade-minded players who value execution tests.
 avoidIf: Skip if action, arcade or that rhythm leaves you cold.
 consensusPraise: Sticky junk, royal scolding, and size spikes make rolling absurd is the main
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Mini Metro: Eine neue Station ruiniert den schönsten U-Bahn-Plan; prüfe Japan ¥1,100"
-whatItIs: Puzzle, Simulation und Action — Mini Metro auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Eine neue Station ruiniert den
+whatItIs: 'Puzzle, Simulation, Action: Rätselregeln, Hinweisfluss und Lösungsfeedback.'
+bestFor: Puzzle-Köpfe, die klare Regeln schätzen.
 avoidIf: Auslassen, wenn dich der Mix Puzzle, Simulation und Action nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

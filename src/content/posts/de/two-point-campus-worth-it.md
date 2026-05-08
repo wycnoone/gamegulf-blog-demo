@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Two Point Campus: Absurde Kurse, Studentenlaune und Raumplanung tragen; prüfe Hongkong HK$238"
-whatItIs: Strategie — Two Point Campus auf Nintendo Switch
-bestFor: Für Spieler, die Absurde Kurse, Studentenlaune reizt.
+whatItIs: 'Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Planer, die geduldige Probleme schätzen.
 avoidIf: Auslassen, wenn dich der Mix Strategie nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

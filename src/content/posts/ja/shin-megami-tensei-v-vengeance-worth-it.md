@@ -32,8 +32,8 @@ featuredPriority: 2
 listingTakeaway: >-
   Shin Megami Tensei V: Vengeance — アクション / アドベンチャー /
   RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: "アクション / アドベンチャー / RPG — Nintendo Switch版Shin Megami Tensei V: Vengeance。"
-bestFor: アクション / アドベンチャー / RPGのテンポを携帯機で遊びたい人。
+whatItIs: プレスターン、悪魔合体、ダアト探索、奇襲戦で進む高難度RPG。
+bestFor: ビルドの個性を重視する長期育成派。
 avoidIf: アクション / アドベンチャー / RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

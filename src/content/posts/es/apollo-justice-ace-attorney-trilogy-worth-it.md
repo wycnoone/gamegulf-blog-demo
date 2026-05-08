@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Apollo Justice: Ace Attorney Trilogy: El brazalete de Apollo y los giros de juicio sostienen"
-whatItIs: "aventura — Apollo Justice: Ace Attorney Trilogy en Nintendo Switch"
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: El brazalete de Apollo, los giros de juicio.
+bestFor: Exploradores que valoran textura narrativa.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: El brazalete de Apollo y los giros de juicio es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

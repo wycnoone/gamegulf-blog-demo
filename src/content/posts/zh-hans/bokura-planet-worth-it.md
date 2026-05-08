@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BOKURA: planet：动作、冒险、解谜；2026 年 4 月价格分区差值得先对照 GameGulf。"
-whatItIs: "动作、冒险、解谜 — NS2 版 BOKURA: planet。"
-bestFor: 喜欢双人看到的世界不同，吵着沟通才是 BOKURA 的招牌的玩家
+whatItIs: 动作、冒险、解谜：战斗节奏、移动手感和遭遇设计。
+bestFor: 爱解谜的玩家，看重低噪音挑战。
 avoidIf: 需要强指引或不吃双人看到的世界不同，吵着沟通才是 BOKURA 的招牌就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

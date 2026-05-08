@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "OlliOlli World : Manuals, dieux skate bizarres ; vérifiez Hong Kong HK$156"
-whatItIs: arcade, tir et plates-formes — OlliOlli World sur Nintendo Switch
-bestFor: À conseiller si Manuals, dieux skate bizarres et restart
+whatItIs: 'arcade, tir, plates-formes : pression de visée, scoring et boucles courtes.'
+bestFor: Joueurs réflexes qui valorisent le feedback direct.
 avoidIf: À éviter si arcade, tir et plates-formes ou ce rythme vous laisse froid.
 consensusPraise: Manuals, dieux skate bizarres et restart rapide reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

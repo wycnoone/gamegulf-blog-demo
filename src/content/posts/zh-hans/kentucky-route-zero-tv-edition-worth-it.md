@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 肯塔基零号公路：TV 版：冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险 — Switch 版 肯塔基零号公路：TV 版。
-bestFor: 喜欢幽灵公路、债务和舞台剧节奏让余味很长的玩家
+whatItIs: 幽灵公路、舞台式对话、债务主题和场景选择。
+bestFor: 愿意找路的玩家，看重少刷多逛。
 avoidIf: 需要强指引或不吃幽灵公路、债务和舞台剧节奏让余味很长就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

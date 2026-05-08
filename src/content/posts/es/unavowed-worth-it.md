@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Unavowed: Demonios, compañeros y Nueva York ocultista sostienen; revisa Brasil R$27.99"
-whatItIs: aventura, puzle y rol — Unavowed en Nintendo Switch
-bestFor: Recomendable si te atrae Demonios, compañeros y Nueva York.
+whatItIs: Demonios, compañeros, Nueva York ocultista.
+bestFor: Jugadores lógicos que valoran cadenas de pistas.
 avoidIf: Evítalo si aventura, puzle y rol o ese ritmo no te llama.
 consensusPraise: Demonios, compañeros y Nueva York ocultista es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región
@@ -130,7 +130,6 @@ Historial de **descuentos / ofertas**: los datos de **2026** son la referencia d
 ## ¿Cuánto cuesta Unavowed en Nintendo Switch ahora?
 
 **GameGulf** importa aquí porque la fila barata y las zonas de precio completo pueden estar muy separadas. La tabla siguiente sale de los metadatos del artículo; úsala como foto regional y abre [GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price) antes de comprar.
-
 
 
 | Región | Precio (equivalente en EUR) | Precio nativo |

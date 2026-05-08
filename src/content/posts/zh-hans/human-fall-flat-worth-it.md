@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 人类一败涂地：冒险、平台跳跃、解谜；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、平台跳跃、解谜 — Switch 版 人类一败涂地。
+whatItIs: 冒险、平台跳跃、解谜：软手抓墙和队友把简单计划搞砸。
 bestFor: 想要沙雕物理解谜、多人联机互坑和短关卡的人。
 avoidIf: 你想要精准跳台、严格单人流程，或受不了故意软绵绵的操作。
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 65 分 可作质量锚点。

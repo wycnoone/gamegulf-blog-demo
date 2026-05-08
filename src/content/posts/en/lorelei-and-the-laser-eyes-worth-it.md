@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Lorelei and the Laser Eyes: Hotel codes, red herrings, and notebook pages demand obsession"
-whatItIs: puzzle, adventure — Lorelei and the Laser Eyes on Nintendo Switch
-bestFor: Best if you want hotel codes, red herrings, and notebook
+whatItIs: 'puzzle, adventure: puzzle rules, clue flow, and solution feedback.'
+bestFor: Slow-burn solvers who value clean rules.
 avoidIf: Skip if puzzle, adventure or that rhythm leaves you cold.
 consensusPraise: Hotel codes, red herrings, and notebook pages demand obsession is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

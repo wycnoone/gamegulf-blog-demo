@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Great Ace Attorney Chronicles: Herlock chaos makes the Victorian courtroom sing; check"
-whatItIs: adventure — The Great Ace Attorney Chronicles on Nintendo Switch
-bestFor: Best if you want herlock chaos makes the Victorian
+whatItIs: Courtroom deductions, Dance of Deduction scenes, jury summations, and case logic.
+bestFor: Discovery-minded players who value light navigation.
 avoidIf: Skip if adventure or that rhythm leaves you cold.
 consensusPraise: Herlock chaos makes the Victorian courtroom sing is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

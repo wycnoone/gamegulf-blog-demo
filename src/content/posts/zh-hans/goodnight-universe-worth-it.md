@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Goodnight Universe：冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险 — NS2 版 Goodnight Universe。
-bestFor: 喜欢婴儿艾萨克的超能力把家庭日常搅成怪喜剧的玩家
+whatItIs: 婴儿超能力、家庭场景、分支反应和怪喜剧节奏。
+bestFor: 探索优先的玩家，看重少刷多逛。
 avoidIf: 需要强指引或不吃婴儿艾萨克的超能力把家庭日常搅成怪喜剧就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

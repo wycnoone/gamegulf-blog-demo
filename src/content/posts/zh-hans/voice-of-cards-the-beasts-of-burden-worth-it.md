@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 卡牌之声：被囚的魔物：角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 角色扮演 — Switch 版 卡牌之声：被囚的魔物。
-bestFor: 喜欢桌游卡牌演出和怪物卡让横尾味变得很安静的玩家
+whatItIs: 角色扮演：角色成长、构筑选择和任务推进。
+bestFor: 爱研究配队的玩家，看重菜单决策。
 avoidIf: 需要强指引或不吃桌游卡牌演出和怪物卡让横尾味变得很安静就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 76 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

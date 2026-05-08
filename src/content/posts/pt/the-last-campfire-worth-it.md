@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Last Campfire: Puzzles dos perdidos e a lanterna de Ember suavizam; confira Japão ¥1,480"
-whatItIs: aventura e quebra-cabeça — The Last Campfire no Nintendo Switch
-bestFor: Para quem curte Puzzles dos perdidos e a lanterna.
+whatItIs: Puzzles de lanterna, dioramas pequenos, perdidos resgatados e exploração suave.
+bestFor: Jogadores lógicos que valorizam cadeias de pistas.
 avoidIf: Evite se aventura e quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (83 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 宇宙之轮姐妹会：冒险、模拟；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、模拟 — Switch 版 宇宙之轮姐妹会。
-bestFor: 喜欢自制塔罗、女巫流放和政治交易让故事很锋利的玩家
+whatItIs: 冒险、模拟：探索推进、互动规则和路线选择。
+bestFor: 系统型玩家，看重温和规划。
 avoidIf: 需要强指引或不吃自制塔罗、女巫流放和政治交易让故事很锋利就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

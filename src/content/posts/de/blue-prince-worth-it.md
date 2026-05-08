@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Blue Prince: Raumdrafts und Herrenhauslogik machen jeden Grundriss spannend"
-whatItIs: Abenteuer und Puzzle — Blue Prince auf NS2
-bestFor: Für Spieler mit Lust auf Raumdrafts und Herrenhauslogik
+whatItIs: Raumdrafts, Herrenhauslogik.
+bestFor: Puzzle-Köpfe, die Denkzeit schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Puzzle nicht reizt
 consensusPraise: Das Kritikerband (92 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

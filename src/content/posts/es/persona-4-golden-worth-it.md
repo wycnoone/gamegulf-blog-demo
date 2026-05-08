@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Persona 4 Golden — rol; en abril de 2026 conviene comparar regiones en GameGulf antes de pagar
-whatItIs: rol — Persona 4 Golden en Nintendo Switch
-bestFor: Jugadores que quieren rol en formato portátil
+whatItIs: Rutina de Inaba, vínculos sociales, mazmorras TV y combates Persona.
+bestFor: Fans de builds RPG que prefieren menús con peso.
 avoidIf: Evítalo si rol o ese ritmo no te llama.
 consensusPraise: Niebla de Inaba, vínculos y mazmorras TV quedan es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Brightstone Mysteries: The Others: Objetos ocultos e indicios de mansión sostienen el misterio"
-whatItIs: "aventura y puzle — Brightstone Mysteries: The Others en Nintendo Switch"
-bestFor: Jugadores que quieren aventura y puzle en formato portátil
+whatItIs: Objetos ocultos, indicios de mansión.
+bestFor: Lectores de pistas que valoran reglas claras.
 avoidIf: Evítalo si aventura y puzle o ese ritmo no te llama.
 consensusPraise: Objetos ocultos e indicios de mansión sostienen el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

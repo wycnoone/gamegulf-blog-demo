@@ -32,9 +32,7 @@ featuredPriority: 2
 listingTakeaway: >-
   Tática Nintendo — Japão lidera o índice; há promoções mas raro repetir o fundo
   de dez. 2025.
-whatItIs: >-
-  Aventura tática em esquadrão — Pikmin coloridos, Oatchi, mapas noturnos,
-  Dandori.
+whatItIs: Exploração de cima, esquadras Pikmin, Oatchi, rotas noturnas e Dandori local.
 bestFor: Quem otimiza rotas de transporte em vez de reflexos puros.
 avoidIf: Queres ação sem pausa ou odeias gerir unidades frágeis.
 consensusPraise: Arte cativante, objetivos claros, arrumação forte quando as rotas encaixam.

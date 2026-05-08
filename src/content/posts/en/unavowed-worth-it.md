@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Unavowed: Demon cases, companion choices, and New York occult noir sell it; check Brazil"
-whatItIs: adventure, puzzle, role-playing — Unavowed on Nintendo Switch
-bestFor: Best if you want demon cases, companion choices, and New
+whatItIs: Demon cases, companion choices, New York occult noir.
+bestFor: Slow-burn solvers who value earned solutions.
 avoidIf: Skip if adventure, puzzle, role-playing or that rhythm leaves you cold.
 consensusPraise: Demon cases, companion choices, and New York occult noir sell it is the main
 mainFriction: If the hook misses, the rhythm can feel thin
@@ -130,7 +130,6 @@ Tracked **discount** history / sale context: **2026** data remains the reference
 ## How much does Unavowed cost on Nintendo Switch right now?
 
 **GameGulf** is useful here because the lowest indexed row and the MSRP-style rows can be far apart. The table below comes from the article metadata; use it as a regional snapshot, then open [GameGulf](https://www.gamegulf.com/detail/kxyrmTE8vZE#currency-price) before buying.
-
 
 
 | Region | Price (USD equivalent) | Native price |

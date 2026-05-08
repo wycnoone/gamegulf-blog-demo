@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Xenoblade Chronicles 3: Ouroboros, clases y cadenas sostienen la saga; revisa Hong Kong HK$329"
-whatItIs: JRPG de mundo abierto con combate en tiempo real, clases y 60 h+ de historia
+whatItIs: 'JRPG en tiempo real con autoataques: progresión, builds y rutas de misiones.'
 bestFor: Para fans de JRPG que buscan mundo grande y combate profundo
 avoidIf: Evítalo si buscas sesiones cortas; arranca despacio y exige 60 h+.
 consensusPraise: La escala, el combate y las clases flexibles sostienen la aventura

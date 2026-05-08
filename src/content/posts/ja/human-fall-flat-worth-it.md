@@ -30,7 +30,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: ヒューマン フォール フラット — アドベンチャー / プラットフォーム / パズル。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / プラットフォーム / パズル — Nintendo Switch版ヒューマン フォール フラット。
+whatItIs: アドベンチャー / プラットフォーム / パズル：ふにゃふにゃ掴みと仲間の失敗。
 bestFor: ぐにゃぐにゃ物理パズル、短い夢ステージ、オンライン協力の事故感を楽しみたい人。
 avoidIf: 精密なジャンプ操作、完全ソロ前提の構成、きびきびした操作感を求めるなら合いにくい。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 65点台が品質の目安。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 墨西哥英雄大混战！2：动作、平台跳跃；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、平台跳跃 — Switch 版 墨西哥英雄大混战！2。
-bestFor: 喜欢鸡形态、摔角连段和梗图传送门让它特别吵闹的玩家
+whatItIs: 动作、平台跳跃：关卡推进、移动节奏和重试手感。
+bestFor: 爱关卡挑战的玩家，看重公平重试。
 avoidIf: 需要强指引或不吃鸡形态、摔角连段和梗图传送门让它特别吵闹就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

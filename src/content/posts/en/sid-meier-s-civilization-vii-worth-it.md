@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sid Meier's Civilization VII: Age shifts decide the next one-more-turn; check Japan ¥8,800"
-whatItIs: strategy, simulation — Sid Meier's Civilization VII on Nintendo Switch
-bestFor: Best if you want age shifts decide the next one-more-turn
+whatItIs: 'strategy, simulation: turn planning, resource pressure, and map control.'
+bestFor: Careful decision-makers who value patient problem-solving.
 avoidIf: Skip if strategy, simulation or that rhythm leaves you cold.
 consensusPraise: Age shifts decide the next one-more-turn argument is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

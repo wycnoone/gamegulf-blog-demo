@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Blue Prince: Drafted rooms make every mansion floor plan; check Brazil R$88.99"
-whatItIs: adventure, puzzle — Blue Prince on NS2
-bestFor: Best if you want drafted rooms make every mansion floor
+whatItIs: Room drafting, floor-plan logic, estate clues, and run-by-run mansion routes.
+bestFor: Puzzle-minded players who value thinking time.
 avoidIf: Skip if adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Drafted rooms make every mansion floor plan a debate is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

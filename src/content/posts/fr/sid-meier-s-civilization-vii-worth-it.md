@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sid Meier's Civilization VII: Âges, diplomatie et “un tour de plus” décideront le débat"
-whatItIs: stratégie et simulation — Sid Meier's Civilization VII sur Nintendo Switch
-bestFor: Pour qui accroche à Âges, diplomatie et “un tour.
+whatItIs: >-
+  stratégie, simulation : planification des tours, ressources et contrôle de
+  carte.
+bestFor: Lecteurs de situation qui valorisent la planification.
 avoidIf: À éviter si stratégie et simulation ou ce rythme vous laisse froid.
 consensusPraise: Âges, diplomatie et “un tour de plus” décideront le reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

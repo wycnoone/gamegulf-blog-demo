@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Super Pixel Racers: Top-down drifts make pixel crashes personal; check Japan ¥1,507"
-whatItIs: racing — Super Pixel Racers on Nintendo Switch
-bestFor: Best if you want top-down drifts make pixel crashes
+whatItIs: 'racing: core systems, mode structure, and input feel decide the fit.'
+bestFor: Reflex players who value execution tests.
 avoidIf: Skip if racing or that rhythm leaves you cold.
 consensusPraise: Top-down drifts make pixel crashes personal is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

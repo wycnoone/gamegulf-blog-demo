@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Brightstone Mysteries: The Others：冒险、解谜；2026 年 4 月价格分区差值得先对照 GameGulf。"
-whatItIs: "冒险、解谜 — Switch 版 Brightstone Mysteries: The Others。"
-bestFor: 喜欢找物件、宅邸线索和老派悬疑氛围才是卖点的玩家
+whatItIs: 冒险、解谜：找物件、宅邸线索和老派悬疑氛围。
+bestFor: 爱解谜的玩家，看重低噪音挑战。
 avoidIf: 需要强指引或不吃找物件、宅邸线索和老派悬疑氛围才是卖点就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

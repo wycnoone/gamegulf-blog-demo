@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun: Guardar rápido convierte cada patrulla en puzzle; revisa"
-whatItIs: "acción y estrategia — Shadow Tactics: Blades of the Shogun en NS2"
-bestFor: Recomendable si te atrae Guardar rápido convierte cada.
+whatItIs: 'acción, estrategia: planificación por turnos, recursos y control del mapa.'
+bestFor: Lectores del tablero que valoran compromisos claros.
 avoidIf: Evítalo si acción y estrategia o ese ritmo no te llama.
 consensusPraise: Guardar rápido convierte cada patrulla en puzzle es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

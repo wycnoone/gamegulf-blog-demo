@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Super Pixel Racers — レース。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: レース — Nintendo Switch版Super Pixel Racers。
-bestFor: レースのテンポを携帯機で遊びたい人。
+whatItIs: レース：見下ろしドリフトと小さな衝突の因縁。
+bestFor: 短い技能チェックを重視するアーケード派。
 avoidIf: レースの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

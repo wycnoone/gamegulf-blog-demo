@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Death's Door — アクション / アドベンチャー / アーケード。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / アーケード — Nintendo Switch版Death's Door。
-bestFor: アクション / アドベンチャー / アーケードのテンポを携帯機で遊びたい人。
+whatItIs: アクション, アドベンチャー, アーケード：戦闘テンポ、移動感、遭遇設計。
+bestFor: 物語の手触りを重視する雰囲気重視の人。
 avoidIf: アクション / アドベンチャー / アーケードの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 89点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

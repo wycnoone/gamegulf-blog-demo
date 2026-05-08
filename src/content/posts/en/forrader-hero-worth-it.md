@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Forrader Hero: One-step dungeon choices and route math are the whole hook; check Japan ¥710"
-whatItIs: action, adventure — Forrader Hero on Nintendo Switch
-bestFor: Best if you want one-step dungeon choices and route math
+whatItIs: One-step dungeon choices, route math.
+bestFor: Exploration-first players who value atmosphere over grind.
 avoidIf: Skip if action, adventure or that rhythm leaves you cold.
 consensusPraise: One-step dungeon choices and route math are the whole hook is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

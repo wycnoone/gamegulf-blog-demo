@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Evoland Legendary Edition — アクション / アドベンチャー / RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / RPG — Nintendo Switch版Evoland Legendary Edition。
-bestFor: アクション / アドベンチャー / RPGのテンポを携帯機で遊びたい人。
+whatItIs: 見た目と戦闘形式が進化していく、ゲーム史パロディのRPG集。
+bestFor: メニュー判断を重視する長期育成派。
 avoidIf: アクション / アドベンチャー / RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

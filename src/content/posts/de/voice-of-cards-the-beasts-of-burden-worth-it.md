@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Voice of Cards: The Beasts of Burden: Kartentisch und Monsterkarten machen Yoko Taro leise"
-whatItIs: "Rollenspiel — Voice of Cards: The Beasts of Burden auf Nintendo Switch"
-bestFor: Für Spieler mit Lust auf Kartentisch und Monsterkarten
+whatItIs: Kartentisch-Inszenierung, Monsterkarten, Würfelkämpfe und ruhiges Erzählen.
+bestFor: Langzeit-Aufbauer, die Fortschrittswahl schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rollenspiel nicht reizt
 consensusPraise: Das Kritikerband (76 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

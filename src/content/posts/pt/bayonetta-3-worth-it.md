@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Bayonetta 3 — ação; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: ação — Bayonetta 3 no Nintendo Switch.
-bestFor: Jogadores que querem ação em modo portátil.
+whatItIs: Demon Slave, parries.
+bestFor: Perfis de reflexo que valorizam testes claros.
 avoidIf: Evite se ação ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

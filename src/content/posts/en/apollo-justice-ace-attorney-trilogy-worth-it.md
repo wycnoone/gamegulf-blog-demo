@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Apollo’s bracelet tells and courtroom gotchas carry; check Japan ¥5,990
-whatItIs: "adventure — Apollo Justice: Ace Attorney Trilogy on Nintendo Switch"
-bestFor: Best if you want apollo’s bracelet tells and courtroom
+whatItIs: Apollo’s bracelet tells, courtroom gotchas.
+bestFor: Route-curious players who value story texture.
 avoidIf: Skip if adventure or that rhythm leaves you cold.
 consensusPraise: Apollo’s bracelet tells and courtroom gotchas carry the trilogy.
 mainFriction: If the hook misses, the rhythm can feel thin

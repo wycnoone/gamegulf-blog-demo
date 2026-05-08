@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Dead Cells: Baús amaldiçoados, pergaminhos e rotas deixam runs tensas; confira Brasil R$99.95"
-whatItIs: "Roguelite Metroidvania: procedural levels, 200+ weapons, fast melee, permanent upgrades"
+whatItIs: Metroidvania roguelite com biomas, baús amaldiçoados, armas e upgrades permanentes.
 bestFor: Action fans who want a roguelite with 200+ weapons
 avoidIf: You dislike restarting after death — the roguelite loop is the design
 consensusPraise: Combat feel, build variety, and free updates make it a top roguelite on Switch

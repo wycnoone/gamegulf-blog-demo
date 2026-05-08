@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shovel Knight: Treasure Trove: Pogo de pá, cavaleiros rivais e campanhas seguram o pacote"
-whatItIs: "ação, aventura e plataforma — Shovel Knight: Treasure Trove no Nintendo Switch"
-bestFor: Para quem curte Pogo de pá, cavaleiros rivais.
+whatItIs: Pogo de pá, cavaleiros rivais, campanhas seguram o pacote.
+bestFor: Jogadores curiosos que valorizam exploração guiada.
 avoidIf: Evite se ação, aventura e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (91 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.
@@ -130,7 +130,6 @@ Histórico de **menor preço histórico / promoção / desconto**: os dados de *
 ## Quanto custa Shovel Knight: Treasure Trove no Nintendo Switch agora?
 
 O **GameGulf** importa aqui porque a linha barata e os preços cheios podem ficar bem distantes. A tabela abaixo vem dos metadados do artigo; use como retrato regional e confira [GameGulf](https://www.gamegulf.com/detail/fppDS0HCLd8#currency-price).
-
 
 
 | Região | Preço (equivalente em EUR) | Preço nativo |

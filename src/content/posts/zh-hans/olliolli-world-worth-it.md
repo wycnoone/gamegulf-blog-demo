@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 奥力奥力世界：街机、射击、平台跳跃；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 街机、射击、平台跳跃 — Switch 版 奥力奥力世界。
-bestFor: 喜欢manual 连段、滑板神怪和秒重开节奏最容易上头的玩家
+whatItIs: 街机、射击、平台跳跃：关卡推进、移动节奏和重试手感。
+bestFor: 喜欢精准操作的玩家，看重明确关卡目标。
 avoidIf: 需要强指引或不吃manual 连段、滑板神怪和秒重开节奏最容易上头就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

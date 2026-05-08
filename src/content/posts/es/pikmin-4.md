@@ -32,9 +32,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Táctica Nintendo: Japón lidera el índice; las ofertas no repiten mínimo fácil."
-whatItIs: >-
-  Aventura táctica en escuadrón — Pikmin de colores, Oatchi, mapas nocturnos,
-  Dandori.
+whatItIs: Exploración cenital, escuadras Pikmin, Oatchi, rutas nocturnas y Dandori local.
 bestFor: A quien le gustan los puzzles de rutas más que la acción
 avoidIf: Quieres acción sin pausa u odias microgestionar equipos frágiles.
 consensusPraise: Arte encantador, objetivos claros, bucles de limpieza satisfactorios cuando

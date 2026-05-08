@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Evoland Legendary Edition: Piadas da história dos jogos e upgrades visuais puxam nostalgia"
-whatItIs: ação, aventura e RPG — Evoland Legendary Edition no Nintendo Switch
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Evolução visual, trocas de gênero, piadas RPG e combates retrô.
+bestFor: Fãs de builds RPG que preferem planejamento de equipe.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

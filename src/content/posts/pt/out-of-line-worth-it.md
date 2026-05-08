@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Out of Line: A lança de San e a fábrica melancólica seguram a viagem; confira Brasil R$29.99"
-whatItIs: ação, aventura e plataforma — Out of Line no Nintendo Switch
-bestFor: Para quem curte A lança de San e a fábrica.
+whatItIs: A lança de San, a fábrica melancólica seguram a viagem.
+bestFor: Buscadores de clima que valorizam descoberta ambiental.
 avoidIf: Evite se ação, aventura e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (71 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

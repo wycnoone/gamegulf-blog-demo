@@ -22,8 +22,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Meta ~90 JRPG: BR leads snapshots; HK dove lower winter 2025—fit beats price twitching."
-whatItIs: "JRPG saga: visible foes, mech beats, airship hops, chunky skill grids (~35–45h)."
-bestFor: Best if you want retro JRPG pacing with modern QoL.
+whatItIs: Overworld errands, turn clashes, upgrade loops, airship tasks, and mech brawls.
+bestFor: Progression planners who value build identity.
 avoidIf: You want Souls friction, live-service cadence, or sub-15h completions.
 consensusPraise: Systems depth, pacing respect, soundtrack, and “one more chapter” inertia.
 mainFriction: Long burn — systems stay busy even when plot breathing room thins mid-game.

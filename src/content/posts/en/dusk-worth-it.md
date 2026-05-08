@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: DUSK — 88 Metacritic; GameGulf logged €5.66 France (Feb 2026) vs ~€16.66 base EU tiles now.
-whatItIs: Boomer-shooter anthology — three episodes, survival mode, 60fps Switch extras.
+whatItIs: 'Action: aiming pressure, scoring routes, and short-stage loops.'
 bestFor: Fans of Quake-speed shooters, cult horror, chunky guns.
 avoidIf: You need modern cover-FPS polish — this is deliberate retro.
 consensusPraise: Critics near 88 Metacritic; Steam sentiment backs pacing and level craft.

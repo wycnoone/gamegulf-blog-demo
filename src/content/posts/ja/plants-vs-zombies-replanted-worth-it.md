@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Plants vs. Zombies: Replanted — ストラテジー。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "ストラテジー — Nintendo Switch版Plants vs. Zombies: Replanted。"
-bestFor: ストラテジーのテンポを携帯機で遊びたい人。
+whatItIs: ストラテジー：中核システム、モード構成、操作感で相性を見る。
+bestFor: 価格への慎重さを重視する衝動買いを避けたい人。
 avoidIf: ストラテジーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

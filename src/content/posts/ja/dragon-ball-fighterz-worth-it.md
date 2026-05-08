@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: ドラゴンボール ファイターズ — 格闘 / アクション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: 格闘 / アクション — Nintendo Switch版ドラゴンボール ファイターズ。
-bestFor: 格闘 / アクションのテンポを携帯機で遊びたい人。
+whatItIs: 格闘, アクション：戦闘テンポ、移動感、遭遇設計。
+bestFor: 反応の良い戦闘を重視する反射神経派。
 avoidIf: 格闘 / アクションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

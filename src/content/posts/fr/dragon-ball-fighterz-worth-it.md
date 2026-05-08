@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL FighterZ : Assists, vanish pressure et comeback ; vérifiez Japon ¥2,970"
-whatItIs: combat et action — DRAGON BALL FighterZ sur Nintendo Switch
-bestFor: Joueurs qui veulent du combat et action au format portable
+whatItIs: 'combat, action : timing de combat, mobilité et rythme des rencontres.'
+bestFor: Joueurs combatifs qui valorisent les menaces lisibles.
 avoidIf: À éviter si combat et action ou ce rythme vous laisse froid.
 consensusPraise: Assists, vanish pressure et comeback anime font le sel reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

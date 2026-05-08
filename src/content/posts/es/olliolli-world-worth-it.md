@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "OlliOlli World: Manuals, dioses raros y reinicio rápido hacen clic; revisa Hong Kong HK$156"
-whatItIs: arcade, disparos y plataformas — OlliOlli World en Nintendo Switch
-bestFor: Recomendable si te atrae Manuals, dioses raros y reinicio.
+whatItIs: >-
+  arcade, disparos, plataformas: presión de apuntado, rutas de puntuación y
+  fases cortas.
+bestFor: Perfiles arcade que valoran presión de puntuación.
 avoidIf: Evítalo si arcade, disparos y plataformas o ese ritmo no te llama.
 consensusPraise: Manuals, dioses raros y reinicio rápido hacen clic es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

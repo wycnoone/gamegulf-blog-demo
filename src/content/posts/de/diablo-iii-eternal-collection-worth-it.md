@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Diablo III: Eternal Collection: Rifts, Lootstrahlen und Season-Grind ziehen noch"
-whatItIs: "Action, Abenteuer und Rollenspiel — Diablo III: Eternal Collection auf Nintendo Switch"
-bestFor: Für Spieler, die Rifts, Lootstrahlen und Season-Grind reizt.
+whatItIs: Rifts, farbiger Loot, Season-Builds und portabler Koop-Grind.
+bestFor: Fortschrittsplaner, die Stat-Kompromisse schätzen.
 avoidIf: Meiden, wenn Rifts, Lootstrahlen und Season-Grind ziehen dich nicht
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

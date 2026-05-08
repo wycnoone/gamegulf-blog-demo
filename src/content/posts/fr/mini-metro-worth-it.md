@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Mini Metro : Une station de plus peut ruiner un beau ; vérifiez Japon ¥1,100"
-whatItIs: puzzle, simulation et action — Mini Metro sur Nintendo Switch
-bestFor: À conseiller si Une station de plus peut ruiner un beau
+whatItIs: 'puzzle, simulation, action : règles d’énigme, indices et retour de solution.'
+bestFor: Lecteurs d’indices qui valorisent les solutions méritées.
 avoidIf: À éviter si puzzle, simulation et action ou ce rythme vous laisse froid.
 consensusPraise: Une station de plus peut ruiner un beau plan de métro reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

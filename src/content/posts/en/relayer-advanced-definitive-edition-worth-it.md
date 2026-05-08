@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Relayer Advanced Definitive Edition: Starchild mechs, aggro lines, and grid"
-whatItIs: role-playing, strategy — Relayer Advanced Definitive Edition on NS2
-bestFor: Best if you want starchild mechs, aggro lines, and grid
+whatItIs: 'role-playing, strategy: turn planning, resource pressure, and map control.'
+bestFor: Careful decision-makers who value planning windows.
 avoidIf: Skip if role-playing, strategy or that rhythm leaves you cold.
 consensusPraise: Starchild mechs, aggro lines, and grid battles carry the niche is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

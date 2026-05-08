@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Velocity2X: Teleport dashes and ship-foot swaps make speedrouting the appeal; check Germany"
-whatItIs: action, arcade, platformer — Velocity2X on Nintendo Switch
-bestFor: Best if you want teleport dashes and ship-foot swaps
+whatItIs: 'action, arcade, platformer: stage flow, movement timing, and retry rhythm.'
+bestFor: Stage-challenge fans who value movement mastery.
 avoidIf: Skip if action, arcade, platformer or that rhythm leaves you cold.
 consensusPraise: Teleport dashes and ship-foot swaps make speedrouting the appeal is the main
 mainFriction: If the hook misses, the rhythm can feel thin

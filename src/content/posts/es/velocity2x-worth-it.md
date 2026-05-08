@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Velocity2X: Teletransporte y alternar nave/pie sostienen rutas rápidas; revisa Alemania €19.99"
-whatItIs: acción, arcade y plataformas — Velocity2X en Nintendo Switch
-bestFor: Recomendable si te atrae Teletransporte y alternar nave/pie.
+whatItIs: >-
+  acción, arcade, plataformas: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Jugadores de puntería que valoran presión de puntuación.
 avoidIf: Evítalo si acción, arcade y plataformas o ese ritmo no te llama.
 consensusPraise: Teletransporte y alternar nave/pie sostienen rutas es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

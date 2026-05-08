@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Country Tales: Frontier chores and timed building orders make the old loop tick; check Hong"
-whatItIs: adventure, strategy — Country Tales on Nintendo Switch
-bestFor: Best if you want frontier chores and timed building orders
+whatItIs: 'adventure, strategy: turn planning, resource pressure, and map control.'
+bestFor: Board-state readers who prefer resource choices.
 avoidIf: Skip if adventure, strategy or that rhythm leaves you cold.
 consensusPraise: Frontier chores and timed building orders make the old loop tick is the main
 mainFriction: If the hook misses, the rhythm can feel thin

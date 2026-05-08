@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "ASTRAL CHAIN: Chaînes de Legion, enquêtes et attaques; vérifiez Hong Kong HK$329"
-whatItIs: action et aventure — ASTRAL CHAIN sur Nintendo Switch
-bestFor: À conseiller si Chaînes de Legion, enquêtes et attaques
+whatItIs: Chaînes de Legion, enquêtes, attaques synchro.
+bestFor: Joueurs curieux qui valorisent l’ambiance sans grind.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Chaînes de Legion, enquêtes et attaques synchro reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

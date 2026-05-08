@@ -34,9 +34,7 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Meta ~90 otome VN: BR leads rows; sales beat list EU — compare GameGulf first."
-whatItIs: >-
-  Otome theatre-school VN + rhythm minigames; routes & casting arcs (~24h+
-  main).
+whatItIs: Visual novel routes, timetable planning, rhythm songs, and stat practice weeks.
 bestFor: Drama-club fantasy, Japanese VO, and long otome routes.
 avoidIf: You want English dub, pure action, or sub-15h one-and-done stories only.
 consensusPraise: Ishida-era art direction, queer-positive undertones, kinetic theatre framing.

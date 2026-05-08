@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "LEGO NINJAGO Movie Video Game: Spinjitzu combos and brick-smashing co-op sell the family chaos"
-whatItIs: action, adventure — LEGO NINJAGO Movie Video Game on Nintendo Switch
-bestFor: Best if you want spinjitzu combos and brick-smashing co-op
+whatItIs: Spinjitzu combos, brick-smashing co-op.
+bestFor: Route-curious players who value route curiosity.
 avoidIf: You want deep combat or a long solo campaign
 consensusPraise: Seven ninjas and four-player Battle Maps keep it easy to share
 mainFriction: EU pricing feels rough when Japan sits at €30.89

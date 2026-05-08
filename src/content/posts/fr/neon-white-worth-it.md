@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Neon White : Défausse de cartes, fantômes ; vérifiez Allemagne €21.99"
-whatItIs: action et aventure — Neon White sur Nintendo Switch
-bestFor: À conseiller si Défausse de cartes, fantômes et médailles
+whatItIs: Défausse de cartes, fantômes, médailles activent le speedrun.
+bestFor: Amateurs de routes qui valorisent la découverte.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Défausse de cartes, fantômes et médailles activent le reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

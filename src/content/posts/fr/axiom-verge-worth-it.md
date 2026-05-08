@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Axiom Verge : Armes glitch, couloirs aliens et carte ; vérifiez Brésil R$36.99"
-whatItIs: action et aventure — Axiom Verge sur Nintendo Switch
-bestFor: Pour qui accroche à Armes glitch, couloirs aliens.
+whatItIs: Armes glitch, couloirs aliens, carte suspecte.
+bestFor: Joueurs curieux qui valorisent la texture narrative.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Armes glitch, couloirs aliens et carte suspecte font reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

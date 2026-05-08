@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Dead Cells : Coffres maudits, parchemins gourmands ; vérifiez Brésil R$99.95"
-whatItIs: "Roguelite Metroidvania: procedural levels, 200+ weapons, fast melee, permanent upgrades"
+whatItIs: Roguelite metroidvania avec biomes, coffres maudits, armes et upgrades durables.
 bestFor: Action fans who want a roguelite with 200+ weapons
 avoidIf: You dislike restarting after death — the roguelite loop is the design
 consensusPraise: Combat feel, build variety, and free updates make it a top roguelite on Switch

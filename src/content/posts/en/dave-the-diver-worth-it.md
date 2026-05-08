@@ -29,7 +29,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DAVE THE DIVER: Blue Hole surprises and sushi rush turn one; check Japan ¥2,500"
 whatItIs: "Diving + restaurant sim: catch fish by day, serve sushi by night, with side quests"
-bestFor: Best if you want blue Hole surprises and sushi rush
+bestFor: Genre-aware players who value taste over hype.
 avoidIf: You want pure action or pure management — it bounces between both
 consensusPraise: The mashup works better than it should; humor and art keep it fresh for 30h+
 mainFriction: Some management sections feel grindy; new systems arrive faster than players absorb

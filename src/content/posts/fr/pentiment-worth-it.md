@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Pentiment : Ragots et manuscrits font peser ; vérifiez Brésil R$99"
-whatItIs: aventure et puzzle — Pentiment sur Nintendo Switch
-bestFor: Pour qui accroche à Ragots et manuscrits font peser.
+whatItIs: Ragots, manuscrits.
+bestFor: Joueurs logiques qui valorisent les défis lisibles.
 avoidIf: À éviter si aventure et puzzle ou ce rythme vous laisse froid.
 consensusPraise: Ragots et manuscrits font peser les décennies reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 超级马力欧创作家2：平台跳跃、动作；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 平台跳跃、动作 — Switch 版 超级马力欧创作家2。
-bestFor: 喜欢阴间砖块、作者 ID 和无尽挑战让马力欧变成玩家互坑的玩家
+whatItIs: 平台跳跃、动作：关卡推进、移动节奏和重试手感。
+bestFor: 喜欢精准操作的玩家，看重练习循环。
 avoidIf: 需要强指引或不吃阴间砖块、作者 ID 和无尽挑战让马力欧变成玩家互坑就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 88 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Goodnight Universe: El bebé Isaac y sus poderes vuelven rara la familia; revisa Japón ¥2,420"
-whatItIs: aventura — Goodnight Universe en NS2
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: El bebé Isaac, sus poderes.
+bestFor: Jugadores curiosos que valoran exploración guiada.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: El bebé Isaac y sus poderes vuelven rara la familia es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

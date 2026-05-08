@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL: Sparking! ZERO: Beam-Clashes, Riesenroster und Arenazerstörung liefern; vor dem"
-whatItIs: "Action und Kampfspiel — DRAGON BALL: Sparking! ZERO auf NS2"
-bestFor: Für Spieler, die Beam-Clashes, Riesenroster reizt.
+whatItIs: 'Action, Kampfspiel: Kampftiming, Bewegungsgefühl und Begegnungsrhythmus.'
+bestFor: Reflexspieler, die weniger Menüpausen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Kampfspiel nicht reizt
 consensusPraise: Das Kritikerband (83 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

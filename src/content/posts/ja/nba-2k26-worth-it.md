@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: NBA 2K26 — スポーツ。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: スポーツ — NS2版NBA 2K26。
-bestFor: スポーツのテンポを携帯機で遊びたい人。
+whatItIs: スポーツ：中核システム、モード構成、操作感で相性を見る。
+bestFor: 相性確認を重視する相性重視の人。
 avoidIf: スポーツの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

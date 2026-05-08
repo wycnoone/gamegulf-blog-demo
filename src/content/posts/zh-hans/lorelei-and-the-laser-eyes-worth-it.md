@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 罗蕾莱与激光眼：解谜、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 解谜、冒险 — Switch 版 罗蕾莱与激光眼。
-bestFor: 喜欢酒店密码、误导线索和手写笔记会逼人钻进去的玩家
+whatItIs: 解谜、冒险：谜题规则、线索递进和解法反馈。
+bestFor: 愿意读线索的玩家，看重低噪音挑战。
 avoidIf: 需要强指引或不吃酒店密码、误导线索和手写笔记会逼人钻进去就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 88 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

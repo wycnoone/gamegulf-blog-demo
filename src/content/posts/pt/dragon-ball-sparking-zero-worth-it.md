@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "DRAGON BALL: Sparking! ZERO: Choques de raio, elenco enorme e arena quebrando entregam; confira"
-whatItIs: "ação e luta — DRAGON BALL: Sparking! ZERO no NS2"
-bestFor: Jogadores que querem ação e luta em modo portátil
+whatItIs: 'ação, luta: ritmo de combate, movimento e encontros.'
+bestFor: Jogadores de combate que valorizam inputs ativos.
 avoidIf: Evite se ação e luta ou esse ritmo não combina.
 consensusPraise: A faixa crítica (83 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

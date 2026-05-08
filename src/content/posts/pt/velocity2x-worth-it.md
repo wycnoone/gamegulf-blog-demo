@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Velocity2X: Dash teleportado e troca nave/a pé fazem rotas rápidas; confira Alemanha €19.99"
-whatItIs: ação, arcade e plataforma — Velocity2X no Nintendo Switch
-bestFor: Vale se Dash teleportado e troca nave/a pé parece seu tipo
+whatItIs: 'ação, arcade, plataforma: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Caçadores de score que valorizam resposta direta.
 avoidIf: Evite se ação, arcade e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

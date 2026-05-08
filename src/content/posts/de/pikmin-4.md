@@ -33,7 +33,7 @@ featuredPriority: 2
 listingTakeaway: >-
   Nintendo-Taktik — Japan führt den Index; Sales helfen, wiederholen selten das
   Dez-2025-Tief.
-whatItIs: Squad-Taktik-Abenteuer — farbige Pikmin, Oatchi, Nachtkarten, Dandori.
+whatItIs: 'Draufsicht-Erkundung: Systeme, Modi und Eingabegefühl entscheiden die Passung.'
 bestFor: Fans von Routen-Rätseln statt Reflex-Action.
 avoidIf: Du willst Nonstop-Action oder hasst Mikromanagement fragiler Teams.
 consensusPraise: Charmantes Art, klare Ziele, befriedigende Aufräum-Loops sobald Routen sitzen.

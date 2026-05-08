@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Guacamelee! 2 — アクション / プラットフォーム。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / プラットフォーム — Nintendo Switch版Guacamelee! 2。
-bestFor: アクション / プラットフォームのテンポを携帯機で遊びたい人。
+whatItIs: アクション, プラットフォーム：ステージ進行、移動タイミング、リトライ感。
+bestFor: 明確なステージ目標を重視するステージ挑戦派。
 avoidIf: アクション / プラットフォームの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

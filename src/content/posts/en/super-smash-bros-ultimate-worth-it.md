@@ -20,7 +20,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 93 Metacritic crossover fighter; indexed cheapest row is at tracked low
 whatItIs: Platform fighter with huge roster, strong local multiplayer, and deep matchup lab
-bestFor: Best if you want roster arguments and last-stock screams
+bestFor: Control-feel players who value clean level goals.
 avoidIf: Skip if you dislike matchup learning or mostly play solo campaigns
 consensusPraise: Roster breadth, responsive controls, and replay value still lead the genre
 mainFriction: Skill gaps can feel punishing online without practice and matchup knowledge

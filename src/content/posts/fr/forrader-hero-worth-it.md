@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Forrader Hero : Choix case par case et calcul de route ; vérifiez Japon ¥710"
-whatItIs: action et aventure — Forrader Hero sur Nintendo Switch
-bestFor: Pour qui accroche à Choix case par case et calcul.
+whatItIs: Choix case par case, calcul de route.
+bestFor: Amateurs de routes qui valorisent l’orientation légère.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Choix case par case et calcul de route font tout le reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Yooka-Replaylee : Duo, collecte partout et ADN Banjo font ; vérifiez Japon ¥3,400"
-whatItIs: action et aventure — Yooka-Replaylee sur NS2
-bestFor: À conseiller si Duo, collecte partout et ADN Banjo font
+whatItIs: Duo, collecte partout, ADN Banjo.
+bestFor: Chercheurs d’ambiance qui valorisent la curiosité de route.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Duo, collecte partout et ADN Banjo font le pitch reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 影子战术：将军之刃：动作、策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、策略 — NS2 版 影子战术：将军之刃。
-bestFor: 喜欢快速存档潜入和同步击杀让每队巡逻都像谜题的玩家
+whatItIs: 快速存档潜入、视野控制、同步击杀和巡逻路线解谜。
+bestFor: 爱读局势的玩家，看重慢慢推演。
 avoidIf: 需要强指引或不吃快速存档潜入和同步击杀让每队巡逻都像谜题就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

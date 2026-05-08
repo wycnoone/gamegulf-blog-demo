@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Starward Rogue: Bullet rooms and relic builds keep every floor twitchy; check Brazil R$52.99"
-whatItIs: action, arcade, Other — Starward Rogue on Nintendo Switch
-bestFor: Best if you want bullet rooms and relic builds keep every
+whatItIs: Twin-stick aim, dodge lanes, mech loadouts, boss rooms, and floor resets.
+bestFor: Run-focused players who value riskier choices.
 avoidIf: Skip if action, arcade, Other or that rhythm leaves you cold.
 consensusPraise: 9 mechs and 350+ items keep runs varied
 mainFriction: If the rhythm misses, the discount will not fix the fit.

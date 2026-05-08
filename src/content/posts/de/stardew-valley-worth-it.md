@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Stardew Valley: Farmarbeit, Dorfbande und noch ein Tag fressen Stunden; prüfe Brasilien R$24.99"
-whatItIs: Rollenspiel und Simulation — Stardew Valley auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Farmarbeit, Dorfbande und noch
+whatItIs: 'Rollenspiel, Simulation: Alltagsroutine, Upgrade-Schleifen und Langzeitziele.'
+bestFor: Systemspieler, die wiederholbare Aufgaben schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rollenspiel und Simulation nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

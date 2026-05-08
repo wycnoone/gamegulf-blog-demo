@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Huntdown : Glissades, avis de recherche et gangs ; vérifiez Japon ¥1,999"
-whatItIs: action, arcade et plates-formes — Huntdown sur Nintendo Switch
-bestFor: À conseiller si Glissades, avis de recherche et gangs 80s
+whatItIs: 'action, arcade, plates-formes : pression de visée, scoring et boucles courtes.'
+bestFor: Chasseurs de score qui valorisent la pression du score.
 avoidIf: À éviter si action, arcade et plates-formes ou ce rythme vous laisse
 consensusPraise: Glissades, avis de recherche et gangs 80s font le ton reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 进化之地：传奇版：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、角色扮演 — Switch 版 进化之地：传奇版。
-bestFor: 喜欢游戏史梗、画面进化和玩法换挡才是怀旧机关的玩家
+whatItIs: 画面进化、类型切换、RPG 梗和复古战斗。
+bestFor: 喜欢成长规划的玩家，看重队伍规划。
 avoidIf: 需要强指引或不吃游戏史梗、画面进化和玩法换挡才是怀旧机关就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

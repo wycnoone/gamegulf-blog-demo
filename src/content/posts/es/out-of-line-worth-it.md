@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Out of Line: La lanza de San y la fábrica triste sostienen el viaje; revisa Brasil R$29.99"
-whatItIs: acción, aventura y plataformas — Out of Line en Nintendo Switch
-bestFor: Recomendable si te atrae La lanza de San y la fábrica
+whatItIs: La lanza de San, la fábrica triste.
+bestFor: Exploradores que valoran orientación ligera.
 avoidIf: Evítalo si acción, aventura y plataformas o ese ritmo no te llama.
 consensusPraise: La lanza de San y la fábrica triste sostienen el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

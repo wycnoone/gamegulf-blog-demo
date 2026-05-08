@@ -32,8 +32,8 @@ featuredPriority: 2
 listingTakeaway: >-
   There Is No Game: Wrong Dimension — アドベンチャー / パズル /
   シミュレーション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: "アドベンチャー / パズル / シミュレーション — Nintendo Switch版There Is No Game: Wrong Dimension。"
-bestFor: アドベンチャー / パズル / シミュレーションのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー, パズル, シミュレーション：探索の流れ、インタラクション、ルート選択。
+bestFor: 反復作業を重視する最適化好き。
 avoidIf: アドベンチャー / パズル / シミュレーションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

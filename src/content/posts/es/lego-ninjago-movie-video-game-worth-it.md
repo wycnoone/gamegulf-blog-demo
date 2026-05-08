@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "LEGO NINJAGO Movie Video Game: Spinjitzu y romper ladrillos venden el caos familiar; revisa"
-whatItIs: acción y aventura — LEGO NINJAGO Movie Video Game en Nintendo Switch
-bestFor: Jugadores que quieren acción y aventura en formato portátil
+whatItIs: Spinjitzu, romper ladrillos.
+bestFor: Exploradores que valoran exploración guiada.
 avoidIf: Evítalo si acción y aventura o ese ritmo no te llama.
 consensusPraise: Spinjitzu y romper ladrillos venden el caos familiar es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

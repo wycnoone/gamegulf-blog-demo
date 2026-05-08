@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! 2: Geworfene Zwiebeln, Küchenchaos und Freundschaftsschäden; prüfe Japan ¥2,750"
-whatItIs: Party und Strategie — Overcooked! 2 auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Geworfene Zwiebeln, Küchenchaos
+whatItIs: 'Party, Strategie: Zugplanung, Ressourcendruck und Kartenkontrolle.'
+bestFor: Planer, die klare Kompromisse schätzen.
 avoidIf: Auslassen, wenn dich der Mix Party und Strategie nicht reizt
 consensusPraise: Das Kritikerband (81 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

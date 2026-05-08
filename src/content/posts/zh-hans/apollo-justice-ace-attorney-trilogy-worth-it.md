@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Apollo Justice: Ace Attorney Trilogy：冒险；2026 年 4 月价格分区差值得先对照 GameGulf。"
-whatItIs: "冒险 — Switch 版 Apollo Justice: Ace Attorney Trilogy。"
-bestFor: 喜欢王泥喜的手镯看破和法庭反转撑起三部曲的玩家
+whatItIs: 冒险：王泥喜的手镯看破和法庭反转。
+bestFor: 喜欢自己发现的玩家，看重路线好奇心。
 avoidIf: 需要强指引或不吃王泥喜的手镯看破和法庭反转撑起三部曲就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 84 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Great Ace Attorney Chronicles: Herlock et jurés font chanter les tribunaux victoriens"
-whatItIs: aventure — The Great Ace Attorney Chronicles sur Nintendo Switch
-bestFor: Joueurs qui veulent du aventure au format portable
+whatItIs: Herlock, jurés.
+bestFor: Explorateurs qui valorisent l’exploration guidée.
 avoidIf: À éviter si aventure ou ce rythme vous laisse froid.
 consensusPraise: Herlock et jurés font chanter les tribunaux victoriens reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

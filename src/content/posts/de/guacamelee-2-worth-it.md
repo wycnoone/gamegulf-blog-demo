@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Guacamelee! 2: Huhnform, Lucha-Combos und Meme-Portale machen Lärm; prüfe Brasilien R$99"
-whatItIs: Action und Plattformer — Guacamelee! 2 auf Nintendo Switch
-bestFor: Für Spieler, die Huhnform, Lucha-Combos reizt.
+whatItIs: 'Action, Plattformer: Level-Fluss, Bewegungstiming und Retry-Rhythmus.'
+bestFor: Retry-Fans, die Übungsschleifen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Plattformer nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

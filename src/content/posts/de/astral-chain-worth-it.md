@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "ASTRAL CHAIN: Legion-Ketten, Polizeifälle und Sync-Angriffe prägen den Stil"
-whatItIs: Action und Abenteuer — ASTRAL CHAIN auf Nintendo Switch
-bestFor: Für Spieler, die Legion-Ketten, Polizeifälle reizt.
+whatItIs: Legion-Ketten, Polizeifälle, Sync-Angriffe.
+bestFor: Erkundungsspieler, die Routen-Neugier schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

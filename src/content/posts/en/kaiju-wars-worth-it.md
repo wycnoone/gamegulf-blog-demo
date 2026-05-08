@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kaiju Wars: Disposable cities and impossible kaiju math make losing funny; check Brazil R$69.99"
-whatItIs: strategy, platformer, role-playing — Kaiju Wars on Nintendo Switch
-bestFor: Best if you want disposable cities and impossible kaiju
+whatItIs: >-
+  strategy, platformer, role-playing: turn planning, resource pressure, and map
+  control.
+bestFor: Tactical players who value resource choices.
 avoidIf: Skip if strategy, platformer or that rhythm leaves you cold.
 consensusPraise: Disposable cities and impossible kaiju math make losing funny is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

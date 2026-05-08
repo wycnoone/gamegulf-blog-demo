@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Cuphead: Parry-Panik, Bossmuster und Cartoon-Wut prägen Cuphead; prüfe Brasilien R$49.9"
-whatItIs: Run-and-gun with 1930s cartoon animation, boss-rush structure, and 2-player co-op
+whatItIs: Run-and-gun mit Bossrush, Parry-Fenstern, Koop und 30er-Cartoonstil.
 bestFor: Players who love challenging boss fights and hand-drawn art
 avoidIf: You rage-quit easily — Cuphead's difficulty is the point
 consensusPraise: Animation quality, boss design, and soundtrack are still unmatched in the genre

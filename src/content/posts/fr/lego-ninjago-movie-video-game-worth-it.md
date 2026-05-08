@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "LEGO NINJAGO Movie Video Game: Combos Spinjitzu et casse de briques font le chaos familial"
-whatItIs: action et aventure — LEGO NINJAGO Movie Video Game sur Nintendo Switch
-bestFor: À conseiller si Combos Spinjitzu et casse de briques font
+whatItIs: Combos Spinjitzu, casse de briques.
+bestFor: Chercheurs d’ambiance qui valorisent l’orientation légère.
 avoidIf: À éviter si action et aventure ou ce rythme vous laisse froid.
 consensusPraise: Combos Spinjitzu et casse de briques font le chaos reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

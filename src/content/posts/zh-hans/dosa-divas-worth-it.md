@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Dosa Divas：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、角色扮演 — NS2 版 Dosa Divas。
-bestFor: 喜欢多萨订单和乱斗场面让厨房随时像要爆炸的玩家
+whatItIs: 多萨订单、厨房乱斗、快速连招和本地混乱。
+bestFor: 菜单决策型玩家，看重菜单决策。
 avoidIf: 需要强指引或不吃多萨订单和乱斗场面让厨房随时像要爆炸就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

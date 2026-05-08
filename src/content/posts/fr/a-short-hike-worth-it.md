@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "A Short Hike : Claire, coquillages et vol plané font ; vérifiez Japon ¥850"
-whatItIs: aventure et plates-formes — A Short Hike sur Nintendo Switch
-bestFor: Pour qui accroche à Claire, coquillages et vol.
+whatItIs: Claire, coquillages, vol plané.
+bestFor: Explorateurs qui valorisent la curiosité de route.
 avoidIf: À éviter si aventure et plates-formes ou ce rythme vous laisse froid.
 consensusPraise: Claire, coquillages et vol plané font la pause douce reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

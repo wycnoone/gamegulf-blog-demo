@@ -22,7 +22,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Strong only near USD 41.59 (Japan); above that, wait
 whatItIs: "3D sandbox Mario: Cappy capture, kingdom moons, two-player Mario+Cappy co-op"
-bestFor: Best if you want cappy captures make every kingdom a toy
+bestFor: Retry-friendly players who value fair retries.
 avoidIf: Skip if you dislike collectathon pacing or only buy far below indexed
 consensusPraise: Capture puzzles, kingdom variety, and movement depth stay the hook
 mainFriction: Hundreds of moons mean completionists trade time for bragging rights

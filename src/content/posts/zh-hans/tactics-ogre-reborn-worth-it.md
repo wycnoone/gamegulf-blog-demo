@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 皇家骑士团 重生：角色扮演、模拟；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 角色扮演、模拟 — Switch 版 皇家骑士团 重生。
-bestFor: 喜欢塔罗选择、高低差和永久死亡焦虑才是皇骑味的玩家
+whatItIs: 角色扮演、模拟：日常循环、升级路线和长期目标。
+bestFor: 愿意慢慢优化的玩家，看重重复劳动。
 avoidIf: 需要强指引或不吃塔罗选择、高低差和永久死亡焦虑才是皇骑味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 84 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

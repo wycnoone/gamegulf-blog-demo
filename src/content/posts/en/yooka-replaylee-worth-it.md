@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Yooka-Replaylee: Duo moves, collectible sprawl, and Banjo DNA are the whole pitch"
-whatItIs: action, adventure — Yooka-Replaylee on NS2
-bestFor: Best if you want duo moves, collectible sprawl, and Banjo
+whatItIs: Duo moves, collectible sprawl, Banjo DNA.
+bestFor: Route-curious players who value story texture.
 avoidIf: Skip if action, adventure or that rhythm leaves you cold.
 consensusPraise: Duo moves, collectible sprawl, and Banjo DNA are the whole pitch is the main
 mainFriction: If the hook misses, the rhythm can feel thin

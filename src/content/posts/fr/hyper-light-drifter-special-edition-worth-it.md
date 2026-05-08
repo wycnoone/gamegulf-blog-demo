@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Hyper Light Drifter - Special Edition: Dashs, lore muet et renards de cristal marquent"
-whatItIs: action, aventure et jeu — Hyper Light Drifter - Special Edition sur Nintendo Switch
-bestFor: Pour qui accroche à Dashs, lore muet et renards.
+whatItIs: Dashs, lore muet, renards de cristal marquent durablement.
+bestFor: Joueurs curieux qui valorisent la curiosité de route.
 avoidIf: À éviter si action, aventure et jeu de rôle ou ce rythme vous laisse
 consensusPraise: Dashs, lore muet et renards de cristal marquent reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

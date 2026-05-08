@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Hyper Light Drifter - Special Edition: Dash, lore mudo y zorros de cristal dejan huella; revisa"
-whatItIs: acción, aventura y rol — Hyper Light Drifter - Special Edition en Nintendo Switch
-bestFor: Para quien conecte con Dash, lore mudo y zorros.
+whatItIs: Dash preciso, combate cercano, mapa mudo y secretos de cristal.
+bestFor: Fans de progresión larga que valoran menús con peso.
 avoidIf: Evítalo si acción, aventura y rol o ese ritmo no te llama.
 consensusPraise: Dash, lore mudo y zorros de cristal dejan huella es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

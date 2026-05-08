@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Little Rocket Lab: Peças de foguete, oficina e vila dão o ritmo; confira Brasil R$39.99"
-whatItIs: aventura, quebra-cabeça e RPG — Little Rocket Lab no Nintendo Switch
-bestFor: Para quem curte Peças de foguete, oficina e vila.
+whatItIs: 'aventura, quebra-cabeça, RPG: regras de puzzle, pistas e retorno da solução.'
+bestFor: Jogadores lógicos que valorizam regras claras.
 avoidIf: Evite se aventura, quebra-cabeça e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

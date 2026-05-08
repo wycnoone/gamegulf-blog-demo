@@ -27,7 +27,7 @@ actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Bayonetta 3 has Witch Time spectacle and an 86 Metacritic score; HK is below the €59.99 EU rows
 whatItIs: Witch Time action with Demon Masquerade and Viola chapters
-bestFor: Best if you want demon Slave spectacle and Viola parries
+bestFor: Hands-on challenge fans who value fight rhythm.
 avoidIf: You want grounded action, co-op, or long RPG-style progression
 consensusPraise: Critics praised combat variety and set-piece energy at 86 Metacritic
 mainFriction: Regional prices are uneven, and handheld spectacle can look busy

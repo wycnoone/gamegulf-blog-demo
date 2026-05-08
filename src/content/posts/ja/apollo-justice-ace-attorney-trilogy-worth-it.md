@@ -30,8 +30,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Apollo Justice: Ace Attorney Trilogy — アドベンチャー。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アドベンチャー — Nintendo Switch版Apollo Justice: Ace Attorney Trilogy。"
-bestFor: アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: みぬく操作、証言崩し、法廷パート、逆転の三部作。
+bestFor: 物語の手触りを重視する道探しが好きな人。
 avoidIf: アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 84点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

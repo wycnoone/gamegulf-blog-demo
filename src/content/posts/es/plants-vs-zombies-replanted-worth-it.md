@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Plants vs. Zombies: Replanted: Carriles, nueces muro y nostalgia sostienen la defensa; revisa"
-whatItIs: "estrategia — Plants vs. Zombies: Replanted en Nintendo Switch"
-bestFor: Jugadores que quieren estrategia en formato portátil
+whatItIs: 'estrategia: planificación por turnos, recursos y control del mapa.'
+bestFor: Planificadores que valoran problemas pacientes.
 avoidIf: Evítalo si estrategia o ese ritmo no te llama.
 consensusPraise: Carriles, nueces muro y nostalgia sostienen la es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

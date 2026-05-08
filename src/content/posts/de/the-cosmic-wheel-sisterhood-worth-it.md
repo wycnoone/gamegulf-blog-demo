@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Cosmic Wheel Sisterhood: Tarotbau, Hexenexil und Politikdeals schärfen es"
-whatItIs: Abenteuer und Simulation — The Cosmic Wheel Sisterhood auf Nintendo Switch
-bestFor: Für Spieler, die Tarotbau, Hexenexil und Politikdeals reizt.
+whatItIs: 'Abenteuer, Simulation: Alltagsroutine, Upgrade-Schleifen und Langzeitziele.'
+bestFor: Systemspieler, die sanfte Planung schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer und Simulation nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

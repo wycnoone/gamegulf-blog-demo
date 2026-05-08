@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 星际战甲：动作、角色扮演、射击；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、角色扮演、射击 — Switch 版 星际战甲。
-bestFor: 喜欢子弹跳、刷战甲和 mod 数学才是真正的新手教程的玩家
+whatItIs: 动作、角色扮演、射击：角色成长、构筑选择和任务推进。
+bestFor: 喜欢得分压力的玩家，看重得分压力。
 avoidIf: 需要强指引或不吃子弹跳、刷战甲和 mod 数学才是真正的新手教程就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

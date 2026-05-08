@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Sumire — aventura; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: aventura — Sumire no Nintendo Switch.
-bestFor: Jogadores que querem aventura em modo portátil.
+whatItIs: Um dia só, promessas de flor, escolhas pequenas e arrependimentos.
+bestFor: Exploradores que valorizam orientação leve.
 avoidIf: Evite se aventura ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Vampire Survivors: Garlic and gem rain hypnotize the whole screen; check Brazil R$10.99"
-whatItIs: action, adventure — Vampire Survivors on Nintendo Switch
-bestFor: Best if you want garlic and gem rain hypnotize the whole
+whatItIs: Garlic, gem rain hypnotize the whole screen.
+bestFor: Atmosphere seekers who value route curiosity.
 avoidIf: Skip if action, adventure or that rhythm leaves you cold.
 consensusPraise: Garlic and gem rain hypnotize the whole screen is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Warframe — ação, RPG e tiro; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: ação, RPG e tiro — Warframe no Nintendo Switch.
-bestFor: Jogadores que querem ação, RPG e tiro em modo portátil.
+whatItIs: 'ação, RPG, tiro: progressão, builds e rotas de missões.'
+bestFor: Fãs de builds RPG que preferem menus com peso.
 avoidIf: Evite se ação, RPG e tiro ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

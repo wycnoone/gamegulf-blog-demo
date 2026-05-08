@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Hyper Light Drifter - Special Edition：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、角色扮演 — Switch 版 Hyper Light Drifter - Special Edition。
-bestFor: 喜欢连续冲刺、无字叙事和水晶狐让沉默世界很抓人的玩家
+whatItIs: 连续冲刺、近战节奏、无字地图和水晶秘密。
+bestFor: 爱研究配队的玩家，看重菜单决策。
 avoidIf: 需要强指引或不吃连续冲刺、无字叙事和水晶狐让沉默世界很抓人就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 88 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

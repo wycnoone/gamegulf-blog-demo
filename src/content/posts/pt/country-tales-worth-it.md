@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Country Tales: Tarefas de fronteira e construção cronometrada dão o ritmo"
-whatItIs: aventura e estratégia — Country Tales no Nintendo Switch
-bestFor: Jogadores que querem aventura e estratégia em modo portátil
+whatItIs: 'aventura, estratégia: exploração, interação e escolhas de rota.'
+bestFor: Jogadores curiosos que valorizam orientação leve.
 avoidIf: Evite se aventura e estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

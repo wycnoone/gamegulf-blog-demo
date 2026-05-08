@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun - Aiko's Choice — アクション / ストラテジー。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アクション / ストラテジー — NS2版Shadow Tactics: Blades of the Shogun - Aiko's Choice。"
-bestFor: アクション / ストラテジーのテンポを携帯機で遊びたい人。
+whatItIs: アクション / ストラテジー：アイコの変装と同時キル。
+bestFor: 反応の良い戦闘を重視する反射神経派。
 avoidIf: アクション / ストラテジーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

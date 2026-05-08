@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "THEATRHYTHM FINAL BAR LINE: Playlist FF y cadenas de notas vuelven física la nostalgia; revisa"
-whatItIs: música y rol — THEATRHYTHM FINAL BAR LINE en Nintendo Switch
-bestFor: Jugadores que quieren música y rol en formato portátil
+whatItIs: 'música, rol: progresión, builds y rutas de misiones.'
+bestFor: Fans de builds RPG que valoran menús con peso.
 avoidIf: Evítalo si música y rol o ese ritmo no te llama.
 consensusPraise: Playlist FF y cadenas de notas vuelven física la es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

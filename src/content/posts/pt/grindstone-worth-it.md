@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Grindstone — quebra-cabeça; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: quebra-cabeça — Grindstone no Nintendo Switch.
-bestFor: Jogadores que querem quebra-cabeça em modo portátil.
+whatItIs: 'quebra-cabeça: regras de puzzle, pistas e retorno da solução.'
+bestFor: Jogadores de puzzle que valorizam soluções merecidas.
 avoidIf: Evite se quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

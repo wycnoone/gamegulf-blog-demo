@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Brightstone Mysteries: The Others: Objetos escondidos e pistas da mansão sustentam o mistério"
-whatItIs: "aventura e quebra-cabeça — Brightstone Mysteries: The Others no Nintendo Switch"
-bestFor: Para quem curte Objetos escondidos e pistas da.
+whatItIs: Objetos escondidos, pistas de mansão, telas estáticas e puzzles leves.
+bestFor: Solucionadores pacientes que valorizam cadeias de pistas.
 avoidIf: Evite se aventura e quebra-cabeça ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

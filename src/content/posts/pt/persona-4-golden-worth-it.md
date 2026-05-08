@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Persona 4 Golden — RPG; em abril de 2026 vale comparar regiões no GameGulf antes de pagar.
-whatItIs: RPG — Persona 4 Golden no Nintendo Switch.
-bestFor: Jogadores que querem RPG em modo portátil.
+whatItIs: Rotina de Inaba, Social Links, TV-dungeons e combates Persona por turno.
+bestFor: Pensadores de equipe que valorizam planejamento de equipe.
 avoidIf: Evite se RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (90 Metacritic) bate com pontos fortes citados por jogadores.
 mainFriction: Cansaço do gênero ou promoções diferentes por região.

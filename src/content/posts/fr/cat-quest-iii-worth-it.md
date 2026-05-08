@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Cat Quest III : Le Purribean garde Cat Quest léger ; vérifiez Japon ¥2,800"
-whatItIs: aventure et jeu de rôle — Cat Quest III sur Nintendo Switch
-bestFor: Pour qui accroche à Le Purribean garde Cat Quest.
+whatItIs: Le Purribean garde Cat Quest léger, drô.
+bestFor: Explorateurs qui valorisent l’exploration guidée.
 avoidIf: À éviter si aventure et jeu de rôle ou ce rythme vous laisse froid.
 consensusPraise: Le Purribean garde Cat Quest léger et drôle reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

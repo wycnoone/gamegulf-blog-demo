@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Ralph and the Blue Ball: La bola azul y errores de plataformas dan encanto; revisa Japón ¥300"
-whatItIs: puzle y plataformas — Ralph and the Blue Ball en Nintendo Switch
-bestFor: Para quien conecte con La bola azul y errores.
+whatItIs: 'puzle, plataformas: reglas de puzle, pistas y respuesta de solución.'
+bestFor: Jugadores lógicos que valoran cadenas de pistas.
 avoidIf: Evítalo si puzle y plataformas o ese ritmo no te llama.
 consensusPraise: La bola azul y errores de plataformas dan encanto es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

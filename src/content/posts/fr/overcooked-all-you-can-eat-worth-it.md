@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Overcooked! All You Can Eat: Le pack transforme toutes les cuisines en"
-whatItIs: simulation, stratégie et action — Overcooked! All You Can Eat sur Nintendo Switch
-bestFor: À conseiller si Le pack transforme toutes les cuisines en
+whatItIs: >-
+  simulation, stratégie, action : planification des tours, ressources et
+  contrôle de carte.
+bestFor: Joueurs tactiques qui préfèrent les problèmes patients.
 avoidIf: À éviter si simulation, stratégie et action ou ce rythme vous laisse
 consensusPraise: Le pack transforme toutes les cuisines en dispute reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

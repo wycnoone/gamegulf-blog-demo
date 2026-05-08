@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "BOKURA: planet: Dos pantallas y dos verdades hacen discutir al; revisa Brasil R$17.89"
-whatItIs: "acción, aventura y puzle — BOKURA: planet en NS2"
-bestFor: Recomendable si te atrae Dos pantallas y dos verdades hacen.
+whatItIs: Dos pantallas, dos verdades.
+bestFor: Solucionadores pacientes que valoran deducción tranquila.
 avoidIf: Evítalo si acción, aventura y puzle o ese ritmo no te llama.
 consensusPraise: Dos pantallas y dos verdades hacen discutir al dúo es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

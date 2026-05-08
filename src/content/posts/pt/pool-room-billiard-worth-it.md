@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "POOL ROOM BILLIARD: Ângulos, tacadas leves e clima de salão atraem; confira Hong Kong HK$75"
-whatItIs: simulação e esportes — POOL ROOM BILLIARD no NS2
-bestFor: Jogadores que querem simulação e esportes em modo portátil
+whatItIs: 'simulação, esportes: rotina diária, upgrades e metas longas.'
+bestFor: Otimizadores tranquilos que valorizam planejamento suave.
 avoidIf: Evite se simulação e esportes ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

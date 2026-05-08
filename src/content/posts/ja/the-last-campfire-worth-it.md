@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: The Last Campfire — アドベンチャー / パズル。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アドベンチャー / パズル — Nintendo Switch版The Last Campfire。
-bestFor: アドベンチャー / パズルのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー / パズル：迷える者の謎とエンバーの灯り。
+bestFor: 軽い道探しを重視する発見好き。
 avoidIf: アドベンチャー / パズルの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 83点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

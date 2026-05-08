@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kaiju Wars : Villes sacrifiées et maths de kaiju ; vérifiez Brésil R$69.99"
-whatItIs: stratégie, plates-formes et jeu de rôle — Kaiju Wars sur Nintendo Switch
-bestFor: Pour qui accroche à Villes sacrifiées et maths.
+whatItIs: Défense de ville, sacrifices de bâtiments, maths de kaiju et plans d’évacuation.
+bestFor: Planificateurs qui valorisent la planification.
 avoidIf: À éviter si Villes sacrifiées et maths de kaiju rendent ne vous attire
 consensusPraise: Villes sacrifiées et maths de kaiju rendent la défaite reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

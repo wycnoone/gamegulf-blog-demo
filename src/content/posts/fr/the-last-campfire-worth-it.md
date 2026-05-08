@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "The Last Campfire : Ember transforme les puzzles tristes en ; vérifiez Japon ¥1,480"
-whatItIs: aventure et puzzle — The Last Campfire sur Nintendo Switch
-bestFor: À conseiller si Ember transforme les puzzles tristes en
+whatItIs: Puzzles à la lanterne, petits dioramas, âmes perdues et exploration douce.
+bestFor: Joueurs logiques qui valorisent les défis lisibles.
 avoidIf: À éviter si aventure et puzzle ou ce rythme vous laisse froid.
 consensusPraise: Ember transforme les puzzles tristes en réconfort reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

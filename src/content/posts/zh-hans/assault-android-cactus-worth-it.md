@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Assault Android Cactus+：动作、街机、射击；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、街机、射击 — Switch 版 Assault Android Cactus+。
-bestFor: 喜欢电量倒计时和双摇杆清场让合作局很吵很爽的玩家
+whatItIs: 动作、街机、射击：瞄准压力、得分路线和短关循环。
+bestFor: 喜欢得分压力的玩家，看重短局技能考验。
 avoidIf: 需要强指引或不吃电量倒计时和双摇杆清场让合作局很吵很爽就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

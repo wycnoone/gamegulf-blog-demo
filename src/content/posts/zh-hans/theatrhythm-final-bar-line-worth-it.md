@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 最终幻想 节奏剧场 最终小节线：音乐、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 音乐、角色扮演 — Switch 版 最终幻想 节奏剧场 最终小节线。
-bestFor: 喜欢FF 歌单和触发连段会把情怀变成手忙脚乱的玩家
+whatItIs: 音乐、角色扮演：角色成长、构筑选择和任务推进。
+bestFor: 长线养成玩家，看重菜单决策。
 avoidIf: 需要强指引或不吃FF 歌单和触发连段会把情怀变成手忙脚乱就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

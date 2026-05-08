@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "OlliOlli World: Manuals, deuses do skate e restart rápido viciam; confira Hong Kong HK$156"
-whatItIs: arcade, tiro e plataforma — OlliOlli World no Nintendo Switch
-bestFor: Vale se Manuals, deuses do skate e restart parece seu tipo
+whatItIs: 'arcade, tiro, plataforma: pressão de mira, rotas de pontuação e fases curtas.'
+bestFor: Jogadores de reflexo que valorizam resposta direta.
 avoidIf: Evite se arcade, tiro e plataforma ou esse ritmo não combina.
 consensusPraise: A faixa crítica (87 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

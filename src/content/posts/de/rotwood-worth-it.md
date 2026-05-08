@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Rotwood: Wuchtige Koop-Treffer und Camp-Upgrades machen Runs rund; prüfe Brasilien R$88.99"
-whatItIs: Action, Abenteuer und Rollenspiel — Rotwood auf NS2
-bestFor: Für Spieler, die Wuchtige Koop-Treffer reizt.
+whatItIs: Jagd-Runs, wuchtige Treffer, Koop, Camp-Upgrades und Builds.
+bestFor: Langzeit-Aufbauer, die Stat-Kompromisse schätzen.
 avoidIf: Meiden, wenn Wuchtige Koop-Treffer und Camp-Upgrades dich nicht reizt
 consensusPraise: Steam-Reaktionen sind größtenteils positiv; gelobt werden Kampf, Koop und Builds
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

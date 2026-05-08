@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Super Mega Baseball 3：街机、模拟、体育；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 街机、模拟、体育 — Switch 版 Super Mega Baseball 3。
-bestFor: 喜欢Ego 难度、厚实打击和球队经营撑起棒球乐趣的玩家
+whatItIs: 街机、模拟、体育：Ego 难度、厚实打击和球队经营。
+bestFor: 系统型玩家，看重稳定日常。
 avoidIf: 需要强指引或不吃Ego 难度、厚实打击和球队经营撑起棒球乐趣就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

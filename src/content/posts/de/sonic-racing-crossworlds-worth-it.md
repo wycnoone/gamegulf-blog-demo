@@ -28,8 +28,10 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sonic Racing: CrossWorlds: CrossWorld-Portale und Rivalenboosts machen Sonic-Chaos; vor dem"
-whatItIs: "Rennspiel, Sport und Party — Sonic Racing: CrossWorlds auf Nintendo Switch"
-bestFor: Für Spieler, die CrossWorld-Portale und Rivalenboosts reizt.
+whatItIs: >-
+  Rennspiel, Sport, Party: Systeme, Modi und Eingabegefühl entscheiden die
+  Passung.
+bestFor: Reflexspieler, die kurze Skillchecks schätzen.
 avoidIf: Auslassen, wenn dich der Mix Rennspiel, Sport und Party nicht reizt
 consensusPraise: Das Kritikerband (84 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

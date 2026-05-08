@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Bastion: Kids Hammer und der Erzähler tragen die Reise; prüfe Deutschland €12.49"
-whatItIs: Action, Abenteuer und Rollenspiel — Bastion auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Kids Hammer und der Erzähler
+whatItIs: Kids Hammer, wechselbare Waffen, reaktiver Erzähler und schwebende Arenen.
+bestFor: Langzeit-Aufbauer, die Teamplanung schätzen.
 avoidIf: Meiden, wenn Kids Hammer und der Erzähler tragen die dich nicht reizt
 consensusPraise: Das Kritikerband (90 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "TUNIC: Manual, zorro y pistas sin traducir vuelven sagrado explorar; revisa Japón ¥4,085"
-whatItIs: acción, aventura y puzle — TUNIC en Nintendo Switch
-bestFor: Recomendable si te atrae Manual, zorro y pistas sin
+whatItIs: Manual, zorro, pistas sin traducir.
+bestFor: Jugadores de puzle que valoran tiempo para pensar.
 avoidIf: Evítalo si acción, aventura y puzle o ese ritmo no te llama.
 consensusPraise: Manual, zorro y pistas sin traducir vuelven sagrado es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

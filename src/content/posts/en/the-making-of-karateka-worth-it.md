@@ -25,7 +25,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 90 Metacritic doc kit; sales repeat—wait unless your eShop row is already sale-tier
 whatItIs: "Digital Eclipse doc: interactive timelines, Karateka originals, remaster, and prototype"
-bestFor: Best if you want museum pacing + commentary beat one
+bestFor: Fit-conscious buyers who value taste over hype.
 avoidIf: You only want one modern campaign—not a museum-and-ports binge
 consensusPraise: Curated artifacts and director commentary sell context beyond a ROM bundle
 mainFriction: Library-style grazing wins; shoppers wanting a single glossy arc may bounce

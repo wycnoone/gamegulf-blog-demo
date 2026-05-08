@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 菲斯：冒险、平台跳跃；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 冒险、平台跳跃 — Switch 版 菲斯。
-bestFor: 喜欢旋转方块、记笔记和反复怀疑门后秘密最上头的玩家
+whatItIs: 冒险、平台跳跃：关卡推进、移动节奏和重试手感。
+bestFor: 能接受重试的玩家，看重公平重试。
 avoidIf: 需要强指引或不吃旋转方块、记笔记和反复怀疑门后秘密最上头就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 88 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

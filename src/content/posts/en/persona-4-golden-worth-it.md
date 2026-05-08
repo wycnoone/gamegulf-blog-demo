@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Persona 4 Golden: Inaba fog, Social Links, and TV dungeons make; check Japan ¥1,980"
-whatItIs: role-playing — Persona 4 Golden on Nintendo Switch
-bestFor: Best if you want inaba fog, Social Links, and TV dungeons
+whatItIs: Inaba fog, Social Links, TV dungeons.
+bestFor: Build-minded RPG fans who value build identity.
 avoidIf: Skip if role-playing or that rhythm leaves you cold.
 consensusPraise: Inaba fog, Social Links, and TV dungeons make the year stick is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

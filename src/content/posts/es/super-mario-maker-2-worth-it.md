@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Super Mario Maker 2: Bloques troll, códigos y modo infinito hacen Mario personal"
-whatItIs: plataformas y acción — Super Mario Maker 2 en Nintendo Switch
-bestFor: Recomendable si te atrae Bloques troll, códigos y modo.
+whatItIs: 'plataformas, acción: ritmo de combate, movimiento y encuentros.'
+bestFor: Perfiles de reflejos que valoran amenazas legibles.
 avoidIf: Evítalo si plataformas y acción o ese ritmo no te llama.
 consensusPraise: Bloques troll, códigos y modo infinito hacen Mario es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

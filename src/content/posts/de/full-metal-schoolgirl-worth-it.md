@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FULL METAL SCHOOLGIRL: Schulmädchen-Mechs und Bürozerstörung liefern Absurdität"
-whatItIs: Action und Shooter — FULL METAL SCHOOLGIRL auf NS2
-bestFor: Für Fans von Schulmädchen-Mechs und Bürozerstörung.
+whatItIs: 'Action, Shooter: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Reflexspieler, die Ausführungstests schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Shooter nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

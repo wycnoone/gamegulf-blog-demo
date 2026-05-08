@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Cat Quest III: Purribean sailing, cat puns, and fast loot keep it breezy; check Japan ¥2,800"
-whatItIs: adventure, role-playing — Cat Quest III on Nintendo Switch
-bestFor: Best if you want purribean sailing, cat puns, and fast loot
+whatItIs: 'adventure, role-playing: party growth, build choices, and quest routing.'
+bestFor: Build-minded RPG fans who value quest pacing.
 avoidIf: Skip if adventure, role-playing or that rhythm leaves you cold.
 consensusPraise: Purribean sailing, cat puns, and fast loot keep it breezy is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

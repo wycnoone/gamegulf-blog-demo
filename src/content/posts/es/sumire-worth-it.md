@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: Sumire — aventura; en abril de 2026 conviene comparar regiones en GameGulf antes de pagar
-whatItIs: aventura — Sumire en Nintendo Switch
-bestFor: Jugadores que quieren aventura en formato portátil
+whatItIs: Un día, promesa floral, pequeños remordimientos duelen.
+bestFor: Buscadores de ambiente que valoran exploración guiada.
 avoidIf: Evítalo si aventura o ese ritmo no te llama.
 consensusPraise: Un día, promesa floral y pequeños remordimientos es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

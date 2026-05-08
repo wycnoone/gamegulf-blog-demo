@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Apollo Justice: Ace Attorney Trilogy: Le bracelet d’Apollo et les retournements"
-whatItIs: "aventure — Apollo Justice: Ace Attorney Trilogy sur Nintendo Switch"
-bestFor: Joueurs qui veulent du aventure au format portable
+whatItIs: Le bracelet d’Apollo, les retournements.
+bestFor: Chercheurs d’ambiance qui valorisent la curiosité de route.
 avoidIf: À éviter si aventure ou ce rythme vous laisse froid.
 consensusPraise: Le bracelet d’Apollo et les retournements font tenir reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

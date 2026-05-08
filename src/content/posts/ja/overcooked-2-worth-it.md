@@ -30,8 +30,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: オーバークック2 — パーティー / ストラテジー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: パーティー / ストラテジー — Nintendo Switch版オーバークック2。
-bestFor: パーティー / ストラテジーのテンポを携帯機で遊びたい人。
+whatItIs: パーティー, ストラテジー：中核システム、モード構成、操作感で相性を見る。
+bestFor: 明確な期待値を重視する相性重視の人。
 avoidIf: パーティー / ストラテジーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 81点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

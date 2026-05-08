@@ -32,9 +32,7 @@ featuredPriority: 2
 listingTakeaway: >-
   Roguelite 93 Metacritic — Japón lidera el índice; las ofertas profundas son
   raras pero duras.
-whatItIs: >-
-  Roguelite ARPG: runs por el inframundo, historia en el hub, pulido y OST
-  Supergiant.
+whatItIs: 'Hack: sistemas, modos y sensación de control marcan el encaje.'
 bestFor: Sesiones cortas con arco narrativo largo.
 avoidIf: Evítalo si la repetición roguelite te agota o necesitas un rail lineal.
 consensusPraise: Manejo, guion, arte y música siguen en la élite indie de Switch.

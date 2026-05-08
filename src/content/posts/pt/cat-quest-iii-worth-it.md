@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Cat Quest III: Navegação felina, trocadilhos e loot rápido deixam leve; confira Japão ¥2,800"
-whatItIs: aventura e RPG — Cat Quest III no Nintendo Switch
-bestFor: Jogadores que querem aventura e RPG em modo portátil
+whatItIs: 'aventura, RPG: progressão, builds e rotas de missões.'
+bestFor: Planejadores de progresso que valorizam menus com peso.
 avoidIf: Evite se aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

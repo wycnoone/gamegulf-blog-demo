@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: POOL ROOM BILLIARD：模拟、体育；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 模拟、体育 — NS2 版 POOL ROOM BILLIARD。
-bestFor: 喜欢看角度、轻推杆和本地球房感才是主要卖点的玩家
+whatItIs: 模拟、体育：看角度、轻推杆和本地球房感。
+bestFor: 低压力规划型玩家，看重轻度优化。
 avoidIf: 需要强指引或不吃看角度、轻推杆和本地球房感才是主要卖点就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 70 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

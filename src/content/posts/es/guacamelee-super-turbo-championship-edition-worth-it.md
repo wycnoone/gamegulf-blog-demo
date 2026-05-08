@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Guacamelee! Super Turbo Championship Edition: Cambiar dimensión y golpear como luchador"
-whatItIs: acción y plataformas — Guacamelee! Super Turbo Championship Edition en Nintendo Switch
-bestFor: Recomendable si te atrae Cambiar dimensión y golpear como.
+whatItIs: Cambiar dimensión, golpear como luchador.
+bestFor: Perfiles de reflejos que valoran inputs activos.
 avoidIf: Evítalo si acción y plataformas o ese ritmo no te llama.
 consensusPraise: Cambiar dimensión y golpear como luchador es la es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Hollow Knight: Verlaufen, Bosswände und Silksong-Warten gehören zum Ritual"
-whatItIs: "Metroidvania: interconnected world, nail combat, charms, 40+ bosses, and three free DLCs"
+whatItIs: Metroidvania mit Hallownest-Karte, Nagelkampf, Amuletten, Bosswänden und DLCs.
 bestFor: Explorers who love hidden paths and tough bosses
 avoidIf: You need clear waypoints — it drops you in and says figure it out
 consensusPraise: World design, boss roster, and free content make it one of gaming's best values

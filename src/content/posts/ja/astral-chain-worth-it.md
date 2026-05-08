@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: ASTRAL CHAIN — アクション / アドベンチャー。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー — Nintendo Switch版ASTRAL CHAIN。
-bestFor: アクション / アドベンチャーのテンポを携帯機で遊びたい人。
+whatItIs: レギオン操作、捜査パート、シンクアタック、二体連携のアクション。
+bestFor: ルートへの好奇心を重視する雰囲気重視の人。
 avoidIf: アクション / アドベンチャーの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

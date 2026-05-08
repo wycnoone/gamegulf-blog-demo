@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Death's Door: Krähen-Seelenjob, Dodges und Jenseitswitz tragen es; prüfe Japan ¥2,050"
-whatItIs: Action, Abenteuer und Arcade — Death's Door auf Nintendo Switch
-bestFor: Für Spieler, die Krähen-Seelenjob, Dodges reizt.
+whatItIs: 'Action, Abenteuer, Arcade: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Score-Jäger, die Arcade-Tempo schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Abenteuer und Arcade nicht reizt
 consensusPraise: Das Kritikerband (89 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

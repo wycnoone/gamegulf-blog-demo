@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: シドマイヤーズ シヴィライゼーション VII — ストラテジー / シミュレーション。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: ストラテジー / シミュレーション — Nintendo Switch版シドマイヤーズ シヴィライゼーション VII。
-bestFor: ストラテジー / シミュレーションのテンポを携帯機で遊びたい人。
+whatItIs: ストラテジー, シミュレーション：日課、アップグレード循環、長期目標。
+bestFor: 軽い最適化を重視する低圧プランナー。
 avoidIf: ストラテジー / シミュレーションの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 86点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Neon White: Neon White turns discarded cards into speed tech; check Germany €21.99 before buying"
-whatItIs: action, adventure, First-person — Neon White on Nintendo Switch
-bestFor: Best if you want neon White turns discarded cards
+whatItIs: >-
+  action, adventure, First-person: combat timing, movement feel, and encounter
+  rhythm.
+bestFor: Atmosphere seekers who value light navigation.
 avoidIf: Skip if action, adventure, First-person or that rhythm leaves you cold.
 consensusPraise: Neon White turns discarded cards into speed tech is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

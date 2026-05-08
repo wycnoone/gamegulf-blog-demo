@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: 堡垒：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、角色扮演 — Switch 版 堡垒。
-bestFor: 喜欢小子的锤子、旁白吐槽和碎裂世界最有记忆点的玩家
+whatItIs: 小子锤子、可换武器、反应式旁白和浮空竞技场。
+bestFor: 菜单决策型玩家，看重数值权衡。
 avoidIf: 需要强指引或不吃小子的锤子、旁白吐槽和碎裂世界最有记忆点就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 90 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

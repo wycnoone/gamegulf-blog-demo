@@ -29,7 +29,7 @@ actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "DAVE THE DIVER: Blue Hole e correria do sushi tornam “mais um dia” perigoso"
 whatItIs: "Aventura de mergulho e gestão de restaurante: pesque de dia, sirva sushi à noite."
-bestFor: Para quem curte Blue Hole e correria do sushi.
+bestFor: Perfis de encaixe primeiro que valorizam cuidado com preço.
 avoidIf: Evite se você quer só ação ou só gestão.
 consensusPraise: A mistura funciona melhor do que parece; humor e arte seguram 30 h+.
 mainFriction: Algumas partes de gestão podem virar repetição, e sistemas novos chegam rápido.

@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Hollow Knight: Perderse, chocar con jefes y esperar Silksong es el ritual; revisa Brasil R$27.99"
-whatItIs: "Metroidvania: interconnected world, nail combat, charms, 40+ bosses, and three free DLCs"
+whatItIs: Metroidvania con mapa conectado, combate con aguijón, amuletos y jefes duros.
 bestFor: Explorers who love hidden paths and tough bosses
 avoidIf: You need clear waypoints — it drops you in and says figure it out
 consensusPraise: World design, boss roster, and free content make it one of gaming's best values

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 双点校园：策略；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 策略 — Switch 版 双点校园。
-bestFor: 喜欢离谱课程、学生心情和房间摆放撑起校园经营梗的玩家
+whatItIs: 策略：回合规划、资源压力和地图控制。
+bestFor: 爱读局势的玩家，看重规划窗口。
 avoidIf: 需要强指引或不吃离谱课程、学生心情和房间摆放撑起校园经营梗就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

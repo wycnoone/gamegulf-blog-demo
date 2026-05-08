@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Relayer Advanced Definitive Edition: Mechas Starchild, aggro e grade tática seguram; confira"
-whatItIs: RPG e estratégia — Relayer Advanced Definitive Edition no NS2
-bestFor: Jogadores que querem RPG e estratégia em modo portátil
+whatItIs: 'RPG, estratégia: progressão, builds e rotas de missões.'
+bestFor: Fãs de builds RPG que valorizam trocas de atributos.
 avoidIf: Evite se RPG e estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (70 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

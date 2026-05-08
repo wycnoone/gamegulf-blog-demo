@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Hyper Light Drifter - Special Edition: Dash, lore sem fala e raposas de cristal ficam na"
-whatItIs: ação, aventura e RPG — Hyper Light Drifter - Special Edition no Nintendo Switch
-bestFor: Jogadores que querem ação, aventura e RPG em modo portátil
+whatItIs: Dash preciso, combate próximo, mapa sem fala e segredos de cristal.
+bestFor: Fãs de builds RPG que valorizam menus com peso.
 avoidIf: Evite se ação, aventura e RPG ou esse ritmo não combina.
 consensusPraise: A faixa crítica (88 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

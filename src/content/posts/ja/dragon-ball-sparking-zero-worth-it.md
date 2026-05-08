@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: ドラゴンボール Sparking! ZERO — アクション / 格闘。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / 格闘 — NS2版ドラゴンボール Sparking! ZERO。
-bestFor: アクション / 格闘のテンポを携帯機で遊びたい人。
+whatItIs: アクション, 格闘：戦闘テンポ、移動感、遭遇設計。
+bestFor: 戦闘リズムを重視する反射神経派。
 avoidIf: アクション / 格闘の気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 83点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

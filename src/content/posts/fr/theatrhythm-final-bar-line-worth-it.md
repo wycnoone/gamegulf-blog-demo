@@ -26,7 +26,7 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "THEATRHYTHM FINAL BAR LINE: Playlist FF et chaînes de triggers rendent la nostalgie physique"
-whatItIs: musique et jeu de rôle — THEATRHYTHM FINAL BAR LINE sur Nintendo Switch
+whatItIs: 'musique, jeu de rôle : systèmes, modes et sensations de contrôle font le tri.'
 bestFor: Pour qui accroche à Playlist FF et chaînes.
 avoidIf: À éviter si musique et jeu de rôle ou ce rythme vous laisse froid.
 consensusPraise: Playlist FF et chaînes de triggers rendent la reste le vrai point d’accroche.

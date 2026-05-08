@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Katamari Damacy REROLL: Objets collés, roi qui râle et taille folle; vérifiez Brésil R$179.9"
-whatItIs: action et arcade — Katamari Damacy REROLL sur Nintendo Switch
-bestFor: Joueurs qui veulent du action et arcade au format portable
+whatItIs: 'action, arcade : pression de visée, scoring et boucles courtes.'
+bestFor: Chasseurs de score qui valorisent les tests courts.
 avoidIf: À éviter si action et arcade ou ce rythme vous laisse froid.
 consensusPraise: Objets collés, roi qui râle et taille folle font reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

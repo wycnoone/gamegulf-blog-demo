@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Streets of Rage 4: Wall bounces and risk specials carry the brawl; check Japan ¥2,599"
-whatItIs: action, arcade, fighting — Streets of Rage 4 on Nintendo Switch
-bestFor: Best if you want wall bounces and risk specials carry
+whatItIs: >-
+  action, arcade, fighting: aiming pressure, scoring routes, and short-stage
+  loops.
+bestFor: Aim-focused players who value execution tests.
 avoidIf: Skip if action, arcade, fighting or that rhythm leaves you cold.
 consensusPraise: Wall bounces and risk specials carry the brawl is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

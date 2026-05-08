@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: 墨西哥英雄大混战！超级涡轮冠军版：动作、平台跳跃；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、平台跳跃 — Switch 版 墨西哥英雄大混战！超级涡轮冠军版。
-bestFor: 喜欢阴阳世界切换和摔角拳脚撑起初代墨西哥英雄味的玩家
+whatItIs: 动作、平台跳跃：阴阳世界切换和摔角拳脚。
+bestFor: 喜欢精准操作的玩家，看重移动熟练度。
 avoidIf: 需要强指引或不吃阴阳世界切换和摔角拳脚撑起初代墨西哥英雄味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

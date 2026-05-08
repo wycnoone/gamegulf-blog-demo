@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Rotwood：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险、角色扮演 — NS2 版 Rotwood。
-bestFor: 喜欢厚重打击、合作刷怪和营地升级让每趟都很顺口的玩家
+whatItIs: 合作刷怪、厚重打击、营地升级、装备构筑和短局循环。
+bestFor: 爱研究配队的玩家，看重任务节奏。
 avoidIf: 需要强指引或不吃厚重打击、合作刷怪和营地升级让每趟都很顺口就先别买
 consensusPraise: Steam 口碑为多半好评，讨论集中在战斗、合作和配装循环。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

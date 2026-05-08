@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: Huntdown：动作、街机、平台跳跃；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、街机、平台跳跃 — Switch 版 Huntdown。
-bestFor: 喜欢滑铲射击、通缉令和 80 年代帮派 Boss 最有味的玩家
+whatItIs: 动作、街机、平台跳跃：关卡推进、移动节奏和重试手感。
+bestFor: 爱关卡挑战的玩家，看重公平重试。
 avoidIf: 需要强指引或不吃滑铲射击、通缉令和 80 年代帮派 Boss 最有味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

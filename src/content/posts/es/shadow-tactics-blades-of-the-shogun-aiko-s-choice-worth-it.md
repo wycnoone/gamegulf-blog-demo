@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Shadow Tactics: Blades of the Shogun - Aiko's Choice: Disfraces de Aiko y muertes sincronizadas"
-whatItIs: "acción y estrategia — Shadow Tactics: Blades of the Shogun - Aiko's Choice en NS2"
-bestFor: Recomendable si te atrae Disfraces de Aiko y muertes.
+whatItIs: 'acción, estrategia: planificación por turnos, recursos y control del mapa.'
+bestFor: Jugadores tácticos que valoran ventanas de planificación.
 avoidIf: Evítalo si acción y estrategia o ese ritmo no te llama.
 consensusPraise: Disfraces de Aiko y muertes sincronizadas lucen es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Lorelei and the Laser Eyes: Hotelcodes, falsche Fährten und Notizen fordern Besessenheit"
-whatItIs: Puzzle und Abenteuer — Lorelei and the Laser Eyes auf Nintendo Switch
-bestFor: Für Spieler, die Hotelcodes, falsche Fährten reizt.
+whatItIs: 'Puzzle, Abenteuer: Rätselregeln, Hinweisfluss und Lösungsfeedback.'
+bestFor: Geduldige Knobler, die Hinweisketten schätzen.
 avoidIf: Auslassen, wenn dich der Mix Puzzle und Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

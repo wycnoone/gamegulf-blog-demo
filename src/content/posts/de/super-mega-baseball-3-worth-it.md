@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Super Mega Baseball 3: Ego-Regler, sattes Schlagen und Franchise tragen Baseball"
-whatItIs: Arcade, Simulation und Sport — Super Mega Baseball 3 auf Nintendo Switch
-bestFor: Für Spieler, die Ego-Regler, sattes Schlagen reizt.
+whatItIs: >-
+  Arcade, Simulation, Sport: Alltagsroutine, Upgrade-Schleifen und
+  Langzeitziele.
+bestFor: Zielgefühl-Spieler, die kurze Skillchecks schätzen.
 avoidIf: Auslassen, wenn dich der Mix Arcade, Simulation und Sport nicht reizt
 consensusPraise: Das Kritikerband (87 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 公理边缘：动作、冒险；2026 年 4 月价格分区差值得先对照 GameGulf。
-whatItIs: 动作、冒险 — Switch 版 公理边缘。
-bestFor: 喜欢故障枪、异星走廊和地图疑心病才是它的类银河味的玩家
+whatItIs: 动作、冒险：故障枪、异星走廊和地图疑心病。
+bestFor: 重视氛围的玩家，看重带方向的闲逛。
 avoidIf: 需要强指引或不吃故障枪、异星走廊和地图疑心病才是它的类银河味就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 87 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

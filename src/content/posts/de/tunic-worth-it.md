@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "TUNIC: Handbuchseiten, Fuchsgeheimnisse und fremde Hinweise wirken; prüfe Japan ¥4,085"
-whatItIs: Action, Abenteuer und Puzzle — TUNIC auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Handbuchseiten, Fuchsgeheimnisse
+whatItIs: Handbuchseiten, Fuchsgeheimnisse, fremde Hinweise.
+bestFor: Geduldige Knobler, die verdiente Lösungen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Abenteuer und Puzzle nicht reizt
 consensusPraise: Das Kritikerband (88 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

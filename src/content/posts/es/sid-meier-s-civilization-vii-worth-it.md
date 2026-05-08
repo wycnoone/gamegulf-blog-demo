@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Sid Meier's Civilization VII: Edades, diplomacia y otro turno decidirán la charla"
-whatItIs: estrategia y simulación — Sid Meier's Civilization VII en Nintendo Switch
-bestFor: Recomendable si te atrae Edades, diplomacia y otro turno.
+whatItIs: 'estrategia, simulación: planificación por turnos, recursos y control del mapa.'
+bestFor: Planificadores que valoran ventanas de planificación.
 avoidIf: Evítalo si estrategia y simulación o ese ritmo no te llama.
 consensusPraise: Edades, diplomacia y otro turno decidirán la charla es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

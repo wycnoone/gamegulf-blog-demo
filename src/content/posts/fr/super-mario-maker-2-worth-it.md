@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Super Mario Maker 2 : Blocs troll et codes créateurs ; vérifiez Japon ¥6,578"
-whatItIs: plates-formes et action — Super Mario Maker 2 sur Nintendo Switch
-bestFor: À conseiller si Blocs troll et codes créateurs vous parle.
+whatItIs: 'plates-formes, action : timing de combat, mobilité et rythme des rencontres.'
+bestFor: Amateurs d’action qui valorisent les inputs actifs.
 avoidIf: À éviter si plates-formes et action ou ce rythme vous laisse froid.
 consensusPraise: Blocs troll et codes créateurs personnalisent Mario reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

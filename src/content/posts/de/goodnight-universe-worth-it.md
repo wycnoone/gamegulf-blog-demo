@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Goodnight Universe: Baby Isaacs Kräfte verdrehen Familienszenen komisch; prüfe Japan ¥2,420"
-whatItIs: Abenteuer — Goodnight Universe auf NS2
-bestFor: Für Spieler mit Lust auf Baby Isaacs Kräfte verdrehen
+whatItIs: 'Abenteuer: Erkundung, Interaktionen und Routenwahl.'
+bestFor: Stimmungsfans, die Stimmung ohne Grind schätzen.
 avoidIf: Auslassen, wenn dich der Mix Abenteuer nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

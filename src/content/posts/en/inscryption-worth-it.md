@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Inscryption: Stoat talk, teeth economy, and cabin secrets sell the unease; check Brazil R$49.99"
-whatItIs: strategy, adventure, puzzle — Inscryption on Nintendo Switch
-bestFor: Best if you want stoat talk, teeth economy, and cabin
+whatItIs: 'strategy, adventure, puzzle: puzzle rules, clue flow, and solution feedback.'
+bestFor: Board-state readers who value clear tradeoffs.
 avoidIf: Skip if strategy, adventure, puzzle or that rhythm leaves you cold.
 consensusPraise: Stoat talk, teeth economy, and cabin secrets sell the unease is the main appeal
 mainFriction: If the hook misses, the rhythm can feel thin

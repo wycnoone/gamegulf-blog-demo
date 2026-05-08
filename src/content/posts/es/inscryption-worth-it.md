@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Inscryption: El armiño, los dientes y la cabaña generan inquietud; revisa Brasil R$49.99"
-whatItIs: estrategia, aventura y puzle — Inscryption en Nintendo Switch
-bestFor: Recomendable si te atrae El armiño, los dientes y la cabaña.
+whatItIs: 'estrategia, aventura, puzle: reglas de puzle, pistas y respuesta de solución.'
+bestFor: Jugadores tácticos que valoran compromisos claros.
 avoidIf: Evítalo si estrategia, aventura y puzle o ese ritmo no te llama.
 consensusPraise: El armiño, los dientes y la cabaña generan inquietud es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

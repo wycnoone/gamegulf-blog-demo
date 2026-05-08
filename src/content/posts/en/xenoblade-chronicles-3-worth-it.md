@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Xenoblade Chronicles 3: Ouroboros links and chain attacks carry the saga; check Hong Kong"
-whatItIs: "Open-world JRPG: real-time combat, class-switching, and a 60+ hour story"
+whatItIs: 'Real-time JRPG: party growth, build choices, and quest routing.'
 bestFor: JRPG fans who want a massive world and deep combat
 avoidIf: You want short sessions — it is a 60+ hour commitment with a slow start
 consensusPraise: World scale, combat depth, and flexible classes carry the 60+ hour runtime

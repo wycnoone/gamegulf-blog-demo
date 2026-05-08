@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "FULL METAL SCHOOLGIRL: Mechas lycéennes et bureaux détruits; vérifiez Hong Kong HK$350"
-whatItIs: action et tir — FULL METAL SCHOOLGIRL sur NS2
-bestFor: Joueurs qui veulent du action et tir au format portable
+whatItIs: 'action, tir : timing de combat, mobilité et rythme des rencontres.'
+bestFor: Joueurs combatifs qui valorisent moins de menus.
 avoidIf: À éviter si action et tir ou ce rythme vous laisse froid.
 consensusPraise: Mechas lycéennes et bureaux détruits vendent l’absurde reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

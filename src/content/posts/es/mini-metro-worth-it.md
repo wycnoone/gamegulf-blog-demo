@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Mini Metro: Una estación más puede arruinar tu mapa perfecto; revisa Japón ¥1,100"
-whatItIs: puzle, simulación y acción — Mini Metro en Nintendo Switch
-bestFor: Recomendable si te atrae Una estación más puede arruinar tu.
+whatItIs: 'puzle, simulación, acción: reglas de puzle, pistas y respuesta de solución.'
+bestFor: Solucionadores pacientes que valoran reglas claras.
 avoidIf: Evítalo si puzle, simulación y acción o ese ritmo no te llama.
 consensusPraise: Una estación más puede arruinar tu mapa perfecto es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

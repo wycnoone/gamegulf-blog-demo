@@ -26,7 +26,7 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Xenoblade Chronicles 3: Ouroboros, classes e combos sustentam a saga"
-whatItIs: JRPG de mundo aberto com combate em tempo real, classes e história de 60 h+
+whatItIs: 'JRPG em tempo real: artes, combos, classes e fusões Ouroboros.'
 bestFor: Para fãs de JRPG que querem mundo grande e combate profundo
 avoidIf: Evite se você quer sessões curtas; a jornada passa de 60 h.
 consensusPraise: Escala, combate e classes flexíveis sustentam a longa jornada

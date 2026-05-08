@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Sport & Fun: Swimming: Zugtiming und Bahnenwiederholung sind der Schwimmkern; prüfe Japan ¥2,699"
-whatItIs: "Simulation und Sport — Sport & Fun: Swimming auf Nintendo Switch"
-bestFor: Für Spieler mit Lust auf Zugtiming und Bahnenwiederholung
+whatItIs: 'Simulation, Sport: Alltagsroutine, Upgrade-Schleifen und Langzeitziele.'
+bestFor: Routinebauer, die kleine Upgrades schätzen.
 avoidIf: Auslassen, wenn dich der Mix Simulation und Sport nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

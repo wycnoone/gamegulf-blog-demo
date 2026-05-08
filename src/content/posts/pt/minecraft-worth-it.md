@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Minecraft: Primeira noite, redstone e mundos com amigos nunca acabam; confira Brasil R$99"
-whatItIs: ação, aventura e estratégia — Minecraft no Nintendo Switch
-bestFor: Para quem curte Primeira noite, redstone e mundos.
+whatItIs: 'Sobrevivência sandbox: coleta, criação, construção, redstone e mundos compartilhados.'
+bestFor: Buscadores de clima que valorizam exploração guiada.
 avoidIf: Evite se ação, aventura e estratégia ou esse ritmo não combina.
 consensusPraise: A faixa crítica (86 Metacritic) bate com pontos fortes citados por jogadores
 mainFriction: Se o ritmo não pega, promoção nenhuma resolve muito.

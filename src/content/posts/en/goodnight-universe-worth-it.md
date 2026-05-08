@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Goodnight Universe: Baby Isaac’s psychic chaos turns family scenes into weird comedy; check"
-whatItIs: adventure — Goodnight Universe on NS2
-bestFor: Best if you want baby Isaac’s psychic chaos turns family
+whatItIs: Psychic baby powers, family scenes, branching reactions, and weird comedy.
+bestFor: Atmosphere seekers who value story texture.
 avoidIf: Skip if adventure or that rhythm leaves you cold.
 consensusPraise: Baby Isaac’s psychic chaos turns family scenes into weird comedy is the main
 mainFriction: If the hook misses, the rhythm can feel thin

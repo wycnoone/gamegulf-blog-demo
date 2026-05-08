@@ -26,8 +26,10 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Streets of Rage 4: Rebotes, especiales con riesgo y revancha local sostienen"
-whatItIs: acción, arcade y lucha — Streets of Rage 4 en Nintendo Switch
-bestFor: Recomendable si te atrae Rebotes, especiales con riesgo y.
+whatItIs: >-
+  acción, arcade, lucha: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Perfiles arcade que valoran presión de puntuación.
 avoidIf: Evítalo si acción, arcade y lucha o ese ritmo no te llama.
 consensusPraise: Rebotes, especiales con riesgo y revancha local es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

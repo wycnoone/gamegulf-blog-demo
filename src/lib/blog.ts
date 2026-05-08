@@ -282,6 +282,22 @@ function entryToPost(entry: CollectionEntry<'posts'>): BlogPost {
 }
 
 export async function getAllPosts(locale: BlogLocale): Promise<BlogPost[]> {
+  if (import.meta.env.PROD) {
+    let cached = postsByLocaleCache.get(locale);
+    if (!cached) {
+      cached = loadAllPosts(locale);
+      postsByLocaleCache.set(locale, cached);
+    }
+    return cached;
+  }
+
+  // Keep dev-server content edits visible without a process restart.
+  return loadAllPosts(locale);
+}
+
+const postsByLocaleCache = new Map<BlogLocale, Promise<BlogPost[]>>();
+
+async function loadAllPosts(locale: BlogLocale): Promise<BlogPost[]> {
   const entries = await getCollection('posts', ({ id }) => id.startsWith(`${locale}/`));
   return entries
     .map(entryToPost)
@@ -499,6 +515,7 @@ function getSearchIndex(post: BlogPost): DecisionSearchIndex {
     title: post.title.toLowerCase(),
     tags: post.tags.map((t) => t.toLowerCase()),
     quickFilters: qf,
+    otherPlatformLabels: post.otherPlatformLabels?.map((label) => label.toLowerCase()),
     listingTakeaway: getDisplayListingTakeaway(post).toLowerCase(),
     communityVibe: post.communityVibe?.toLowerCase(),
     playtime: getDisplayPlaytime(post).toLowerCase(),
@@ -552,6 +569,9 @@ export async function prepareDecisionEntryCard(post: BlogPost): Promise<Decision
     quickFilters: inferQuickFilters(post),
     actionBucket,
     featuredPriority,
+    hasOtherPlatforms: Boolean(post.hasOtherPlatforms && post.otherPlatformLabels?.length),
+    otherPlatformLabels: post.otherPlatformLabels,
+    metacriticScore: metacriticScore ?? undefined,
     publishedAt: post.publishedAt,
     updatedAt: post.updatedAt,
     readingTime: post.readingTime,

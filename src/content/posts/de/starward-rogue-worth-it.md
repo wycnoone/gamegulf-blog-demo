@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Starward Rogue: Bullet-Hell-Räume und Twin-Stick-Relikte spannen Etagen; prüfe Brasilien R$52.99"
-whatItIs: Action und Arcade — Starward Rogue auf Nintendo Switch
-bestFor: Für Spieler, die Bullet-Hell-Räume reizt.
+whatItIs: 'Action, Arcade: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Run-Spieler, die riskante Entscheidungen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action und Arcade nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

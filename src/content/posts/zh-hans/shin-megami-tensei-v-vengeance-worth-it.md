@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Shin Megami Tensei V: Vengeance：动作、冒险、角色扮演；2026 年 4 月价格分区差值得先对照 GameGulf。"
-whatItIs: "动作、冒险、角色扮演 — Switch 版 Shin Megami Tensei V: Vengeance。"
-bestFor: 喜欢Press Turn、恶魔合成和达识埋伏让它很硬核的玩家
+whatItIs: Press Turn、恶魔合成、达识探索和高压伏击战。
+bestFor: 爱研究配队的玩家，看重构筑身份。
 avoidIf: 需要强指引或不吃Press Turn、恶魔合成和达识埋伏让它很硬核就先别买
 consensusPraise: 口碑集中在玩法与完成度；Metacritic 约 86 分 可作质量锚点。
 mainFriction: 区服不同步：不是每个账号都能看到同一档折扣。

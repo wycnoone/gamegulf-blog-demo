@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Evoland Legendary Edition: Spielgeschichte-Gags und Grafikstufen sind der Nostalgie-Trick"
-whatItIs: Action, Abenteuer und Rollenspiel — Evoland Legendary Edition auf Nintendo Switch
-bestFor: Für Fans von Spielgeschichte-Gags und Grafikstufen sind.
+whatItIs: Grafikstufen, Genrewechsel, RPG-Gags und Retro-Kämpfe.
+bestFor: Build-RPG-Fans, die Quest-Tempo schätzen.
 avoidIf: Meiden, wenn Spielgeschichte-Gags und Grafikstufen sind dich nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

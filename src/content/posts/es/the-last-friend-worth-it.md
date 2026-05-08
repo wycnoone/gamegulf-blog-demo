@@ -26,8 +26,10 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "The Last Friend: Rescatar perros, barricadas y lanes lo vuelven raro; revisa Japón ¥1,520"
-whatItIs: aventura, arcade y lucha — The Last Friend en Nintendo Switch
-bestFor: Para quien conecte con Rescatar perros, barricadas.
+whatItIs: >-
+  aventura, arcade, lucha: presión de apuntado, rutas de puntuación y fases
+  cortas.
+bestFor: Cazadores de puntuación que valoran ritmo arcade.
 avoidIf: Evítalo si aventura, arcade y lucha o ese ritmo no te llama.
 consensusPraise: Rescatar perros, barricadas y lanes lo vuelven raro es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

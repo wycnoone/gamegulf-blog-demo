@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Brightstone Mysteries: The Others — アドベンチャー / パズル。2026年4月の地域差はGameGulfで先に確認。"
-whatItIs: "アドベンチャー / パズル — Nintendo Switch版Brightstone Mysteries: The Others。"
-bestFor: アドベンチャー / パズルのテンポを携帯機で遊びたい人。
+whatItIs: アドベンチャー / パズル：探し物画面、屋敷の手。
+bestFor: 導線ある寄り道を重視する探索重視の人。
 avoidIf: アドベンチャー / パズルの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Kentucky Route Zero: TV Edition: Autoroute fantôme, dette et rythme théâtral restent en tête"
-whatItIs: "aventure — Kentucky Route Zero: TV Edition sur Nintendo Switch"
-bestFor: Joueurs qui veulent du aventure au format portable
+whatItIs: Autoroute fantôme, dette, rythme théâtral.
+bestFor: Chercheurs d’ambiance qui valorisent l’orientation légère.
 avoidIf: À éviter si aventure ou ce rythme vous laisse froid.
 consensusPraise: Autoroute fantôme, dette et rythme théâtral restent en reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

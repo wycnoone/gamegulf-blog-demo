@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Fitness Boxing Fist of the North Star: Les coups Hokuto rendent les séries bêtement motivantes"
-whatItIs: sport et musique — Fitness Boxing Fist of the North Star sur Nintendo Switch
-bestFor: Joueurs qui veulent du sport et musique au format portable
+whatItIs: 'sport, musique : systèmes, modes et sensations de contrôle font le tri.'
+bestFor: Acheteurs prudents qui valorisent la prudence prix.
 avoidIf: À éviter si sport et musique ou ce rythme vous laisse froid.
 consensusPraise: Les coups Hokuto rendent les séries bêtement reste le vrai point d’accroche.
 mainFriction: Fatigue du genre ou promos décalées selon les régions

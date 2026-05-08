@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: POOL ROOM BILLIARD — シミュレーション / スポーツ。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: シミュレーション / スポーツ — NS2版POOL ROOM BILLIARD。
-bestFor: シミュレーション / スポーツのテンポを携帯機で遊びたい人。
+whatItIs: シミュレーション, スポーツ：日課、アップグレード循環、長期目標。
+bestFor: 反復作業を重視する低圧プランナー。
 avoidIf: シミュレーション / スポーツの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 70点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

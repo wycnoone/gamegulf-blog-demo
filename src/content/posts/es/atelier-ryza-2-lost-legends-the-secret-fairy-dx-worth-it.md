@@ -28,8 +28,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Atelier Ryza 2: Lost Legends & the Secret Fairy DX: La síntesis de Ryza y las ruinas vuelven"
-whatItIs: "rol — Atelier Ryza 2: Lost Legends & the Secret Fairy DX en NS2"
-bestFor: Jugadores que quieren rol en formato portátil
+whatItIs: Síntesis de Ryza, notas de ruinas, alquimia y combates de grupo.
+bestFor: Planificadores de progreso que valoran identidad de build.
 avoidIf: Evítalo si rol o ese ritmo no te llama.
 consensusPraise: La síntesis de Ryza y las ruinas vuelven central el es el gancho más claro.
 mainFriction: Cansancio del género o promociones desfasadas por región

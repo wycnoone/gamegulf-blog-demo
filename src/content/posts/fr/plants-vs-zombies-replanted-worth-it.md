@@ -28,8 +28,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: "Plants vs. Zombies: Replanted: Lignes de pelouse, noix-murs et nostalgie défendent tout"
-whatItIs: "stratégie — Plants vs. Zombies: Replanted sur Nintendo Switch"
-bestFor: Joueurs qui veulent du stratégie au format portable
+whatItIs: Lignes de pelouse, soleils, noix-murs, vagues de zombies et plantes fixes.
+bestFor: Joueurs tactiques qui préfèrent la réflexion posée.
 avoidIf: À éviter si stratégie ou ce rythme vous laisse froid.
 consensusPraise: Lignes de pelouse, noix-murs et nostalgie défendent reste le vrai point
 mainFriction: Fatigue du genre ou promos décalées selon les régions

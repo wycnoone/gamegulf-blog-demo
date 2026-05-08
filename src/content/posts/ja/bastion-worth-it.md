@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: Bastion — アクション / アドベンチャー / RPG。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アドベンチャー / RPG — Nintendo Switch版Bastion。
-bestFor: アクション / アドベンチャー / RPGのテンポを携帯機で遊びたい人。
+whatItIs: アクション, アドベンチャー, RPG：育成、ビルド選択、クエスト進行。
+bestFor: 数値の取捨選択を重視するビルド重視のRPG好き。
 avoidIf: アクション / アドベンチャー / RPGの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 90点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

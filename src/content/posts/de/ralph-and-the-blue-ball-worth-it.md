@@ -26,8 +26,8 @@ confidence: high
 actionBucket: buy_now
 featuredPriority: 2
 listingTakeaway: "Ralph and the Blue Ball: Blaue-Ball-Rätsel und kleine Sprungfehler prägen es; prüfe Japan ¥300"
-whatItIs: Puzzle und Plattformer — Ralph and the Blue Ball auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Blaue-Ball-Rätsel und kleine
+whatItIs: 'Puzzle, Plattformer: Rätselregeln, Hinweisfluss und Lösungsfeedback.'
+bestFor: Hinweis-Leser, die verdiente Lösungen schätzen.
 avoidIf: Auslassen, wenn dich der Mix Puzzle und Plattformer nicht reizt
 consensusPraise: Das Kritikerband (70 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte

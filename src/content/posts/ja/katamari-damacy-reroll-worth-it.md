@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: wait
 featuredPriority: 2
 listingTakeaway: 塊魂アンコール — アクション / アーケード。2026年4月の地域差はGameGulfで先に確認。
-whatItIs: アクション / アーケード — Nintendo Switch版塊魂アンコール。
-bestFor: アクション / アーケードのテンポを携帯機で遊びたい人。
+whatItIs: アクション, アーケード：戦闘テンポ、移動感、遭遇設計。
+bestFor: パーティー計画を重視する長期育成派。
 avoidIf: アクション / アーケードの気分でないならセールでも無理しない。
 consensusPraise: 評価軸は遊びの完成度。Metacritic 87点台が品質の目安。
 mainFriction: 地域セールのズレ。全アカウントで同じ割引とは限らない。

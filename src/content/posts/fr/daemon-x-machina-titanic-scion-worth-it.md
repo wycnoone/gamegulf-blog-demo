@@ -20,7 +20,7 @@ actionBucket: wait
 featuredPriority: 1
 listingTakeaway: Sandbox méca très audacieux (79 MC), mais l’instantané prix n’efface pas ses moyennes promo
 whatItIs: "Action TPS arsenals : cartes ouvertes, combos aériens, loot collaboratif jusqu’à trois"
-bestFor: Pour qui accroche à Arsenal et missiles vendent.
+bestFor: Acheteurs anti-FOMO qui préfèrent la prudence prix.
 avoidIf: Vous craignez la densité HUD ou menus d’optimisation interminables
 consensusPraise: Le vol d’armures fonctionne quand tout le monde endure la même courbe technique
 mainFriction: Avis Steam plutôt mixtes ; les menus équipement retardent souvent la satisfaction

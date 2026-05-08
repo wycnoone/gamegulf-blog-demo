@@ -26,8 +26,8 @@ confidence: medium
 actionBucket: set_alert
 featuredPriority: 2
 listingTakeaway: "Assault Android Cactus+: Akkudruck und Twin-Stick-Massen machen Koop hektisch"
-whatItIs: Action, Arcade und Shooter — Assault Android Cactus+ auf Nintendo Switch
-bestFor: Für Spieler mit Lust auf Akkudruck und Twin-Stick-Massen
+whatItIs: 'Action, Arcade, Shooter: Zieldruck, Score-Routen und kurze Level-Loops.'
+bestFor: Zielgefühl-Spieler, die Ausführungstests schätzen.
 avoidIf: Auslassen, wenn dich der Mix Action, Arcade und Shooter nicht reizt
 consensusPraise: Das Kritikerband (86 Metacritic) passt zu Stärken, die Spieler oft nennen
 mainFriction: Genre-Müdigkeit oder regional versetzte Rabatte
